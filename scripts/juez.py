@@ -95,7 +95,7 @@ def main():
             r, modelo = C.llamar(p, C.TRADUCTOR)
             x = next((y for y in r.get("notas", []) if y.get("id") == n["id"]), None)
             if x and x.get("texto"):
-                tr[n["id"]].update(text_es=x["texto"].strip(), lemas_es=x.get("lemas") or tr[n["id"]].get("lemas_es", []),
+                tr[n["id"]].update(text_es=T.limpiar(x["texto"]), lemas_es=x.get("lemas") or tr[n["id"]].get("lemas_es", []),
                                    modelo=modelo, corregido_por_juez=cache[n["id"]]["motivo"])
         if malos:
             for i, (ok, motivo, modelo) in juzgar([par(n) for n in malos]).items():

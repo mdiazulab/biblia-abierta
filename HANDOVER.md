@@ -38,10 +38,22 @@ Cadena completa construida y probada sin red (modelo falso, `make test`), 02-10-
 - Workflow `.github/workflows/piloto.yml`: se dispara al cambiar `ordenes/piloto.txt` («JHN 1»).
   Necesita los secretos DEEPSEEK_API_KEY y GEMINI_API_KEY en este repositorio.
 
+Capítulo 1 corrido en CI (espejo en periodico_kindle, rama claude/repo-connection-check-rkrl75, porque los
+secretos están allí), 02-10-2026: 182 notas, 31 segundas traducciones; juez: sensibilidad 18/19, 10 marcadas,
+9 corregidas por el corrector y 1 resuelta por Claude (`revision/adjudicaciones_JHN.json`, Cirilo 1,51
+«one another» -> «unas a otras», con la frase inglesa como evidencia); verificación 182/182; epubcheck 0/0/0.
+Clases encontradas y corregidas en toda la cadena (cada una con prueba en `tests/test_cadena.py`):
+- llamadas de nota de la edición inglesa pegadas a palabras («life1»): se quitan antes y después de traducir;
+- nombres/abreviaturas inglesas de libros en las citas («John 5:26», «Exod. 7:1», «1 Ped.»): alias en
+  `biblia.py` + control «cita sin forma única» en `verificar.py`;
+- tildes obsoletas que el mapa no cubría: demostrativos («éste», «aquél»), «sólo» y pretérito + un enclítico
+  («Respondióles» -> «Respondioles»): 603 cambios en Juan (antes 484);
+- razón de longitud solo para textos > 300 caracteres (falso positivo en frases cortas);
+- atribución de la Catena sin repetir autor y obra.
+
 Pendiente:
-1. Correr el capítulo 1 en CI, revisar resultado (cola del juez, verificación, EPUB) y corregir clases.
-2. Correr «JHN todos».
-3. Capa «Reforma» (Calvino, Wesley) desde fuentes de dominio público en CI.
+1. «JHN todos» (orden en el espejo); revisar cola del juez, verificación y EPUB; copiar aquí.
+2. Capa «Reforma» (Calvino, Wesley) desde fuentes de dominio público en CI.
 
 Decisiones del usuario: acentos modernizados (a); repo propio `biblia-abierta` (b); misma licencia
 CC BY-SA 4.0, gratuito, sin venta; objetivo: patrística y referencias de alto nivel.

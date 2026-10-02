@@ -50,6 +50,18 @@ def unidades(libro="JHN"):
     return [n for n in todas if n["id"] in sel]
 
 
+_ADJ = {}
+
+
+def adjudicacion(i, libro="JHN"):
+    """Correcciones decididas por Claude leyendo el original (revision/adjudicaciones_<LIBRO>.json):
+    {id: {"text_es": ..., "motivo": ..., "evidencia": <frase inglesa>}}. Pisan la traducción del modelo."""
+    if libro not in _ADJ:
+        _ADJ[libro] = cargar(f"revision/adjudicaciones_{libro}.json", {})
+    a = _ADJ[libro].get(i)
+    return {"text_es": a["text_es"]} if a else {}
+
+
 def es_sensible(n):
     a, b = n["ref"], n.get("ref_fin", n["ref"])
     return any(cap(a) <= cap(s) <= cap(b) and (cap(s), ver(s)) >= (cap(a), ver(a)) and (cap(s), ver(s)) <= (cap(b), ver(b))

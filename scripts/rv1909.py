@@ -22,12 +22,28 @@ ACENTOS = {"fué": "fue", "Fué": "Fue", "fuí": "fui", "Fuí": "Fui", "dió": "
            "Vió": "Vio", "ví": "vi", "Ví": "Vi", "fuí": "fui", "dí": "di", "Dí": "Di", "fé": "fe", "tí": "ti",
            "á": "a", "Á": "A", "ó": "o", "é": "e", "piés": "pies", "ríe": "ríe"}
 PALABRA = re.compile(r"\b\w+\b", re.UNICODE)
+# demostrativos y «sólo» sin tilde (RAE 2010); pretérito + UN enclítico sigue la regla general
+# («Respondióles» -> «Respondioles», «fuése» -> «fuese», «dínos» -> «dinos»; «dióselo» conserva la tilde)
+DEMOSTRATIVOS = {w: w.translate(str.maketrans("éó", "eo")) for w in
+                 "éste ésta éstos éstas ése ésa ésos ésas aquél aquélla aquéllos aquéllas sólo".split()}
+ENCLITICO = re.compile(r"^(\w*?[^\Wáéíóú]\w*?)(ó|é)(le|les|lo|los|la|las|se|me|te|nos|os)$|^([DdVv]|[Ff]u)(í)(le|les|lo|los|la|las|se|me|te|nos|os)$")
+
+
+def _sin_tilde(w):
+    if w in DEMOSTRATIVOS or w[:1].lower() + w[1:] in DEMOSTRATIVOS:
+        n = DEMOSTRATIVOS[w[:1].lower() + w[1:]]
+        return n[:1].upper() + n[1:] if w[:1].isupper() else n
+    m = ENCLITICO.match(w)
+    if m:
+        g = [x for x in m.groups() if x is not None]
+        return g[0] + g[1].translate(str.maketrans("óéí", "oei")) + g[2]
+    return w
 
 
 def modernizar(t, cuenta):
     def rep(m):
         w = m.group(0)
-        n = ACENTOS.get(w, w)
+        n = ACENTOS.get(w) or _sin_tilde(w)
         if n != w:
             cuenta[f"{w}->{n}"] += 1
         return n

@@ -42,6 +42,21 @@ class Bateria(unittest.TestCase):
 
 
 class Compuerta(unittest.TestCase):
+    # clases halladas en la corrida del capítulo 1 (02-10-2026)
+    def test_libros_ingleses_a_forma_unica(self):
+        self.assertEqual(B.normalizar("(John 5:26) (Exod. 7:1) (1 Ped. 2:9)"),
+                         "(⸢Juan⸣ 5:26) (⸢Éxodo⸣ 7:1) (⸢I Pedro⸣ 2:9)")
+
+    def test_llamada_de_nota_pegada(self):
+        import traducir as T
+        self.assertEqual(T.limpiar("en el Señor1. (Ef. 5:8) y vida1, c. 15"), "en el Señor. (Ef. 5:8) y vida, c. 15")
+
+    def test_tildes_obsoletas(self):
+        import rv1909 as R
+        par = {"éste": "este", "Aquél": "Aquel", "Respondióles": "Respondioles", "fuése": "fuese", "dínos": "dinos",
+               "dióselo": "dióselo", "Judíos": "Judíos", "ríos": "ríos", "José": "José"}
+        self.assertEqual({w: R._sin_tilde(w) for w in par}, par)
+
     def test_wilson(self):
         self.assertLess(J.wilson_sup(0, 200), 0.02)
         self.assertGreater(J.wilson_sup(5, 100), 0.03)

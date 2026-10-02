@@ -45,6 +45,19 @@ for nombre, (_, abrev) in LIBROS.items():
     for a in abrev.split():
         ALIAS[a] = nombre
 ALIAS["Cantar"] = "Cantar de los Cantares"
+# nombres y abreviaturas inglesas que los modelos dejan sin traducir («(John 5:26)», «Exod. 7:1»)
+ALIAS.update({"Genesis": "Génesis", "Exodus": "Éxodo", "Exod": "Éxodo", "Leviticus": "Levítico", "Numbers": "Números",
+              "Deuteronomy": "Deuteronomio", "Joshua": "Josué", "Judges": "Jueces", "Ruth": "Rut", "Kings": "Reyes",
+              "Chronicles": "Crónicas", "Nehemiah": "Nehemías", "Esther": "Ester", "Psalms": "Salmos", "Psalm": "Salmos",
+              "Ps": "Salmos", "Proverbs": "Proverbios", "Ecclesiastes": "Eclesiastés", "Wisdom": "Sabiduría",
+              "Isaiah": "Isaías", "Isa": "Isaías", "Jeremiah": "Jeremías", "Lamentations": "Lamentaciones",
+              "Ezekiel": "Ezequiel", "Ezek": "Ezequiel", "Hosea": "Oseas", "Micah": "Miqueas", "Zechariah": "Zacarías",
+              "Malachi": "Malaquías", "Matthew": "Mateo", "Matt": "Mateo", "Mark": "Marcos", "Mk": "Marcos", "Luke": "Lucas",
+              "Lk": "Lucas", "John": "Juan", "Acts": "Hechos", "Romans": "Romanos", "Corinthians": "Corintios",
+              "Galatians": "Gálatas", "Ephesians": "Efesios", "Eph": "Efesios", "Philippians": "Filipenses", "Phil": "Filipenses",
+              "Colossians": "Colosenses", "Thessalonians": "Tesalonicenses", "Thess": "Tesalonicenses", "Timothy": "Timoteo",
+              "Titus": "Tito", "Philemon": "Filemón", "Hebrews": "Hebreos", "James": "Santiago", "Jas": "Santiago",
+              "Peter": "Pedro", "Pet": "Pedro", "Ped": "Pedro", "Jude": "Judas", "Revelation": "Apocalipsis", "Rev": "Apocalipsis"})
 # abreviaturas inglesas que quedaron en la traducción de Staniloae («Lk 10.13», «Jas 3.17»)
 ALIAS.update({"Gen": "Génesis", "Exod": "Éxodo", "Lev": "Levítico", "Num": "Números", "Josh": "Josué", "Judg": "Jueces",
               "Kgs": "Reyes", "Chr": "Crónicas", "Esth": "Ester", "Ps": "Salmos", "Pss": "Salmos", "Eccl": "Eclesiastés",

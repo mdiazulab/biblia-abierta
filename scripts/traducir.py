@@ -24,7 +24,16 @@ def texto_a_traducir(n):
     p = n["source"].get("passage")
     if n["layer"] == "padres" and p and t.lstrip().startswith(f"({p})"):
         t = t.lstrip()[len(p) + 2:].lstrip()          # el locus va en la atribución, no en el cuerpo
-    return t
+    # llamadas de nota de la edición inglesa pegadas a la palabra («In Him was life1.», «the preposition by1»)
+    return re.sub(NOTA_PEGADA, "", t)
+
+
+# llamada de nota pegada a una palabra; también se limpia en la salida por si el modelo la copia
+NOTA_PEGADA = r"(?<=[a-záéíóúñ])\d{1,2}(?=[\s.,;:?!)»]|$)"
+
+
+def limpiar(es):
+    return re.sub(NOTA_PEGADA, "", es.strip())
 
 
 def prompt(lote):
@@ -81,11 +90,11 @@ def main():
             for salida, modelo in ex.map(lambda l: traducir_lote(l, C.TRADUCTOR), list(lotes(pend))):
                 for i, x in salida.items():
                     n = next(u for u in pend if u["id"] == i)
-                    hecho[i] = {"text_es": x["texto"].strip(), "lemas_es": x.get("lemas") or [], "modelo": modelo,
+                    hecho[i] = {"text_es": limpiar(x["texto"]), "lemas_es": x.get("lemas") or [], "modelo": modelo,
                                 "huella": C.huella(n["text_src"])}
             for salida, modelo in ex.map(lambda l: traducir_lote(l, C.CONTROL), list(lotes(pend2))):
                 for i, x in salida.items():
-                    hecho.setdefault(i, {}).update(text_es_2=x["texto"].strip(), modelo_2=modelo)
+                    hecho.setdefault(i, {}).update(text_es_2=limpiar(x["texto"]), modelo_2=modelo)
         C.guardar(ruta, hecho)
         sin = [n["id"] for n in ns if n["id"] not in hecho or not hecho[n["id"]].get("text_es")]
         print(f"cap.{c}: {len(ns)} notas; traducidas ahora {len(pend)}; segunda traducción {len(pend2)}; sin traducir {len(sin)}")

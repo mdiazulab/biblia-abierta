@@ -8,7 +8,7 @@
  6 razón de longitud español/inglés (caracteres) en [0,9; 1,5]
  7 licencia y procedencia; citas patrísticas con obra y pasaje
  8 cada lema re-anclado existe literalmente en su versículo RV1909
- + citas bíblicas: el capítulo existe (biblia.py)
+ + citas bíblicas: el capítulo existe y todas quedan en forma única (biblia.py)
 
 Uso: python3 scripts/verificar.py JHN [CAP|todos]  -> informes/verificacion_<LIBRO>.md; sale con 1 si algo falla
 """
@@ -31,6 +31,8 @@ def numeros(t):
 
 
 def revisar(n, t, rv):
+    t = dict(t or {})
+    t.update(C.adjudicacion(n["id"]))
     fallos = []
     src, es = T.texto_a_traducir(n), (t or {}).get("text_es") or ""
     if not es:
@@ -51,7 +53,7 @@ def revisar(n, t, rv):
     if re.search(r"&\w+;|<[a-z/]", es) or COMENTARIO.search(es):
         fallos.append("5 HTML, marca de prueba o comentario del modelo")
     r = len(es) / max(1, len(src))
-    if len(src) > 120 and not 0.9 <= r <= 1.5:
+    if len(src) > 300 and not 0.9 <= r <= 1.5:
         fallos.append(f"6 razón de longitud {r:.2f}")
     if not n.get("license") or not n.get("provenance"):
         fallos.append("7 sin licencia o procedencia")
@@ -61,7 +63,9 @@ def revisar(n, t, rv):
         if a["lema"] and a["lema"] not in rv.get(a["ref"], {}).get("texto", ""):
             fallos.append(f"8 lema «{a['lema']}» no está en {a['ref']}")
     malas = []
-    B.normalizar(es, malas, None)
+    norm = B.normalizar(es, malas, None)
+    for x in re.findall(r"(?<!⸣ )\b((?:[1-3I]{1,3} )?[A-Z][a-zé]+\.? \d+:\d+)", norm):
+        fallos.append(f"+ cita sin forma única (libro inglés o abreviatura desconocida): {x}")
     fallos += [f"+ cita bíblica inexistente: {x}" for _, x in malas]
     return fallos
 

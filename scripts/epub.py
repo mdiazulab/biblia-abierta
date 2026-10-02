@@ -85,13 +85,19 @@ def atribucion(n):
         donde = (f"<em>{x(s['passage'])}</em>, " if s.get("passage") and s["passage"] != s["work"] else "") + "en la <em>Catena Aurea</em> de santo Tomás de Aquino"
     else:
         donde = f"<em>{x(obra_es(s['work']))}</em>"
-    return (f'<span class="autor">{x(autor)}</span> <span class="trad">({trad})</span>', f'<p class="fuente">{donde}. {x(s.get("edition") or "")}</p>')
+    ed = s.get("edition") or ""
+    if s["work"].startswith("Catena"):            # la edición repite autor y obra: queda solo «trad. …»
+        ed = re.sub(r"^.*?Catena Aurea,?\s*", "", ed)
+        donde, ed = (f"{donde}, {x(ed)}", "") if ed else (donde, "")
+    return (f'<span class="autor">{x(autor)}</span> <span class="trad">({trad})</span>',
+            f'<p class="fuente">{donde}.' + (f" {x(ed)}" if ed else "") + "</p>")
 
 
 def capitulo_xhtml(libro, c, rv, ns, tr):
     por = {}
     for n in ns:
-        t = tr.get(n["id"], {})
+        t = dict(tr.get(n["id"], {}))
+        t.update(C.adjudicacion(n["id"], libro))
         if not t.get("text_es"):
             continue
         ancla = n["ref"]
