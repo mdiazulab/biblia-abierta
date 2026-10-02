@@ -1,0 +1,64 @@
+name: Piloto (traducción, juez, verificación, EPUB)
+
+# Se dispara al cambiar ordenes/piloto.txt (una línea: LIBRO CAP|todos, p. ej. «JHN 1») o a mano.
+on:
+  push:
+    branches: [main]
+    paths: ["ordenes/piloto.txt"]
+  workflow_dispatch:
+    inputs:
+      orden:
+        description: "LIBRO CAP|todos"
+        default: "JHN 1"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: piloto
+
+jobs:
+  piloto:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Dependencias
+        run: |
+          pip install -q requests
+          sudo apt-get install -y -qq epubcheck > /dev/null
+      - name: Pruebas (sin red)
+        run: make test
+      - name: Orden
+        id: orden
+        run: |
+          o="${{ github.event.inputs.orden }}"
+          [ -z "$o" ] && o="$(head -1 ordenes/piloto.txt)"
+          echo "libro=$(echo $o | cut -d' ' -f1)" >> "$GITHUB_OUTPUT"
+          echo "cap=$(echo $o | cut -d' ' -f2)" >> "$GITHUB_OUTPUT"
+      - name: Traducción, juez, anclaje, verificación, EPUB
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          cd scripts
+          L=${{ steps.orden.outputs.libro }}; C=${{ steps.orden.outputs.cap }}
+          python3 seleccion.py $L
+          python3 traducir.py $L $C
+          python3 juez.py $L $C | tee -a ../informes/juez_$L.md
+          python3 anclar.py $L $C
+          python3 verificar.py $L $C || echo "VERIFICACION_FALLA" >> ../informes/verificacion_$L.md
+          python3 epub.py $L $([ "$C" = "todos" ] && echo todos || echo $C)
+          epubcheck ../epub/*.epub > ../informes/epubcheck.txt 2>&1 || true
+          tail -3 ../informes/epubcheck.txt
+      - name: Guardar resultados
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add traducido informes epub normalizado/*/seleccion.json
+          git diff --cached --quiet || git commit -m "piloto: ${{ steps.orden.outputs.libro }} ${{ steps.orden.outputs.cap }} (traducción, juez, verificación, EPUB)"
+          git pull --rebase -q origin main && git push -q origin main

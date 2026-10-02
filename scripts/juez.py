@@ -1,0 +1,116 @@
+#!/usr/bin/env python3
+"""Paso 9b: juez de otra familia (Gemini) sobre TODAS las notas del capítulo + compuerta estadística.
+
+Misma lógica que periodico_kindle/calidad (lecciones de Staniloae), en versión compacta:
+- Calibración por corrida: se siembran errores reales (oración omitida, número cambiado, negación)
+  en traducciones del capítulo; el juez debe marcarlos. Sensibilidad = detectados / sembrados.
+- Cada nota marcada NO pasa por el corrector (DeepSeek, con el motivo del juez) y se vuelve a juzgar.
+- Compuerta: extremo superior de Wilson (95 %) de los errores que quedan, ajustado por la
+  sensibilidad, debe ser < 3 %. Lo que queda va a informes/cola_<LIBRO>_<CC>.json (lo resuelve Claude).
+- Caché de veredictos por (id, huella del español): una nota idéntica no se vuelve a juzgar.
+
+Uso: python3 scripts/juez.py JHN [CAP|todos]
+"""
+import json
+import math
+import random
+import re
+import sys
+
+import comun as C
+import traducir as T
+
+UMBRAL = 0.03
+LOTE = 12
+
+
+def wilson_sup(k, n, z=1.96):
+    if n == 0:
+        return 1.0
+    p = k / n
+    return (p + z * z / (2 * n) + z * math.sqrt(p * (1 - p) / n + z * z / (4 * n * n))) / (1 + z * z / n)
+
+
+def prompt(pares):
+    entrada = [{"id": i, "ingles": en, "espanol": es} for i, en, es in pares]
+    return ("Eres revisor de traducciones de comentarios bíblicos y patrísticos (inglés -> español). Para cada par, "
+            "responde veredicto SI si el español es fiel y completo (sin omisiones, adiciones ni cambios de sentido, "
+            "números o referencias), o NO con un motivo breve y concreto. No juzgues el estilo. Ten en cuenta que "
+            "la edición usa el vocabulario de la Reina-Valera 1909 («el Verbo», «Consolador»). "
+            "Devuelve SOLO {\"resultados\": [{\"id\": ..., \"veredicto\": \"SI\"|\"NO\", \"motivo\": ...}]}.\n"
+            f"<<<JSON{json.dumps(entrada, ensure_ascii=False)}JSON>>>")
+
+
+def juzgar(pares):
+    out = {}
+    for k in range(0, len(pares), LOTE):
+        r, modelo = C.llamar(prompt(pares[k:k + LOTE]), C.CONTROL, temperatura=0)
+        for x in r.get("resultados", []):
+            out[x["id"]] = (str(x.get("veredicto", "")).upper().startswith("S"), x.get("motivo", ""), modelo)
+    return out
+
+
+def sembrar(es, rnd):
+    oraciones = re.split(r"(?<=[.;!?])\s+", es)
+    if len(oraciones) > 2 and rnd.random() < 0.4:
+        return " ".join(oraciones[:-1]), "omisión"
+    nums = re.findall(r"\b\d+\b", es)
+    if nums and rnd.random() < 0.6:
+        n = rnd.choice(nums)
+        return re.sub(rf"\b{n}\b", str(int(n) + 3), es, count=1), "número"
+    m = re.search(r"\b(es|era|fue|está|tiene)\b", es)
+    if m:
+        return es[:m.start()] + "no " + es[m.start():], "negación"
+    return None, None
+
+
+def main():
+    libro = sys.argv[1] if len(sys.argv) > 1 else "JHN"
+    pedido = sys.argv[2] if len(sys.argv) > 2 else "1"
+    us = C.unidades(libro)
+    caps = sorted({C.cap(n["ref"]) for n in us}) if pedido == "todos" else [int(pedido)]
+    rnd = random.Random(17)
+    for c in caps:
+        ruta = f"traducido/{libro}/{c:02d}.json"
+        tr = C.cargar(ruta, {})
+        cache = C.cargar(f"traducido/{libro}/juez_{c:02d}.json", {})
+        ns = [n for n in us if C.cap(n["ref"]) == c and tr.get(n["id"], {}).get("text_es")]
+        par = lambda n: (n["id"], T.texto_a_traducir(n), tr[n["id"]]["text_es"])
+        # calibración
+        muestra = rnd.sample(ns, min(20, len(ns)))
+        sembrados = [(f"mut:{n['id']}", T.texto_a_traducir(n), m) for n in muestra
+                     for m, _ in [sembrar(tr[n["id"]]["text_es"], rnd)] if m]
+        v = juzgar(sembrados)
+        detect = sum(1 for i, *_ in sembrados if i in v and not v[i][0])
+        sens = detect / len(sembrados) if sembrados else 0
+        # censo
+        pend = [par(n) for n in ns if cache.get(n["id"], {}).get("huella") != C.huella(tr[n["id"]]["text_es"])]
+        for i, (ok, motivo, modelo) in juzgar(pend).items():
+            cache[i] = {"ok": ok, "motivo": motivo, "modelo": modelo, "huella": C.huella(tr[i]["text_es"])}
+        # corrección de lo marcado
+        malos = [n for n in ns if not cache.get(n["id"], {}).get("ok", True)]
+        for n in malos:
+            p = T.prompt([n]).replace("Devuelve SOLO", f"Una revisión señaló este problema en una traducción anterior: "
+                                                       f"«{cache[n['id']]['motivo']}». Evítalo. Devuelve SOLO")
+            r, modelo = C.llamar(p, C.TRADUCTOR)
+            x = next((y for y in r.get("notas", []) if y.get("id") == n["id"]), None)
+            if x and x.get("texto"):
+                tr[n["id"]].update(text_es=x["texto"].strip(), lemas_es=x.get("lemas") or tr[n["id"]].get("lemas_es", []),
+                                   modelo=modelo, corregido_por_juez=cache[n["id"]]["motivo"])
+        if malos:
+            for i, (ok, motivo, modelo) in juzgar([par(n) for n in malos]).items():
+                cache[i] = {"ok": ok, "motivo": motivo, "modelo": modelo, "huella": C.huella(tr[i]["text_es"])}
+        quedan = [n["id"] for n in ns if not cache.get(n["id"], {}).get("ok", True)]
+        sup = wilson_sup(len(quedan), len(ns)) / max(sens, 0.01)
+        C.guardar(ruta, tr)
+        C.guardar(f"traducido/{libro}/juez_{c:02d}.json", cache)
+        C.guardar(f"informes/cola_{libro}_{c:02d}.json",
+                  [{"id": i, "motivo": cache[i]["motivo"], "en": next(par(n)[1] for n in ns if n["id"] == i),
+                    "es": tr[i]["text_es"]} for i in quedan])
+        estado = "APROBADO" if sup < UMBRAL and sens >= 0.8 else "REVISAR"
+        print(f"cap.{c}: sensibilidad {detect}/{len(sembrados)} = {sens:.0%}; marcadas {len(malos)}, corregidas "
+              f"{len(malos) - len(quedan)}, quedan {len(quedan)}; extremo superior ajustado {sup:.1%} -> {estado}")
+
+
+if __name__ == "__main__":
+    main()

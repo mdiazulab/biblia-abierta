@@ -24,16 +24,24 @@ Hecho (paso 1-4 del piloto de Juan):
   - La capa «Oriente» queda cubierta en dominio público (Teofilacto vía Catena, Crisóstomo, Cirilo)
     aunque la Tolkovaya Bibliya no pase la verificación de derechos.
 
-Pendiente (siguiente sesión):
-1. Selección por versículo (tope de palabras por capa para buena lectura): Catena completa
-   (1.578 citas, 176 mil palabras, 773 versículos) + Crisóstomo/Agustín/Cirilo donde la Catena no
-   cubre o en versículos sensibles.
-2. Capa «Reforma» (Calvino, Wesley): dominio público vía CrossWire SWORD / HelloAO en CI
-   (desde este entorno solo se alcanza GitHub; open-christian-data es CC BY-NC y NO se usa).
-3. Traducción (DeepSeek, glosario en el prompt) + juez doble calibrado + compuerta Wilson (< 3 %),
-   reutilizando `periodico_kindle/calidad/{juez,mutaciones,estadistica}.py`; corre en GitHub Actions.
-4. Re-anclaje de lemas a la RV1909 (alineamiento automático primero; Claude solo el residuo).
-5. EPUB (reutilizar `pdf-a-epub/motor/epub.py`: notas emergentes, índice, control de presentación).
+Cadena completa construida y probada sin red (modelo falso, `make test`), 02-10-2026:
+- `seleccion.py`: 2.526 notas, 262.507 palabras en inglés, 879/879 versículos con nota.
+  Aquifer completo + Catena Aurea completa + complemento por versículo (Crisóstomo/Cirilo para
+  Oriente donde la Catena no trae voz oriental; Agustín donde la Catena no llega; ambos en
+  versículos sensibles), máx. 350 palabras por texto de complemento.
+  Oriente 98.838 / Occidente 138.085 / contexto 25.584 palabras.
+- `traducir.py` (DeepSeek; Gemini como 2.ª traducción en versículos sensibles), `juez.py`
+  (Gemini sobre todas las notas, errores sembrados para medir sensibilidad, corrector con el
+  motivo del juez, compuerta Wilson < 3 %, cola para Claude), `anclar.py` (lemas a la RV1909,
+  determinista), `verificar.py` (batería 1-8 + citas bíblicas), `epub.py` (notas emergentes C/P
+  por versículo, fuentes, licencias; epubcheck 0/0/0).
+- Workflow `.github/workflows/piloto.yml`: se dispara al cambiar `ordenes/piloto.txt` («JHN 1»).
+  Necesita los secretos DEEPSEEK_API_KEY y GEMINI_API_KEY en este repositorio.
+
+Pendiente:
+1. Correr el capítulo 1 en CI, revisar resultado (cola del juez, verificación, EPUB) y corregir clases.
+2. Correr «JHN todos».
+3. Capa «Reforma» (Calvino, Wesley) desde fuentes de dominio público en CI.
 
 Decisiones del usuario: acentos modernizados (a); repo propio `biblia-abierta` (b); misma licencia
 CC BY-SA 4.0, gratuito, sin venta; objetivo: patrística y referencias de alto nivel.
