@@ -1,0 +1,771 @@
+{
+ "aquifer:19109": {
+  "text_es": "Juan conecta 2:25 y 3:1 usando la misma palabra griega (⸢anthrōpos⸣) para referirse a toda la humanidad y luego a un hombre específico (Nicodemo). Nicodemo tenía un profundo conocimiento religioso. También había visto lo que Jesús hacía en Jerusalén (2:13–24). Pero aún no había experimentado el nuevo nacimiento espiritual (una nueva vida que viene de Dios).⸢Un fariseo⸣: Véase la nota de estudio sobre 1:24. Los fariseos eran un grupo judío que se preocupaba por obedecer la ley de Moisés y sus tradiciones religiosas.\n\nNicodemo pertenecía a este grupo. Era parte de los líderes religiosos. Era respetado por su conocimiento de la ley judía. Probablemente se enorgullecía de su cuidadosa obediencia y pureza moral.",
+  "lemas_es": [
+   "Un fariseo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e9b9bb595483",
+  "lemas_rv1909": [
+   {
+    "lema": "Fariseos",
+    "ref": "JHN.3.1"
+   }
+  ]
+ },
+ "hcf:Augustine of Hippo/John 3_1-2#0": {
+  "text_es": "Había dicho antes que, cuando estaba en Jerusalén, muchos creyeron en su Nombre, al ver las señales que hacía. De este número era Nicodemo, de quien se nos dice: Había un hombre de los fariseos, Nicodemo, un gobernante de los judíos.\n\n(Tr. xi. c. 3, 4) Nicodemo era uno de los que creían, pero aún no habían nacido de nuevo. Por eso vino a Jesús de noche. Mientras que a los que han nacido del agua y del Espíritu Santo, el Apóstol les dice: Vosotros erais en otro tiempo tinieblas, pero ahora sois luz en el Señor. (Eph. 5:8)\n\n(Tr. xi. c. 3) Cuál era el fundamento de su creencia, se ve claramente por lo que sigue inmediatamente: Porque nadie puede hacer estas señales que tú haces, si Dios no está con él. Nicodemo era, pues, uno de los muchos que creyeron en su Nombre, cuando vieron las señales que hacía.\n\n(Tr. xi. c. 4) Aquellos, pues, a quienes Jesús se confía, son los que han nacido de nuevo, los que no vienen de noche a Jesús, como lo hizo Nicodemo. Tales personas hacen inmediatamente profesión.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6b7e3160e824"
+ },
+ "hcf:Bede/John 3_1-2#0": {
+  "text_es": "Se da su rango: Un gobernante de los judíos; y luego lo que hizo: Este hombre vino a Jesús de noche: esperando, es decir, mediante una entrevista tan secreta, aprender más de los misterios de la fe; las recientes señales públicas le habían dado un conocimiento elemental de ellos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ac29e5c0fb4b"
+ },
+ "hcf:John Chrysostom/John 3_1-2#0": {
+  "text_es": "Este hombre aparece también en medio del Evangelio, defendiendo a Cristo; pues dice: «Nuestra ley no juzga a nadie antes de oírlo»; y los judíos le respondieron con ira: «Busca y mira, porque de Galilea no surge profeta». De nuevo, después de la crucifixión, prodigó gran cuidado al sepultar el cuerpo del Señor: «Vino también», dice el Evangelista, «Nicodemo, el que había venido al Señor de noche, y trajo una mezcla de mirra y áloes, como cien libras». E incluso ahora estaba dispuesto hacia Cristo, pero no como debía, ni con sentimientos apropiados respecto a Él, pues todavía estaba enredado en la enfermedad judía. Por eso vino de noche, porque temía hacerlo de día. Sin embargo, no por esto lo rechazó ni lo reprendió Dios misericordioso, ni lo privó de su instrucción, sino que incluso con mucha bondad conversó con él y le reveló doctrinas muy elevadas, de manera enigmática ciertamente, pero no obstante se las reveló. Pues era mucho más digno de perdón que aquellos que actuaban así por maldad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "aaf591a544bb"
+ },
+ "aquifer:19116": {
+  "text_es": "⸢de noche⸣: Nicodemo podría haber tenido miedo de que otros lo vieran con Jesús. En el Evangelio de Juan, ⸢noche⸣ a menudo tiene un significado más profundo. Puede representar el mal, el error (creencia equivocada) y la incredulidad (falta de confianza en Dios; véase 9:4; 11:10; 13:30).",
+  "lemas_es": [
+   "de noche"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "14b277eab5e4",
+  "lemas_rv1909": [
+   {
+    "lema": "de noche",
+    "ref": "JHN.3.2"
+   }
+  ]
+ },
+ "hcf:Cyril of Alexandria/John 3_2#1": {
+  "text_es": "En estas palabras supone que puede alcanzar la piedad completa, e imagina que le bastará para su salvación maravillarse meramente de aquellas cosas que llaman a admiración: nada más que esto busca. Llamándolo Maestro venido de Dios y colaborador suyo, todavía no sabe que es Dios por naturaleza, ni entiende el plan de la dispensación con la Carne, sino que aún se acerca a él como a un simple hombre, y tiene de él una concepción muy escasa.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c4b2c2508bfc",
+  "corregido_por_juez": "Tradujo «Teacher from God» como «Maestro de Dios» en lugar de «Maestro venido de Dios», alterando el sentido."
+ },
+ "hcf:Haymo of Halberstadt/John 3_2#0": {
+  "text_es": "O bien, con razón se dice que vino de noche, envuelto, como estaba, en las tinieblas de la ignorancia, y aún no llegado a la luz, es decir, a la creencia de que nuestro Señor era verdaderamente Dios. La noche, en el lenguaje de la Sagrada Escritura, se pone por la ignorancia. Y le dijo: Rabí, sabemos que has venido de Dios como maestro. El hebreo Rabí tiene el significado de Magister en latín. Lo llama, vemos, Maestro, pero no Dios: no insinúa eso; cree que ha sido enviado de Dios, pero no ve que Él es Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d28bb8b3d51e"
+ },
+ "aquifer:19120": {
+  "text_es": "⸢Nacer de nuevo: ⸣Para experimentar el nacimiento espiritual, el poder de Dios debe renovar completamente a una persona. Nicodemo pensó que Jesús hablaba del nacimiento físico. Demostró que los que están en tinieblas, que no tienen el nuevo nacimiento espiritual, no pueden entender a Jesús ni otras «cosas celestiales» (3:12). \n\nJesús a veces usaba el malentendido irónico como una manera de enseñar. Decía algo con un significado espiritual más profundo. El oyente malinterpretaba sus palabras de una manera simple o física. Entonces Jesús explicaba el significado más profundo.\n\nEste método ayudaba a las personas a ver la diferencia entre el pensamiento terrenal y la verdad espiritual.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "95a24f32be35"
+ },
+ "hcf:Augustine of Hippo/John 3_3#1": {
+  "text_es": "Por tanto, observad, hermanos míos, qué respuesta da este hombre que vino a Jesús de noche. Aunque vino a Jesús, sin embargo, porque vino de noche, todavía habla desde las tinieblas de su propia carne. No entiende lo que oye del Señor, no entiende lo que oye de la Luz, «que ilumina a todo hombre que viene a este mundo». Ya el Señor le había dicho: «El que no naciere de nuevo, no puede ver el reino de Dios. Nicodemo le dice: ¿Cómo puede un hombre nacer siendo viejo?» El Espíritu le habla, y él piensa en la carne. Piensa en su propia carne, porque todavía no piensa en la carne de Cristo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "04ffcd5c657b"
+ },
+ "hcf:Cyril of Alexandria/John 3_3#0": {
+  "text_es": "En estas palabras supone que puede alcanzar la piedad completa, e imagina que le bastará para su salvación con solo maravillarse de aquellas cosas que llaman a admiración: no busca otra cosa sino esto. Llamándolo Maestro venido de Dios y colaborador suyo, todavía no sabe que es Dios por naturaleza, ni entiende el plan de la dispensación con la carne, sino que aún se acerca a él como a un simple hombre, y tiene de él una concepción muy superficial.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c4b2c2508bfc",
+  "corregido_por_juez": "Tradujo «Teacher from God» como «Maestro de Dios» en lugar de «Maestro venido de Dios», alterando el sentido."
+ },
+ "hcf:Augustine of Hippo/John 3_4#5": {
+  "text_es": "Es el Espíritu quien habla, mientras él entiende carnalmente; no conocía más nacimiento que uno, el de Adán y Eva; de Dios y de la Iglesia no conoce ninguno. Pero tú entiende el nacimiento del Espíritu como Nicodemo entendía el nacimiento de la carne; pues así como la entrada en el vientre no puede repetirse, tampoco el bautismo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8be670bf99f1"
+ },
+ "hcf:Bede/John 3_4#0": {
+  "text_es": "La pregunta así planteada suena como si un niño pudiera entrar por segunda vez en el vientre de su madre y nacer. Pero Nicodemo, debemos recordar, era un anciano, y tomó su ejemplo de sí mismo; como si dijera: Soy un anciano, y busco mi salvación; ¿cómo puedo entrar de nuevo en el vientre de mi madre y nacer?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1115dbd65da7"
+ },
+ "hcf:John Chrysostom/John 3_4#0": {
+  "text_es": "«Nicodemo dice: ¿Cómo puede un hombre nacer siendo viejo?»\n\n¿Lo llamas «Maestro», dices que ha «venido de Dios», y sin embargo no recibes sus palabras, sino que usas con tu Maestro una manera de hablar que expresa mucha perplejidad? Pues el «Cómo» es la pregunta dudosa de aquellos que no tienen una creencia firme, sino que todavía son de la tierra. Por eso Sara se rió cuando dijo: «¿Cómo?» Y muchos otros, habiendo hecho esta pregunta, han caído de la fe.\n\nY así los herejes continúan en su herejía, porque con frecuencia hacen esta indagación, diciendo algunos de ellos: «¿Cómo fue engendrado?», otros: «¿Cómo se hizo carne?», y sometiendo aquella Esencia Infinita a la debilidad de sus propios razonamientos. Sabiendo esto, debemos evitar esta curiosidad inoportuna, pues los que investigan estas cosas, sin aprender el «Cómo», caerán de la fe recta.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "318e0540e45a"
+ },
+ "aquifer:19121": {
+  "text_es": "Juan el Bautista bautizaba con agua⸢. ⸣Jesús bautiza con el Espíritu Santo (1:33).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "08959fec92f2",
+  "text_es_2": "Juan el Bautista bautizó con agua⸢. ⸣Jesús bautiza con el Espíritu Santo (1:33).",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Augustine of Hippo/John 3_5#1": {
+  "text_es": "El Señor dice a Nicodemo, y le explica: «De cierto, de cierto te digo, que el que no naciere de agua y del Espíritu, no puede entrar en el reino de Dios». Tú, dice Él, entiendes un nacimiento carnal, cuando dices: ¿Puede un hombre volver al vientre de su madre? El nacimiento para el reino de Dios debe ser de agua y del Espíritu. Si uno nace para la herencia temporal de un padre humano, que nazca del vientre de una madre carnal; si uno nace para la herencia eterna de Dios como su Padre, que nazca del vientre de la Iglesia. Un padre, como quien ha de morir, engendra un hijo por medio de su esposa para que lo suceda; pero Dios engendra de la Iglesia hijos, no para que lo sucedan, sino para que permanezcan con Él.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3d9d336f5c5e",
+  "text_es_2": "El Señor le dice a Nicodemo, y le explica: «De cierto, de cierto te digo, que el que no naciere de agua y del Espíritu, no puede entrar en el reino de Dios». Tú, dice Él, entiendes una generación carnal, cuando dices: ¿Puede el hombre volver al vientre de su madre? El nacimiento para el reino de Dios debe ser de agua y del Espíritu. Si uno nace para la herencia temporal de un padre humano, nazca del vientre de una madre carnal; si uno nace para la herencia eterna de Dios como su Padre, nazca del vientre de la Iglesia. Un padre, como quien ha de morir, engendra un hijo de su esposa para que le suceda; pero Dios engendra de la Iglesia hijos, no para que le sucedan, sino para que permanezcan con Él mismo.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Augustine of Hippo/John 3_5#5": {
+  "text_es": "Como si dijera: Entiendes que hablo de un nacimiento carnal; pero un hombre debe nacer de agua y del Espíritu, si ha de entrar en el reino de Dios. Si para obtener la herencia temporal de su padre humano, un hombre debe nacer del vientre de su madre; para obtener la herencia eterna de su Padre celestial, debe nacer del vientre de la Iglesia. Y puesto que el hombre consta de dos partes, cuerpo y alma, el modo incluso de este último nacimiento es doble; el agua, parte visible, limpia el cuerpo; el Espíritu, por su cooperación invisible, cambia el alma invisible.\n\n(lib. i. de Bapt. per. c. 30) Porque no dice: El que no naciere de nuevo de agua y del Espíritu, no tendrá salvación, o vida eterna; sino: no entrará en el reino de Dios; de esto algunos infieren que los niños deben ser bautizados para estar con Cristo en el reino de Dios, donde no estarían si no fueran bautizados; pero que obtendrán la salvación y la vida eterna incluso si mueren sin bautismo, no estando atados por ninguna cadena de pecado. Pero ¿por qué un hombre nace de nuevo, sino para ser cambiado de su viejo a un nuevo estado? ¿O por qué la imagen de Dios no entra en el reino de Dios, si no es a causa del pecado?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c9ef475f1615",
+  "text_es_2": "Como si dijera: Entiendes que hablo de un nacimiento carnal; pero el hombre debe nacer de agua y del Espíritu, si ha de entrar en el reino de Dios. Si para obtener la herencia temporal de su padre humano, el hombre debe nacer del vientre de su madre; para obtener la herencia eterna de su Padre celestial, debe nacer del vientre de la Iglesia. Y puesto que el hombre consta de dos partes, cuerpo y alma, el modo de este último nacimiento es doble; el agua, la parte visible, purificando el cuerpo; el Espíritu, por su cooperación invisible, cambiando el alma invisible.\n\n(lib. i. de Bapt. per. c. 30) Porque Él no dice: El que no naciere de agua y del Espíritu, no tendrá salvación ni vida eterna; sino que no puede entrar en el reino de Dios; de esto, algunos infieren que los niños deben ser bautizados para estar con Cristo en el reino de Dios, donde no estarían si no fuesen bautizados; pero que obtendrán la salvación y la vida eterna aunque mueran sin bautismo, no estando ligados por ninguna cadena de pecado. ¿Pero por qué nace de nuevo un hombre, sino para ser cambiado de su antiguo estado a uno nuevo? ¿O por qué la imagen de Dios no entra en el reino de Dios, si no es por causa del pecado?",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:John Chrysostom/John 3_5#6": {
+  "text_es": "No descreas entonces de estas cosas, porque no las ves; no ves tu alma, y sin embargo crees que tienes un alma, y que es algo diferente además del cuerpo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "906d5d668183",
+  "text_es_2": "No descreas, pues, estas cosas porque no las ves; no ves tu alma y, sin embargo, crees que tienes un alma, y que es algo diferente además del cuerpo.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Haymo of Halberstadt/John 3_6#0": {
+  "text_es": "Pero Nicodemo, incapaz de comprender misterios tan grandes y profundos, es ayudado por nuestro Señor mediante la analogía de nuestro nacimiento carnal, diciendo: Lo que es nacido de la carne, carne es, y lo que es nacido del Espíritu, espíritu es. Pues así como la carne engendra carne, así también el espíritu engendra espíritu.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "123619220e71"
+ },
+ "hcf:John Chrysostom/John 3_6#2": {
+  "text_es": "Lo que se forma en el vientre requiere tiempo, pero no así lo que se hace en el agua, sino que todo se realiza en un solo instante. Aquí nuestra vida es perecedera y toma su origen de la descomposición de otros cuerpos; lo que ha de nacer viene lentamente (pues tal es la naturaleza de los cuerpos, que adquieren la perfección con el tiempo), pero no es así con las cosas espirituales. ¿Y por qué? Porque las cosas hechas son formadas perfectas desde el principio.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1bb44ba82c7c"
+ },
+ "hcf:John Chrysostom/John 3_7-8#0": {
+  "text_es": "Habiendo dicho, pues, Cristo: «El que es nacido del Espíritu, espíritu es», al verlo de nuevo confundido, lleva su discurso a un ejemplo tomado de los sentidos, diciendo: «No te maravilles de que te dije: Os es necesario nacer de nuevo. El viento sopla de donde quiere». Pues al decir «No te maravilles», indica la confusión de su alma y lo conduce a algo más ligero que el cuerpo. Ya lo había apartado de las cosas carnales al decir: «El que es nacido del Espíritu, espíritu es»; pero cuando Nicodemo no entendió qué significaba «el que es nacido del Espíritu, espíritu es», lo lleva luego a otra figura, no conduciéndolo a la densidad de los cuerpos, ni hablando tampoco de cosas puramente incorpóreas (pues, de haberlo oído, no habría podido recibirlo), sino que, habiendo encontrado algo intermedio entre lo que es cuerpo y lo que no lo es, a saber, el movimiento del viento, lo conduce a eso.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5724d8ba0b78"
+ },
+ "aquifer:19122": {
+  "text_es": "En griego, la palabra para ⸢viento⸣ es la misma que para ⸢espíritu⸣ (griego ⸢pneuma⸣). El viento es una imagen apropiada para el Espíritu⸢,⸣ que es enviado del cielo y no puede ser contenido ni controlado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "50eb08233f4a"
+ },
+ "hcf:Alcuin of York/John 3_8#0": {
+  "text_es": "Por tanto, no sabes de dónde viene ni a dónde va; pues, aunque el Espíritu poseyera a una persona en tu presencia en un momento determinado, no podría verse cómo entró en ella ni cómo se fue de nuevo, porque es invisible.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "dfa1fcbacd4b"
+ },
+ "hcf:Augustine of Hippo/John 3_8#1": {
+  "text_es": "Pero ¿quién de nosotros no ve, por ejemplo, que el viento del sur sopla del sur al norte, otro viento del este, otro del oeste? ¿Y cómo entonces no sabemos de dónde viene el viento y a dónde va?\n\n(Tr. xii. c. 5) El Salmo suena, el Evangelio suena, la Palabra divina suena; es el sonido del Espíritu. Esto significa que el Espíritu Santo está invisiblemente presente en la Palabra y el Sacramento, para realizar nuestro nacimiento.\n\n(Tr. xii. c. 5) O así: Si eres nacido del Espíritu, serás tal que quien aún no es nacido del Espíritu no sabrá de dónde vienes ni a dónde vas. Pues sigue: Así es todo aquel que es nacido del Espíritu.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4b302ce50c46"
+ },
+ "hcf:Bede/John 3_8#0": {
+  "text_es": "Es el Espíritu Santo, por tanto, quien sopla donde quiere. Está en su propio poder elegir a quién visitar con su gracia iluminadora. Y oyes su sonido. Cuando uno lleno del Espíritu Santo está presente contigo y te habla.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e4db6cce755e",
+  "corregido_por_juez": "Omitió la traducción de «heart» en la frase «whose heart to visit»."
+ },
+ "hcf:Haymo of Halberstadt/John 3_8#0": {
+  "text_es": "O bien: No puedes decir de dónde viene; es decir, no sabes cómo lleva a los creyentes a la fe; o a dónde va, es decir, cómo dirige a los fieles a su esperanza. Y así es todo aquel que es nacido del Espíritu; como si dijera: El Espíritu Santo es un Espíritu invisible; y de igual modo, todo el que es nacido del Espíritu nace invisiblemente.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e9e97274e556"
+ },
+ "hcf:Theophylact of Ohrid/John 3_8#0": {
+  "text_es": "Esto refuta por completo a Macedonio, impugnador del Espíritu, que afirmaba que el Espíritu Santo era un siervo. Encontramos que el Espíritu Santo obra por su propio poder, donde quiere y lo que quiere.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ebeee9d9a775"
+ },
+ "hcf:Cyril of Alexandria/John 3_9#0": {
+  "text_es": "Un largo discurso de nada aprovecha a quien no entiende en absoluto. Sabio es, pues, el dicho del libro de Proverbios: Bienaventurado el que habla a los oídos de los que quieren oír. Y el Salvador mostró por experiencia que esto es verdad, dándonos también en esto ejemplo. Pues el maestro quedará enteramente libre de la acusación de no poder persuadir, diciendo lo que él mismo considera bueno, aunque nada aproveche por la torpeza de los oyentes. Además, aprendemos por esto que la dureza ha acontecido en parte a Israel. Pues oyendo, oyen y no entienden.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "89ae181fed61"
+ },
+ "hcf:Haymo of Halberstadt/John 3_9#0": {
+  "text_es": "Nicodemo no puede comprender los misterios de la Majestad divina que nuestro Señor revela, y por eso pregunta cómo es esto, no negando el hecho, no con ánimo de censura, sino deseando ser informado: Respondió Nicodemo y le dijo: ¿Cómo pueden ser estas cosas?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e170e8b9215e"
+ },
+ "hcf:Augustine of Hippo/John 3_10#0": {
+  "text_es": "¿Qué pensamos? ¿Acaso nuestro Señor quiso insultar a este maestro de Israel? Quería que naciera del Espíritu; y nadie nace del Espíritu sino el que se hace humilde; pues es esta misma humildad la que hace que nazcamos del Espíritu. Él, sin embargo, estaba inflado por su eminencia como maestro y se tenía en alta estima porque era doctor de los judíos. Nuestro Señor, pues, derriba su soberbia, para que pueda nacer del Espíritu.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c0169d7786c8"
+ },
+ "hcf:John Chrysostom/John 3_10#0": {
+  "text_es": "¿Qué hace entonces Nicodemo? Todavía persiste en su baja opinión judía, y eso aun cuando se le ha mencionado un ejemplo tan claro. Por eso, cuando de nuevo dice dudando: «¿Cómo pueden ser estas cosas?», Cristo le habla ahora con más reproche: «¿Tú eres maestro en Israel y no sabes estas cosas?». Observa cómo en ningún momento acusa al hombre de maldad, sino solo de debilidad y simpleza.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "39e3a2dd6a7a"
+ },
+ "hcf:Alcuin of York/John 3_11#0": {
+  "text_es": "O bien, el número plural puede tener este significado: Yo, y los que son nacidos de nuevo del Espíritu, somos los únicos que entendemos lo que decimos; y habiendo visto al Padre en secreto, esto testificamos abiertamente al mundo; y vosotros, que sois carnales y soberbios, no recibís nuestro testimonio.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bb1c15022970"
+ },
+ "hcf:Haymo of Halberstadt/John 3_11#0": {
+  "text_es": "¿Por qué, se pregunta, habla en número plural: Lo que sabemos decimos? Porque, siendo el que habla el unigénito Hijo de Dios, quería mostrar que el Padre estaba en el Hijo, y el Hijo en el Padre, y el Espíritu Santo procedente de ambos, de manera indivisible.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d05e848df815"
+ },
+ "hcf:Theophylact of Ohrid/John 3_11#0": {
+  "text_es": "Esto no se dice de Nicodemo, sino de la raza judía, que hasta el final persistió en la incredulidad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "938be76de412"
+ },
+ "hcf:Augustine of Hippo/John 3_12#1": {
+  "text_es": "Es decir: Si no creéis que puedo levantar un templo que vosotros habéis derribado, ¿cómo creeréis que los hombres pueden ser regenerados por el Espíritu Santo?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3a77685b9850"
+ },
+ "hcf:Cyril of Alexandria/John 3_12#0": {
+  "text_es": "Una doctrina, dice, que no excede el entendimiento propio del hombre, no la recibisteis por vuestra extrema necedad, ¿y cómo os explicaré cosas más divinas? Pues los que en sus propios asuntos son sumamente necios, ¿cómo serán sabios en las cosas que están por encima de ellos? Y los que son impotentes para lo menor, ¿cómo no han de hallar intolerable lo mayor? Y si, dice, no me creéis a mí, que hablo solo, sino que buscáis muchos testigos para todo, ¿a quién os traeré como testigo de los misterios celestiales?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8cfdfd0aff08"
+ },
+ "aquifer:19103": {
+  "text_es": "Hay una gran distancia entre este mundo y el cielo (véase 1:51; 3:31; 6:38, 42). El cielo representa la morada de Dios. Este mundo representa la vida humana bajo el pecado y la debilidad.\n\nJesús descendió del cielo a este mundo. Abrió un camino para que las personas conocieran a Dios. Demostró que venía de Dios cuando venció la muerte. Después de resucitar de entre los muertos, volvió al Padre en el cielo (16:5–11).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "14d568c446f3"
+ },
+ "hcf:Augustine of Hippo/John 3_13#0": {
+  "text_es": "Después de advertir esta falta de conocimiento en una persona que, apoyada en su rango magisterial, se ponía por encima de los demás, y de reprochar la incredulidad de tales hombres, nuestro Señor dice que, si estos no creen, otros creerán: Nadie subió al cielo, sino el que descendió del cielo, el Hijo del hombre que está en el cielo. Esto puede entenderse así: El nacimiento espiritual será de tal clase que los hombres, de terrenales, se vuelvan celestiales; lo cual no será posible a menos que sean hechos miembros míos, de modo que el que asciende se haga uno con el que descendió. Nuestro Señor considera su cuerpo, es decir, su Iglesia, como a sí mismo.\n\n(ut sup.) Aunque fue hecho Hijo del hombre en la tierra, sin embargo, su Divinidad, con la cual, permaneciendo en el cielo, descendió a la tierra, declaró no ser incompatible con el título de Hijo del hombre, así como consideró su carne digna del nombre de Hijo de Dios. Pues por la unidad de persona, por la cual ambas sustancias son un solo Cristo, anduvo sobre la tierra siendo Hijo de Dios, y permaneció en el cielo siendo Hijo del hombre. Y la fe en lo mayor implica la fe en lo menor. Si, pues, la sustancia divina, que está mucho más lejos de nosotros, pudo por nuestra causa asumir la sustancia del hombre hasta unirlas en una sola persona, ¿cuánto más fácilmente podemos creer que los santos, unidos al hombre Cristo, se hacen con él un solo Cristo; de modo que, mientras es verdad de todos que ascienden por gracia, es al mismo tiempo verdad que solo él asciende al cielo, el que descendió del cielo.\n\n(Tr. xii. c. 8) Pero te maravillas de que estuviera a la vez aquí y en el cielo. Sin embargo, tal poder dio a sus discípulos. Escucha a Pablo: Nuestra conversación está en los cielos. (Fil. 3:20) Si el hombre Pablo anduvo sobre la tierra y tuvo su conversación en el cielo, ¿no podrá el Dios del cielo y de la tierra estar en el cielo y en la tierra?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3cfad5923d30"
+ },
+ "hcf:Bede/John 3_13#0": {
+  "text_es": "Si un hombre desciende deliberadamente desnudo al valle, y allí, proveyéndose de vestidos y armas, asciende de nuevo a la montaña, se puede decir que el que ascendió es el mismo que descendió.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e52c1a61d7bf"
+ },
+ "hcf:Gregory the Dialogist/John 3_13#0": {
+  "text_es": "Pues en cuanto somos hechos uno con él, al lugar del cual él vino solo en sí mismo, allí regresa solo en nosotros; y el que está siempre en el cielo, asciende diariamente al cielo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "081dadad4fb0"
+ },
+ "hcf:Hilary of Poitiers/John 3_13#0": {
+  "text_es": "O bien, su descenso del cielo es la fuente de su origen concebido por el Espíritu: María no dio origen a su cuerpo, aunque las cualidades naturales de su sexo contribuyeron a su nacimiento y crecimiento. Que sea el Hijo del hombre proviene del nacimiento de la carne que fue concebida en la Virgen. Que esté en el cielo proviene del poder de su naturaleza eterna, que no contrajo el poder del Verbo de Dios, que es infinito, dentro de la esfera de un cuerpo finito. Nuestro Señor, permaneciendo en la forma de siervo, lejos de todo el círculo, interior y exterior, del cielo y del mundo, sin embargo, como Señor del cielo y del mundo, no estaba ausente de ellos. Así pues, descendió del cielo porque era el Hijo del hombre; y estaba en el cielo, porque el Verbo, que se hizo carne, no había dejado de ser el Verbo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "df2b1dd9a848"
+ },
+ "hcf:Theophylact of Ohrid/John 3_13#0": {
+  "text_es": "Pero cuando oigas que el Hijo del hombre descendió del cielo, no pienses que su carne descendió del cielo; pues esta es la doctrina de aquellos herejes, que sostenían que Cristo tomó su cuerpo del cielo, y solo pasó por la Virgen.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0149b86904a4"
+ },
+ "aquifer:19104": {
+  "text_es": "Jesús fue levantado en la cruz para que todas las personas pudieran comprender el camino de salvación, mirarlo con fe y tener vida eterna.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "55999e720694"
+ },
+ "hcf:Augustine of Hippo/John 3_14-15#0": {
+  "text_es": "Muchos que morían en el desierto por el ataque de las serpientes, Moisés, por mandato del Señor, levantó una serpiente de bronce: y los que la miraban eran inmediatamente sanados. La elevación de la serpiente es la muerte de Cristo; la causa, por cierto modo de construcción, se pone por el efecto. La serpiente fue causa de muerte, en cuanto persuadió al hombre a aquel pecado, por el cual mereció la muerte. Nuestro Señor, sin embargo, no transfirió el pecado, es decir, el veneno de la serpiente, a su carne, sino la muerte; para que en la semejanza de la carne de pecado, hubiera castigo sin pecado, en virtud del cual la carne pecadora pudiera ser librada tanto del castigo como del pecado.\n\n(Tr. xii. c. 11) Así como entonces el que miraba a la serpiente levantada, era sanado de su veneno y salvado de la muerte; así ahora el que es conformado a la semejanza de la muerte de Cristo por la fe y la gracia del bautismo, es librado tanto del pecado por la justificación, como de la muerte por la resurrección: como Él mismo dice: Que todo aquel que cree en Él no perezca, sino que tenga vida eterna. ¿Qué necesidad hay entonces de que el niño sea conformado por el bautismo a la muerte de Cristo, si no está del todo contaminado por la mordedura venenosa de la serpiente?\n\n(Tr. xii. c. 11) Pero hay esta diferencia entre la figura y la realidad, que una se recuperó de la muerte temporal, la otra de la eterna.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c5ac4369f138"
+ },
+ "hcf:Bede/John 3_14#2": {
+  "text_es": "Introduce al maestro de la ley mosaica, al sentido espiritual de esa ley; mediante un pasaje de la historia del Antiguo Testamento, que estaba destinado a ser figura de su Pasión y de la salvación del hombre.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fb17e213e6e1"
+ },
+ "hcf:Theophylact of Ohrid/John 3_14#0": {
+  "text_es": "Ve entonces la aptitud de la figura. La figura de la serpiente tiene la apariencia de la bestia, pero no su veneno: de la misma manera Cristo vino en la semejanza de la carne de pecado, estando libre de pecado. Por la elevación de Cristo, entiende su suspensión en alto, por la cual santificó el aire, así como había santificado la tierra al caminar sobre ella. Aquí también se tipifica la gloria de Cristo: pues la altura de la cruz fue hecha su gloria: porque en que se sometió a ser juzgado, juzgó al príncipe de este mundo; pues Adán murió justamente, porque pecó; nuestro Señor injustamente, porque no hizo pecado. Así venció a aquel que lo entregó a la muerte, y así libró a Adán de la muerte. Y en esto el diablo se encontró vencido, que no pudo en la cruz atormentar a nuestro Señor para que odiara a sus asesinos: sino que solo lo hizo amarlos y orar por ellos más. De esta manera la cruz de Cristo fue hecha su elevación y gloria.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cbb2a9ff3a3d"
+ },
+ "hcf:John Chrysostom/John 3_15#0": {
+  "text_es": "¿Ves la causa de la crucifixión y la salvación que por ella viene? ¿Ves la relación del tipo con la realidad? allí los judíos escaparon de la muerte, pero la temporal, aquí los creyentes la eterna; allí la serpiente colgada sanó las mordeduras de las serpientes, aquí el Jesús crucificado curó las heridas infligidas por el dragón espiritual; allí el que miraba con sus ojos corporales era sanado, aquí el que contempla con los ojos de su entendimiento se despoja de todos sus pecados; allí lo que colgaba era bronce formado a semejanza de una serpiente, aquí era el cuerpo del Señor, edificado por el Espíritu; allí una serpiente mordió y una serpiente sanó, aquí la muerte destruyó y una Muerte salvó. Pero la serpiente que destruía tenía veneno, la que salvaba estaba libre de veneno; y así de nuevo fue aquí, pues la muerte que nos mató tenía pecado con ella, como la serpiente tenía veneno; pero la muerte del Señor estaba libre de todo pecado, como la serpiente de bronce del veneno. Pues, dice Pedro: «Él no hizo pecado, ni se halló engaño en su boca». Y esto es lo que Pablo también declara: «Y habiendo despojado a los principados y potestades, los exhibió públicamente, triunfando sobre ellos en ella». Pues como algún noble campeón, levantando en alto y derribando a su adversario, hace su victoria más gloriosa, así Cristo, a la vista de todo el mundo, derribó los poderes adversos, y habiendo sanado a los que fueron heridos en el desierto, los libró de todas las bestias venenosas que los afligían, siendo colgado en la cruz. Sin embargo, no dijo: «debe ser colgado», sino «debe ser levantado»; pues usó este término que parecía más suave, por causa de su oyente, y porque era propio del tipo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d81f7b3cac93"
+ },
+ "aquifer:19105": {
+  "text_es": "El texto griego original no incluye comillas. Por esto, los traductores deben decidir dónde terminan las palabras de Jesús y dónde comienza la explicación de Juan. Juan 3:16–21 podría ser la explicación de Juan de lo que Jesús dijo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f162860ff5b3"
+ },
+ "aquifer:19106": {
+  "text_es": "La verdad de que Dios amó al mundo es básica para la comprensión cristiana (1 Juan 4:9–10). El amor de Dios se extiende más allá de los límites de raza y nación, incluso a aquellos que se le oponen (ver la nota temática «El mundo»). El Hijo vino a salvar, no a condenar, a personas que a menudo eligen las tinieblas espirituales (3:17, 19–21).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bb33a40c6713"
+ },
+ "hcf:Alcuin of York/John 3_16-17#0": {
+  "text_es": "Verdaderamente por el Hijo de Dios el mundo tendrá vida; pues por ninguna otra causa vino al mundo, excepto para salvar al mundo. Dios no envió a su Hijo al mundo para condenar al mundo, sino para que el mundo por él sea salvo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a69746b0b7cb"
+ },
+ "hcf:Bede/John 3_16#0": {
+  "text_es": "Nota aquí, que lo mismo que antes dijo del Hijo del hombre, levantado en la cruz, lo repite del unigénito Hijo de Dios: a saber, que todo aquel que cree en Él, etc. Pues el mismo nuestro Hacedor y Redentor, que era Hijo de Dios antes que el mundo fuese, fue hecho al final del mundo el Hijo del hombre; de modo que Aquel que por el poder de su divinidad nos había creado para gozar de la felicidad de una vida sin fin, el mismo nos restauró a la vida que habíamos perdido al tomar sobre sí nuestra humana fragilidad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1ff8a29ca9e2"
+ },
+ "hcf:Hilary of Poitiers/John 3_16#0": {
+  "text_es": "Si fuera solo una criatura entregada por causa de una criatura, tal pérdida pobre e insignificante no sería una gran evidencia de amor. Deben ser cosas preciosas las que prueben nuestro amor, grandes cosas deben evidenciar su grandeza. Dios, en amor al mundo, dio a su Hijo, no un hijo adoptivo, sino el suyo propio, incluso su Unigénito. Aquí está la filiación propia, el nacimiento, la verdad: no creación, no adopción, no mentira: aquí está la prueba del amor y la caridad, que Dios envió a su propio y unigénito Hijo para salvar al mundo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ed618a3b6892"
+ },
+ "hcf:Theophylact of Ohrid/John 3_16#0": {
+  "text_es": "Como dijo arriba, que el Hijo del hombre descendió del cielo, no queriendo decir que su carne descendió del cielo, a causa de la unidad de persona en Cristo, atribuyendo al hombre lo que pertenecía a Dios: así ahora a la inversa lo que pertenece al hombre, lo asigna a Dios el Verbo. El Hijo de Dios era impasible; pero siendo uno en respecto de persona con el hombre, que era pasible, se dice que el Hijo fue entregado a la muerte; en cuanto que verdaderamente padeció, no en su propia naturaleza, sino en su propia carne. De esta muerte sigue un beneficio extremadamente grande e incomprensible: a saber, que todo aquel que cree en Él no perezca, sino que tenga vida eterna. El Antiguo Testamento prometió a los que lo obedecían, largura de días: el Evangelio promete vida eterna e imperecedera.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "46178b42bb09"
+ },
+ "hcf:Augustine of Hippo/John 3_17#1": {
+  "text_es": "Pues ¿por qué es llamado el Salvador del mundo, sino porque salva al mundo? El médico, en cuanto a su voluntad, sana al enfermo. Si el enfermo desprecia o no quiere observar las indicaciones del médico, se destruye a sí mismo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "eea8b8f99f29"
+ },
+ "hcf:John Chrysostom/John 3_17-18#2": {
+  "text_es": "Para que nadie, al oír: «No vine a juzgar al mundo», imagine que podría pecar impunemente, y así se vuelva más descuidado, Cristo detiene tal despreocupación diciendo: «ya es juzgado»; y porque el «juicio» era futuro y aún no estaba cerca, Él acerca el temor de la venganza, y describe el castigo como ya venido. Y esto mismo es una marca de gran bondad, que no solo da a su Hijo, sino que incluso retrasa el tiempo del juicio, para que los que han pecado, y los que no creen, tengan poder para lavar sus transgresiones.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "14f21cce898d"
+ },
+ "aquifer:19107": {
+  "text_es": "Como la luz brilla en un lugar oscuro, revela lo que estaba oculto. De la misma manera, cuando Jesús vino al mundo, expuso su pecado e incredulidad. Por esto, el juicio de Dios ya ha comenzado.\n\nLas personas que ven esta luz y comprenden su verdadera condición deben responder. Son responsables de creer en el Hijo de Dios (3:16–17).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2ad8ddc4655f"
+ },
+ "hcf:Alcuin of York/John 3_18#0": {
+  "text_es": "El que cree en Él, y se adhiere a Él como un miembro a la cabeza, no será condenado.\n\nLuego da la razón por la que el que no cree es condenado, a saber, porque no cree en el nombre del unigénito Hijo de Dios. Pues en este nombre solo hay salvación. Dios no tiene muchos hijos que puedan salvar; Aquel por quien salva es el Unigénito.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3eddc0c0d3c4"
+ },
+ "hcf:Augustine of Hippo/John 3_18#1": {
+  "text_es": "¿Qué esperabas que dijera de quien no creyó, sino que es condenado? Pero fíjate en sus palabras: El que no cree, ya ha sido condenado. El Juicio no ha aparecido aún, pero ya ha sido dictado. Porque el Señor conoce a los que son suyos; quiénes esperan la corona y quiénes el fuego.\n\n(de Pecc. mer. et Rem. l. 1. c. 33) ¿Dónde, pues, colocamos a los niños bautizados? ¿Entre los que creen? Esto se les concede por la virtud del Sacramento y las promesas de los padrinos. Y por esta misma regla contamos a los no bautizados entre los que no creen.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e5363f54824e"
+ },
+ "hcf:Gregory the Dialogist/John 3_18#1": {
+  "text_es": "O así: En el juicio final algunos perecen sin ser juzgados, de quienes se dice aquí: El que no cree, ya ha sido condenado. Porque el día del juicio no prueba a aquellos que por incredulidad ya han sido desterrados de la vista de un juez perspicaz, están bajo sentencia de condenación; sino a aquellos que, reteniendo la profesión de fe, no tienen obras que mostrar adecuadas a esa profesión. Porque los que ni siquiera han guardado los sacramentos de la fe, ni siquiera oyen la maldición del Juez en el último juicio. Ya han recibido su sentencia en la oscuridad de su incredulidad, y no se les considera dignos de ser convictos por la reprensión de Aquel a quien habían despreciado. De nuevo: Un soberano terrenal, en el gobierno de su estado, tiene una regla diferente de castigo en el caso del súbdito desafecto y del rebelde extranjero. En el primer caso, consulta la ley civil; pero contra el enemigo procede de inmediato a la guerra, y paga su malicia con el castigo que merece, sin consideración a la ley, ya que quien nunca se sometió a la ley, no tiene derecho a sufrir por la ley.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7b5124c925bf"
+ },
+ "hcf:John Chrysostom/John 3_18#0": {
+  "text_es": "\"El que cree en el Hijo, no es juzgado.\" El que \"cree\", no el que es demasiado curioso: el que \"cree\", no el entrometido. Pero ¿qué si su vida es impura y sus obras malas? Es de tales como estos especialmente que Pablo declara que no son verdaderos creyentes en absoluto: \"Profesan conocer a Dios, pero con sus obras lo niegan.\" Pero aquí Cristo dice que tal persona no es \"juzgada\" en este punto particular; pues por sus obras ciertamente sufrirá un castigo más severo, pero habiendo creído una vez, no es castigado por incredulidad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f5d1dc9eb859"
+ },
+ "aquifer:19108": {
+  "text_es": "Cuando las personas viven en tinieblas espirituales (una vida separada de Dios), no quieren la luz que Jesús trae. Jesús se llamó a sí mismo \"la luz del mundo\" (8:12; 9:5). Su luz muestra la verdad y expone el pecado.\n\nLas tinieblas no simplemente ignoran la luz. La resisten y tratan de vencerla. Pero las tinieblas no pueden derrotar la luz (1:5).\n\nLos que se niegan a creer siguen viviendo en tinieblas (13:30). Tropiezan porque no pueden ver con claridad (11:10). Al final, sus pecados serán revelados. Dios juzgará a todas las personas (5:28–30; Apocalipsis 20:11–15).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1ce82f5764aa"
+ },
+ "hcf:Alcuin of York/John 3_19#0": {
+  "text_es": "Aquí está la razón por la que los hombres no creyeron, y por la que son justamente condenados: Esta es la condenación, que la luz vino al mundo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "062f2c73c40d"
+ },
+ "hcf:Augustine of Hippo/John 3_19-21#0": {
+  "text_es": "Pero si Dios ha descubierto que todas las obras de los hombres son malas, ¿cómo es que algunos han hecho la verdad y han venido a la luz, es decir, a Cristo? Ahora bien, lo que dice es que amaron las tinieblas más que la luz; en eso pone el énfasis. Muchos han amado sus pecados, muchos los han confesado. Dios acusa tus pecados; si tú también los acusas, estás unido a Dios. Debes odiar tu propia obra y amar la obra de Dios en ti. El principio de las buenas obras es la confesión de las malas obras, y entonces haces la verdad: no te adulas, no te halagas a ti mismo. Y has venido a la luz, porque este mismo pecado en ti, que te desagrada, no te desagradaría si Dios no brillara sobre ti y su verdad te lo mostrara. Y aun aquellos que han pecado solo de palabra o de pensamiento, o que solo han excedido en cosas permitidas, hagan la verdad confesando y vengan a la luz practicando buenas obras. Porque los pecados pequeños, si se permite que se acumulen, se vuelven mortales. Pequeñas gotas hinchan el río: pequeños granos de arena forman un montón que oprime y agobia. El mar que entra poco a poco, si no se achica, hunde la nave. ¿Y qué es achicar, sino mediante buenas obras, el luto, el ayuno, el dar y el perdonar, proveer para que nuestros pecados no nos abrumen?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b326010d5371"
+ },
+ "hcf:Bede/John 3_19#0": {
+  "text_es": "Se llama a sí mismo la luz, de la cual habla el Evangelista: Esa era la luz verdadera; mientras que al pecado lo llama tinieblas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "090999b82019"
+ },
+ "hcf:John Chrysostom/John 3_19#1": {
+  "text_es": "Y observa cómo de otra manera los priva de toda excusa, cuando dice que \"la luz vino al mundo\". \"¿La buscaron ellos mismos\", dice, \"se esforzaron, trabajaron para encontrarla? La luz misma vino a ellos, y ni aun así se apresuraron a ir a ella.\"",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1bf19626af32"
+ },
+ "hcf:Alcuin of York/John 3_20#0": {
+  "text_es": "Todo el que hace el mal, odia la luz; es decir, el que está resuelto a pecar, el que se deleita en el pecado, odia la luz, que detecta su pecado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0015c7c5b32e"
+ },
+ "hcf:Augustine of Hippo/John 3_20#1": {
+  "text_es": "Porque les desagrada ser engañados y les gusta engañar, aman la luz porque se descubre a sí misma, y la odian porque los descubre a ellos. Por lo cual será su castigo, que ella los manifieste contra su voluntad, y ella no se manifieste a ellos. Aman el resplandor de la verdad, odian su discernimiento; y por eso sigue: Ni viene a la luz, para que sus obras no sean reprendidas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1fd2f243aff4",
+  "corregido_por_juez": "«discovering herself» se tradujo erróneamente como «descubrirse a sí mismos», cambiando el sujeto y el sentido (se refiere a la luz manifestándose a sí misma)."
+ },
+ "hcf:Bede/John 3_20#0": {
+  "text_es": "Moralmente también aman las tinieblas más que la luz, quienes cuando sus predicadores les dicen su deber, los atacan con calumnias.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "79105328b838"
+ },
+ "hcf:Cyril of Alexandria/John 3_20#0": {
+  "text_es": "Con provecho repasa lo que se ha dicho, y convence de que la indolencia hacia las cosas útiles procede del amor al mal, y tiene su raíz en la falta de voluntad de aprender aquellas cosas por las cuales uno puede volverse sabio y bueno. Pues el que hace el mal, dice, huye y rechaza estar en la Luz Divina: no ocultándose por vergüenza a causa del mal (pues así se habría salvado) sino deseando permanecer en la ignorancia de lo que es conveniente, no sea que transgrediendo sea castigado, cayendo sobre las convicciones ahora más agudas de su propia conciencia, y por medio de conocer al fin claramente lo que es bueno, pague una cuenta más lamentable al Juez, si no hace lo que agrada a Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3ef93ae39657"
+ },
+ "hcf:Augustine of Hippo/John 3_21#2": {
+  "text_es": "Llama obras hechas en Dios a las del que viene a la luz; queriendo decir que su justificación no es atribuible a sus propios méritos, sino a la gracia de Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3623aa13a8fe"
+ },
+ "hcf:Bede/John 3_21#0": {
+  "text_es": "Pero el que hace la verdad viene a la luz, para que sus obras sean manifestadas, que son hechas en Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4b9c2ffb4d63"
+ },
+ "hcf:John Chrysostom/John 3_21#0": {
+  "text_es": "No dice esto de los que se crían bajo el Evangelio, sino de los que se convierten a la verdadera fe desde el paganismo o el judaísmo. Muestra que nadie dejará una religión falsa por la verdadera fe, hasta que primero resuelva seguir un curso de vida recto.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2dd933a6759f"
+ },
+ "aquifer:19110": {
+  "text_es": "Juan el Bautista dice que Jesús es verdaderamente \"de arriba\" (3:31). Así que los seguidores de Juan necesitan comenzar a seguir a Jesús en su lugar.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "eef9a30dbd9f"
+ },
+ "aquifer:19111": {
+  "text_es": "⸢Pasó algún tiempo con ellos y bautizaba⸣: Véase Juan 4:2, que explica que los discípulos de Jesús eran los que bautizaban a las personas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bea7b13bbd3e"
+ },
+ "hcf:Alcuin of York/John 3_22#0": {
+  "text_es": "Por Judea se entiende los que confiesan, a quienes Cristo visita; pues dondequiera que hay confesión de pecados, o alabanza de Dios, allí viene Cristo y sus discípulos, es decir, su doctrina e iluminación; y allí es conocido por su limpieza de los hombres del pecado: Y allí se quedó con ellos, y bautizaba.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f5fbd92c3dae"
+ },
+ "hcf:Augustine of Hippo/John 3_22#2": {
+  "text_es": "Nuestro Señor no bautizó con el bautismo con el que había sido bautizado; pues fue bautizado por un siervo, como lección de humildad para nosotros, y para llevarnos al bautismo del Señor, es decir, al suyo; porque Jesús bautizaba, como el Señor, el Hijo de Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3023b183e4b9"
+ },
+ "hcf:Bede/John 3_22#0": {
+  "text_es": "Después de estas cosas, no es inmediatamente después de su disputa con Nicodemo, que tuvo lugar en Jerusalén; sino a su regreso a Jerusalén después de algún tiempo pasado en Galilea.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "271122335bee"
+ },
+ "hcf:John Chrysostom/John 3_22#0": {
+  "text_es": "Nada puede ser más claro o más poderoso que la verdad, así como nada es más débil que la falsedad, aunque esté sombreada por diez mil velos. Pues aun así es fácilmente detectada, fácilmente se desvanece. Pero la verdad se yergue sin velo para todos los que quieran contemplar su belleza; no busca ocultamiento, no teme peligro, no tiembla ante complots, no desea gloria de las multitudes, no es responsable ante ninguna cosa mortal, sino que está por encima de todas ellas, es objeto de diez mil complots secretos, pero permanece invencible, y guarda como en una fortaleza segura a los que a ella vuelan por su propio poder extraordinario, evita los escondrijos secretos y pone lo que es suyo ante todos los hombres.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ba645f7fd937"
+ },
+ "hcf:Augustine of Hippo/John 3_23#2": {
+  "text_es": "Pero ¿por qué bautizó Juan? Porque era necesario que nuestro Señor fuera bautizado. ¿Y por qué era necesario que nuestro Señor fuera bautizado? Para que nadie pensara jamás que tenía libertad de despreciar el bautismo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e3cfaac0b520"
+ },
+ "hcf:Bede/John 3_23#0": {
+  "text_es": "Juan sigue bautizando, aunque Cristo ha comenzado; pues la sombra permanece todavía, ni debe cesar el precursor hasta que la verdad se manifieste. Y Juan también estaba bautizando en Enón, cerca de Salim. Enón es hebreo para agua; de modo que el Evangelista da, por así decirlo, la derivación del nombre, cuando añade: Porque había mucha agua allí. Salim es una ciudad en el Jordán, donde una vez reinó Melquisedec.\n\nEl mismo tipo de beneficio que los catecúmenos reciben de la instrucción antes de ser bautizados, el mismo transmitió el bautismo de Juan antes del de Cristo. Como Juan predicó el arrepentimiento, anunció el bautismo de Cristo y atrajo a todos los hombres al conocimiento de la verdad ahora manifestada al mundo: así los ministros de la Iglesia primero instruyen a los que vienen a la fe, luego reprenden sus pecados; y finalmente, atrayéndolos al conocimiento y amor de la verdad, les ofrecen la remisión por el bautismo de Cristo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0bce5fa57b6e"
+ },
+ "hcf:Jerome/John 3_23#0": {
+  "text_es": "No importa si se llama Salem o Salim; ya que los judíos rarísima vez usan vocales en medio de las palabras; y las mismas palabras se pronuncian con diferentes vocales y acentos, por diferentes lectores, y en diferentes lugares.\nY vinieron, y fueron bautizados.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fd1233d4e572"
+ },
+ "hcf:John Chrysostom/John 3_23-24#0": {
+  "text_es": "«¿Y por qué, cuando los discípulos de Jesús bautizaban, no cesó Juan de hacerlo? ¿Por qué continuó bautizando, y eso incluso hasta que fue llevado a prisión? Pues decir: «Juan también bautizaba en Enón», y añadir: «Juan no había sido aún encarcelado», era declarar que hasta ese momento no había cesado de bautizar. Pero ¿por qué bautizó hasta entonces? Pues habría hecho parecer más venerables a los discípulos de Jesús si hubiera desistido cuando ellos comenzaron. ¿Por qué, entonces, bautizó?» Fue para no excitar a sus discípulos a una rivalidad aún más fuerte, y hacerlos más contenciosos todavía. Pues si, aunque diez mil veces proclamó a Cristo, le cedió el primer lugar y se hizo a sí mismo tanto más inferior, aún no podía persuadirlos de que corrieran a Él, si hubiera añadido esto también, los habría hecho aún más hostiles. Por esta razón Cristo comenzó a predicar más constantemente cuando Juan fue removido. Y además, pienso que la muerte de Juan fue permitida, y que ocurrió muy pronto, para que toda la atención de la multitud se desplazara a Cristo, y para que ya no estuvieran divididos en sus opiniones acerca de los dos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2e4dec6c5137"
+ },
+ "aquifer:19112": {
+  "text_es": "Antes de que el rey Herodes encarcelara a Juan (véase Mateo 14:1–12; Marcos 1:14; 6:14–29; Lucas 3:19–20), él y Jesús ministraban ambos cerca del río Jordán. Estaban trabajando en la misma zona general.\n\nDespués de que Juan fue arrestado, Jesús dejó esa región. Viajó al norte a Galilea y comenzó su ministerio allí (Marcos 1:14).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2a4d325256e9"
+ },
+ "hcf:Bede/John 3_24#0": {
+  "text_es": "Evidentemente aquí está relatando lo que Cristo hizo antes del encarcelamiento de Juan; una parte que ha sido pasada por alto por los demás, quienes comienzan después del encarcelamiento de Juan.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "25f7527d2d4f"
+ },
+ "hcf:John Chrysostom/John 3_24-25#0": {
+  "text_es": "Pero ¿por qué continuó bautizando ahora? Porque, si hubiera dejado de hacerlo, podría haberse atribuido a envidia o ira; mientras que, continuando bautizando, no obtuvo gloria para sí mismo, sino que envió oyentes a Cristo. Y era más capaz de hacer este servicio que los propios discípulos de Cristo; su testimonio estaba tan libre de sospecha, y su reputación entre el pueblo era mucho más alta que la de ellos. Por lo tanto, continuó bautizando, para no aumentar la envidia sentida por sus discípulos contra el bautismo de nuestro Señor. En efecto, la razón, creo, por la que se permitió la muerte de Juan, y, en su lugar, Cristo se convirtió en el gran predicador, fue que el pueblo transfiriera sus afectos completamente a Cristo, y ya no estuviera dividido entre los dos. Pues los discípulos de Juan llegaron a tener tanta envidia de los discípulos de Cristo, e incluso de Cristo mismo, que cuando vieron a este último bautizando, despreciaron su bautismo, como inferior al de Juan; Y surgió una cuestión de algunos de los discípulos de Juan con los judíos acerca de la purificación. Que fueron ellos quienes comenzaron la disputa, y no los judíos, el Evangelista lo implica al decir que surgió una cuestión de los discípulos de Juan, mientras que podría haber dicho: Los judíos plantearon una cuestión.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9e191bff6512"
+ },
+ "hcf:Augustine of Hippo/John 3_25#0": {
+  "text_es": "«Entonces surgió una cuestión de parte de los discípulos de Juan con los judíos acerca de la purificación.» Juan bautizaba, Cristo bautizaba. Los discípulos de Juan se inquietaron; había un correr tras Cristo, la gente venía a Juan. Los que venían a Juan, él los enviaba a Jesús para ser bautizados; pero los que eran bautizados por Cristo no eran enviados a Juan. Los discípulos de Juan se alarmaron, y comenzaron a disputar con los judíos, como suele suceder. Entiéndase que los judíos habían declarado que Cristo era mayor, y que a su bautismo la gente debía recurrir. Los discípulos de Juan, sin entender esto todavía, defendían el bautismo de Juan. Vinieron al propio Juan, para que él resolviera la cuestión. Entiendan, amados. Y aquí se nos da a ver el uso de la humildad, y, cuando la gente erraba en el tema de la disputa, se muestra si Juan deseaba gloriarse en sí mismo. Ahora probablemente dijo: «Dices la verdad, contiendes rectamente; el mío es el mejor bautismo, yo bauticé a Cristo mismo.» Juan podía decir esto después de que Cristo fue bautizado. Si deseaba exaltarse a sí mismo, ¡qué oportunidad tenía para hacerlo! Pero sabía mejor ante quién humillarse: a Aquel que sabía que había venido después de él por nacimiento, le cedió voluntariamente la precedencia al confesarlo. Entendía que su propia salvación estaba en Cristo. Ya había dicho antes: «Todos hemos recibido de su plenitud»; y esto es confesarlo como Dios. Pues ¿cómo pueden todos los hombres recibir de su plenitud, si no es Dios? Porque si es hombre de tal manera que no es Dios, entonces él también recibe de la plenitud de Dios, y así no es Dios. Pero si todos los hombres reciben de su plenitud, Él es la fuente, ellos los bebedores. Los que beben de una fuente, tanto tienen sed como beben. La fuente nunca tiene sed; nunca tiene necesidad de sí misma. Los hombres necesitan una fuente. Con estómagos sedientos y labios resecos corren a la fuente para ser refrescados. La fuente fluye para refrescar, así lo hace el Señor Jesús.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "28ac6f738c56"
+ },
+ "hcf:John Chrysostom/John 3_25#0": {
+  "text_es": "Si alguno preguntara: «¿Y en qué era el bautismo de los discípulos mejor que el de Juan?», responderemos: «en nada»; ambos eran igualmente sin el don del Espíritu, ambas partes tenían igualmente una razón para bautizar, y era, llevar a los bautizados a Cristo. Pues para que no estuvieran siempre corriendo de un lado a otro para reunir a los que habían de creer, como en el caso de Simón hizo su hermano, y Felipe con Natanael, instituyeron el bautismo, para por medio de él traer a todos los hombres a ellos fácilmente, y preparar el camino para la fe que había de venir. Pero que los bautismos no tenían superioridad uno sobre el otro, se muestra por lo que sigue.\n\n«Surgió», dice el Evangelista, «una cuestión (entre algunos) de los discípulos de Juan y los judíos acerca de la purificación.»\n\nPues los discípulos de Juan, estando siempre celosamente dispuestos hacia los discípulos de Cristo y Cristo mismo, cuando los vieron bautizando, comenzaron a razonar con los que eran bautizados, como si su bautismo fuera en cierto modo superior al de los discípulos de Cristo; y tomando a uno de los bautizados, trataron de persuadirlo de esto; pero no lo persuadieron. Escucha cómo el Evangelista nos ha dado a entender que fueron ellos quienes lo atacaron, no él quien puso en marcha la cuestión. No dice que «cierto judío les preguntó», sino que «surgió una discusión de los discípulos de Juan con cierto judío, acerca de la purificación».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a61d04a10fe7"
+ },
+ "aquifer:19113": {
+  "text_es": "⸢todos van a Él⸣: Muchas personas iban a Jesús. Su creciente popularidad hizo que algunos de los seguidores de Juan se pusieran celosos.",
+  "lemas_es": [
+   "todos van a Él"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "98056e6a0790",
+  "lemas_rv1909": [
+   {
+    "lema": "todos vienen a él",
+    "ref": "JHN.3.26"
+   }
+  ]
+ },
+ "hcf:Alcuin of York/John 3_26#0": {
+  "text_es": "Es decir: Pasando por alto a ti, todos los hombres corren al bautismo de Aquel a quien tú bautizaste.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1d60e4e20a90"
+ },
+ "hcf:Augustine of Hippo/John 3_26#1": {
+  "text_es": "Los judíos entonces afirmaron que Cristo era la persona mayor, y que su bautismo era necesario recibir. Pero los discípulos de Juan no entendían tanto, y defendían el bautismo de Juan. Finalmente vienen a Juan, para resolver la cuestión: Y vinieron a Juan, y le dijeron: Rabí, el que estaba contigo al otro lado del Jordán, he aquí, el mismo bautiza.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "24b08a48eeac"
+ },
+ "hcf:Cyril of Alexandria/John 3_26#0": {
+  "text_es": "Rabí, el que estaba contigo al otro lado del Jordán, de quien tú diste testimonio, he aquí, el mismo bautiza, y todos vienen a él. Juan respondió y dijo:\n\nLos discípulos, mordidos por las palabras de los fariseos y atendiendo a la misma naturaleza del asunto, no podían convencerlos de mentirosos, sino que razonablemente estaban perplejos, y, ignorando la gran dignidad de nuestro Salvador, quedan sumamente sorprendidos ante la aparente inferioridad de Juan, y, mezclando palabras de amor con reverencia y admiración, desean saber por qué Aquel de quien él dio testimonio con su voz le precede en honor, le supera en gracia y, al bautizar, recoge en su red no una parte de toda la multitud judía, sino a todos ellos. Y hicieron la pregunta, según parece, no sin la voluntad de Dios; pues de ahí que el Bautista los invite a una explicación precisa y extensa acerca del Salvador, e introduzca la distinción más clara entre los bautismos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4f7f6e831388",
+  "corregido_por_juez": "Traducción incorrecta e incomprensible de «were not able to convict them as liars» como «no podían convictos de mentirosos»."
+ },
+ "aquifer:19114": {
+  "text_es": "Juan el Bautista habló a causa de dos preocupaciones: Algunas personas cuestionaban si su bautismo era de Dios (véase 1:26), y sus discípulos estaban preocupados porque muchas personas comenzaban a seguir a Jesús en lugar de a Juan (3:26).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "dc47a76d8739"
+ },
+ "hcf:Augustine of Hippo/John 3_27#0": {
+  "text_es": "O quizás Juan habla aquí de sí mismo: Soy un simple hombre, y he recibido todo del cielo, y por lo tanto no pienses que, porque se me ha dado ser algo, soy tan necio como para hablar contra la verdad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "beb6ae97d705"
+ },
+ "hcf:John Chrysostom/John 3_27#0": {
+  "text_es": "«Un hombre no puede recibir nada, excepto que le sea dado de lo alto.»\n\nNo te maravilles si habla de Cristo en un tono humilde; era imposible enseñar todo de una vez, y desde el mismo principio, a hombres tan preocupados por la pasión. Pero desea impresionarlos por un tiempo con temor y terror, y mostrarles que no guerreaban contra otro que Dios mismo, cuando guerreaban contra Cristo. Y aquí establece secretamente aquella verdad que Gamaliel afirmó: «No podéis destruirla, no sea que os halléis luchando contra Dios.» Pues decir: «Nadie puede recibir nada, excepto que le sea dado del cielo», no era otra cosa que declarar que intentaban imposibilidades, y así se hallarían luchando contra Dios. «Bien, pero ¿no recibieron Teudas y sus seguidores de sí mismos?» Lo hicieron, pero inmediatamente fueron dispersados y destruidos, no así lo que pertenecía a Cristo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "57251b13bdae"
+ },
+ "hcf:Augustine of Hippo/John 3_28#0": {
+  "text_es": "«Vosotros mismos me sois testigos que dije: Yo no soy el Cristo.» Tú no eres el Cristo; pero ¿y si eres mayor que Él, ya que lo bautizaste? «Soy enviado:» soy el heraldo, Él es el Juez.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7b9d4c14a22e"
+ },
+ "hcf:Cyril of Alexandria/John 3_28#0": {
+  "text_es": "Lleva a sus discípulos al recuerdo de las palabras que ya habían oído a menudo, en parte reprendiéndolos justamente, como sumidos en el olvido de cosas provechosas, y dormidos respecto a esta doctrina tan temible, en parte persuadiéndolos de recordar la Divina Escritura, como habiendo sido nutridos en celo por el conocimiento de estas cosas; a quien ella predica como el Cristo que ha de venir, a quien de nuevo como el Bautista el precursor. Pues así ellos, habiendo recibido conocimiento de cada uno, de ninguna manera se enojarían, viéndolos en el estado que corresponde a cada uno. No necesitaré entonces, dice él, otros testigos para esto, tengo a mis propios discípulos como testigos auditivos, confesé mi estado de servidumbre, cuando preanuncié, fui enviado, no soy el Cristo. Que Él venza, prevalezca, resplandezca aún más como Señor y Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "902d21038a3d"
+ },
+ "aquifer:19115": {
+  "text_es": "Juan el Bautista describió a Jesús como el esposo. Se describió a sí mismo como el amigo del esposo.\n\nJuan no procuró honrarse a sí mismo. En cambio, dio honra a Jesús y mostró que Jesús es mayor que él.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9e082464082c"
+ },
+ "hcf:Augustine of Hippo/John 3_29#1": {
+  "text_es": "Como si dijera: Ella no es mi esposa. Pero ¿acaso no te regocijas en el matrimonio? Sí, me regocijo, dice, porque soy el amigo del Esposo.\n\n(Tr. xiii) Pero ¿por qué está de pie? Porque no cae, a causa de su humildad. Terreno firme es este para estar de pie: Aquel cuya correa de sandalia no soy digno de desatar. De nuevo: Él está de pie, y lo oye. Así pues, si cayera, no lo oiría. Por tanto, el amigo del Esposo debe estar de pie y oír, esto es, permanecer en la gracia que ha recibido, y oír la voz en la que se regocija. No me regocijo, dice, por mi propia voz, sino por la voz del Esposo. Yo me regocijo; yo al oír, Él al hablar; yo soy el oído, Él el Verbo. Pues quien custodia a la novia o esposa de su amigo, cuida de que ella no ame a ningún otro; si él deseara ser amado a sí mismo en lugar de su amigo, y gozar de la que le fue confiada, ¡cuán detestable aparece ante el mundo entero! Sin embargo, muchos son los adúlteros que veo, que querrían poseer para sí la esposa comprada a tan gran precio, y que pretenden con sus palabras ser amados ellos mismos en lugar del Esposo.\n\n(Tr. xiv. c. 3) O así: Este mi gozo se ha cumplido, esto es, mi gozo al oír la voz del Esposo. Tengo mi don; no reclamo más, no sea que pierda lo que he recibido. Quien se regocija en sí mismo, tiene tristeza; pero quien se regocija en el Señor, se regocijará siempre, porque Dios es eterno.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3869e086704b"
+ },
+ "hcf:Bede/John 3_29#1": {
+  "text_es": "¿Quién eres tú entonces, puesto que no eres el Cristo, y quién es Aquel de quien das testimonio? Juan responde: Él es el Esposo; yo soy el amigo del Esposo, enviado para preparar a la Esposa para su llegada: El que tiene la Esposa, es el Esposo. Por la Esposa entiende la Iglesia, reunida de entre todas las naciones; virgen en pureza de corazón, en perfección de amor, en vínculo de paz, en castidad de mente y cuerpo; en la unidad de la fe católica; pues en vano es virgen en el cuerpo quien no permanece virgen en la mente. A esta Esposa Cristo la unió a sí mismo en matrimonio, y la redimió con el precio de su propia Sangre.\n\nPor tanto, nuestro Señor encomendó su Esposa a su amigo, esto es, al orden de los predicadores, que debían celar por ella, no para sí mismos, sino para Cristo; el amigo del Esposo que está de pie y lo oye, se regocija mucho por la voz del Esposo.\n\nSe regocija al oír la voz del Esposo quien sabe que no debe regocijarse en su propia sabiduría, sino en la sabiduría que Dios le da. Quienquiera que en sus buenas obras no busca su propia gloria, ni alabanza, ni ganancia terrenal, sino que tiene sus afectos puestos en las cosas celestiales; este hombre es el amigo del Esposo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3c24d1f6aeea"
+ },
+ "hcf:Theophylact of Ohrid/John 3_29#0": {
+  "text_es": "Cristo es el esposo de toda alma; el matrimonio, en el que se unen, es el bautismo; el lugar de ese matrimonio es la Iglesia; la prenda de él, la remisión de los pecados y la comunión del Espíritu Santo; la consumación, la vida eterna; la cual recibirán los que sean dignos. Solo Cristo es el Esposo: todos los demás maestros no son sino los amigos del Esposo, como lo fue el precursor. El Señor es el dador de bienes; los demás son los despreciadores de sus dones.\n\nPor lo cual me regocijo ahora, de que todos los hombres lo sigan. Pues si la esposa, esto es, el pueblo, no hubiera salido al encuentro del Esposo, entonces yo, como amigo del Esposo, me habría entristecido,",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "51efc850b1d0"
+ },
+ "hcf:Augustine of Hippo/John 3_30#0": {
+  "text_es": "¿Qué significa esto: Es necesario que él crezca? Dios ni crece ni decrece. Y Juan y Jesús, según la carne, eran de la misma edad: pues la diferencia de seis meses entre ellos no tiene consecuencia. Este es un gran misterio. Antes de que nuestro Señor viniera, los hombres se gloriaban en sí mismos; Él vino en una naturaleza que no era de hombre, para que la gloria del hombre fuera disminuida y la gloria de Dios exaltada. Pues vino a remitir los pecados sobre la confesión del hombre: la confesión del hombre, la humildad del hombre, es la piedad de Dios, la exaltación de Dios. Esta verdad la probaron Cristo y Juan, incluso por sus modos de sufrir: Juan fue decapitado, Cristo fue levantado en la cruz. Entonces Cristo nació cuando los días comienzan a alargarse; Juan, cuando comienzan a acortarse. Que la gloria de Dios, pues, crezca en nosotros, y la nuestra disminuya, para que la nuestra también crezca en Dios. Pero es porque tú entiendes a Dios cada vez más, que Él parece crecer en ti: pues en su propia naturaleza no crece, sino que es siempre perfecto: así como a un hombre curado de ceguera, que comienza a ver un poco, y cada día ve más, la luz le parece crecer, mientras que en realidad está siempre en su plenitud, ya sea que él la vea o no. De igual manera el hombre interior hace progreso en Dios, y parece como si Dios creciera en él; pero es él mismo quien disminuye, cayendo de la altura de su propia gloria, y elevándose en la gloria de Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9974b4764a75"
+ },
+ "hcf:Theophylact of Ohrid/John 3_30#0": {
+  "text_es": "Así como, al salir el sol, la luz de los demás astros parece extinguirse, aunque en realidad solo queda oscurecida por la luz mayor: así se dice que el precursor disminuye; como si fuera una estrella ocultada por el sol. Cristo crece en la medida en que se va manifestando gradualmente por milagros; no en el sentido de aumento o progreso en virtud (opinión de Nestorio), sino solo en cuanto a la manifestación de su divinidad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d056180a9825"
+ },
+ "aquifer:19117": {
+  "text_es": "Jesús vino del cielo. Por esto, solo él pudo dar a conocer al Padre (1:18; 3:13).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "85df1ad69e0c"
+ },
+ "hcf:Alcuin of York/John 3_31#0": {
+  "text_es": "O bien: viene de arriba; esto es, de la altura de aquella naturaleza humana que existía antes del pecado del primer hombre. Pues fue esa naturaleza humana la que el Verbo de Dios asumió: no tomó sobre sí el pecado del hombre, como sí su castigo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6b973dfa09ea"
+ },
+ "hcf:Augustine of Hippo/John 3_31#0": {
+  "text_es": "O bien: habla de la tierra, lo dice del hombre, esto es, de sí mismo, en cuanto habla meramente de manera humana. Si dice algo divino, es iluminado por Dios para decirlo: como dice el Apóstol: Sin embargo, no yo, sino la gracia de Dios que estaba conmigo. (1 Cor. 15:10) Juan, pues, en cuanto atañe a Juan, es de la tierra y habla de la tierra: si oís algo divino de él, atribuidlo al Iluminador, no a quien ha recibido la luz.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "eb5fbb75e6ca"
+ },
+ "hcf:Glossa Ordinaria/John 3_31#0": {
+  "text_es": "Esto es, del Padre. Él está por encima de todo de dos maneras: primero, con respecto a su humanidad, que era la del hombre antes de que pecara; segundo, con respecto a la sublimidad del Padre, a quien es igual.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "61c93ff4cb35"
+ },
+ "hcf:Theophylact of Ohrid/John 3_31#0": {
+  "text_es": "Cristo viene de arriba, como descendiendo del Padre; y está por encima de todo, como siendo elegido con preferencia a todos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1cccfccf2b72"
+ },
+ "hcf:Alcuin of York/John 3_32#0": {
+  "text_es": "El que es de la tierra, es de la tierra; esto es, es terrenal, y habla de la tierra, habla cosas terrenales.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d7e485284892"
+ },
+ "hcf:Augustine of Hippo/John 3_32#0": {
+  "text_es": "Pero ¿qué es lo que el Hijo ha oído del Padre? ¿Acaso ha oído la palabra del Padre? Sí, pero Él es la Palabra del Padre. Cuando concibes una palabra con la que nombrar una cosa, la misma concepción de esa cosa en la mente es una palabra. Así pues, como tienes en tu mente y contigo tu palabra hablada, así también Dios pronunció el Verbo, esto es, engendró al Hijo. Puesto que entonces el Hijo es el Verbo de Dios, y el Hijo nos ha hablado el Verbo de Dios, nos ha hablado la palabra del Padre. Lo que Juan dijo es, por tanto, verdadero.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "80ac5b9c2fea"
+ },
+ "hcf:Theophylact of Ohrid/John 3_32#0": {
+  "text_es": "Cuando oigáis, pues, que Cristo habla lo que vio y oyó del Padre, no supongáis que necesita ser enseñado por el Padre; sino solo que ese conocimiento, que tiene naturalmente, es del Padre. Por esta razón se dice que ha oído, todo lo que sabe, del Padre.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "51341891abb2"
+ },
+ "hcf:Alcuin of York/John 3_33#0": {
+  "text_es": "O bien: Ha puesto su sello, esto es, ha puesto un sello en su corazón, como señal singular y especial, de que este es el Dios verdadero, que sufrió por la salvación del género humano.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8210651c515b"
+ },
+ "hcf:Augustine of Hippo/John 3_33#1": {
+  "text_es": "O así: Hay un pueblo reservado para la ira de Dios, y para ser condenado con el diablo; de los cuales ninguno recibe el testimonio de Cristo. Y otros hay ordenados a la vida eterna. Observa cómo el género humano está dividido espiritualmente, aunque como seres humanos estén mezclados juntos: y Juan los separó por los pensamientos de su corazón, aunque todavía no estaban divididos en cuanto al lugar, y los consideró como dos clases: los incrédulos y los creyentes. Mirando a los incrédulos, dice: Ningún hombre recibe su testimonio. Luego, volviéndose a los de la derecha, dice: El que ha recibido su testimonio, ha puesto su sello.\n\n(Tr. xiv. c. 8) ¿Qué es esto, que Dios es verdadero, sino que Dios es verdadero, y todo hombre mentiroso? Pues ningún hombre puede decir qué es la verdad, hasta que es iluminado por Aquel que no puede mentir. Dios entonces es verdadero, y Cristo es Dios. ¿Quieres prueba? Oye su testimonio, y lo hallarás así. Pero si aún no entiendes a Dios, aún no has recibido su testimonio.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b99117f5dbaf"
+ },
+ "hcf:Cyril of Alexandria/John 3_33#1": {
+  "text_es": "No había otra manera posible de mostrar la impiedad de los que no creen sino dando a conocer la gloriosa obra de los creyentes. El mal es mucho más fácil de ver cuando se contrasta con el bien. Cuando sabes que hay algo mejor, eso solo pone lo peor en un contraste más marcado. Si alguno, pues, dice Juan, ha asentido a las palabras del que viene de arriba, ha sellado y confirmado con su entendimiento que la verdad es siempre cercana y querida a la naturaleza divina. Lo contrario es igualmente evidente, porque cualquiera que deseche la fe testificará con toda certeza, contra sí mismo, que Dios no es verdadero.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8038db4c3e73"
+ },
+ "aquifer:19118": {
+  "text_es": "⸢Dios da el Espíritu sin medida⸣: El Padre muestra su profundo amor por el Hijo (3:35). Esto también muestra la naturaleza divina de Jesús. Juan presenta al único Dios como tres personas (compárese 1 Juan 5:5–12).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "53c57ff42a61"
+ },
+ "hcf:Augustine of Hippo/John 3_34#2": {
+  "text_es": "Cristo, pues, es Él mismo el Dios verdadero, y Dios le ha enviado; Dios ha enviado a Dios; une ambas cosas: son un solo Dios. Pues Juan dice: «a quien Dios ha enviado», para distinguir a Cristo de sí mismo. ¿Qué, entonces, no fue Juan mismo enviado por Dios? Sí; pero atiende a lo que sigue: «porque Dios no da el Espíritu por medida» a Él. A los hombres da por medida, a su Hijo unigénito no da por medida. A uno le es dado por el Espíritu palabra de sabiduría, a otro palabra de ciencia; uno tiene una cosa, otro otra; pues la medida implica cierta división de dones. Pero Cristo no recibió por medida, aunque dio por medida.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bfdf8bdef13a"
+ },
+ "hcf:John Chrysostom/John 3_34#0": {
+  "text_es": "«Porque Dios no da el Espíritu por medida».\n\nDe nuevo, como dije, lleva su discurso a un nivel más bajo, variándolo y haciéndolo apto para ser recibido por quienes entonces lo escuchaban; de otro modo no habría podido elevarlos y aumentar su temor. Pues si hubiera dicho algo grande y sublime acerca de Jesús mismo, no habrían creído, sino que incluso podrían haberle despreciado. Por eso lo refiere todo al Padre, hablando por un tiempo de Cristo como de un hombre. Pero ¿qué es lo que dice: «Dios no da el Espíritu por medida»? Quiere mostrar que todos nosotros hemos recibido la operación del Espíritu por medida (pues en este lugar entiende por «Espíritu» la operación del Espíritu, pues esto es lo que se divide), pero que Cristo tiene toda su operación sin medida y entera. Ahora bien, si sus operaciones son sin medida, mucho más su Esencia. ¿Ves también que el Espíritu es infinito? ¿Cómo entonces puede ser justamente sospechoso quien ha recibido toda la operación del Espíritu, quien conoce las cosas de Dios, quien dice: «Lo que hemos oído, eso hablamos, y de lo que hemos visto, testificamos» (c. iii. 11)? No dice nada que no sea «de Dios», o que no sea del «Espíritu». Y por un tiempo no dice nada acerca de Dios el Verbo, sino que hace creíble toda su doctrina por referencia al Padre y al Espíritu. Pues que hay un Dios lo sabían, y que hay un Espíritu lo sabían (aunque no tenían una opinión recta acerca de Él), pero que hay un Hijo, no lo sabían. Por esta razón recurre siempre al Padre y al Espíritu, confirmando desde allí sus palabras.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8f823181e2f8"
+ },
+ "hcf:Augustine of Hippo/John 3_35#1": {
+  "text_es": "Habiendo dicho del Hijo: «Dios no da el Espíritu por medida» a Él, añade: «El Padre ama al Hijo», y además añade: «y todas las cosas ha entregado en su mano»; para mostrar que el Padre ama al Hijo en un sentido peculiar. Pues el Padre ama a Juan y a Pablo, y sin embargo no ha entregado todas las cosas en sus manos. Pero el Padre ama al Hijo como Hijo, no como un señor a su siervo; como unigénito, no como adoptado. Por eso ha entregado todas las cosas en su mano; de modo que, tan grande como es el Padre, tan grande es el Hijo; no pensemos entonces que, porque se dignó enviar al Hijo, ha sido enviado alguien inferior al Padre.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8058f388060e"
+ },
+ "hcf:Theophylact of Ohrid/John 3_35#0": {
+  "text_es": "El Padre, pues, ha dado todas las cosas al Hijo en cuanto a su divinidad; por derecho, no por gracia. O bien: ha entregado todas las cosas en su mano en cuanto a su humanidad, en tanto que ha sido constituido Señor de todas las cosas que están en el cielo y que están en la tierra.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e242c0275ae3"
+ },
+ "aquifer:19119": {
+  "text_es": "Dios da el don de la vida eterna. Esta vida no se refiere solo al futuro. Comienza ahora. Es una vida nueva y una relación estrecha con Dios en el presente. ⸢Quien rechaza al Hijo no verá la vida⸣: El mundo, que vive en tinieblas y pecado, ya está bajo el juicio de Dios (Romanos 1–3). Este juicio muestra la ira de Dios contra el pecado y el mal.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a28952d962e6"
+ },
+ "hcf:Alcuin of York/John 3_36#0": {
+  "text_es": "Y porque todas las cosas están en su mano, también lo está la vida eterna; y por eso sigue: «El que cree en el Hijo tiene vida eterna».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8e688fbdf93c"
+ },
+ "hcf:Augustine of Hippo/John 3_36#2": {
+  "text_es": "Y no dice: «la ira de Dios viene sobre él», sino: «permanece sobre él». Pues todos los que nacen están bajo la ira de Dios, que contrajo el primer Adán. El Hijo de Dios vino sin pecado, y fue revestido de mortalidad; murió para que tú vivieras. Quienquiera, pues, que no crea en el Hijo, sobre él permanece la ira de Dios, de la cual habla el Apóstol: «éramos por naturaleza hijos de ira» (Ef. 2:3).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1f72396af87d"
+ },
+ "hcf:Bede/John 3_36#0": {
+  "text_es": "Debemos entender aquí no una fe solo de palabras, sino una fe que se desarrolla en obras.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "473cd3b8ad28"
+ },
+ "hcf:Cyril of Alexandria/John 3_36#3": {
+  "text_es": "Pues del creyente dice que tendrá vida eterna; del incrédulo, la palabra tiene una significación distinta. Pues no dice que no tendrá vida, porque será resucitado por la ley común de la resurrección; sino que dice que no verá la vida, es decir, que ni siquiera llegará a la mera visión de la vida de los santos, no tocará su bienaventuranza, permanecerá sin gustar su vida transcurrida en dicha. Pues eso es verdaderamente la vida. Pero existir en el castigo es más amargo que toda muerte, reteniendo el alma en el cuerpo solo para la sensación de los sufrimientos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "912b31ece0a8"
+ }
+}

@@ -1,0 +1,734 @@
+{
+ "aquifer:19109": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "92ef9f5ffe39"
+ },
+ "aquifer:19116": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "8910715b35d4"
+ },
+ "aquifer:19120": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "bfae29eda673"
+ },
+ "aquifer:19121": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "5cb1805d46c6"
+ },
+ "aquifer:19122": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "cfe2487f828b"
+ },
+ "aquifer:19103": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "5713e77cc5a1"
+ },
+ "aquifer:19104": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "cdc7978ceb47"
+ },
+ "aquifer:19106": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "f682b89a7c85"
+ },
+ "aquifer:19105": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "3b77c05eaeb3"
+ },
+ "aquifer:19107": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "e34c2c7f0350"
+ },
+ "aquifer:19108": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "3a12c1e94a38"
+ },
+ "aquifer:19111": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "9fbc9c3d40e7"
+ },
+ "aquifer:19110": {
+  "ok": true,
+  "motivo": "La traducción es fiel y completa.",
+  "modelo": "gemini-3.6-flash",
+  "huella": "815920e3866b"
+ },
+ "aquifer:19112": {
+  "ok": true,
+  "motivo": "La traducción es fiel y completa.",
+  "modelo": "gemini-3.6-flash",
+  "huella": "eb5d53cfdb7a"
+ },
+ "aquifer:19113": {
+  "ok": true,
+  "motivo": "La traducción es fiel y completa.",
+  "modelo": "gemini-3.6-flash",
+  "huella": "c157cc144963"
+ },
+ "aquifer:19114": {
+  "ok": true,
+  "motivo": "La traducción es fiel y completa.",
+  "modelo": "gemini-3.6-flash",
+  "huella": "ab6d7e000e96"
+ },
+ "aquifer:19115": {
+  "ok": true,
+  "motivo": "La traducción es fiel y completa.",
+  "modelo": "gemini-3.6-flash",
+  "huella": "73c947fc94b4"
+ },
+ "aquifer:19117": {
+  "ok": true,
+  "motivo": "La traducción es fiel y completa.",
+  "modelo": "gemini-3.6-flash",
+  "huella": "17ff0b5be69d"
+ },
+ "aquifer:19118": {
+  "ok": true,
+  "motivo": "La traducción es fiel y completa.",
+  "modelo": "gemini-3.6-flash",
+  "huella": "2170e2137a59"
+ },
+ "aquifer:19119": {
+  "ok": true,
+  "motivo": "La traducción es fiel y completa.",
+  "modelo": "gemini-3.6-flash",
+  "huella": "ff6a57e32498"
+ },
+ "hcf:Alcuin of York/John 3_11#0": {
+  "ok": true,
+  "motivo": "La traducción es fiel y completa.",
+  "modelo": "gemini-3.6-flash",
+  "huella": "91fc08544626"
+ },
+ "hcf:Alcuin of York/John 3_16-17#0": {
+  "ok": true,
+  "motivo": "La traducción es fiel y completa.",
+  "modelo": "gemini-3.6-flash",
+  "huella": "aed5ab303d43"
+ },
+ "hcf:Alcuin of York/John 3_18#0": {
+  "ok": true,
+  "motivo": "La traducción es fiel y completa.",
+  "modelo": "gemini-3.6-flash",
+  "huella": "a36e1070980b"
+ },
+ "hcf:Alcuin of York/John 3_19#0": {
+  "ok": true,
+  "motivo": "La traducción es fiel y completa.",
+  "modelo": "gemini-3.6-flash",
+  "huella": "3c16a4086a6f"
+ },
+ "hcf:Alcuin of York/John 3_20#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "5fe90d535296"
+ },
+ "hcf:Alcuin of York/John 3_22#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "d2543502c94d"
+ },
+ "hcf:Alcuin of York/John 3_26#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "966f8614bfc1"
+ },
+ "hcf:Alcuin of York/John 3_31#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "78fcef1793d0"
+ },
+ "hcf:Alcuin of York/John 3_32#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "fc11b00acb44"
+ },
+ "hcf:Alcuin of York/John 3_33#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "fa8e4324fc31"
+ },
+ "hcf:Alcuin of York/John 3_36#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "2d0ec84e9963"
+ },
+ "hcf:Alcuin of York/John 3_8#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "2b428552021c"
+ },
+ "hcf:Augustine of Hippo/John 3_1-2#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "deb1c03066ca"
+ },
+ "hcf:Augustine of Hippo/John 3_10#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "c5cd9013d163"
+ },
+ "hcf:Augustine of Hippo/John 3_12#1": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "a1847566e108"
+ },
+ "hcf:Augustine of Hippo/John 3_13#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "fb80bbaae957"
+ },
+ "hcf:Augustine of Hippo/John 3_14-15#0": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "371431f97463"
+ },
+ "hcf:Augustine of Hippo/John 3_17#1": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "1e1bbdfe8dd2"
+ },
+ "hcf:Augustine of Hippo/John 3_18#1": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "dacb92d40b6c"
+ },
+ "hcf:Augustine of Hippo/John 3_19-21#0": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "8a545b2ad944"
+ },
+ "hcf:Augustine of Hippo/John 3_20#1": {
+  "ok": true,
+  "motivo": "Traducción fiel y completa.",
+  "modelo": "gemini-3.6-flash",
+  "huella": "8107c6a9c790"
+ },
+ "hcf:Augustine of Hippo/John 3_21#2": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "74110347fb48"
+ },
+ "hcf:Augustine of Hippo/John 3_22#2": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "22dcc39f3801"
+ },
+ "hcf:Augustine of Hippo/John 3_23#2": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "7de8b656ce41"
+ },
+ "hcf:Augustine of Hippo/John 3_25#0": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "bf15caca2fa1"
+ },
+ "hcf:Augustine of Hippo/John 3_26#1": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "ff67b45b2754"
+ },
+ "hcf:Augustine of Hippo/John 3_27#0": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "96e1b9c9dbba"
+ },
+ "hcf:Augustine of Hippo/John 3_28#0": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "0c877f951247"
+ },
+ "hcf:Augustine of Hippo/John 3_29#1": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "c0b0f9243a86"
+ },
+ "hcf:Augustine of Hippo/John 3_3#1": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "704c525e52a3"
+ },
+ "hcf:Augustine of Hippo/John 3_30#0": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "58713bcf4ed2"
+ },
+ "hcf:Augustine of Hippo/John 3_31#0": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "ec6ccf051d65"
+ },
+ "hcf:Augustine of Hippo/John 3_32#0": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "b88fbcfa4911"
+ },
+ "hcf:Augustine of Hippo/John 3_33#1": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "40aebfa7b882"
+ },
+ "hcf:Augustine of Hippo/John 3_34#2": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "0885077e6fde"
+ },
+ "hcf:Augustine of Hippo/John 3_35#1": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "280414d91d76"
+ },
+ "hcf:Augustine of Hippo/John 3_36#2": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "cd5b34d372b5"
+ },
+ "hcf:Augustine of Hippo/John 3_4#5": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "7c1ebf7832d3"
+ },
+ "hcf:Augustine of Hippo/John 3_5#1": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "8e71473212a4"
+ },
+ "hcf:Augustine of Hippo/John 3_5#5": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "376f434be3ac"
+ },
+ "hcf:Augustine of Hippo/John 3_8#1": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "34a0cea7581d"
+ },
+ "hcf:Bede/John 3_1-2#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "b0d70f3642c8"
+ },
+ "hcf:Bede/John 3_13#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "861700db2f1a"
+ },
+ "hcf:Bede/John 3_14#2": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "3bd691ffab04"
+ },
+ "hcf:Bede/John 3_16#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "da1c265c66b9"
+ },
+ "hcf:Bede/John 3_19#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "99bcb434b3f8"
+ },
+ "hcf:Bede/John 3_20#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "769e84db866e"
+ },
+ "hcf:Bede/John 3_21#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "b091ee6e7746"
+ },
+ "hcf:Bede/John 3_22#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "f8eacc84933f"
+ },
+ "hcf:Bede/John 3_23#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "9d16a22ed8ab"
+ },
+ "hcf:Bede/John 3_24#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "8179f778bcac"
+ },
+ "hcf:Bede/John 3_29#1": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "c5cb4510310f"
+ },
+ "hcf:Bede/John 3_36#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "486db2c9c5c7"
+ },
+ "hcf:Bede/John 3_4#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "ca0b8af6daa0"
+ },
+ "hcf:Bede/John 3_8#0": {
+  "ok": false,
+  "motivo": "Omisión de «heart» (corazón) al traducir «whose heart to visit».",
+  "modelo": "gemini-3.6-flash",
+  "huella": "b58a6c2f4565"
+ },
+ "hcf:Cyril of Alexandria/John 3_12#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "4d3f61e93505"
+ },
+ "hcf:Cyril of Alexandria/John 3_2#1": {
+  "ok": true,
+  "motivo": "Traducción fiel y completa.",
+  "modelo": "gemini-3.6-flash",
+  "huella": "61fb5ab58726"
+ },
+ "hcf:Cyril of Alexandria/John 3_20#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "0ef21228711a"
+ },
+ "hcf:Cyril of Alexandria/John 3_26#0": {
+  "ok": false,
+  "motivo": "Adición injustificada de la palabra «aparente» para traducir «John's shortcoming».",
+  "modelo": "gemini-3.6-flash",
+  "huella": "5dea8fafe0bf"
+ },
+ "hcf:Cyril of Alexandria/John 3_28#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "12c78a00905a"
+ },
+ "hcf:Cyril of Alexandria/John 3_3#0": {
+  "ok": true,
+  "motivo": "Traducción fiel y completa.",
+  "modelo": "gemini-3.6-flash",
+  "huella": "4ee649981dd9"
+ },
+ "hcf:Cyril of Alexandria/John 3_33#1": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "72fa0f09642f"
+ },
+ "hcf:Cyril of Alexandria/John 3_36#3": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "505ef9feffa3"
+ },
+ "hcf:Cyril of Alexandria/John 3_9#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "a16c14d62744"
+ },
+ "hcf:Glossa Ordinaria/John 3_31#0": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "7877bdd86e2e"
+ },
+ "hcf:Gregory the Dialogist/John 3_13#0": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "189da4429ad0"
+ },
+ "hcf:Gregory the Dialogist/John 3_18#1": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "b3d0b6a31c1e"
+ },
+ "hcf:Haymo of Halberstadt/John 3_11#0": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "8b8e9370e45d"
+ },
+ "hcf:Haymo of Halberstadt/John 3_2#0": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "264f601cdc74"
+ },
+ "hcf:Haymo of Halberstadt/John 3_6#0": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "5da368cebb09"
+ },
+ "hcf:Haymo of Halberstadt/John 3_8#0": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "c46fa7036d3d"
+ },
+ "hcf:Haymo of Halberstadt/John 3_9#0": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "932484aae81d"
+ },
+ "hcf:Hilary of Poitiers/John 3_13#0": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "564dd4a125db"
+ },
+ "hcf:Hilary of Poitiers/John 3_16#0": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "27c22e9ca172"
+ },
+ "hcf:Jerome/John 3_23#0": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "ac0915e977c0"
+ },
+ "hcf:John Chrysostom/John 3_1-2#0": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "da0f1254b1ca"
+ },
+ "hcf:John Chrysostom/John 3_10#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "f323a01c0b79"
+ },
+ "hcf:John Chrysostom/John 3_15#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "d5aeac1cabf4"
+ },
+ "hcf:John Chrysostom/John 3_17-18#2": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "af1af33444c4"
+ },
+ "hcf:John Chrysostom/John 3_18#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "00c058d40da0"
+ },
+ "hcf:John Chrysostom/John 3_19#1": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "f7eb93474886"
+ },
+ "hcf:John Chrysostom/John 3_21#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "c162c702e079"
+ },
+ "hcf:John Chrysostom/John 3_22#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "ceb0c9d45a52"
+ },
+ "hcf:John Chrysostom/John 3_23-24#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "3e7e1bdb7238"
+ },
+ "hcf:John Chrysostom/John 3_24-25#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "9c52d8f29d12"
+ },
+ "hcf:John Chrysostom/John 3_25#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "b5a66f644777"
+ },
+ "hcf:John Chrysostom/John 3_27#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "21c3bceab36a"
+ },
+ "hcf:John Chrysostom/John 3_34#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "80c31fc8cc60"
+ },
+ "hcf:John Chrysostom/John 3_4#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "8097c97958ca"
+ },
+ "hcf:John Chrysostom/John 3_5#6": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "86eab7852b03"
+ },
+ "hcf:John Chrysostom/John 3_6#2": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "8d47a23a9c78"
+ },
+ "hcf:John Chrysostom/John 3_7-8#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "80e2a5dd35d5"
+ },
+ "hcf:Theophylact of Ohrid/John 3_11#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "857501ebde11"
+ },
+ "hcf:Theophylact of Ohrid/John 3_13#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "e5ac595b49c1"
+ },
+ "hcf:Theophylact of Ohrid/John 3_14#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "1521fe301af7"
+ },
+ "hcf:Theophylact of Ohrid/John 3_16#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "774cba86d0ac"
+ },
+ "hcf:Theophylact of Ohrid/John 3_29#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "f89828550c9d"
+ },
+ "hcf:Theophylact of Ohrid/John 3_30#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "c2a319193311"
+ },
+ "hcf:Theophylact of Ohrid/John 3_31#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "060fc1557fb8"
+ },
+ "hcf:Theophylact of Ohrid/John 3_32#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "gemini-3.6-flash",
+  "huella": "972522c26390"
+ },
+ "hcf:Theophylact of Ohrid/John 3_35#0": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "70739965fad3"
+ },
+ "hcf:Theophylact of Ohrid/John 3_8#0": {
+  "ok": true,
+  "motivo": null,
+  "modelo": "gemini-3.6-flash",
+  "huella": "3fefe1a24642"
+ }
+}

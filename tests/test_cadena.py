@@ -57,6 +57,20 @@ class Compuerta(unittest.TestCase):
                "dióselo": "dióselo", "Judíos": "Judíos", "ríos": "ríos", "José": "José"}
         self.assertEqual({w: R._sin_tilde(w) for w in par}, par)
 
+    # clases de la corrida completa de Juan (02-10-2026)
+    def test_yo_soy_no_es_numero(self):
+        self.assertEqual(V.numeros("Before Abraham was, I Am."), V.numeros("Antes que Abraham fuese, Yo soy."))
+        self.assertEqual(V.numeros("I Corinthians 13:4"), V.numeros("1 Corintios 13:4"))
+
+    def test_palabra_mayuscula(self):
+        self.assertTrue(V.PALABRA_MAY.search("Sí, pero Él es la Palabra del Padre."))
+        self.assertFalse(V.PALABRA_MAY.search("Palabra fiel es esta. «Palabra de Dios»"))
+        self.assertTrue(V.CRISTO_EN.search("Yea, but He is the Word of the Father."))
+        self.assertFalse(V.CRISTO_EN.search("having now sown the Word of salvation"))
+
+    def test_oraciones_sin_abreviaturas(self):
+        self.assertEqual(V.oraciones("I will see you, i. e. I will take you (in Joan. tom. vi. c. 15). Or thus."), 2)
+
     def test_wilson(self):
         self.assertLess(J.wilson_sup(0, 200), 0.02)
         self.assertGreater(J.wilson_sup(5, 100), 0.03)

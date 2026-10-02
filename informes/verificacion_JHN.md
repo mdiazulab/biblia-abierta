@@ -1,3 +1,23 @@
 # Verificación JHN
 
 - cap.1: OK — 182 notas; con fallos 0 
+- cap.2: OK — 81 notas; con fallos 0 
+- cap.3: OK — 122 notas; con fallos 0 
+- cap.4: OK — 129 notas; con fallos 0 
+- cap.5: OK — 135 notas; con fallos 0 
+- cap.6: OK — 213 notas; con fallos 0 
+- cap.7: OK — 133 notas; con fallos 0 
+- cap.8: OK — 179 notas; con fallos 0 
+- cap.9: OK — 95 notas; con fallos 0 
+- cap.10: OK — 121 notas; con fallos 0 
+- cap.11: OK — 148 notas; con fallos 0 
+- cap.12: OK — 120 notas; con fallos 0 
+- cap.13: OK — 106 notas; con fallos 0 
+- cap.14: OK — 98 notas; con fallos 0 
+- cap.15: OK — 79 notas; con fallos 0 
+- cap.16: OK — 92 notas; con fallos 0 
+- cap.17: OK — 85 notas; con fallos 0 
+- cap.18: OK — 113 notas; con fallos 0 
+- cap.19: OK — 117 notas; con fallos 0 
+- cap.20: OK — 104 notas; con fallos 0 
+- cap.21: OK — 74 notas; con fallos 0 

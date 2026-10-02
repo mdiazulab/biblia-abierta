@@ -1253,10 +1253,10 @@
   "huella": "bf89980e10e5"
  },
  "hcf:Cyril of Alexandria/John 1_51#0": {
-  "text_es": "Común es ahora a todos la palabra que sella la fe de Natanael. Pero al decir que los ángeles serán vistos subiendo y bajando sobre el Hijo del hombre, esto es, ministrando y sirviendo a sus mandatos, para la salvación de los que han de creer, dice que entonces especialmente se revelará como siendo por naturaleza Hijo de Dios. Pues no es a otro a quien sirven las potencias racionales, sino ciertamente a Dios. Y esto no quita la sujeción entre los ángeles (pues esto no será razonablemente llamado servidumbre). Pero hemos oído de los santos evangelistas que ángeles vinieron a nuestro Salvador Cristo y le ministraron.",
+  "text_es": "Común es ahora a todos la palabra que sella la fe de Natanael. Pero al decir que los ángeles serán vistos subiendo y bajando sobre el Hijo del hombre, esto es, ministrando y sirviendo a sus mandatos, para la salvación de los que han de creer, dice que entonces especialmente se revelará como siendo por naturaleza Hijo de Dios. Pues no es a unos a otros a quienes sirven las potencias racionales, sino ciertamente a Dios. Y esto no quita la sujeción entre los ángeles (pues esto no será razonablemente llamado esclavitud). Pero hemos oído de los santos evangelistas que ángeles vinieron a nuestro Salvador Cristo y le ministraron.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
   "huella": "72388ec77d69",
-  "corregido_por_juez": "«not one another» (no entre sí / no unas a otras) se tradujo erróneamente como «no es a otro»."
+  "corregido_por_juez": "«one another» se tradujo como «a otro» en lugar de «unos a otros» o «entre sí», alterando el sentido del argumento."
  }
 }

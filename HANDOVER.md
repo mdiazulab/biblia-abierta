@@ -51,8 +51,23 @@ Clases encontradas y corregidas en toda la cadena (cada una con prueba en `tests
 - razón de longitud solo para textos > 300 caracteres (falso positivo en frases cortas);
 - atribución de la Catena sin repetir autor y obra.
 
+«JHN todos» corrido en CI (02-10-2026, 50 min): 2.526 notas traducidas (117 con segunda traducción);
+juez caps. 1-8 completo (sensibilidad 95-100 %); en el cap. 9 Gemini agotó su cupo diario y el traceback
+escribió la URL con la clave en informes/juez_JHN.md (repositorio privado; tapada; el usuario debe rotar la
+clave). Arreglos: clave de Gemini en cabecera, mensajes de error sin claves (`comun._sin_claves`),
+deepseek-reasoner al final de la cadena del juez (sin cupo diario), juez por capítulo con caché por tramos.
+Clases nuevas, con prueba y control (todas aplicadas a los 21 capítulos):
+- «Palabra» con mayúscula: el Hijo es «el Verbo» (2 casos en Agustín), si no minúscula (5); control 4;
+- «the Word» solo exige «Verbo» en contexto cristológico (`CRISTO_EN`);
+- «I Am» (Jn 8,58) ya no cuenta como «1»; «has» es español (no inglés residual);
+- citas de capítulo entero «(Sal. 33)» y alias que faltaban (Amos, Mar., Filip., Colos., abreviaturas inglesas);
+- razón de longitud: mínimo 0,78 para los Padres (inglés del s. XIX; 26 pares leídos completos) y control
+  nuevo de oraciones faltantes (sin contar abreviaturas de referencia ni «i. e.»).
+Cola del juez caps. 1-8: 5 ítems resueltos por Claude (4 en `revision/adjudicaciones_JHN.json`, 1 aceptado en
+`revision/aceptados_JHN.json`). Verificación 21/21; EPUB completo (620 KB) epubcheck 0/0/0.
+
 Pendiente:
-1. «JHN todos» (orden en el espejo); revisar cola del juez, verificación y EPUB; copiar aquí.
+1. Juez de los caps. 9-21 (corrida en el espejo); resolver su cola; EPUB final.
 2. Capa «Reforma» (Calvino, Wesley) desde fuentes de dominio público en CI.
 
 Decisiones del usuario: acentos modernizados (a); repo propio `biblia-abierta` (b); misma licencia

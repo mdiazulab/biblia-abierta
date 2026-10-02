@@ -71,45 +71,54 @@ def main():
     caps = sorted({C.cap(n["ref"]) for n in us}) if pedido == "todos" else [int(pedido)]
     rnd = random.Random(17)
     for c in caps:
-        ruta = f"traducido/{libro}/{c:02d}.json"
-        tr = C.cargar(ruta, {})
-        cache = C.cargar(f"traducido/{libro}/juez_{c:02d}.json", {})
-        ns = [n for n in us if C.cap(n["ref"]) == c and tr.get(n["id"], {}).get("text_es")]
-        par = lambda n: (n["id"], T.texto_a_traducir(n), tr[n["id"]]["text_es"])
-        # calibración
-        muestra = rnd.sample(ns, min(20, len(ns)))
-        sembrados = [(f"mut:{n['id']}", T.texto_a_traducir(n), m) for n in muestra
-                     for m, _ in [sembrar(tr[n["id"]]["text_es"], rnd)] if m]
-        v = juzgar(sembrados)
-        detect = sum(1 for i, *_ in sembrados if i in v and not v[i][0])
-        sens = detect / len(sembrados) if sembrados else 0
-        # censo
-        pend = [par(n) for n in ns if cache.get(n["id"], {}).get("huella") != C.huella(tr[n["id"]]["text_es"])]
-        for i, (ok, motivo, modelo) in juzgar(pend).items():
+        try:
+            capitulo(libro, c, us, rnd)
+        except RuntimeError as e:      # sin modelos: lo juzgado queda en la caché y la próxima corrida sigue
+            print(f"cap.{c}: JUEZ INCOMPLETO ({C._sin_claves(str(e))[:300]})")
+
+
+def capitulo(libro, c, us, rnd):
+    ruta = f"traducido/{libro}/{c:02d}.json"
+    tr = C.cargar(ruta, {})
+    cache = C.cargar(f"traducido/{libro}/juez_{c:02d}.json", {})
+    ns = [n for n in us if C.cap(n["ref"]) == c and tr.get(n["id"], {}).get("text_es")]
+    par = lambda n: (n["id"], T.texto_a_traducir(n), tr[n["id"]]["text_es"])
+    # calibración
+    muestra = rnd.sample(ns, min(20, len(ns)))
+    sembrados = [(f"mut:{n['id']}", T.texto_a_traducir(n), m) for n in muestra
+                 for m, _ in [sembrar(tr[n["id"]]["text_es"], rnd)] if m]
+    v = juzgar(sembrados)
+    detect = sum(1 for i, *_ in sembrados if i in v and not v[i][0])
+    sens = detect / len(sembrados) if sembrados else 0
+    # censo
+    pend = [par(n) for n in ns if cache.get(n["id"], {}).get("huella") != C.huella(tr[n["id"]]["text_es"])]
+    for k in range(0, len(pend), LOTE * 5):          # caché guardada por tramos: un corte no pierde lo juzgado
+        for i, (ok, motivo, modelo) in juzgar(pend[k:k + LOTE * 5]).items():
             cache[i] = {"ok": ok, "motivo": motivo, "modelo": modelo, "huella": C.huella(tr[i]["text_es"])}
-        # corrección de lo marcado
-        malos = [n for n in ns if not cache.get(n["id"], {}).get("ok", True)]
-        for n in malos:
-            p = T.prompt([n]).replace("Devuelve SOLO", f"Una revisión señaló este problema en una traducción anterior: "
-                                                       f"«{cache[n['id']]['motivo']}». Evítalo. Devuelve SOLO")
-            r, modelo = C.llamar(p, C.TRADUCTOR)
-            x = next((y for y in r.get("notas", []) if y.get("id") == n["id"]), None)
-            if x and x.get("texto"):
-                tr[n["id"]].update(text_es=T.limpiar(x["texto"]), lemas_es=x.get("lemas") or tr[n["id"]].get("lemas_es", []),
-                                   modelo=modelo, corregido_por_juez=cache[n["id"]]["motivo"])
-        if malos:
-            for i, (ok, motivo, modelo) in juzgar([par(n) for n in malos]).items():
-                cache[i] = {"ok": ok, "motivo": motivo, "modelo": modelo, "huella": C.huella(tr[i]["text_es"])}
-        quedan = [n["id"] for n in ns if not cache.get(n["id"], {}).get("ok", True)]
-        sup = wilson_sup(len(quedan), len(ns)) / max(sens, 0.01)
-        C.guardar(ruta, tr)
         C.guardar(f"traducido/{libro}/juez_{c:02d}.json", cache)
-        C.guardar(f"informes/cola_{libro}_{c:02d}.json",
-                  [{"id": i, "motivo": cache[i]["motivo"], "en": next(par(n)[1] for n in ns if n["id"] == i),
-                    "es": tr[i]["text_es"]} for i in quedan])
-        estado = "APROBADO" if sup < UMBRAL and sens >= 0.8 else "REVISAR"
-        print(f"cap.{c}: sensibilidad {detect}/{len(sembrados)} = {sens:.0%}; marcadas {len(malos)}, corregidas "
-              f"{len(malos) - len(quedan)}, quedan {len(quedan)}; extremo superior ajustado {sup:.1%} -> {estado}")
+    # corrección de lo marcado
+    malos = [n for n in ns if not cache.get(n["id"], {}).get("ok", True)]
+    for n in malos:
+        p = T.prompt([n]).replace("Devuelve SOLO", f"Una revisión señaló este problema en una traducción anterior: "
+                                                   f"«{cache[n['id']]['motivo']}». Evítalo. Devuelve SOLO")
+        r, modelo = C.llamar(p, C.TRADUCTOR)
+        x = next((y for y in r.get("notas", []) if y.get("id") == n["id"]), None)
+        if x and x.get("texto"):
+            tr[n["id"]].update(text_es=T.limpiar(x["texto"]), lemas_es=x.get("lemas") or tr[n["id"]].get("lemas_es", []),
+                               modelo=modelo, corregido_por_juez=cache[n["id"]]["motivo"])
+    if malos:
+        for i, (ok, motivo, modelo) in juzgar([par(n) for n in malos]).items():
+            cache[i] = {"ok": ok, "motivo": motivo, "modelo": modelo, "huella": C.huella(tr[i]["text_es"])}
+    quedan = [n["id"] for n in ns if not cache.get(n["id"], {}).get("ok", True)]
+    sup = wilson_sup(len(quedan), len(ns)) / max(sens, 0.01)
+    C.guardar(ruta, tr)
+    C.guardar(f"traducido/{libro}/juez_{c:02d}.json", cache)
+    C.guardar(f"informes/cola_{libro}_{c:02d}.json",
+              [{"id": i, "motivo": cache[i]["motivo"], "en": next(par(n)[1] for n in ns if n["id"] == i),
+                "es": tr[i]["text_es"]} for i in quedan])
+    estado = "APROBADO" if sup < UMBRAL and sens >= 0.8 else "REVISAR"
+    print(f"cap.{c}: sensibilidad {detect}/{len(sembrados)} = {sens:.0%}; marcadas {len(malos)}, corregidas "
+          f"{len(malos) - len(quedan)}, quedan {len(quedan)}; extremo superior ajustado {sup:.1%} -> {estado}")
 
 
 if __name__ == "__main__":

@@ -1,37 +1,132 @@
 {
  "descripcion": "Términos obligatorios del proyecto (las notas citan y comentan la RV1909: su vocabulario manda). Se pasan al modelo en el prompt (solo los que aparecen en el texto) y se verifican después. 'prohibido' son formas que no deben aparecer en la traducción. Distinto del glosario de Staniloae: allí el Logos se transliteraba; aquí es «el Verbo» como en Jn 1:1 RV1909, y «logos» queda solo como palabra griega en cursiva.",
  "terminos": [
-  {"en": "\\bthe Word\\b", "es": "el Verbo", "prohibido": "\\bla Palabra\\b(?! de Dios)"},
-  {"en": "\\bWord\\b", "es": "Verbo"},
-  {"en": "\\bHoly (?:Spirit|Ghost)\\b", "es": "Espíritu Santo", "prohibido": "\\bEsp[ií]ritu Sagrado\\b"},
-  {"en": "\\b(?:only[- ]begotten|One and Only|one and only Son)\\b", "es": "unigénito"},
-  {"en": "\\b(?:Paraclete|Comforter|Advocate|Counselor)\\b", "es": "Consolador"},
-  {"en": "\\bLamb of God\\b", "es": "Cordero de Dios"},
-  {"en": "\\bSon of Man\\b", "es": "Hijo del hombre"},
-  {"en": "\\bJohn the Baptist\\b", "es": "Juan el Bautista"},
-  {"en": "\\bPharisees?\\b", "es": "fariseo(s)"},
-  {"en": "\\bScriptures?\\b", "es": "Escritura(s)"},
-  {"en": "\\bGospel\\b", "es": "Evangelio"},
-  {"en": "\\bChurch\\b", "es": "Iglesia"},
-  {"en": "\\bincarnation\\b", "es": "encarnación"},
-  {"en": "\\bconsubstantial|of one substance\\b", "es": "consustancial"},
-  {"en": "\\bheresy|heretics?\\b", "es": "herejía / herejes"},
-  {"en": "\\bArians?\\b", "es": "arrianos"},
-  {"en": "\\bSabellius\\b", "es": "Sabelio"},
-  {"en": "\\bmanichees?|Manicheans?\\b", "es": "maniqueos"},
-  {"en": "\\bAugustine\\b", "es": "san Agustín"},
-  {"en": "\\bChrysostom\\b", "es": "san Juan Crisóstomo"},
-  {"en": "\\bCyril of Alexandria\\b", "es": "san Cirilo de Alejandría"},
-  {"en": "\\bTheophylact\\b", "es": "Teofilacto de Ohrid"},
-  {"en": "\\bOrigen\\b", "es": "Orígenes"},
-  {"en": "\\bAlcuin\\b", "es": "Alcuino"},
-  {"en": "\\bBede\\b", "es": "san Beda"},
-  {"en": "\\bHilary\\b", "es": "san Hilario"},
-  {"en": "\\bGregory\\b", "es": "san Gregorio"},
-  {"en": "\\bTertullian\\b", "es": "Tertuliano"},
-  {"en": "\\bIrenaeus\\b", "es": "san Ireneo"},
-  {"en": "\\bAthanasius\\b", "es": "san Atanasio"},
-  {"en": "\\bphotius\\b", "es": "Focio"}
+  {
+   "en": "\\bthe Word\\b",
+   "es": "el Verbo",
+   "nota": "El Hijo: «el Verbo». La palabra predicada o la Escritura: «palabra» en minúscula (control 4 de verificar.py)."
+  },
+  {
+   "en": "\\bWord\\b",
+   "es": "Verbo"
+  },
+  {
+   "en": "\\bHoly (?:Spirit|Ghost)\\b",
+   "es": "Espíritu Santo",
+   "prohibido": "\\bEsp[ií]ritu Sagrado\\b"
+  },
+  {
+   "en": "\\b(?:only[- ]begotten|One and Only|one and only Son)\\b",
+   "es": "unigénito"
+  },
+  {
+   "en": "\\b(?:Paraclete|Comforter|Advocate|Counselor)\\b",
+   "es": "Consolador"
+  },
+  {
+   "en": "\\bLamb of God\\b",
+   "es": "Cordero de Dios"
+  },
+  {
+   "en": "\\bSon of Man\\b",
+   "es": "Hijo del hombre"
+  },
+  {
+   "en": "\\bJohn the Baptist\\b",
+   "es": "Juan el Bautista"
+  },
+  {
+   "en": "\\bPharisees?\\b",
+   "es": "fariseo(s)"
+  },
+  {
+   "en": "\\bScriptures?\\b",
+   "es": "Escritura(s)"
+  },
+  {
+   "en": "\\bGospel\\b",
+   "es": "Evangelio"
+  },
+  {
+   "en": "\\bChurch\\b",
+   "es": "Iglesia"
+  },
+  {
+   "en": "\\bincarnation\\b",
+   "es": "encarnación"
+  },
+  {
+   "en": "\\bconsubstantial|of one substance\\b",
+   "es": "consustancial"
+  },
+  {
+   "en": "\\bheresy|heretics?\\b",
+   "es": "herejía / herejes"
+  },
+  {
+   "en": "\\bArians?\\b",
+   "es": "arrianos"
+  },
+  {
+   "en": "\\bSabellius\\b",
+   "es": "Sabelio"
+  },
+  {
+   "en": "\\bmanichees?|Manicheans?\\b",
+   "es": "maniqueos"
+  },
+  {
+   "en": "\\bAugustine\\b",
+   "es": "san Agustín"
+  },
+  {
+   "en": "\\bChrysostom\\b",
+   "es": "san Juan Crisóstomo"
+  },
+  {
+   "en": "\\bCyril of Alexandria\\b",
+   "es": "san Cirilo de Alejandría"
+  },
+  {
+   "en": "\\bTheophylact\\b",
+   "es": "Teofilacto de Ohrid"
+  },
+  {
+   "en": "\\bOrigen\\b",
+   "es": "Orígenes"
+  },
+  {
+   "en": "\\bAlcuin\\b",
+   "es": "Alcuino"
+  },
+  {
+   "en": "\\bBede\\b",
+   "es": "san Beda"
+  },
+  {
+   "en": "\\bHilary\\b",
+   "es": "san Hilario"
+  },
+  {
+   "en": "\\bGregory\\b",
+   "es": "san Gregorio"
+  },
+  {
+   "en": "\\bTertullian\\b",
+   "es": "Tertuliano"
+  },
+  {
+   "en": "\\bIrenaeus\\b",
+   "es": "san Ireneo"
+  },
+  {
+   "en": "\\bAthanasius\\b",
+   "es": "san Atanasio"
+  },
+  {
+   "en": "\\bphotius\\b",
+   "es": "Focio"
+  }
  ],
  "reglas": [
   "Traduce al español neutro, registro académico y claro; no expliques ni comentes, solo traduce.",

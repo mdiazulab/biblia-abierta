@@ -1,0 +1,567 @@
+{
+ "aquifer:18975": {
+  "text_es": "Este capítulo contiene la oración más extensa de Jesús. Suele llamársele la «oración sacerdotal». La oración muestra las preocupaciones y los propósitos más profundos de Jesús.\n\nEsta oración concluye sus últimas palabras, que comenzaron en 13:31. Jesús expresó al Padre sus propias preocupaciones (17:1–8). Luego expresó su preocupación por la Iglesia y su futuro (17:9–26).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5c432955cf9e"
+ },
+ "aquifer:18982": {
+  "text_es": "Jesús levantó los ojos al cielo. Esta era la manera tradicional judía de orar (11:41; Salmos 123:1). Probablemente también levantó las manos (Éxodo 9:33; 17:11; Salmos 28:2). Jesús pronunciaba en voz alta oraciones como esta para que sus seguidores pudieran oírlas (Juan 11:41–42; 12:27–30; también Mateo 11:25–30; Lucas 10:21–22). ⸢Padre⸣ era la manera habitual en que Jesús se dirigía a Dios, lo cual hizo seis veces en esta oración (véase también Juan 11:41; 12:27). Este título, poco común en la fe judía, mostraba la relación íntima que Jesús tiene con Dios. ⸢la hora⸣: Esta ⸢hora⸣ incluía la traición de Jesús por Judas, su arresto, tortura, muerte y resurrección (véase la nota de estudio sobre 12:23). ⸢Glorifica a tu Hijo⸣: En el Evangelio de Juan, la cruz es un lugar de honor. La unidad de Jesús con el Padre significa que, si el Hijo recibe gloria, el Padre también recibirá gloria.",
+  "lemas_es": [
+   "la hora",
+   "Glorifica a tu Hijo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "eedb1da77401",
+  "lemas_rv1909": [
+   {
+    "lema": "la hora",
+    "ref": "JHN.17.1"
+   },
+   {
+    "lema": "glorifica a tu Hijo",
+    "ref": "JHN.17.1"
+   }
+  ]
+ },
+ "hcf:Augustine of Hippo/John 17_1#0": {
+  "text_es": "Nuestro Señor, en la forma de siervo, habría podido orar en silencio si así lo hubiera querido; pero recordó que no solo tenía que orar, sino también enseñar. Pues no solo su discurso, sino también su oración, era para la edificación de sus discípulos, y también de nosotros que la leemos. Padre, la hora ha llegado, muestra que todo tiempo, y cada cosa que hizo o permitió que se hiciera, estaba a su disposición, pues no está sujeto al tiempo. No que debamos suponer que esta hora llegó por alguna necesidad fatal, sino más bien por disposición de Dios. Lejos de nosotros la idea de que los astros pudieran condenar a muerte al Creador de los astros.\n\n(Tr. civ) Pero si fue glorificado por su Pasión, ¿cuánto más por su Resurrección? Pues su Pasión mostró más bien su humildad que su gloria. Así debemos entender Padre, la hora ha llegado, glorifica a tu Hijo, en el sentido de que ha llegado la hora de sembrar la semilla, la humildad; no difieras el fruto, la gloria.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "958b9e4d3a3c"
+ },
+ "hcf:Bede/John 17_1#0": {
+  "text_es": "Estas cosas habló Jesús, aquellas que había dicho en la cena, en parte sentado hasta las palabras: Levantaos, vámonos de aquí; (c. 14:31.) y de allí en adelante de pie, hasta el final del himno que ahora comienza: Y levantando sus ojos dijo: Padre, la hora ha llegado; glorifica a tu Hijo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bfebddd19ab0"
+ },
+ "hcf:Hilary of Poitiers/John 17_1#2": {
+  "text_es": "No dice que el día, o el tiempo, sino que la hora ha llegado. Una hora contiene una porción de un día. ¿Qué era esta hora? Estaba ahora por ser escupido, azotado, crucificado. Pero el Padre glorifica al Hijo. El sol falló en su curso, y con él todos los demás elementos sintieron aquella muerte. La tierra tembló bajo el peso de nuestro Señor colgado en la Cruz, y dio testimonio de que no tenía poder para retener dentro de sí a quien estaba muriendo. El centurión proclamó: Verdaderamente este era el Hijo de Dios. (Mateo 27:54) El acontecimiento respondió a la predicción. Nuestro Señor había dicho: Glorifica a tu Hijo, dando testimonio de que no era Hijo solo de nombre, sino propiamente el Hijo. Tu Hijo, dice. Muchos de nosotros somos hijos de Dios; pero no así es el Hijo. Pues él es el propio, verdadero Hijo por naturaleza, no por adopción, en verdad, no de nombre, por nacimiento, no por creación. Por tanto, después de su glorificación, a la manifestación de la verdad sucedió la confesión. El centurión lo confiesa como el verdadero Hijo de Dios, para que ninguno de sus creyentes dudara de lo que uno de sus perseguidores no pudo negar.\n\n(iii. de. Trin) Pero quizá esto pruebe debilidad en el Hijo; su espera de ser glorificado por uno superior a él. ¿Y quién no confiesa que el Padre es superior, viendo que él mismo dice: El Padre es mayor que yo? Pero cuídate de que el honor del Padre menoscabe la gloria del Hijo. Sigue: Para que también tu Hijo te glorifique a ti. Así pues, el Hijo no es débil, en cuanto que devuelve a su vez gloria por la gloria que recibe. Esta petición de gloria que ha de darse y devolverse muestra la misma divinidad en ambos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "92fee045a4ae"
+ },
+ "hcf:John Chrysostom/John 17_1#1": {
+  "text_es": "Después de haber dicho: En el mundo tendréis tribulación, nuestro Señor pasa de la amonestación a la oración; enseñándonos así que en nuestras tribulaciones abandonemos todas las demás cosas y huyamos a Dios.\n\n(Hom. lxxx. 1) Levantó sus ojos al cielo para enseñarnos la intensidad en nuestras oraciones: que debemos estar con los ojos levantados, no solo del cuerpo, sino de la mente.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "84b2c17730a6"
+ },
+ "aquifer:18989": {
+  "text_es": "Toda autoridad ha sido puesta en manos de Jesús (3:35); él puede dar vida eterna como solo Dios puede (3:15; 5:21, 25–26).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6158e170892b"
+ },
+ "hcf:Augustine of Hippo/John 17_2#0": {
+  "text_es": "Pero se pregunta con razón cómo el Hijo puede glorificar al Padre, cuando la gloria eterna del Padre nunca experimentó abatimiento en la forma de hombre, y en cuanto a su propia perfección divina, no admite que se le añada nada. Pero entre los hombres esta gloria era menor cuando Dios era conocido solo en Judea; y por tanto el Hijo glorificó al Padre cuando el Evangelio de Cristo extendió el conocimiento del Padre entre los gentiles. Glorifica a tu Hijo, para que también tu Hijo te glorifique a ti; es decir, levántame de entre los muertos, para que por mí seas conocido en todo el mundo. Luego expone más adelante la manera en que el Hijo glorifica al Padre: Como le has dado potestad sobre toda carne, para que dé vida eterna a todos los que le diste. Toda carne significa toda la humanidad, poniéndose la parte por el todo. Y esta potestad que el Padre da a Cristo sobre toda carne debe entenderse con referencia a su naturaleza humana.\n\n(Tr. cv. 2) Dice: Como le has dado potestad sobre toda carne, así el Hijo puede glorificarte, es decir, hacerte conocido a toda carne que le has dado; pues se la has dado de tal modo que él dé vida eterna a todos los que le has dado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a48110df5897"
+ },
+ "hcf:Hilary of Poitiers/John 17_2#2": {
+  "text_es": "Pues, habiéndose hecho él mismo carne, estaba por restaurar la vida eterna al hombre frágil, corpóreo y mortal.\n\n(ix. de Trin. 31) Si Cristo es Dios, no engendrado, sino no engendrado, entonces que este recibir se tenga por debilidad. Pero no si su recibir la potestad significa su engendramiento, en el cual recibió lo que es. Este don no puede contarse como debilidad. Pues el Padre es tal en cuanto que da; el Hijo permanece Dios en cuanto que ha recibido la potestad de dar vida eterna.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "47b4daf9aaab"
+ },
+ "hcf:John Chrysostom/John 17_2#1": {
+  "text_es": "«¿De toda carne»? Pues ciertamente no todos creyeron. Sin embargo, por su parte, todos creyeron; y si los hombres no prestaron atención a sus palabras, la culpa no estaba en el Maestro, sino en quienes no las recibieron.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "87d48275d40f"
+ },
+ "aquifer:18990": {
+  "text_es": "⸢que te conozcan⸣: En la lengua hebrea, «conocer» incluye la experiencia y la intimidad. Para los cristianos, esto significa amar a Dios y obedecerle. ⸢a quien has enviado⸣: Jesús vino del cielo y estaba regresando (Juan 17:5). Así que tiene autoridad divina como agente de Dios.",
+  "lemas_es": [
+   "que te conozcan",
+   "a quien has enviado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cba84a354292",
+  "lemas_rv1909": [
+   {
+    "lema": "que te conozcan",
+    "ref": "JHN.17.3"
+   },
+   {
+    "lema": "has enviado",
+    "ref": "JHN.17.3"
+   }
+  ]
+ },
+ "hcf:Augustine of Hippo/John 17_3#2": {
+  "text_es": "Descartando, pues, a los arrianos, veamos si estamos forzados a confesar que con las palabras: Que te conozcan a ti como el único Dios verdadero, él quiere que entendamos que solo el Padre es el Dios verdadero, en tal sentido que solo los Tres juntos, Padre, Hijo y Espíritu Santo, han de ser llamados Dios? ¿Nos autoriza el testimonio de nuestro Señor a decir que el Padre es el único Dios verdadero, el Hijo el único Dios verdadero, y el Espíritu Santo el único Dios verdadero, y al mismo tiempo, que el Padre, el Hijo y el Espíritu Santo juntos, es decir, la Trinidad, no son tres Dioses, sino un solo Dios verdadero?\n\n(Tr. c. 5) ¿O no es el orden de las palabras: Que te conozcan a ti y a Jesucristo, a quien has enviado, como el único Dios verdadero? entendiéndose necesariamente el Espíritu Santo, porque el Espíritu es solo el amor del Padre y del Hijo, consustancial con ambos. Si entonces el Hijo te glorifica como le has dado potestad sobre toda carne, y le has dado la potestad para que dé vida eterna a todos los que le has dado, y esta es la vida eterna: conocerte, se sigue que él te glorifica haciéndote conocido a todos los que le has dado. Además, si el conocimiento de Dios es vida eterna, cuanto más avancemos en este conocimiento, más avanzamos en la vida eterna. Pero en la vida eterna nunca moriremos. Donde entonces no hay muerte, allí habrá entonces perfecto conocimiento de Dios; allí Dios será más glorificado, porque su gloria será máxima. La gloria fue definida entre los antiguos como la fama acompañada de alabanza. Pero si el hombre es alabado en dependencia de lo que se dice de él, ¿cómo será alabado Dios cuando sea visto? como en el Salmo: Bienaventurados los que habitan en tu casa: te alabarán siempre. (Salmos 83:4) Habrá alabanza de Dios sin fin, donde habrá pleno conocimiento de Dios. Allí entonces se oirá la alabanza eterna de Dios, pues allí habrá pleno conocimiento de Dios, y por tanto plena glorificación de él.\n\n(i. de Trin. c. viii) Lo que dijo a su siervo Moisés: Yo soy el que soy; (Éxodo 3) esto lo contemplaremos en la vida eterna.\n\n(iv. de Trin. c. xviii) Pues cuando la visión haya hecho verdadera nuestra fe, entonces la eternidad tomará posesión de nuestra mortalidad y la desplazará.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a64960501d55"
+ },
+ "hcf:Hilary of Poitiers/John 17_3#3": {
+  "text_es": "Y en qué consiste la vida eterna, lo muestra luego: Y esta es la vida eterna, que te conozcan a ti, el único Dios verdadero. Conocer al único Dios verdadero es vida, pero esto solo no constituye la vida. ¿Qué más se añade entonces? Y a Jesucristo, a quien has enviado.\n\n(iv. de Tr. c. 9) Los arrianos sostienen que, así como el Padre es el único Dios verdadero, único justo, único sabio, el Hijo no tiene comunión con estos atributos; pues lo que es propio de uno, no puede ser participado por otro. Y como estos, según ellos piensan, están solo en el Padre y no en el Hijo, necesariamente consideran al Hijo un Dios falso y vano.\n\n(v. de Tr. 3) Pero debe quedar claro para todos que la realidad de cualquier cosa se evidencia por su poder. Pues es trigo verdadero el que, al brotar con grano y protegerse con espigas, y ser sacudido por la máquina de aventar, y molido en grano, y cocido en pan, y tomado como alimento, cumple la naturaleza y función del pan. Pregunto, pues, en qué le falta al Hijo la verdad de la Divinidad, quien tiene la naturaleza y la virtud de la Divinidad. Pues de tal modo usó de la virtud de su naturaleza, que hizo ser las cosas que no eran, e hizo todo lo que le pareció bien.\n\n(ix. de Trin) Porque dice: A ti el único, ¿se separa a sí mismo de la comunión y unidad con Dios? Se separa, pero añade inmediatamente: Y a Jesucristo, a quien has enviado. Pues la fe católica confiesa que Cristo es verdadero Dios, en cuanto confiesa que el Padre es el único Dios verdadero; porque el nacimiento natural no introdujo ningún cambio de naturaleza en el Dios unigénito.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9d4f8bb57e5a"
+ },
+ "hcf:John Chrysostom/John 17_3#1": {
+  "text_es": "¿Por qué, cuando Pablo dice: «¿O solo yo y Bernabé» (1 Cor. ix. 6), excluye a Bernabé? De ningún modo; pues el «solo» se pone por modo de distinción respecto de otros. Y si no es Dios verdadero, ¿cómo es «Verdad»? pues la verdad supera con mucho lo que es verdadero. ¿Qué llamaremos el no ser un hombre «verdadero», dime? ¿no lo llamaremos el no ser hombre en absoluto? así, si el Hijo no es Dios verdadero, ¿cómo es Dios? ¿Y cómo nos hace dioses e hijos, si no es verdadero?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d1d8a636a87f"
+ },
+ "aquifer:18991": {
+  "text_es": "Los milagros de Jesús mostraron la gloria de Dios al mundo (1:14). Esta tarea fue terminada. La vida y la obediencia de Jesús glorificaron a Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4b4f9f9074bf"
+ },
+ "hcf:Augustine of Hippo/John 17_4-5#0": {
+  "text_es": "Pero Dios es primeramente glorificado aquí, cuando es proclamado, dado a conocer y creído por los hombres: Te he glorificado en la tierra.\n\n(Tr. cv) No «Tú me mandas», sino «Tú me diste», lo que implica evidentemente gracia. Pues ¿qué tiene la naturaleza humana, incluso en el Unigénito, que no haya recibido? Pero ¿cómo había acabado la obra que le había sido dada para hacer, cuando aún le quedaba por padecer su pasión? Dice que la ha acabado, esto es, sabe con certeza que lo hará.\n\n(Tr. cv. 5) Había dicho antes: Padre, la hora ha llegado; glorifica a tu Hijo, para que también tu Hijo te glorifique a ti: el orden de estas palabras muestra que el Hijo había de ser glorificado primero por el Padre, para que el Padre fuese glorificado por el Hijo. Pero ahora dice: Te he glorificado; y ahora glorifícame; como si hubiera glorificado primero al Padre, y luego pidiera ser glorificado por él. Debemos entender que lo primero es el orden en que uno había de suceder al otro, pero que después usa un tiempo pasado, para expresar una cosa futura; el sentido es: Te glorificaré en la tierra, acabando la obra que me has dado que haga: y ahora, Padre, glorifícame, que es la misma frase que la primera, excepto que añade aquí el modo en que ha de ser glorificado; con la gloria que tenía antes que el mundo fuese, contigo. El orden de las palabras es: La gloria que tenía contigo antes que el mundo fuese. Esto ha sido tomado por algunos como que la naturaleza humana que fue asumida por el Verbo, sería cambiada en el Verbo, que el hombre sería cambiado en Dios, o, para hablar más correctamente, se perdería en Dios. Pues nadie diría que el Verbo de Dios por ese cambio sería duplicado, o incluso hecho en absoluto mayor. Pero evitamos este error, si tomamos la gloria que tenía con el Padre antes que el mundo fuese, como la gloria que predestinó para él en la tierra: (pues si creemos que él es el Hijo del hombre, no debemos temer decir que fue predestinado.) Este tiempo predestinado de su glorificación, ahora veía que había llegado, para que ahora recibiera lo que había sido predestinado anteriormente, y oró en consecuencia: Y ahora, Padre, glorifícame, etc., esto es, aquella gloria que tenía contigo por tu predestinación, ahora es tiempo de que la tenga a tu diestra.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "dfe6e088e6c6"
+ },
+ "hcf:Hilary of Poitiers/John 17_4-5#0": {
+  "text_es": "Esta nueva gloria con la que nuestro Señor había glorificado al Padre, no implica ningún progreso en la Deidad, sino que se refiere al honor recibido de aquellos que son convertidos de la ignorancia al conocimiento.\n\n(ix. de Trin) Después de lo cual, para que entendamos la recompensa de su obediencia y el misterio de toda la dispensación, añade: Y ahora glorifícame tú, Padre, junto a ti mismo, con la gloria que tenía contigo antes que el mundo fuese.\n\n(iii. de Trin) O bien oró para que lo que era mortal recibiera la gloria inmortal, para que la corrupción de la carne fuera transformada y absorbida en la incorrupción del Espíritu.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "55069d35ba6f"
+ },
+ "hcf:John Chrysostom/John 17_4#0": {
+  "text_es": "«Te he glorificado en la tierra.» Bien dijo «en la tierra»; pues en el cielo ya había sido glorificado, teniendo su propia gloria natural, y siendo adorado por los Ángeles. Cristo, pues, no habla de aquella gloria que está unida a su Esencia, (pues esa gloria, aunque nadie le glorifique, la posee siempre en su plenitud,) sino de la que viene del servicio de los hombres.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6bb932101534"
+ },
+ "aquifer:18992": {
+  "text_es": "Jesús oró para volver a la posición que tenía con Dios antes que el mundo comenzara (1:1).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3d66240ad298"
+ },
+ "hcf:John Chrysostom/John 17_5#0": {
+  "text_es": "«Y ahora, Padre, glorifícame tú junto a ti mismo, con la gloria que tenía contigo antes que el mundo fuese.» ¿Dónde está esa gloria? Pues aunque se le permita haber sido sin honra entre los hombres a causa del velo que le fue puesto alrededor; ¿cómo busca ser glorificado con el Padre? ¿Qué dice entonces aquí? La expresión se refiere a la Dispensación; pues su naturaleza carnal aún no había sido glorificada, no habiendo aún gozado de la incorrupción, ni compartido el trono real. Por eso no dijo «en la tierra», sino «contigo».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "25093c4445f6"
+ },
+ "aquifer:18993": {
+  "text_es": "Este versículo resume lo que Jesús vino a hacer. Reveló la verdadera persona de Dios al mundo, reunió al pueblo de Dios en su rebaño y los instruyó en la obediencia. El resultado de esta obra es la Iglesia.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "298031f5aca7"
+ },
+ "hcf:Augustine of Hippo/John 17_6#0": {
+  "text_es": "Si habla solo de los discípulos con quienes cenó, esto no tiene nada que ver con aquella glorificación de la que habló antes, con la cual el Hijo glorificó al Padre; pues ¿qué gloria es ser conocido por doce u once hombres? Pero si por los hombres que le fueron dados del mundo entiende a todos los que habían de creer en él después, esta es sin duda la gloria con la que el Hijo glorifica al Padre; y «he manifestado tu nombre» es lo mismo que dijo antes: «te he glorificado»; poniéndose el pasado por el futuro tanto allí como aquí. Pero lo que sigue muestra que habla aquí de los que ya eran sus discípulos, no de todos los que habían de creer en él después. Al comienzo de su oración, pues, nuestro Señor habla de todos los creyentes, a todos los cuales había de dar a conocer al Padre, glorificándolo de este modo; pues después de decir «que también tu Hijo te glorifique a ti», al mostrar cómo había de hacerse esto, dice: «como le has dado potestad sobre toda carne». Ahora oigamos lo que dice a los discípulos: «He manifestado tu nombre a los hombres que del mundo me diste». ¿Acaso no conocían entonces el nombre de Dios, cuando eran judíos? Leemos en los Salmos: «En Judá es conocido Dios; su nombre es grande en Israel» (Sal. 76:1). «He manifestado tu nombre», pues, debe entenderse no del nombre de Dios, sino del nombre del Padre, el cual no podía manifestarse sin la manifestación del Hijo. Pues el nombre de Dios, como Dios de toda la creación, no podía ser enteramente desconocido para nación alguna. Como Hacedor del mundo, era conocido entre todas las naciones, incluso antes de la difusión del Evangelio. En Judá era conocido como un Dios que no debía ser adorado con los dioses falsos; pero como Padre de aquel Cristo, por quien quitó los pecados del mundo, su nombre era desconocido; nombre que Cristo ahora manifiesta a aquellos que el Padre le había dado del mundo. Pero ¿cómo lo manifestó, cuando aún no había llegado la hora de la que dijo antes: «Viene la hora cuando ya no os hablaré por proverbios»? Debemos entender que el pasado se pone por el futuro.\n\n(Tr. cvi) «Que me diste del mundo»: es decir, que no eran del mundo. Pero lo eran por regeneración, no por naturaleza. ¿Qué significa «Tuyos eran, y me los diste»? ¿Acaso tuvo alguna vez el Padre algo sin el Hijo? Dios no lo quiera. Pero el Hijo de Dios tenía a veces lo que no tenía como Hijo del hombre; pues tenía el universo con su Padre, mientras estaba aún en el vientre de su madre. Por tanto, al decir «Tuyos eran», el Hijo de Dios no se separa del Padre, sino que atribuye todo su poder a aquel de quien es, y de quien tiene lo mismo. Y «me los diste», entonces, significa que había recibido como hombre el poder de tenerlos; más aún, que él mismo se los había dado a sí mismo, es decir, Cristo como Dios con el Padre, a Cristo como hombre no con el Padre. Su propósito aquí es mostrar su unanimidad con el Padre, y cómo fue voluntad del Padre que ellos creyeran en él.\n\n(Tr. cvi) El Padre le dio todas las cosas, cuando, teniendo todas las cosas, lo engendró.\n\n(Tr. cvi. c. 6) Es decir, las han entendido y recordado. Pues entonces se recibe una palabra, cuando la mente la aprehende; como sigue: «Y han conocido verdaderamente que salí de ti». Y para que nadie imaginara que aquel conocimiento era de vista, no de fe, añade: «Y han creído (se sobreentiende: verdaderamente) que tú me enviaste». Lo que creyeron verdaderamente, fue lo que conocieron verdaderamente; pues «salí de ti» es lo mismo que «tú me enviaste». Creyeron verdaderamente, es decir, no como dijo antes que creyeron, sino verdaderamente, esto es, como habían de creer firmemente, con constancia, sin vacilar: para no ser ya nunca más dispersados a lo suyo, y dejar a Cristo. Los discípulos aún no eran tales como él los describe en tiempo pasado, queriendo decir tales como habían de ser cuando hubieran recibido el Espíritu Santo. La cuestión de cómo el Padre dio aquellas palabras al Hijo es más fácil de resolver si suponemos que las recibió del Padre como Hijo del hombre. Pero si entendemos que es como Engendrado del Padre, no se suponga ningún tiempo anterior a su posesión de ellas, como si alguna vez hubiera existido sin ellas; pues todo lo que Dios Padre dio a Dios Hijo, lo dio al engendrarlo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "166fb67793c4"
+ },
+ "hcf:Bede/John 17_6-7#0": {
+  "text_es": "Y han guardado tu palabra. Se llama a sí mismo el Verbo del Padre, porque el Padre por él creó todas las cosas, y porque contiene en sí mismo todas las palabras: como si dijera: Me han confiado a la memoria tan bien, que nunca me olvidarán. O bien: Han guardado tu palabra, es decir, en cuanto que han creído en mí; como sigue: Ahora han conocido que todas las cosas que me has dado, son de ti. Algunos leen: Ahora he conocido, etc. Pero esto no puede ser correcto. Pues ¿cómo podría el Hijo ignorar lo que era del Padre? Es de los discípulos de quienes habla; como si dijera: Han aprendido que no hay nada en mí ajeno a ti, y que todo lo que enseño viene de ti.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "aed23dd71c44"
+ },
+ "hcf:John Chrysostom/John 17_7-8#0": {
+  "text_es": "«Y han guardado tu palabra». «Ahora han conocido que todas las cosas que me has dado, son de ti». ¿Cómo «guardaron tu palabra»? «Creyendo en mí, y no prestando atención a los judíos. Pues el que cree en él, dice, 'ha puesto su sello en que Dios es verdadero'» (c. iii. 33). Algunos leen: «Ahora sé que todas las cosas que me has dado, son de ti». Pero esto no tendría razón; pues ¿cómo ignoraría el Hijo las cosas del Padre? No, las palabras se dicen de los discípulos. «Desde el tiempo», dice, «en que les dije estas cosas, han aprendido que todo lo que me has dado es de ti; nada es ajeno, nada es propio mío, contigo». «Ellos, por tanto, han conocido que todas las cosas que enseño son tus doctrinas y enseñanzas». «¿Y de dónde lo han aprendido?» De mis palabras; pues así les he enseñado. Y no solo esto les he enseñado, sino también que «salí de ti». Pues esto se afanaba por probar a lo largo de todo el Evangelio.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "879e925cff5c"
+ },
+ "aquifer:18994": {
+  "text_es": "Jesús se reveló al mundo. Quienes recibieron su mensaje llegaron a ser hijos de Dios (1:12; 11:52). Les reveló la palabra de Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "39e7a0fbbc22"
+ },
+ "hcf:Augustine of Hippo/John 17_8#0": {
+  "text_es": "Pero ¿qué lenguaje humano bastará para explicar cómo el Padre dio aquellas palabras al Hijo? La cuestión, por supuesto, parecerá más fácil si suponemos que recibió tales palabras en su condición de Hijo del hombre. Y sin embargo, aunque así nacido de la Virgen, ¿quién emprenderá a relatar cuándo y cómo fue que las aprendió, si incluso aquella misma generación que tuvo de la Virgen, quién se atreverá a declararla? Pero si nuestra idea es que recibió estas palabras del Padre en su condición de engendrado por el Padre y coeterno con él, excluyamos entonces todo pensamiento de tiempo, como si hubiera existido antes de poseerlas, y así recibiera la posesión de lo que no tenía antes; pues todo lo que Dios Padre dio a Dios Hijo, lo dio en el acto de engendrarlo. Pues el Padre dio al Hijo aquellas cosas sin las cuales no podría ser el Hijo, del mismo modo que le dio el ser mismo. Pues ¿cómo de otro modo daría palabras algunas al Verbo, en quien de manera inefable ha hablado todas las cosas?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f5816a9014aa"
+ },
+ "aquifer:18995": {
+  "text_es": "Jesús oró por sus discípulos, quienes debían continuar su obra después de su partida.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "dc24764e2c97"
+ },
+ "hcf:Augustine of Hippo/John 17_9#0": {
+  "text_es": "Cuando añade: «No ruego por el mundo», por el mundo entiende a aquellos que viven según la concupiscencia del mundo, y no tienen la suerte de ser elegidos por gracia de entre el mundo, como la tenían aquellos por quienes oraba: «Sino por los que me diste». Fue porque el Padre se los había dado, que no pertenecían al mundo. Y sin embargo el Padre, al dárselos al Hijo, no había perdido lo que había dado: «Porque son tuyos».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d397ef393db1"
+ },
+ "hcf:Cyril of Alexandria/John 17_9#1": {
+  "text_es": "Cristo, que se manifestó en los últimos tiempos por encima de los tipos y figuras de la Ley, a la vez nuestro sumo sacerdote y mediador, ora por nosotros como hombre. Y al mismo tiempo está siempre dispuesto a cooperar con Dios Padre, que distribuye buenos dones a los que son dignos. Pablo nos mostró esto con toda claridad en las palabras «gracia a vosotros y paz de Dios nuestro Padre y del Señor Jesucristo». Cristo, pues, ora por nosotros como hombre y también se une a distribuir buenos dones para nosotros como Dios. Pues él, siendo sumo sacerdote santo, irreprensible e incontaminado, se ofreció a sí mismo —no por su propia debilidad, como era costumbre de aquellos a quienes les tocaba en suerte el deber de sacrificar según la Ley, sino más bien por la salvación de nuestras almas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0ffb52f032e8"
+ },
+ "aquifer:18976": {
+  "text_es": "Así como el Hijo da gloria al Padre (17:1, 4–5), los discípulos dan gloria al Hijo (17:22). El amor y la obediencia que dieron gloria a Dios en la vida de Jesús se convierten en rasgos de la vida de sus discípulos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fa9299ce8c33"
+ },
+ "hcf:Augustine of Hippo/John 17_10#0": {
+  "text_es": "Bastante manifiesto queda por esto que todas las cosas que tiene el Padre, las tiene el unigénito Hijo; las tiene en cuanto que es Dios, nacido del Padre y igual al Padre; no en el sentido en que se dice al hijo mayor: Todas mis cosas son tuyas. (Lucas 15:31) Pues allí «todas» significa todas las criaturas inferiores a la criatura racional santa, pero aquí significa la misma criatura racional, que solo está sujeta a Dios. Puesto que esto es del Padre, no podría ser al mismo tiempo del Hijo, a menos que el Hijo fuera igual al Padre. Porque es imposible que los santos, de quienes se dice esto, sean propiedad de alguno, sino de Aquel que los creó y santificó. Cuando dice arriba, hablando del Espíritu Santo: Todas las cosas que tiene el Padre son mías, (c. 16:15) se refiere a todas las cosas que pertenecen a la divinidad del Padre; pues añade: Él (el Espíritu Santo) recibirá de lo mío; y el Espíritu Santo no recibiría de una criatura sujeta al Padre y al Hijo.\n\n(Tr. cvii. 3) Habla de esto como ya hecho, queriendo decir que estaba predestinado y que ciertamente sucedería. Pero ¿es esta la glorificación de la que habla arriba: Y ahora, oh Padre, glorifícame contigo mismo? Si entonces contigo mismo, ¿qué significa aquí: en ellos? Quizá que esto mismo, es decir, su gloria con el Padre, fue dado a conocer a ellos, y por medio de ellos a todos los que creen.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "565bb3ac3692"
+ },
+ "hcf:Cyril of Alexandria/John 17_10#0": {
+  "text_es": "Aquellos, pues, que han sido dados a Cristo son del Padre, pero no por eso quedan separados de Cristo. Porque Dios Padre reina con Él, y por medio de Él gobierna sobre los suyos. Pues la Trinidad santa y consustancial comparte el mismo reino, y su dominio universal es uno y el mismo; y todo lo que es del Hijo estará sujeto a la gloria del Hijo y del Padre; y también todo lo que se dice estar bajo el dominio del Padre, sobre ello ciertamente reinará el Hijo. Y por eso dice: Y todas las mías son tuyas, y las tuyas son mías. Pues como en Ellos es visible y evidente la perfecta identidad de naturaleza, la opinión que se tiene acerca de su majestad no es diversa, y no atribuye nada individualmente a Uno aparte del Otro, sino que considera que una misma gloria, idéntica en todo respecto, corresponde a Ambos. Porque Aquel que es por derecho de su naturaleza el Heredero de las dignidades divinas de su Padre, claramente tendrá todo lo que el Padre tiene, y también mostrará que su Padre tiene todo lo que Él mismo tiene. Pues Cada Uno revela naturalmente al Otro en Sí mismo; y el Hijo es visto en el Padre, y el Padre también en el Hijo. Este tipo de enseñanza nos dieron los escritos inspirados en el misterio. Cuando, entonces, el dominio universal es una de las dignidades del Padre, también pertenecerá al Hijo; pues Él es la imagen expresa de su persona, y no puede soportar sombra alguna de desemejanza o discrepancia. Declara que ha sido glorificado en ellos, mostrando que su oración por ellos es, por así decirlo, una recompensa bien merecida.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1df3301a4340"
+ },
+ "aquifer:18977": {
+  "text_es": "La primera preocupación que Jesús tuvo por sus discípulos fue que permanecieran unidos entre sí de la misma manera en que él es uno con el Padre.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "18828016b097"
+ },
+ "hcf:Augustine of Hippo/John 17_11#0": {
+  "text_es": "En el tiempo en que hablaba, ambos estaban todavía en el mundo. Sin embargo, no debemos entender «ya no estoy en el mundo» metafóricamente respecto del corazón y la vida; pues ¿podría haber habido alguna vez un tiempo en que amara las cosas del mundo? Queda, entonces, que quiere decir que ya no estaba en el mundo como había estado antes; es decir, que pronto se iría. ¿No decimos cada día, cuando alguno va a dejarnos, o va a morir, que tal persona ya se fue? Esto se muestra ser el sentido por lo que sigue; pues añade: Y ahora vengo a ti. Y entonces encomienda a su Padre a aquellos que estaba a punto de dejar: Padre santo, guarda en tu nombre a aquellos que me has dado. Como hombre ruega a Dios por sus discípulos, a quienes recibió de Dios. Pero observa lo que sigue: Que sean uno, como nosotros somos. No dice: Que sean uno con nosotros, como nosotros somos uno; sino: que sean uno; que sean uno en su naturaleza, como nosotros somos uno en la nuestra. Pues en cuanto que era Dios y hombre en una sola persona, como hombre oraba, como Dios era uno con Aquel a quien oraba.\n\n(iv. de Trin. c. ix) No dice: Que yo y ellos seamos uno, aunque podría haberlo dicho en el sentido de que Él era la cabeza de la Iglesia, y la Iglesia su cuerpo; no una sola cosa, sino una sola persona: siendo la cabeza y el cuerpo un solo Cristo. Sino que mostrando otra cosa, a saber, que su divinidad es consustancial con el Padre, ruega que su pueblo sea de igual manera uno; pero uno en Cristo, no solo por la misma naturaleza, en la cual el hombre mortal es hecho igual a los Ángeles, sino también por la misma voluntad, concordando plenísimamente en una misma mente, y fundidos en un solo Espíritu por el fuego del amor. Este es el significado de «Que sean uno como nosotros somos»: a saber, que así como el Padre y el Hijo son uno no solo por igualdad de sustancia, sino también en voluntad, así ellos, entre quienes y Dios el Hijo es Mediador, sean uno no solo por la unión de naturaleza, sino por la unión de amor.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d5e77b160ed2"
+ },
+ "hcf:Cyril of Alexandria/John 17_11#3": {
+  "text_es": "Mostrándose, pues, a ellos como a la vez Dios y Hombre, induce, por así decirlo, a sus discípulos a reflexionar que, ausente así como presente, obraría las cosas que contribuían a su salvación en Dios; y que, así como los tenía bajo su custodia mientras estaba aún con ellos en la tierra en forma de Hombre, así también los guardaría mientras estuviera ausente de ellos como Dios, por la excelencia de su Sustancia. Pues lo que es Divino no está limitado por el espacio, ni está lejos de nada que exista, sino que llena y penetra el universo, y aunque presente en todas las cosas no es contenido por ninguna. Cuando, dirigiéndose a su propio Padre, dice: Padre santo, guárdalos, remite a la vez, por derecho de su existencia, a la operación universal del poder del Padre; y al mismo tiempo muestra que no está aparte de su Naturaleza, sino que, estando en ella y procediendo de ella, está indivisiblemente unido a ella, aunque sea concebido como existente de manera independiente.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0e544c96ab55"
+ },
+ "aquifer:18978": {
+  "text_es": "Hasta ahora, Jesús había guardado a sus seguidores. Ahora se preocupaba por su fortaleza y supervivencia en su ausencia, porque el mundo sería hostil hacia ellos y hacia su misión de desafiar al mundo predicando la verdad (15:18–27; 16:8–11). Después de que Jesús partiera al cielo, el Espíritu Santo los protegería y les traería gozo (15:26).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2deb9443233f"
+ },
+ "hcf:Augustine of Hippo/John 17_12#2": {
+  "text_es": "El Hijo como hombre guardó a sus discípulos en el nombre del Padre, estando colocado entre ellos en forma humana; el Padre, a su vez, los guardó en el nombre del Hijo, en cuanto que escuchó a quienes pedían en el nombre del Hijo. Pero no debemos tomar esto carnalmente, como si el Padre y el Hijo nos guardaran por turnos, pues el Padre, el Hijo y el Espíritu Santo nos guardan al mismo tiempo; pero la Escritura no nos eleva, a menos que se incline hacia nosotros. Entendamos, pues, que cuando nuestro Señor dice esto, está distinguiendo las personas, no dividiendo la naturaleza, de modo que cuando el Hijo guardaba a sus discípulos por su presencia corporal, el Padre esperaba sucederle en su partida; pero ambos los guardaban por poder espiritual, y cuando el Hijo retiró su presencia corporal, todavía mantenía con el Padre la guarda espiritual. Pues cuando el Hijo como hombre los recibió en su custodia, no los quitó de la custodia del Padre, y cuando el Padre los entregó a la custodia del Hijo, fue al Hijo como hombre, quien al mismo tiempo era Dios. A los que me diste, yo los guardé, y ninguno de ellos se perdió sino el hijo de perdición; es decir, el traidor de Cristo, predestinado a la perdición; para que se cumpliera la Escritura, especialmente la profecía del Salmo 108.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3c52fb0a3f99"
+ },
+ "hcf:John Chrysostom/John 17_12#0": {
+  "text_es": "«Mientras estaba con ellos en el mundo, los guardaba en tu Nombre». De nuevo habla como hombre y como Profeta, ya que en ninguna parte parece haber hecho algo por el Nombre de Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e811a160dfd3"
+ },
+ "hcf:Augustine of Hippo/John 17_13#0": {
+  "text_es": "O así: Que tuvieran el gozo del que se habla arriba: Que sean uno, como nosotros somos uno. Este gozo suyo, es decir, otorgado por Él, dice, ha de ser cumplido en ellos; por lo cual habló así en el mundo. Este gozo es la paz y la felicidad de la vida venidera. Dice que habló en el mundo, aunque acababa de decir: Ya no estoy en el mundo. Pues en cuanto que aún no había partido, todavía estaba aquí; y en cuanto que estaba a punto de partir, en cierto sentido no estaba aquí.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ca7138c41450"
+ },
+ "hcf:John Chrysostom/John 17_13#0": {
+  "text_es": "«Pero ahora vengo a ti». ¿Ves que el discurso está compuesto más bien a manera humana? De modo que si alguno quisiera, a partir de estas palabras, rebajar al Hijo, rebajará también al Padre. Observa, en prueba de esto, cómo desde el principio habla en parte como informando y explicando a Él, en parte como mandando. Informando, como cuando dice: «No ruego por el mundo»; mandando, como: «Los he guardado hasta ahora», «y ninguno de ellos se perdió»; y: «guárdalos tú, por tanto, ahora», dice. Y de nuevo: «Tuyos eran, y me los diste» y «Mientras estaba en el mundo, los guardaba». Pero la solución de todo es que las palabras fueron dirigidas a su flaqueza.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2006a3899ce9"
+ },
+ "aquifer:18979": {
+  "text_es": "La palabra de Dios⸢,⸣ que Jesús había dado a sus discípulos, también provee una defensa contra el mundo. El Espíritu preservaría y recordaría la palabra de Dios en la iglesia (14:26), equipando a la iglesia para su encuentro con el mundo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5f80cee5f648"
+ },
+ "hcf:Augustine of Hippo/John 17_14#0": {
+  "text_es": "Todavía no habían experimentado estos sufrimientos que después encontraron; pero, según su costumbre, pone el futuro en tiempo pasado. Luego da la razón por la que el mundo los aborrecía; a saber, porque no son del mundo. Esto les fue conferido por la regeneración; pues por naturaleza eran del mundo. Les fue dado que no fueran del mundo, así como él no era del mundo; como sigue: Así como yo no soy del mundo. Él nunca fue del mundo; pues incluso su nacimiento de la forma de siervo lo recibió del Espíritu Santo, de quien ellos nacieron de nuevo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cf24237052f1"
+ },
+ "hcf:Cyril of Alexandria/John 17_14#0": {
+  "text_es": "Dice que él mismo no es del mundo, y que nosotros somos así como él es, ya que su Verbo divino ha establecido su morada en nuestros corazones. Además, declara que así como el mundo lo aborreció a él, también los aborrecerá a ellos. En efecto, el mundo aborrece a Cristo, porque está en conflicto con sus palabras y no acepta su enseñanza, estando las mentes de los hombres enteramente entregadas a deseos viles; y así como el mundo aborrece a nuestro Salvador Cristo, también ha aborrecido a los discípulos que llevan a cabo por medio de él su mensaje, como también lo hizo Pablo, quien dijo: Somos embajadores, por tanto, en nombre de Cristo, como si Dios rogara por medio de nosotros: os rogamos en nombre de Cristo, reconciliaos con Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2d6641c7eb14"
+ },
+ "hcf:Augustine of Hippo/John 17_15#0": {
+  "text_es": "Pero aunque ya no eran del mundo, todavía era necesario que estuvieran en el mundo: No ruego que los quites del mundo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a7aed31f03bd"
+ },
+ "hcf:Bede/John 17_15#0": {
+  "text_es": "Como si dijera: El tiempo está ya cerca, cuando yo seré quitado del mundo; y por tanto es necesario que ellos permanezcan todavía en el mundo, para predicarme a mí y a ti al mundo. Sino que los guardes del mal; de todo mal, pero especialmente del mal del cisma.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7e7dba272d10"
+ },
+ "hcf:John Chrysostom/John 17_15#1": {
+  "text_es": "\"No ruego que los quites del mundo, sino que los guardes del mal.\" De nuevo simplifica su lenguaje; de nuevo lo hace más claro; lo cual es propio de quien muestra, al interceder por ellos con exactitud, nada más que esto: que tiene un cuidado muy tierno por ellos. Sin embargo, él mismo les había dicho que el Padre haría todo lo que pidieran. ¿Cómo entonces ruega aquí por ellos? Como dije, con ningún otro propósito que mostrar su amor.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "50fc07524944"
+ },
+ "aquifer:18980": {
+  "text_es": "⸢Santifícalos⸣: Esto se refiere a la pureza obtenida por la separación del mundo, y a vivir una vida tan alineada con Dios que lo refleje. Los discípulos son apartados por Dios, equipados por el Espíritu y preparados por la palabra de Dios para entrar en el mundo sin ser victimizados por sus tinieblas.",
+  "lemas_es": [
+   "Santifícalos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "51b00fc978df",
+  "lemas_rv1909": [
+   {
+    "lema": "Santifícalos",
+    "ref": "JHN.17.17"
+   }
+  ]
+ },
+ "hcf:Augustine of Hippo/John 17_16#0": {
+  "text_es": "Repite lo mismo otra vez: No son del mundo, así como yo no soy del mundo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6f1fd0c6d738"
+ },
+ "hcf:John Chrysostom/John 17_16#0": {
+  "text_es": "\"No son del mundo, así como yo no soy del mundo.\" ¿Cómo entonces dice en otro lugar: \"Los que me diste del mundo; tuyos eran\"? Allí habla de su naturaleza; aquí de sus malas acciones. Y reúne un largo elogio de ellos; primero, que \"no eran del mundo\"; luego, que \"el Padre mismo los había dado\"; y que \"habían guardado su palabra\"; y que por esta razón \"eran aborrecidos\". Y si dice: \"Así como yo no soy del mundo\", no te turbes; pues el \"así como\" no expresa aquí una exactitud invariable. Pues así como, cuando en el caso de él y del Padre se usa el \"así como\", se significa una gran igualdad, a causa de la relación en la naturaleza; así cuando se usa de nosotros y él, el intervalo es grande, a causa del gran e infinito intervalo entre las respectivas naturalezas. Pues si él \"no hizo pecado, ni se halló engaño en su boca\", ¿cómo podrían los apóstoles ser considerados iguales a él? ¿Qué es entonces lo que dice: \"No son del mundo\"? \"Miran a otro mundo, no tienen nada en común con la tierra, sino que se han hecho ciudadanos del cielo.\" Y con estas palabras muestra su amor, cuando los encomienda al Padre y los confía a quien lo engendró. Cuando dice: \"Guárdalos\", no habla meramente de librarlos de los peligros, sino también en cuanto a su permanencia en la fe.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f5f4a3a072c7"
+ },
+ "hcf:Augustine of Hippo/John 17_17#0": {
+  "text_es": "Santifícalos en tu verdad: pues así habían de ser guardados del mal. Pero puede preguntarse cómo era que no eran del mundo, cuando aún no estaban santificados en la verdad. Porque los santificados todavía han de crecer en santidad, y esto con la ayuda de la gracia de Dios. Los herederos del Nuevo Testamento son santificados en aquella verdad cuyas sombras eran la santificación del Antiguo Testamento; son santificados en Cristo, quien dijo arriba: Yo soy el camino, y la verdad, y la vida. (c. 14:6) Sigue: Tu palabra es verdad. El griego es λόγος, es decir, palabra. El Padre entonces los santificó en la verdad, es decir, en su Verbo unigénito, a ellos, es decir, a los herederos de Dios y coherederos con Cristo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c413e7101b82"
+ },
+ "hcf:John Chrysostom/John 17_17#0": {
+  "text_es": "\"Santifícalos en tu verdad.\" \"Hazlos santos por el don del Espíritu y de las doctrinas rectas.\" Como cuando dice: \"Ya vosotros estáis limpios por la palabra que os he hablado\", así ahora dice lo mismo: \"Instrúyelos, enséñales la verdad.\" \"Y sin embargo dice que el Espíritu hace esto. ¿Cómo entonces lo pide ahora al Padre?\" Para que aprendas de nuevo su igualdad de honor. Pues las doctrinas rectas afirmadas acerca de Dios santifican el alma. Y si dice que son santificados por la palabra, no te maravilles. Y para mostrar que habla de doctrinas, añade: \"Tu palabra es verdad.\" Esto es: \"no hay falsedad en ella, y todo lo que en ella se dice ha de suceder necesariamente\"; y de nuevo, no significa nada típico o corporal. Como también Pablo dice acerca de la Iglesia, que él la santificó por la palabra. Pues la palabra de Dios también suele limpiar. Además, el \"santifícalos\" me parece que significa otra cosa, como esto: \"Apártalos para la palabra y para la predicación\".",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4d711a698a4d"
+ },
+ "hcf:Glossa Ordinaria/John 17_18#0": {
+  "text_es": "Como tú me enviaste al mundo, así también yo los he enviado al mundo. Pues para lo mismo que Cristo fue enviado al mundo, para eso fueron ellos; como dice Pablo: Dios estaba en Cristo reconciliando consigo al mundo; y nos ha dado la palabra de la reconciliación. (2 Cor. 5:19) El \"como\" no expresa una semejanza perfecta entre nuestro Señor y sus apóstoles, sino solo tanta como era posible en los hombres. Los he enviado, dice, según su costumbre de poner el pasado por el futuro.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "582344e1ae6b"
+ },
+ "hcf:John Chrysostom/John 17_18#0": {
+  "text_es": "\"Como tú me enviaste al mundo, así también yo los he enviado al mundo.\" Como también dice Pablo: \"Habiendo puesto en nosotros la palabra de la reconciliación.\" Pues para el mismo fin para el que Cristo vino, para ese mismo estos tomaron posesión del mundo. En este lugar de nuevo el \"como\" no se pone para significar semejanza en el caso de él y de los apóstoles; pues ¿cómo era posible que los hombres fueran enviados de otra manera? Sino que era su costumbre hablar del futuro como ya sucedido.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4567e45ecead"
+ },
+ "aquifer:18981": {
+  "text_es": "⸢Yo me santifico⸣ ⸢a mí mismo⸣: Los sacerdotes y profetas fueron igualmente apartados para el servicio de Dios (Levítico 8:30; Jeremías 1:5). Jesús de nuevo se comprometió con la misión de Dios. Reconoció que estaba apartado para el propósito de la cruz. Los discípulos se beneficiarían porque su muerte les permitiría experimentar una nueva santidad en una profunda unión con Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "633448eb20fd"
+ },
+ "hcf:Augustine of Hippo/John 17_19#0": {
+  "text_es": "Es manifiesto por esto que todavía habla de los apóstoles; pues la misma palabra apóstol significa en griego enviado. Pero puesto que ellos son sus miembros, en cuanto que él es la Cabeza de la Iglesia, dice: Y por ellos yo me santifico a mí mismo; es decir, yo en mí mismo los santifico, ya que ellos son yo mismo. Y para dejar más claro que este era su significado, añade: Para que también ellos sean santificados en la verdad, es decir, en mí; en cuanto que el Verbo es la verdad, en la cual el Hijo del hombre fue santificado desde el momento en que el Verbo se hizo carne. Pues entonces él se santificó a sí mismo en sí mismo, es decir, a sí mismo como hombre, en sí mismo como el Verbo: siendo el Verbo y el hombre un solo Cristo. Pero de sus miembros es de quienes dice: Y por ellos yo me santifico a mí mismo, es decir, a ellos en mí, ya que en mí están tanto ellos como yo. Para que también ellos sean santificados en la verdad: ellos también, es decir, así como yo mismo; y en la verdad, es decir, yo mismo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3e63cec4451e"
+ },
+ "hcf:Cyril of Alexandria/John 17_19#0": {
+  "text_es": "Y si podemos resumir brevemente todo el asunto, Cristo hizo descender sobre nosotros el antiguo don de la humanidad, es decir, la santificación por el Espíritu y la comunión con la naturaleza divina, siendo sus discípulos los primeros en recibirlo; pues verdadero es el dicho de que el labrador que trabaja debe ser el primero en participar de los frutos. Pero para que también en esto tuviera realmente la preeminencia (pues era conveniente que él, siendo, por así decirlo, uno de muchos hermanos, y todavía hombre como nosotros somos hombres, fuera visto, por estar en nuestra semejanza, como el Principio, y la Puerta, y el Camino, de todo bien para nosotros, y de hecho lo fuera), se ve impulsado a añadir lo que sigue, a saber, las palabras: Por ellos yo me santifico a mí mismo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d34572f561d1"
+ },
+ "aquifer:18983": {
+  "text_es": "Jesús oraba por otras ovejas que aún no estaban en su rebaño (10:16). Estos son los creyentes a través de los siglos que han llegado a la fe por el testimonio de los discípulos de Jesús.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d9b0d9fe92cc"
+ },
+ "hcf:Augustine of Hippo/John 17_20#6": {
+  "text_es": "Cuando nuestro Señor hubo orado por sus discípulos, a quienes también llamó apóstoles, añadió una oración por todos los demás que habían de creer en él: No ruego solo por estos, sino también por todos los que han de creer en mí por su palabra.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4524bf115b5e"
+ },
+ "hcf:Augustine of Hippo/John 17_20#7": {
+  "text_es": "Todos, es decir, no solo los que entonces vivían, sino también los que habían de nacer; no solo los que oyeron a los propios Apóstoles, sino también nosotros, que nacimos mucho después de su muerte. Todos hemos creído en Cristo por su palabra; pues ellos oyeron primero esa palabra de Cristo, y luego la predicaron a otros, y así ha descendido y descenderá a toda la posteridad. Podemos ver que en esta oración hay algunos discípulos por quienes no ora; pues por aquellos, es decir, que ni estaban con Él en aquel momento, ni habían de creer después en Él por la palabra de los Apóstoles, sino que ya creían. ¿Estaba Natanael con Él entonces, o José de Arimatea, y muchos otros, que, según dice Juan, creyeron en Él? No menciono al anciano Simeón, ni a Ana la profetisa, a Zacarías, a Elisabet, ni a Juan el Bautista; pues podría responderse que no era necesario orar por los muertos, como estos que partieron con tan ricos méritos. Respecto a los primeros, pues, debemos entender que aún no creían en Él como Él quería, sino que después de su resurrección, cuando los Apóstoles fueron enseñados y fortalecidos por el Espíritu Santo, alcanzaron una fe recta. Queda sin embargo el caso de Pablo, Apóstol no de hombres, ni por hombre; (Gál. 1:1) y el del ladrón, que creyó cuando incluso los propios maestros de la fe se apartaron. Debemos entender entonces que su palabra significa la palabra misma de la fe que predicaron al mundo; llamándose su palabra, porque fue predicada en primer lugar y principalmente por ellos; pues estaba siendo predicada por ellos, cuando Pablo la recibió por revelación de Jesucristo mismo. Y en este sentido también el ladrón creyó su palabra. Por lo cual en esta oración el Redentor ora por todos los que redimió, tanto presentes como futuros. Y luego sigue la cosa misma por la que ora: Que todos sean uno. Pide para todos lo que pidió arriba para los discípulos; que todos, tanto nosotros como ellos, seamos uno.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a0f6dab2751c"
+ },
+ "hcf:John Chrysostom/John 17_20#0": {
+  "text_es": "\"No ruego solo por estos, sino también por los que han de creer.\" Pues como moría por ellos, y dijo: \"Por ellos me santifico a mí mismo\", para que nadie pensara que hacía esto solo por los Apóstoles, añadió: \"No ruego solo por estos, sino también por los que creen en mí por su palabra.\" Con esto de nuevo reanimó sus almas, mostrando que los discípulos serían muchos. Pues porque hizo común lo que ellos poseían de manera peculiar, los consuela mostrando que estaban siendo hechos causa de la salvación de otros.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "11e32e36f4dc"
+ },
+ "aquifer:18984": {
+  "text_es": "⸢Sean uno⸣: Para los creyentes, llegar a ser uno con los demás es un resultado de la unión que disfrutan con Jesús mismo, una unión modelada según la unidad del Padre y del Hijo. ⸢Que también ellos estén en nosotros⸣: Mediante el poder del Espíritu Santo, los creyentes experimentan una unión profunda e íntima con el Padre y el Hijo, que conduce a la transformación (14:20, 23; 1 Juan 4:13). Los discípulos de Jesús lo representan, de modo que sus acciones rectas y sus relaciones mutuas reflejan la credibilidad de Cristo en el mundo. Cuando hay desunión, discordia e intolerancia, su testimonio ante el mundo no es convincente. Cuando las personas observan la comunidad de creyentes, saben que esta representa a Jesús; una comunidad unificada y amorosa convence al mundo para que crea (Juan 13:35; 1 Juan 3:11).",
+  "lemas_es": [
+   "Sean uno",
+   "Que también ellos estén en nosotros"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1a2deee06498",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "JHN.17.21"
+   },
+   {
+    "lema": "que también ellos sean en nosotros",
+    "ref": "JHN.17.21"
+   }
+  ]
+ },
+ "hcf:Augustine of Hippo/John 17_21#3": {
+  "text_es": "Debemos observar particularmente aquí que nuestro Señor no dijo que seamos todos uno, sino que ellos sean todos uno, como tú, Padre, en mí, y yo en ti, eres uno, según se entiende. Pues el Padre está de tal modo en el Hijo, que son uno, porque son de una sola sustancia; pero nosotros podemos ser uno en ellos, mas no con ellos; porque nosotros y ellos no somos de una sola sustancia. Ellos están en nosotros, y nosotros en ellos, de modo que ellos son uno en su naturaleza, nosotros uno en la nuestra. Ellos están en nosotros, como Dios está en el templo; nosotros en ellos, como la criatura está en su Creador. Por lo cual añade: en nosotros, para mostrar que el que seamos hechos uno por la caridad debe atribuirse a la gracia de Dios, no a nosotros mismos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c5663ac1b972"
+ },
+ "hcf:Augustine of Hippo/John 17_21#4": {
+  "text_es": "O que en nosotros mismos no podemos ser uno, separados unos de otros por diversos placeres, concupiscencias y la contaminación del pecado, de la cual debemos ser limpiados por un Mediador, para ser uno en Él.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cf0e07b91e46"
+ },
+ "hcf:Augustine of Hippo/John 17_21#5": {
+  "text_es": "Pero ¿por qué dice: Que el mundo crea que tú me has enviado? ¿Creerá el mundo cuando todos seamos uno en el Padre y en el Hijo? ¿No es esta unidad aquella paz eterna, que es recompensa de la fe, más bien que la fe misma? Pues aunque en esta vida todos los que sostenemos la misma fe común somos uno, sin embargo incluso esta unidad no es un medio para creer, sino consecuencia de ello. ¿Qué significa entonces: Que todos sean uno, para que el mundo crea? Ora por el mundo cuando dice: No ruego solo por estos, sino por todos los que han de creer en mí por su palabra. Por lo cual aparece que no hace de esta unidad la causa de que el mundo crea, sino que ora para que el mundo crea, así como ora para que todos sean uno. El sentido será más claro si ponemos siempre la palabra pedir: pido que todos sean uno; pido que sean uno en nosotros; pido que el mundo crea que tú me has enviado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "65ce7607f65c"
+ },
+ "hcf:Hilary of Poitiers/John 17_21#1": {
+  "text_es": "Y esta unidad es recomendada por el gran ejemplo de unidad: Como tú, Padre, estás en mí, y yo en ti, que también ellos sean uno en nosotros, es decir, que así como el Padre está en el Hijo, y el Hijo en el Padre, así, a semejanza de esta unidad, todos sean uno en el Padre y en el Hijo.\n\n(viii. de Trin) Los herejes, esforzándose por superar las palabras: Yo y el Padre somos uno, como prueba de unidad de naturaleza, y por reducirlas a significar una unidad simplemente de amor natural y acuerdo de voluntad, presentan estas palabras de nuestro Señor como ejemplo de este tipo de unidad: Que todos sean uno, como tú, Padre, estás en mí, y yo en ti. Pero aunque la impiedad puede engañar su propio entendimiento, no puede alterar el significado de las palabras mismas. Pues los que han nacido de nuevo de una naturaleza que da unidad en la vida eterna, dejan de ser uno solo en voluntad, adquiriendo la misma naturaleza por su regeneración; pero el Padre y el Hijo solos son propiamente uno, porque Dios, unigénito de Dios, solo puede existir en aquella naturaleza de la que deriva.\n\n(viii. de Trin) O bien, el mundo creerá que el Hijo es enviado del Padre por esta razón, a saber, porque todos los que creen en Él son uno en el Padre y en el Hijo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "345fc6cf7054"
+ },
+ "hcf:John Chrysostom/John 17_21#2": {
+  "text_es": "En otro lugar dice de sí mismo y del Padre: Vendremos y haremos morada con él; con la mención de dos personas, tapando la boca de los sabelianos. Aquí, al decir que el Padre viene a los discípulos por medio de Él, refuta la noción de los arrianos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e0c06328195d"
+ },
+ "aquifer:18985": {
+  "text_es": "La comunidad de creyentes debe mostrar la misma gloria que Jesús mostró del Padre.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bc66e6ea0879"
+ },
+ "hcf:Augustine of Hippo/John 17_22#1": {
+  "text_es": "Entonces nuestro Salvador, quien, al orar al Padre, se mostró hombre, ahora muestra que, siendo Dios con el Padre, hace lo que pide: Y la gloria que me diste, yo les he dado. ¿Qué gloria, sino la inmortalidad, que la naturaleza humana había de recibir en Él? Pues lo que había de ser por predestinación inmutable, aunque futuro, lo expresa con el tiempo pasado. Esa gloria de inmortalidad, que dice le fue dada por el Padre, debemos entender que Él mismo también se la dio. Pues cuando el Hijo calla acerca de su propia cooperación en la obra del Padre, muestra su humildad; cuando calla acerca de la cooperación del Padre en su obra, muestra su igualdad. Así aquí ni se desconecta a sí mismo de la obra del Padre, cuando dice: La gloria que me diste, ni al Padre de su obra, cuando dice: yo les he dado. Pero así como se complació en obtener por oración al Padre que todos sean uno, así ahora se complace en efectuar lo mismo por su propio don; pues continúa: Que todos sean uno, así como nosotros somos uno.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7cfbec3f05cd"
+ },
+ "hcf:Hilary of Poitiers/John 17_22-23#0": {
+  "text_es": "Por este dar y recibir honor, entonces, todos son uno. Pero todavía no comprendo de qué manera esto hace que todos sean uno. Nuestro Señor, sin embargo, explica la gradación y el orden en la consumación de esta unidad, cuando añade: Yo en ellos, y tú en mí; de modo que, en cuanto Él estaba en el Padre por su naturaleza divina, nosotros en Él por su encarnación, y Él de nuevo en nosotros por el misterio del sacramento, quedó establecida una unión perfecta por medio de un Mediador.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "78bd2c2eb383"
+ },
+ "hcf:John Chrysostom/John 17_22#0": {
+  "text_es": "\"Y la gloria que me diste, yo les he dado.\" Que por los milagros, que por las doctrinas, y que fueran de una sola alma; pues esto es gloria, que sean uno, y mayor incluso que los milagros. Así como los hombres admiran a Dios porque no hay contienda ni discordia en aquella Naturaleza, y esta es su mayor gloria, \"así también que estos\", dice, \"por esta causa se vuelvan gloriosos\". \"¿Y cómo\", dice alguno, \"pide al Padre que les dé esto, cuando dice que Él mismo se lo da?\" Ya sea que su discurso trate de milagros, o de unanimidad, o de paz, se ve que Él mismo les ha dado estas cosas; de donde es claro que la petición se hace por causa de su consuelo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "886e82bf126c"
+ },
+ "aquifer:18986": {
+  "text_es": "⸢para que el mundo conozca⸣: Si la iglesia vive en el Espíritu, refleja la gloria y el amor de Dios, y muestra la unidad sostenida por un conocimiento compartido de Dios, entonces su testimonio asombrará al mundo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4f3f86e0af2f"
+ },
+ "hcf:Augustine of Hippo/John 17_23#4": {
+  "text_es": "Sin embargo, esto no se dice como si significara que el Padre no estaba en nosotros, o nosotros en el Padre. Solo quiere decir que Él es Mediador entre Dios y los hombres. Y lo que añade: Que sean perfeccionados en uno, muestra que la reconciliación hecha por este Mediador fue llevada hasta el gozo de la bienaventuranza eterna. Así, lo que sigue: Que el mundo conozca que Tú me has enviado, no debe entenderse igual que las palabras inmediatamente anteriores: Que el mundo crea. Pues mientras creemos lo que no vemos, aún no somos perfeccionados, como lo seremos cuando hayamos merecido ver lo que creemos. De modo que cuando habla de que sean perfeccionados, hemos de entender un conocimiento que será por vista, no el que es por fe. Estos que creen son el mundo, no un enemigo permanente, sino cambiado de enemigo en amigo; como sigue: Y los has amado, como a mí me has amado. El Padre nos ama en el Hijo, porque nos eligió en Él. Estas palabras no prueban que seamos iguales al unigénito Hijo; pues este modo de expresión, como una cosa así otra, no siempre significa igualdad. A veces solo significa: porque una cosa, por tanto otra. Y este es su significado aquí: Los has amado, como a mí me has amado, es decir, los has amado, porque a mí me has amado. No hay razón para que Dios ame a sus miembros, sino que ama a aquel. Pero puesto que no odia nada de lo que ha hecho, ¿quién puede expresar adecuadamente cuánto ama a los miembros de su unigénito Hijo, y más aún al unigénito mismo?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a6a44e7b0b7e"
+ },
+ "hcf:John Chrysostom/John 17_23#0": {
+  "text_es": "\"Yo en ellos, y Tú en mí\". \"¿Cómo dio Él la gloria?\" Estando en ellos, y teniendo al Padre consigo, para soldarlos juntos. Pero en otro lugar no habla así; no dice que el Padre venga por medio de Él, sino: \"que Él y el Padre vendrán, y harán morada con él\", quitando allí la sospecha de Sabelio, aquí la de Arrio.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4c986aad14bc"
+ },
+ "aquifer:18987": {
+  "text_es": "Quiero que aquellos que me has dado estén conmigo: Algún día, todos los seguidores de Jesús verán su verdadera gloria y el amor que ha existido en el cielo antes del principio del tiempo (17:5). Jesús regresaba al cielo y deseaba profundamente ver allí a sus discípulos para que fueran testigos de lo que las palabras en la tierra no pueden describir.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cde10a24a484"
+ },
+ "hcf:Augustine of Hippo/John 17_24#10": {
+  "text_es": "Estos son aquellos que ha recibido del Padre, a quienes también eligió del mundo; como dice al comienzo de esta oración: Le has dado potestad sobre toda carne, es decir, sobre toda la humanidad, para que dé vida eterna a todos los que le has dado. En lo cual muestra que había recibido potestad sobre todos los hombres, para librar a quien quisiera, y condenar a quien quisiera. Por lo cual, a todos sus miembros promete esta recompensa: que donde Él está, estén también ellos. Ni puede dejar de hacerse lo que el Hijo omnipotente dice que desea al Padre omnipotente; pues el Padre y el Hijo tienen una sola voluntad, la cual, si la debilidad nos impide comprenderla, la piedad debe creerla. Donde yo estoy: en cuanto pertenece a la criatura, fue hecho de la descendencia de David según la carne: podría decir: Donde yo estoy, significando donde estaba poco después de estar, es decir, el cielo. En el cielo, pues, promete que estaremos. Pues allí fue elevada la forma de siervo, que había tomado de la Virgen, y allí colocada a la diestra de Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a772f860b9fd"
+ },
+ "hcf:Augustine of Hippo/John 17_24#11": {
+  "text_es": "Pero en cuanto a la forma de Dios, en la que es igual al Padre, si entendemos estas palabras: que estén conmigo donde yo estoy, con referencia a aquello, entonces desechad toda idea corporal, y no preguntéis dónde está el Hijo, que es igual al Padre; pues nadie ha descubierto dónde no está. Por lo cual no le bastó decir: Quiero que estén donde yo estoy, sino que añade: conmigo. Pues estar con Él es el gran bien: incluso los miserables pueden estar donde Él está, pero solo los felices pueden estar con Él. Y como en el caso de lo visible, aunque muy diferente sea cualquier ejemplo que tomemos, un ciego servirá como uno, pues un ciego, aunque está donde está la luz, no está él mismo con la luz, sino que está ausente de ella en su presencia, así no solo los incrédulos, sino también los creyentes, aunque no pueden estar donde Cristo no está, sin embargo no están ellos mismos con Cristo por vista: por la fe no podemos dudar que un creyente está con Cristo. Pero aquí habla de aquella visión en la que lo veremos tal como es; como añade: Que contemplen mi gloria, que me has dado. Que contemplen, dice, no, que crean. Es la recompensa de la fe de lo que habla, no la fe misma.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "201251934ad2"
+ },
+ "hcf:Augustine of Hippo/John 17_24#12": {
+  "text_es": "Cuando, pues, hayamos visto la gloria que el Padre dio al Hijo, aunque por esta gloria no entendemos aquí la que dio al Hijo igual cuando lo engendró, sino la que dio al Hijo del hombre después de su crucifixión; entonces será el juicio, entonces será quitado el impío, para que no vea la gloria del Señor: ¿qué gloria sino aquella por la que es Dios? Si entonces tomamos sus palabras: Que estén conmigo donde yo estoy, como dichas por Él como Hijo de Dios, en ese caso deben tener un significado más elevado, a saber, que estaremos en el Padre con Cristo. Como añade inmediatamente: Que contemplen mi gloria que me has dado; y luego: Que me diste antes de la fundación del mundo. Pues en Él nos amó antes de la fundación del mundo, y entonces predestinó lo que haría al final del mundo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "931424f61d18"
+ },
+ "hcf:Bede/John 17_24#0": {
+  "text_es": "Lo que llama gloria entonces es el amor con que fue amado con el Padre antes de la fundación del mundo. Y en esa gloria también nos amó antes de la fundación del mundo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "aa04ea6bcc9b"
+ },
+ "hcf:Gregory the Dialogist/John 17_24#0": {
+  "text_es": "¿Qué significa entonces lo que la Verdad dice arriba: Nadie ha subido al cielo, sino el que descendió del cielo, el Hijo del hombre que está en el cielo. (John 3:13) Sin embargo, aquí no hay discrepancia, pues nuestro Señor, siendo la Cabeza de sus miembros, excluidos los réprobos, está solo con nosotros. Y por tanto, nosotros haciéndonos uno con Él, de donde Él vino solo en sí mismo, allí regresa solo en nosotros.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1ab7536fe33a"
+ },
+ "hcf:John Chrysostom/John 17_24#0": {
+  "text_es": "\"Padre\", dice, \"quiero que también aquellos que me has dado, estén conmigo donde yo estoy\". \"¿Entonces obtienes por oración, y aún no posees aquello sobre lo que preguntaban continuamente, diciendo: '¿A dónde vas?' ¿Qué dices? ¿Cómo entonces les dijiste: 'Os sentaréis sobre doce tronos'? ¿Cómo prometiste otras cosas mayores y más grandes?\" ¿Ves que dice todo a modo de condescendencia? Pues ¿cómo habría dicho: \"Me seguirás después\"? Pero habla así con vistas a una convicción y demostración más plena de su amor.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b8a3bb6ed7f7"
+ },
+ "hcf:Augustine of Hippo/John 17_25#1": {
+  "text_es": "O así: ¿Qué es conocerle, sino la vida eterna, que dio no a un mundo condenado sino a un mundo reconciliado? Por esta razón el mundo no te ha conocido; porque eres justo, y los has castigado con esta ignorancia de ti, en recompensa por sus malas obras. Y por esta razón el mundo reconciliado te conoce, porque eres misericordioso, y has concedido este conocimiento, no en consecuencia de sus méritos, sino de tu gracia. Sigue: Pero yo te he conocido. Él es Dios, fuente de gracia por naturaleza, hombre del Espíritu Santo y de la Virgen por gracia inefable. Entonces, porque la gracia de Dios es por Jesucristo, dice: Y ellos me han conocido, es decir, el mundo reconciliado me ha conocido, por gracia, en cuanto que tú me has enviado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "54faaaf273ec"
+ },
+ "hcf:Theophylact of Ohrid/John 17_25#0": {
+  "text_es": "Después de que había orado por los creyentes, y les había prometido tantas cosas buenas, sigue otra oración digna de su misericordia y benignidad: Padre justo, el mundo no te ha conocido; como si dijera: Desearía que todos los hombres obtuvieran estas cosas buenas, que he pedido para los creyentes. Pero en cuanto que no te han conocido, no obtendrán la gloria y la corona.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6025aa8c96ab"
+ },
+ "aquifer:18988": {
+  "text_es": "Todos los que aceptan al Hijo y abrazan al Padre experimentarán el tipo de amor conocido solo entre el Padre y el Hijo. ⸢Yo en ellos⸣: Jesús ama a sus seguidores y quiere llenarlos de gloria y gozo que no se compara con nada en el mundo.",
+  "lemas_es": [
+   "Yo en ellos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0f94fa69cefa",
+  "lemas_rv1909": [
+   {
+    "lema": "yo en ellos",
+    "ref": "JHN.17.26"
+   }
+  ]
+ },
+ "hcf:Augustine of Hippo/John 17_26#1": {
+  "text_es": "Y les he dado a conocer tu nombre por la fe, y lo daré a conocer por la vista: que el amor con que me has amado esté en ellos. (2 Tim. 4:7) El Apóstol usa una frase similar: He peleado la buena batalla, siendo la buena batalla la forma más común. El amor con que el Padre ama al Hijo en nosotros, solo puede estar en nosotros porque somos sus miembros, y somos amados en Él cuando Él es amado totalmente, es decir, tanto la cabeza como el cuerpo. Y por tanto añade: Y yo en ellos; Él está en nosotros, como en su templo, nosotros en Él como nuestra Cabeza.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6a3b21369da5"
+ },
+ "hcf:John Chrysostom/John 17_26#0": {
+  "text_es": "\"Y les he declarado tu Nombre, y lo declararé\". \"Sin embargo tú dices que el conocimiento perfecto es del Espíritu\". \"Pero las cosas del Espíritu son mías\". \"Que el amor con que me has amado permanezca en ellos, y yo en ellos\". \"Pues si aprenden quién eres, entonces sabrán que no estoy separado de ti, sino que soy uno de los muy amados, y un verdadero Hijo, y estrechamente unido a ti. Y aquellos que estén rectamente persuadidos de esto, guardarán tanto la fe que es en mí como el amor perfecto; y yo permaneceré en ellos\". ¿Ves cómo ha llegado a un buen fin, rematando el discurso con el amor, la madre de todas las bendiciones?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4cc0b69c4ea8"
+ }
+}

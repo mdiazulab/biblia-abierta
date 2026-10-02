@@ -1,0 +1,801 @@
+{
+ "aquifer:18870": {
+  "text_es": "En esta parte del Evangelio de Juan, dos historias avanzan al mismo tiempo.\n\nPrimero, cada vez más personas comienzan a alabar a Jesús. Su entusiasmo llega a su punto máximo cuando las multitudes lo reciben en Jerusalén con gritos de alegría (12:12–13).\n\nSegundo, las autoridades religiosas se determinan cada vez más a arrestar a Jesús y darle muerte. A medida que crece el apoyo popular, también crece su oposición. El Evangelio de Juan describe tres acontecimientos que ocurrieron solo días antes de la Pascua (12:1–11, 12–19, 20–36). Luego explica por qué la mayoría de la gente se negó a creer y describe el último mensaje público pronunciado por Jesús (12:37–50).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "265759ec9e10"
+ },
+ "aquifer:18877": {
+  "text_es": "Los peregrinos de todo Israel comenzaron a llegar a Jerusalén la semana anterior a la Pascua. La fiesta era el jueves de ese año. Jesús llegó a la región al anochecer del viernes anterior, justo antes del sábado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6e53ca8da88a"
+ },
+ "hcf:Alcuin of York/John 12_1#0": {
+  "text_es": "Cuando se acercaba el tiempo en que nuestro Señor había resuelto padecer, se acercó al lugar que había elegido para la escena de su padecimiento: Entonces Jesús, seis días antes de la pascua, vino a Betania. Primero fue a Betania, luego a Jerusalén; a Jerusalén para padecer, a Betania para mantener vivo el recuerdo de la reciente resurrección de Lázaro; Donde estaba Lázaro, que había estado muerto, a quien resucitó de entre los muertos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "03e2613ee360"
+ },
+ "hcf:Alcuin of York/John 12_1#1": {
+  "text_es": "Místicamente, que viniera a Betania seis días antes de la pascua significa que Aquel que hizo todas las cosas en seis días, que creó al hombre en el sexto, en la sexta edad del mundo, el sexto día, la sexta hora, vino a redimir a la humanidad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3ad3ed82cc7c"
+ },
+ "hcf:Theophylact of Ohrid/John 12_1-2#0": {
+  "text_es": "El día diez del mes tomaban el cordero que había de ser sacrificado en la pascua, y desde ese momento comenzaba la preparación para la fiesta. O más bien el día nueve del mes, es decir, seis días antes de la pascua, era el comienzo de la fiesta. Banqueteaban abundantemente en ese día. Así encontramos que Jesús participó de un banquete en Betania: Allí le hicieron una cena, y Marta servía. Que Marta sirviera muestra que el banquete era en su casa. Véase la fidelidad de la mujer: no deja la tarea de servir a los criados, sino que la toma sobre sí. El Evangelista añade, en orden, al parecer, para dejar zanjada la resurrección de Lázaro, Pero Lázaro era uno de los que estaban sentados a la mesa con él.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7d48a162c79a"
+ },
+ "aquifer:18886": {
+  "text_es": "⸢los que estaban reclinados⸣: La gente solía sentarse o recostarse en una mesa baja mientras comía.",
+  "lemas_es": [
+   "los que estaban reclinados"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "58a2f20351dd",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "JHN.12.2"
+   }
+  ]
+ },
+ "hcf:Alcuin of York/John 12_2#0": {
+  "text_es": "La Cena del Señor es la fe de la Iglesia, que obra por el amor. Marta sirve, siempre que un alma creyente se dedica al culto del Señor. Lázaro es uno de los que se sientan a la mesa, cuando los que han sido resucitados de la muerte del pecado se regocijan junto con los justos, que siempre lo han sido, en presencia de la verdad, y son alimentados con los dones de la gracia celestial. El banquete se da en Betania, que significa casa de obediencia, es decir, en la Iglesia: pues la Iglesia es la casa de la obediencia.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "53b078da7d76"
+ },
+ "hcf:Augustine of Hippo/John 12_2#0": {
+  "text_es": "Vivía, hablaba, banqueteaba; la verdad quedó establecida, la incredulidad de los judíos confundida.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "069b28fd544b"
+ },
+ "hcf:John Chrysostom/John 12_2-3#0": {
+  "text_es": "Esto era prueba de la autenticidad de su resurrección, que después de muchos días tanto vivía como comía. \"Y Marta servía\"; de donde queda claro que la comida era en su casa, pues recibieron a Jesús como amado y amante. Algunos, sin embargo, dicen que tuvo lugar en la casa de otro. María no servía, pues era discípula. Aquí de nuevo actuó de manera más espiritual. Pues no sirvió como invitada, ni prestó sus servicios a todos por igual. Sino que dirige el honor a Él solo, y se le acerca no como a un hombre, sino como a un Dios. Por esta razón derramó el ungüento, y enjugó (sus pies) con los cabellos de su cabeza, lo cual era la acción de alguien que no tenía la misma opinión acerca de Él que los demás; sin embargo Judas la reprendió, con el pretexto, por cierto, de la solicitud.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "82a5d3721bad"
+ },
+ "aquifer:18893": {
+  "text_es": "⸢María … ungió los pies de Jesús⸣. Esto no era incómodo porque los judíos se reclinaban en las comidas formales, pero aun así fue un gesto dramático (compárese Mateo 26:6–16; Marcos 14:3–9). El nardo era una especia valiosa del norte de la India. Era dulce, rojo, y olía como el perfume hecho de la planta gladiolo. Doce onzas de nardo costaban el salario de un año (Juan 12:5).\n\nSegún el Evangelio de Marcos, María también ungió la cabeza de Jesús (Marcos 14:3). El perfume corrió y hizo que su ropa oliera bien (Marcos 14:8). ⸢su cabello⸣: Las mujeres nunca se quitaban el velo del cabello en público (véase Lucas 7:38). María actuaba con una devoción profunda y costosa.",
+  "lemas_es": [
+   "su cabello"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c9cc1ff690cb",
+  "lemas_rv1909": [
+   {
+    "lema": "cabellos",
+    "ref": "JHN.12.3"
+   }
+  ]
+ },
+ "hcf:Alcuin of York/John 12_3#0": {
+  "text_es": "O pistici significa genuino, no adulterado. Ella es la mujer que era pecadora, que vino a nuestro Señor en casa de Simón con el frasco de ungüento.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fdffddf36c06"
+ },
+ "hcf:Alcuin of York/John 12_3#1": {
+  "text_es": "Y observa, en la primera ocasión de su unción, ungió solo sus pies, pero ahora unge tanto sus pies como su cabeza. Lo primero denota los comienzos de la penitencia, lo segundo la justicia de las almas perfeccionadas. Por la cabeza de nuestro Señor se significa la alteza de su naturaleza divina, por sus pies la humildad de su encarnación; o por la cabeza, Cristo mismo, por los pies, los pobres que son sus miembros.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4587c51cce83"
+ },
+ "hcf:Augustine of Hippo/John 12_3#1": {
+  "text_es": "La casa se llenó con el aroma; el mundo se llenó con la buena fama.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "346626d2a2e5"
+ },
+ "hcf:Augustine of Hippo/John 12_3#2": {
+  "text_es": "La palabra pistici parece ser el nombre de algún lugar, de donde vino este precioso ungüento.\n\n(Tr. l) Recuerda las palabras del Apóstol: Para los unos somos olor de muerte para muerte; y para los otros olor de vida para vida. (2 cor. 11:16)\n\n(Tr. li. 6) El ungüento con que María ungió los pies de Jesús era la justicia. Por eso era una libra. Era también ungüento de nardo (pistici), muy precioso. Πίστις es griego para fe. ¿Buscas hacer justicia? El justo vivirá por la fe. (Heb. 10:38) Unge los pies de Jesús con una buena vida, sigue las huellas del Señor: si tienes superfluidad, da a los pobres, y habrás enjugado los pies del Señor; pues el cabello es una parte superflua del cuerpo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "41f16d74363b"
+ },
+ "hcf:Cyril of Alexandria/John 12_3#0": {
+  "text_es": "Mientras Marta servía, María ungió al Señor con ungüento, cumpliendo así su amor hacia Él; y por las acciones de ambas, la medida del amor se completó y se hizo perfecta.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "71b37e748249"
+ },
+ "hcf:Augustine of Hippo/John 12_4-6#0": {
+  "text_es": "Entonces dijo uno de sus discípulos, Judas Iscariote, hijo de Simón, el que había de entregarle: ¿Por qué no se vendió este ungüento por trescientos denarios, y se dio a los pobres? En los otros Evangelios son los discípulos quienes murmuran por el desperdicio del ungüento. Yo mismo pienso que Judas está puesto por todo el cuerpo de discípulos; el singular por el plural. Pero en todo caso podemos suplir por nosotros mismos que los otros discípulos lo dijeron, o lo pensaron, o fueron persuadidos por este mismo discurso de Judas. La única diferencia es que Mateo y Marcos mencionan expresamente la concurrencia de los otros, mientras que Juan solo menciona a Judas, cuya costumbre de robar aprovecha la ocasión para señalar: Esto dijo, no porque le importasen los pobres, sino porque era ladrón, y tenía la bolsa, y traía lo que se echaba en ella.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6e3280398d9d"
+ },
+ "aquifer:18898": {
+  "text_es": "⸢trescientos denarios⸣: Puede que Judas estuviera exagerando, pero el sacrificio de María ciertamente era muy costoso.",
+  "lemas_es": [
+   "trescientos denarios"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5af07f901f38",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "JHN.12.5"
+   }
+  ]
+ },
+ "hcf:Alcuin of York/John 12_6#0": {
+  "text_es": "La llevaba como siervo, la sacaba como ladrón.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "061bb9e68c61"
+ },
+ "hcf:Augustine of Hippo/John 12_6#0": {
+  "text_es": "Judas no pereció en el momento en que recibió dinero de los judíos para entregar a nuestro Señor. Ya era ladrón, ya estaba perdido, y seguía a nuestro Señor en cuerpo, no en corazón; en lo cual se nos enseña el deber de tolerar a los hombres malvados, no sea que dividamos el cuerpo de Cristo. El que roba a la Iglesia cualquier cosa puede ser comparado con el Judas perdido. Tolera a los malvados, tú que eres bueno, para que recibas la recompensa de los buenos, y no caigas en el castigo de los malvados. Sigue el ejemplo de la conversación de nuestro Señor en la tierra. ¿Para qué tenía bolsas, Aquel a quien los Ángeles servían, sino porque su Iglesia había de tener bolsas después? ¿Por qué admitió ladrones, sino para mostrar que su Iglesia había de tolerar ladrones, mientras sufría por causa de ellos? No es sorprendente que Judas, que estaba acostumbrado a robar dinero de las bolsas, entregara a nuestro Señor por dinero.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "936b972837a6"
+ },
+ "hcf:Theophylact of Ohrid/John 12_6#0": {
+  "text_es": "Algunos suponen que Judas tenía el cuidado del dinero, por ser el tipo más bajo de servicio. Pues que el ministerio de los asuntos de dinero está por debajo del ministerio de la doctrina, lo sabemos por lo que dice el Apóstol en los Hechos: No es razón que dejemos la palabra de Dios, y sirvamos a las mesas. (Hechos 6:2)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ab42ae44505e"
+ },
+ "aquifer:18899": {
+  "text_es": "⸢Déjala⸣: Jesús defendió a María explicando sus acciones. El nardo era una especia de sepultura para su muerte. Jesús fue preparado para la sepultura al acercarse la hora de la glorificación y la muerte (véase la nota de estudio sobre 12:23).",
+  "lemas_es": [
+   "Déjala"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b4368a500a6f",
+  "lemas_rv1909": [
+   {
+    "lema": "Déjala",
+    "ref": "JHN.12.7"
+   }
+  ]
+ },
+ "hcf:Alcuin of York/John 12_7#0": {
+  "text_es": "Entonces dijo Jesús: Déjala: para el día de mi sepultura ha guardado esto: queriendo decir que estaba a punto de morir, y que este ungüento era adecuado para su sepultura. Así a María, que no podía estar presente, aunque mucho lo deseaba, en la unción del cuerpo muerto, le fue dado hacerle este oficio en vida.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "349f7c15143e"
+ },
+ "hcf:John Chrysostom/John 12_7-8#1": {
+  "text_es": "\"Déjala\", dice, \"que para el día de mi sepultura ha hecho esto.\" De nuevo, hace mención del traidor al hablar de su sepultura. Pero a él no alcanza la reprensión, ni la expresión lo ablanda, aunque suficiente para inspirarle piedad: como si hubiera dicho: \"Soy una carga y molesto, pero espera un poco, y me iré.\" Esto también quiso dar a entender al decir: \"Pero a mí no siempre me tenéis.\"",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "303e81f6c2bc"
+ },
+ "aquifer:18900": {
+  "text_es": "Jesús no ignoraría a los pobres. Se preocupaba profundamente por las personas necesitadas.\n\nSin embargo, este momento para honrarlo y servirlo era único. Era una oportunidad especial que no volvería a ocurrir.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "779817d63efe"
+ },
+ "hcf:Augustine of Hippo/John 12_8#0": {
+  "text_es": "Hablaba de su presencia corporal; pues en cuanto a su majestad, providencia y gracia inefable e invisible, se cumplen aquellas palabras: «He aquí yo estoy con vosotros todos los días, hasta el fin del mundo» (Mat. 28:20) (c. 12.). O así: En la persona de Judas se representan los malvados en la Iglesia; pues si eres buen hombre, tienes ahora a Cristo por la fe y el Sacramento, y siempre lo tendrás, porque cuando hayas partido de aquí, irás a Aquel que dijo al ladrón: «Hoy estarás conmigo en el paraíso» (Luc. 23:43). Pero si eres malvado, pareces tener a Cristo, porque estás bautizado con el bautismo de Cristo, porque te acercas al altar de Cristo; pero por causa de tu vida malvada, no lo tendrás siempre. No es «tú tienes», sino «vosotros tenéis», dirigiéndose a todo el cuerpo de los malvados en Judas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cd97a151a0bc"
+ },
+ "hcf:Cyril of Alexandria/John 12_8#0": {
+  "text_es": "Y el Señor también presenta un argumento que nos convence de que nada es mejor que la devoción hacia Él. Pues, dice, el amor a los pobres es muy loable, solo que ha de ponerse después de la veneración a Dios. Y lo que dice equivale a esto: El tiempo, dice, que ha sido señalado para que yo sea honrado, es decir, el tiempo de mi estancia en la tierra, no exige que los pobres sean honrados antes que yo. Y esto lo dijo con referencia a la encarnación. Sin embargo, de ningún modo prohíbe que la persona compasiva ejerza su amor hacia los pobres. Por lo tanto, cuando hay necesidad de servicio o de canto, estos deben ser honrados antes que el amor a los pobres; pues es posible hacer el bien después de terminados los servicios espirituales. Dice, pues, que no es necesario dedicar siempre sin interrupción nuestro tiempo a honrarlo a Él, ni gastarlo todo en el servicio sacerdotal, sino destinar la mayor parte a los pobres. O así: Como manda a sus discípulos ayunar después de que haya ascendido al Padre, así también dice que entonces podrán dedicarse con más libertad al cuidado de los pobres y ejercer su amor hacia ellos con menos perturbación y más sosiego; lo cual ciertamente sucedió así. Pues después de la Ascensión del Salvador, cuando ya no seguían a su Maestro en sus viajes, sino que tenían tiempo libre, entonces gastaban con afán todas las ofrendas que les eran traídas en los pobres.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4cd7b149335d"
+ },
+ "hcf:Augustine of Hippo/John 12_9#0": {
+  "text_es": "Gran multitud de los judíos supo, pues, que Él estaba allí, y vinieron no solo por causa de Jesús, sino para ver también a Lázaro, a quien había resucitado de entre los muertos. La curiosidad los trajo, no el amor.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fec73a855a0d"
+ },
+ "hcf:Theophylact of Ohrid/John 12_9#1": {
+  "text_es": "Deseaban ver con sus propios ojos a quien había sido resucitado de entre los muertos, y pensaban que Lázaro podría traer un relato de las regiones inferiores.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4de79b5da15e"
+ },
+ "hcf:Augustine of Hippo/John 12_10-11#0": {
+  "text_es": "Cuando la noticia de este gran milagro se hubo difundido por todas partes, y estaba respaldada por una evidencia tan clara que no podían ni suprimir ni negar el hecho, entonces los principales sacerdotes consultaron que podrían dar muerte también a Lázaro. ¡Oh ciega furia! Como si el Señor pudiera resucitar a los muertos y no resucitar a los asesinados. He aquí que el Señor hizo ambas cosas. Resucitó a Lázaro, y se resucitó a sí mismo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f735cc197b03"
+ },
+ "aquifer:18871": {
+  "text_es": "El día siguiente era domingo (véase 12:1). Una gran multitud de peregrinos religiosos, muchos de Galilea, acampaba en esta zona. Mientras Jesús recorría el camino a Jerusalén, lo aclamaban. Esta entrada triunfal aparece en los cuatro Evangelios (Mateo 21:1–11; Marcos 11:1–11; Lucas 19:29–38).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "de7cdccc039f"
+ },
+ "hcf:Augustine of Hippo/John 12_12-13#0": {
+  "text_es": "Ved cuán grande fue el fruto de su predicación, y cuán grande el rebaño de las ovejas perdidas de la casa de Israel que oyó la voz de su Pastor: «Al día siguiente, una gran multitud que había venido a la fiesta, cuando oyeron que Jesús venía a Jerusalén, tomaron ramas de palmeras». Las ramas de palmeras son cantos de alabanza, por la victoria que nuestro Señor estaba a punto de obtener por su muerte sobre la muerte, y su triunfo sobre el diablo, príncipe de la muerte, por el trofeo de la cruz.\n\n(Tr. li. 2) Hosanna es una simple exclamación, que más bien indica cierta agitación de la mente que tener algún significado particular; como muchas interjecciones que tenemos en latín.\n\n(Tr. li. 4) Cosa pequeña sería para el Rey eterno ser hecho rey humano. Cristo no era el Rey de Israel para exigir tributos y mandar ejércitos, sino para dirigir las almas y llevarlas al reino de los cielos. Por lo tanto, que Cristo fuera entonces Rey de Israel era una condescendencia, no una elevación, una señal de su piedad, no un aumento de su poder. Pues quien fue llamado en la tierra el Rey de los judíos, es en el cielo el Rey de los Ángeles.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b0ab6bbd8391"
+ },
+ "hcf:John Chrysostom/John 12_12#0": {
+  "text_es": "La Ley ordenaba que el décimo día del primer mes se encerrara en la casa un cordero o un cabrito, y se guardara hasta el día catorce del mismo mes, al atardecer del cual era sacrificado. De acuerdo con esta ley, el Cordero escogido, el Cordero sin mancha, cuando subió a Jerusalén para ser inmolado por la santificación del pueblo, subió cinco días antes, es decir, el día décimo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c0af56b041d9"
+ },
+ "aquifer:18872": {
+  "text_es": "⸢Ramas de palmeras⸣: La palmera datilera ⸢palm⸣ simbolizaba el orgullo de la nación judía y la celebración. ⸢meet Him⸣: La palabra griega describe a menudo a multitudes que reciben a un rey que regresa triunfante de la guerra. ⸢Blessed is He⸣: La multitud citó el Salmo 118:25–26, con un saludo para los que venían a Jerusalén. \n\nLa frase «⸢¡Bendito el Rey de Israel!⸣» no está en el salmo (pero véase Sofonías 3:15). Aunque el pueblo veía a Jesús como un libertador político nacional, él rechazó este papel (Juan 6:15).",
+  "lemas_es": [
+   "Ramas de palmeras",
+   "meet Him",
+   "Blessed is He"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5d374f260248",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "JHN.12.13"
+   },
+   {
+    "lema": null,
+    "ref": "JHN.12.13"
+   },
+   {
+    "lema": null,
+    "ref": "JHN.12.13"
+   }
+  ]
+ },
+ "hcf:Bede/John 12_13#3": {
+  "text_es": "Es un compuesto de dos palabras; Hosi se abrevia en «salva»; Anna, una mera exclamación, completa. «Bendito el que viene en el nombre del Señor». El nombre del Señor aquí es el nombre de Dios Padre; aunque podemos entenderlo como su propio nombre; en cuanto que también Él es el Señor. Pero el primer sentido concuerda mejor con el texto anterior: «Yo he venido en nombre de mi Padre» (5:43). No pierde su divinidad cuando nos enseña la humildad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d658ab7a46e7"
+ },
+ "hcf:Theophylact of Ohrid/John 12_13-14#0": {
+  "text_es": "Los judíos, cuando lo llamaban Rey de Israel, soñaban con un rey terrenal. Esperaban que surgiera un rey de grandeza más que humana, que los librara del gobierno de los romanos. Pero ¿cómo vino nuestro Señor? Las palabras siguientes nos lo dicen: «Y Jesús, habiendo encontrado un asno joven, se sentó sobre él».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "52cb6c2f3791"
+ },
+ "aquifer:18873": {
+  "text_es": "Al elegir ⸢un asno joven⸣ en lugar de un caballo de guerra⸢,⸣ Jesús calmó a la multitud exaltada que ansiaba que se convirtiera en rey. También cumplió las profecías del Antiguo Testamento acerca del Mesías (véase Zacarías 9:9). Dejó claro que su realeza no se basaba en la violencia. No vino como guerrero a conquistar naciones. Vino a dar vida. Su gobierno traería paz, no victoria militar.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f126fab521f4"
+ },
+ "hcf:Augustine of Hippo/John 12_14-15#0": {
+  "text_es": "Juan relata el asunto brevemente; los otros Evangelistas son más completos. El asno, leemos en ellos, era el pollino de un asna sobre el que ningún hombre se había sentado: es decir, el mundo gentil, que no había recibido a nuestro Señor. El otro asno, que fue traído (no el pollino, pues eran dos), es el judío creyente.\n\n(Tr. li) Este acto de nuestro Señor está señalado en los Profetas, aunque los malignos gobernantes de los judíos no veían en él ningún cumplimiento de profecía: «Como está escrito: No temas, hija de Sion; he aquí tu Rey viene sentado sobre un pollino de asna». Sí, en aquella nación, aunque reprobada, aunque ciega, quedaba todavía la hija de Sion; incluso Jerusalén. A ella se le dice: No temas, reconoce a quien ahora alabas, y no tiembles cuando Él sufra. Esa sangre es la que borrará tus pecados y redimirá tu vida.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7a8168722778"
+ },
+ "hcf:John Chrysostom/John 12_14-15#2": {
+  "text_es": "Pero ¿cómo dicen los otros que Él envió discípulos y dijo: «Desatad el asna y el pollino», mientras que Juan no dice nada de eso, sino que «habiendo encontrado un asno joven, se sentó sobre él»? Porque es probable que ambas circunstancias ocurrieran, y que Él, después de que el asna fue desatada, mientras los discípulos la traían, encontró el pollino y se sentó sobre él.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1c352e54c457"
+ },
+ "hcf:Augustine of Hippo/John 12_15#0": {
+  "text_es": "Jesús, entonces, «encontró un asno joven y se sentó sobre él; como está escrito: No temas, hija de Sion; he aquí, tu Rey viene, sentado sobre un pollino de asna». Entre aquel pueblo, pues, había de encontrarse la hija de Sion; porque Sion es lo mismo que Jerusalén. Entre aquel mismo pueblo, digo, reprobado y ciego como estaba, estaba la hija de Sion, a quien se dijo: «No temas, hija de Sion; he aquí, tu Rey viene, sentado sobre un pollino de asna». Esta hija de Sion, a quien así se dirigió divinamente, estaba entre aquellas ovejas que oían la voz del Pastor, y en aquella multitud que celebraba la venida del Señor con tan religioso celo, y lo acompañaba con tan marcial despliegue. A ella se le dijo: «No temas»: reconoce a quien ahora ensalzas, y no cedas al temor cuando Él venga al sufrimiento; porque por el derramamiento de su sangre ha de ser borrada tu culpa y restaurada tu vida. Pero por el pollino de asna, sobre el que nunca se había sentado hombre alguno (pues así se halla registrado en los otros evangelistas), hemos de entender las naciones gentiles que no habían recibido la ley del Señor; por el asna, en cambio (pues ambos animales fueron traídos al Señor), aquel pueblo suyo que procedía de la nación de Israel, y ya estaba lo bastante sometido como para reconocer el pesebre de su Amo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6a5407fc515b"
+ },
+ "aquifer:18874": {
+  "text_es": "Las multitudes no entendían plenamente quién era Jesús. Incluso sus discípulos no captaban el significado completo de lo que estaba sucediendo. Veían los acontecimientos, pero aún no comprendían su verdadero significado (su sentido más profundo).\n\nDespués de que Jesús fue glorificado (exaltado en muerte, resurrección y regreso al Padre), las cosas cambiaron. Cuando los discípulos recibieron el Espíritu Santo, comenzaron a entender con mayor claridad (véase 2:22).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "dfeac5b21e32"
+ },
+ "hcf:Augustine of Hippo/John 12_16#0": {
+  "text_es": "Es decir, cuando mostró el poder de su resurrección, entonces recordaron que estas cosas estaban escritas de Él, y que le habían hecho estas cosas, es decir, aquellas cosas que estaban escritas de Él.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "779036c3ee56"
+ },
+ "hcf:Cyril of Alexandria/John 12_16#1": {
+  "text_es": "El Evangelista no duda en mencionar la ignorancia de los discípulos, ni su comprensión posterior, pues no se preocupaba por el respeto de las personas, sino que aboga por la gloria del Espíritu y muestra qué clase de hombres eran los discípulos antes de la resurrección y qué clase de hombres se habían vuelto después de la resurrección.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "03e363c6c65a"
+ },
+ "aquifer:18875": {
+  "text_es": "Esta escena describe el punto más alto de la popularidad de Jesús. En este tiempo, grandes multitudes lo seguían. Muchas personas estaban entusiasmadas con su enseñanza y sus milagros.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d6556e5cb8c4"
+ },
+ "hcf:Augustine of Hippo/John 12_17-19#0": {
+  "text_es": "La multitud fue perturbada por la multitud. (Turba turbavit turbam) Pero ¿por qué se queja aquella multitud ciega de que el mundo vaya tras Aquel por quien el mundo fue hecho?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "21d7d8fd37e1"
+ },
+ "hcf:Theophylact of Ohrid/John 12_17-19#0": {
+  "text_es": "Ved, pues, las consecuencias de la pasión de nuestro Señor. No fue en vano que hubiera reservado su mayor milagro para el final. Pues la resurrección de Lázaro fue lo que hizo que la multitud creyera en Él. La gente, por tanto, que estaba con Él cuando llamó a Lázaro fuera de su sepulcro y lo levantó de entre los muertos, daba testimonio. Por esta causa también la gente le salió al encuentro, porque oyeron que había hecho este milagro. De ahí la inquina y las maquinaciones de los fariseos: Los fariseos, pues, dijeron entre sí: ¿Veis cómo no aprovecháis nada? Mirad, el mundo se va tras Él.\n\nComo si dijeran: Cuanto más lo atacáis, más aumentarán su poder y su reputación. ¿De qué sirven, entonces, estos intentos?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "79ec2f7b064e"
+ },
+ "aquifer:18876": {
+  "text_es": "⸢el mundo entero ⸣(literalmente ⸢el mundo⸣): Las palabras de los fariseos tenían más significado de lo que ellos se daban cuenta. Jesús vino a alcanzar al mundo (3:17), y los fariseos dijeron que Jesús había cumplido su tarea.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "99c83a44d6f9"
+ },
+ "hcf:John Chrysostom/John 12_19#0": {
+  "text_es": "El mundo significa aquí la multitud. Este parece ser el discurso de aquella parte que estaba sana en su fe, pero no se atrevía a profesarla. Intentan disuadir al resto exponiendo las dificultades insuperables con las que tendrían que contender.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a6fb60ed7a16"
+ },
+ "aquifer:18878": {
+  "text_es": "Entre aquellas personas atraídas a Jesús había algunos griegos que creían en el Dios de Israel. Habían venido a la fiesta de la Pascua para adorar (12:19). La misión de Jesús no era solo para Israel, sino para el mundo entero (10:16; 11:52). Después de la resurrección de Jesús, la misión de la Iglesia era ir más allá de Judea a Samaria, y hasta los confines de la tierra (Mateo 28:19; Hechos 1:8).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ca4575ab64cd"
+ },
+ "hcf:Augustine of Hippo/John 12_20-22#0": {
+  "text_es": "¡He aquí! Los judíos quieren matarlo, los gentiles verlo. Pero también eran de los judíos los que clamaban: Bendito el que viene en el nombre del Señor. Así pues, he aquí los de la circuncisión y los de la incircuncisión, antes tan distantes, uniéndose como dos muros y encontrándose en una sola fe de Cristo por el beso de la paz.\nFelipe va y se lo dice a Andrés.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "709ce6e39b5f"
+ },
+ "hcf:Bede/John 12_20#0": {
+  "text_es": "El templo de Jerusalén era tan famoso que en los días de fiesta venían a adorar en él no solo la gente cercana, sino también muchos gentiles de países lejanos; como aquel eunuco de Candace, reina de los etíopes, mencionado en los Hechos. Los gentiles que estaban ahora en Jerusalén habían subido con este propósito: Y había ciertos gentiles entre ellos que habían venido a adorar en la fiesta.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "43a8e826bfc1"
+ },
+ "aquifer:18879": {
+  "text_es": "Los griegos se acercaron a Felipe porque tenía un nombre griego y lo más probable es que también fuera griego.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "baa76d1e8243"
+ },
+ "hcf:John Chrysostom/John 12_21#0": {
+  "text_es": "El tiempo estaba ya cerca, cuando serían hechos prosélitos. Oyen hablar de Cristo y desean verlo: Estos, pues, vinieron a Felipe, que era de Betsaida de Galilea, y le rogaron, diciendo: Señor, quisiéramos ver a Jesús.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a1f129ecb61a"
+ },
+ "hcf:John Chrysostom/John 12_22#0": {
+  "text_es": "Como siendo el discípulo mayor. Había oído a nuestro Salvador decir: No vayáis por camino de gentiles; (Mateo 10:5) y por eso se comunica con su compañero discípulo, y ellos remiten el asunto a su Señor: Y otra vez Andrés y Felipe se lo dicen a Jesús.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a328efb6636a"
+ },
+ "aquifer:18880": {
+  "text_es": "Jesús dijo a menudo que ⸢la hora ⸣aún no había llegado (2:4; 7:30; 8:20), pero ahora había llegado. La llegada de los griegos marcó el comienzo del momento más importante en el ministerio de Jesús. Este era el tiempo de su glorificación.\n\nEsto sucedió cuando la obra salvadora de Jesús en la cruz fue completada. Resucitó de entre los muertos, dio el Espíritu Santo y volvió a su lugar de gloria en el cielo (19:30; 20:1–31; 20:22; 17:5, 11).\n\nLa conexión con los griegos que habían venido a Jerusalén era importante (12:20). El ministerio público de Jesús entre los judíos estaba llegando a su fin. Su misión no se limitaba a una sola nación. Mediante su muerte y resurrección, pertenecería al mundo entero.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "995ca1213c18"
+ },
+ "hcf:Augustine of Hippo/John 12_23-24#0": {
+  "text_es": "Escuchemos la voz de la piedra angular: Y Jesús les respondió, diciendo: Ha llegado la hora de que el Hijo del hombre sea glorificado. ¿Pensaba que era glorificado porque los gentiles deseaban verlo? No. Sino que vio que después de su pasión y resurrección, los gentiles en todas las tierras creerían en Él; y tomó ocasión de esta petición de algunos gentiles de verlo, para anunciar la plenitud próxima de los gentiles, pues la hora de su glorificación estaba ya cerca, y que después de que fuera glorificado en los cielos, los gentiles creerían; según el pasaje del Salmo: Levantaos, oh Dios, sobre los cielos, y vuestra gloria sobre toda la tierra. (Sal. 56, y 107) Pero era necesario que su exaltación y gloria fueran precedidas por su humillación y pasión; por lo cual dice: De cierto, de cierto os digo, que si el grano de trigo no cae en la tierra y muere, queda solo; pero si muere, lleva mucho fruto. Ese grano era Él; para ser mortificado en la incredulidad de los judíos, para ser multiplicado en la fe de los gentiles.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e969e89aa3d4"
+ },
+ "aquifer:18881": {
+  "text_es": "El acontecimiento central de la glorificación de Jesús fue la cruz (12:23). Como un ⸢grano de trigo⸣ plantado en la tierra, la muerte de Jesús traería vida abundante.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7cd733b427f7"
+ },
+ "hcf:Bede/John 12_24#0": {
+  "text_es": "Él mismo, de la descendencia de los Patriarcas, fue sembrado en el campo de este mundo, para que al morir, resucitara con aumento. Murió solo; resucitó con muchos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "99d9d5195977"
+ },
+ "hcf:John Chrysostom/John 12_24#0": {
+  "text_es": "Ilustra su discurso con un ejemplo de la naturaleza. Un grano de trigo produce fruto después de haber muerto. ¿Cuánto más, entonces, el Hijo de Dios? Los gentiles habían de ser llamados después de que los judíos finalmente ofendieran; es decir, después de su crucifixión. Ahora, pues, que los gentiles por su propia voluntad ofrecían su fe, vio que su crucifixión no podía estar lejos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1c90bd5a6993"
+ },
+ "aquifer:18882": {
+  "text_es": "Para los discípulos (seguidores de Jesús), el sacrificio y la abnegación (elegir no ponerse uno mismo primero) son parte de este camino. No pierden la vida por seguir a Jesús. En cambio, ganan la plenitud de vida que viene mediante su sacrificio.\n\nQuienes renuncian (se apartan de) a las prioridades del mundo estarán con Jesús para siempre. Dios honrará a quienes sirven a su Hijo. De este modo, el camino de la obediencia humilde conduce a la vida eterna y al honor.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "25db2cc2245d"
+ },
+ "hcf:Augustine of Hippo/John 12_25#2": {
+  "text_es": "Esto puede entenderse de dos maneras: 1. Si la amas, piérdela: si quieres preservar tu vida en Cristo, no temas la muerte por Cristo. 2. No ames tu vida aquí, no sea que la pierdas en el más allá. El último parece ser el sentido más evangélico (evangelicus); pues sigue: Y el que aborrece su vida en este mundo, para vida eterna la guardará.\n\n(Tr. li. 10) Pero no pienses ni por un instante que por aborrecer tu alma se te permita matarte a ti mismo. Pues hombres malvados y perversos a veces lo han entendido así erróneamente, y se han quemado y estrangulado, se han arrojado desde precipicios y de otras maneras han puesto fin a sí mismos. Esto no lo enseñó Cristo; antes bien, cuando el diablo lo tentó a arrojarse, dijo: Vete, Satanás. Pero cuando no se te da otra opción; cuando el perseguidor amenaza con la muerte, y debes o desobedecer la ley de Dios o partir de esta vida, entonces aborrece tu vida en este mundo, para que la guardes para vida eterna.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f2df8a5d0c41"
+ },
+ "hcf:Theophylact of Ohrid/John 12_25#0": {
+  "text_es": "Sería duro decir que un hombre debe aborrecer su alma; por eso añade: en este mundo: es decir, por un tiempo particular, no para siempre. Y ganaremos al final haciendo esto: para vida eterna la guardará.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0e98978f43e7"
+ },
+ "hcf:Augustine of Hippo/John 12_26#0": {
+  "text_es": "Pero ¿qué es servir a Cristo? Las mismas palabras lo explican. Sirven a Cristo quienes no buscan lo suyo propio, sino las cosas de Jesucristo, es decir, quienes lo siguen, andan en sus caminos, no en los propios, hacen todas las buenas obras por causa de Cristo, no solo obras de misericordia para los cuerpos de los hombres, sino todas las demás, hasta que finalmente cumplen aquella gran obra de amor y entregan sus vidas por los hermanos. Pero ¿qué fruto, qué recompensa? preguntas. Las siguientes palabras te lo dicen: Y donde yo estoy, allí también estará mi servidor. Ámalo por sí mismo, y considera una rica recompensa por tu servicio estar con Él.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f8af20899918"
+ },
+ "hcf:John Chrysostom/John 12_26#1": {
+  "text_es": "\"Donde yo estoy, allí está también mi servidor.\" Pero ¿dónde está Cristo? En el cielo. Por tanto, aun antes de la Resurrección, trasladémonos allá en alma y mente.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2466fb235ee2"
+ },
+ "aquifer:18883": {
+  "text_es": "⸢Mi alma está turbada⸣: Juan usó el mismo término (griego ⸢tarassō⸣) para describir la fuerte emoción de agonía que Jesús sintió cuando estuvo ante el sepulcro de Lázaro (11:33; también 13:21).\n\nCuando Jesús enfrentó su muerte venidera, no estuvo sin emoción. No actuó como si nada lo turbara. Experimentó verdadera angustia (profundo dolor y aflicción). Aun en su angustia, Jesús permaneció obediente a la voluntad del Padre. A lo largo de su ministerio, había dicho que hacía solo lo que el Padre lo envió a hacer (5:19–23; 6:37; 8:29, 38; 14:31).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c86c88b9303f"
+ },
+ "hcf:Augustine of Hippo/John 12_27-28#0": {
+  "text_es": "Le oigo decir: El que aborrece su vida en este mundo, para vida eterna la guardará; y quedo arrebatado, desprecio el mundo; toda esta vida, por larga que sea, es ante mis ojos solo un vapor; todas las cosas temporales son viles en comparación con lo eterno. Y de nuevo le oigo decir: Ahora está turbada mi alma. Tú mandas que mi alma te siga; pero veo tu alma turbada. ¿Qué fundamento buscaré, si la Roca cede? Señor, reconozco tu misericordia. Tú, por tu amor, te turbaste voluntariamente, para consolar a los que están turbados por la flaqueza de la naturaleza; para que los miembros de tu cuerpo no perezcan en la desesperación. La Cabeza tomó sobre sí los afectos de sus miembros. No se turbó por cosa alguna, sino que, como se dijo arriba, se turbó a sí mismo. (c. 11:33)\n\n(Tr. lii) Finalmente, el que quiera seguirle, oiga a qué hora debe seguirle. Ha llegado quizá una hora temible: se ofrece una elección, o hacer el mal, o sufrir: el alma débil se turba. Oye a nuestro Señor. ¿Qué diré?\n\n(Tr. lii. 3) Él te enseña a quién debes invocar, cuya voluntad has de preferir a la tuya. No parezca que cae de su grandeza, porque quiere que tú te levantes de tu bajeza. Tomó sobre sí la flaqueza del hombre, para enseñar al afligido a decir: No lo que yo quiero, sino lo que tú quieres. Por lo cual añade: Mas para esto he venido a esta hora. Padre, glorifica tu nombre: esto es, en mi pasión y resurrección.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b0d6d15acb95"
+ },
+ "hcf:Bede/John 12_27#0": {
+  "text_es": "esto es, ¿qué sino algo para confirmar a mis seguidores? Padre, sálvame de esta hora.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "717748d72fd8"
+ },
+ "hcf:John Chrysostom/John 12_27-28#3": {
+  "text_es": "\"Vino, pues, una voz del cielo: Y le he glorificado, y le glorificaré otra vez.\" ¿Cuándo le había \"glorificado\"? Por lo que se había hecho antes; y \"le glorificaré otra vez\" después de la cruz.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b1c3420959f1"
+ },
+ "aquifer:18884": {
+  "text_es": "⸢Vino una voz del cielo⸣: Compárese con Mateo 3:17; 17:5; Marcos 1:11; 9:7; Lucas 3:22; 9:35. Dios ya había traído gloria a sí mismo cuando Cristo entró en el mundo, y mediante la obra de Jesús. Esto mostró el poder de Dios al mundo (Juan 1:14). ⸢Le glorificaré otra vez⸣: La manifestación final de gloria vendría en la cruz (véase 12:23; 17:1). En el Evangelio de Juan, la cruz es un acontecimiento de gloria, pues allí Cristo fue \"levantado\" y glorificado (12:32). \n\nJesús estaba preparado para la crucifixión como un rey que viene a su coronación. La cruz era como un trono (véase 19:19–22). Sepultaron a Jesús como a un rey. El tiempo de su glorificación incluyó todos los acontecimientos desde su arresto hasta su resurrección.",
+  "lemas_es": [
+   "Vino una voz del cielo",
+   "Le glorificaré otra vez"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "61bef53123bb",
+  "lemas_rv1909": [
+   {
+    "lema": "vino una voz del cielo",
+    "ref": "JHN.12.28"
+   },
+   {
+    "lema": "glorificaré otra vez",
+    "ref": "JHN.12.28"
+   }
+  ]
+ },
+ "hcf:Augustine of Hippo/John 12_28-29#0": {
+  "text_es": "Le he glorificado, esto es, antes de que hiciera el mundo; y le glorificaré otra vez, esto es, cuando resucites de entre los muertos. O bien: le he glorificado, cuando naciste de una Virgen, hiciste milagros, fuiste manifestado por el Espíritu Santo que descendió en forma de paloma; y le glorificaré otra vez, cuando resucites de entre los muertos y, como Dios, seas exaltado sobre los cielos, y tu gloria sobre toda la tierra.\nLa gente, pues, que estaba presente y lo oyó, decía que había tronado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "12123ac36fb0"
+ },
+ "hcf:Cyril of Alexandria/John 12_28#0": {
+  "text_es": "Vino, pues, una voz del cielo, que decía: Y le he glorificado, y le glorificaré otra vez.\n\nEl Evangelista no dijo que fuera el Padre quien pronunció la voz desde lo alto, sino que la voz vino del cielo; para que ningún hereje, por haber oído que el Padre habló, intentara decir que también la Naturaleza Divina, es decir, el Padre, está rodeada de un cuerpo grosero. Por lo cual habla ciertamente de la voz armoniosa, pero cómo se produjo la voz no está en nuestro poder decirlo. Mas lo que significa la interpretación de sus palabras es esto: el Hijo fue manifiesto por muchas señales, obrando el Padre junto con él los milagros; y puesto que era Cooperador con él en todas las cosas que hacía, dice ahora que ha glorificado [su Nombre], y promete libremente que también lo glorificará otra vez, mediante la señal de su Muerte. Pues en cuanto el Hijo es Dios de Dios, y Vida nacida de Aquel que es por naturaleza Vida, se levantó a sí mismo de entre los muertos; pero en cuanto es considerado como un Hombre semejante a nosotros, aunque sin pecado, no se le considera como habiéndose levantado a sí mismo, sino como resucitado por el poder del Padre.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b30e139d0ff7"
+ },
+ "hcf:Gregory the Dialogist/John 12_28-29#0": {
+  "text_es": "Cuando Dios habla audiblemente, como lo hace aquí, pero no se ve ninguna apariencia visible, habla por medio de una criatura racional: esto es, por la voz de un Ángel.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7ed0ae704dcf"
+ },
+ "aquifer:18885": {
+  "text_es": "Era imposible que la gente comprendiera lo que estaba sucediendo con Jesús, y muchas de sus señales provocaron confusión y división en la multitud. Solo después lo entendieron sus discípulos (2:22; 12:16), cuando Jesús fue glorificado y se dio el Espíritu. Aun así, la voz de Dios simbolizaba su validación de su Hijo ante el mundo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5b8f3ce5176a"
+ },
+ "hcf:Augustine of Hippo/John 12_30#0": {
+  "text_es": "esto es, no vino para decirle lo que ya sabía, sino para decirles a ellos lo que debían saber. Y así como aquella voz no vino por causa de él, sino por causa de ellos, así su alma no se turbó por causa de él, sino por causa de ellos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cf8672e910f6"
+ },
+ "hcf:John Chrysostom/John 12_30#0": {
+  "text_es": "\"Esta voz no vino por causa de mí, sino por causa de vosotros.\" Ellos pensaron que había tronado, o que un Ángel le hablaba. ¿Y cómo lo pensaron? ¿No era la voz clara y distinta? Lo era, pero se les escapó rápidamente por ser ellos de condición más grosera, carnal y perezosa. Y algunos de ellos solo captaron el sonido, otros supieron que la voz era articulada, pero no entendieron qué significaba. ¿Qué dice Cristo? \"Esta voz no vino por causa de mí, sino por causa de vosotros.\" \"No para que yo aprenda por ella algo que ignoro, (pues conozco todo lo que pertenece al Padre,) sino por causa de vosotros.\" Pues cuando ellos dijeron: \"Un Ángel le ha hablado\", o \"Ha tronado\", y no le prestaron atención, él dice: \"fue por causa de vosotros\", para que aun así fuerais llevados a preguntar qué significaban las palabras.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0b5c0f334114"
+ },
+ "aquifer:18887": {
+  "text_es": "En el Evangelio de Juan, el juicio no ocurre solo en el día final del Juicio. Comenzó cuando Jesús vino al mundo como la luz (3:19; 5:24; 9:39). Satanás es ⸢el príncipe de este mundo.⸣ Satanás promueve las tinieblas, lleva a las personas al pecado y difunde la muerte. Aunque la derrota final de Satanás aún es futura, su poder fue quebrantado mediante la obra de Jesús (véase Lucas 10:17–18; Marcos 3:27). \n\nAhora Cristo reina como rey en el cielo (Hechos 7:55–56; Efesios 1:19–22).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "def291800f57"
+ },
+ "hcf:Augustine of Hippo/John 12_31#0": {
+  "text_es": "El juicio al fin del mundo será de recompensas y castigos eternos. Pero hay otro juicio, no de condenación, sino de selección, que es el que aquí se menciona; la selección de sus propios redimidos, y su liberación del poder del diablo: Ahora será echado fuera el príncipe de este mundo. El diablo no es llamado príncipe de este mundo en el sentido de ser señor sobre el cielo y la tierra; Dios no lo permita. El mundo aquí representa a los malvados dispersos por todo el mundo. En este sentido el diablo es el príncipe del mundo, esto es, de todos los hombres malvados que viven en el mundo. El mundo también significa a veces los buenos dispersos por todo el mundo: Dios estaba en Cristo reconciliando consigo al mundo. (2 Cor. 5:19) Estos son aquellos de cuyos corazones será echado fuera el príncipe de este mundo. Nuestro Señor previó que después de su pasión y glorificación, grandes naciones de todo el mundo se convertirían, en las cuales estaba entonces el diablo, pero de cuyos corazones, al renunciar ellos verdaderamente a él, sería echado fuera. Pero ¿no fue echado fuera de los corazones de los hombres justos de antaño? ¿Por qué dice: Ahora será echado fuera? Porque lo que una vez tuvo lugar en muy pocas personas, ahora había de tener lugar en naciones enteras. ¿Qué, pues, no tienta el diablo en absoluto las mentes de los creyentes? Sí, nunca cesa de tentarlos. Pero una cosa es reinar dentro, y otra poner sitio desde fuera.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "346f56a1ce1b"
+ },
+ "hcf:John Chrysostom/John 12_31#1": {
+  "text_es": "Pero, para que esto quede aún más claro, lo haré patente con un ejemplo. Supongamos que hay algún tirano cruel, que trae diez mil males sobre todos los que caen en sus manos. Si tal persona, enfrentándose a un rey, o al hijo de un rey, lo mata injustamente, su muerte tendrá poder para vengar también a los demás. Supongamos que hay uno que exige el pago de sus deudores, que los golpea y los echa en la prisión; luego, con la misma temeridad, lleva a la misma mazmorra a uno que no le debe nada: tal hombre sufrirá castigo por lo que ha hecho a los otros. Pues aquel lo destruirá. Así también es en el caso del Hijo; pues de aquellas cosas que el diablo ha hecho contra nosotros, de esas se exigirá la pena por medio de lo que él ha osado contra Cristo. Y para mostrar que él implica esto, oye lo que dice: \"Ahora será echado fuera el príncipe de este mundo\", \"por mi Muerte\".",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0f529b247d79"
+ },
+ "aquifer:18888": {
+  "text_es": "⸢cuando yo sea levantado de la tierra⸣ (véase 3:14; 8:28): La multitud no entendió lo que Jesús quería decir. El verbo griego también puede significar \"ser exaltado\" (Mateo 23:12). O puede referirse a honor (Lucas 10:15). En el Evangelio de Juan, la cruz no fue un lugar de vergüenza para Jesús, sino donde se mostró su verdadera gloria.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9d176ff03773"
+ },
+ "hcf:Augustine of Hippo/John 12_32-33#0": {
+  "text_es": "¿Qué es todo esto que él atrae, sino aquello de lo cual el diablo es echado fuera? No dice: Todos los hombres, sino: Todas las cosas; pues no todos los hombres tienen fe. No significa entonces todo el género humano, sino todo el hombre, esto es, espíritu, alma y cuerpo; por los cuales respectivamente entendemos, vivimos y somos visibles. O, si todas significa todos los hombres, significa aquellos que están predestinados a la salvación; o todas las clases de hombres, todas las variedades de carácter, excepto en el artículo del pecado.\n\n(Tr. lii. 11) Si fuere levantado de la tierra, dice, esto es, cuando yo sea levantado. No duda de que se cumplirá la obra que vino a hacer. Por su ser levantado significa su pasión en la cruz, como añade el Evangelista: Esto decía, dando a entender de qué muerte había de morir.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0eb689eb53d8"
+ },
+ "hcf:Cyril of Alexandria/John 12_32#1": {
+  "text_es": "Mantiene el misterio invisible para quienes intentan matarlo, pues no eran dignos de aprenderlo. Sin embargo, permitió que los más sabios entendieran que sufriría por todos y en favor de todos. Y es probable, incluso más, que cualquiera pueda entenderlo así, y muy apropiadamente, es decir, que la muerte en la cruz fue una exaltación que siempre asociamos en nuestro pensamiento con honor y gloria. Pues también por esto Cristo es glorificado, porque son muchos los beneficios que procuró con ello a la humanidad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "800f2b261ab8"
+ },
+ "hcf:Cyril of Alexandria/John 12_33#0": {
+  "text_es": "Con esto el Evangelista mostró que el Señor no sufrió por ignorancia, sino voluntariamente; y con pleno conocimiento, no solo de que moriría, sino también de cómo: y llamó a la cruz [su] muerte.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cf01fa466a78"
+ },
+ "aquifer:18889": {
+  "text_es": "Muchos en tiempos de Jesús creían que el Mesías viviría para siempre y vencería a sus enemigos. Esperaban un gobernante fuerte y victorioso.\n\nDebido a esta creencia, las palabras que Jesús pronunció los confundieron.⸢¿Quién es este Hijo del hombre?⸣: Los judíos no entendían qué clase de Mesías planeaba morir.",
+  "lemas_es": [
+   "¿Quién es este Hijo del hombre?"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9c24fe628e4f",
+  "lemas_rv1909": [
+   {
+    "lema": "Quién es este Hijo del hombre",
+    "ref": "JHN.12.34"
+   }
+  ]
+ },
+ "hcf:Augustine of Hippo/John 12_34#0": {
+  "text_es": "Los judíos, cuando entendieron que nuestro Señor hablaba de su propia muerte, preguntaron cómo podía ser eso: Le respondió la gente: Nosotros hemos oído de la ley que el Cristo permanece para siempre; ¿y cómo dices tú que es necesario que el Hijo del hombre sea levantado? ¿Quién es este Hijo del hombre? Aunque nuestro Señor no se llamó aquí Hijo del hombre, recordaron que a menudo se llamaba así; como poco antes: Ha llegado la hora de que el Hijo del hombre sea glorificado. Recuerdan esto, y preguntan: Si el Cristo permanece para siempre, ¿cómo será levantado de la tierra; es decir, cómo morirá en la cruz?\n\n(Tr. lii. 12) O interpretaron la palabra según su propia intención. No fue sabiduría impartida, sino conciencia perturbada, lo que les reveló su significado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "21b581580a05"
+ },
+ "hcf:Cyril of Alexandria/John 12_34#0": {
+  "text_es": "Y esto lo dicen, como hemos observado, entendiendo que ser \"levantado\" significaba ser crucificado. Pues solían designar con nombres más auspiciosos las cosas que apuntaban directamente a graves desastres. Intentan, por tanto, mediante la Escritura, probar que Cristo dice falsedad. Pues la Escritura, dice [uno de ellos], niega que el Cristo sea solo por un tiempo, cuando dice de él: Tú eres sacerdote para siempre. ¿Cómo, pues, dices tú: \"Yo soy el Cristo\", mientras dices que morirás? Pues, como no entienden, los judíos dicen que por razón de la Pasión no puede ser el Cristo; y niegan que esté escrito que el Cristo debía padecer y resucitar y ascender al Padre, para ser Ministro del Santuario y Sumo Sacerdote de nuestras almas, cuando volviera a la vida, Vencedor e Incorruptible. Aunque la Escritura predice expresamente, no solo que vendría en esta forma común de un hombre, sino que moriría por la vida de todos los hombres, y volvería a la vida tras romper los lazos de la muerte: con lo cual se cumple plena y adecuadamente lo dicho de que el Cristo permanece para siempre. Pues cuando se mostró superior a la muerte y a la corrupción, ascendió al Padre.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "176ee6e51aee"
+ },
+ "hcf:Augustine of Hippo/John 12_35#0": {
+  "text_es": "Aún un poco de tiempo está la luz con vosotros. De ahí que entendáis que el Cristo permanece para siempre. Por tanto, andad mientras tenéis la luz, acercaos, entended el conjunto, que Cristo tanto morirá como vivirá para siempre: haced esto mientras tenéis la luz.\n\n(Tr. lii. 13) Es decir, si creéis de tal modo en la eternidad de Cristo que negáis su humillación y su muerte.\nPorque el que anda en tinieblas no sabe a dónde va.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1a5421d52b61"
+ },
+ "hcf:John Chrysostom/John 12_35#1": {
+  "text_es": "\"El que anda en tinieblas no sabe a dónde va.\" ¿Cuántas cosas, por ejemplo, incluso ahora hacen los judíos, sin saber lo que hacen, sino andando como si estuvieran en tinieblas? Piensan que van por el camino recto, cuando llevan el contrario; guardan el sábado, respetan la Ley y las observancias acerca de los alimentos, pero no saben a dónde van.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "df015d28053d"
+ },
+ "aquifer:18890": {
+  "text_es": "Jesús era ⸢la Luz⸣ (1:4, 7–9; 3:19–21; 8:12). Instó a la multitud a elegir creer en él antes de que fuera demasiado tarde. Podían ⸢llegar a ser⸣ ⸢hijos de la luz⸣ al nacer espiritualmente por el poder de Dios (1:12–13). ⸢les fue ocultado⸣: Primero se retiró de Judea y luego de esta audiencia (11:54; 12:36). Pronto se retiraría del mundo (17:11).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b885241cbc5f"
+ },
+ "hcf:Augustine of Hippo/John 12_36#0": {
+  "text_es": "Es decir, mientras tenéis alguna verdad, creed en la verdad, para que nazcáis de nuevo de la verdad: Para que seáis hijos de la luz.\n\n(Tr. lii) No de aquellos que comenzaron a creer en él y amarlo, sino de aquellos que lo vieron y lo envidiaron. Cuando se ocultó, atendió a nuestra debilidad, no menoscabó su propio poder.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d6c7dfa6b3b6"
+ },
+ "hcf:Cyril of Alexandria/John 12_36#2": {
+  "text_es": "Jesús se retira con un propósito deliberado, estando cercana su pasión, mostrando que no era su voluntad ser muerto por los judíos. Sin embargo, se entregó voluntariamente a padecer, dándose a sí mismo como rescate por nuestra vida y aceptando la muerte, que es causa de tristeza. Pero acaba cambiando la tristeza en gozo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "87a35d489127"
+ },
+ "aquifer:18891": {
+  "text_es": "Jesús terminó su obra, pero ellos aún no creían en él. Sus sermones ante el mundo estaban completos y las señales habían sido mostradas, pero fue rechazado (1:11).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3995b79f7771"
+ },
+ "hcf:Augustine of Hippo/John 12_37-38#0": {
+  "text_es": "Pero algunos murmuran y preguntan: ¿Qué culpa tenían los judíos, si era necesario que se cumplieran las palabras de Isaías? Respondemos que Dios, previendo el futuro, predijo por el Profeta la incredulidad de los judíos, pero no la causó. Dios no obliga a los hombres a pecar, porque sabe que pecarán. Conoce de antemano sus pecados, no los suyos. Los judíos cometieron el pecado que aquel que todo lo sabe predijo que cometerían.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ec68e31c1782"
+ },
+ "hcf:John Chrysostom/John 12_37#0": {
+  "text_es": "Y así el Evangelista lo explica tácitamente, cuando añade: Pero aunque había hecho tantos milagros delante de ellos, no creían en él.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "60f7b24009ca"
+ },
+ "hcf:Theophylact of Ohrid/John 12_37#0": {
+  "text_es": "Se refiere a los milagros relatados arriba. No era pequeña maldad no creer frente a milagros como aquellos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "af9e5dab03f8"
+ },
+ "hcf:Alcuin of York/John 12_38#0": {
+  "text_es": "Quién, es decir, muy pocos creyeron.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "85f6b4abc712"
+ },
+ "hcf:Augustine of Hippo/John 12_38#0": {
+  "text_es": "Aquí es evidente que el brazo del Señor es el Hijo de Dios mismo. No es que el Padre tenga una forma humana carnal; se le llama brazo del Señor porque todas las cosas fueron hechas por él. Si un hombre tuviera tal poder que, sin ningún movimiento de su cuerpo, lo que dijera se hiciera de inmediato, la palabra de ese hombre sería su brazo. Aquí no hay fundamento para justificar, sin embargo, el error de quienes dicen que la Divinidad es una sola Persona, porque el Hijo es el brazo del Padre, y un hombre y su brazo no son dos personas, sino una. Estos hombres no entienden que las cosas más comunes requieren ser explicadas a menudo aplicándoles un lenguaje tomado de otras cosas en las que sucede que hay una semejanza, [y que, cuando tratamos de cosas incomprensibles, y que no pueden describirse tal como son en realidad, esto es mucho más necesario. Así un hombre llama a otro hombre, de quien hace mucho uso, su brazo; y habla de haber perdido su brazo, de que le hayan quitado su brazo.]",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "14b022c417ea"
+ },
+ "hcf:John Chrysostom/John 12_38#0": {
+  "text_es": "Pero ¿por qué entonces vino Cristo? ¿No sabía que no creerían en él? Sí: los Profetas habían prohibido esta misma incredulidad, y él vino para que se manifestara, para su confusión y condenación; Para que se cumpliera la palabra del profeta Isaías, que dijo: Señor, ¿quién ha creído a nuestro anuncio? ¿y a quién se ha revelado el brazo del Señor?\n\n(Hom. lxviii. 2) Para que se cumpliera la palabra de Isaías: esto aquí no expresa la causa, sino el acontecimiento. No dejaron de creer porque Isaías dijo que lo harían; sino porque iban a no creer, Isaías dijo que lo harían.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d445f3390398"
+ },
+ "aquifer:18892": {
+  "text_es": "⸢no podían creer⸣: Juan cita Isaías 6:10 para explicar la falta de fe de Israel (véanse Mateo 13:13–15; Marcos 4:12; Lucas 8:10; Hechos 28:26–27). Cuando viene la revelación de Dios, debemos creer. Si la rechazamos, la luz desaparece (Juan 12:35–36). Cuando la luz de Dios se aparta, las tinieblas se cierran sobre los corazones incrédulos. Esto significa que el rechazo continuado lleva a una ceguera espiritual más profunda.",
+  "lemas_es": [
+   "no podían creer"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4a2f3967f35f",
+  "lemas_rv1909": [
+   {
+    "lema": "no podían creer",
+    "ref": "JHN.12.39"
+   }
+  ]
+ },
+ "hcf:Augustine of Hippo/John 12_39-40#0": {
+  "text_es": "Pero lo que sigue implicaba una cuestión más profunda: Por eso no podían creer, porque Isaías dijo de nuevo: Ha cegado sus ojos y endurecido su corazón, para que no vean con los ojos, ni entiendan con el corazón, ni se conviertan, y yo los sane. Que no creyeran; pero si es así, ¿qué pecado hay en que un hombre haga lo que no puede evitar hacer? Y lo que es aún más grave, la causa se atribuye a Dios; pues él es quien cegó sus ojos y endureció su corazón. No se dice que esto sea obra del diablo, sino de Dios. Sin embargo, si alguno pregunta por qué no podían creer, respondo: Porque no querían. Pues así como es alabanza de la voluntad divina que Dios no pueda negarse a sí mismo, así es culpa de la voluntad humana que ellos no pudieran creer.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b7aa145cae8a"
+ },
+ "hcf:John Chrysostom/John 12_39#0": {
+  "text_es": "Esta es una forma común de hablar entre nosotros. No puedo amar a tal hombre, queriendo decir con esta necesidad solo una voluntad vehemente. El Evangelista dice no podían, para mostrar que era imposible que el Profeta mintiera, no que fuera imposible que ellos creyeran.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e1ad95cacf7a"
+ },
+ "hcf:Augustine of Hippo/John 12_40#0": {
+  "text_es": "Pero el Profeta, dices, menciona otra causa, no su voluntad; a saber, que Dios había cegado sus ojos y endurecido su corazón. Pero respondo que bien lo merecían. Pues Dios endurece y ciega a un hombre al abandonarlo y no sostenerlo; y esto puede hacerlo por un decreto secreto, por uno injusto no puede.\n\n(Tr. liii. 11) Y se conviertan, y yo los sane. No debe entenderse aquí, desde el comienzo de la frase—que no vieran con los ojos, ni entendieran con el corazón, ni se convirtieran; siendo la conversión un don gratuito de Dios? ¿O hemos de suponer que se refiere a un remedio celestial; por el cual aquellos que deseaban establecer su propia justicia fueron de tal modo abandonados y cegados, que tropezaron con la piedra de tropiezo, hasta que, con confusión en el rostro, se humillaron y no buscaron su propia justicia que envanece a los soberbios, sino la justicia de Dios, que justifica al impío. Pues muchos de los que dieron muerte a Cristo fueron después perturbados por el sentimiento de su culpa; lo que los llevó a creer en él.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9cbda3697bce"
+ },
+ "hcf:John Chrysostom/John 12_40#0": {
+  "text_es": "Pues no nos deja, a menos que nosotros lo deseemos, como dice en Oseas: Por cuanto tú has olvidado la ley de tu Dios, yo también me olvidaré de tus hijos. (Os. 4:6) Con lo cual es claro que nosotros comenzamos a abandonar primero, y somos la causa de nuestra propia perdición. Pues así como no es culpa del sol que dañe los ojos débiles, tampoco Dios es culpable por castigar a quienes no atienden a sus palabras.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "281eee8e6428"
+ },
+ "aquifer:18894": {
+  "text_es": "El profeta Isaías había visto la gloria del Mesías y cómo respondería el mundo (véase Isaías 6:10).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c31b99ffe89a"
+ },
+ "hcf:Augustine of Hippo/John 12_41#0": {
+  "text_es": "Estas cosas dijo Esaías, cuando vio su gloria, y habló de él. No lo vio realmente, sino figuradamente, en visión profética. No te dejes engañar por quienes dicen que el Padre es invisible y el Hijo visible, haciendo del Hijo una criatura. Pues en la forma de Dios, en la cual es igual al Padre, el Hijo también es invisible; aunque tomó sobre sí la forma de siervo, para que pudiera ser visto por los hombres. También antes de su encarnación se hizo visible en ocasiones a los ojos humanos; pero visible mediante materia creada, no visible como es.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fa854b9e8ee8"
+ },
+ "hcf:John Chrysostom/John 12_41#0": {
+  "text_es": "Su gloria significa la visión de él sentado en su excelso trono: Vi al Señor sentado sobre un trono. También oí la voz del Señor, que decía: ¿A quién enviaré, y quién irá por nosotros? (Is. 6:1)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9fd9ecf4adec"
+ },
+ "aquifer:18895": {
+  "text_es": "Muchas personas sí creyeron en Jesús. Sin embargo, tenían miedo de admitirlo en público.\n\nTemían la reacción de los líderes religiosos y las consecuencias sociales que pudieran seguir.\n\nSeguir a Jesús significa más que una creencia privada. Incluye identificarse abiertamente con él y hablar de él a otros, incluso cuando esto pueda traer rechazo (1:35–51; 4:1–42).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e64c7285cbc4"
+ },
+ "hcf:Alcuin of York/John 12_42-43#0": {
+  "text_es": "Con todo eso, aun de los gobernantes muchos creyeron en él; mas por causa de los fariseos no lo confesaban, para no ser expulsados de la sinagoga. Porque amaban más la gloria de los hombres que la gloria de Dios. La gloria de Dios es confesar a Cristo públicamente: la gloria de los hombres es gloriarse en las cosas terrenales.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cebc8eceb3ca"
+ },
+ "hcf:Cyril of Alexandria/John 12_42#0": {
+  "text_es": "Ahora, sin embargo, cuando fueron constreñidos por las señales a creer y ya no se atrevían a contradecir al Señor, fallan de la vida eterna por la persistencia de su propia abominable perversidad, al estimar su posición ante los ojos de los hombres más que su relación con Dios, y al ser esclavos de una gloria temporal, considerando una pérdida intolerable fallar al honor de manos de los fariseos. Por cuanto, pues, esto era lo que les impedía creer, oye lo que dice el Cristo...",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8d94ed817d73"
+ },
+ "hcf:Augustine of Hippo/John 12_43#0": {
+  "text_es": "A medida que su fe crecía, su amor por la alabanza humana crecía aún más, y la superaba.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6edfe904d4dc"
+ },
+ "aquifer:18896": {
+  "text_es": "Jesús hace un llamado final a la fe en él. Estos versículos resumen los capítulos 1–12. El Padre envió a Jesús, quien es la única fuente de su ministerio. Jesús es la luz que brilla en las tinieblas para traer salvación y vida eterna a todos los que creen en él.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "59ab77d0a427"
+ },
+ "hcf:Augustine of Hippo/John 12_44-45#0": {
+  "text_es": "Les significa que es más de lo que parece ser, (pues a los hombres aparecía solo como un hombre; su divinidad estaba oculta). Tal como es el Padre, tal soy yo en naturaleza y en dignidad; El que cree en mí, no cree en mí, es decir, en lo que ve, sino en el que me envió, es decir, en el Padre. [1El que cree en el Padre debe creer en él como el Padre, es decir, debe creer que tiene un Hijo; y a la inversa, el que cree en el Hijo cree por ello en el Padre.] Y de nuevo, si alguno piensa que Dios tiene hijos por gracia, pero no un Hijo igual y coeterno consigo mismo, tampoco cree 2en el Padre, que envió al Hijo; porque aquel en quien cree no es el Padre que lo envió. (c. 3.). Y para mostrar que no es el Hijo en el sentido de uno entre muchos, un hijo por gracia, sino el unigénito igual al Padre, añade: Y el que me ve, ve al que me envió; tan poca diferencia hay entre yo y el que me envió, que el que me ve, ve a él. Nuestro Señor envió a sus apóstoles, pero ninguno de ellos se atrevió a decir: El que cree en mí. Creemos en un apóstol, pero no creemos en un apóstol. En cambio, el unigénito dice: El que cree en mí, no cree en mí, sino en el que me envió. Con lo cual no retira la fe del creyente de sí mismo, sino que le da un objeto más elevado que la forma de siervo, para esa fe.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b3c003b8275b"
+ },
+ "hcf:Cyril of Alexandria/John 12_44#1": {
+  "text_es": "Acostumbra gradualmente sus mentes a penetrar hacia la profundidad de los misterios concernientes a él, [llevándolos] no a la Persona humana, sino a lo que era de la Esencia divina; en cuanto que la divinidad es aprehendida completamente en la Persona de Dios el Padre, pues él tiene en sí mismo al Hijo y al Espíritu. Con suma sabiduría los lleva adelante, diciendo: El que cree en mí, no cree en mí, sino en el que me envió; pues no se excluye a sí mismo de ser creído por nosotros, porque es Dios por naturaleza y ha resplandecido de Dios el Padre. Sino que hábilmente (como se ha dicho) maneja la mente de los débiles para moldearlos a la piedad, a fin de que entiendas que dice algo de este tipo: \"Cuando creéis en mí, que por vosotros soy por un lado un hombre como vosotros, pero por otro lado soy Dios por razón de mi propia Naturaleza y del Padre de quien soy, no supongáis que es en un hombre en quien ponéis vuestra fe. Pues soy por Naturaleza Dios, aunque aparezca como uno de vosotros, y tengo dentro de mí al que me engendró. Por cuanto, pues, soy consustancial con el que me ha engendrado, vuestra fe pasará seguramente también al Padre mismo.\" Como dijimos, pues, el Señor, entrenándolos gradualmente para algo mejor, y entretejiendo provechosamente lo humano con lo que es propio de Dios...",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b0a97eb5ff85"
+ },
+ "hcf:Augustine of Hippo/John 12_46#0": {
+  "text_es": "Con lo cual es evidente que los encontró a todos en tinieblas. En las cuales tinieblas si no desean permanecer, deben creer en la luz que ha venido al mundo. Dice en un lugar a sus discípulos: Vosotros sois la luz del mundo; pero no les dijo: Vosotros habéis venido como luz al mundo, para que quienquiera que crea en vosotros no permanezca en tinieblas. Todos los santos son luces, pero lo son por la fe, porque son iluminados por Aquel de quien apartarse es tinieblas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b9e68f5b774a"
+ },
+ "hcf:John Chrysostom/John 12_46#0": {
+  "text_es": "\"Yo, la luz, he venido al mundo.\"\n\nPues dado que el Padre es llamado con este nombre en todas partes tanto en el Antiguo Testamento como en el Nuevo, Cristo usa también el mismo nombre; por lo tanto Pablo también lo llama \"Resplandor\" (Heb. i. 3), habiendo aprendido a hacerlo de esta fuente. Y muestra aquí su estrecha relación con el Padre, y que no hay separación entre ellos, si es que dice que la fe en él no es en él, sino que pasa al Padre. Y se llamó a sí mismo \"luz\", porque libra del error y disuelve la oscuridad mental.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6ffe790a10d6"
+ },
+ "hcf:Augustine of Hippo/John 12_47#0": {
+  "text_es": "es decir, no lo juzgo ahora. No dice: No lo juzgo en el último día, pues eso sería contrario a la sentencia anterior: El Padre ha cometido todo juicio al Hijo. (5:22) Y sigue la razón de por qué no juzga ahora; Porque no he venido a juzgar al mundo, sino a salvar al mundo. Ahora es el tiempo de la misericordia, después será el tiempo del juicio.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6f493912e2f4"
+ },
+ "hcf:Cyril of Alexandria/John 12_47#0": {
+  "text_es": "Serán, pues, auto-condenados, dice, los que se niegan a oírlo y no aceptan la fe salvadora. Pues el que vino a iluminar, no vino para juzgar, sino para salvar. Por lo tanto, el que desobedece y con ello se somete a las mayores miserias, que se culpe a sí mismo como justamente castigado. \"Pues yo no soy la causa de ello, que deseo salvar a los que van a caer en juicio, y que vine para este fin. Pues el que hace una ley que castiga a los desobedientes, no la hace con el fin de castigar a los que la transgreden, sino para que los que la oyen estén atentos y estén a salvo. Yo, por tanto, habiendo venido a salvar, os mando creer, y no despreciar mis palabras; en cuanto que el presente es un tiempo de salvación, no de juicio. Pues en el día del juicio, la palabra que os llamó a la salvación traerá sobre vosotros las penas de la desobediencia.\"",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4b2007a8b730"
+ },
+ "hcf:Augustine of Hippo/John 12_48#0": {
+  "text_es": "Entretanto esperaban saber quién era este; así que prosigue: La palabra que he hablado, ella le juzgará en el día postrero. Deja suficientemente claro que él mismo juzgará en el día postrero. Pues la palabra que habla, es él mismo. Se habla a sí mismo, se anuncia a sí mismo. También recogemos de estas palabras que los que no han oído serán juzgados de manera diferente que los que han oído y despreciado.\n\n(i. de Trin. c. xii. [26.]) Yo no le juzgo; la palabra que he hablado, ella le juzgará; porque no he hablado de mí mismo. La palabra que el Hijo habla juzga, porque el Hijo no habló de sí mismo; pues no he hablado de mí mismo: es decir, no nací de mí mismo.\n\nPregunto entonces cómo entenderemos esto: ¿No juzgaré, sino que la palabra que he hablado juzgará? Sin embargo, él mismo es la Palabra del Padre que habla. ¿Es así? No juzgaré por mi poder humano, como Hijo del hombre, sino como la palabra de Dios, porque soy el Hijo de Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7a975d012ca9"
+ },
+ "aquifer:18897": {
+  "text_es": "El mayor error es que las personas vean la luz y la rechacen, pensando que no tiene conexión con el Padre que envió la luz.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7c0ddcbf4320"
+ },
+ "hcf:Augustine of Hippo/John 12_49#0": {
+  "text_es": "Cuando el Padre dio al Hijo un mandamiento, no le dio lo que no tenía; pues en la Sabiduría del Padre, es decir, en el Verbo, están todos los mandamientos del Padre. Se dice que el mandamiento es dado, porque no procede de aquel a quien se dice que es dado. Pero dar al Hijo lo que nunca dejó de tener, es lo mismo que engendrar al Hijo que nunca dejó de ser.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7c543a085595"
+ },
+ "hcf:Theophylact of Ohrid/John 12_49-50#0": {
+  "text_es": "Puesto que el Hijo es el Verbo del Padre, y revela completamente lo que está en la mente del Padre, dice que recibe un mandamiento sobre lo que debe decir y lo que debe hablar: así como nuestra palabra, si decimos lo que pensamos, manifiesta lo que está en nuestras mentes.\nY sé que su mandamiento es vida eterna.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f34b8c678558"
+ },
+ "hcf:Augustine of Hippo/John 12_50#0": {
+  "text_es": "Si la vida eterna es el Hijo mismo, y el mandamiento es vida eterna, ¿qué es esto sino decir: Yo soy el mandamiento del Padre? Y de la misma manera en lo que sigue: Lo que yo hablo, por tanto, así como el Padre me lo dijo, así hablo, no debemos entender «me dijo» como si se hubieran pronunciado palabras al Verbo unigénito. El Padre habló al Hijo, así como dio vida al Hijo; no porque el Hijo no supiera o no tuviera, sino porque era el Hijo. ¿Qué significa «así como me dijo, así hablo», sino que yo soy el Verbo que habla? El Padre es verdadero, el Hijo es la verdad: el Verdadero engendró a la Verdad. ¿Qué podría entonces decir a la Verdad, si la Verdad era perfecta desde el principio y ninguna verdad nueva podía añadírsele? Que habló a la Verdad significa, pues, que engendró a la Verdad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "72ba1c347c8b"
+ }
+}

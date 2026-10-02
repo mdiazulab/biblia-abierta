@@ -1,0 +1,534 @@
+{
+ "aquifer:19084": {
+  "text_es": "Este capítulo final incluye una historia sobre el Jesús resucitado en Galilea. Describe la conversación entre Pedro y Jesús acerca del amor de Pedro hacia él (21:1–14; 21:15–23). El capítulo concluye resumiendo la autoridad y la importancia del testimonio ocular de Juan (21:24–25).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "76305c70c367",
+  "text_es_2": "Este capítulo final incluye una historia sobre Jesús resucitado en Galilea. Describe la conversación entre Pedro y Jesús sobre el amor de Pedro por él (21:1–14; 21:15–23). El capítulo concluye resumiendo la autoridad e importancia del testimonio presencial de Juan (21:24–25).",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Augustine of Hippo/John 21_1#0": {
+  "text_es": "Las palabras precedentes del Evangelista parecen indicar el final del libro; pero él prosigue más adelante para dar cuenta de la aparición de nuestro Señor junto al mar de Tiberias: Después de estas cosas, Jesús se manifestó otra vez a los discípulos junto al mar de Tiberias.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "18b29d1fced1"
+ },
+ "hcf:Augustine of Hippo/John 21_1-11#0": {
+  "text_es": "Místicamente, en la pesca de peces significó el misterio de la Iglesia, tal como será en la resurrección final de los muertos. Y para hacer esto más claro, se coloca cerca del final del libro. El número siete, que es el número de los discípulos que estaban pescando, significa el fin del tiempo; pues el tiempo se cuenta por períodos de siete días.\n\n(Tract. cxxii) La orilla es el fin del mar, y por lo tanto significa el fin del mundo. La Iglesia es aquí tipificada tal como será al fin del mundo, así como otras pescas de peces la tipificaron tal como es ahora. Jesús antes no estaba de pie en la orilla, sino que entró en una barca que era de Simón, y le pidió que la apartara un poco de la tierra. En una pesca anterior las redes no se echan a la derecha ni a la izquierda, de modo que se tipificara solo lo bueno o lo malo, sino indistintamente: Echad vuestras redes para pescar, (Luke 5:4) lo que significa que los buenos y los malos estaban mezclados. Pero aquí es: Echad la red al lado derecho de la barca; para significar aquellos que estarán a la derecha, los buenos. Una la hizo nuestro Señor al comienzo de su ministerio, la otra después de su resurrección, mostrando con ello que la primera pesca de peces significaba la mezcla de malos y buenos, que compone la Iglesia en el presente; la última solo los buenos, que contendrá en la eternidad, cuando el mundo haya terminado y la resurrección de los muertos se haya completado. Pero los que pertenecen a la resurrección de vida, es decir, a la derecha, y son atrapados dentro de la red del nombre cristiano, solo aparecerán en la orilla, es decir, al fin del mundo, después de la resurrección; por lo cual no pudieron arrastrar la red hasta la barca y descargar los peces, como antes. La Iglesia guarda a estos de la derecha, después de la muerte, en el sueño de la paz, como si estuvieran en lo profundo, hasta que la red llegue a la orilla. Que la primera pesca se hiciera en dos barquitas, la última a doscientos codos de tierra, cien y cien, tipifica, creo, las dos clases de elegidos, circuncisos e incircuncisos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "eaaa6cb4f144"
+ },
+ "hcf:Bede/John 21_1#0": {
+  "text_es": "El Evangelista, según su costumbre, primero expone el hecho mismo, y luego dice cómo sucedió: Y de esta manera se manifestó.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "afb29adb414d"
+ },
+ "hcf:Gregory the Dialogist/John 21_1-2#0": {
+  "text_es": "Puede preguntarse por qué Pedro, que era pescador antes de su conversión, volvió a pescar, cuando se dice: Ninguno que pone su mano en el arado y mira atrás, es apto para el reino de Dios. (Luke 9:62.).\n\n(Hom. lxxxiv.) El oficio que se ejercía sin pecado antes de la conversión no era pecado después de ella. Por lo cual, después de su conversión, Pedro volvió a pescar; pero Mateo no se sentó de nuevo para el recibo del impuesto (ad telonii negotium resedit). Pues hay algunos negocios que no pueden o apenas pueden llevarse a cabo sin pecado; y a estos no se puede volver después de la conversión.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b83db1493401"
+ },
+ "hcf:John Chrysostom/John 21_1#0": {
+  "text_es": "¿Ves que no permanece con ellos continuamente, ni como antes? Apareció, por ejemplo, por la tarde, y voló; luego, después de ocho días, otra vez, y de nuevo voló; luego, después de estas cosas, junto al mar, y otra vez con gran temor. Pero ¿qué es el «se manifestó»? De esto queda claro que no era visto a menos que él condescendiera, porque su cuerpo era desde entonces incorruptible y de pureza sin mezcla. Pero ¿por qué el escritor ha mencionado el lugar? Para mostrar que ahora había quitado la mayor parte de su temor, de modo que ahora se aventuraban fuera de su morada y andaban por todas partes. Pues ya no estaban encerrados en casa, sino que habían ido a Galilea, evitando el peligro de los judíos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5e250629d45a"
+ },
+ "aquifer:19097": {
+  "text_es": "Varios de los discípulos volvieron a pescar en el mar de Galilea. Esto no era señal de que su fe se hubiera debilitado. Incluso los rabinos que predicaban regularmente seguían ejerciendo sus oficios (véase Acts 18:3; 20:34; 1 Corinthians 4:12). ⸢Los hijos de Zebedeo⸣ eran Jacobo y Juan (véase Matthew 4:21).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2f9f89a9d3d4"
+ },
+ "hcf:John Chrysostom/John 21_2-3#0": {
+  "text_es": "Como nuestro Señor no estaba con ellos regularmente, y el Espíritu no les había sido dado, y no habían recibido ninguna comisión, y no tenían nada que hacer, siguieron el oficio de pescadores: Y de esta manera se manifestó. Estaban juntos Simón Pedro, y Tomás llamado Dídimo, y Natanael de Caná de Galilea; el que fue llamado por Felipe, y los hijos de Zebedeo, es decir, Jacobo y Juan, y otros dos de sus discípulos. Simón Pedro les dice: Voy a pescar.\n\n(Hom. lxxxvii) Los otros discípulos siguieron a Pedro: Le dicen: Nosotros también vamos contigo; pues desde este tiempo estaban todos unidos; y también deseaban ver la pesca: Salieron y entraron en una barca en seguida. Y aquella noche no pescaron nada. Pescaron de noche, por miedo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8805a9d09ac6"
+ },
+ "aquifer:19098": {
+  "text_es": "La pesca solía ser exitosa en las primeras horas de la mañana. Sin embargo, este viaje fue inútil y no pescaron nada en toda la noche.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9557386b3411"
+ },
+ "hcf:Augustine of Hippo/John 21_3#0": {
+  "text_es": "Si los discípulos hubieran hecho esto después de la muerte de Jesús, y antes de su resurrección, habríamos imaginado que lo hacían por desesperación. Pero ahora, después de que él ha resucitado del sepulcro, después de ver las marcas de sus heridas, después de recibir, por medio de su aliento, el Espíritu Santo, de repente se vuelven lo que eran antes, pescadores, no de hombres, sino de peces. Debemos recordar entonces que no les estaba prohibido por su Apostolado ganarse el sustento mediante un oficio lícito, siempre que no tuvieran otros medios de vida. Pues si el bienaventurado Pablo no usó ese poder que tenía con el resto de los predicadores del Evangelio, como ellos, sino que hizo la guerra con sus propios recursos, para que los gentiles, que eran ajenos al nombre de Cristo, no se ofendieran por una doctrina aparentemente venal; si, educado de otra manera, aprendió un oficio que nunca antes conocía, para que, mientras el maestro trabajaba con sus propias manos, el oyente no fuera gravado; mucho más podría Pedro, que había sido pescador, trabajar en lo que sabía, si no tenía otra cosa de qué vivir en ese momento. Pero ¿cómo no la tenía, preguntará alguno, cuando nuestro Señor promete: Buscad primeramente el reino de Dios y su justicia, y todas estas cosas os serán añadidas? (Matt. 6:33) Nuestro Señor, respondemos, cumplió esta promesa al traerles los peces para pescar; pues ¿quién más los trajo? No les impuso esa pobreza que los obligaba a ir a pescar, sino para exhibir un milagro.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ef999c402f3f"
+ },
+ "hcf:Gregory the Dialogist/John 21_3#0": {
+  "text_es": "La pesca fue hecha para ser muy desafortunada, a fin de despertar su asombro ante el milagro posterior: Y aquella noche no pescaron nada.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "12a221b169d7"
+ },
+ "hcf:Theophylact of Ohrid/John 21_3-4#0": {
+  "text_es": "En el tiempo de la noche, antes de la presencia del sol, Cristo, los Profetas no pescaron nada; pues aunque se esforzaban por corregir al pueblo, este a menudo caía en la idolatría.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cdeaa5fc2fa0"
+ },
+ "aquifer:19099": {
+  "text_es": "Jesús estaba de pie en la orilla⸢,⸣ pero los hombres no lo reconocieron (compárese 20:11–16; Luke 24:13–53).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2fb63b8c7db3"
+ },
+ "hcf:Gregory the Dialogist/John 21_4#0": {
+  "text_es": "Puede preguntarse por qué después de su resurrección se puso de pie en la orilla para recibir a los discípulos, mientras que antes caminó sobre el mar. El mar significa el mundo, que es agitado con diversas causas de tumultos y las olas de esta vida corruptible; la orilla, por su solidez, figura el descanso eterno. Los discípulos entonces, en cuanto que todavía estaban sobre las olas de esta vida mortal, trabajaban en el mar; pero el Redentor, habiendo arrojado por su resurrección la corrupción de la carne, estaba de pie en la orilla.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b4e762933b8f"
+ },
+ "hcf:John Chrysostom/John 21_4#0": {
+  "text_es": "Como ellos entonces estaban trabajando y cansados, Jesús se presenta ante ellos, y no se revela de inmediato, para que entren en conversación con él.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "448aed396d26"
+ },
+ "hcf:John Chrysostom/John 21_5#1": {
+  "text_es": "No se dio a conocer a ellos de inmediato, sino que entró en conversación; y primero habla a la manera humana: Entonces Jesús les dice: Hijos, ¿tenéis algo de comer? como si quisiera pedirles algo. Ellos respondieron: No.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e9493784ff08"
+ },
+ "aquifer:19100": {
+  "text_es": "⸢Echad la red al lado derecho⸣: Echar una red al mar al azar no sería útil. Pero cuando siguieron el consejo del desconocido, atraparon muchos peces de inmediato (21:11).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b586230699cb"
+ },
+ "hcf:John Chrysostom/John 21_6#0": {
+  "text_es": "Luego les da una señal para que lo conozcan: Y les dijo: Echad la red al lado derecho de la barca, y hallaréis. Echaron, pues, y ya no podían arrastrarla por la multitud de peces.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ab6311692cf1"
+ },
+ "aquifer:19101": {
+  "text_es": "⸢«¡Es el Señor!»⸣: Juan reconoció a Jesús, probablemente recordando que un milagro similar había sucedido antes (Luke 5:1–11). Pedro, que se había quitado la ropa mientras trabajaba, se puso la túnica (su ropa exterior) para recibir al Señor.",
+  "lemas_es": [
+   "«¡Es el Señor!»"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2a5ff1baaeb1",
+  "lemas_rv1909": [
+   {
+    "lema": "El Señor",
+    "ref": "JHN.21.7"
+   }
+  ]
+ },
+ "hcf:Bede/John 21_7-8#0": {
+  "text_es": "El Evangelista se alude a sí mismo aquí de la misma manera que siempre lo hace. Reconoció a nuestro Señor ya sea por el milagro, o por el sonido de su voz, o por la asociación de ocasiones anteriores en las que los encontró pescando. Pedro estaba desnudo en comparación con el vestido habitual que llevaba, en el sentido en que decimos a una persona a la que encontramos con ropa ligera: Estás completamente desnudo. Pedro estaba desnudo por conveniencia, como lo están los pescadores al pescar.\n\nFue a Jesús con el ardor con que hacía todas las cosas: Y se echó al mar. Y los otros discípulos vinieron en una barquita. No debemos entender aquí que Pedro caminó sobre la superficie del agua, sino que o nadó, o caminó por el agua, estando muy cerca de la tierra: Porque no estaban lejos de tierra, sino como a doscientos codos.\n\nPor los doscientos codos se significa la doble gracia del amor; el amor de Dios y el amor del prójimo; pues por ellos nos acercamos a Cristo. El pez asado es Cristo que sufrió. Se dignó ser escondido en las aguas de la naturaleza humana, y ser tomado en la red de nuestra noche; y habiéndose hecho pez por la asunción de la humanidad, se hizo pan para refrescarnos por su divinidad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "876f7acb7985"
+ },
+ "hcf:Theophylact of Ohrid/John 21_7#0": {
+  "text_es": "El ceñirse Pedro es señal de modestia. Se ciñó con un manto de lino, como el que se echan encima los pescadores de Tamiata y de Tiro cuando no tienen otra cosa puesta, o incluso sobre sus demás vestidos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7883a38b04a4"
+ },
+ "hcf:Glossa Ordinaria/John 21_8#0": {
+  "text_es": "Un paréntesis; pues sigue: arrastrando la red con los peces. El orden es: Los otros discípulos vinieron en una barquilla, arrastrando la red con los peces.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b0f45633de55"
+ },
+ "aquifer:19102": {
+  "text_es": "El pescado asado y el pan eran los alimentos principales en la dieta de los que vivían en Galilea. Jesús ofreció a los hombres el desayuno. El fuego de carbón nos recuerda cuando Pedro negó a Jesús (18:18).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cbc037b83357"
+ },
+ "hcf:Augustine of Hippo/John 21_9#0": {
+  "text_es": "No hemos de entender que el pan estaba puesto sobre las brasas, sino leerlo como si dijera: Vieron allí un fuego de brasas, y un pescado puesto sobre las brasas; y vieron pan.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9598a8e84257"
+ },
+ "hcf:Cyril of Alexandria/John 21_9-10#0": {
+  "text_es": "Entonces ven un fuego de brasas, pues el Salvador había encendido un fuego milagrosamente, y había puesto sobre él un pescado que había pescado por su poder inefable; y esto también lo había hecho a propósito. Pues no fue la mano de los santos Apóstoles, ni la predicación de estos pescadores espirituales entre los hombres, sino el poder del Salvador el que inició la obra. Pues Él primero pescó uno como primicias de los que habían de venir (no que nos refiramos precisamente a uno, pues por uno se significa un número pequeño), y luego después los discípulos pescaron la multitud en sus redes, siendo capacitados por su divino mandato para tomar algo de lo que buscaban. Pedro entonces saca la red; por lo cual había de entenderse que el trabajo de los santos Apóstoles no quedaría sin efecto. Pues pusieron la masa de peces capturados delante de Aquel que les había mandado ser pescados; y la cantidad de los peces se indica por el número 153.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "df6bc9b0a247"
+ },
+ "hcf:Theophylact of Ohrid/John 21_10-11#0": {
+  "text_es": "Para mostrar que no era una visión, les mandó tomar de los peces que habían pescado. Jesús les dice: Traed de los peces que habéis pescado ahora. Otro milagro sigue; a saber, que la red no se rompió: Simón Pedro subió, y sacó la red a tierra, llena de grandes peces, ciento cincuenta y tres; y aunque eran tantos, no se rompió la red.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3cda5351201a"
+ },
+ "aquifer:19085": {
+  "text_es": "Este milagro mostró una provisión generosa (similar a 2:1–12; 6:1–15). El número 153 no tiene un significado simbólico.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "53321cd9cff4"
+ },
+ "hcf:Augustine of Hippo/John 21_11#1": {
+  "text_es": "En la pesca anterior, no se menciona el número de los peces, como si se cumpliera la profecía del Salmo: Si yo los declarara y hablara de ellos, serían más de los que puedo expresar; (Sal. 41:7) pero aquí se menciona un número determinado, que debemos explicar. El número que significa la ley es diez, por los diez Mandamientos. Pero cuando a la ley se une la gracia, al espíritu la letra, se introduce el número siete, que es el número que representa al Espíritu Santo, a quien propiamente pertenece la santificación. Pues de la santificación se oyó hablar por primera vez en la ley, con respecto al séptimo día; e Isaías alaba al Espíritu Santo por su obra y oficio séptuplo. El siete del Espíritu añadido al diez de la ley hace diecisiete; y los números desde uno hasta diecisiete, sumados juntos, hacen ciento cincuenta y tres.\n\n(Tract. cxxii) No se significa entonces que solo ciento cincuenta y tres santos hayan de resucitar a la vida eterna, sino que este número representa a todos los que participan de la gracia del Espíritu Santo; número que también contiene tres cincuentenas, y tres más, con referencia al misterio de la Trinidad. Y el número cincuenta se compone de siete sietes, y uno más, significando que aquellos sietes son uno. Que fueran también grandes peces no carece de significado. Pues cuando nuestro Señor dice: No vine a destruir la ley, sino a cumplir, dando, esto es, el Espíritu Santo por quien la ley puede cumplirse, dice casi inmediatamente después: Cualquiera que hiciere y enseñare estas cosas, será llamado grande en el reino de los cielos. En la primera pesca se rompió la red, para significar los cismas; pero aquí, para mostrar que en aquella perfecta paz de los bienaventurados no habría cismas, el Evangelista continúa: Y aunque eran tan grandes, no se rompió la red; como aludiendo al caso anterior, en el que se rompió, y haciendo una comparación favorable.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d731f981a1fc"
+ },
+ "hcf:Gregory the Dialogist/John 21_11#0": {
+  "text_es": "A Pedro fue encomendada la santa Iglesia; a él se le dice especialmente: Apacienta mis ovejas. Aquello, pues, que después se declara de palabra, ahora se significa por obra. Él es quien atrae los peces a la orilla firme, porque él fue quien señaló a los fieles la estabilidad de la patria eterna. Esto lo hizo de viva voz, por epístolas; esto lo hace diariamente por señales y milagros. Después de decir que la red estaba llena de grandes peces, sigue el número: Llena de grandes peces, ciento cincuenta y tres.\n\n(Hom. xxiv.) Siete y diez multiplicados por tres hacen cincuenta y uno. El año quincuagésimo era año de reposo para todo el pueblo de todas sus obras. En la unidad está el verdadero reposo; pues donde hay división, el verdadero reposo no puede existir.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0947e6060697"
+ },
+ "aquifer:19086": {
+  "text_es": "⸢Ninguno de los discípulos se atrevía a preguntarle: «¿Quién eres tú?»⸣: Jesús se veía diferente después de que Dios lo resucitó de entre los muertos. Después de su resurrección, Jesús era verdaderamente la misma persona. Sin embargo, su cuerpo fue transformado y no estaba limitado de la misma manera. Cuando les dio pan y pescado, sus dudas desaparecieron (compárese 6:11; Lucas 24:30).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f902522b7f66"
+ },
+ "hcf:Augustine of Hippo/John 21_12#1": {
+  "text_es": "Terminada la pesca, nuestro Señor los invita a comer: Jesús les dice: Venid y comed.\n\n(xiii. de Civ. Dei, c. xxii) Los cuerpos de los justos, cuando resuciten, no necesitarán ni la palabra de vida para no morir de enfermedad o vejez, ni ningún alimento corporal para evitar el hambre y la sed. Pues estarán dotados de un don seguro e inviolable de inmortalidad, de modo que no comerán por necesidad, sino que solo podrán comer si quieren. No el poder, sino la necesidad de comer y beber les será quitada; de la misma manera que nuestro Salvador después de su resurrección tomó comida y bebida con sus discípulos, con carne espiritual pero aún real, no por causa del sustento, sino en ejercicio de un poder.\nY ninguno de sus discípulos se atrevía a preguntarle: ¿Quién eres tú? sabiendo que era el Señor.\n\n(Tract. cxxii) Nadie se atrevía a dudar que fuera Él, mucho menos a negarlo; tan evidente era. Si alguno hubiera dudado, habría preguntado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9bf2eb343c54"
+ },
+ "hcf:Gregory the Dialogist/John 21_12#0": {
+  "text_es": "Al celebrar esta última fiesta con siete discípulos, declara que solo los que están llenos de la gracia séptuple del Espíritu Santo estarán con Él en la fiesta eterna. También el tiempo se cuenta por períodos de siete días, y la perfección se designa a menudo con el número siete. Por tanto, aquellos que ahora se esfuerzan por la perfección son los que festejan la presencia de la Verdad en aquel último banquete.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ac8e48186a66"
+ },
+ "hcf:John Chrysostom/John 21_12-13#0": {
+  "text_es": "¿Qué hace entonces Jesús? «Venid», dice, «comed». «Y ninguno de ellos se atrevía a preguntarle». Pues ya no tenían la misma audacia, ni estaban tan confiados, ni se acercaban ahora a Él con palabras, sino con silencio y gran temor y reverencia, se sentaron prestando atención a Él. «Pues sabían que era el Señor». Y por eso no le preguntaron: «¿Quién eres tú?» Sino que, viendo que su forma estaba alterada y llena de mucho asombro, se maravillaron grandemente y deseaban preguntar algo al respecto; pero el temor, y su conocimiento de que no era otro, sino el Mismo, contuvo la indagación, y solo comieron lo que Él les creó con mayor despliegue de poder que antes. Pues aquí ya no mira al cielo, ni realiza aquellos actos humanos, mostrando que también los que hizo los hizo por condescendencia.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cfe29bf21052"
+ },
+ "hcf:Augustine of Hippo/John 21_13#0": {
+  "text_es": "Místicamente, el pescado asado es Cristo que sufrió. Y Él es el pan que descendió del cielo. A Él la Iglesia está unida a su cuerpo para participación de la bienaventuranza eterna. Por lo cual dice: Traed de los peces que habéis pescado ahora; para significar que todos nosotros que tenemos esta esperanza, y estamos en aquel número septenario de discípulos, que representa aquí a la Iglesia universal, participamos de este gran sacramento, y somos admitidos a esta bienaventuranza.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1b7be40239e4"
+ },
+ "hcf:John Chrysostom/John 21_13#0": {
+  "text_es": "Y les manda «traer de los peces», para mostrar que lo que veían no era apariencia. Pero aquí ciertamente no dice que comió con ellos, sino que Lucas, en otro lugar, dice que sí lo hizo; pues «comía juntamente con ellos». Pero el «cómo», no nos corresponde decirlo; pues estas cosas sucedieron de manera demasiado extraña, no como si su naturaleza necesitara ahora alimento, sino por un acto de condescendencia, en prueba de la Resurrección.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e161b8827923"
+ },
+ "aquifer:19087": {
+  "text_es": "Esta escena en la playa fue la tercera vez que Jesús se apareció (véase 20:11–23, 26–29).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "622a37399a71"
+ },
+ "hcf:Augustine of Hippo/John 21_14#0": {
+  "text_es": "Lo cual se refiere no a las manifestaciones, sino a los días; es decir, el primer día después de haber resucitado, ocho días después de aquel, cuando Tomás vio y creyó, y este día en la pesca de los peces; y de ahí en adelante cuantas veces los vio, hasta el tiempo de su ascensión.\n\n(de Con. Evang. iii. 25.) Hallamos en los cuatro Evangelistas diez ocasiones mencionadas en las que nuestro Señor fue visto después de su resurrección: una en el sepulcro por las mujeres; una segunda por las mujeres que volvían del sepulcro; una tercera por Pedro; una cuarta por los dos que iban a Emaús; una quinta en Jerusalén, cuando Tomás no estaba presente; una sexta cuando Tomás lo vio; una séptima en el mar de Tiberias; una octava por todos los once en un monte de Galilea, mencionada por Mateo; una novena cuando por última vez se sentó a la mesa con los discípulos; una décima cuando ya no fue visto sobre la tierra, sino en lo alto sobre una nube.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "aff2f06d4777"
+ },
+ "hcf:John Chrysostom/John 21_14#0": {
+  "text_es": "Pues aquí ya no mira al cielo, ni realiza aquellos actos humanos, mostrando que también los que hizo fueron por condescendencia. Y para mostrar que no permaneció con ellos continuamente, ni de la misma manera que antes, dice que «esta era ya la tercera vez que Jesús se manifestaba a sus discípulos, después de haber resucitado de entre los muertos». Y les manda «traer de los peces», para mostrar que lo que veían no era una apariencia. Pero aquí ciertamente no dice que comió con ellos, sino que Lucas, en otro lugar, dice que sí lo hizo; pues «comía juntamente con ellos». Mas el «cómo», no es nuestro decirlo; pues estas cosas sucedieron de manera demasiado extraña, no como si su naturaleza necesitara ahora alimento, sino por un acto de condescendencia, en prueba de la Resurrección.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "78a01baf3eb5"
+ },
+ "aquifer:19088": {
+  "text_es": "⸢¿Me amas?⸣: Estas tres preguntas y afirmaciones recuerdan las tres negaciones de Pedro (18:15–18, 25–27). Jesús invitó a Pedro a reafirmar todo lo que había negado. La palabra griega para ⸢amar⸣ en las dos primeras preguntas (⸢agapaō⸣) difiere de la palabra en su tercera pregunta (⸢phileō⸣). En cada caso, Pedro respondió con la segunda palabra (⸢phileō⸣). La mayoría de los eruditos griegos consideran las dos palabras como sinónimos en esta situación.\n\nLa conversación que Jesús tuvo con Pedro se centró no en la calidad del amor de Pedro, sino más bien en la tarea de Pedro de cuidar a los seguidores de Jesús. Primera de Pedro 5:2–4 podría ser una meditación sobre estos acontecimientos.",
+  "lemas_es": [
+   "¿Me amas?"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "584fa0ac6fb0",
+  "text_es_2": "⸢¿Me amas?⸣: Estas tres preguntas y afirmaciones recuerdan las tres negaciones de Pedro (18:15–18, 25–27). Jesús invitó a Pedro a reafirmar todo lo que había negado. La palabra griega para ⸢amor⸣ en las dos primeras preguntas (⸢agapaō⸣) difiere de la palabra en su tercera pregunta (⸢phileō⸣). En cada caso, Pedro respondió con la segunda palabra (⸢phileō⸣). La mayoría de los eruditos griegos ven las dos palabras como sinónimos en esta situación.\n\nLa conversación que Jesús tuvo con Pedro no se centró en la calidad del amor de Pedro, sino más bien en la tarea de Pedro de cuidar a los seguidores de Jesús. I Pedro 5:2–4 podría ser una meditación sobre estos hechos.",
+  "modelo_2": "gemini-3.6-flash",
+  "lemas_rv1909": [
+   {
+    "lema": "me amas",
+    "ref": "JHN.21.15"
+   }
+  ]
+ },
+ "aquifer:19089": {
+  "text_es": "⸢¿más que estos?⸣ (O ⸢¿más que estos otros?⸣): Jesús le recordó a Pedro su pretensión de ser más fiel y valiente que los demás (13:37; Mateo 26:33; Marcos 14:29). Lo instaba a examinarse a sí mismo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cad76e344a3e",
+  "text_es_2": "⸢¿más que estos?⸣ (O ⸢¿más que estos otros?⸣): Jesús le recordó a Pedro su afirmación de ser más fiel y valiente que los demás (13:37; Mateo 26:33; Marcos 14:29). Le estaba instando a Pedro a examinarse a sí mismo.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Alcuin of York/John 21_15#0": {
+  "text_es": "Se le llama Simón, hijo de Juan, siendo Juan su padre natural. Pero místicamente, Simón es obediencia, Juan gracia, nombre muy apropiado para quien fue tan obediente a la gracia de Dios, que amó a nuestro Señor más ardientemente que cualquiera de los otros. Tal virtud surge de un don divino, no de la mera voluntad humana.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4399761d1f00",
+  "text_es_2": "Se le llama Simón, hijo de Juan, siendo Juan su padre natural. Pero místicamente, Simón es la obediencia, Juan la gracia, un nombre que conviene bien a aquel que fue tan obediente a la gracia de Dios, que amó a nuestro Señor más ardientemente que cualquiera de los otros. Tal virtud procede del don divino, no de la mera voluntad humana.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Augustine of Hippo/John 21_15#3": {
+  "text_es": "Nuestro Señor preguntó esto, sabiéndolo: sabía que Pedro no solo lo amaba, sino que lo amaba más que todos los demás.\n\nMientras nuestro Señor era condenado a muerte, temió y lo negó. Pero por su resurrección Cristo implantó el amor en su corazón y ahuyentó el temor. Pedro negó porque temía morir; pero cuando nuestro Señor resucitó de entre los muertos y por su muerte destruyó la muerte, ¿qué había de temer? Le dice: Sí, Señor; tú sabes que te amo. Sobre esta confesión de su amor, nuestro Señor le encomienda sus ovejas: le dice: Apacienta mis corderos; como si no hubiera otra manera de que Pedro mostrara su amor por él, sino siendo un pastor fiel, bajo el Pastor principal.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f03504a779bf",
+  "text_es_2": "Nuestro Señor preguntó esto sabiéndolo: Él sabía que Pedro no solo le amaba, sino que le amaba más que todos los demás.\n\nMientras nuestro Señor era condenado a muerte, él temió y le negó. Pero por su resurrección, Cristo implantó el amor en su corazón y ahuyentó el temor. Pedro negó porque temía morir; pero cuando nuestro Señor resucitó de los muertos y por su muerte destruyó la muerte, ¿qué habría de temer? Dícele: Sí, Señor; tú sabes que te amo. Sobre esta confesión de su amor, nuestro Señor le encomienda sus ovejas: Dícele: Apacienta mis corderos; como si no hubiera otra forma en que Pedro demostrara su amor por Él sino siendo un pastor fiel, bajo el Príncipe de los pastores.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Augustine of Hippo/John 21_15-17#0": {
+  "text_es": "Bien dice a Pedro: ¿Me amas (ἀγαπᾶς diligis), y Pedro responde: Te amo (φελῶ amo), y nuestro Señor replica de nuevo: Apacienta mis corderos. Por lo cual aparece que amor y dilectio son lo mismo; especialmente porque nuestro Señor, la tercera vez que habla, no dice: Diligis Me, sino Amas Me. Le dice la tercera vez: Simón, hijo de Jonás, ¿me amas? Una tercera vez nuestro Señor pregunta a Pedro si lo ama. Tres confesiones se hacen para responder a las tres negaciones; que la lengua muestre tanto amor como tuvo temor, y que la vida recobrada saque la voz tanto como la muerte amenazó.\n\n(Tract. cxxiii) Los que apacientan las ovejas de Cristo como si fueran propias, no de Cristo, muestran claramente que se aman a sí mismos, no a Cristo; que son movidos por la codicia de gloria, poder y ganancia, no por el amor de obedecer, ministrar y agradar a Dios. Amémonos, pues, no a nosotros mismos, sino a él, y al apacentar sus ovejas, no busquemos lo nuestro, sino las cosas que son suyas. Pues quien se ama a sí mismo, no a Dios, no se ama a sí mismo: el hombre que no puede vivir de sí mismo, debe morir por amarse a sí mismo; y no puede amarse a sí mismo quien se ama para su propia perdición. Mientras que cuando se ama a Aquel por quien vivimos, nos amamos más a nosotros mismos, porque no nos amamos a nosotros mismos; porque no nos amamos a nosotros mismos a fin de amar a Aquel por quien vivimos.\n\n(Serm. Pass.) Pero se levantaron siervos infieles, que dividieron el rebaño de Cristo y transmitieron la división a sus sucesores; y los oyes decir: Esas ovejas son mías, ¿qué buscas con mis ovejas? No te dejaré venir a mis ovejas. Si llamamos nuestras ovejas a las nuestras, como ellos las llaman suyas, Cristo ha perdido sus ovejas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "555295c14dd2",
+  "text_es_2": "Bien le dice a Pedro: ¿Me amas? (ἀγαπᾶς diligis), y Pedro responde: Te amo (φελῶ amo), y nuestro Señor responde de nuevo: Apacienta mis corderos. Por lo cual parece que amor y dilectio son la misma cosa; especialmente porque la tercera vez que nuestro Señor habla no dice Diligis Me, sino Amas Me. Dícele la tercera vez: Simón, hijo de Jonás, ¿me amas? Por tercera vez nuestro Señor le pregunta a Pedro si le ama. Tres confesiones se hacen para responder a las tres negaciones; para que la lengua mostrara tanto amor como había tenido temor, y la vida ganada sacara la voz tanto como la muerte amenazaba.\n\n(Tract. cxxiii) Aquellos que apacientan las ovejas de Cristo como si fueran suyas, no de Cristo, muestran claramente que se aman a sí mismos, no a Cristo; que son movidos por la codicia de gloria, poder, ganancia, no por el amor de obedecer, servir, agradar a Dios. Amemos, pues, no a nosotros mismos, sino a Él, y al apacentar sus ovejas, no busquemos lo nuestro, sino las cosas que son suyas. Porque quien se ama a sí mismo, no a Dios, no se ama a sí mismo: el hombre, que no puede vivir por sí mismo, debe morir por amarse a sí mismo; y no puede amarse a sí mismo quien se ama para su propia destrucción. Mientras que cuando es amado Aquel por quien vivimos, nos amamos tanto más a nosotros mismos porque no nos amamos a nosotros mismos; porque no nos amamos a nosotros mismos a fin de amar a Aquel por quien vivimos.\n\n(Serm. Pass.) Pero se levantaron siervos infieles que dividieron el rebaño de Cristo y transmitieron la división a sus sucesores; y los oís decir: Esas ovejas son mías, ¿qué buscas con mis ovejas?, no te dejaré venir a mis ovejas. Si llamamos mías a nuestras ovejas, como ellos las llaman suyas, Cristo ha perdido sus ovejas.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Augustine of Hippo/John 21_15-17#2": {
+  "text_es": "Tenemos también aquí demostrado que amor y afecto son una y la misma cosa; pues el Señor también en la última pregunta no dijo ¿Diligis me? sino ¿Amas me? Amémonos, pues, no a nosotros mismos, sino a él; y al apacentar sus ovejas, busquemos las cosas que son suyas, no las que son nuestras. Pues de algún modo inexplicable, no sé cuál, todo el que se ama a sí mismo y no a Dios, no se ama a sí mismo; y quien ama a Dios y no a sí mismo, ese es el que se ama a sí mismo. Porque el que no puede vivir por sí mismo ciertamente morirá por amarse a sí mismo; por tanto, no se ama a sí mismo quien se ama para su propia pérdida de la vida. Pero cuando se ama a Aquel por quien se conserva la vida, el hombre, al no amarse solo a sí mismo, ama más, cuando por esta razón no se ama a sí mismo, a saber, para amar a Aquel por quien vive.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "62e28b2a1184",
+  "text_es_2": "Aquí también se nos demuestra que el amor y el afecto son una y la misma cosa; porque el Señor también en la última pregunta no dijo ¿Diligis me?, sino ¿Amas me? No nos amemos, pues, a nosotros mismos, sino a Él; y al apacentar sus ovejas, busquemos las cosas que son suyas, no las que son nuestras. Porque de una manera inexplicable, no sé cuál, todo aquel que se ama a sí mismo y no a Dios, no se ama a sí mismo; y quienquiera que ama a Dios y no a sí mismo, ese es el que se ama a sí mismo. Porque el que no puede vivir por sí mismo verdaderamente morirá por amarse a sí mismo; por tanto, no se ama a sí mismo quien se ama para su propia pérdida de vida. Pero cuando es amado Aquel por quien la vida es preservada, el hombre, al no amarse a sí mismo, solo ama más, cuando es por esta razón que no se ama a sí mismo, [a saber] para poder amar a Aquel por quien vive.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:John Chrysostom/John 21_15-16#0": {
+  "text_es": "Lo que más atrae el amor divino es el cuidado y el amor por nuestro prójimo. Nuestro Señor, pasando por alto a los demás, dirige este mandato a Pedro: siendo él el jefe de los Apóstoles, la boca de los discípulos y cabeza del colegio. Nuestro Señor no recuerda más su pecado al negarlo, ni se lo reprocha, sino que le confía de inmediato la superintendencia sobre sus hermanos. Si me amas, gobierna a tus hermanos, muestra ese amor que has evidenciado en todo, y esa vida que dijiste que darías por mí, dala por las ovejas.\nLe dice de nuevo la segunda vez: Simón, hijo de Jonás, ¿me amas? Le dice: Sí, Señor; tú sabes que te amo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e9050bdff0c4",
+  "text_es_2": "Lo que más de todo atrae el amor divino es la atención y el amor por nuestro prójimo. Nuestro Señor, pasando por alto al resto, dirige este mandato a Pedro: siendo él el primero de los Apóstoles, la boca de los discípulos y la cabeza del colegio. Nuestro Señor ya no recuerda su pecado de haberle negado, ni se lo echa en cara como acusación, sino que le encomienda de inmediato la superintendencia sobre sus hermanos. Si me amas, ten el mando sobre tus hermanos, muestra ese amor que has evidenciado en todo momento, y esa vida que dijiste que darías por Mí, dala por las ovejas.\nVolvió a decirle la segunda vez: Simón, hijo de Jonás, ¿me amas? Dícele: Sí, Señor; tú sabes que te amo.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:John Chrysostom/John 21_15-17#0": {
+  "text_es": "Hay ciertamente muchas otras cosas que pueden darnos confianza ante Dios y mostrarnos brillantes y aprobados, pero lo que más atrae la buena voluntad de lo alto es el tierno cuidado por nuestro prójimo. Lo cual, por tanto, Cristo requiere de Pedro.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b6491787dd40",
+  "text_es_2": "Ciertamente hay muchas otras cosas que pueden darnos confianza ante Dios y mostrarnos resplandecientes y aprobados, pero lo que más de todo atrae la buena voluntad de lo alto es la tierna atención por nuestro prójimo. Lo cual, por tanto, Cristo exige de Pedro.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Theophylact of Ohrid/John 21_15-17#0": {
+  "text_es": "Terminada la cena, encomienda a Pedro la superintendencia sobre las ovejas del mundo, no a los otros: Así que, después que hubieron comido, Jesús dijo a Simón Pedro: Simón, hijo de Jonás, ¿me amas más que estos?\n\nDe ahí se toma la costumbre de la triple confesión en el bautismo.\n\nHay una diferencia quizá entre corderos y ovejas. Los corderos son los recién iniciados, las ovejas son los perfeccionados.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "291d22fa3278",
+  "text_es_2": "Concluida la comida, encomienda a Pedro la superintendencia sobre las ovejas del mundo, no a los otros: Y cuando hubieron comido, Jesús dijo a Simón Pedro: Simón, hijo de Jonás, ¿me amas más que estos?\n\nDe allí se toma la costumbre de la triple confesión en el bautismo.\n\nHay una diferencia, tal vez, entre corderos y ovejas. Los corderos son aquellos que recién se inician; las ovejas son los perfeccionados.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:John Chrysostom/John 21_16-17#0": {
+  "text_es": "Cuando, pues, habiendo sido preguntado una y otra vez, lo llamó a testificar, a él que conoce los secretos del corazón, y luego fue preguntado incluso una tercera vez, se turbó, temiendo una repetición de lo que había sucedido antes (pues entonces, habiendo sido fuerte en la afirmación, después fue convicto), y por eso se acoge de nuevo a él. Pues la frase «Tú sabes todas las cosas» significa «las presentes y las futuras». ¿Ves cómo se había vuelto mejor y más sobrio, no siendo ya obstinado ni contradictor? Pues por esta razón se turbó: «no sea que acaso piense que amo, y no ame, como antes cuando pensé y afirmé mucho, pero al final fui convicto». Pero Jesús le pregunta la tercera vez, y la tercera vez le da el mismo mandato, para mostrar a qué precio tiene el cuidado de sus propias ovejas, y que esto es especialmente una señal de amor hacia él.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "19739247334e",
+  "text_es_2": "Cuando entonces, habiéndosele preguntado una y otra vez, invocó como testigo a Aquel que conoce los secretos del corazón, y luego se le preguntó por tercera vez, se contristó, temiendo una repetición de lo sucedido antes (porque entonces, habiendo sido firme en su afirmación, fue después descubierto); y por tanto acude de nuevo a Él. Porque el decir: «Tú sabes todas las cosas», significa: «las cosas presentes y las venideras». ¿Ves cómo se había vuelto mejor y más sobrio, no siendo ya terco ni contradictorio? Porque por esta razón se contristó: «no sea que tal vez yo piense que amo, y no ame, como antes cuando pensé y afirmé mucho, y sin embargo al final fui descubierto». Pero Jesús le pregunta por tercera vez, y por tercera vez le da el mismo mandato, para mostrar en qué precio estima el cuidado de sus propias ovejas, y que esto es especialmente una señal de amor hacia Él.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "aquifer:19090": {
+  "text_es": "⸢Apacienta mis ovejas⸣: Jesús, que lo sabe todo, entendió que a pesar del terrible fracaso de Pedro, este aún tenía fe y compromiso con Jesús (1:42; 2:25; 16:30). Estas palabras llamaron a Pedro a cuidar y proteger a los seguidores de Cristo.",
+  "lemas_es": [
+   "Apacienta mis ovejas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3c0a6e3f5159",
+  "text_es_2": "⸢Apacienta mis ovejas⸣: Jesús, que lo sabe todo, entendió que a pesar del terrible fracaso de Pedro, él todavía tenía fe y compromiso con Jesús (1:42; 2:25; 16:30). Estas palabras llamaron a Pedro a cuidar y proteger a los seguidores de Cristo.",
+  "modelo_2": "gemini-3.6-flash",
+  "lemas_rv1909": [
+   {
+    "lema": "Apacienta mis ovejas",
+    "ref": "JHN.21.17"
+   }
+  ]
+ },
+ "hcf:Alcuin of York/John 21_17#0": {
+  "text_es": "Apacentar las ovejas es sostener a los creyentes en Cristo para que no caigan de la fe, proveer sustento terrenal para los que están bajo nosotros, predicar y ejemplificar además nuestra predicación con nuestras vidas, resistir a los adversarios, corregir a los extraviados.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "de61436a017f",
+  "text_es_2": "Apacentar las ovejas es sostener a los creyentes en Cristo para que no caigan de la fe, proveer sustento terrenal para aquellos que están bajo nosotros, predicar y ejemplificar además nuestra predicación con nuestras vidas, resistir a los adversarios, corregir a los extraviados.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Augustine of Hippo/John 21_17#0": {
+  "text_es": "Se entristeció porque fue preguntado tantas veces por Aquel que sabía lo que preguntaba, y dio la respuesta. Responde, pues, desde lo más íntimo de su corazón: Tú sabes que te amo.\n\n(Tract. cxxiv) No dice más, solo responde lo que él mismo sabía; sabía que lo amaba; si algún otro lo amaba no podía decirlo, pues no podía ver en el corazón de otro: (non occ.). Jesús le dice: Apacienta mis ovejas; como si dijera: Sea oficio del amor apacentar el rebaño del Señor, como fue resolución del temor negar al Pastor.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2feb5c337ef5",
+  "text_es_2": "Se contristó porque se le preguntaba tan a menudo por Aquel que sabía lo que preguntaba y daba la respuesta. Responde, por tanto, desde lo más íntimo de su corazón: Tú sabes que te amo.\n\n(Tract. cxxiv) No dice nada más, solo responde lo que él mismo sabía; sabía que le amaba; si algún otro le amaba, no lo podía decir, pues no podía ver el corazón de otro: (non occ.). Jesús le dice: Apacienta mis ovejas; como si dijera: Sea el oficio del amor apacentar el rebaño del Señor, como fue la resolución del temor negar al Pastor.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Cyril of Alexandria/John 21_17#0": {
+  "text_es": "Aquí también se da un tipo a las Iglesias, a saber, que deben pedir tres veces una confesión de Cristo a quienes han elegido amarlo viniendo a Él en el santo bautismo. Y, al detenerse en este pasaje, los instructores en la religión pueden llegar al conocimiento de que no pueden agradar al Pastor principal, es decir, a Cristo, a menos que se preocupen por la salud de las ovejas de su redil y por su perseverancia en el bienestar. Tal era el inspirado Pablo, que compartía las flaquezas de sus hermanos débiles, y llamaba a los que por él creyeron y eligieron ganar renombre por la gloria de sus obras, el orgullo, el gozo y la corona de su apostolado. Pues sabía que este era el fruto visible del amor a Cristo. Y esto, si alguien razona bien y con justicia, puede percibirlo. Pues si Él murió por nosotros, ciertamente debe estimar la salvación y la vida de todos nosotros como dignas de todo cuidado. Y si los que pecan contra los hermanos y hieren su conciencia cuando es débil, en verdad pecan contra Cristo; ciertamente es verdad decir que quienes toman, por así decirlo, de la mano la mente de los que han sido admitidos a la fe, y de quienes se espera que sean llamados a la perfección en ella, y se afanan por establecerlos firmemente en la fe con toda ayuda que puedan ofrecer, están sirviendo al Señor mismo. Por lo tanto, mediante su confesión repetida tres veces, fue borrada la triple negación del bienaventurado Pedro, y mediante la palabra de nuestro Señor, Apacienta mis corderos, debemos entender una renovación, por así decirlo, del apostolado ya dado a él, que lava la desgracia de su caída intermedia y borra su pusilanimidad, que surgió de la flaqueza humana.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "dab886bf01a3",
+  "text_es_2": "En esto se da también un tipo a las Iglesias, de que deben pedir tres veces una confesión de Cristo a aquellos que han elegido amarle viniendo a Él en el Santo Bautismo. Y, al detenerse en este pasaje, los instructores en la religión pueden llegar al conocimiento de que no pueden agradar al Príncipe de los pastores, que es Cristo, a menos que velen por la salud de las ovejas de su redil y por su perseverancia en el bien. Tal fue el inspirado Pablo, quien compartió las enfermedades de sus hermanos débiles, y llamó a aquellos que por medio de él creyeron y eligieron adquirir renombre por la gloria de sus obras, el motivo de orgullo, gozo y corona de su apostolado. Porque sabía que este era el fruto visible del amor por Cristo. Y esto, si razona bien y con justicia, cualquiera puede percibirlo. Porque si Él murió por nosotros, ciertamente debe estimar la salvación y la vida de todos nosotros como dignas de todo cuidado. Y si aquellos que pecan contra los hermanos y hieren su conciencia cuando es débil, en verdad pecan contra Cristo, ciertamente es cierto decir que hacen un servicio al Señor mismo quienes toman, por así decirlo, de la mano la mente de aquellos que han sido admitidos a la fe y de quienes se espera que sean llamados a la perfección en ella, y están anhelantes de confirmarlos firmemente en la fe por toda ayuda que puedan ofrecer. Por tanto, mediante su confesión repetida tres veces, la negación repetida tres veces del bienaventurado Pedro fue borrada, y por el dicho de nuestro Señor: Apacienta mis corderos, debemos entender una renovación, por así decirlo, del apostolado que ya se le había dado, lavando la deshonra de su caída intermedia y obliterando su pusilanimidad, nacida de la humana enfermedad.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:John Chrysostom/John 21_17#0": {
+  "text_es": "Por tercera vez le hace la misma pregunta y da el mismo mandato; para mostrar cuánta importancia estima que tiene la superintendencia de sus propias ovejas, y cómo la considera la mayor prueba de amor hacia Él.\n\n(Hom. lxxxviii) La pregunta hecha por tercera vez lo perturbó: Pedro se entristeció porque le dijo por tercera vez: ¿Me amas? Temía quizás recibir de nuevo una reprensión por profesar amar más de lo que amaba. Así que apela a Cristo mismo: Y le dijo: Señor, tú sabes todas las cosas, es decir, los secretos del corazón, presentes y futuros.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "653013740c7f",
+  "text_es_2": "Por tercera vez le hace la misma pregunta y le da el mismo mandato; para mostrar en cuánta importancia estima la superintendencia de sus propias ovejas, y cómo la considera como la mayor prueba de amor hacia Él.\n\n(Hom. lxxxviii) La pregunta hecha por tercera vez le perturbó: Pedro se entristeció de que le dijese la tercera vez: ¿Me amas? Temía tal vez recibir de nuevo una reprensión por profesar amar más de lo que amaba. Así pues, apela a Cristo mismo: Y díjole: Señor, tú sabes todas las cosas, es decir, los secretos del corazón, presentes y futuros.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "aquifer:19091": {
+  "text_es": "⸢Extenderás tus manos⸣: Jesús probablemente estaba prediciendo que Pedro moriría también en una cruz. Según la tradición, así murió Pedro. ⸢otro te vestirá⸣ (literalmente ⸢te⸣ ⸢atará⸣): Jesús se refiere a la captura, la esclavitud y la crucifixión. A menudo ataban a las víctimas a la cruz.",
+  "lemas_es": [
+   "Extenderás tus manos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4e9867f08432",
+  "lemas_rv1909": [
+   {
+    "lema": "extenderás tus manos",
+    "ref": "JHN.21.18"
+   }
+  ]
+ },
+ "hcf:Augustine of Hippo/John 21_18-19#0": {
+  "text_es": "Es decir, serás crucificado. Y para llegar a este fin, Otro te ceñirá y te llevará adonde no quieras. Primero dijo lo que sucedería; en segundo lugar, cómo sucedería. Pues no fue cuando era crucificado, sino cuando estaba a punto de ser crucificado, que fue llevado adonde no quería. Deseaba ser liberado del cuerpo y estar con Cristo; pero, si fuera posible, deseaba alcanzar la vida eterna sin los dolores de la muerte: a lo cual iba contra su voluntad, pero vencido por la fuerza de su voluntad, y triunfando sobre el sentimiento humano, tan natural, que ni siquiera la vejez pudo privar a Pedro de él. Pero cualquiera que sea el dolor de la muerte, debe ser vencido por la fuerza del amor hacia Aquel que, siendo nuestra vida, también sufrió voluntariamente la muerte por nosotros. Pues si no hay dolor en la muerte, o muy poco, la gloria del martirio no sería grande.\n\n(Tract. cxxiii) El que negó y amó, murió en perfecto amor por Aquel por quien había prometido morir con precipitación equivocada. Era necesario que Cristo muriera primero por la salvación de Pedro, y luego Pedro muriera por el Evangelio de Cristo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "eb6249ee9bb5"
+ },
+ "hcf:Origen of Alexandria/John 21_18#0": {
+  "text_es": "No es fácil encontrar a alguien dispuesto a pasar de inmediato de esta vida; y así le dice a Pedro: Cuando seas viejo, extenderás tu mano.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "26adb939696f"
+ },
+ "aquifer:19092": {
+  "text_es": "El resto de la vida de Pedro fue un ministerio de cuidar el rebaño de Dios, y su martirio fue una clase de muerte que glorifica a Dios. ⸢Sígueme⸣: Esto podría requerir sufrimiento y muerte (véase 13:16; 15:18–21).",
+  "lemas_es": [
+   "Sígueme"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fe7932f25411",
+  "lemas_rv1909": [
+   {
+    "lema": "Sígueme",
+    "ref": "JHN.21.19"
+   }
+  ]
+ },
+ "hcf:Augustine of Hippo/John 21_19#3": {
+  "text_es": "El que negó y amó, murió en perfecto amor por Aquel por quien había prometido morir con precipitación equivocada. Era necesario que Cristo muriera primero por la salvación de Pedro, y luego Pedro muriera por el Evangelio de Cristo.\n\n(Tract. cxxiv) Nuestro Señor, habiendo predicho a Pedro con qué muerte glorificaría a Dios, le manda seguirlo. Y cuando hubo dicho esto, le dice: Sígueme. ¿Por qué le dice: Sígueme, a Pedro, y no a los otros que estaban presentes, quienes como discípulos seguían a su Maestro? O si lo entendemos de su martirio, ¿fue Pedro el único que murió por la verdad cristiana? ¿No fue Jacobo muerto por Herodes? Alguien dirá que Jacobo no fue crucificado, y que esto se dirigió convenientemente a Pedro, porque no solo murió, sino que sufrió la muerte de cruz, como Cristo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a26cd076e835"
+ },
+ "hcf:Theophylact of Ohrid/John 21_19-23#0": {
+  "text_es": "Pedro, al oír que había de sufrir la muerte por Cristo, pregunta si Juan había de morir: Entonces Pedro, volviéndose, ve al discípulo a quien Jesús amaba, que también se había recostado en su pecho en la cena, y había dicho: Señor, ¿quién es el que te va a entregar? Cuando Pedro le vio, dijo a Jesús: Señor, ¿y qué de este?\n\nes decir, ¿No morirá?\n\nO que diga: Cristo no negó que Juan había de morir, pues todo lo que nace muere; sino que dijo: Quiero que él permanezca hasta que yo venga, es decir, que viva hasta el fin del mundo, y entonces sufrirá el martirio por mí. Y por eso confiesan que aún vive, pero será matado por el Anticristo, y predicará el nombre de Cristo con Elías. Pero si se objeta su sepulcro, entonces dicen que entró vivo en él y salió después.\n\nCuando nuestro Señor dice a Pedro: Sígueme, le confiere la superintendencia sobre todos los fieles, y al mismo tiempo le manda imitarlo en todo, palabra y obra. Muestra también su afecto por Pedro; pues a quienes nos son más queridos, les decimos que nos sigan.\n\nAlgunos han entendido: Hasta que yo venga, como: Hasta que yo venga a castigar a los judíos que me crucificaron, y golpearlos con la vara romana. Pues dicen que este Apóstol vivió hasta el tiempo de Vespasiano, que tomó Jerusalén, y habitó cerca cuando fue tomada. O: Hasta que yo venga, es decir, hasta que le dé la comisión de predicar, pues a ti te confío ahora el pontificado del mundo; y en esto sígueme, pero que él permanezca hasta que yo venga y lo llame, como hago contigo ahora.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d0a13969eb15"
+ },
+ "aquifer:19093": {
+  "text_es": "⸢«Señor, ¿y qué de este?»⸣: Pedro quería saber si Juan también enfrentaría la muerte por su fe. Jesús dijo que no era asunto de Pedro saber cómo o cuándo moriría Juan. La tarea de Pedro era seguir a Jesús, tal como Juan ya lo hacía.\n\nEste evento muestra la idea de Juan sobre ser discípulo: lo que más importa para el discípulo de Jesús es seguirlo y hacer su voluntad, sin importar lo que suceda.",
+  "lemas_es": [
+   "«Señor, ¿y qué de este?»"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bf5e147e5a2f",
+  "lemas_rv1909": [
+   {
+    "lema": "Señor, ¿y este, qué",
+    "ref": "JHN.21.21"
+   }
+  ]
+ },
+ "hcf:Augustine of Hippo/John 21_20#1": {
+  "text_es": "Se llama a sí mismo el discípulo a quien Jesús amaba, porque Jesús tenía un amor mayor y más familiar por él que por los demás; de modo que lo hizo recostarse en su pecho en la cena. De esta manera Juan recomienda más la excelencia divina de aquel Evangelio que predicaba. Algunos piensan, y no son comentaristas despreciables de la Escritura, que la razón por la que Juan fue amado más que los demás fue porque había vivido en perfecta castidad desde su juventud. Entonces salió este dicho entre los hermanos, que aquel discípulo no moriría: pero Jesús no le dijo: No morirá; sino: Si quiero que él permanezca hasta que yo venga, ¿qué a ti?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "be4aa8482ec5"
+ },
+ "hcf:John Chrysostom/John 21_20#0": {
+  "text_es": "¿Por qué nos ha recordado aquel recostarse? No sin causa ni de manera casual, sino para mostrarnos qué audacia tenía Pedro después de la negación. Pues el que entonces no se atrevió a preguntar a Jesús, sino que encargó el oficio a otro, fue incluso investido con la autoridad principal sobre los hermanos, y no solo no encarga a otro lo que se refiere a sí mismo, sino que ahora él mismo hace una pregunta a su Maestro acerca de otro. Juan calla, pero Pedro habla. Muestra también aquí el amor que le tenía; pues Pedro amaba mucho a Juan, como se ve por lo que siguió, y su estrecha unión se muestra a través de todo el Evangelio y en los Hechos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "48acd153f293"
+ },
+ "hcf:John Chrysostom/John 21_21#0": {
+  "text_es": "Nuestro Señor entonces, habiendo predicho tan grandes cosas de él, y confiado el mundo a él, y profetizado su martirio, y dado a conocer su mayor amor, Pedro, deseando que Juan fuera admitido a participar de este llamamiento, dice: ¿Y qué de este? como si dijera: ¿No irá por el mismo camino que nosotros? Pues Pedro tenía gran amor por Juan, como aparece en los Evangelios y los Hechos de los Apóstoles, que dan muchas pruebas de su estrecha amistad. Así Pedro le hace a Juan el mismo favor que Juan le había hecho a él; pensando que él quería preguntar acerca de sí mismo, pero tenía miedo, hace la pregunta por él.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "761335c381f0"
+ },
+ "hcf:Augustine of Hippo/John 21_22#1": {
+  "text_es": "O quizá admita que Juan yace todavía en su sepulcro en Éfeso, pero dormido, no muerto; y nos dará una prueba de que la tierra sobre su tumba es húmeda y acuosa, debido a su respiración. Pero ¿por qué había de conceder nuestro Señor como gran privilegio al discípulo a quien amaba, que durmiera tanto tiempo en el cuerpo, cuando libró a Pedro del peso de la carne por un glorioso martirio, y le dio lo que Pablo había anhelado cuando dijo: Tengo deseo de partir y estar con Cristo? Si realmente sucede en la tumba de Juan lo que la tradición dice, o se hace para encomiar su preciosa muerte, ya que esta no tuvo el martirio que la encomiara, o por alguna otra causa que nos es desconocida. Sin embargo, queda la pregunta: ¿Por qué dijo nuestro Señor de uno que estaba a punto de morir: Quiero que él permanezca hasta que yo venga? También puede preguntarse por qué nuestro Señor amó más a Juan, cuando Pedro amó más a nuestro Señor. Fácilmente podría responder que quien amó más a Cristo era el mejor hombre, y a quien Cristo amó más, el más bienaventurado; solo que esto no sería una defensa de la justicia de nuestro Señor. Esta importante cuestión, pues, procuraré responderla. La Iglesia reconoce dos modos de vida, como divinamente revelados: el de la fe y el de la visión. Uno está representado por el apóstol Pedro, en razón de la primacía de su apostolado; el otro por Juan; por lo cual a uno se le dice: Sígueme, esto es, imítame en soportar los sufrimientos temporales; del otro se dice: Quiero que él permanezca hasta que yo venga: como si dijera: Tú sígueme, soportando los sufrimientos temporales; que él permanezca hasta que yo venga a dar la bienaventuranza eterna; o, para exponerlo más claramente: que la acción se perfeccione siguiendo el ejemplo de mi Pasión, pero que la contemplación espere incoada hasta que en mi venida sea completada; espere, no simplemente permanezca, continúe, sino que espere su consumación en la venida de Cristo. Ahora bien, en esta vida de acción es verdad que cuanto más amamos a Cristo, más somos liberados del pecado; pero Él no nos ama como somos, nos libera del pecado, para que no permanezcamos siempre como somos, sino que nos ama más bien en cuanto a lo futuro, porque después no tendremos aquello que le desagrada, y de lo cual Él nos libera. Así pues, que Pedro le ame, para que seamos liberados de esta mortalidad; que Juan sea amado por Él, para que seamos preservados en aquella inmortalidad. Juan amó menos que Pedro, porque, como representaba aquella vida en la que somos mucho más amados, nuestro Señor dijo: Quiero que él permanezca (esto es, espere) hasta que yo venga; ya que ese amor mayor aún no lo tenemos, sino que esperamos tenerlo en su venida. Y este estado intermedio está representado por Pedro, que ama, pero es amado menos, pues Cristo nos ama menos en nuestra miseria que en nuestra bienaventuranza; y nosotros, a su vez, amamos la contemplación de la verdad tal como será entonces, menos en nuestro estado presente, porque aún ni la conocemos ni la tenemos. Pero que nadie separe a aquellos ilustres apóstoles; lo que Pedro representaba y lo que Juan representaba, ambos habían de serlo en algún momento.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "81c3c06815cc"
+ },
+ "hcf:Augustine of Hippo/John 21_22-23#1": {
+  "text_es": "Jesús le dice: ¿Qué a ti? Y luego repite: Sígueme tú, como si Juan no hubiera de seguirle, porque deseaba permanecer hasta que Él viniera. Entonces salió este dicho entre los discípulos, que aquel discípulo no moriría. ¿No era una inferencia natural de los discípulos? Pero Juan mismo desmiente tal noción: Y Jesús no le dijo: No morirá; sino: Si quiero que él permanezca hasta que yo venga, ¿qué a ti? Pero si alguno quiere, que contradiga y diga que es verdad lo que Juan dice, a saber, que nuestro Señor no dijo que aquel discípulo no moriría, sino que, no obstante, esto se significó al usar las palabras que Juan registra.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "aa1856eec0ef"
+ },
+ "hcf:Glossa Ordinaria/John 21_22#0": {
+  "text_es": "Quiero que él permanezca, esto es, no quiero que sufra el martirio, sino que espere la disolución tranquila de la carne, cuando yo venga y lo reciba en la bienaventuranza eterna.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "abf0ac57a875"
+ },
+ "hcf:John Chrysostom/John 21_22#1": {
+  "text_es": "Sin embargo, puesto que ahora iban a tener encomendado el cuidado del mundo, y no podían permanecer juntos sin perjuicio de su encargo, dice nuestro Señor: Si quiero que él permanezca hasta que yo venga, ¿qué a ti? como si dijera: Atiende a la obra que te ha sido encomendada, y hazla; si quiero que él permanezca aquí, ¿qué a ti?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5124f012fb8e"
+ },
+ "aquifer:19094": {
+  "text_es": "Lo que Jesús dijo a Pedro se difundió, haciendo que algunos concluyeran que Juan no moriría hasta que Jesús regresara en su segunda venida. Lo que Jesús dijo cuando reprendió a Pedro (21:22) se repite para responder a ese rumor. Así se instruyó a quienes entre la comunidad de creyentes creían este rumor para que abandonaran toda conjetura sobre lo que le sucedería a Juan. Según la tradición, Juan murió en paz en Éfeso a una edad avanzada, rodeado de sus hermanos en la fe.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a8defee069db"
+ },
+ "hcf:John Chrysostom/John 21_23#1": {
+  "text_es": "Y observa, te ruego, también aquí la ausencia de orgullo en el evangelista; pues habiendo mencionado la opinión de los discípulos, la corrige, como si ellos no hubieran comprendido lo que Jesús quería decir. «Jesús no dijo», nos dice, «que no moriría, sino: Si quiero que él permanezca».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ba1edc4428d5"
+ },
+ "aquifer:19095": {
+  "text_es": "⸢Este es el discípulo que da testimonio de estas cosas y que las ha escrito⸣: El Evangelio de Juan se basa en sus experiencias personales. No es un relato escrito a partir de rumores o conjeturas, sino de los recuerdos de un hombre que pasó años importantes con Jesús. Recordó, con la ayuda del Espíritu Santo, lo que Jesús dijo e hizo (14:26). ⸢sabemos⸣: Este relato de la vida de Cristo no fue una conjetura ni provenía de recuerdos débiles. Más bien, Juan lo basó en el conocimiento seguro de testimonios fiables de testigos oculares.",
+  "lemas_es": [
+   "sabemos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5579150dd3e6",
+  "lemas_rv1909": [
+   {
+    "lema": "sabemos",
+    "ref": "JHN.21.24"
+   }
+  ]
+ },
+ "hcf:John Chrysostom/John 21_24-25#0": {
+  "text_es": "Juan apela a su propio conocimiento de estos acontecimientos, habiendo sido testigo de ellos: Este es el discípulo que da testimonio de estas cosas. Cuando afirmamos algún hecho indudable en la vida común, no retenemos nuestro testimonio: mucho menos lo haría quien escribió por la inspiración del Espíritu Santo. (Hechos 2:32) Y así los otros apóstoles: Y nosotros somos testigos de estas cosas, y escribieron estas cosas. Juan es el único que apela a su propio testimonio; y lo hace porque fue el último que escribió. Y por esta razón menciona a menudo el amor de Cristo por él, esto es, para mostrar el motivo que lo llevó a escribir, y para dar peso a su historia. Y sabemos que su testimonio es verdadero. Estuvo presente en cada acontecimiento, incluso en la crucifixión, cuando nuestro Señor le encomendó a su madre; circunstancias que tanto muestran el amor de Cristo como su propia importancia como testigo. Pero si alguno no cree, considere lo que sigue: Y hay también muchas otras cosas que Jesús hizo. Si, habiendo tantas cosas que relatar, no he dicho tanto como los otros, y he seleccionado a menudo reproches y afrentas con preferencia a otras cosas, es evidente que no he escrito parcialmente. Quien quiere mostrar a otro bajo una luz favorable hace lo contrario, omite las partes deshonrosas.\n\n(Hom. lxxxviii) Esto se dice para mostrar el poder de Aquel que hizo los milagros; esto es, que le era tan fácil hacerlos como a nosotros hablar de ellos, viendo que es Dios sobre todas las cosas, bendito por siempre.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5c527443ccb0"
+ },
+ "aquifer:19096": {
+  "text_es": "⸢ni aun el mundo mismo tendría espacio para los libros⸣: Juan termina su Evangelio reconociendo que la historia que ha descrito es más grande que cualquier cosa que pueda imaginar o comunicar plenamente. Aunque es maravilloso para nosotros experimentarla, no muestra la gloria plena de la persona que describe. Juan quiere que sepamos que siempre hay más en Cristo de lo que podemos comprender.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7c8e456e8820"
+ },
+ "hcf:Augustine of Hippo/John 21_25#0": {
+  "text_es": "Las cuales, si se escribieran una por una, pienso que ni aun el mundo mismo podría contener los libros que se escribirían; no queriendo decir que el mundo no tuviera espacio para ellos, sino que la capacidad de los lectores no era lo bastante grande para contenerlos; aunque a veces las palabras mismas pueden exceder la verdad, y sin embargo ser verdadero lo que expresan; un modo de hablar que se usa no para explicar algo oscuro y dudoso, sino para magnificar o estimar algo claro; ni implica apartarse del camino de la verdad, en cuanto que el exceso de la palabra sobre la verdad es evidentemente solo una figura retórica, y no un engaño. Este modo de hablar los griegos lo llaman hipérbole, y se encuentra en otras partes de la Escritura.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d8e813e8d8fa"
+ },
+ "hcf:John Chrysostom/John 21_25#1": {
+  "text_es": "Y además, estuvo presente en todo, y no lo abandonó ni siquiera cuando era crucificado, y tuvo encomendada a su madre; todas las cuales cosas son señales de su amor por Él, y de que conocía todas las cosas exactamente. Y si ha dicho que habían tenido lugar tantos milagros, no te maravilles, sino que, considerando el poder inefable del que los hizo, recibe con fe lo que se dice. Pues le era tan fácil hacer cuanto quería como a nosotros hablar, o más bien mucho más fácil; porque bastaba que Él quisiera solamente, y todo seguía.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "481de4d5bd88"
+ }
+}

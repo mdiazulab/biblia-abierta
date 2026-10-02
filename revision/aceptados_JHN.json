@@ -1,0 +1,16 @@
+{
+ "aquifer:19229": {
+  "puntos": [
+   "2 números distintos"
+  ],
+  "motivo": "el inglés de Aquifer omite el número («the conflicts Jesus encountered in chapter continued»); la traducción lo repone («en el capítulo 7»): errata del original corregida, como manda la política del usuario",
+  "evidencia": "The debate about whether Jesus is the Messiah continues from 7:52. ... in chapter continued and intensified."
+ },
+ "hcf:Alcuin of York/John 6_14#0": {
+  "puntos": [
+   "juez"
+  ],
+  "motivo": "«(Luke 13:33)» no es error de la traducción: biblia.normalizar lo convierte a «(⸢Lucas⸣ 13:33)» en el EPUB (clase cubierta por el control «cita sin forma única»)",
+  "evidencia": "(Luke 13:33)"
+ }
+}

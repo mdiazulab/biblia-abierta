@@ -75,18 +75,20 @@ def glosario_para(texto):
 # ---------------------------------------------------------------- modelos
 
 def _deepseek(prompt, modelo, temperatura):
+    razona = "reasoner" in modelo          # el razonador cuenta su cadena en max_tokens; JSON se extrae del texto
     r = requests.post("https://api.deepseek.com/chat/completions",
                       headers={"Authorization": f"Bearer {os.environ['DEEPSEEK_API_KEY']}"},
                       json={"model": modelo, "messages": [{"role": "user", "content": prompt}],
-                            "temperature": temperatura, "max_tokens": 8000,
-                            "response_format": {"type": "json_object"}}, timeout=300)
+                            "temperature": temperatura, "max_tokens": 32000 if razona else 8000,
+                            **({} if razona else {"response_format": {"type": "json_object"}})}, timeout=600)
     r.raise_for_status()
     return r.json()["choices"][0]["message"]["content"]
 
 
 def _gemini(prompt, modelo, temperatura):
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent"
-    r = requests.post(url, params={"key": os.environ["GEMINI_API_KEY"]},
+    # clave en cabecera, nunca en la URL: los errores de requests imprimen la URL y terminan en los informes
+    r = requests.post(url, headers={"x-goog-api-key": os.environ["GEMINI_API_KEY"]},
                       json={"contents": [{"parts": [{"text": prompt}]}],
                             "generationConfig": {"temperature": temperatura, "responseMimeType": "application/json",
                                                  "maxOutputTokens": 16000}}, timeout=300)
@@ -107,7 +109,7 @@ def llamar(prompt, cadena, temperatura=0.2, intentos=3):
     """Prueba los modelos de la cadena en orden; devuelve (respuesta JSON parseada, modelo)."""
     if os.getenv("MODELO_FALSO"):
         return json.loads(_falso(prompt, "falso", temperatura)), "falso"
-    error = None
+    errores = {}
     for modelo in cadena:
         for k in range(intentos):
             try:
@@ -122,10 +124,21 @@ def llamar(prompt, cadena, temperatura=0.2, intentos=3):
                 m = re.search(r"\{.*\}", txt, re.S)
                 return json.loads(m.group(0)), modelo
             except Exception as e:  # noqa: BLE001 -- se reintenta y se pasa al siguiente modelo
-                error = e
-                time.sleep(4 * (k + 1))
-    raise RuntimeError(f"ningún modelo respondió ({cadena}): {error}")
+                errores[modelo] = _sin_claves(str(e))[:200]
+                time.sleep(15 * (k + 1) if "429" in str(e) or "503" in str(e) else 4 * (k + 1))
+    raise RuntimeError(f"ningún modelo respondió: {errores}")
+
+
+def _sin_claves(s):
+    """Quita cualquier clave de un mensaje antes de que llegue a un log o informe."""
+    for v in ("GEMINI_API_KEY", "DEEPSEEK_API_KEY"):
+        if os.getenv(v):
+            s = s.replace(os.environ[v], "***")
+    return re.sub(r"(?i)(key=|Bearer\s+)[\w.\-]+", r"\1***", s)
 
 
 TRADUCTOR = ["deepseek:deepseek-chat"]
-CONTROL = ["gemini-3.6-flash", "gemini-3.1-flash-lite", "gemini-2.5-flash"]
+# juez de otra familia que el traductor; si Gemini agota su cupo diario (02-10-2026, cap. 9 de Juan), sigue
+# deepseek-reasoner (de pago, sin cupo; mismo criterio que periodico_kindle/config.json "verificador2"): la
+# calibración con errores sembrados de cada capítulo mide si comparte puntos ciegos con el traductor
+CONTROL = ["gemini-3.6-flash", "gemini-3.1-flash-lite", "deepseek:deepseek-reasoner"]

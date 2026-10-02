@@ -636,10 +636,10 @@
   "huella": "6210cdbc1eb5"
  },
  "hcf:Cyril of Alexandria/John 1_51#0": {
-  "ok": false,
-  "motivo": "«one another» se tradujo como «a otro» en lugar de «unos a otros» o «entre sí», alterando el sentido del argumento.",
+  "ok": true,
+  "motivo": null,
   "modelo": "gemini-3.6-flash",
-  "huella": "a28ee99c7f56"
+  "huella": "c376b072e9b0"
  },
  "hcf:Glossa Ordinaria/John 1_28#0": {
   "ok": true,
@@ -889,9 +889,9 @@
  },
  "hcf:Origen of Alexandria/John 1_26-27#0": {
   "ok": true,
-  "motivo": null,
+  "motivo": "Traducción fiel y completa.",
   "modelo": "gemini-3.6-flash",
-  "huella": "afced689cdd0"
+  "huella": "b87e3814f38b"
  },
  "hcf:Origen of Alexandria/John 1_28#0": {
   "ok": true,
@@ -931,9 +931,9 @@
  },
  "hcf:Origen of Alexandria/John 1_5#0": {
   "ok": true,
-  "motivo": null,
+  "motivo": "Traducción fiel y completa.",
   "modelo": "gemini-3.6-flash",
-  "huella": "8c0d8e19f01c"
+  "huella": "cf11b288d7b7"
  },
  "hcf:Origen of Alexandria/John 1_7#1": {
   "ok": true,
@@ -979,9 +979,9 @@
  },
  "hcf:Theophylact of Ohrid/John 1_15#0": {
   "ok": true,
-  "motivo": null,
+  "motivo": "Traducción fiel y completa.",
   "modelo": "gemini-3.6-flash",
-  "huella": "6a76c5bfb4b6"
+  "huella": "cd60d6ea8c61"
  },
  "hcf:Theophylact of Ohrid/John 1_19#0": {
   "ok": true,
@@ -1003,9 +1003,9 @@
  },
  "hcf:Theophylact of Ohrid/John 1_29#0": {
   "ok": true,
-  "motivo": "",
+  "motivo": "Traducción fiel y completa.",
   "modelo": "gemini-3.6-flash",
-  "huella": "3bfff670555f"
+  "huella": "7eb6eaee34a8"
  },
  "hcf:Theophylact of Ohrid/John 1_3#0": {
   "ok": true,
@@ -1084,5 +1084,11 @@
   "motivo": null,
   "modelo": "gemini-3.6-flash",
   "huella": "29b6d7c060b1"
+ },
+ "hcf:John Chrysostom/John 1_40#0": {
+  "ok": true,
+  "motivo": "Traducción fiel y completa.",
+  "modelo": "gemini-3.6-flash",
+  "huella": "994adf7340a3"
  }
 }

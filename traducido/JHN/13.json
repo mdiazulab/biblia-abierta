@@ -1,0 +1,674 @@
+{
+ "aquifer:18901": {
+  "text_es": "Esta sección se centra en la señal de la cruz, el gran clímax de la vida de Jesús, así como en el tiempo que Jesús dedicó a preparar a sus discípulos para ella (capítulos 13–17). Cada acontecimiento durante estos importantes días glorificó a Jesús. Su arresto, juicio, muerte en la cruz y resurrección provocan todas ellas respuestas de asombro. En la cruz, Jesús es «levantado» en gloria ante el mundo (12:32).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f84189765b44",
+  "text_es_2": "Esta sección se centra en la señal de la cruz, el gran clímax de la vida de Jesús, así como en el tiempo que Jesús pasó preparando a sus discípulos para ella (capítulos 13–17). Cada acontecimiento durante estos días tan importantes glorificó a Jesús. Su arresto, juicio, muerte en la cruz y resurrección provocan respuestas de asombro. En la cruz, Jesús es «levantado» en gloria ante el mundo (12:32).",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "aquifer:18902": {
+  "text_es": "El escenario es la última cena de Pascua de Jesús, el jueves por la noche. Durante esta cena, Judas Iscariote traiciona a Jesús. Juan no describe la cena en sí como lo hacen los Evangelios Sinópticos (Mateo 26:17–29; Marcos 14:12–25; Lucas 22:7–20; véase también I Corintios 11:23–26). Juan se centra en otras actividades del acontecimiento, tales como: el lavamiento de los pies (Juan 13:1–17), la traición de Judas (13:18–30) y la predicción de las negaciones de Pedro (13:31–38).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fef3a4960b89"
+ },
+ "hcf:Augustine of Hippo/John 13_1#0": {
+  "text_es": "Pascha no es una palabra griega, como algunos piensan, sino hebrea; aunque hay una notable coincidencia de las dos lenguas en ella. Siendo la palabra griega para padecer πασχεῖν, se ha pensado que pascha significa pasión, como derivada de la palabra anterior. Pero en hebreo, pascha es un paso; la fiesta deriva su nombre del paso del pueblo de Dios por el Mar Rojo hacia Egipto. Todo estaba ahora por suceder en realidad, de lo cual aquella pascua era el tipo. Cristo fue llevado como un cordero al matadero; cuya sangre rociada sobre nuestros postes de las puertas, esto es, cuya señal de la cruz marcada en nuestras frentes, nos libra del dominio de este mundo, como de la esclavitud de Egipto. Y realizamos un viaje o paso sumamente saludable, cuando pasamos del diablo a Cristo, de este mundo inestable a su reino seguro. De este modo el Evangelista parece interpretar la palabra: Cuando Jesús supo que había llegado su hora de pasar de este mundo al Padre. Esta es la pascha, este es el paso.\n\n(Tr. lv. 2) Los amó hasta el fin, esto es, para que también ellos mismos pasaran de este mundo, por amor, a Él, su cabeza. Pues ¿qué es hasta el fin, sino hasta Cristo? (Rom. 10:4) Porque el fin de la ley es Cristo, para justicia a todo aquel que cree. Pero estas palabras pueden entenderse a la manera humana, en el sentido de que Cristo amó a los suyos hasta su muerte. Pero Dios no permita que Él pusiera fin a su amor con la muerte, quien no tiene fin por la muerte; excepto ciertamente que lo entendamos así: Amó a los suyos hasta la muerte, esto es, su amor por ellos lo llevó a la muerte.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "48ba1a3371ca"
+ },
+ "hcf:Bede/John 13_1#1": {
+  "text_es": "Los judíos tenían muchas fiestas, pero la principal era la pascua; y por eso se dice particularmente: Antes de la fiesta de la pascua.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "09a22defd61c"
+ },
+ "hcf:Theophylact of Ohrid/John 13_1#1": {
+  "text_es": "Nuestro Señor, estando a punto de partir de esta vida, muestra su gran cuidado por sus discípulos: Ahora, antes de la fiesta de la Pascua, cuando Jesús supo que había llegado su hora de pasar de este mundo al Padre, habiendo amado a los suyos que estaban en el mundo, los amó hasta el fin.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2e57a393843f"
+ },
+ "aquifer:18914": {
+  "text_es": "⸢Judas … Iscariote⸣: Se había negado a confiar en Jesús. Las tinieblas lo consumieron y se convirtió en instrumento del diablo (compárese la nota de estudio sobre 12:39–40).",
+  "lemas_es": [
+   "Judas … Iscariote"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ab7eec860441",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "JHN.13.2"
+   }
+  ]
+ },
+ "hcf:Augustine of Hippo/John 13_2#0": {
+  "text_es": "Y habiendo sido hecha la cena, esto es, habiendo sido preparada y puesta en la mesa delante de ellos; no habiendo sido consumida y terminada; pues fue durante la cena cuando se levantó y lavó los pies de sus discípulos; como después de esto se sentó de nuevo a la mesa y dio el bocado al traidor. Lo que sigue: Habiendo ya el diablo puesto en el corazón de Judas Iscariote, hijo de Simón, que le entregase, se refiere a una sugerencia secreta, no hecha al oído, sino a la mente; siendo las sugerencias del diablo parte de nuestros propios pensamientos. Judas, pues, había ya concebido, por instigación diabólica, la intención de traicionar a su Maestro.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e457b08f4513"
+ },
+ "hcf:John Chrysostom/John 13_2#0": {
+  "text_es": "«Y acabada la cena, habiendo ya el diablo puesto en el corazón de Judas que le entregase.»\n\nEsto lo ha dicho el Evangelista asombrado, mostrando que Jesús lavó al hombre que ya había elegido traicionarlo. Esto también prueba su gran maldad, que ni siquiera el haber compartido la sal lo contuvo (cosa que es muy capaz de contener la maldad), ni el hecho de que incluso hasta el último día su Maestro siguiera soportándolo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "49c3663eb0b3"
+ },
+ "hcf:Augustine of Hippo/John 13_3#0": {
+  "text_es": "Estando el Evangelista a punto de relatar tan gran ejemplo de la humildad de nuestro Señor, nos recuerda primero su naturaleza excelsa: sabiendo que el Padre había dado todas las cosas en sus manos, sin exceptuar al traidor.\n\n(Tr. lv. 5) Sabiendo también que había venido de Dios y que iba a Dios; no que dejara a Dios cuando vino, o que nos dejará cuando regrese.\n\n(Tr. lv. 6) Puesto que el Padre había dado todas las cosas en sus manos, no lavó las manos de sus discípulos, sino sus pies; y puesto que sabía que había venido de Dios y que iba a Dios, realizó la obra no de Dios y Señor, sino de un hombre y siervo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f09a3a7713a7"
+ },
+ "hcf:Gregory the Dialogist/John 13_3#0": {
+  "text_es": "Sabía que tenía incluso a sus perseguidores en su mano, para convertirlos de la malicia al amor hacia Él.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a6380ec15f8b"
+ },
+ "hcf:Origen of Alexandria/John 13_3#1": {
+  "text_es": "El Padre ha dado todas las cosas en sus manos; esto es, en su poder; pues sus manos sostienen todas las cosas; o a Él, para su obra: Mi Padre hasta ahora obra, y yo obro. (Juan 5:17)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "de376e390b29"
+ },
+ "hcf:Theophylact of Ohrid/John 13_3-5#0": {
+  "text_es": "Habiendo el Padre entregado todas las cosas en sus manos, esto es, habiéndole entregado la salvación de los fieles, consideró justo mostrarles todas las cosas que pertenecían a su salvación; y les dio una lección de humildad, lavando los pies de sus discípulos. Aunque sabía que era de Dios y que iba a Dios, no pensó que de ningún modo le quitaba gloria el lavar los pies de sus discípulos; demostrando así que no usurpó su grandeza. Pues los usurpadores no condescienden, por temor de perder lo que han obtenido irregularmente.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b23de0bec717"
+ },
+ "aquifer:18921": {
+  "text_es": "El lavamiento de los pies era común en las culturas griega y judía como rutina diaria. También era un gesto común al recibir huéspedes (véase Lucas 7:36–50). Era una tarea humilde designada para los siervos. Cuando Jesús comenzó a lavar los pies de los discípulos⸢,⸣ asumió el papel de siervo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b3c1ca88d44b"
+ },
+ "hcf:Augustine of Hippo/John 13_4-5#0": {
+  "text_es": "Se quitó sus vestiduras, cuando, estando en la forma de Dios, se anonadó a sí mismo; se ciñó con una toalla, tomó la forma de siervo; echó agua en un lebrillo, con la cual lavó los pies de sus discípulos. Derramó su sangre sobre la tierra, con la cual lavó la inmundicia de sus pecados; los secó con la toalla con que estaba ceñido; con la carne con que estaba vestido, estableció los pasos de los Evangelistas; se quitó sus vestiduras, para ceñirse con la toalla; para tomar sobre sí la forma de siervo, se anonadó a sí mismo, no dejando ciertamente lo que tenía, sino asumiendo lo que no tenía. Antes de ser crucificado, fue despojado de sus vestiduras, y cuando estuvo muerto fue envuelto en lienzos: toda su pasión es nuestra limpieza.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3fdb7e42fdd9"
+ },
+ "hcf:Origen of Alexandria/John 13_4-5#0": {
+  "text_es": "Místicamente, la comida es la primera comida, tomada temprano en el día espiritual, y adaptada a quienes acaban de entrar en este día. La cena es la última comida, y se pone delante de los que están más avanzados. Según otro sentido, la comida es la comprensión del Antiguo Testamento, la cena la comprensión de los misterios ocultos en el Nuevo. Sin embargo, incluso los que cenan con Jesús, los que participan de la comida final, necesitan cierta lavadura, no ciertamente de las partes superiores de su cuerpo, esto es, del alma, sino de sus partes inferiores y extremidades, que necesariamente se adhieren a la tierra. (c. 4.). Es: Y comenzó a lavar; pues no terminó su lavamiento hasta después. Los pies de los Apóstoles estaban manchados entonces: Todos vosotros seréis escandalizados por causa de mí esta noche. (Mat. 26:31) Pero después los limpió, de modo que no necesitaron más limpieza.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "351f426624a5"
+ },
+ "hcf:Augustine of Hippo/John 13_6#0": {
+  "text_es": "¿Qué significa: Tú y mis pies? Es mejor pensarlo que decirlo; no sea que uno falle al explicar adecuadamente lo que podría haber sido rectamente concebido.\n\nO así: No debemos suponer que Pedro tuvo miedo y se negó, cuando los demás se sometieron voluntaria y gozosamente al lavamiento. Nuestro Señor no pasó primero por los demás, y después por el primero de los Apóstoles (pues ¿quién ignora que el bendito Pedro fue el primero de todos los Apóstoles?), sino que comenzó con él; y Pedro, siendo el primero a quien se acercó, tuvo miedo; como ciertamente cualquiera de los demás lo habría tenido.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7bd5b369cfeb"
+ },
+ "hcf:Theophylact of Ohrid/John 13_6#0": {
+  "text_es": "Es claro que nuestro Señor no lavó primero a Pedro, pero ninguno de los otros discípulos habría intentado ser lavado antes que él.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "38599914336f"
+ },
+ "hcf:Augustine of Hippo/John 13_7#0": {
+  "text_es": "Respondió Jesús y le dijo: Lo que yo hago, tú no lo entiendes ahora; pero lo entenderás después.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0ef0bf82d6c9"
+ },
+ "hcf:John Chrysostom/John 13_7-8#0": {
+  "text_es": "«Le dijo: Lo que yo hago, tú no lo entiendes ahora, pero lo entenderás después.»\n\nEsto es: «entenderás cuán grande es la ganancia de esto, el provecho de la lección, y cómo es capaz de guiarnos a toda humildad de ánimo». ¿Qué hace entonces Pedro? Todavía lo obstaculiza, y dice: «No me lavarás los pies jamás». «¿Qué haces, Pedro? ¿No recuerdas aquellas palabras anteriores? ¿No dijiste: 'Ten compasión de ti mismo', y no oíste en respuesta: 'Apártate de mí, Satanás'? ¿No estás ni siquiera así serenado, sino que aún eres vehemente?» «Sí», dice, «pues lo que se está haciendo es un gran asunto, y lleno de asombro». Entonces, puesto que hizo esto por amor excesivo, Cristo a su vez lo somete por el mismo medio; y como allí lo logró reprendiéndolo duramente, y diciendo: «Me eres tropiezo», así también aquí diciendo: «Si no te lavo, no tienes parte conmigo».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f6bdb2fb66b4"
+ },
+ "aquifer:18922": {
+  "text_es": "Sabiendo cuán comprometido estaba Pedro con Jesús, tiene sentido que protestara. Sin embargo, Jesús no solo estaba mostrando a Pedro cómo servir. Esto era una introducción simbólica del mayor sacrificio que Jesús haría en la cruz (13:7). Recibir la limpieza espiritual de Jesús es necesario para el discipulado. Si Pedro no podía aceptar este acto, no podía ser discípulo de Jesús.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b4ecad6a1a6f"
+ },
+ "hcf:Augustine of Hippo/John 13_8#0": {
+  "text_es": "No se negó, porque el acto de nuestro Señor estaba por encima de su comprensión, pero no podía soportar verlo inclinado a sus pies: Pedro le dice: No me lavarás los pies jamás; es decir, nunca lo permitiré: jamás equivale a nunca.\n\n(Tr. lvi. 2) Si no te lavare, dice, aunque solo iba a lavarle los pies, así como decimos: me pisas; aunque solo sea nuestro pie el pisado.\n\n(Tr. lvi. 2) Pero él, agitado por el temor y el amor, temía más ser negado por Cristo que verlo a sus pies: Simón Pedro le dice: Señor, no solo mis pies, sino también las manos y la cabeza.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1f2cf670f5c5"
+ },
+ "hcf:John Chrysostom/John 13_8-9#0": {
+  "text_es": "¿Qué dice entonces aquel ardiente y fogoso? «Señor, no solo mis pies, sino también las manos y la cabeza».\n\nVehemente en la súplica, se vuelve aún más vehemente en la aquiescencia; pero ambas cosas por amor. Pues ¿por qué no dijo por qué hacía esto, en lugar de añadir una amenaza? Porque Pedro no se habría persuadido. Pues si hubiera dicho: «Permítelo, porque con esto te persuado a ser humilde de mente», Pedro lo habría prometido diez mil veces, para que su Maestro no hiciera esto. Pero ahora ¿qué dice? Habla de aquello que Pedro más temía y temía: el ser separado de él; pues es él quien continuamente pregunta: «¿A dónde vas?». Por eso también dijo: «Daré incluso mi vida por ti». Y si, después de oír: «Lo que yo hago, tú no lo sabes ahora, pero lo sabrás después», aún persistía, mucho más lo habría hecho si hubiera aprendido (el significado de la acción). Por eso dijo: «pero lo sabrás después», sabiendo que, si lo aprendiera de inmediato, aún resistiría. Y Pedro no dijo: «Dímelo, para que te lo permita», sino (lo que era mucho más vehemente) ni siquiera soportó aprenderlo, sino que se le opone, diciendo: «Jamás me lavarás los pies». Pero tan pronto como amenazó, relajó inmediatamente su tono. Pero ¿qué significa: «Lo sabrás después de esto»? «¿Después de esto?» ¿Cuándo? «Cuando en mi Nombre hayas echado fuera demonios; cuando me hayas visto elevado al cielo, cuando hayas aprendido del Espíritu que yo estoy sentado a su diestra, entonces entenderás lo que ahora se hace».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9ee91b34aab5"
+ },
+ "aquifer:18923": {
+  "text_es": "⸢también mis manos y mi cabeza⸣: Pedro malinterpretó a Jesús (compárese 2:19–20; 3:3–4). Pedro pensaba que tener más agua significaba tener más de Jesús. Todo se volvió evidente para Pedro solo cuando recibió el Espíritu Santo (por ejemplo, véase Hechos 2:14–36).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "de6accf6d179"
+ },
+ "hcf:Augustine of Hippo/John 13_9#0": {
+  "text_es": "Pues cuando, aterrado ante la idea de perder parte en Cristo, «Simón Pedro le dice: Señor, no solo mis pies, sino también las manos y la cabeza». Ya que, entonces, me amenazas con la pérdida de una parte en ti, a menos que me someta al lavado de mis pies, no me prives de tal bendición, y no me des solo los pies para ser lavados, sino las manos y la cabeza. Pero «Jesús le dice: El que está lavado no necesita sino lavarse los pies, pues está todo limpio». Aquí surge naturalmente la pregunta: ¿cómo, si un hombre está lavado y todo limpio, tiene alguna necesidad de que le laven los pies?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "10b36de0a9e7"
+ },
+ "aquifer:18903": {
+  "text_es": "Jesús apuntaba a una limpieza más profunda mediante su sacrificio.\n\nNo hablaba solo de lavar el cuerpo. Hablaba de ser hecho limpio de manera completa.\n\nMediante su muerte, hace limpia a una persona por completo. Esto significa perdón del pecado y una relación restaurada con Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "dd6c076df43c"
+ },
+ "hcf:Augustine of Hippo/John 13_10#0": {
+  "text_es": "Limpio todo excepto los pies. Todo el hombre es lavado en el bautismo, sin exceptuar sus pies; pero al vivir después en el mundo, pisamos la tierra. Aquellos afectos humanos, pues, sin los cuales no podemos vivir en este mundo, son, por así decirlo, nuestros pies, que nos conectan con las cosas humanas, de modo que si decimos que no tenemos pecado, nos engañamos a nosotros mismos. (1 Juan 1:8) Pero si confesamos nuestros pecados, aquel que lavó los pies de los discípulos nos perdona nuestros pecados hasta nuestros pies, con los cuales tenemos trato con la tierra.\n\n(Ad. Seleuc. Ep. c. viii.) De lo que aquí se dice, entendemos que Pedro ya estaba bautizado. En efecto, que él bautizara por medio de sus discípulos muestra que sus discípulos debían haber sido bautizados, ya con el bautismo de Juan, ya, lo que es más probable, con el de Cristo. Bautizó por medio de siervos bautizados; pues no rechazó el ministerio de bautizar quien tuvo la humildad de lavar los pies.\n\n(Tr. lvi. 4) O bien, los discípulos, una vez lavados, solo tenían que lavarse los pies; porque mientras el hombre vive en este mundo, se mancha con la tierra, por medio de sus afectos humanos, que son, por así decirlo, sus pies.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ba2a5ac837b5"
+ },
+ "hcf:John Chrysostom/John 13_10-11#0": {
+  "text_es": "«El que está lavado no necesita sino lavarse los pies, pues está todo limpio; y vosotros limpios estáis, pero no todos. Porque sabía quién le había de entregar».\n\n«Y si están limpios, ¿por qué les lava los pies?» Para que aprendamos a ser modestos. Por eso no se acercó a ninguna otra parte del cuerpo, sino a la que se considera más deshonrosa que el resto. Pero ¿qué es «el que está lavado»? Equivale a «el que está limpio». ¿Estaban entonces limpios, quienes aún no habían sido librados de sus pecados, ni considerados dignos del Espíritu, ya que el pecado aún tenía el dominio, la escritura de la maldición aún permanecía, y la víctima aún no había sido ofrecida? ¿Cómo entonces los llama «limpios»? Para que no los consideres limpios como librados de sus pecados, añade: He aquí, «ya vosotros estáis limpios por la palabra que os he hablado». Es decir: «De este modo estáis hasta cierto punto limpios; habéis recibido la luz, habéis sido librados del error judío. Pues también el Profeta dice: 'Lavaos, limpiaos, quitad la maldad de vuestras almas'; de modo que tal persona está lavada y está limpia». Puesto que, entonces, estos hombres habían desechado toda maldad de sus almas, y habían acompañado a Cristo con mente pura, por eso dice conforme a la palabra del Profeta: «el que está lavado ya está limpio». Pues también allí no significa el «lavado» de agua practicado por los judíos, sino la limpieza de la conciencia.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "92d164109e94"
+ },
+ "hcf:Augustine of Hippo/John 13_11#0": {
+  "text_es": "Y vosotros limpios estáis, pero no todos: lo que esto significa lo explica inmediatamente el Evangelista: Porque sabía quién le había de entregar; por eso dijo: No estáis todos limpios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d40bdbf490cd"
+ },
+ "hcf:Cyril of Alexandria/John 13_11#0": {
+  "text_es": "Pues aunque sabía muy bien que Judas no tenía ningún sentimiento bondadoso ni consideración sabia hacia su Maestro, sino que estaba lleno del veneno de la amargura diabólica y ya entonces tramaba los medios para efectuar la traición, lo honró en la misma medida que a los demás, y lavó también sus pies, mostrando continuamente las marcas de su propio amor, y no desatando su ira hasta haber intentado todo tipo de amonestación. Pues puedes percibir cómo esta característica especial también es propia de la Naturaleza Divina. Porque aunque Dios sabe lo que va a suceder, no precipita su castigo sobre ningún hombre: sino que, después de soportar al culpable durante el tiempo necesario máximo, cuando ve que no se benefician en modo alguno, sino que permanecen en sus caminos malvados autoescogidos, entonces por fin los castiga; mostrando que es el resultado real de su perversa necedad, y no realmente un efecto de su propio consejo o de su voluntad. Por ejemplo, Ezequiel dice por esta razón: Vivo yo, dice el Señor, que no deseo la muerte del que muere, sino más bien que se convierta de su mal camino y viva. Por lo tanto, con longanimidad y paciencia nuestro Señor Jesucristo sigue tratando al traidor igual que a sus otros discípulos, aunque el diablo ya había puesto en su corazón entregarlo (pues esto también el Evangelista se vio obligado a señalarlo al comienzo de la narración); y lava sus pies, haciendo así su conducta impía absolutamente inexcusable, de modo que su apostasía pudiera verse como fruto de la maldad que había en él.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "15122e156cda"
+ },
+ "hcf:Alcuin of York/John 13_12#0": {
+  "text_es": "Místicamente, cuando en nuestra redención fuimos cambiados por el derramamiento de su sangre, tomó de nuevo sus vestiduras, resucitando del sepulcro al tercer día, y revestido del mismo cuerpo ahora inmortal, ascendió al cielo, y se sienta a la diestra del Padre, desde donde vendrá a juzgar al mundo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3f499d66a930"
+ },
+ "hcf:Augustine of Hippo/John 13_12#0": {
+  "text_es": "Nuestro Señor, mindful de su promesa a Pedro de que conocería el significado de su acto, «Lo sabrás después», ahora comienza a enseñarle: Así que, después que les hubo lavado los pies, y tomado sus vestiduras, y se hubo sentado de nuevo, les dijo: ¿Sabéis lo que os he hecho?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c57a14d92d8f"
+ },
+ "hcf:Bede/John 13_12#0": {
+  "text_es": "Nuestro Señor primero hizo una cosa, luego la enseñó: como se dice: Jesús comenzó a hacer y a enseñar. (Hechos 1:1)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e1d27fd26918"
+ },
+ "hcf:Theophylact of Ohrid/John 13_12-17#0": {
+  "text_es": "Esta era una amonestación necesaria para los Apóstoles, algunos de los cuales estaban a punto de ascender a grados más altos, otros a grados más bajos de eminencia. Para que ninguno se jactara sobre otro, cambia los corazones de todos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "eead0b03a0d4"
+ },
+ "hcf:Augustine of Hippo/John 13_13#0": {
+  "text_es": "Se ordena en los Proverbios: Alábete otro, y no tu propia boca. (Prov. 27:2.) Pues es peligroso que uno se alabe a sí mismo, quien debe guardarse de la soberbia. Pero aquel que está por encima de todas las cosas, por mucho que se alabe a sí mismo, no se ensalza demasiado. Ni puede Dios ser llamado arrogante: pues que nosotros lo conozcamos no es ganancia para él, sino para nosotros. Ni puede nadie conocerlo, a menos que quien lo conoce se muestre a sí mismo. De modo que si, para evitar la arrogancia, no se alabara a sí mismo, nos estaría negando la sabiduría. Pero ¿por qué la Verdad habría de temer la arrogancia? A que se llame a sí mismo Maestro, nadie podría objetar, incluso si fuera solo hombre, ya que los profesores de distintas artes se llaman así sin presunción. Pero ¿qué hombre libre puede soportar el título de señor en un hombre? Sin embargo, cuando Dios habla, la altura no puede exaltarse, la verdad no puede mentir; a nosotros nos corresponde someternos a esa altura, obedecer a esa verdad. Por eso decís bien al llamarme Maestro y Señor, pues lo soy; pero si yo no fuera lo que decís, diríais mal.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bb72c64f46cd"
+ },
+ "hcf:Cyril of Alexandria/John 13_13#0": {
+  "text_es": "Pues Cristo no posee el título de Señor como un vano nombre de honor, a la manera que nosotros mismos, aunque permanecemos por naturaleza simples siervos, somos adornados por favor de otros con títulos que superan nuestra naturaleza y mérito; sino que Él es por naturaleza «Señor», poseyendo autoridad sobre el universo como Dios; acerca de quien se dice en algún lugar por voz del salmista: Porque todas las cosas te sirven. Y es por naturaleza también «Maestro» [o «Doctor»], pues toda sabiduría viene del Señor, y por Él viene toda inteligencia. Pues en cuanto que Él es sabiduría, hace sabios a todos los seres inteligentes, y en toda criatura racional, tanto en el cielo como en la tierra, implanta la inteligencia que le es propia. Pues así como, siendo Él mismo por naturaleza Vida, vivifica todas las cosas capaces de recibir vida; así también, puesto que Él es la sabiduría del Padre, otorga a todos los dones de la sabiduría, a saber, el conocimiento y la percepción de todo bien. Por naturaleza, por tanto, el Hijo es Señor y Maestro de todas las cosas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a89593d371f2"
+ },
+ "aquifer:18904": {
+  "text_es": "Jesús realizó actos de humilde servicio, como lavar los pies de sus discípulos y entregar su vida en la cruz. Al hacer esto, dejó un ejemplo para que otros lo siguieran. Mostró que la verdadera grandeza se expresa mediante el amor, el servicio y el sacrificio personal por los demás.⸢lavaos los pies unos a otros⸣: El lavado de pies era un acto común en aquella cultura. Por esto, algunos piensan que Jesús quiso que sus seguidores repitieran esta acción de manera literal. Otros creen que la usó como símbolo del humilde servicio.\n\nEn cualquier caso, el punto principal es claro. Jesús quiere que sus seguidores sirvan a los demás con humildad y amor abnegado. El servicio y el sacrificio deben caracterizar sus vidas.",
+  "lemas_es": [
+   "lavaos los pies unos a otros"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cecdea2b4e36",
+  "lemas_rv1909": [
+   {
+    "lema": "los pies los unos a los otros",
+    "ref": "JHN.13.14"
+   }
+  ]
+ },
+ "hcf:Augustine of Hippo/John 13_14-15#0": {
+  "text_es": "Esto es, bienaventurado Pedro, lo que ignorabas; esto se te dijo que habrías de saber después.\n\n(Tr. lviii. 4) Muchos realizan este acto literalmente, cuando se reciben unos a otros en hospitalidad. Pues sin duda es mejor que se haga con las manos, y que el cristiano no desdeñe hacer lo que Cristo hizo. Porque cuando el cuerpo se inclina a los pies de un hermano, el sentimiento de humildad se hace surgir en el corazón, o, si ya está allí, se confirma. Pero además de este significado moral, ¿no puede un hermano cambiar a un hermano de la contaminación del pecado? Confesemos nuestras faltas unos a otros, perdonemos las faltas unos de otros, oremos por las faltas unos de otros. De este modo nos lavaremos los pies unos a otros.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "84db203e426c"
+ },
+ "hcf:John Chrysostom/John 13_14-15#2": {
+  "text_es": "Pero ¿por qué ha hecho esto «ahora»? Ellos habían de gozar en el futuro, algunos de mayor, algunos de menor honor. Para que, entonces, no se exaltaran unos sobre otros, y dijeran como antes: «¿Quién es el mayor?», ni se enojaran unos contra otros, Él derriba los altos pensamientos de todos ellos, diciendo que «aunque seas muy grande, no debes tener altos pensamientos hacia tu hermano». Y no mencionó la acción mayor, esto es, que «si yo he lavado los pies del traidor, ¿qué gran cosa es si vosotros los unos de los otros?», sino que, habiendo ejemplificado esto con hechos, lo dejó luego al juicio de los espectadores.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cae74965aced"
+ },
+ "aquifer:18905": {
+  "text_es": "⸢el siervo no es mayor que su señor⸣: Este dicho era popular y aparece en varios pasajes (véase también 15:20; Mateo 10:24; Lucas 6:40). Aquí, Jesús quiso decir que el siervo debe seguir el ejemplo de sacrificio del maestro.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9f3064f97e52"
+ },
+ "hcf:Augustine of Hippo/John 13_16#0": {
+  "text_es": "Acabamos de oír en el santo Evangelio al Señor hablando y diciendo: «De cierto, de cierto os digo: El siervo no es mayor que su señor, ni el apóstol es mayor que el que le envió: si sabéis estas cosas, bienaventurados seréis si las hiciereis». Dijo esto, por tanto, porque había lavado los pies de los discípulos, como Maestro de humildad tanto por palabra como por ejemplo. Pero podremos, con su ayuda, tratar lo que necesita un tratamiento más elaborado, si no nos detenemos en lo que es perfectamente claro.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "65c1582a33cd"
+ },
+ "hcf:John Chrysostom/John 13_16#0": {
+  "text_es": "Lo que dijo antes, esto también lo dice aquí, para avergonzarlos: «Pues si el siervo no es mayor que su señor, ni el que es enviado mayor que el que le envió, y estas cosas han sido hechas por mí, mucho más deben ser hechas por vosotros». Luego, para que nadie dijera: «¿Por qué dices ahora estas cosas? ¿No las sabemos ya?», añade esto mismo: «No os hablo como a quienes no saben, sino para que por vuestras acciones mostréis las cosas de que se habla». Pues «saber» pertenece a todos; pero «hacer», no a todos. Por esto dijo: «Bienaventurados seréis si las hiciereis»; y por esto yo os digo continua y siempre lo mismo, aunque lo sabéis, para poneros a la obra. Pues incluso los judíos «saben», pero no son «bienaventurados»; porque no hacen lo que saben.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "292ae1bb2762"
+ },
+ "hcf:Bede/John 13_17#0": {
+  "text_es": "Saber lo que es bueno, y no hacerlo, no conduce a la felicidad, sino a la condenación; como dice Santiago: Al que sabe hacer lo bueno, y no lo hace, le es pecado (Santiago 4:17). Por lo cual añade: Si sabéis estas cosas, bienaventurados seréis si las hiciereis.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "dc943d0ce9f2"
+ },
+ "hcf:John Chrysostom/John 13_17-18#0": {
+  "text_es": "Pues todos saben, pero no todos hacen. Luego reprende al traidor, no abiertamente, sino encubiertamente: No hablo de todos vosotros.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "831d337515b2"
+ },
+ "hcf:John Chrysostom/John 13_17-20#0": {
+  "text_es": "Como los discípulos estaban a punto de salir y de sufrir muchas cosas, los consuela prometiendo su propia asistencia y la de otros; la suya, cuando dice: Bienaventurados seréis si las hiciereis; la de otros, en lo que sigue: De cierto, de cierto os digo: El que recibe a quien yo enviare, me recibe a mí; y el que me recibe a mí, recibe al que me envió.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "95df3db315f6"
+ },
+ "aquifer:18906": {
+  "text_es": "⸢No hablo de todos vosotros⸣: Esta es la tercera vez que Jesús menciona que Judas lo traicionará (13:2, 11). Este asunto «turbó» profundamente a Jesús (13:21). ⸢Yo sé a quiénes he elegido⸣: Esto no significa que Jesús eligió solo a los 11 discípulos y excluyó a Judas. Jesús eligió a Judas y le dio toda oportunidad de creer. Se dio cuenta de que Judas había elegido las tinieblas en lugar de la luz (6:70).⸢El que come mi pan ha alzado contra mí su calcañar⸣: Comer juntos era un símbolo cultural de intimidad personal, lo que hacía la traición de Judas aún más grave.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a0ca67ee364b"
+ },
+ "hcf:Augustine of Hippo/John 13_18#1": {
+  "text_es": "Como si dijera: Hay uno entre vosotros que no será bienaventurado, ni hace estas cosas. Yo sé a quiénes he elegido. ¿A quiénes, sino a los que serán bienaventurados cumpliendo sus mandamientos? Judas, por tanto, no fue elegido. Pero si es así, ¿por qué dice en otro lugar: No os he elegido yo a vosotros doce? Porque Judas fue elegido para aquello para lo cual era necesario, pero no para aquella felicidad de la que dice: Bienaventurados seréis, si las hiciereis.\n\n(Tr. lix. 1) Ha alzado contra mí su calcañar, esto es, me ha pisoteado. Se refiere al traidor Judas.\n\n(Tr. lix. 1) Entonces los que fueron elegidos comieron al Señor; él comió el pan del Señor, para injuriar al Señor; ellos comieron vida, él condenación; pues el que come indignamente, come condenación para sí mismo. (1 Cor. 11:27)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "00b77ccbc693"
+ },
+ "hcf:John Chrysostom/John 13_18#1": {
+  "text_es": "Pero habiendo dicho: «No hablo de todos vosotros», para no infundir temor a más de uno, al fin separa al traidor, hablando así: «El que come pan conmigo». Pues el «no de todos vosotros» no dirige las palabras a uno solo, por lo que añadió: «El que come pan conmigo»; mostrando a aquel miserable que no fue sorprendido por ignorancia, sino con pleno conocimiento; cosa que de por sí era lo más apto para refrenarlo. Y no dijo: «me traiciona», sino: «ha alzado contra mí su calcañar», queriendo representar el engaño, la traición, el secreto de la conspiración.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0abb06f5c473"
+ },
+ "aquifer:18907": {
+  "text_es": "La traición de Judas no sorprendió a Jesús. Tampoco debería sorprender a sus discípulos cuando ocurra. ⸢que yo soy⸣: Al usar la frase ⸢yo soy⸣, Jesús se identificó claramente con el Dios del Antiguo Testamento. Véase Éxodo 3:14.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a51ed1a0419f"
+ },
+ "hcf:Augustine of Hippo/John 13_19#1": {
+  "text_es": "Ahora os lo digo antes que suceda, para que cuando suceda, creáis que yo soy, esto es, de quien aquella Escritura profetizó.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a1e7e972cc92"
+ },
+ "hcf:Cyril of Alexandria/John 13_19#0": {
+  "text_es": "He sido llevado, dice, por razones muy urgentes a daros, incluso antes del tiempo, este relato de los acontecimientos que muy pronto sucederán. Pues agradará a los que me oyen, y no les traerá pequeña ventaja, si conocen mi propósito en el asunto. Porque ser temerariamente pródigo en el uso de palabras en disertaciones sin sentido es contrario a mi costumbre y placer; pero todo lo que parece estar cargado de no pequeña utilidad para vosotros, con tal que tengáis conocimiento de ello, esto me siento constreñido a instilarlo en vuestros oídos. Por tanto, desde ahora, dice, os digo cosas que están ya a las puertas, y implanto en vosotros el conocimiento de cosas aún no cumplidas; para que, cuando haya llegado el tiempo de su cumplimiento, podáis armonizar el desenlace final de los asuntos con las profecías pronunciadas por mí, y así creáis que yo soy Aquel de quien la Divina Escritura ha pronunciado tales oráculos. Al mismo tiempo, por tanto, nuestro Señor Jesucristo intenta sabiamente corregir al traidor, presentando su reprensión en una forma oculta bajo ligeras oscuridades, así como mostrar que el desenlace de la traición sería una señal segura y clarísima indicación del hecho de que Él es el Cristo. Pues, como ya hemos dicho por anticipado, cualquiera que comparara las declaraciones registradas desde antiguo en las sagradas Escrituras con los atrevidos hechos del traidor, percibiría, creo, muy clara y fácilmente que su interpretación en referencia a Él era cierta y muy evidentemente verdadera.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3eb413389813"
+ },
+ "hcf:Augustine of Hippo/John 13_20#0": {
+  "text_es": "Los arrianos, cuando oyen este pasaje, apelan de inmediato a las gradaciones de su sistema, sosteniendo que cuanto el Apóstol dista del Señor, tanto dista el Hijo del Padre. Pero nuestro Señor no nos ha dejado lugar a duda en este punto, pues dice: Yo y el Padre una cosa somos. (supr. 10:30) Pero ¿cómo hemos de entender aquellas palabras de nuestro Señor: El que a mí recibe, recibe al que me envió? Si las tomamos en el sentido de que el Padre y el Hijo son de una misma naturaleza, parecerá seguirse que, cuando dice: El que recibe a cualquiera que yo envíe, a mí recibe, el Hijo y un Apóstol son de una misma naturaleza. ¿No podría ser el sentido: El que recibe a cualquiera que yo envíe, a mí recibe, esto es, a mí como hombre; pero el que a mí recibe, esto es, como Dios, recibe al que me envió? Pero no es esta unidad de naturaleza la que aquí se presenta, sino la autoridad del que envía, representada por aquel que es enviado. En Pedro oye a Cristo, el Maestro del discípulo; en el Hijo, al Padre, el Engendrado del Unigénito.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cdeae0d0b397"
+ },
+ "hcf:John Chrysostom/John 13_20#0": {
+  "text_es": "Grande es la recompensa del cuidado dispensado a los siervos de Dios, y por sí misma nos rinde sus frutos. Pues dice: «El que a vosotros recibe, a mí recibe; y el que a mí recibe, recibe al que me envió». Ahora bien, ¿qué puede igualarse a recibir a Cristo y a su Padre? Pero ¿qué clase de conexión tiene esto con lo dicho antes? ¿Qué tiene en común con aquello que había dicho: «Si sabéis estas cosas, bienaventurados seréis», el añadir: «El que a vosotros recibe»? Una conexión estrecha y muy armoniosa. Observa cómo. Cuando estaban a punto de salir y de sufrir muchas cosas terribles, los consuela de dos maneras: una derivada de sí mismo, la otra derivada de los demás. Pues dice: «Si en verdad sois sabios, teniéndome siempre en mente y llevando sobre vosotros tanto lo que dije como lo que hice, fácilmente soportaréis cosas terribles. Y no solo de esta manera, sino también por disfrutar de gran atención de parte de todos los hombres». El primer punto lo declaró cuando dijo: «Si sabéis estas cosas, bienaventurados seréis»; el segundo cuando dijo: «El que a vosotros recibe, a mí recibe». Pues les abrió las casas de todos los hombres, de modo que tanto por la sana sabiduría de sus costumbres como por el celo de quienes habrían de atenderlos, tuvieran doble consuelo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f0b82cf1d231"
+ },
+ "aquifer:18908": {
+  "text_es": "Por tercera vez en el Evangelio de Juan, Jesús ⸢se conmovió⸣ (griego ⸢tarassō⸣; véase 11:33; 12:27). Cuando Judas traicionó a Jesús, le causó profunda aflicción.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2392d40fe3ba"
+ },
+ "hcf:Augustine of Hippo/John 13_21#0": {
+  "text_es": "Esto no le vino a la mente entonces por primera vez; sino que ahora estaba a punto de dar a conocer al traidor y de señalarlo entre los demás, y por eso se conmovió en espíritu. También el traidor estaba ya a punto de salir a ejecutar su propósito. Se conmovió al pensar que su Pasión estaba tan cerca, y ante los peligros a que sus fieles seguidores serían llevados por mano del traidor, que ya entonces se cernían sobre él. Nuestro Señor se dignó también conmoverse, para mostrar que los falsos hermanos no pueden ser cortados, ni aun en la más urgente necesidad, sin que la Iglesia se conmueva. (Tr. lxi. 1.). Se conmovió no en la carne, sino en el espíritu; pues ante escándalos de esta clase, el espíritu se conmueve, no perversamente, sino en amor, no sea que al separar la cizaña se arranque también algo del trigo. (Tr. lx. 5.). Pero ya fuera que se conmoviera por compasión hacia el que perecía, Judas, ya por la proximidad de su propia muerte, se conmovió no por debilidad de ánimo, sino con poder: no se conmovió porque algo lo obligara, sino que él mismo se conmovió, como se dijo arriba. Y en que se conmovió, consuela a los miembros débiles de su cuerpo, esto es, a su Iglesia, para que no se tengan por réprobos si se conmueven ante la proximidad de la muerte.\n\n(Tr. lx. 3) Lejos, pues, los razonamientos de los estoicos, que niegan que la perturbación del ánimo pueda sobrevenir al sabio; quienes, así como toman la vanidad por verdad, así hacen de su sana disposición de ánimo una insensibilidad. Es bueno que la mente del cristiano sea perturbada, no por la miseria, sino por la compasión. (lxi. 2). Uno de vosotros, dice, esto es, uno en cuanto al número, no en cuanto al mérito; en apariencia, no en virtud.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ff338d28f825"
+ },
+ "hcf:John Chrysostom/John 13_21#0": {
+  "text_es": "Nuestro Señor, después de su doble promesa de auxilio a los Apóstoles en sus futuros trabajos, recuerda que el traidor queda excluido de ambas, y se conmueve al pensarlo: Cuando Jesús hubo dicho esto, se conmovió en espíritu, y testificó, y dijo: De cierto, de cierto os digo, que uno de vosotros me ha de entregar.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2b839e63b557"
+ },
+ "hcf:Origen of Alexandria/John 13_21#0": {
+  "text_es": "Su conmoverse en espíritu era la parte humana, que sufría bajo el 1exceso de lo espiritual. Pues si todo santo vive, actúa y sufre en el espíritu, cuánto más es esto verdad de Jesús, el Galardonador de los santos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "267a5ed2bc35"
+ },
+ "hcf:Augustine of Hippo/John 13_22#0": {
+  "text_es": "Tenían un amor devoto por su Maestro, pero de tal modo que la debilidad humana les hacía dudar unos de otros.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c5b401f3cdb2"
+ },
+ "hcf:John Chrysostom/John 13_22#0": {
+  "text_es": "Como no lo mencionó por nombre, todos comenzaron a temer: Entonces los discípulos se miraban unos a otros, dudando de quién hablaba; no conscientes de ningún mal en sí mismos, y sin embargo confiando en las palabras de Cristo más que en sus propios pensamientos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7f14daff8071"
+ },
+ "hcf:Origen of Alexandria/John 13_22#0": {
+  "text_es": "Recordaban también que, como hombres, antes de estar maduros, sus mentes eran susceptibles de cambio, hasta formar deseos muy contrarios a los que antes pudieran haber tenido.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "13d1dedc8ae9"
+ },
+ "aquifer:18909": {
+  "text_es": "El discípulo a quien Jesús amaba aparece: en la cruz (19:26–27), en el sepulcro (20:2–9), y en la resurrección (21:1, 20–23). Él también escribió el Evangelio de Juan (21:24–25). Algunos eruditos creen que Lázaro era de hecho el discípulo a quien Jesús amaba (véase 11:3, 5, 36). La persona a la que aquí se hace referencia estaba entre los 12 apóstoles, por lo que la mayoría identifica al discípulo a quien Jesús amaba como el apóstol Juan. ⸢estaba recostado a su lado⸣: Probablemente estaban recostados en un ⸢triclinium,⸣ una mesa en forma de U con divanes alrededor. Los invitados se recostaban en los divanes, mientras que el centro permitía a los que servían acceder a ellos. Los que comían se apoyaban con el codo izquierdo y usaban la mano derecha para comer. Extendían los pies lejos de la mesa (compárese Lucas 7:38).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "845ce4b25fc6"
+ },
+ "hcf:Augustine of Hippo/John 13_23#0": {
+  "text_es": "Este es Juan, cuyo Evangelio es este, como él mismo declara después. Es costumbre de los escritores sagrados, cuando llegan a algo relacionado consigo mismos, hablar de sí como si hablaran de otro. Pues si el hecho mismo se relata correctamente, ¿qué pierde la verdad por la omisión de la jactancia por parte del escritor?\n\n(Tr. lxi. 6) Pues por seno ¿qué otra cosa se significa sino lo secreto? Aquí está la cavidad del pecho, la cámara secreta de la sabiduría.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2812f59f6c29"
+ },
+ "hcf:Bede/John 13_23#0": {
+  "text_es": "Que yaciera en el seno y sobre el pecho no era solo una evidencia del amor presente, sino también una señal de lo futuro, (non occ.). a saber, de aquellas doctrinas nuevas y misteriosas que después fue encargado de revelar al mundo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3a486ee083ef"
+ },
+ "hcf:John Chrysostom/John 13_23#0": {
+  "text_es": "Si quieres saber la causa de esta familiaridad, es el amor: A quien Jesús amaba. A otros amaba, pero a él lo amaba más que a ninguno.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e39331b34561"
+ },
+ "hcf:John Chrysostom/John 13_23-24#0": {
+  "text_es": "A quien Jesús amaba. Juan dice esto para mostrar su propia inocencia, y también por qué Pedro le hizo señas, ya que no era superior a Pedro: Simón Pedro entonces le hizo señas, para que preguntara quién era aquel de quien hablaba. Pedro acababa de ser reprendido, y por eso, refrenando la vehemencia habitual de su amor, no habló él mismo ahora, sino que hizo hablar a Juan por él. Siempre aparece en la Escritura como celoso y amigo íntimo de Juan.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "54d46bb77850"
+ },
+ "hcf:John Chrysostom/John 13_23-25#0": {
+  "text_es": "Mientras todos temblaban, y sin exceptuar siquiera a Pedro, su cabeza, Juan, como el discípulo amado, yacía sobre el pecho de Jesús. Él entonces, recostado sobre el pecho de Jesús, le dice: Señor, ¿quién es?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8de46590193f"
+ },
+ "hcf:Origen of Alexandria/John 13_23#0": {
+  "text_es": "Pienso que esto tiene un significado peculiar, a saber, que Juan fue admitido al conocimiento de los misterios más secretos del Verbo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0c644d4422ed"
+ },
+ "hcf:Augustine of Hippo/John 13_24#0": {
+  "text_es": "Observa también su modo de hablar, que no fue por palabra, sino por señas; Hizo señas y habló, esto es, habló por señas. Si incluso los pensamientos hablan, como cuando se dice: Hablaban entre sí, mucho más pueden hacerlo las señas, que son una especie de expresión externa de nuestros pensamientos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "db868a1a6e73"
+ },
+ "hcf:Origen of Alexandria/John 13_24#1": {
+  "text_es": "O bien, al principio hizo señas, y luego, no contento con las señas, habló: ¿Quién es de quien habla?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6ba130824a23"
+ },
+ "aquifer:18910": {
+  "text_es": "Pedro le dijo al discípulo sentado junto a Jesús (\"el que Jesús amaba\") que preguntara quién lo traicionaría (13:23). Como el discípulo estaba recostado junto a Jesús, se inclinó y le habló a Jesús en privado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1bd204268a42"
+ },
+ "hcf:Augustine of Hippo/John 13_25#0": {
+  "text_es": "Sobre el pecho de Jesús; lo mismo que en el seno de Jesús. O bien, yació primero en el seno de Jesús, y luego ascendió más alto, y yació sobre su pecho; como si, de haber permanecido yaciendo en su seno, y no haber ascendido a yacer sobre su pecho, nuestro Señor no le habría dicho lo que Pedro quería saber. Al yacer por fin sobre el pecho de Jesús, se expresa aquella gracia mayor y más abundante, que lo hizo discípulo especial de Jesús.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d7845aaf5566"
+ },
+ "hcf:Origen of Alexandria/John 13_25#1": {
+  "text_es": "Él entonces, recostado sobre el pecho de Jesús, le dice: Señor, ¿quién es?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6940e27e6513"
+ },
+ "aquifer:18911": {
+  "text_es": "Las comidas incluían pan plano, que los que comían mojaban en un cuenco compartido. Jesús dio un pedazo a Judas (compárese Rut 2:14). Los discípulos podrían haber pensado que Jesús lo estaba honrando. \n\nNo entendían lo que estaba sucediendo. Incluso pensaron que cuando Judas salió, era para cumplir un deber oficial para la fiesta (Juan 13:29). Sin embargo, Jesús le estaba señalando a Judas que conocía su plan y no estaba sorprendido. El conocimiento que Jesús tiene es profundo y completo (véase 1:48; 2:25).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7ea7c3d75538"
+ },
+ "hcf:John Chrysostom/John 13_26#0": {
+  "text_es": "Pero ni aun entonces expuso nuestro Señor al traidor por nombre; Jesús respondió: Es aquel a quien yo diere el bocado después de mojarlo. Tal modo de declararlo debería haberlo apartado de su propósito. Aun si el participar de la misma mesa no lo avergonzaba, el participar del mismo pan podría haberlo hecho. Y cuando hubo mojado el bocado, lo dio a Judas Iscariote, hijo de Simón.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "943729ea795c"
+ },
+ "aquifer:18912": {
+  "text_es": "⸢Satan entered into him⸣: Judas se convirtió en un ejemplo de lo que les sucede a las personas consumidas por las tinieblas (véase Lucas 22:3). Satanás usa a tales personas como instrumentos en una lucha más amplia contra la luz. ⸢What you are about to do, do quickly⸣: Al dar esta orden, Jesús mostró una vez más que él tenía el control, no los seres humanos ni Satanás (véase la nota de estudio sobre Juan 7:30).",
+  "lemas_es": [
+   "Satan entered into him"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1a4626ad96f2",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "JHN.13.27"
+   }
+  ]
+ },
+ "hcf:Augustine of Hippo/John 13_27#3": {
+  "text_es": "No como piensan algunos lectores descuidados, que entonces Judas recibió él solo el cuerpo de Cristo. Pues nuestro Señor ya había distribuido los sacramentos de su cuerpo y su sangre a todos ellos, mientras Judas estaba allí, como relata Lucas; y después de esto mojó el bocado, como relata Juan, y lo dio al traidor; el mojar del pan quizá significaba el tinte profundo de su pecado; pues algunos tintes no pueden lavarse de nuevo; es decir, cuando las cosas se mojan, para recibir un tinte permanente. Si, sin embargo, este mojar significaba algo bueno, fue ingrato por ello, y mereció la condenación que lo siguió; Y después del bocado, Satanás entró en él.\n\n(Tr. lxii. 2) O entró en él, para tener una posesión más plena de él: pues estaba en él, cuando acordó con los judíos entregar a nuestro Señor por una suma de dinero, según Lucas: Entonces entró Satanás en Judas Iscariote, y fue y habló con los principales sacerdotes. (Lucas 22:3. 4) En este estado vino a la cena. Pero después del bocado entró el diablo, no para tentarlo, como si fuera independiente, sino para poseerlo como suyo,\n\n(Tr. lxii) Pero algunos dirán: ¿fue su entrega al diablo efecto de haber recibido el bocado de Cristo? A quienes respondemos, que aprendan aquí el peligro de recibir mal lo que en sí es bueno. Si es reprendido quien no discierne, es decir, quien no distingue, el cuerpo del Señor de otro alimento, ¿cómo es condenado quien, fingiéndose amigo, viene como enemigo a la mesa del Señor?\nEntonces Jesús le dijo: Lo que haces, hazlo más pronto.\n\n(Tr. lxii. 4) Sin embargo, no ordenó el acto, sino que lo predijo, no por deseo de la destrucción del pérfido, sino para apresurar la salvación de los fieles.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4b2e24432f57"
+ },
+ "hcf:John Chrysostom/John 13_27#1": {
+  "text_es": "Mientras fue uno de los doce, el diablo no se atrevió a forzar una entrada en él; pero cuando fue señalado y expulsado, entonces saltó fácilmente dentro de él,",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9d24e41b597f"
+ },
+ "hcf:Origen of Alexandria/John 13_27#0": {
+  "text_es": "Observa que al principio Satanás no entró en Judas, sino que solo puso en su corazón entregar a su Maestro. Pero después del pan, entró en él. Por lo cual, guardémonos de que Satanás no lance ninguno de sus dardos encendidos a nuestro corazón; pues si lo hace, entonces vigila hasta conseguir entrar él mismo allí.\n\n(t. xxxii. 14.) Era propio que por la ceremonia del pan, se le quitara aquel bien que pensaba tener: privado de él, quedó expuesto a admitir la entrada de Satanás.\n\n(t. xxxii. 15.) Esto pudo haberse dicho o a Judas, o a Satanás, o para provocar al enemigo al combate, o al traidor a hacer su parte en traer aquella dispensación que había de salvar al mundo; la cual él deseaba que no se demorara más, sino que madurara lo antes posible.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bcc4e93a75bc"
+ },
+ "aquifer:18913": {
+  "text_es": "Ninguno de los otros sospechaba que algo extraño estaba sucediendo. La noche de la Pascua era una de las únicas noches en que las puertas de la ciudad se dejaban abiertas. La noche se pasaba en oración y meditación, se daba dinero a los pobres⸢,⸣ y siempre se necesitaban provisiones para esta compleja comida.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "610803dc31fb"
+ },
+ "hcf:John Chrysostom/John 13_28-29#0": {
+  "text_es": "Lo que haces, hazlo más pronto, no es una orden, ni una recomendación, sino una reprensión, destinada a mostrar también que él no iba a ofrecer ningún obstáculo a su traición. Ahora bien, ninguno de los que estaban a la mesa sabía para qué le decía esto. No es fácil ver, cuando los discípulos habían preguntado: ¿Quién es?, y él había respondido: Es aquel a quien yo daré el bocado, cómo fue que no lo entendieron; a menos que fuera que habló demasiado bajo para ser oído; y que Juan estaba recostado sobre su pecho, cuando hizo la pregunta, precisamente por esa razón, es decir, para que el traidor no fuera dado a conocer. Pues si Cristo lo hubiera dado a conocer, quizá Pedro lo habría matado. Así fue entonces, que ninguno de los que estaban a la mesa sabía qué quería decir nuestro Señor. Pero ¿por qué no Juan? Porque no podía concebir cómo un discípulo pudiera caer en tal maldad: estaba lejos de tal maldad él mismo, y por eso no la sospechaba en otros. Lo que pensaban que quería decir se nos dice en lo que sigue: Porque algunos pensaban, como Judas tenía la bolsa, que Jesús le había dicho: Compra lo que necesitamos para la fiesta, o que diera algo a los pobres.\n\n(Hom. lxxii. 2.) Ninguno de los discípulos contribuía con este dinero, pero se insinúa que eran ciertas mujeres, quienes, se dice, le servían con sus bienes. Pero ¿cómo fue que Aquel que prohibió bolsa, y bordón, y dinero, llevaba bolsas para el socorro de los pobres? Fue para mostrarte que incluso los muy pobres, aquellos que están crucificados a este mundo, deben atender a este deber. Hizo muchas cosas para instruirnos en nuestro deber.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ffeb8677d317"
+ },
+ "hcf:Augustine of Hippo/John 13_29#0": {
+  "text_es": "Nuestro Señor entonces tenía bolsas, en las que guardaba las oblaciones de los fieles, para suplir las necesidades de sus propios seguidores, o de los pobres. Aquí está la primera institución de la propiedad eclesiástica. Nuestro Señor muestra que su mandamiento de no pensar en el mañana no significa que los santos nunca deban ahorrar dinero; sino que no deben descuidar el servicio de Dios por ello, ni dejar que el temor de la necesidad los tiente a la injusticia.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f9aba8013ea5"
+ },
+ "aquifer:18915": {
+  "text_es": "⸢out into the night⸣: Este detalle es más que una nota sobre la hora del día. Tiene significado simbólico.\n\nLa partida de Judas muestra su condición espiritual. Las tinieblas se habían apoderado de él por completo (véase la nota de estudio sobre 13:2; compárese 3:19). Jesús, la luz del mundo, es lo opuesto a la noche.",
+  "lemas_es": [
+   "out into the night"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5d9635131f03",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "JHN.13.30"
+   }
+  ]
+ },
+ "hcf:Gregory the Dialogist/John 13_30#0": {
+  "text_es": "Por la hora del día se significa el fin de la acción. Judas salió de noche para consumar su perfidia, por la cual nunca había de ser perdonado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8794b8223198"
+ },
+ "hcf:John Chrysostom/John 13_30#0": {
+  "text_es": "Sigue: Y era de noche, para mostrar la impetuosidad de Judas, al persistir a pesar de lo inoportuno de la hora.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "17c59c23dcb0"
+ },
+ "hcf:Origen of Alexandria/John 13_30#2": {
+  "text_es": "Nuestro Señor entonces dijo a Judas: Lo que haces, hazlo más pronto, y el traidor esta vez obedeció a su Maestro. Pues habiendo recibido el bocado, se puso inmediatamente a su obra: Habiendo él entonces recibido el bocado, salió inmediatamente. Y en verdad salió, no solo de la casa en que estaba, sino de Jesús por completo. Parecería que Satanás, después de haber entrado en Judas, no podía soportar estar en el mismo lugar con Jesús: pues no hay acuerdo entre Jesús y Satanás. Tampoco es ocioso preguntar por qué después de haber recibido el bocado, no se añade que lo comió. ¿Por qué no comió Judas el pan, después de recibirlo? Quizá porque, tan pronto como lo hubo recibido, el diablo, que había puesto en su corazón entregar a Cristo, temeroso de que el pan, si se comía, pudiera expulsar lo que había puesto en él, entró en él, de modo que salió inmediatamente, antes de comerlo. Y puede ser útil observar que, así como quien come el pan de nuestro Señor y bebe su copa indignamente, come y bebe para su propia condenación; así el pan que Jesús le dio fue comido por los demás para su salvación, pero por Judas para su condenación, ya que después de él el diablo entró en él.\n\n(t. xxxii. 16.) El tiempo de la noche correspondía con la noche que cubría el alma de Judas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b7110040d422"
+ },
+ "aquifer:18916": {
+  "text_es": "El Antiguo Testamento y la literatura judía posterior incluyen numerosos ejemplos de despedidas en las que una persona moribunda ofrece últimas palabras a amigos íntimos (véase Gén 49:1–27; Deut 31–34; Jos 23–24; 1 Sam 12; 1 Crón 28:1–29:30). Tales despedidas usaban una forma estándar. La persona moribunda, rodeada de sus seres queridos, los consolaba y los exhortaba a obedecer la ley. Oraba y los bendecía y a menudo dejaba tras de sí algunos escritos. En algunos casos, la persona que partía transmitía su “espíritu” a sus seguidores o a su sucesor (véase Núm 27:18; Deut 34:9; 2 Rey 2:9–14). Cada uno de estos elementos está presente en la despedida de Jesús. • Esta sección se llama a menudo el Discurso del Aposento Alto, ya que la comida se tomó en un “aposento alto” (Lucas 22:12).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1eba59930128",
+  "text_es_2": "El Antiguo Testamento y la literatura judía posterior incluyen numerosos ejemplos de despedidas en las que una persona moribunda ofrece sus últimas palabras a sus amigos íntimos (véase Gén 49:1–27; Deut 31–34; Jos 23–24; 1 Sam 12; 1 Cró 28:1–29:30). Tales despedidas seguían una estructura estándar. La persona moribunda, rodeada de sus seres queridos, los consolaba y los exhortaba a obedecer la ley. Oraba, los bendecía y a menudo dejaba algunos escritos. En algunos casos, la persona que partía transmitía su «espíritu» a sus seguidores o a su sucesor (véase Núm 27:18; Deut 34:9; 2 Reyes 2:9–14). Cada uno de estos elementos está presente en la despedida de Jesús. • Esta sección se llama a menudo el Discurso del Aposento Alto, ya que la cena se tomó en un «aposento alto» (Lucas 22:12).",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "aquifer:18917": {
+  "text_es": "Había llegado la hora. La partida de Judas hacia la noche marcó un claro punto de inflexión en la historia del Evangelio. Jesús quedó ahora con sus amigos más cercanos, mientras comenzaba la hora de su gloria. Este período comenzó con la traición de Judas y terminó con la resurrección.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "055c762cf058"
+ },
+ "hcf:Augustine of Hippo/John 13_31#0": {
+  "text_es": "O así: El impuro salió: los limpios permanecieron con su limpiador. Así será cuando la cizaña sea separada del trigo; Los justos resplandecerán como el sol en el reino de su Padre. (Mat. 13:43) Nuestro Señor, previendo esto, dijo, cuando Judas salió, como si la cizaña fuera ahora separada, y él quedara solo con el trigo, los santos apóstoles: Ahora es glorificado el Hijo del hombre; como si dijera: He aquí lo que sucederá en mi glorificación, en la cual ninguno de los impíos estará presente, ninguno de los justos perecerá. No dice: Ahora se significa la glorificación del Hijo del hombre; sino: Ahora es glorificado el Hijo del hombre; así como no es que la roca significara a Cristo, sino: Aquella roca era Cristo. (1 Cor. 10:4) La Escritura habla a menudo de las cosas que significan, como si fueran las cosas significadas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8fe0baec01a2"
+ },
+ "hcf:Hilary of Poitiers/John 13_31-32#0": {
+  "text_es": "Que Dios es glorificado en Él, se refiere a la gloria del cuerpo, la cual gloria es la gloria de Dios, en cuanto que el cuerpo toma prestada su gloria de su unión con la naturaleza divina. Porque Dios es glorificado en Él, por eso Él lo glorificará en sí mismo, en cuanto que Aquel que reina en la gloria que surge de la gloria de Dios, pasa inmediatamente a la gloria de Dios, dejando la dispensación de su humanidad, para permanecer totalmente en Dios. Tampoco calla respecto al tiempo: Y en seguida lo glorificará. Esto se refiere a la gloria de su resurrección, que había de seguir inmediatamente a su pasión, la cual menciona como presente, porque Judas había salido ya a traicionarlo; mientras que el que Dios lo glorificaría en sí mismo, lo reserva para el futuro. La gloria de Dios se mostró en Él por el milagro de la resurrección; pero permanecerá en la gloria de Dios cuando haya dejado la dispensación de sujeción. El sentido de estas primeras palabras, Ahora es glorificado el Hijo del hombre, no es dudoso: se trata de la gloria de la carne, no la del Verbo. Pero ¿qué significa lo siguiente, Y Dios es glorificado en Él? El Hijo del hombre no es otra Persona distinta del Hijo de Dios, pues el Verbo se hizo carne. (Juan 1:14) ¿Cómo es glorificado Dios en este Hijo del hombre, que es el Hijo de Dios? La cláusula siguiente nos ayuda; Si Dios es glorificado en Él, Dios también lo glorificará en sí mismo. Un hombre no es glorificado en sí mismo, ni, por otra parte, Dios, que es glorificado en el hombre, porque recibe gloria, deja de ser Dios. Así, las palabras, Dios es glorificado en Él, o bien significan que Cristo es glorificado en la carne, o que Dios es glorificado en Cristo. Si Dios significa Cristo, es Cristo quien es glorificado en la carne; si el Padre, entonces es el Sacramento de la unidad, el Padre glorificado en el Hijo. De nuevo, Dios glorifica en sí mismo a Dios glorificado en el Hijo del hombre. Esto derriba la impía doctrina de que Cristo no es verdaderamente Dios, en veracidad de naturaleza. Pues ¿cómo puede estar fuera de sí mismo aquello que Dios glorifica en sí mismo? Aquel a quien el Padre glorifica debe ser confesado en su gloria, y Aquel que es glorificado en la gloria del Padre, debe ser entendido en la misma condición que el Padre.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "602872750625"
+ },
+ "hcf:John Chrysostom/John 13_31-32#0": {
+  "text_es": "es decir, por sí mismo, no por otro. Y en seguida lo glorificará, es decir, no en un tiempo distante, sino inmediatamente, mientras está aún en la misma cruz aparecerá su gloria. Pues el sol se oscureció, las rocas se partieron, y muchos cuerpos de los que dormían resucitaron. De este modo restaura los ánimos abatidos de sus discípulos, y les persuade, en lugar de entristecerse, a regocijarse.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "466d218870e8"
+ },
+ "hcf:Augustine of Hippo/John 13_32#0": {
+  "text_es": "Pero la glorificación del Hijo del hombre es la glorificación de Dios en Él; como añade, Y Dios es glorificado en Él, lo cual procede a explicar; Si Dios es glorificado en Él —pues no vino a hacer su propia voluntad, sino la voluntad del que lo envió— Dios también lo glorificará en sí mismo, de modo que la naturaleza humana que fue asumida por el Verbo eterno, sea también dotada de eternidad. Y en seguida lo glorificará. Predice su propia resurrección, que había de seguir inmediatamente, no al fin del mundo, como la nuestra. Así es; Ahora es glorificado el Hijo del hombre; el ahora no se refiere a su pasión inminente, sino a la resurrección que había de seguirla inmediatamente: como si lo que había de suceder muy pronto, ya hubiera tenido lugar.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a6abe9b02a50"
+ },
+ "aquifer:18918": {
+  "text_es": "Jesús se dirigió a los apóstoles como sus hijos⸢,⸣ marcando el inicio de su discurso de despedida.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fd1ffe64f065"
+ },
+ "hcf:Augustine of Hippo/John 13_33#1": {
+  "text_es": "Después de haber dicho, Y en seguida lo glorificará, para que no pensaran que Dios iba a glorificarlo de tal manera que ya no tendría más trato con ellos en la tierra, dice: Hijitos, aún un poco estoy con vosotros: como si dijera: Ciertamente seré glorificado en seguida por mi resurrección, pero no ascenderé en seguida al cielo. Pues leemos en los Hechos de los Apóstoles, que estuvo con ellos cuarenta días después de su resurrección. Estos cuarenta días son lo que significa con, Un poco estoy con vosotros.\n\n(Tr. lxiv. 1) Puede entenderse también así: Estoy todavía en esta carne frágil, lo mismo que vosotros, hasta que muera y resucite. Estuvo con ellos después de su resurrección, por presencia corporal, no por participación de la fragilidad humana. Estas son las palabras que os hablé, estando aún con vosotros, (Lucas 24:44) dice a sus discípulos después de su resurrección; es decir, mientras estaba en carne mortal, como vosotros. Estaba entonces en la misma carne con ellos, pero no sujeto a la misma mortalidad. Pero hay otra Presencia divina desconocida para los sentidos mortales, de la cual dice: He aquí, yo estoy con vosotros todos los días, hasta el fin del mundo. (Mat. 28:20) Esta no es la presencia significada por, Un poco estoy con vosotros; pues no es un poco hasta el fin del mundo: o incluso si es un poco, porque a los ojos de Dios, mil años son como un día, sin embargo lo que sigue muestra que no es a lo que nuestro Señor alude aquí; pues añade: A donde yo voy, no me podéis seguir ahora. Al fin del mundo habían de seguirlo, a donde Él fue; como dice más abajo: Padre, quiero que ellos estén conmigo, donde yo estoy. (c. 17:24)\n\n(Tr. lxiv. 4) O quiere decir que aún no eran capaces de seguirlo hasta la muerte por causa de la justicia. Pues ¿cómo podrían, cuando no estaban maduros para el martirio? ¿O cómo podrían seguir a nuestro Señor hacia la inmortalidad, ellos que habían de morir, y no resucitar hasta el fin del mundo? ¿O cómo podrían seguirlo al seno del Padre, cuando nadie podía participar de esa felicidad, sino aquellos cuyo amor era perfecto? Cuando dijo esto a los judíos, no añadió ahora. Pero los discípulos, aunque no podían seguirlo entonces, podrían hacerlo después, y por eso añade: Así que ahora os lo digo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ac0cbe8fab8a"
+ },
+ "hcf:John Chrysostom/John 13_33#0": {
+  "text_es": "Y por eso dijo, hijitos; pues no pretendía hablarles como había hablado a los judíos. No me podéis seguir ahora, dice, para despertar el amor de sus discípulos. Pues la partida de amigos queridos enciende toda nuestra afección, y especialmente si van a un lugar donde no podemos seguirlos. Habla también deliberadamente de su muerte, como una especie de traslado, una feliz partida a un lugar, donde los cuerpos mortales no entran.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5cff3371e36a"
+ },
+ "aquifer:18919": {
+  "text_es": "El mandato de que los discípulos se ⸢amen unos a otros⸣ no era nuevo (véase Levítico 19:18). Sin embargo, amarse unos a otros como Jesús amó fue un cambio radical. Jesús mostró su amor por Dios mediante una obediencia perfecta (Juan 14:31). Ahora, mandó que los discípulos mostraran su amor por él mediante una obediencia comprometida.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3e95d2f8d7c9"
+ },
+ "hcf:Augustine of Hippo/John 13_34#1": {
+  "text_es": "Y ahora les enseña cómo disponerse para seguirlo: Un mandamiento nuevo os doy, que os améis unos a otros. (Levítico 19:18) Pero ¿no dice la antigua ley: Amarás a tu prójimo como a ti mismo? ¿Por qué entonces lo llama un mandamiento nuevo? ¿Es porque nos despoja del hombre viejo, y nos reviste del nuevo? ¿Porque renueva al oyente, o más bien al que lo cumple? El amor hace esto; pero es aquel amor que nuestro Señor distingue del afecto carnal: Como yo os he amado, que también os améis unos a otros. No el amor con que los hombres se aman unos a otros, sino el de los hijos del Dios Altísimo, que serían hermanos de su Hijo unigénito, y por tanto se amarían unos a otros con aquel amor con que Él los amó, y los llevaría al cumplimiento de sus deseos.\n\n(Tr. lxiv. 2) Pero no pienses que aquel mandamiento mayor, a saber, que amemos al Señor nuestro Dios, queda pasado por alto. Pues, si entendemos rectamente los dos preceptos, cada uno está implicado en el otro. Quien ama a Dios no puede despreciar su mandamiento de que ame a su prójimo; y quien ama al prójimo de manera celestial y espiritual, en el prójimo ama a Dios. Ese es el amor que nuestro Señor distingue de todo amor humano, cuando añade: Como yo os he amado. Pues ¿qué amó Él, al amarnos, sino a Dios en nosotros; no quien estaba en nosotros, sino para que estuviera? Por tanto, amémonos cada uno al otro de tal modo que, por esta obra de amor, nos hagamos mutuamente habitaciones de Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2a86f31bab17"
+ },
+ "hcf:John Chrysostom/John 13_34#0": {
+  "text_es": "O, como yo os he amado: pues mi amor no ha sido el pago de algo que se os debía, sino que tuvo su inicio de mi parte. Y vosotros debéis de igual manera haceros bien unos a otros, aunque no lo debáis.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b23d23bb6dc7"
+ },
+ "hcf:Augustine of Hippo/John 13_35#1": {
+  "text_es": "si dijo: Otros dones os son compartidos por quienes no son míos; nacimiento, vida, sentido, razón, y tales bienes que pertenecen por igual al hombre y a las bestias; más aún, lenguas, sacramentos, profecía, conocimiento, fe, distribución de bienes a los pobres, entregar el cuerpo para ser quemado: pero por cuanto no tienen caridad, son címbalos que retiñen, nada son: nada les aprovecha.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "04216d9df475"
+ },
+ "hcf:John Chrysostom/John 13_35#0": {
+  "text_es": "Pasando por alto los milagros, que habían de realizar, hace del amor la marca distintiva de sus seguidores; En esto conocerán todos que sois mis discípulos, si tuviereis amor unos con otros. Esto es lo que evidencia al santo o al discípulo, como Él lo llama.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "59f55aa856c0"
+ },
+ "hcf:Augustine of Hippo/John 13_36#0": {
+  "text_es": "El discípulo pregunta esto, como si estuviera dispuesto a seguirlo. Pero nuestro Señor vio su corazón; Jesús le respondió: A donde yo voy, no me puedes seguir ahora; frena su precipitación, pero no destruye su esperanza; más aún, la confirma; Mas me seguirás después. ¿Por qué te apresuras, Pedro? La Roca aún no te ha establecido con su espíritu. No te eleves con presunciones, no puedes ahora; no te abatas con desesperación, me seguirás después.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b97650071c38"
+ },
+ "hcf:John Chrysostom/John 13_36#0": {
+  "text_es": "Grande es el amor, y más fuerte que el fuego; nada puede detener su curso. Pedro, el más ardiente de todos, tan pronto como oye a nuestro Señor decir: A donde yo voy, no me podéis seguir ahora, pregunta: Señor, ¿a dónde vas?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8d1c8984ed32"
+ },
+ "aquifer:18920": {
+  "text_es": "Pedro afirmó estar dispuesto a morir por Jesús. Pero Pedro es bien conocido por negar a Jesús (18:15–18, 25–27; véase también Mateo 26:32–34; Marcos 14:27–30; Lucas 22:31–34). Aunque el valor y la lealtad de Pedro fallaron, Jesús lo perdonó y lo restauró (Juan 21:15–19).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6b49af6d0e0c"
+ },
+ "hcf:Augustine of Hippo/John 13_37#3": {
+  "text_es": "Pero ¿qué le dice a esto? «¿Por qué no puedo seguirte ahora? Daré mi vida por ti.» Veía cuál era la clase de deseo en su mente; pero cuál era la medida de su fuerza, no lo veía. El hombre débil se jactaba de su disposición, pero el Médico tenía la vista puesta en el estado de su salud; el uno prometía, el Otro preveía: el ignorante era osado; el que todo lo preveía, condescendió a enseñar. ¡Cuánto había asumido Pedro, al mirar solo lo que deseaba, y no tener conocimiento de lo que era capaz! ¡Cuánto había asumido, que, cuando el Señor había venido a dar su vida por sus amigos, y por tanto también por él, él tuviera la osadía de ofrecerse a hacer lo mismo por el Señor; y mientras aún la vida de Cristo no había sido entregada por él, prometiera dar su propia vida por Cristo!",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "90459f90aaf1"
+ },
+ "hcf:John Chrysostom/John 13_37-38#0": {
+  "text_es": "Cuando hubo sacudido el temor de ser el traidor, y se mostró que era uno de los suyos, después preguntó él mismo con audacia, mientras los demás callaban. «¿Qué dices, Pedro? Él dijo: “No puedes”, y tú dices: “Yo puedo”? Por tanto, conocerás por esta tentación que tu amor no es nada sin la presencia del impulso de lo alto.» De donde es claro que, por cuidado hacia él, permitió incluso aquella caída. Deseaba ciertamente enseñarle ya con las primeras palabras, pero cuando él persistió en su vehemencia, no lo arrojó ni lo forzó a la negación, sino que lo dejó solo, para que aprendiera su propia debilidad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e2caac9951d0"
+ },
+ "hcf:Augustine of Hippo/John 13_38#1": {
+  "text_es": "¿Harás por mí lo que yo aún no he hecho por ti? ¿Puedes ir delante, tú que no puedes ir detrás? ¿Por qué presumes tanto? Escucha lo que eres: De cierto, de cierto te digo: No cantará el gallo, hasta que me hayas negado tres veces. Tú, que me prometes tu muerte, negarás tres veces tu vida. Pedro conocía su gran deseo, su fuerza no la conocía: se jactaba de su voluntad, mientras aún era débil; pero el Médico veía su debilidad. (c. 2.). Algunos que favorecen perversamente a Pedro, lo excusan, y dicen que no negó a Cristo, porque cuando la sierva le preguntó, dijo que no lo conocía, como los otros Evangelistas testifican más expresamente. Como si negar al hombre Cristo no fuera negar a Cristo; es más, que en Cristo, aquello que Él fue hecho por nosotros, no pereciera aquello que Él nos hizo. ¿Por qué es Él la Cabeza de la Iglesia, sino por su humanidad? ¿Y cómo entonces está en el cuerpo de Cristo quien niega al hombre Cristo? Pero ¿por qué discuto tanto? Nuestro Señor no dice: No cantará el gallo hasta que niegues al hombre, o al Hijo del hombre, sino hasta que me niegues a Mí. ¿Qué es Mí, sino aquello que Él era? Así pues, cualquier cosa que Pedro negara, negó a Cristo: es impío dudarlo. Cristo lo dijo, y Cristo dijo la verdad: sin duda, Pedro negó a Cristo. No acusemos a Cristo para defender a Pedro. La fragilidad del mismo Pedro reconoció su pecado, cuando atestiguó con sus lágrimas el mal que había hecho al negar a Cristo. Y no decimos esto porque nos complazca culpar al primero de los Apóstoles, sino para que de él tomemos advertencia, para no confiar en nuestras propias fuerzas.\n\n(Tr. lxvi. 2) Aquello tuvo lugar en el alma de Pedro, que él ofreció en el cuerpo; aunque de manera distinta de lo que él pretendía. Pues antes de la muerte y resurrección de nuestro Señor, él tanto murió por su negación, como volvió a vivir por sus lágrimas.\n\n(de Con. Evang. iii. c. 2. [5.]) Este dicho, No cantará el gallo, aparece en todos los Evangelistas, pero no al mismo tiempo en todos. Mateo y Marcos lo introducen después de que han salido de la casa en que comían; Lucas y Juan, antes. Podemos suponer o que los dos primeros recuerdan lo que había pasado, o que los dos últimos anticipan lo que viene. O la gran diferencia no solo de las palabras, sino de los asuntos que preceden al dicho, y que incitan a Pedro a la presunción de ofrecerse a morir por o con nuestro Señor, puede llevarnos a concluir que él hizo esta oferta tres veces, y que nuestro Señor tres veces respondió: Antes que el gallo cante, me negarás tres veces.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3434bdfd9dcc"
+ },
+ "hcf:Bede/John 13_38#0": {
+  "text_es": "Esta sentencia puede leerse de dos maneras: o como afirmando: darás tu vida por mí, pero ahora, por temor a la muerte del cuerpo, incurrirás en la muerte espiritual; o como burlándose; como si dijera:\n\nSin embargo, si alguno cayera, que el ejemplo de Pedro lo salve de la desesperación, y le enseñe que puede sin demora obtener el perdón de Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4e1f0c272fa1"
+ },
+ "hcf:John Chrysostom/John 13_38#2": {
+  "text_es": "«Daré mi vida por ti.» Pues como había oído: «Mayor amor que este nadie tiene», al instante se lanzó adelante, insaciablemente ansioso y deseoso de alcanzar incluso el más alto grado de virtud. Pero Cristo, para mostrar que pertenecía a Él solo prometer estas cosas con autoridad, dice: «Antes que el gallo cante.» Esto es, «ahora»; había solo un breve intervalo. Habló cuando era tarde en la noche, y la primera y segunda vigilia habían pasado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2bd1e43f6345"
+ }
+}

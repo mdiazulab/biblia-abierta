@@ -1,0 +1,1400 @@
+{
+ "aquifer:19176": {
+  "text_es": "La alimentación de los 5.000 por Jesús recuerda la historia del Antiguo Testamento del maná (pan del cielo) cuando Israel estaba en el desierto (Éxodo 16). En esa historia, Dios proveía pan cada día para su pueblo.\n\nEn tiempos de Jesús, algunos maestros judíos creían que el Mesías volvería a dar pan del cielo (Éxodo 16:4). Esperaban un nuevo acto de provisión divina.\n\nCuando Jesús alimentó a la multitud, cumplió esta expectativa. Sin embargo, no solo estaba dando pan físico. Se estaba señalando a sí mismo como el verdadero pan del cielo, que da vida al mundo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "88dc50100210"
+ },
+ "aquifer:19177": {
+  "text_es": "Cada relato de este capítulo utiliza el marco de la Fiesta de la Pascua (6:4) para comunicar un significado más profundo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "35a3564ccd4a",
+  "text_es_2": "Cada historia de este capítulo utiliza el marco de la Fiesta de la Pascua (6:4) para comunicar un significado más profundo.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Alcuin of York/John 6_1#0": {
+  "text_es": "Este mar tiene diferentes nombres, según los distintos lugares con los que está conectado; mar de Galilea, por la provincia; mar de Tiberíades, por la ciudad de ese nombre. Se le llama mar, aunque no es agua salada, pues ese nombre se aplica a todas las grandes masas de agua, en hebreo. Nuestro Señor pasa a menudo por este mar, al ir a predicar a los pueblos que están en sus orillas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0e2420479bf8"
+ },
+ "hcf:Alcuin of York/John 6_1#1": {
+  "text_es": "Místicamente, el mar significa este mundo tumultuoso. En la plenitud de los tiempos, cuando Cristo había entrado en el mar de nuestra mortalidad por su nacimiento, lo había hollado con su muerte, lo había pasado con su resurrección, entonces le siguieron multitudes de creyentes, tanto de los judíos como de los gentiles.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "daa28bb0bbba"
+ },
+ "hcf:Augustine of Hippo/John 6_1-2#0": {
+  "text_es": "Pero reflexionemos un poco aquí. Puesto que la Sustancia Divina no es visible a los ojos, y los milagros del gobierno divino del mundo y del ordenamiento de toda la creación pasan inadvertidos a causa de su constancia; Dios se ha reservado para sí actos, al margen del curso establecido y del orden de la naturaleza, para realizarlos en tiempos oportunos; a fin de que quienes pasaban por alto el curso diario de la naturaleza, fueran despertados al asombro por la vista de lo que era diferente de lo que estaban acostumbrados, aunque no en absoluto mayor. El gobierno del mundo es un milagro mayor que el satisfacer el hambre de cinco mil con cinco panes; y sin embargo nadie se asombra de esto: lo primero suscitó asombro; no por ninguna superioridad real en ello, sino porque era poco común. Pero sería erróneo sacar de los milagros de Cristo nada más que esto: pues, el Señor que está en el monte, y el Verbo de Dios que está en lo alto, el mismo no es una persona humilde que deba pasarse por alto a la ligera, sino que debemos mirarlo a Él con reverencia.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "dfbe9e5be0fd"
+ },
+ "hcf:Cyril of Alexandria/John 6_1#1": {
+  "text_es": "[Si] nuestros enemigos nos persiguen, nos es posible comportarnos bien con ellos dejándolos por un tiempo, aun cuando no haya daño en permanecer. Al evadir sus ataques y evitar su furia, podemos encontrar que su ira disminuye y así podemos socavar la audacia de su arrogancia.… Hacer la obra del amor entonces no es necesariamente soportar a quienes nos desean el mal, ni permanecer entre los enemigos, haciendo que se vuelvan aún más amargos y airados porque no pueden ablandar nuestra oposición. El amor entonces, como dice Pablo, «no insiste en su propio camino», y esto era [ciertamente verdad] en Cristo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "496656266a73"
+ },
+ "hcf:Alcuin of York/John 6_2#0": {
+  "text_es": "A saber, su dar vista a los ciegos, y otros milagros semejantes. Y debe entenderse que a todos los que sanó en el cuerpo, los renovó igualmente en el alma.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b64eb3687d1d"
+ },
+ "hcf:Theophylact of Ohrid/John 6_2#0": {
+  "text_es": "Va de un lugar a otro para probar las disposiciones de las personas, y excitar el deseo de oírlo: Y una gran multitud le seguía, porque veían sus milagros que hacía en los enfermos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7df226f692dc"
+ },
+ "hcf:Alcuin of York/John 6_3#0": {
+  "text_es": "Su dejar a la multitud abajo, y ascender a las alturas con sus discípulos, significa que se deben dar preceptos menores a los principiantes, y más elevados a los más maduros.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6cbcc1739210"
+ },
+ "hcf:Bede/John 6_3#0": {
+  "text_es": "Nuestro Señor subió al monte, cuando ascendió al cielo, lo cual es significado por el monte.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6a4422fabe39"
+ },
+ "hcf:John Chrysostom/John 6_3#0": {
+  "text_es": "«¿Y por qué ocupa el monte ahora, y se sienta allí con sus discípulos?» A causa del milagro que estaba por suceder. Y que los discípulos solos subieran con Él, era una acusación contra la multitud que no le seguía. Sin embargo, no solo por esto subió al monte, sino para enseñarnos a descansar siempre a intervalos de los tumultos y la confusión de la vida común. Pues la soledad es cosa apta para el estudio de la sabiduría. Y a menudo sube solo a un monte, y pasa allí la noche, y ora, para enseñarnos que el hombre que ha de acercarse más a Dios debe estar libre de toda perturbación, y debe buscar tiempos y lugares libres de confusión.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4d97b759bdf6"
+ },
+ "hcf:Alcuin of York/John 6_4#0": {
+  "text_es": "Su refrescar al pueblo poco antes de la Pascua significa nuestro refrigerio por el pan de la palabra divina; y el cuerpo y la sangre, es decir, nuestra pascua espiritual, por la cual pasamos del vicio a la virtud.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f5bb3c8e4471"
+ },
+ "hcf:Theophylact of Ohrid/John 6_4#0": {
+  "text_es": "Las persecuciones de los judíos le dieron razón para retirarse, y así dejar de lado la Ley. Estando ahora revelada la verdad, los tipos habían terminado, y Él no estaba obligado a guardar las fiestas judías. Obsérvese la expresión, una fiesta de los judíos (Mat. 14:13), no una fiesta de Cristo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2f7c855122d3"
+ },
+ "aquifer:19201": {
+  "text_es": "⸢¿De dónde compraremos pan⸣: Cuando los israelitas salieron de Egipto después de la primera Pascua y entraron en el desierto, encontrar comida y agua fue también su primera preocupación (Éxodo 15:22–16:3).",
+  "lemas_es": [
+   "¿De dónde compraremos pan"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f6d2ea13ff34",
+  "lemas_rv1909": [
+   {
+    "lema": "De dónde compraremos pan",
+    "ref": "JHN.6.5"
+   }
+  ]
+ },
+ "hcf:Alcuin of York/John 6_5-6#0": {
+  "text_es": "Le hace esta pregunta, no para su propia información, sino para mostrar a su discípulo aún inmaduro la torpeza de su mente, que él no podía percibir por sí mismo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "49f1387d6138"
+ },
+ "hcf:Alcuin of York/John 6_5-6#1": {
+  "text_es": "Y los ojos del Señor son dones espirituales, que misericordiosamente concede a sus elegidos. Vuelve sus ojos hacia ellos, es decir, tiene una consideración compasiva hacia ellos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "006cb14b74d5"
+ },
+ "hcf:Augustine of Hippo/John 6_5#0": {
+  "text_es": "Pero si nuestro Señor, según el relato de Juan, al ver la multitud, preguntó a Felipe, tentándolo, de dónde podrían comprar alimento para ellos, es difícil a primera vista ver cómo puede ser verdad, según el otro relato, que los discípulos dijeron primero a nuestro Señor que despidiera a la multitud; y que nuestro Señor respondió: No tienen necesidad de irse; dadles vosotros de comer (Mat. 25:16). Debemos entender entonces que fue después de decir esto, que nuestro Señor vio la multitud, y dijo a Felipe lo que Juan ha relatado, lo cual fue omitido por los demás.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f38efea1e992"
+ },
+ "hcf:Bede/John 6_5#0": {
+  "text_es": "Si comparamos los relatos de los diferentes evangelistas, encontraremos con mucha claridad que hubo un intervalo de un año entre la decapitación de Juan y la Pasión de nuestro Señor. Pues, dado que Mateo dice que nuestro Señor, al oír de la muerte de Juan, se retiró a un lugar desierto, donde alimentó a la multitud; y Juan dice que la Pascua estaba cerca cuando alimentó a la multitud; es evidente que Juan fue decapitado poco antes de la Pascua. Y en esa misma fiesta, al año siguiente, Cristo padeció. Sigue: Cuando Jesús entonces alzó sus ojos, y vio una gran compañía que venía a él, dice a Felipe: ¿De dónde compraremos pan, para que estos coman? Cuando Jesús alzó sus ojos, esto es para mostrarnos que Jesús no estaba generalmente con los ojos alzados, mirando a su alrededor, sino sentado tranquilo y atento, rodeado de sus discípulos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6f5cef9e1c18"
+ },
+ "hcf:John Chrysostom/John 6_5#0": {
+  "text_es": "«Y como alzó sus ojos, vio una gran compañía.» Esto muestra que Él no se sentaba en ningún momento ociosamente con los discípulos, sino quizá conversando cuidadosamente con ellos, y haciéndolos atender y volverse hacia Él, cosa que marca peculiarmente su tierno cuidado, y la humildad y condescendencia de su comportamiento hacia ellos. Pues se sentaban con Él, quizá mirándose unos a otros; entonces, habiendo alzado sus ojos, vio las multitudes que venían a Él.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8612b1cd0838"
+ },
+ "hcf:Augustine of Hippo/John 6_6#0": {
+  "text_es": "Un tipo de tentación lleva al pecado, con la cual Dios nunca tienta a nadie (Santiago 1:13); y hay otro tipo por el cual se prueba la fe (Deut. 13:3). En este sentido se dice que Cristo probó a su discípulo. Esto no pretende implicar que Él no sabía lo que Felipe diría; sino que es una acomodación a la manera de hablar de los hombres. Pues como la expresión, Quien escudriña los corazones de los hombres, no significa el escudriñamiento de la ignorancia, sino el de un conocimiento absoluto; así aquí, cuando se dice que nuestro Señor probó a Felipe, debemos entender que lo conocía perfectamente, pero que lo probó, para confirmar su fe. El mismo evangelista se previene contra el error que este modo imperfecto de hablar podría ocasionar, añadiendo: Porque él mismo sabía lo que había de hacer.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ec84f35ac98b"
+ },
+ "hcf:John Chrysostom/John 6_6#0": {
+  "text_es": "Y si el milagro se hubiera realizado de inmediato, sin ninguna introducción, no se habría visto su grandeza. Se hizo que los discípulos confesaran su propia incapacidad, para que vieran el milagro más claramente; Y esto decía para probarle.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d3082e1a6b08"
+ },
+ "hcf:Theophylact of Ohrid/John 6_6#0": {
+  "text_es": "O para mostrárselo a otros. Él mismo no ignoraba el corazón de su discípulo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "95914f01f1ee"
+ },
+ "hcf:Alcuin of York/John 6_7#0": {
+  "text_es": "En lo cual muestra su torpeza: pues, si tuviera ideas perfectas de su Creador, no estaría así dudando de su poder.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "41f0c20155d4"
+ },
+ "hcf:Augustine of Hippo/John 6_7#0": {
+  "text_es": "La respuesta, que Juan atribuye a Felipe, Marcos la pone en boca de todos los discípulos, ya sea queriendo que entendamos que Felipe habló por los demás, o bien poniendo el número plural por el singular, lo cual se hace a menudo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c4ac85c169c1"
+ },
+ "hcf:Theophylact of Ohrid/John 6_7#0": {
+  "text_es": "Así probado por nuestro Señor, Felipe se halló poseído de nociones humanas, como aparece por lo que sigue: Felipe le respondió: Doscientos denarios de pan no bastan para que cada uno de ellos tome un poco.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0505e8453186"
+ },
+ "hcf:Augustine of Hippo/John 6_8-9#0": {
+  "text_es": "La sugerencia de Andrés acerca de los cinco panes y dos peces, se presenta como proveniente de los discípulos en general, en los otros evangelistas, y se usa el número plural.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "da6040960c7b"
+ },
+ "hcf:Theophylact of Ohrid/John 6_8-9#0": {
+  "text_es": "Andrés está en la misma perplejidad que Felipe; solo que tiene nociones más elevadas de nuestro Señor: Hay aquí un muchacho que tiene cinco panes de cebada y dos pececillos.\n\nEste pasaje confunde a los maniqueos, que dicen que el pan y todas esas cosas fueron creadas por una deidad maligna. El Hijo del Dios bueno, Jesucristo, multiplicó los panes. Por lo tanto, no podían haber sido naturalmente malos; un Dios bueno nunca habría multiplicado lo que era malo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5facda6c98ff"
+ },
+ "aquifer:19207": {
+  "text_es": "La cebada era un grano para los pobres. Los panes eran como pan de pita. Los dos peces probablemente eran salados. Junto con los cinco panes de cebada, constituían una comida.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "70b9b55c7e88"
+ },
+ "hcf:Augustine of Hippo/John 6_9#0": {
+  "text_es": "Los cinco panes de cebada significan la ley antigua; ya porque la ley fue dada a hombres aún no espirituales, sino carnales, esto es, bajo el dominio de los cinco sentidos (la multitud misma constaba de cinco mil); ya porque la Ley misma fue dada por Moisés en cinco libros. Y el que los panes sean de cebada es también una alusión a la Ley, que ocultaba el alimento vital del alma bajo ceremonias carnales. Pues en la cebada el grano mismo está sepultado bajo la cáscara más tenaz. O bien, alude al pueblo que aún no estaba libre de la cáscara del apetito carnal, que se adhiere a su corazón.\n\n(lib. lxxxiv. Quæst. qu. 61) Los dos peces, que daban el sabor agradable al pan, parecen significar las dos autoridades por las que el pueblo era gobernado, a saber, la Real y la Sacerdotal; ambas prefiguran a nuestro Señor, que sostuvo ambos caracteres.\n\n(Tr. xxiv. 5) El muchacho que los tenía es quizá el pueblo judío, que, por así decirlo, llevaba los panes y los peces de manera servil, y no los comía. Lo que llevaban, mientras estaba cerrado, era solo una carga para ellos; al abrirse se convirtió en su alimento.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6739274e6d51"
+ },
+ "hcf:Bede/John 6_9#0": {
+  "text_es": "La cebada es alimento de ganado y de esclavos; y la ley antigua fue dada a esclavos y ganado, esto es, a hombres carnales.\n\nO bien, por los dos peces se entiende el dicho o los escritos de los Profetas, y el Salmista. Y mientras que el número cinco se refiere a los cinco sentidos, mil representa la perfección. Pero quienes se esfuerzan por obtener el gobierno perfecto de sus cinco sentidos son llamados hombres, en consecuencia de sus facultades superiores: no tienen debilidades femeninas; sino que, mediante una vida sobria y casta, se ganan el dulce refrigerio de la sabiduría celestial.\n\n(Aug. xxiv. 5) Y bien se dice: Pero ¿qué es esto entre tantos? La Ley era de poco provecho hasta que Él la tomó en Su mano, esto es, la cumplió y le dio un sentido espiritual. La Ley nada perfeccionó. (Heb. 7:19)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "36e2356f0bc0"
+ },
+ "hcf:John Chrysostom/John 6_9#0": {
+  "text_es": "Y observen los que somos dados al placer la comida sencilla y abstemia de aquellos grandes y admirables varones.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3ee6780d18a4"
+ },
+ "aquifer:19178": {
+  "text_es": "El cómputo de unos 5.000 incluía solo a los hombres, como era la manera habitual de contar en aquella cultura (Mateo 14:21). Incluyendo mujeres y niños, el número total de personas era mucho mayor.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "75c67e2fbf81"
+ },
+ "hcf:Alcuin of York/John 6_10#0": {
+  "text_es": "Sentaos, esto es, recostaos, como era la costumbre antigua, lo cual podían hacer, pues había mucha hierba en el lugar.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "36dbed1f431c"
+ },
+ "hcf:Augustine of Hippo/John 6_10#0": {
+  "text_es": "La pregunta de nuestro Señor probó la ignorancia de Sus discípulos, esto es, la ignorancia del pueblo respecto de la Ley. Se recostaron sobre la hierba, esto es, tenían mentalidad carnal, reposaban en cosas carnales, pues toda carne es hierba. (Isa. 40:6) Los hombres se llenan con los panes cuando lo que oyen con el oído lo cumplen en la práctica.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0600a6986f8d"
+ },
+ "hcf:John Chrysostom/John 6_10#0": {
+  "text_es": "Hizo que los hombres se sentaran antes de que aparecieran los panes, para enseñarnos que para Él las cosas que no son son como las que son; como dice Pablo: Quien llama las cosas que no son como si fueran. (Rom. 4:17.) El pasaje prosigue entonces: Y Jesús dijo: Haced sentar a los hombres.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "558255657288"
+ },
+ "hcf:Theophylact of Ohrid/John 6_10-11#0": {
+  "text_es": "esto es, hierba verde. Era el tiempo de la Pascua, que se celebraba el primer mes de la primavera. Así que los hombres se sentaron, en número de unos cinco mil. El Evangelista solo cuenta a los hombres, siguiendo la indicación de la ley. Moisés contó al pueblo de veinte años para arriba, sin mencionar a las mujeres; para significar que el carácter viril y juvenil es especialmente honorable a los ojos de Dios. Y Jesús tomó los panes; y cuando hubo dado gracias, los distribuyó a los que estaban sentados; y asimismo de los peces cuanto querían.\n\nAprendemos también de este milagro a no ser pusilánimes en las mayores estrecheces de la pobreza.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "91636f0d80f7"
+ },
+ "aquifer:19179": {
+  "text_es": "La sencilla comida proporcionó a la multitud cuanto querían. Esto fue similar al milagro del maná en el desierto (Éxodo 16:35). En aquella historia anterior, Dios dio pan del cielo por medio de Moisés. Ahora, Jesús proporcionó pan al pueblo de manera similar.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3b6e33947315"
+ },
+ "hcf:Alcuin of York/John 6_11#0": {
+  "text_es": "El que no hiciera panes nuevos, sino que multiplicara los que había, significa que no rechazó el Antiguo Testamento, sino que solo lo desarrolló y explicó.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e7107847e611"
+ },
+ "hcf:Augustine of Hippo/John 6_11#0": {
+  "text_es": "Multiplicó en Sus manos los cinco panes, así como produce la cosecha de unos pocos granos. Había un poder en las manos de Cristo; y aquellos cinco panes eran, por así decirlo, semillas, no ciertamente confiadas a la tierra, sino multiplicadas por Aquel que hizo la tierra.\n\n(Tr. xxiv. s. 5) Con el acto de partir multiplicó los cinco panes. Los cinco libros de Moisés, al ser expuestos partiéndolos, esto es, desplegándolos, produjeron muchos libros.\n\n(lib. lxxxiii. Quæst. qu. 61) Nuestro Señor, al partir, por así decirlo, lo que había de duro en la Ley, y al abrir lo que estaba cerrado, aquella vez cuando abrió las Escrituras a los discípulos después de la resurrección, sacó la Ley en su pleno significado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0fd6cc21e485"
+ },
+ "hcf:Hilary of Poitiers/John 6_11#1": {
+  "text_es": "Cinco panes son, pues, puestos ante la multitud, y partidos. Las porciones partidas pasan a las manos de los que parten, sin que aquello de lo que se parten disminuya en absoluto en ningún momento. Y sin embargo, allí están, los trozos tomados de él, en las manos de las personas que parten. No hay captación por la vista ni por el tacto de la operación milagrosa: existe aquello que no era, se ve aquello que no se entiende. Solo nos queda creer que Dios puede hacer todas las cosas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8099ba83ef0a",
+  "corregido_por_juez": "Error de sentido: «that is, which was not» significa «existe aquello que no era» (verbo ser/existir), pero se tradujo como la conjunción explicativa «esto es, lo que no era»."
+ },
+ "hcf:John Chrysostom/John 6_11#1": {
+  "text_es": "\"Y dio a los que estaban sentados, y se saciaron.\" ¿Ves cuán grande es la distancia entre los siervos y el Maestro? Ellos, teniendo la gracia por medida, obraron sus milagros en consecuencia, pero Dios, que actúa con poder libre, lo hizo todo con suma abundancia.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "eee3246b1fef"
+ },
+ "hcf:Augustine of Hippo/John 6_12-13#0": {
+  "text_es": "Y ¿qué son los fragmentos, sino las partes que el pueblo no pudo comer? Una indicación de que aquellas verdades más profundas, que la multitud no puede asimilar, deben ser confiadas a quienes son capaces de recibirlas, y luego enseñarlas a otros; como fueron los Apóstoles. Por lo cual doce cestas fueron llenadas con ellos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "aa952e9d6dc9"
+ },
+ "hcf:John Chrysostom/John 6_12#0": {
+  "text_es": "\"Y dijo a Sus discípulos: Recoged los fragmentos que quedan; y los recogieron y llenaron doce cestas.\" Esto no fue una demostración superflua, sino para que el asunto no fuera considerado una mera ilusión; y por esta razón crea a partir de materia ya existente. \"Pero ¿por qué no dio el pan a las multitudes para que lo llevaran, sino solo a Sus discípulos?\" Porque deseaba sobremanera instruir a estos que habían de ser los maestros del mundo. La multitud aún no sacaría gran fruto de los milagros (al menos olvidaron de inmediato este y pidieron otro), mientras que estos obtendrían un provecho no común. Y lo que tuvo lugar fue además una condenación no ordinaria de Judas, que llevaba una cesta.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "33be3313e16a"
+ },
+ "hcf:Alcuin of York/John 6_13#0": {
+  "text_es": "Las cestas se usan para el trabajo servil. Las cestas aquí son los Apóstoles y sus seguidores, que, aunque despreciados en esta vida presente, están por dentro llenos de las riquezas de los sacramentos espirituales. Los Apóstoles también son representados como cestas, porque por medio de ellos la doctrina de la Trinidad había de ser predicada en las cuatro partes del mundo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fe4805f91016"
+ },
+ "hcf:John Chrysostom/John 6_13#1": {
+  "text_es": "Los fragmentos entonces confirmaron el asunto, mostrando ambos puntos: que lo que había tenido lugar no era una ilusión, y que estos eran de los panes con que el pueblo había sido alimentado. En cuanto a los peces, en este tiempo fueron producidos de los ya existentes, pero en un período posterior, después de la Resurrección, no fueron hechos de materia existente. \"¿Por qué?\" Para que entiendas que aun ahora Él empleó materia, no por necesidad, ni como necesitando alguna base sobre la cual obrar, sino para tapar la boca de los herejes.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "90ab3057688e"
+ },
+ "aquifer:19180": {
+  "text_es": "⸢Verdaderamente este es el Profeta que había de venir al mundo⸣: La multitud entendió el milagro como un cumplimiento de las promesas del Antiguo Testamento (véase Deuteronomio 18:15, 18; Malaquías 4:5–6).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bbe1c81acc65"
+ },
+ "hcf:Alcuin of York/John 6_14#0": {
+  "text_es": "Su fe era aún débil, por lo que solo llaman Profeta a nuestro Señor, sin saber que era Dios. Pero el milagro había producido considerable efecto en ellos, pues hizo que llamaran a nuestro Señor aquel Profeta, singularizándolo entre los demás. Lo llaman Profeta, porque algunos de los Profetas habían obrado milagros; y con razón, en cuanto que nuestro Señor se llama a sí mismo Profeta: No puede ser que un profeta perezca fuera de Jerusalén. (Luke 13:33)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "be6dddacce30",
+  "corregido_por_juez": "Cambio de sujeto y sentido: «it made them call» se refiera al milagro («hizo que llamaran» / «les hizo llamar») y no a «hicieron que llamaran»."
+ },
+ "hcf:Augustine of Hippo/John 6_14#0": {
+  "text_es": "Cristo es un Profeta, y el Señor de los Profetas; así como es un Ángel, y el Señor de los Ángeles. En cuanto que vino a anunciar algo, era un Ángel; en cuanto que predijo el futuro, era un Profeta; en cuanto que era el Verbo hecho carne, era Señor tanto de los Ángeles como de los Profetas; pues nadie puede ser Profeta sin la palabra de Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3b0028129e67"
+ },
+ "hcf:Bede/John 6_14#0": {
+  "text_es": "Cuando la multitud vio el milagro que nuestro Señor había hecho, se maravilló; pues aún no sabían que era Dios. Entonces aquellos hombres, añade el Evangelista, esto es, hombres carnales, cuyo entendimiento era carnal, cuando percibieron el milagro que Jesús hizo, dijeron: Este es de verdad aquel Profeta que había de venir al mundo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3993d0c95848"
+ },
+ "hcf:John Chrysostom/John 6_14#0": {
+  "text_es": "\"Y las multitudes dijeron que este es de verdad el Profeta.\" ¡Oh, exceso de glotonería! Había hecho diez mil cosas más admirables que esta, pero en ningún lugar hicieron esta confesión, sino cuando se habían saciado. Sin embargo, de aquí es evidente que esperaban algún profeta notable; pues aquellos otros habían dicho (a Juan): \"¿Eres tú aquel Profeta?\", mientras que estos dicen: \"Este es aquel Profeta.\"",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "07d00116ff57"
+ },
+ "aquifer:19181": {
+  "text_es": "⸢estaban a punto de venir y hacerle rey por la fuerza⸣: Para evitar este papel, Jesús huyó de la multitud y mandó a sus discípulos que volvieran al otro lado del lago (Marcos 6:45–46).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ddaa37a632e8"
+ },
+ "hcf:Alcuin of York/John 6_15#0": {
+  "text_es": "Quien dio ejemplo de rechazar la alabanza y el poder terrenal, da también a los maestros ejemplo de desprendimiento en la predicación.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a33c052e8331"
+ },
+ "hcf:Bede/John 6_15#0": {
+  "text_es": "La multitud, concluyendo de tan gran milagro que Él era misericordioso y poderoso, quiso hacerle rey. Pues a los hombres les gusta tener un rey misericordioso que los gobierne, y uno poderoso que los proteja. Nuestro Señor, sabiendo esto, se retiró al monte: Cuando Jesús, pues, percibió que iban a venir y tomarle por la fuerza para hacerle rey, se retiró de nuevo al monte Él solo. De esto deducimos que nuestro Señor había bajado antes del monte, donde estaba sentado con Sus discípulos, cuando vio venir a la multitud, y los había alimentado en el llano de abajo. Pues ¿cómo podría subir de nuevo al monte, a menos que hubiera bajado de él?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "adfceabdd716"
+ },
+ "hcf:John Chrysostom/John 6_15-19#0": {
+  "text_es": "¿Por qué, pues, Cristo los deja ir y no se les muestra? Y de nuevo, ¿por qué se les muestra caminando solo sobre el mar? Con lo primero les enseña cuán grande mal es ser abandonados por Él, y hace mayor su anhelo; con lo segundo, a su vez, muestra su poder. Pues así como en su enseñanza no oían todo en común con la multitud, tampoco en el caso de los milagros los veían todos con la muchedumbre, ya que era necesario que quienes iban a recibir a su cargo la presidencia del mundo tuvieran algo más que los demás.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c073e0962ed3"
+ },
+ "hcf:Augustine of Hippo/John 6_16#1": {
+  "text_es": "He aquí, Jesús está en el monte, y los discípulos están en la barca. Él, en el monte, está en lo alto; ellos, en el mar, en lo bajo. Y sin embargo, no los dejó quien estaba distante de ellos; así como tampoco nos deja a nosotros (pues con Él está nuestra esperanza), aun en el hecho de que somos detenidos en este cuerpo, hasta que venga el fin del mundo. Y estando la barca en el mar, se levantó con fuerza la ráfaga, y eran atormentados por el oleaje. No puede ser que la fe de Cristo esté sin tempestad en este mundo. Mucha presunción hay verdaderamente en un hombre si piensa vivir sin tentación.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "052fdf4a654e"
+ },
+ "hcf:John Chrysostom/John 6_16-17#0": {
+  "text_es": "Cristo provee para el bien de sus discípulos no solo cuando está presente en el cuerpo, sino también cuando está lejos; pues teniendo abundancia de medios y de habilidad, logra un mismo fin por acciones contrarias. Observa, por ejemplo, lo que hizo aquí. Deja a sus discípulos y sube a un monte; y ellos, cuando llegó la tarde, bajaron al mar. Lo esperaron hasta la tarde, esperando que viniera a ellos; pero cuando llegó la tarde, ya no pudieron soportar no buscar a su Maestro; tan grande amor los poseía. No dijeron: «Ya es de tarde, y la noche nos ha sorprendido, ¿a dónde iremos? El lugar es peligroso, el tiempo inseguro»; sino que, aguijoneados por su anhelo, entraron en la barca. Pues no sin causa el Evangelista declaró también el tiempo, sino para mostrar por él el ardor de su amor.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4902a71caf9b"
+ },
+ "hcf:Cyril of Alexandria/John 6_17#0": {
+  "text_es": "Muchas cosas a la vez se disponen provechosamente, y las circunstancias impulsan a los discípulos a una búsqueda más ferviente del Salvador. Pues la profunda oscuridad de la noche los turba, cerniéndose como humo sobre las olas enfurecidas, y les quita todo conocimiento de hacia dónde dirigirse finalmente. Además, la fiereza de los vientos los turba no poco, cabalgando sobre las olas con ruido impetuoso y elevando las mareas a una altura desacostumbrada. Sí, y aunque estas cosas habían sucedido, Jesús (dice) aún no había venido a ellos; pues en esto estaba su peligro especial, y la ausencia de Cristo de los navegantes obraba aumento de su temor.\n\nPor tanto, necesariamente han de ser sacudidos por la tempestad quienes no están con Jesús, sino que están cortados, o parecen estar ausentes de Él por su alejamiento de sus santas leyes, y separados por causa del pecado de Aquel que es poderoso para salvar. Si, pues, es pesado estar en tinieblas espirituales, si es penoso ser tragado en el mar amargo de los placeres, recibamos a Jesús: pues esto nos librará de los peligros y de la muerte en el pecado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b7e50952da79"
+ },
+ "aquifer:19182": {
+  "text_es": "Fuertes vientos de este a oeste soplan a menudo desde los acantilados orientales del mar de Galilea. Estos vientos suelen venir al final del día.\n\nCuando el viento se precipita hacia el agua, puede levantar rápidamente olas altas. Como resultado, el lago puede volverse muy agitado y peligroso. Las tormentas repentinas y violentas eran comunes en esa zona.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cc68bf3619c4"
+ },
+ "hcf:John Chrysostom/John 6_18#1": {
+  "text_es": "Permitió que se levantara la tormenta, para que lo buscaran siempre.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3168f8aed9a2"
+ },
+ "aquifer:19183": {
+  "text_es": "Los discípulos tenían miedo de la tormenta. Entonces vieron a Jesús caminando sobre el agua hacia ellos. En ese momento, su miedo a la tormenta fue reemplazado por temor y asombro ante él. Jesús vino a ayudarlos. Al caminar sobre el agua, mostró su autoridad sobre la naturaleza.\n\nEste acto recordó a Moisés, quien condujo a Israel a salvo a través del agua (Éxodo 14; véase Salmos 77:19–20).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "28841b639114"
+ },
+ "hcf:Bede/John 6_19#0": {
+  "text_es": "La manera de hablar que usamos cuando estamos en duda; acerca de cinco y veinte, decimos, o treinta.\n\nEsta barca, sin embargo, no lleva una tripulación ociosa; todos son remeros robustos; es decir, en la Iglesia no los ociosos y afeminados, sino los esforzados y perseverantes en las buenas obras, alcanzan el puerto de la salvación eterna.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "931f992193c4"
+ },
+ "hcf:John Chrysostom/John 6_19-20#0": {
+  "text_es": "Y al fin aparece de manera totalmente inesperada: Ven a Jesús caminando sobre el mar, acercándose. Reaparece después de su retiro, enseñándoles lo que es ser abandonados, y estimulándolos a un mayor amor; su reaparición manifiesta su poder. Estaban turbados, tenían miedo, se dice. Nuestro Señor los consuela: Pero Él les dice: Soy yo, no temáis.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9e4d22d6ac68"
+ },
+ "hcf:Theophylact of Ohrid/John 6_19-21#0": {
+  "text_es": "Observa los tres milagros aquí; el primero, su caminar sobre el mar; el segundo, el calmar las olas; el tercero, el ponerlos inmediatamente en la orilla, de la cual estaban a cierta distancia cuando nuestro Señor apareció.\n\nCuando los hombres o los demonios intentan aterrorizarnos, oigamos a Cristo decir: Soy yo, no temáis, es decir, yo estoy siempre cerca de vosotros, Dios inmutable, inamovible; que ningún temor falso destruya vuestra fe en mí. Observa también que nuestro Señor no vino cuando el peligro comenzaba, sino cuando estaba terminando. Nos permite permanecer en medio de los peligros y tribulaciones, para que seamos probados por ellos y huyamos en busca de auxilio a Aquel que puede darnos liberación cuando menos lo esperamos. Cuando el entendimiento humano ya no puede ayudarle, entonces viene la liberación divina. Si estamos dispuestos también a recibir a Cristo en la barca, es decir, a vivir en nuestros corazones, nos encontraremos inmediatamente en el lugar donde deseamos estar, es decir, el cielo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "37f4005ba60d"
+ },
+ "aquifer:19184": {
+  "text_es": "⸢Soy yo⸣ (literalmente, ⸢Yo soy⸣): Jesús se identificó con el nombre que Dios había revelado a Moisés en el monte Sinaí (véase Éxodo 3:14; véase también Juan 4:26; 6:35).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d4aa15750707"
+ },
+ "hcf:Bede/John 6_20#0": {
+  "text_es": "No dice: Yo soy Jesús, sino solamente Yo soy. Confía en que reconocerían fácilmente una voz que les era tan familiar, o, como es más probable, muestra que era el mismo que dijo a Moisés: Yo soy el que soy (Éxodo 3:14)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c1b571263571"
+ },
+ "hcf:John Chrysostom/John 6_20-21#0": {
+  "text_es": "O toma otra explicación. Este milagro me parece que es distinto del que se da en Mateo; pues allí no lo reciben en la barca inmediatamente, mientras que aquí sí lo hacen; y allí la tormenta dura algún tiempo, mientras que aquí, tan pronto como Él habla, hay calma. A menudo repite el mismo milagro para imprimirlo en las mentes de los hombres.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e0dc097711c3"
+ },
+ "aquifer:19185": {
+  "text_es": "⸢al instante la barca llegó a la orilla adonde se dirigían⸣: La sanación ocurrió al instante. Este resultado inmediato fue otro milagro realizado por Jesús.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9abbc01dca1c"
+ },
+ "hcf:John Chrysostom/John 6_21#0": {
+  "text_es": "Se les apareció de esta manera, para mostrar su poder; pues inmediatamente calmó la tempestad: Entonces quisieron recibirlo en la barca; y al instante la barca estaba en la tierra adonde iban. Tan grande fue la calma, que ni siquiera entró en la barca, a fin de obrar un milagro mayor y mostrar más claramente su divinidad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5a86d893f667"
+ },
+ "hcf:Alcuin of York/John 6_22-23#0": {
+  "text_es": "Para tomar el pasaje místicamente: al día siguiente, es decir, después de la ascensión de Cristo, la multitud que está en buenas obras, no yaciendo en placeres mundanos, espera que Jesús venga a ellos. La única barca es la única Iglesia; las otras barcas que vienen además son las conventículos de los herejes, que buscan lo suyo, no las cosas de Jesucristo. (Fil. 2:21)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bd8daa4c01f7"
+ },
+ "hcf:John Chrysostom/John 6_22#1": {
+  "text_es": "¿Qué otra cosa, pues, podían sospechar, sino que había llegado allí cruzando el mar a pie? Pues no era posible decir que había pasado en otra barca. Porque «había una», dice el Evangelista, «en la que entraron sus discípulos».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9b35be73b169"
+ },
+ "hcf:Augustine of Hippo/John 6_23-24#0": {
+  "text_es": "El conocimiento del milagro les fue transmitido indirectamente. Otras barcas habían llegado al lugar donde habían comido el pan; en estas fueron tras Él; Sin embargo, vinieron otras barcas de Tiberias, cerca del lugar donde comieron el pan, después que el Señor dio gracias. Cuando la gente, pues, vio que Jesús no estaba allí, ni sus discípulos, también ellos tomaron barcas y fueron a Capernaum, buscando a Jesús.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e8788eb8a4a7"
+ },
+ "hcf:Bede/John 6_23-24#0": {
+  "text_es": "El significado místico es que los conventículos de los herejes están sin la compañía de Cristo y sus discípulos. Y otras barcas que vienen son el crecimiento repentino de las herejías. Por la multitud, que vio que Jesús no estaba allí, ni sus discípulos, se designan aquellos que, viendo los errores de los herejes, los dejan y se vuelven a la verdadera fe.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1f9701094c86"
+ },
+ "aquifer:19186": {
+  "text_es": "La multitud navegó hacia el norte a Capernaum para buscar a Jesús porque él había hecho de Capernaum su hogar en Galilea (Marcos 2:1).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2414a8a75495"
+ },
+ "hcf:Cyril of Alexandria/John 6_24#0": {
+  "text_es": "Estos hombres lo siguen, maravillándose quizá de sus milagros, pero sin recibir de ellos ningún provecho para el deber de la fe, sino como si hicieran alguna retribución al Hacedor de maravillas con solo otorgarle una alabanza no indeseada. Pues esta es una enfermedad triste de una mente y un alma que nunca está acostumbrada a ser llevada a la elección de lo que le es provechoso. La razón de que esto fuera así con ellos fue que se deleitaban únicamente en los placeres de la carne, y saltaban ansiosamente tras el más vil alimento temporal, en lugar de apresurarse tras los bienes espirituales y esforzarse por ganar lo que los sostendría para la vida eterna. Esto lo aprenderás claramente también por lo que sigue.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "14aacace5bce"
+ },
+ "hcf:Augustine of Hippo/John 6_25#0": {
+  "text_es": "Así, Aquel que había huido al monte, se mezcla y conversa con la multitud. Hace solo un momento querían retenerlo y hacerlo rey. Pero después del sacramento del milagro, comienza a discurrir, y llena sus almas con su palabra, cuyos cuerpos había satisfecho con pan.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3fdf7e0b0919"
+ },
+ "hcf:John Chrysostom/John 6_25#1": {
+  "text_es": "Sin embargo, cuando vinieron a Él después de tan gran prodigio, no le preguntaron cómo había cruzado, cómo había llegado allí, ni buscaron entender tan gran señal. Sino ¿qué dicen? «Maestro, ¿cuándo llegaste acá?»",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1d67285eee4c"
+ },
+ "aquifer:19187": {
+  "text_es": "Este diálogo tuvo lugar en la sinagoga de Capernaum poco antes de la Pascua (6:4, 59). Durante la Pascua, los judíos leían la historia del éxodo de Egipto (véase Éxodo 1–15).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f14bb5a7a114",
+  "text_es_2": "Este diálogo tuvo lugar en la sinagoga de Capernaum poco antes de la Pascua (6:4, 59). Durante la Pascua, los judíos leían la historia del éxodo de Egipto (véase Éxodo 1–15).",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "aquifer:19188": {
+  "text_es": "La multitud había decidido que Jesús era un profeta. Incluso querían usarlo para sus propios fines políticos (véase 6:15).\n\nSin embargo, no comprendieron el verdadero significado del milagro. Se centraron en el pan y en las señales.\n\nJesús entonces explicó lo que realmente significaba el milagro. Enseñó que las personas no deben trabajar solo por el alimento que se echa a perder. En cambio, deben buscar el alimento que da vida eterna (6:27–59).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "47af8b464555"
+ },
+ "hcf:Alcuin of York/John 6_26#0": {
+  "text_es": "Por lo cual bien dice: Me buscáis, porque comisteis de los panes.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a000430dcbb5"
+ },
+ "hcf:Augustine of Hippo/John 6_26#1": {
+  "text_es": "Como si dijera: Me buscáis para satisfacer la carne, no el espíritu.\n\n(Tr. xxv. 10) ¡Cuántos hay que buscan a Jesús solo para obtener algún beneficio temporal! Uno tiene un asunto de negocios, en el que quiere la ayuda del clero; otro es oprimido por un vecino más poderoso, y huye a la Iglesia en busca de refugio: apenas si se busca a Jesús por causa de Jesús.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "51b37a6c4220"
+ },
+ "hcf:Bede/John 6_26-27#0": {
+  "text_es": "También buscan a Jesús, no por causa de Jesús, sino por otra cosa, quienes en sus oraciones piden no bendiciones eternas, sino temporales.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c490c72f2238"
+ },
+ "hcf:Gregory the Dialogist/John 6_26#0": {
+  "text_es": "En su persona también nuestro Señor condena a todos aquellos dentro de la santa Iglesia que, cuando son acercados a Dios por las Órdenes sagradas, no buscan la recompensa de la justicia, sino los intereses de esta vida presente. Seguir a nuestro Señor, cuando se está lleno de pan, es usar la santa Iglesia como medio de subsistencia; y buscar a nuestro Señor no por causa del milagro, sino por los panes, es aspirar a un oficio religioso, no con vistas a un aumento de gracia, sino para añadir a nuestros medios mundanos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "75abf1f3da25"
+ },
+ "hcf:John Chrysostom/John 6_26#0": {
+  "text_es": "Lo suave y benigno no siempre es útil, sino que hay ocasiones en que el maestro necesita un lenguaje más agudo. Pues si el discípulo es torpe y grosero, entonces, para tocar su torpeza en lo vivo, debemos despertarlo con una aguijada. Y esto lo ha hecho el Hijo de Dios en el presente caso, así como en muchos otros. Pues cuando las multitudes habían venido y encontrado a Jesús, y lo adulaban, diciendo: «Maestro, ¿cuándo llegaste acá?», para mostrar que no desea honor de los hombres, sino que mira a una sola cosa, su salvación, les responde con severidad, queriendo corregirlos no solo de esta manera, sino también revelando y exponiendo sus pensamientos. Pues ¿qué dice? «De cierto, de cierto os digo» (hablando de manera positiva y con confirmación), «me buscáis, no porque visteis milagros, sino porque comisteis de los panes y os saciasteis». Los reprende y los amonesta con estas palabras, pero no de manera tan abrupta o violenta, sino con mucha moderación. Pues no dice: «¡Oh glotones y esclavos del vientre, he obrado tantas maravillas, y nunca me habéis seguido ni os habéis maravillado de mis obras!»; sino con suavidad y mansedumbre, más o menos de esta manera: «Me buscáis, no porque visteis milagros, sino porque comisteis de los panes y os saciasteis»; hablando no solo del pasado, sino también del milagro presente. «No fue», dice, «el milagro de los panes lo que os asombró, sino el haberos saciado». Y que no dijo esto de ellos por conjetura, lo mostraron de inmediato, pues por esta razón vinieron la segunda vez, como para disfrutar del mismo (alimento) que antes. Por lo cual dijeron: «Nuestros padres comieron el maná en el desierto». De nuevo lo atraen al tema del alimento carnal, que era la principal acusación y cargo contra ellos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "18a2d6798071"
+ },
+ "aquifer:19189": {
+  "text_es": "El mayor regalo que Jesús da no es pan físico, sino vida eterna. El Padre le dio a Jesús la autoridad para hacer esto.\n\nEl alimento físico se echa a perder. Pero Jesús, que es el pan de vida, ofrece un regalo que dura para siempre (6:35).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "90a8997e7a3e"
+ },
+ "hcf:Alcuin of York/John 6_27#0": {
+  "text_es": "El alimento corporal solo sustenta la carne del hombre exterior, y debe tomarse no una vez para siempre, sino diariamente; mientras que el alimento espiritual permanece para siempre, impartiendo plenitud perpetua e inmortalidad.\n\nCuando, por medio de la mano del sacerdote, recibes el Cuerpo de Cristo, no pienses en el sacerdote que ves, sino en el Sacerdote que no ves. El sacerdote es el dispensador de este alimento, no el autor. El Hijo del hombre se da a sí mismo a nosotros, para que permanezcamos en él, y él en nosotros. No concibas que ese Hijo del hombre sea igual que los otros hijos de los hombres: él está solo en abundancia de gracia, separado y distinto de todos los demás; pues ese Hijo del hombre es el Hijo de Dios, como sigue: Porque a él selló Dios el Padre. Sellar es poner una marca; así el significado es: No me desprecies porque soy el Hijo del hombre, pues soy el Hijo del hombre de tal manera que el Padre me ha sellado, es decir, me ha dado algo peculiar, a fin de que yo no sea confundido con el género humano, sino que el género humano sea librado por mí.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ba8e766c90cf"
+ },
+ "hcf:Augustine of Hippo/John 6_27#1": {
+  "text_es": "Bajo la figura del alimento se alude a sí mismo. Me buscáis, dice, por causa de otra cosa; buscadme por causa de mí mismo.\n\n(Tr. xxv. 10) Como le dijo arriba a la mujer de Samaria: Si conocieras quién es el que te dice: Dame de beber, tú le habrías pedido, y él te habría dado agua viva. (c. 4) Así dice aquí: La cual el Hijo del hombre os dará.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ccc09595c68b"
+ },
+ "hcf:Cyril of Alexandria/John 6_27#2": {
+  "text_es": "El rostro de Dios el Padre es el Hijo, que es la impronta de Dios. Pero la luz de Dios es la gracia que pasa a la creación por medio del Espíritu, por la cual somos reformados para Dios mediante la fe. Recibimos de Dios, como con un sello, el ser conformados a su Hijo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b02f82e86930"
+ },
+ "hcf:Hilary of Poitiers/John 6_27#1": {
+  "text_es": "Un sello produce una impresión perfecta del cuño, al mismo tiempo que recibe esa impresión. Esta no es una ilustración perfecta de la natividad divina: pues el sellar supone materia, diferentes clases de materia, la impresión de lo más duro sobre lo más blando. Sin embargo, aquel que era Dios unigénito, y el Hijo del hombre solo por el sacramento de nuestra salvación, se sirve de ello para expresar la plenitud del Padre como estampada en sí mismo. Desea mostrar a los judíos que tiene el poder de dar el alimento eterno, porque contenía en sí mismo la plenitud de Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "174419195b7e"
+ },
+ "hcf:Alcuin of York/John 6_28#0": {
+  "text_es": "Entendieron que el alimento que permanece para vida eterna era la obra de Dios; y por eso le preguntan qué deben hacer para hacer la obra de Dios, es decir, obtener el alimento: Entonces le dijeron: ¿Qué debemos hacer para poner en práctica las obras de Dios?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0cad1b5b6803"
+ },
+ "hcf:Bede/John 6_28#0": {
+  "text_es": "Es decir, ¿guardando qué mandamientos podremos cumplir la ley de Dios?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7b1397420720"
+ },
+ "hcf:John Chrysostom/John 6_28#0": {
+  "text_es": "Como si no hubieran oído nada, dijeron: «¿Qué debemos hacer para poner en práctica las obras de Dios?» Esto lo dijeron, no para aprenderlas y practicarlas (como muestra lo que sigue), sino para inducirlo de nuevo a proveerles alimento, y deseando persuadirlo de que los satisficiera.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e22cd0bfcaaa"
+ },
+ "hcf:Augustine of Hippo/John 6_29#0": {
+  "text_es": "No dice: Que le creáis, sino: que creáis en Él. Pues los demonios le creyeron, y no creyeron en Él; y nosotros creemos a Pablo, pero no creemos en Pablo. Creer en Él es creer amando, creer honrándole, creer yendo a Él, y ser hechos miembros incorporados de su Cuerpo. La fe que Dios nos exige es la que obra por amor. En efecto, el Apóstol distingue la fe de las obras, cuando dice: Que el hombre es justificado por la fe sin las obras de la ley. (Rom. 3:28) Pero las obras que parecen buenas, sin fe en Cristo, no lo son realmente, pues no se refieren a aquel fin que las hace buenas. Porque Cristo es el fin de la ley para justicia a todo aquel que cree (Rom. 10:4). Y por eso nuestro Señor no quiso separar la fe de las obras, sino que dijo que la fe misma era hacer la obra de Dios; no dice: Esta es vuestra obra, sino: Esta es la obra de Dios, que creáis en Él; a fin de que el que se gloría, se gloríe en el Señor.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "742a43163c0f",
+  "corregido_por_juez": "Se pierde la distinción entre «believe Him» (creerle a Él) y «believe on Him» (creer en Él) al traducir ambas expresiones idénticamente como «creáis en él» y «creyeron en él», generando una contradicción ilógica en el texto."
+ },
+ "hcf:Theophylact of Ohrid/John 6_29#0": {
+  "text_es": "Cristo, aunque vio que no aprovecharía, sin embargo, para bien de otros después, respondió a su pregunta; y les mostró, o más bien al mundo entero, cuál era la obra de Dios: Respondió Jesús y les dijo: Esta es la obra de Dios, que creáis en aquel que él ha enviado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3156b2ae89ac"
+ },
+ "aquifer:19190": {
+  "text_es": "La multitud le pidió a Jesús otra señal milagrosa. Querían prueba de que él era el Mesías.\n\nMuchos judíos creían que cuando viniera el Mesías, repetiría el gran milagro relacionado con Moisés. Esperaban que el maná cayera del cielo de nuevo, como había sucedido en el desierto.\n\nSi eso ocurría, la gente lo vería como un segundo éxodo. Les recordaría cómo Dios rescató a Israel de Egipto y los alimentó en el desierto.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ba4ae78032cc"
+ },
+ "hcf:Augustine of Hippo/John 6_30-31#1": {
+  "text_es": "Comer entonces ese alimento que permanece para vida eterna es creer en él. ¿Por qué preparas tu diente y tu vientre? Solo cree, y ya has comido. Como él los exhortó a creer, ellos todavía pedían milagros para creer; Le dijeron, pues: ¿Qué señal haces entonces, para que la veamos y te creamos? ¿Qué obra haces?\n\n(Tr. xxv. s. 12) O así: Nuestro Señor se pone por encima de Moisés, quien no se atrevió a decir que él daba el alimento que no perece. La multitud, pues, recordando lo que Moisés había hecho, y deseando algún milagro mayor, dice, por así decirlo: Tú prometes el alimento que no perece, y no haces obras iguales a las que hizo Moisés. Él no nos dio panes de cebada, sino maná del cielo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "320b673bbee7"
+ },
+ "hcf:John Chrysostom/John 6_30-31#1": {
+  "text_es": "Observa también su hipocresía. No dijeron: «Moisés hizo esta señal, ¿qué haces tú?», pensando que lo irritarían; sino que por un tiempo se dirigen a él con gran reverencia, por la expectativa de alimento. Así que no dijeron: «Dios hizo esto, ¿qué haces tú?», para no parecer que lo hacían igual a Dios; ni trajeron a Moisés, para no parecer que lo rebajaban, sino que pusieron el asunto en una forma intermedia: «Nuestros padres comieron el maná en el desierto». Él ciertamente podría haber respondido: «Yo, pero ahora, he obrado mayores maravillas que las que hizo Moisés, sin necesidad de vara, sin necesidad de oración, sino haciéndolo todo yo mismo; y, si recordáis el maná, mirad, os he dado pan». Pero no era el momento para tales discursos; y lo único que deseaba ardientemente era llevarlos al alimento espiritual.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5fabd2184b6d"
+ },
+ "hcf:Alcuin of York/John 6_31#0": {
+  "text_es": "Y para exaltar el milagro del maná, citan el Salmo: Como está escrito: Les dio pan del cielo para comer.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "941263b7529e"
+ },
+ "hcf:Theophylact of Ohrid/John 6_31-32#0": {
+  "text_es": "Se llama a sí mismo el pan verdadero, porque el unigénito Hijo de Dios, hecho hombre, fue significado principalmente por el maná. Pues maná significa literalmente: ¿qué es esto? Los israelitas se asombraron al principio al encontrarlo, y se preguntaban unos a otros qué era. Y el Hijo de Dios, hecho hombre, es en sentido especial este misterioso maná, acerca del cual preguntamos, diciendo: ¿Qué es esto? ¿Cómo puede el Hijo de Dios ser el Hijo del hombre? ¿Cómo puede una persona constar de dos naturalezas?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c54198612c26"
+ },
+ "aquifer:19191": {
+  "text_es": "Jesús corrigió el argumento del pueblo: Dios, no Moisés, alimentó a Israel en el desierto.\n\nEl objetivo más importante en la vida es buscar el pan verdadero que viene de Dios. Este pan no es alimento ordinario. Es el don que da vida eterna. «Comer» este pan significa creer en Jesús y depender de él.\n\nQuienes reciben este pan participan de la vida que viene de Dios y dura para siempre.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "10556b395550"
+ },
+ "hcf:Augustine of Hippo/John 6_32-33#1": {
+  "text_es": "Como si dijera: Aquel maná era la figura de este alimento, del cual acabo de hablar; y a él se refieren todos mis milagros. Os agradan mis milagros, pero despreciáis lo que ellos significan. Este pan que Dios da, y que este maná representaba, es el Señor Jesucristo, como leemos a continuación: Porque el pan de Dios es aquel que descendió del cielo y da vida al mundo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "df8544f864a3"
+ },
+ "hcf:John Chrysostom/John 6_32#1": {
+  "text_es": "¿Acaso el maná no era del cielo? ¿Cómo entonces se dice que era del cielo? Del mismo modo que la Escritura habla de «las aves del cielo»; y también: «El Señor tronó desde el cielo». Y llama al otro el «pan verdadero», no porque el milagro del maná fuera falso, sino porque era figura, y no la verdad misma. Pero al mencionar a Moisés, no se compara a sí mismo con él, pues los judíos aún no lo preferían a Moisés, de quien todavía tenían una opinión más alta. De modo que después de decir: «Moisés no dio», no añade: «Yo doy», sino que dice que el Padre, y no Moisés, da.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bd0b4b7fcb2b"
+ },
+ "hcf:Alcuin of York/John 6_33#0": {
+  "text_es": "Quien por la humanidad, que fue asumida, descendió del cielo, y por la divinidad, que la asumió, da vida al mundo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2f67230ba724"
+ },
+ "hcf:Bede/John 6_33#0": {
+  "text_es": "No al mundo físico, sino a los hombres, sus habitantes.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fca680b4bbb2"
+ },
+ "hcf:Theophylact of Ohrid/John 6_33#1": {
+  "text_es": "Pero este pan, siendo esencialmente vida (pues él es el Hijo del Padre viviente), al vivificar todas las cosas, no hace sino lo que le es natural. Pues así como el pan natural sostiene nuestra débil carne, así Cristo, por las operaciones del Espíritu, da vida al alma; y aun la incorrupción al cuerpo (pues en la resurrección el cuerpo será hecho incorruptible). Por lo cual dice que él da vida al mundo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2904f40c3d2a"
+ },
+ "aquifer:19192": {
+  "text_es": "⸢Señor, … danos este pan⸣: Esto es similar a la petición de la mujer samaritana (4:15). El despertar espiritual comienza con una petición del don de Dios.",
+  "lemas_es": [
+   "Señor, … danos este pan"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "03fb3e08b24a",
+  "lemas_rv1909": [
+   {
+    "lema": "Señor, danos siempre este pan",
+    "ref": "JHN.6.34"
+   }
+  ]
+ },
+ "hcf:Augustine of Hippo/John 6_34#0": {
+  "text_es": "Así como la mujer de Samaria, cuando nuestro Señor le dijo: El que bebiere de esta agua, nunca tendrá sed, pensó que se refería al agua natural, y dijo: Señor, dame de esta agua, para que nunca tenga que volver a buscarla; de la misma manera estos dicen: Danos este pan, que refresca, sustenta y no falla.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3b9a3159fc5f"
+ },
+ "aquifer:19193": {
+  "text_es": "En el Evangelio de Juan, las declaraciones «Yo soy» revelan quién es Jesús y para qué vino (véanse también 4:26; 8:12; 9:5; 10:7–9, 11–14; 11:25; 14:6; 15:1–5). Jesús usó las palabras ⸢Yo soy⸣ a propósito. Estas palabras recordarían a sus oyentes el nombre de Dios en el Antiguo Testamento (Éxodo 3:14). ⸢Yo soy el pan de vida⸣: Jesús es el maná verdadero que vino de Dios (Juan 6:38). Él satisface el hambre espiritual de quienes creen en él (compárese 4:10–13).",
+  "lemas_es": [
+   "Yo soy el pan de vida"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6b0df3fd7854",
+  "lemas_rv1909": [
+   {
+    "lema": "Yo soy el pan de vida",
+    "ref": "JHN.6.35"
+   }
+  ]
+ },
+ "hcf:Augustine of Hippo/John 6_35#1": {
+  "text_es": "El que viene a mí, es decir, el que cree en mí, nunca tendrá hambre, tiene el mismo significado que nunca tendrá sed; ambos significan aquella sociedad eterna, donde no hay carencia.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8e0a74603540"
+ },
+ "hcf:Theophylact of Ohrid/John 6_35#0": {
+  "text_es": "No dice: Yo soy el pan de nutrición, sino de vida, pues, mientras que todas las cosas traían muerte, Cristo nos vivificó por sí mismo. Pero la vida aquí no es nuestra vida común, sino la que no es cortada por la muerte: El que viene a mí, nunca tendrá hambre; y el que cree en mí, nunca tendrá sed.\n\nO bien, nunca tendrá hambre ni sed, es decir, nunca se cansará de oír la palabra de Dios, y nunca tendrá sed en cuanto al entendimiento; como si no tuviera el agua del bautismo y la santificación del Espíritu.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5d8548b413bd"
+ },
+ "hcf:Alcuin of York/John 6_36#0": {
+  "text_es": "Como si dijera: No os dije lo que dije acerca del pan porque pensara que lo comeríais, sino más bien para convenceros de incredulidad. Digo que me veis, y no creéis.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "91a95f0b3c1f"
+ },
+ "hcf:Augustine of Hippo/John 6_36#0": {
+  "text_es": "Deseáis pan del cielo; pero, aunque lo tenéis delante, no lo coméis. Esto es lo que os dije: Pero yo os he dicho que también me habéis visto, y no creéis.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "91567e04834d"
+ },
+ "hcf:John Chrysostom/John 6_36#0": {
+  "text_es": "O bien, os dije, se refiere al testimonio de las Escrituras, de las cuales dijo antes: Ellas son las que testifican de mí; y también: Yo he venido en nombre de mi Padre, y no me recibís. Que me habéis visto es una alusión silenciosa a sus milagros.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b1a97c052021"
+ },
+ "aquifer:19194": {
+  "text_es": "La misión de Jesús seguramente tendrá éxito. Dios envió a Jesús y llama a las personas a seguirlo (6:37, 38, 44). Quienes vienen a él están seguros en la promesa que Jesús dio de que no los rechazará ni los perderá (6:39).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f7cc41a4c6e7"
+ },
+ "aquifer:19195": {
+  "text_es": "⸢Todo lo que el Padre me da⸣: Dios actúa para traer a las personas a Jesús a fin de que crean en él.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e971f2b6eef6"
+ },
+ "hcf:Alcuin of York/John 6_37#0": {
+  "text_es": "A quienquiera, pues, que el Padre atraiga a creer en mí, este, por la fe, vendrá a mí, para ser unido a mí. Y a aquellos que, siguiendo los pasos de la fe y de las buenas obras, vengan a mí, de ningún modo los echaré fuera; es decir, en la morada secreta de una conciencia pura, morará conmigo, y al final lo recibiré en la felicidad eterna.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "840318a20471"
+ },
+ "hcf:Augustine of Hippo/John 6_37#1": {
+  "text_es": "Pero, porque me habéis visto, y no creísteis, no por eso he perdido al pueblo de Dios: Todo lo que el Padre me da, vendrá a mí; y al que a mí viene, no le echo fuera.\n\n(Tr. xxv. 14) Aquel lugar interior, de donde no hay expulsión, es un gran santuario, una cámara secreta, donde no hay cansancio, ni amargura de malos pensamientos, ni cruz de dolor y tentación; de la cual se dice: Entra en el gozo de tu Señor. (Mat. 25)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3228524124dc"
+ },
+ "hcf:Bede/John 6_37#0": {
+  "text_es": "Todos, dice, absolutamente, para mostrar la plenitud del número de los que habían de creer. Estos son los que el Padre da al Hijo, cuando, por su secreta inspiración, los hace creer en el Hijo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "79ffc9c96d8c"
+ },
+ "hcf:John Chrysostom/John 6_37#0": {
+  "text_es": "Pero ¿qué quiere decir con: «Todo lo que el Padre me da, vendrá a mí»? Toca su incredulidad, mostrando que quienquiera que no cree en él transgrede la voluntad del Padre. Y así no lo dice desnudamente, sino de manera velada, y esto lo hace en todas partes, queriendo mostrar que los incrédulos están en desacuerdo con el Padre, no solo con él. Pues si esta es su voluntad, y si por esto vino, para salvar al hombre, quienes no creen transgreden su voluntad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f4e45408ebdc"
+ },
+ "hcf:Augustine of Hippo/John 6_38#3": {
+  "text_es": "Esta es la razón por la que no echa fuera a los que vienen a él. Porque he descendido del cielo, no para hacer mi voluntad, sino la voluntad del que me envió. El alma se apartó de Dios porque era soberbia. La soberbia nos expulsa, la humildad nos restaura. Cuando un médico, en el tratamiento de una enfermedad, cura ciertos síntomas externos, pero no la causa que los produce, su cura es solo temporal. Mientras la causa permanezca, la enfermedad puede volver. Para que, pues, fuera erradicada la causa de todas las enfermedades, es decir, la soberbia, el Hijo de Dios se humilló a sí mismo. ¿Por qué te ensoberbeces, oh hombre? El Hijo de Dios se humilló por ti. Quizá te avergonzaría imitar a un hombre humilde; pero imita al menos a un Dios humilde. Y esta es la prueba de su humildad: No he venido para hacer mi voluntad, sino la voluntad del que me envió. La soberbia hace su propia voluntad; la humildad, la voluntad de Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "06fc65bad4f4"
+ },
+ "hcf:Hilary of Poitiers/John 6_38#1": {
+  "text_es": "No que haga lo que no quiere. Cumple obedientemente la voluntad de su Padre, queriendo también él mismo cumplir esa voluntad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "69174942e767"
+ },
+ "hcf:John Chrysostom/John 6_38-40#0": {
+  "text_es": "«He descendido del cielo, no para hacer mi voluntad, sino la voluntad del que me envió». ¿Qué dices? ¿Acaso tu voluntad es una, y la suya otra? Para que nadie sospeche esto, lo explica por lo que sigue, diciendo: «Y esta es la voluntad del que me envió: que todo aquel que ve al Hijo, y cree en él, tenga vida eterna». ¿No es entonces esta tu voluntad? ¿Y cómo dices: «He venido a poner fuego en la tierra, y qué he de desear, si ya está encendido»? Pues si tú también deseas esto, es muy claro que tu voluntad y la del Padre son una.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d86d574b4f20"
+ },
+ "hcf:Augustine of Hippo/John 6_39#1": {
+  "text_es": "Por esta misma razón, pues, no echaré fuera al que viene a mí; porque no vine a hacer mi propia voluntad. Vine a enseñar humildad, siendo yo mismo humilde. El que viene a mí, es hecho miembro mío, y necesariamente humilde, porque no hará su propia voluntad, sino la voluntad de Dios; y por tanto no es echado fuera. Fue echado fuera, como soberbio; vuelve a mí humilde, no es despedido, sino por la soberbia de nuevo; el que guarda su humildad, no cae de la verdad. Y además, que no echa fuera a tales, porque no vino a hacer su voluntad, lo muestra cuando dice: Y esta es la voluntad del Padre que me envió, que de todo lo que me ha dado, no pierda nada. (Mat. 18:14) Todo el que es de mente humilde le es dado: No es la voluntad de vuestro Padre, que uno de estos pequeños perezca. Los engreídos pueden perecer; de los pequeños ninguno puede; porque si no os hacéis como un niño, no entraréis en el reino de los cielos. (Mat. 18:3, 5)\n\n(de Cor. et Gratia, c. ix) Por tanto, los que por la infalible providencia de Dios son previstos, y predestinados, llamados, justificados, glorificados, incluso antes de su nuevo nacimiento, o antes de que nazcan, ya son hijos de Dios, y no pueden perecer; estos son los que verdaderamente vienen a Cristo. Por él se da también la perseverancia en el bien hasta el fin; la cual se da solo a los que no perecerán. Los que no perseveran perecerán.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "63c8f0d43f3f"
+ },
+ "hcf:John Chrysostom/John 6_39-40#0": {
+  "text_es": "\"Y yo le resucitaré en el día postrero.\" ¿Por qué se detiene continuamente en la Resurrección? ¿Acaso para que los hombres no juzguen la providencia de Dios solo por las cosas presentes; para que si no disfrutan de resultados aquí, no se desanimen por eso, sino que esperen las cosas venideras, y para que no, porque sus pecados no son castigados por el momento, lo desprecien, sino que esperen otra vida?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "576cb225e713"
+ },
+ "hcf:Augustine of Hippo/John 6_40#1": {
+  "text_es": "Ved cómo se expresa aquí la doble resurrección. El que viene a mí, resucitará en seguida; al hacerse humilde, y miembro mío. Pero luego prosigue: Pero yo le resucitaré en el día postrero. Para explicar las palabras: Todo lo que el Padre me ha dado, y: No pierda nada, añade: Y esta es la voluntad del que me envió, que todo aquel que ve al Hijo, y cree en él, tenga vida eterna; y yo le resucitaré en el día postrero. Arriba dijo: El que oye mi palabra, y cree en el que me envió: (c. 5:24) ahora es: Todo aquel que ve al Hijo, y cree en él. No dice, cree en el Padre, porque es lo mismo creer en el Padre, y en el Hijo; porque como el Padre tiene vida en sí mismo, así también ha dado al Hijo tener vida en sí mismo; y de nuevo: Que el que ve al Hijo y cree en él, tenga vida eterna: es decir, creyendo, pasando a la vida, como en la primera resurrección. Pero esta es solo la primera resurrección, alude a la segunda cuando dice: Y yo le resucitaré en el día postrero.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "93fefa0ae24f"
+ },
+ "hcf:Cyril of Alexandria/John 6_40#0": {
+  "text_es": "Habiendo ahora definido la buena Voluntad del Padre, la hace clara, y la expone más ampliamente para la consideración de los oyentes, repitiéndola una vez más. Pues cuál es el modo de traer, y qué ganancia hay de ser traído, lo explica claramente. El Padre entonces da al Hijo que tiene Poder para vivificar, las cosas que carecen de vida, las da así, mediante el conocimiento que inserta en cada uno, la verdadera aprehensión del Hijo, y el poder de entender puramente que Él es Dios de Dios verdadero el Padre, para que el así dispuesto, y adornado con las contemplaciones pertenecientes a esto, sea traído al premio de la fe, es decir, una vida duradera e interminable en bienaventuranza. El Padre entonces trae al Hijo por el conocimiento y la Contemplación digna de Dios, a aquellos a quienes decretó la gracia divina. El Hijo los recibe y los vivifica, e injertando su propio Bien en ellos que por su propia naturaleza son propensos a la decadencia, y derramando sobre ellos como una chispa de fuego el Poder vivificante del Espíritu, los reforma enteramente para la inmortalidad. Pero cuando oigas que el Padre los trae, y que el Hijo da el poder de vivir de nuevo a los que corren a Él, no te vayas a fantasías absurdas, como si cada uno hiciera individual y separadamente lo que pertenece por conveniencia de Naturaleza a cada uno, sino entiende más bien que el Padre es Cooperador con el Hijo, y asimismo el Hijo con el Padre, y que nuestra salvación y recuperación de la muerte a la vida es la Obra (por así decirlo) de toda la Santa Trinidad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c46c54ed0ee1"
+ },
+ "aquifer:19196": {
+  "text_es": "Cuando Jesús se llamó a sí mismo ⸢el pan que descendió del cielo⸣, la multitud tuvo que tomar una decisión. ⸢¿No es este Jesús, el hijo de José?⸣: La gente cuestionó a Jesús porque pensaban que lo conocían a él y a su familia.\n\nSu familiaridad con él hacía que sus afirmaciones parecieran extrañas e increíbles. Como lo veían como un hombre común de su pueblo, les costaba aceptar lo que decía sobre sí mismo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f21ef96f7011"
+ },
+ "hcf:Augustine of Hippo/John 6_41#1": {
+  "text_es": "Pero estaban lejos de ser aptos para aquel pan celestial, y no lo anhelaban. Pues no tenían aquella hambre del hombre interior.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6fade95e997f"
+ },
+ "hcf:John Chrysostom/John 6_41-42#0": {
+  "text_es": "Cuando les dio pan, y llenó sus vientres, dijeron que era un Profeta, y procuraron hacerlo Rey: pero cuando les enseñó acerca del alimento espiritual, acerca de la vida eterna, cuando los apartó de los objetos de los sentidos, y les habló de una resurrección, y elevó sus pensamientos a asuntos más altos, cuando más debían haber admirado, murmuran y se apartan. Y sin embargo, si él era aquel Profeta como antes afirmaron, declarando que él era de quien Moisés había dicho: \"Un Profeta de en medio de ti, de tus hermanos, como yo, te levantará el Señor tu Dios; a él oiréis\"; debían haberle oído cuando dijo: \"He descendido del cielo\"; pero no oyeron, sino que murmuraron. Todavía lo reverenciaban, porque el milagro de los panes era reciente, y por eso no lo contradecían abiertamente, sino que mediante el murmullo expresaban su desagrado, de que no les diera la comida que deseaban. Y murmurando decían: \"¿No es este el hijo de José?\" De donde es claro, que hasta entonces no conocían su extraña y maravillosa Generación. Y así todavía dicen que es el hijo de José, y no son reprendidos; y Él no les dice: \"No soy el Hijo de José\"; no porque fuera su hijo, sino porque aún no eran capaces de oír de aquel maravilloso Nacimiento. Y si no podían soportar oír en términos llanos de su nacimiento según la carne, mucho menos podían oír de aquel Nacimiento inefable que es de lo alto. Si no les reveló lo que era inferior, mucho menos les confiaría lo otro.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8bc3e0e58277"
+ },
+ "aquifer:19197": {
+  "text_es": "⸢No murmuréis⸣: En lugar de defenderse contra su queja, Jesús aborda su falta de receptividad espiritual (su apertura a Dios; véase 6:42). Los que aman al Padre y lo escuchan creerán en Jesús.",
+  "lemas_es": [
+   "No murmuréis"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9a607d456f6c",
+  "text_es_2": "⸢No murmuréis⸣: En lugar de defenderse de la queja de ellos, Jesús aborda su falta de receptividad espiritual (su apertura a Dios; véase 6:42). Aquellos que aman al Padre y le escuchan creerán en Jesús.",
+  "modelo_2": "gemini-3.6-flash",
+  "lemas_rv1909": [
+   {
+    "lema": "No murmuréis",
+    "ref": "JHN.6.43"
+   }
+  ]
+ },
+ "hcf:Augustine of Hippo/John 6_44#6": {
+  "text_es": "Ved cómo se expresa aquí la doble resurrección. El que viene a mí, resucitará en seguida; al hacerse humilde y miembro de mí. Pero luego prosigue: Y yo le resucitaré en el día postrero. Para explicar las palabras: Todo lo que el Padre me ha dado, y: No perderé nada, añade: Y esta es la voluntad del que me envió, que todo aquel que ve al Hijo, y cree en él, tenga vida eterna; y yo le resucitaré en el día postrero. Arriba dijo: El que oye mi palabra, y cree al que me envió (c. 5:24); ahora es: Todo aquel que ve al Hijo, y cree en él. No dice: cree en el Padre, porque lo mismo es creer en el Padre y en el Hijo; pues como el Padre tiene vida en sí mismo, así también ha dado al Hijo tener vida en sí mismo; y de nuevo: Que todo aquel que ve al Hijo y cree en él, tenga vida eterna: esto es, creyendo, pasando a la vida, como en la primera resurrección. Pero esta es solo la primera resurrección; alude a la segunda cuando dice: Y yo le resucitaré en el día postrero.\n\n(Tr. xxvi) Tomó sobre sí la carne del hombre, pero no a la manera de los hombres; pues, estando su Padre en el cielo, eligió una madre en la tierra, y nació de ella sin padre. Sigue luego la respuesta a los murmuradores: Jesús entonces les respondió y dijo: No murmuréis entre vosotros; como si dijera: Sé por qué no tenéis hambre de este pan, y por eso no podéis entenderlo, y no lo buscáis: Ninguno puede venir a mí, si el Padre que me envió no le trajere. Esta es la doctrina de la gracia: nadie viene, si no es atraído. Pero a quién atrae el Padre y a quién no, y por qué atrae a uno y no a otro, no presumas decidirlo, si quieres evitar caer en error. Toma la doctrina tal como se te da; y, si no eres atraído, ora para que lo seas.\n\n(Tr. xxvi. 2. et sq.) Ahora bien, si somos atraídos a Cristo sin nuestra propia voluntad, creemos sin nuestra propia voluntad; la voluntad no se ejerce, sino que se aplica la coacción. Pero, aunque un hombre puede entrar en la Iglesia involuntariamente, no puede creer sino voluntariamente; porque con el corazón se cree para justicia. Por tanto, si el que es atraído viene sin su voluntad, no cree; si no cree, no viene. Pues no venimos a Cristo corriendo o caminando, sino creyendo, no por el movimiento del cuerpo, sino por la voluntad de la mente. Eres atraído por tu voluntad. Pero ¿qué es ser atraído por la voluntad? Deléitate en el Señor, y él te dará las peticiones de tu corazón. (Sal. 36) Hay cierto anhelo del corazón, al que es agradable aquel pan celestial. Si el Poeta pudo decir: «Trahit sua quemque voluptas», cuánto más fuertemente podemos hablar de un hombre que es atraído a Cristo, esto es, que se deleita en la verdad, la felicidad, la justicia, la vida eterna, todo lo cual es Cristo? ¿Tienen sus placeres los sentidos corporales, y no los tiene el alma? Dame a uno que ame, que anhele, que arda, que suspire por la fuente de su ser y su eterno hogar; y él sabrá lo que quiero decir. Pero ¿por qué dijo: Si mi Padre no le trajere? Si hemos de ser atraídos, seamos atraídos por Aquel a quien su amor dice: Llévame en pos de ti, correremos. (Cant. 1:4) Pero veamos qué significa esto. El Padre atrae al Hijo a los que creen en el Hijo, al pensar que tiene a Dios por Padre. Pues el Padre engendró al Hijo igual a sí mismo; y quien piensa y cree real y seriamente que Aquel en quien cree es igual al Padre, a ese el Padre lo atrae al Hijo. Arrio lo creía una criatura; el Padre no lo atrajo. Tomás dice que Cristo es solo un hombre. Porque así lo cree, el Padre no lo atrae. Atrajo a Pedro, que dijo: Tú eres el Cristo, el Hijo del Dios viviente (Mat. 16); a quien en consecuencia se le dijo: Porque no te lo reveló carne ni sangre, sino mi Padre que está en los cielos. Esa revelación es la atracción. Pues si los objetos terrenos, cuando se nos ponen delante, nos atraen; cuánto más atraerá Cristo, cuando es revelado por el Padre? Porque ¿qué anhela más el alma que la verdad? Pero aquí los hombres tienen hambre, allí serán saciados. Por lo cual añade: Y yo le resucitaré en el día postrero: como si dijera: Será saciado con aquello que ahora tiene sed, en la resurrección de los muertos; porque yo le resucitaré.\n\n(de Qu. Nov. et Vet.) O el Padre atrae al Hijo por las obras que hizo por medio de él.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cb04a70ac0fb",
+  "corregido_por_juez": "Traduce «draws to the Son» por «atrae al Hijo» al final de la sección, cambiando el sentido al hacer que el Hijo sea el objeto atraído y no el destino."
+ },
+ "hcf:John Chrysostom/John 6_44#0": {
+  "text_es": "Los maniqueos se lanzan sobre estas palabras, diciendo «que nada está en nuestro propio poder»; sin embargo, la expresión muestra que somos dueños de nuestra voluntad. «Pues si un hombre viene a Él», dice alguno, «¿qué necesidad hay de atraerlo?». Pero las palabras no eliminan nuestro libre albedrío, sino que muestran que necesitamos grandemente ayuda. Y no implica un venidero involuntario, sino uno que goza de mucho socorro.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e36744bedc68"
+ },
+ "hcf:Augustine of Hippo/John 6_45#2": {
+  "text_es": "O así: Cuando un maestro de escuela es el único en un pueblo, decimos sin rigor: Este hombre enseña a leer a todos los de aquí; no que todos aprendan de él, sino que enseña a todos los que aprenden. Y de la misma manera decimos que Dios enseña a todos los hombres a venir a Cristo: no que todos vengan, sino que nadie viene de otra manera.\n\n(super Joan. Tr. xxv. 7) Todos los hombres de aquel reino serán enseñados por Dios; no oirán nada de los hombres; pues, aunque en este mundo lo que oyen con el oído externo es de los hombres, sin embargo lo que entienden les es dado desde dentro; desde dentro está la luz y la revelación. Yo fuerzo ciertos sonidos en vuestros oídos, pero a menos que Él esté dentro para revelar su significado, ¿cómo, oh judíos, podéis reconocerme, vosotros a quienes el Padre no ha enseñado?\n\n(de Prædest. Sanctorum, c. viii. et seq.) Todos los que son enseñados por Dios vienen al Hijo, porque han oído y aprendido del Padre acerca del Hijo; por lo cual prosigue: Todo hombre que ha oído y aprendido del Padre, viene a Mí. Pero si todo el que ha oído y aprendido del Padre viene, todo el que no ha oído del Padre no ha aprendido. Pues fuera del alcance de los sentidos corporales está esta escuela, en la que se oye al Padre, y se enseña a los hombres a venir al Hijo. Aquí no tenemos que ver con el oído carnal, sino con el oído del corazón; pues aquí está el Hijo mismo, el Verbo por el cual el Padre enseña, y junto con Él el Espíritu Santo: siendo las operaciones de las tres Personas inseparables entre sí. Esto se atribuye sin embargo principalmente al Padre, porque de Él proceden el Hijo y el Espíritu Santo. Por lo tanto, la gracia que la divina bondad imparte en secreto a los corazones de los hombres, no es rechazada por nadie por dureza de corazón; ya que se da en primer lugar para quitar la dureza de corazón. ¿Por qué entonces no enseña a todos a venir a Cristo? Porque a los que enseña, los enseña en misericordia; y a los que no enseña, no los enseña en juicio. Pero si decimos que aquellos a quienes no enseña desean aprender, se nos responderá: ¿Por qué entonces se dice: ¿No volverás a vivificarnos? (Sal. 84:6) Si Dios no hace voluntades dispuestas de las no dispuestas, ¿por qué ora la Iglesia, según el mandato de nuestro Señor, por sus perseguidores? Pues nadie puede decir: Creí, y por eso me llamó; más bien la misericordia preveniente de Dios lo llamó, para que creyera.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "285fecbde80b"
+ },
+ "hcf:Augustine of Hippo/John 6_45-46#0": {
+  "text_es": "He aquí entonces cómo atrae el Padre; no imponiendo una necesidad al hombre, sino enseñando la verdad. Atraer pertenece a Dios: Todo aquel que ha oído y aprendido del Padre, viene a Mí. ¿Qué entonces? ¿No enseñó nada Cristo? No es así. ¿Y si los hombres no veían al Padre enseñar, sino que veían al Hijo? Así pues, el Padre enseñaba, el Hijo hablaba. Como yo os enseño por mi palabra, así el Padre enseña por su Verbo. Pero Él mismo explica el asunto, si seguimos leyendo: No que alguno haya visto al Padre, sino aquel que es de Dios, éste ha visto al Padre; como si dijera: No, cuando os digo: Todo hombre que ha oído y aprendido del Padre, digáis para vosotros: Nunca hemos visto al Padre, ¿y cómo entonces hemos podido aprender de Él? Oídlo entonces en Mí. Yo conozco al Padre, y soy de Él, así como una palabra es de quien la pronuncia; esto es, no el mero sonido pasajero, sino el que permanece con el que habla, y atrae al oyente.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "65debf45434a"
+ },
+ "hcf:Bede/John 6_45#0": {
+  "text_es": "Usa el plural, En los Profetas, porque todos los Profetas, estando llenos de uno y el mismo espíritu, sus profecías, aunque diferentes, todas tendían al mismo fin; y con lo que cualquiera de ellos dice, todos los demás concuerdan; como con la profecía de Joel: Todos serán enseñados por Dios. (Joel 2:23)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2b99b4aa81ae"
+ },
+ "hcf:Glossa Ordinaria/John 6_45#0": {
+  "text_es": "Estas palabras no se encuentran en Joel, sino algo semejante: Alegraos entonces, hijos de Sion, y regocijaos en el Señor vuestro Dios, porque os ha dado un Maestro. (Quia dedit nobis lectorem justitiæ. Vulg.) Y más expresamente en Isaías: Y todos tus hijos serán enseñados por el Señor. (Isa. 54:13)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8b6e3051e969"
+ },
+ "hcf:John Chrysostom/John 6_45-46#0": {
+  "text_es": "\"¿Cómo, pues\", dice alguno, \"atrae el Padre?\" Esto lo explicó el Profeta antiguamente, cuando proclamó de antemano y dijo: \"Y todos serán enseñados por Dios.\" ¿Ves la dignidad de la fe, y que no de hombres ni por hombre, sino por Dios mismo aprenderán esto? Y para hacer creíble esta afirmación, los remitió a sus profetas. \"Si entonces 'todos serán enseñados por Dios', ¿cómo es que algunos no creerán?\" Porque las palabras se dicen de la mayor parte. Además, la profecía no significa absolutamente todos, sino todos los que tienen la voluntad. Pues el maestro está dispuesto a impartir lo que tiene a todos, y a derramar su instrucción sobre todos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7b9f29bd6e07"
+ },
+ "hcf:Augustine of Hippo/John 6_46#0": {
+  "text_es": "Él mismo explica también esto, y nos muestra su significado cuando dijo: \"El que ha oído y aprendido del Padre, viene a mí.\" Enseguida añadió lo que podíamos concebir: \"No que alguno haya visto al Padre, sino aquel que es de Dios, éste ha visto al Padre.\" ¿Qué es lo que dice? Yo he visto al Padre, vosotros no habéis visto al Padre; y sin embargo no venís a mí a menos que seáis atraídos por el Padre. ¿Y qué es para vosotros ser atraídos por el Padre sino aprender del Padre? ¿Qué es aprender del Padre sino oír del Padre? ¿Qué es oír del Padre sino oír el Verbo del Padre, esto es, oírme a mí? En caso, por tanto, de que cuando os digo: \"Todo hombre que ha oído y aprendido del Padre\", digáis dentro de vosotros: Pero nosotros nunca hemos visto al Padre, ¿cómo podríamos aprender del Padre? Oíd de mí mismo: \"No que alguno haya visto al Padre, sino aquel que es de Dios, éste ha visto al Padre.\" Yo conozco al Padre, soy de Él; pero de aquella manera en que el Verbo es de Él, donde el Verbo es, no lo que suena y pasa, sino lo que permanece con el que habla y atrae al que oye.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b8fd91a388e9"
+ },
+ "hcf:Augustine of Hippo/John 6_47#1": {
+  "text_es": "Nuestro Señor desea revelar lo que Él es: De cierto, de cierto os digo: El que cree en mí, tiene vida eterna. Como si dijera: El que cree en mí me tiene a mí; pero ¿qué es tenerme? Es tener la vida eterna; pues el Verbo que estaba en el principio con Dios es vida eterna, y la vida era la luz de los hombres. La vida sufrió la muerte, para que la vida matara a la muerte.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "32a85a363186"
+ },
+ "hcf:Cyril of Alexandria/John 6_47#0": {
+  "text_es": "La fe, por tanto, es la puerta y el camino hacia la vida, y el retorno de la corrupción a la incorrupción. Pero en esto no menos es la economía una maravilla para los que aprenden: pues cuando percibió que no entendían nada en absoluto, y vio que no suponían que debieran dar crédito alguno ni siquiera a las palabras de los Profetas, corta, en cuanto es posible, su debilidad para con la fe mediante argumentos humanos, mediante un juramento a su verdad. Pues poniendo ante ellos que creen muchos premios envidiable, con su deseo anhelante de estos como con rastros. Casi los obliga contra su voluntad, y los persuade a venir a lo que se les proclama. Pues ¿qué sería más precioso que la vida eterna, para aquellos a quienes la muerte y los sufrimientos por la corrupción son amargos? Y esto también convendrá a un maestro sabio, re-instruir hacia lo mejor, por todo camino (digo) que invita a la vida, a los que han elegido pensar neciamente. Pero Él, siendo Vida Eterna, promete darse a sí mismo a los que creen: esto es, que Cristo habite en nuestros corazones por la fe.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7bec24a2259e"
+ },
+ "hcf:John Chrysostom/John 6_48-49#0": {
+  "text_es": "Estando la multitud urgida por el alimento corporal, y recordándole lo que fue dado a sus padres, les dice que el maná era solo un tipo de aquel alimento espiritual que ahora había de gustarse en realidad: Yo soy el pan de vida.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bfba4e7fc4d2"
+ },
+ "aquifer:19198": {
+  "text_es": "Jesús conectó el maná de la historia del éxodo con él mismo. Luego dijo por qué era diferente del maná que los israelitas recibieron de Dios.\n\nLos israelitas permanecieron mortales y todos murieron⸢.⸣ Pero el pan del cielo (Jesús mismo) proporciona vida eterna (6:47, 51, 58).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7c5b30bb72f9"
+ },
+ "hcf:Augustine of Hippo/John 6_49#1": {
+  "text_es": "Y porque le habían reprochado con el maná, añade: Vuestros padres comieron el maná en el desierto, y murieron. Vuestros padres son, pues vosotros sois como ellos; hijos murmuradores de padres murmuradores. Pues en nada ofendió aquel pueblo a Dios más que con sus murmuraciones contra Él. Y por eso están muertos, porque lo que veían lo creían, lo que no veían no lo creían, ni entendían.\n\n(Tr. xxvi. 11) Pero ¿nosotros, que comemos el pan que desciende del cielo, somos librados de la muerte? De la muerte visible y carnal, la muerte del cuerpo, no lo somos: moriremos, así como ellos murieron. Pero de la muerte espiritual que sufrieron sus padres, somos librados. Moisés y muchos aceptos de Dios comieron el maná, y no murieron, porque entendieron aquel alimento visible en sentido espiritual, lo gustaron espiritualmente, y fueron espiritualmente saciados con él. Y también nosotros hoy recibimos el alimento visible; pero una cosa es el Sacramento, y otra la virtud del Sacramento. Muchos reciben del Altar, y perecen al recibir; comiendo y bebiendo su propia condenación (1 Cor. 11:29), como dice el Apóstol. Comer entonces el pan celestial espiritualmente es llevar al Altar una mente inocente. Los pecados, aunque sean diarios, no son mortales. Antes de ir al Altar, atiende a la oración que repites: Perdónanos nuestras deudas, como también nosotros perdonamos a nuestros deudores. (Mat. 6:12) Si perdonas, eres perdonado: acércate confiadamente; es pan, no veneno. Ninguno entonces que coma de este pan, morirá. Pero hablamos de la virtud del Sacramento, no del Sacramento visible mismo; del que come interiormente, no del que come exteriormente.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6925a24f46f3"
+ },
+ "hcf:John Chrysostom/John 6_49-50#0": {
+  "text_es": "La adición, En el desierto, no se pone sin significado, sino para recordarles cuán corto tiempo duró el maná; solo hasta la entrada en la tierra de promesa. Y porque el pan que Cristo daba parecía inferior al maná, en que este había descendido del cielo, mientras que aquel era de este mundo, añade: Este es el pan que desciende del cielo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "de877cc61c63"
+ },
+ "hcf:John Chrysostom/John 6_49-50#1": {
+  "text_es": "Les da entonces una fuerte razón para creer que fueron dados para privilegios más altos que sus padres. Sus padres comieron el maná y murieron; mientras que de este pan dice que un hombre puede comer de él, y no morir. La diferencia de los dos es evidente por la diferencia de sus fines. Por pan aquí se entiende la doctrina saludable, y la fe en Él, o su cuerpo; pues estos son los preservativos del alma.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7e5990ab835d"
+ },
+ "hcf:Alcuin of York/John 6_50-51#0": {
+  "text_es": "Por tanto digo: El que come este pan, no muere: Yo soy el pan vivo que descendió del cielo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f0318ba3b67b",
+  "text_es_2": "Por tanto digo: El que come de este pan, no muere: Yo soy el pan vivo que descendió del cielo.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Augustine of Hippo/John 6_50#1": {
+  "text_es": "Este era el pan que el maná tipificaba, este era el pan que el altar tipificaba. Tanto uno como otro eran sacramentos, diferentes en símbolo, iguales en la cosa significada. Oíd al Apóstol: Todos comieron el mismo alimento espiritual. (1 Cor. 10)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b27c4349bdb6"
+ },
+ "aquifer:19199": {
+  "text_es": "⸢este pan … es mi carne⸣: El don que da vida ahora se aclara. En la cruz, Jesús entregó su cuerpo para que el mundo pudiera recibir vida.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c74d95e2bc0f",
+  "text_es_2": "⸢este pan… es mi carne⸣: El don que da vida ahora se pone de manifiesto. En la cruz, Jesús dio su cuerpo para que el mundo pudiera recibir vida.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Alcuin of York/John 6_51#0": {
+  "text_es": "Pero los hombres deben ser vivificados por mi vida: Si alguno come de este pan, vivirá, no solo ahora por la fe y la justicia, sino para siempre.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5f6be763b407",
+  "text_es_2": "Pero los hombres deben ser vivificados por mi vida: Si alguno comiere de este pan, vivirá, no solo ahora por la fe y la justicia, sino para siempre.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Augustine of Hippo/John 6_51#1": {
+  "text_es": "Nuestro Señor se declara a sí mismo ser pan, no solo en respecto de aquella Divinidad, que alimenta todas las cosas, sino también en respecto de aquella naturaleza humana, que fue asumida por el Verbo de Dios: Y el pan, dice, que yo daré es mi carne, que yo daré por la vida del mundo.\n\n(Tr. xxvi. 13) Pero ¿cuándo recibe la carne el pan que Él llama su carne? Los fieles conocen y reciben el Cuerpo de Cristo, si se esfuerzan por ser el cuerpo de Cristo. Y se convierten en el cuerpo de Cristo, si se aplican a vivir por el Espíritu de Cristo; pues lo que vive por el Espíritu de Cristo, es el cuerpo de Cristo. Este pan presenta el Apóstol, cuando dice: Nosotros, siendo muchos, somos un cuerpo. (1 Cor. 12:12) ¡Oh sacramento de misericordia, oh signo de unidad, oh vínculo de amor! Quien desee vivir, acérquese, crea, sea incorporado, para que sea vivificado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3ff6f4aeb3fa",
+  "text_es_2": "Nuestro Señor se declara a sí mismo como pan, no solo respecto de aquella Divinidad que alimenta todas las cosas, sino también respecto de aquella naturaleza humana que fue asumida por el Verbo de Dios: Y el pan, dice Él, que yo daré es mi carne, la cual yo daré por la vida del mundo.\n\n(Tr. xxvi. 13) Pero, ¿cuándo recibe la carne el pan que Él llama su carne? Los fieles conocen y reciben el Cuerpo de Cristo, si trabajan por ser el cuerpo de Cristo. Y llegan a ser el cuerpo de Cristo, si procuran vivir por el Espíritu de Cristo: porque lo que vive por el Espíritu de Cristo, es el cuerpo de Cristo. Este pan lo expone el Apóstol donde dice: Siendo muchos, somos un cuerpo. (I Cor. 12:12) ¡Oh sacramento de misericordia, oh signo de unidad, oh vínculo de amor! Quien desee vivir, acérquese, crea, sea incorporado, para que sea vivificado.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Augustine of Hippo/John 6_51#3": {
+  "text_es": "\"Yo soy el pan vivo, que descendió del cielo.\" Por esa razón \"vivo\", porque descendí del cielo. El maná también descendió del cielo; pero el maná era solo una sombra, esto es la verdad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bac8d8adc43c",
+  "text_es_2": "«Yo soy el pan vivo que descendió del cielo». Por esa razón «vivo», porque descendí del cielo. El maná también descendió del cielo; pero el maná era solo una sombra, esto es la verdad.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Augustine of Hippo/John 6_51#4": {
+  "text_es": "El maná también descendió del cielo; pero el maná era sombra, esto es sustancia.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "82b0954a820b",
+  "text_es_2": "El maná también descendió del cielo; pero el maná era sombra, esto es sustancia.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Bede/John 6_51#0": {
+  "text_es": "Este pan dio entonces nuestro Señor, cuando entregó a su discípulo el misterio de su Cuerpo y Sangre, y se ofreció a sí mismo a Dios Padre en el altar de la cruz. Por la vida del mundo, es decir, no por los elementos, sino por la humanidad, que es llamada el mundo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ebba00fab964",
+  "text_es_2": "Este pan lo dio nuestro Señor cuando entregó a su discípulo el misterio de su Cuerpo y Sangre, y se ofreció a sí mismo a Dios el Padre en el altar de la cruz. Por la vida del mundo, es decir, no por los elementos, sino por la humanidad, que es llamada el mundo.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:John Chrysostom/John 6_51#1": {
+  "text_es": "Cuando por tanto buscaban alimento \"que desciende del cielo\", continuamente les decía: \"Yo descendí del cielo.\" Y si alguno pregunta por qué introdujo el discurso sobre los Misterios, responderemos que este era un tiempo muy adecuado para tales discursos; pues la oscuridad en lo que se dice siempre despierta al oyente, y lo hace más atento. No debieron entonces haberse ofendido, sino más bien haber preguntado e indagado. Pero ahora se volvieron atrás. Si creían que Él era un Profeta, debieron haber creído sus palabras, de modo que la ofensa fue causada por su propia necedad, no por alguna dificultad en las palabras. Y observa cómo poco a poco los condujo hacia sí mismo. Aquí dice que Él mismo da, no el Padre: \"El pan que yo daré es mi carne, que yo daré por la vida del mundo.\"",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1b8863a7592c",
+  "text_es_2": "Por tanto, cuando ellos buscaban comida «que desciende del cielo», Él les decía continuamente: «Yo he descendido del cielo». Y si alguien pregunta por qué introdujo el discurso sobre los Misterios, responderemos que este era un momento muy oportuno para tales discursos; porque la falta de claridad en lo que se dice siempre despierta al oyente y lo vuelve más atento. No debieron, pues, haberse escandalizado, sino más bien haber preguntado e indagado. Pero ahora se volvieron atrás. Si creían que Él era un Profeta, debieron haber creído sus palabras, de modo que el tropiezo fue causado por su propia insensatez, no por dificultad alguna en las palabras. Y observad cómo, poco a poco, los fue guiando hacia sí mismo. Aquí dice que Él mismo lo da, no el Padre: «El pan que yo daré es mi carne, la cual yo daré por la vida del mundo».",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Theophylact of Ohrid/John 6_51#0": {
+  "text_es": "Que yo daré: esto muestra su poder; pues muestra que no fue crucificado como siervo, en sujeción al Padre, sino de su propia voluntad; porque aunque se dice que fue entregado por el Padre, también se entregó a sí mismo. Y observa: el pan que tomamos en los misterios no es solo la señal de la carne de Cristo, sino que es la misma carne de Cristo; pues no dice: El pan que yo daré es la señal de mi carne, sino: es mi carne. El pan, por una bendición mística, es transmitido en palabras inefables, y por la inhabitación del Espíritu Santo, se transmuta en la carne de Cristo. Pero ¿por qué no vemos la carne? Porque, si la carne fuera vista, nos repugnaría hasta tal grado, que no podríamos participar de ella. Y por eso, condescendiendo con nuestra debilidad, el alimento místico se nos da bajo una apariencia adecuada a nuestras mentes. Dio su carne por la vida del mundo, en cuanto que, al morir, destruyó la muerte. Por la vida del mundo entiendo también la resurrección; habiendo traído la muerte de nuestro Señor la resurrección de todo el género humano. Puede significar también la vida santificada, beatificada y espiritual; pues aunque no todos han alcanzado esta vida, sin embargo nuestro Señor se dio a sí mismo por el mundo, y, en cuanto está de su parte, todo el mundo es santificado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4c9d8b82da8f",
+  "text_es_2": "La cual yo daré: esto muestra su poder; pues muestra que no fue crucificado como un siervo, en sujeción al Padre, sino de su propia voluntad; porque aunque se dice que fue entregado por el Padre, sin embargo Él también se entregó a sí mismo. Y observad que el pan que tomamos en los misterios no es solo el signo de la carne de Cristo, sino que es en sí mismo la carne misma de Cristo; pues no dice: El pan que yo daré es el signo de mi carne, sino: es mi carne. El pan es transmitido mediante una bendición mística en palabras inefables, y por la morada del Espíritu Santo, es transmutado en la carne de Cristo. Pero, ¿por qué no vemos la carne? Porque, si la carne fuera vista, nos repugnaría a tal grado que seríamos incapaces de participar de ella. Y por tanto, en condescendencia con nuestra enfermedad, la comida mística nos es dada bajo una apariencia adecuada a nuestra mente. Él dio su carne por la vida del mundo, en cuanto que, al morir, destruyó la muerte. Por la vida del mundo entiendo también la resurrección; habiendo producido la muerte de nuestro Señor la resurrección de toda la raza humana. Puede significar también la vida santificada, bienaventurada y espiritual; pues aunque no todos han alcanzado esta vida, sin embargo nuestro Señor se dio a sí mismo por el mundo, y, en lo que a Él respecta, el mundo entero es santificado.",
+  "modelo_2": "gemini-3.6-flash",
+  "corregido_por_juez": "«transmuted» se tradujo erróneamente como «se transustancia» en lugar de «se transmuta»."
+ },
+ "hcf:Theophylact of Ohrid/John 6_51#1": {
+  "text_es": "Al encarnarse, no fue primero hombre y después asumió la Divinidad, como fabula Nestorio.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "09a3c094de59",
+  "text_es_2": "Al encarnarse, no fue entonces primero hombre y después asumió la Divinidad, como fabula Nestorio.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Augustine of Hippo/John 6_52#0": {
+  "text_es": "Los judíos, pues, discutían entre sí, diciendo: «¿Cómo puede este darnos a comer su carne?». Discutían, y entre sí, ya que no entendían, ni querían tomar el pan de la concordia; «pues los que comen tal pan no discuten unos con otros; porque nosotros, siendo muchos, somos un pan, un cuerpo». Y por este pan, «Dios hace habitar en una casa a los de un mismo sentir».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7642e04a9660",
+  "text_es_2": "Los judíos, por tanto, contendían entre sí, diciendo: «¿Cómo puede este darnos a comer su carne?». Contendían, y eso entre sí, ya que no entendían ni querían tomar el pan de la concordia: «porque los que comen tal pan no contienden entre sí; porque siendo muchos somos un pan, un cuerpo». Y por este pan, «Dios hace habitar en casa a los de un mismo sentir».",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Augustine of Hippo/John 6_52#1": {
+  "text_es": "Los judíos, no entendiendo cuál era el pan de la paz, discutían entre sí, diciendo: ¿Cómo puede este darnos a comer su carne? Mientras que los que comen el pan no discuten entre sí, pues Dios los hace habitar juntos en unidad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "32e85ae15444",
+  "text_es_2": "No entendiendo los judíos cuál era el pan de paz, contendían entre sí, diciendo: ¿Cómo puede este darnos a comer su carne? Mientras que los que comen el pan no contienden entre sí, porque Dios los hace habitar juntos en unidad.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Bede/John 6_52#0": {
+  "text_es": "Los judíos pensaban que nuestro Señor dividiría su carne en pedazos y se la daría para comer; y así, malinterpretándolo, discutían.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "748c6e03a5e1",
+  "text_es_2": "Los judíos pensaban que nuestro Señor dividiría su carne en pedazos y se la daría a comer; y malinterpretándolo así, contendían.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:John Chrysostom/John 6_52#0": {
+  "text_es": "«¿Cómo puede este darnos a comer su carne?». Si deseas saber el «cómo», ¿por qué no preguntaste esto en el asunto de los panes, cómo extendió cinco a tan gran número? Porque entonces solo pensaban en saciarse, no en ver el milagro. «Pero», dice alguno, «su experiencia entonces les enseñó». Entonces, por razón de esa experiencia, estas palabras debieron haber sido recibidas de buen grado. Pues con este fin obró de antemano aquel extraño milagro, para que, instruidos por él, ya no descreyeran de lo que él dijera después.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "22f264a466fa",
+  "text_es_2": "«¿Cómo puede este darnos a comer su carne?». Si buscas saber el «cómo», ¿por qué no preguntaste esto en el asunto de los panes, cómo extendió cinco a un número tan grande? Porque entonces solo pensaban en saciarse, no en ver el milagro. «Pero», dirá alguno, «su experiencia de entonces les enseñó». Entonces, en razón de esa experiencia, estas palabras debieron haber sido recibidas fácilmente. Pues con este fin obró de antemano aquel prodigioso milagro, para que, enseñados por él, ya no descreyeran de lo que Él dijera después.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Theophylact of Ohrid/John 6_52#0": {
+  "text_es": "Pues no es simplemente la carne del hombre, sino de Dios; y hace divino al hombre, embriagándolo, por así decirlo, con la divinidad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9f050f620b46",
+  "text_es_2": "Porque no es la carne de un hombre simplemente, sino de Dios: y hace divino al hombre, embriagándolo, por así decirlo, de divinidad.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "aquifer:19200": {
+  "text_es": "⸢come mi carne y bebe mi sangre⸣: Jesús respondió a la pregunta que el pueblo hizo (6:52). Sus palabras apuntaban a la Cena del Señor, que vendría después (véase Lucas 22:19). En el lenguaje judío, la frase «carne y sangre» se refería a la persona entera. En este contexto, Jesús llamaba a las personas a recibirlo plenamente creyendo por completo en él.\n\nDesde la Reforma protestante, ha habido tres interpretaciones principales de las palabras de Jesús sobre el pan y el vino: Transustanciación: se cree que el pan y el vino se convierten en el cuerpo y la sangre reales de Cristo, aunque sigan pareciendo pan y vino. Presencia real: se entiende que Cristo está verdaderamente presente en el sacramento de una manera misteriosa pero real que supera la comprensión humana. Visión memorial o simbólica: el pan y el vino se ven como símbolos. El acto de compartirlos recuerda la muerte y resurrección de Cristo, y los creyentes reciben beneficio espiritual mediante la fe.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "479b37ffb0ef",
+  "text_es_2": "⸢come mi carne y bebe mi sangre⸣: Jesús respondió a la pregunta que la gente le hizo (6:52). Sus palabras apuntaban hacia el futuro, a la Cena del Señor, que vendría más tarde (véase Lucas 22:19). En el habla judía, la frase «carne y sangre» se refería a la persona entera. En este contexto, Jesús estaba llamando a las personas a recibirlo plenamente, creyendo completamente en él.\n\nDesde la Reforma Protestante, ha habido tres interpretaciones principales de las palabras de Jesús sobre el pan y el vino: Transubstanciación: Se cree que el pan y el vino se transforman en el cuerpo y la sangre reales de Cristo, mientras siguen aparentando ser pan y vino. Presencia real: Se entiende que Cristo está verdaderamente presente en el sacramento de una manera misteriosa pero real que va más allá del entendimiento humano. Postura conmemorativa o simbólica: El pan y el vino son vistos como símbolos. El acto de compartirlos recuerda la muerte y resurrección de Cristo, y los creyentes reciben un beneficio espiritual a través de la fe.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Augustine of Hippo/John 6_53-54#1": {
+  "text_es": "Pero ¿cuándo recibe la carne el pan que él llama su carne? Los fieles conocen y reciben el Cuerpo de Cristo, si se esfuerzan por ser el cuerpo de Cristo. Y se convierten en el cuerpo de Cristo, si se aplican a vivir por el Espíritu de Cristo; pues lo que vive por el Espíritu de Cristo es el cuerpo de Cristo. Este pan lo expone el Apóstol, cuando dice: Nosotros, siendo muchos, somos un cuerpo. (1 Cor. 12:12) ¡Oh sacramento de misericordia, oh signo de unidad, oh vínculo de amor! Quien desee vivir, acérquese, crea, sea incorporado, para que sea vivificado.\n\n(Tr. xxvi. 15) Como si dijera: El sentido en que ese pan se come, y el modo de comerlo, no lo sabéis; pero, Si no coméis la carne del Hijo del hombre, y bebéis su sangre, no tenéis vida en vosotros.\n\n(Tr. xxvi. 15) Y para que no entendieran que hablaba de esta vida, y hicieran de ello una ocasión de discusión, añade: Tiene vida eterna. Esto, pues, no lo tiene quien no come esa carne, ni bebe esa sangre. La vida temporal los hombres pueden tenerla sin él, la eterna no pueden. Esto no es verdad de un alimento material. Si no tomamos aquel, ciertamente no viviremos, ni vivimos si lo tomamos; pues o la enfermedad, o la vejez, o algún accidente nos mata después de todo. Mientras que este alimento y bebida, es decir, el Cuerpo y la Sangre de Cristo, es tal que quien no lo toma no tiene vida, y quien lo toma tiene vida, incluso vida eterna.\n\n(de Civ. Dei, l. xxi. c. 25.) Hay algunos que prometen a los hombres liberación del castigo eterno, si son lavados en el Bautismo y participan del Cuerpo de Cristo, cualesquiera sean las vidas que vivan. El Apóstol, sin embargo, los contradice, cuando dice: Las obras de la carne manifiestas son, que son: adulterio, fornicación, inmundicia, lascivia, idolatría, hechicerías, enemistades, pleitos, celos, iras, contiendas, disensiones, herejías, envidias, homicidios, borracheras, orgías, y cosas semejantes a estas; de las cuales os digo antes, como ya os he dicho antes, que los que hacen tales cosas no heredarán el reino de Dios. (Gál. 5:19 y sig.) Examinemos qué se significa aquí. Quien está en la unidad de su cuerpo (es decir, es uno de los miembros cristianos), cuyo cuerpo reciben los fieles en el Sacramento cuando comulgan en el Altar; verdaderamente se dice que come el cuerpo y bebe la sangre de Cristo. Y los herejes y cismáticos, que están cortados de la unidad del cuerpo, pueden recibir el mismo Sacramento; pero no les aprovecha, antes bien les es dañino, pues tiende a hacer su juicio más pesado, o su perdón más tardío. Ni deben sentirse seguros en sus caminos abandonados y condenables, quienes, por la iniquidad de sus vidas, abandonan la justicia, es decir, a Cristo; ya sea por fornicación, u otros pecados de semejante género. Tales no han de ser considerados como que comen el cuerpo de Cristo; puesto que no han de ser contados entre los miembros de Cristo. Pues, por no mencionar otras cosas, los hombres no pueden ser miembros de Cristo y al mismo tiempo miembros de una ramera.\n\n(super Joan. c. xxvi. 15) Por este alimento y bebida, pues, quiere que entendamos la sociedad de su cuerpo, y sus miembros, que es la Iglesia, en los santos y creyentes predestinados, llamados, justificados y glorificados. El Sacramento de lo cual, es decir, de la unidad del cuerpo y la sangre de Cristo, se administra, en algunos lugares diariamente, en otros en tales o cuales días desde la Mesa del Señor; y de la Mesa del Señor lo reciben algunos para su salvación, otros para su condenación. Pero la cosa misma de la cual esto es Sacramento, es para nuestra salvación para cada uno que participa de ella, para condenación de ninguno. Para impedir que supongamos que aquellos que, en virtud de ese alimento y bebida, recibieron la promesa de la vida eterna, no morirían en el cuerpo, añade: Y yo lo resucitaré en el día postrero; es decir, para aquella vida eterna, un descanso espiritual, al cual entran los espíritus de los Santos. Pero ni el cuerpo será privado de la vida eterna, sino que será dotado de ella en la resurrección de los muertos en el día postrero.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9d39307404d6",
+  "text_es_2": "Pero ¿cuándo recibe la carne el pan al que Él llama su carne? Los fieles conocen y reciben el Cuerpo de Cristo, si se esfuerzan por ser el cuerpo de Cristo. Y se convierten en el cuerpo de Cristo si procuran vivir por el Espíritu de Cristo; porque lo que vive por el Espíritu de Cristo es el cuerpo de Cristo. Este pan expone el Apóstol donde dice: Siendo muchos, somos un solo cuerpo. (I Cor. 12:12) ¡Oh sacramento de misericordia, oh signo de unidad, oh vínculo de caridad! Quien quiera vivir, acérquese, crea, sea incorporado, para que sea vivificado.\n\n(Tr. xxvi. 15) Como si dijera: El sentido en que se come ese pan, y el modo de comerlo, no lo sabéis; pero, Si no coméis la carne del Hijo del hombre, y bebéis su sangre, no tenéis vida en vosotros.\n\n(Tr. xxvi. 15) Y para que no entendieran que hablaba de esta vida, y hicieran de ello motivo de contienda, añade: Tiene vida eterna. Esta, pues, no la tiene quien no come esa carne ni bebe esa sangre. La vida temporal los hombres pueden tenerla sin Él; la eterna no pueden. Esto no es verdad respecto al alimento material. Si no lo tomamos, en verdad no viviremos, ni tampoco vivimos si lo tomamos: porque, después de todo, una enfermedad, la vejez o algún accidente nos mata. Mientras que esta comida y bebida, es decir, el Cuerpo y la Sangre de Cristo, es tal que el que no la toma no tiene vida, y el que la toma tiene vida, incluso vida eterna.\n\n(de Civ. Dei, l. xxi. c. 25.) Hay quienes prometen a los hombres la liberación del castigo eterno si son lavados en el Bautismo y participan del Cuerpo de Cristo, cualquiera que sea la vida que lleven. Sin embargo, el Apóstol los contradice cuando dice: Y manifiestas son las obras de la carne, que son: adulterio, fornicación, inmundicia, disolución, idolatría, hechicerías, enemistades, pleitos, celos, iras, contiendas, disensiones, herejías, envidias, homicidios, borracheras, orgías, y cosas semejantes a estas; de las cuales os denuncio, como ya os he dicho en el tiempo pasado, que los que hacen tales cosas no heredarán el reino de Dios. (Gál. 5:19. et seq.) Examinemos lo que aquí se quiere decir. Aquel que está en la unidad de su cuerpo (es decir, uno de los miembros cristianos), cuyo Sacramento del cuerpo reciben los fieles cuando comulgan en el Altar, de él se dice verdaderamente que come el cuerpo y bebe la sangre de Cristo. Y los herejes y cismáticos, que están cortados de la unidad del cuerpo, pueden recibir el mismo Sacramento; pero no les aprovecha, antes bien les es perjudicial, por cuanto tiende a hacer más pesado su juicio o más tardío su perdón. Ni deben sentirse seguros en sus caminos abandonados y condenables los que, por la iniquidad de sus vidas, desamparan la justicia, es decir, a Cristo; ya sea por fornicación u otros pecados de la misma clase. De tales no se ha de decir que comen el cuerpo de Cristo, por cuanto no han de ser contados entre los miembros de Cristo. Porque, por no mencionar otras cosas, los hombres no pueden ser miembros de Cristo y al mismo tiempo miembros de una ramera.\n\n(super Joan. c. xxvi. 15) Por esta comida y bebida, pues, Él quiso que entendiéramos la sociedad de su cuerpo y de sus miembros, que es la Iglesia, en los santos y creyentes predestinados, llamados, justificados y glorificados. El Sacramento de la cual, es decir, de la unidad del cuerpo y de la sangre de Cristo, se administra, en algunos lugares diariamente, en otros en tales y tales días desde la Mesa del Señor; y de la Mesa del Señor es recibido por algunos para su salvación, por otros para su condenación. Pero la cosa misma de la que este es el Sacramento es para nuestra salvación para todo aquel que participa de ella, para condenación de nadie. Para evitar que supongamos que aquellos a quienes, en virtud de esa comida y bebida, se les prometió la vida eterna, no morirían en el cuerpo, añade: Y yo le resucitaré en el día postrero; es decir, a esa vida eterna, un descanso espiritual en el que entran los espíritus de los Santos. Pero tampoco el cuerpo será defraudado de la vida eterna, sino que será dotado de ella en la resurrección de los muertos en el día postrero.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:John Chrysostom/John 6_53-54#5": {
+  "text_es": "Esta sangre fue siempre prefigurada antiguamente en los altares y sacrificios de los hombres justos. Este es el precio del mundo; por Este Cristo se compró para sí a la Iglesia, por Este la adornó toda. Pues como un hombre que compra siervos da oro por ellos, y de nuevo, cuando desea engalanarlos, lo hace también con oro; así Cristo nos compró con Su sangre, y nos adornó con Su sangre. Los que participan de esta sangre están de pie con los Ángeles y Arcángeles y las Potestades que están arriba, vestidos con el propio manto real de Cristo, y teniendo la armadura del Espíritu. Más aún, no he dicho todavía nada grande: están vestidos con el Rey mismo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2b71436ac115",
+  "text_es_2": "Esta sangre fue siempre tipificada desde la antigüedad en los altares y sacrificios de los hombres justos. Este es el precio del mundo, por esta compró Cristo para sí la Iglesia, por esta la ha adornado entera. Porque así como el hombre que compra siervos da oro por ellos, y otra vez cuando desea engalanarlos hace esto también con oro; así Cristo nos ha comprado con su sangre y nos ha adornado con su sangre. Los que participan de esta sangre están con los Ángeles y Arcángeles y las Potestades de arriba, vestidos con el propio manto real de Cristo y teniendo la armadura del Espíritu. Más aún, no he dicho todavía nada grande: están vestidos del Rey mismo.",
+  "modelo_2": "gemini-3.6-flash",
+  "corregido_por_juez": "Cambio de sentido: traduce «adorned» como «adorado» en lugar de «adornado»."
+ },
+ "hcf:Bede/John 6_54#0": {
+  "text_es": "Y para que esto no pareciera dirigido solo a ellos, declara universalmente: El que come mi carne y bebe mi sangre, tiene vida eterna.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e2c537b3221e",
+  "text_es_2": "Y para que esto no pareciera dirigido solo a ellos, declara universalmente: El que come mi carne y bebe mi sangre, tiene vida eterna.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Cyril of Alexandria/John 6_54#1": {
+  "text_es": "Quien come la santa carne de Cristo tiene vida eterna porque su carne tiene el Verbo que por naturaleza es vida.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7dd66c5c0f72",
+  "text_es_2": "Quienquiera que come la santa carne de Cristo tiene vida eterna porque su carne tiene al Verbo que por naturaleza es vida.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Augustine of Hippo/John 6_55#0": {
+  "text_es": "«Porque mi carne», dice, «es verdadera comida, y mi sangre es verdadera bebida». Pues mientras por la comida y la bebida los hombres buscan alcanzar esto, no tener hambre ni sed, no hay nada que verdaderamente lo conceda, excepto esta comida y bebida, que hace inmortales e incorruptibles a quienes la toman; es decir, la misma comunión de los santos, donde habrá paz y unidad, plena y perfecta. Por lo tanto, ciertamente, así como los hombres de Dios lo entendieron antes que nosotros, nuestro Señor Jesucristo ha dirigido nuestras mentes a su cuerpo y sangre en aquellas cosas que, de ser muchas, se reducen a una sola cosa. Pues una unidad se forma por muchos granos que se juntan; y otra unidad se efectúa por el agruparse de muchas bayas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e25c7f081f2f",
+  "text_es_2": "«Porque mi carne», dice Él, «es verdadera comida, y mi sangre es verdadera bebida». Porque mientras por la comida y la bebida los hombres buscan alcanzar esto: no tener hambre ni sed, no hay nada que verdaderamente proporcione esto, excepto esta comida y bebida, que hace inmortales e incorruptibles a aquellos por quienes es tomada; es decir, la comunión misma de los santos, donde habrá paz y unidad, plena y perfecta. Por lo tanto, en verdad, es así como los hombres de Dios entendieron esto antes de nosotros: que nuestro Señor Jesucristo ha dirigido nuestras mentes a su cuerpo y sangre en aquellas cosas que, de ser muchas, se reducen a una sola cosa. Porque una unidad se forma por muchos granos que se unen; y otra unidad se efectúa por el agrupamiento de muchas bayas.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Augustine of Hippo/John 6_55#1": {
+  "text_es": "Con este alimento y bebida, pues, quiere que entendamos la sociedad de su cuerpo y de sus miembros, que es la Iglesia, en los santos y creyentes predestinados, llamados, justificados y glorificados. El Sacramento de esto, es decir, de la unidad del cuerpo y de la sangre de Cristo, se administra en algunos lugares cada día, en otros en tales y tales días desde la Mesa del Señor; y de la Mesa del Señor lo reciben algunos para su salvación, otros para su condenación. Pero la cosa misma de la cual esto es Sacramento, es para nuestra salvación para cada uno que participa de ella, para condenación de ninguno. Para impedir que supongamos que aquellos que, en virtud de aquel alimento y bebida, recibieron la promesa de la vida eterna, no morirían en el cuerpo, añade: Y yo le resucitaré en el día postrero; es decir, a aquella vida eterna, un descanso espiritual, al cual entran los espíritus de los santos. Pero tampoco el cuerpo será privado de la vida eterna, sino que será dotado de ella en la resurrección de los muertos en el día postrero.\n\n(Tr. xxvi. 17) O así: Mientras los hombres desean alimento y bebida para satisfacer el hambre y la sed, este efecto solo es producido realmente por aquel alimento y bebida que hace inmortales e incorruptibles a quienes lo reciben; es decir, la sociedad de los santos, donde hay paz y unidad, plena y perfecta. Por lo cual nuestro Señor ha escogido para los tipos de su cuerpo y de su sangre, cosas que llegan a ser una a partir de muchas. El pan es una cantidad de granos unidos en una masa, el vino una cantidad de uvas exprimidas juntas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "47332ceb04be",
+  "text_es_2": "Por esta comida y bebida, pues, Él quiso que entendiéramos la sociedad de su cuerpo y de sus miembros, que es la Iglesia, en los santos y creyentes predestinados, llamados, justificados y glorificados. El Sacramento de la cual, es decir, de la unidad del cuerpo y de la sangre de Cristo, se administra, en algunos lugares diariamente, en otros en tales y tales días desde la Mesa del Señor; y de la Mesa del Señor es recibido por algunos para su salvación, por otros para su condenación. Pero la cosa misma de la que este es el Sacramento es para nuestra salvación para todo aquel que participa de ella, para condenación de nadie. Para evitar que supongamos que aquellos a quienes, en virtud de esa comida y bebida, se les prometió la vida eterna, no morirían en el cuerpo, añade: Y yo le resucitaré en el día postrero; es decir, a esa vida eterna, un descanso espiritual en el que entran los espíritus de los Santos. Pero tampoco el cuerpo será defraudado de la vida eterna, sino que será dotado de ella en la resurrección de los muertos en el día postrero.\n\n(Tr. xxvi. 17) O así: Mientras que los hombres desean comida y bebida para satisfacer el hambre y la sed, este efecto solo se produce realmente por aquella comida y bebida que hace inmortales e incorruptibles a quienes la reciben; es decir, la sociedad de los Santos, donde hay paz y unidad, plena y perfecta. Por esta razón, nuestro Señor ha elegido como tipos de su cuerpo y de su sangre cosas que se convierten en una sola a partir de muchas. El pan es una cantidad de granos unidos en una sola masa; el vino, una cantidad de uvas exprimidas juntas.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Bede/John 6_55#0": {
+  "text_es": "Había dicho arriba: El que come mi carne y bebe mi sangre, tiene vida eterna; y ahora, para mostrar la gran diferencia entre el alimento y la bebida corporales y el misterio espiritual de su cuerpo y de su sangre, añade: Porque mi carne es verdadera comida, y mi sangre es verdadera bebida.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bf9f3dc1e10a",
+  "text_es_2": "Había dicho antes: El que come mi carne y bebe mi sangre, tiene vida eterna; y ahora, para mostrar la gran diferencia entre la comida y bebida corporal y el misterio espiritual de su cuerpo y de su sangre, añade: Porque mi carne es verdadera comida, y mi sangre es verdadera bebida.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Hilary of Poitiers/John 6_55#1": {
+  "text_es": "De la verdad, pues, del cuerpo y de la sangre de Cristo, no queda lugar para dudar; porque, por la declaración de nuestro Señor mismo y por la enseñanza de nuestra propia fe, la carne es realmente carne, y la sangre realmente sangre. Este es, pues, nuestro principio de vida. Mientras estamos en la carne, Cristo habita en nosotros por su carne. (c.14:19) Y viviremos por él, según como él vive. Si entonces vivimos naturalmente por participar de él según la carne, él también vive naturalmente por la inhabitación del Padre según el Espíritu. Su nacimiento no le dio una naturaleza ajena o diferente de la del Padre.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2b555c13fe35",
+  "text_es_2": "Sobre la verdad, pues, del cuerpo y de la sangre de Cristo, no queda lugar a dudas: porque, por la declaración de nuestro Señor mismo y por la enseñanza de nuestra propia fe, la carne es verdaderamente carne y la sangre verdaderamente sangre. Este es, pues, nuestro principio de vida. Mientras estamos en la carne, Cristo mora en nosotros por su carne. (c.14:19) Y viviremos por Él, según como Él vive. Si, pues, vivimos naturalmente por participar de Él según la carne, Él también vive naturalmente por la morada del Padre según el Espíritu. Su nacimiento no le dio una naturaleza ajena o diferente de la del Padre.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:John Chrysostom/John 6_55#0": {
+  "text_es": "\"Porque mi carne es verdadera comida, y mi sangre es verdadera bebida.\"\n\n¿Qué es lo que dice? O desea declarar que esta es la verdadera comida que salva el alma, o asegurarles acerca de lo que se había dicho, para que no supusieran que las palabras eran un mero enigma o parábola, sino que supieran que es de todo punto necesario comer el Cuerpo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "369297564c53",
+  "text_es_2": "«Porque mi carne es verdadera comida, y mi sangre es verdadera bebida».\n\n¿Qué es lo que dice? O bien desea declarar que esta es la verdadera comida que salva el alma, o bien asegurarles respecto a lo que se había dicho, para que no supusieran que las palabras eran un mero enigma o parábola, sino que supieran que es del todo necesario comer el Cuerpo.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Theophylact of Ohrid/John 6_55-57#0": {
+  "text_es": "Porque no comemos a Dios simplemente, siendo Dios impalpable e incorpóreo; ni tampoco la carne del hombre simplemente, que no nos aprovecharía. Pero habiendo Dios tomado carne en unión consigo mismo, esa carne es vivificante. No porque haya cambiado su propia naturaleza por la divina; sino que, así como el hierro calentado sigue siendo hierro, con la acción del calor en él; así la carne de nuestro Señor es vivificante, por ser la carne del Verbo de Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6b8818684a76",
+  "text_es_2": "Porque no comemos a Dios simplemente, siendo Dios impalpable e incorpóreo; ni tampoco simplemente la carne del hombre, que no nos aprovecharía. Sino que, habiendo Dios tomado la carne en unión consigo mismo, esa carne es vivificante. No que haya cambiado la suya propia por la naturaleza divina; sino que, así como el hierro calentado sigue siendo hierro, con la acción del calor en él; así la carne de nuestro Señor es vivificante, por ser la carne del Verbo de Dios.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Augustine of Hippo/John 6_56#0": {
+  "text_es": "En una palabra, ahora explica cómo llega a suceder lo que dice, y qué es comer su cuerpo y beber su sangre. \"El que come mi carne y bebe mi sangre, permanece en mí, y yo en él.\" Esto es, por tanto, para un hombre comer aquel alimento y beber aquella bebida, permanecer en Cristo, y tener a Cristo permaneciendo en él. En consecuencia, el que no permanece en Cristo, y en quien Cristo no permanece, sin duda ni come su carne [espiritualmente] ni bebe su sangre [aunque pueda apretar carnal y visiblemente con sus dientes el sacramento del cuerpo y de la sangre de Cristo], sino que más bien come y bebe el sacramento de tan gran cosa para su propio juicio, porque él, siendo impuro, ha presumido acercarse a los sacramentos de Cristo, que nadie toma dignamente sino el que es puro; de tales se dice: \"Bienaventurados los de limpio corazón, porque ellos verán a Dios.\"",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b8991b0c24d1",
+  "text_es_2": "En una palabra, él explica ahora cómo sucede esto de que habla, y qué es comer su cuerpo y beber su sangre. «El que come mi carne y bebe mi sangre, en mí permanece, y yo en él». Esto es, por lo tanto, comer esa comida y beber esa bebida: permanecer en Cristo, y tener a Cristo permaneciendo en él. Por consiguiente, el que no permanece en Cristo, y en quien Cristo no permanece, sin duda ni come su carne [espiritualmente] ni bebe su sangre [aunque presione carnal y visiblemente con sus dientes el sacramento del cuerpo y la sangre de Cristo], sino que más bien come y bebe el sacramento de tan grande cosa para su propio juicio, porque él, estando inmundo, ha presumido de acercarse a los sacramentos de Cristo, los cuales nadie recibe dignamente excepto aquel que es puro: de los tales se dice: «Bienaventurados los limpios de corazón, porque ellos verán a Dios».",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Augustine of Hippo/John 6_56#1": {
+  "text_es": "Luego explica qué es comer su cuerpo y beber su sangre: El que come mi carne y bebe mi sangre, permanece en mí, y yo en él. Así pues, participar de aquel alimento y aquella bebida es permanecer en Cristo y Cristo en ti. El que no permanece en Cristo, y en quien Cristo no permanece, ni come su carne ni bebe su sangre; sino que más bien come y bebe el sacramento de ello para su propia condenación.\n\n(de Verb. Dom.) En cuanto a aquellos, como en efecto hay muchos, que o bien comen aquella carne y beben aquella sangre hipócritamente, o bien, habiendo comido, se vuelven apóstatas, ¿permanecen en Cristo, y Cristo en ellos? No, sino que hay cierto modo de comer aquella carne y beber aquella sangre, en el cual el que come y bebe, permanece en Cristo, y Cristo en él.\n\n(de Civ. Dei, l. xxi. c. 25) Es decir, tal persona come el cuerpo y bebe la sangre de Cristo no en el sentido sacramental, sino en realidad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5a66fa1c7914",
+  "text_es_2": "Luego explica qué es comer su cuerpo y beber su sangre: El que come mi carne y bebe mi sangre, en mí permanece, y yo en él. De modo que participar de esa comida y de esa bebida es permanecer en Cristo y Cristo en ti. El que no permanece en Cristo, y en quien Cristo no permanece, ni come su carne ni bebe su sangre, sino que más bien come y bebe el sacramento de ello para su propia condenación.\n\n(de Verb. Dom.) En cuanto a aquellos, como en verdad hay muchos, que o comen esa carne y beben esa sangre hipócritamente, o que, habiendo comido, se vuelven apóstatas, ¿permanecen en Cristo y Cristo en ellos? No, sino que hay un cierto modo de comer esa carne y beber esa sangre en el cual el que come y bebe permanece en Cristo y Cristo en él.\n\n(de Civ. Dei, l. xxi. c. 25) Es decir, el tal come el cuerpo y bebe la sangre de Cristo no en sentido sacramental, sino en realidad.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:John Chrysostom/John 6_56#0": {
+  "text_es": "O bien, habiendo dado una promesa de vida eterna a los que lo comen, dice esto para confirmarla: El que come mi carne y bebe mi sangre, permanece en mí, y yo en él.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0848b5cc41dd",
+  "text_es_2": "O bien, habiendo dado una promesa de vida eterna a los que le comen, dice esto para confirmarla: El que come mi carne y bebe mi sangre, en mí permanece, y yo en él.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Augustine of Hippo/John 6_57#1": {
+  "text_es": "No dice: Como yo como al Padre, y vivo por el Padre, así el que me come, también él vivirá por mí. Porque el Hijo no se vuelve mejor por participar del Padre, como nosotros por participar del Hijo, es decir, de su único cuerpo y sangre, lo cual significa este comer y beber. De modo que su dicho: Yo vivo por el Padre, porque es de él, no debe entenderse como que menoscaba su igualdad. Ni las palabras: También el que me come, él vivirá por mí, nos dan la igualdad que él tiene. No iguala, sino que solo media entre Dios y el hombre. Si, sin embargo, entendemos las palabras: Yo vivo por el Padre, en el sentido de aquellas de abajo: Mi Padre mayor es que yo, (c. 14:28) entonces es como si dijera: Que yo viva por el Padre, es decir, referir mi vida a él, como a mi superior, mi humillación en mi encarnación es la causa; pero el que vive por mí, vive por mí en virtud de participar de mi carne.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "268c5c92310c",
+  "text_es_2": "No dice: Como yo como al Padre y vivo por el Padre, así el que me come, él también vivirá por mí. Porque el Hijo no se hace mejor por participar del Padre, como nosotros lo hacemos por participar del Hijo, es decir, de su único cuerpo y sangre, lo cual significa este comer y beber. De modo que su dicho: Yo vivo por el Padre, porque él procede de él, no debe entenderse como algo que merme su igualdad. Ni tampoco las palabras: Él también vivirá por mí, nos otorgan la igualdad que él tiene. Él no iguala, sino que solo media entre Dios y el hombre. Si, embargo, entendemos las palabras: Yo vivo por el Padre, en el sentido de las de más abajo: El Padre es mayor que yo (c. 14:28), entonces es como si dijera: Que yo viva por el Padre, es decir, que remita mi vida a él como a mi superior, mi humillación en mi encarnación es la causa; pero el que vive por mí, vive por mí en virtud de participar de mi carne.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:John Chrysostom/John 6_57#0": {
+  "text_es": "Y porque yo vivo, es manifiesto que él vivirá también: Como el Padre viviente me envió, y yo vivo por el Padre, así también el que me come, él vivirá por mí. (Aug. de Verb. Dom. [Nic.]). Como si dijera: Como el Padre vive, así vivo yo; añadiendo, para que no lo creyeras increado: Por el Padre, queriendo decir que tiene su origen en el Padre. El que me come, él vivirá por mí; la vida aquí significada no es la vida simplemente, sino la vida justificada; pues incluso los incrédulos viven, que nunca comen de aquella carne en absoluto. Ni habla de la resurrección general, (pues todos resucitarán,) sino de la resurrección para gloria y recompensa.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9a7630673ea9",
+  "text_es_2": "Y porque yo vivo, es manifiesto que él vivirá también: Como me envió el Padre viviente, y yo vivo por el Padre, asimismo el que me come, él también vivirá por mí. (Aug. de Verb. Dom. [Nic.]). Como si dijera: Como el Padre vive, así vivo yo; añadiendo, para que no piensen que es no engendrado: Por el Padre, significando que tiene su origen en el Padre. El que me come, él también vivirá por mí; la vida aquí entendida no es la vida simplemente, sino la vida justificada: porque incluso los incrédulos viven, los cuales nunca comen de esa carne en absoluto. Ni habla tampoco de la resurrección general (pues todos resucitarán), sino de la resurrección a la gloria y al galardón.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Augustine of Hippo/John 6_58#0": {
+  "text_es": "\"Este es el pan que desciende del cielo;\" para que comiéndolo vivamos, ya que no podemos tener la vida eterna de nosotros mismos. \"No,\" dice, \"como vuestros padres comieron el maná, y murieron: el que come este pan vivirá para siempre.\" Que aquellos padres murieron, ha de entenderse como que no viven para siempre. Pues incluso los que comen a Cristo ciertamente morirán temporalmente; pero viven para siempre, porque Cristo es la vida eterna.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "dcb8866bae85",
+  "text_es_2": "«Este es el pan que descendió del cielo»; para que comiéndolo vivamos, puesto que no podemos tener vida eterna por nosotros mismos. «No», dice, «como vuestros padres comieron el maná, y son muertos: el que come de este pan, vivirá eternamente». Que esos padres están muertos, él quiere que se entienda en el sentido de que no viven para siempre. Porque incluso aquellos que comen a Cristo ciertamente morirán temporalmente; pero viven para siempre, porque Cristo es la vida eterna.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Augustine of Hippo/John 6_58#1": {
+  "text_es": "Para que nosotros, que no podemos obtener la vida eterna de nosotros mismos, vivamos por comer aquel pan, él descendió del cielo: Este es el pan que desciende del cielo.\n\n(Tr. xxvi. 20) La muerte aquí significada es la muerte eterna. Pues incluso los que comen a Cristo están sujetos a la muerte natural; pero viven para siempre, porque Cristo es la vida eterna.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a6d678e230f8",
+  "text_es_2": "Para que nosotros, que no podemos obtener la vida eterna por nosotros mismos, viviéramos por el comer ese pan, él descendió del cielo: Este es el pan que descendió del cielo.\n\n(Tr. xxvi. 20) La muerte aquí entendida es la muerte eterna. Porque incluso aquellos que comen a Cristo están sujetos a la muerte natural; pero viven para siempre, porque Cristo es la vida eterna.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Bede/John 6_58#0": {
+  "text_es": "Y para mostrar el amplio intervalo entre la sombra y la luz, el tipo y la realidad, añade: No como vuestros padres comieron el maná, y murieron: el que come de este pan vivirá para siempre.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e157ca6f0d46",
+  "text_es_2": "Y para mostrar el amplio intervalo entre la sombra y la luz, el tipo y la realidad, añade: No como vuestros padres comieron el maná, y son muertos: el que come de este pan, vivirá eternamente.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Hilary of Poitiers/John 6_58#0": {
+  "text_es": "Se llama a sí mismo el pan, porque es el origen de su propio cuerpo. Y para que no se pensara que la virtud y la naturaleza del Verbo habían cedido a la carne, llama al pan su carne, para que, en cuanto que el pan descendió del cielo, se viera que su cuerpo no era de concepción humana, sino un cuerpo celestial. Decir que el pan es suyo propio, es declarar que el Verbo asumió él mismo su cuerpo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6b84c43e3dfb",
+  "text_es_2": "Se llama a sí mismo el pan, porque él es el origen de su propio cuerpo. Y para que no se piense que la virtud y la naturaleza del Verbo se habían rendido a la carne, llama a su carne el pan, para que, por cuanto el pan descendió del cielo, se pueda ver que su cuerpo no era de concepción humana, sino un cuerpo celestial. Decir que el pan es suyo es declarar que el Verbo asumió su cuerpo él mismo.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:John Chrysostom/John 6_58#0": {
+  "text_es": "\"Este es el pan que descendió del cielo; no como vuestros padres comieron el maná, y murieron; el que come de este pan vivirá para siempre.\"\n\nContinuamente trata el mismo punto, a fin de imprimirlo en el entendimiento de los oyentes (pues la enseñanza sobre estos puntos era una especie de enseñanza final), y de confirmar la doctrina de la Resurrección y de la vida eterna. Por eso menciona la Resurrección, ya que promete la vida eterna, mostrando que esa vida no es ahora, sino después de la Resurrección. \"¿Y de dónde\", dice alguno, \"son claras estas cosas?\" De las Escrituras; a ellas remite en todas partes a los judíos, mandándoles aprender estas cosas de ellas. Y al decir: \"Que da vida al mundo\", los incita a la emulación, para que por la misma molestia de que otros gocen del don, no se queden fuera. Y continuamente les recuerda el maná, mostrando la diferencia (entre él y su pan), y guiándolos a la fe; pues si fue capaz de sostener su vida durante cuarenta años sin cosecha, ni trigo, ni otras cosas en su curso; mucho más ahora podrá hacerlo, habiendo venido para fines mayores. Además, si aquellas cosas eran solo tipos, y sin embargo los hombres recogían lo que descendía sin sudor ni trabajo; mucho más será este el caso, donde la diferencia es grande tanto en el no morir jamás, como en el gozar de la vida verdadera. Y con razón ha hablado a menudo de \"vida\", ya que esta es deseada por los hombres, y nada les es tan agradable como no morir. Pues incluso bajo el antiguo Pacto, esta era la promesa, largura de vida y muchos días, pero ahora no es meramente largura, sino vida que no tiene fin. Desea al mismo tiempo mostrar que ahora revoca el castigo causado por el pecado, anulando aquella sentencia que condena a muerte, y trayendo no solo vida, sino vida eterna, contrariamente a las cosas anteriores.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4150be69fbfb",
+  "text_es_2": "«Este es el pan que descendió del cielo; no como vuestros padres comieron el maná, y son muertos; el que come de este pan vivirá para siempre».\n\nContinuamente trata él el mismo punto, a fin de grabarlo en el entendimiento de los oyentes (pues la enseñanza sobre estos puntos era una especie de enseñanza final) y confirmar la doctrina de la resurrección y de la vida eterna. Por lo cual menciona la resurrección, ya que promete la vida eterna, mostrando que esa vida no es ahora, sino después de la resurrección. «¿Y de dónde», dice alguno, «están claras estas cosas?». De las Escrituras; a ellas remite en todas partes a los judíos, mandándoles que aprendan estas cosas de ellas. Y al decir: «El cual da vida al mundo», los incita a celos, para que por el disgusto mismo de que otros disfruten del don, no se queden fuera. Y continuamente les recuerda el maná, mostrando la diferencia (entre este y su pan) y guiándolos a la fe; porque si él fue capaz de sostener la vida de ellos durante cuarenta años sin siega, ni trigo, ni otras cosas ordinarias, mucho más ahora podrá hacerlo, habiendo venido para fines mayores. Además, si aquellas cosas no eran más que tipos, y sin embargo los hombres recogían lo que descendía sin sudor ni trabajo, mucho más será este el caso, donde la diferencia es grande tanto en el no morir jamás como en el disfrutar de la vida verdadera. Y con razón ha hablado a menudo de la «vida», puesto que esto es deseado por los hombres, y nada les es tan agradable como no morir. Puesto que aun bajo el antiguo Pacto, esta era la promesa: largura de vida y muchos días, pero ahora no es meramente largura, sino vida sin fin. Desea al mismo tiempo mostrar que ahora revoca el castigo causado por el pecado, anulando esa sentencia que condena a muerte, e introduciendo no simplemente vida, sino vida eterna, al contrario de las cosas anteriores.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:John Chrysostom/John 6_58-59#0": {
+  "text_es": "Pues si fue posible sin cosecha ni fruto de la tierra, ni cosa semejante, preservar las vidas de los israelitas de antaño durante cuarenta años, mucho más podrá hacer esto con aquel alimento espiritual, del cual el maná es el tipo. Sabía cuán preciosa cosa era la vida a los ojos de los hombres, y por eso repite a menudo su promesa de vida; tal como lo había hecho el Antiguo Testamento; (Exod. 20:12) solo que aquel solo ofrecía largura de vida, Él vida sin fin. (Deut. 22:7) Esta promesa era una abolición de aquella sentencia de muerte, que el pecado había traído sobre nosotros. Estas cosas dijo en la sinagoga, mientras enseñaba en Capernaum; (1 Reyes 3:14) donde tuvieron lugar muchas manifestaciones de su poder. (Sal. 21:4; 91:16) Enseñaba en la sinagoga y en el templo, (Prov. 3:2) con el fin de atraer a la multitud, y como señal de que no actuaba en oposición al Padre.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e7276002995e",
+  "text_es_2": "Porque si fue posible sin siega ni fruto de la tierra, ni ninguna cosa semejante, preservar la vida de los israelitas de la antigüedad durante cuarenta años, mucho más podrá hacer esto con aquel alimento espiritual, del cual el maná es el tipo. Él sabía cuán preciosa era la vida a los ojos de los hombres, y por lo tanto repite a menudo su promesa de vida; tal como lo había hecho el Antiguo Testamento (Éxodo 20:12); solo que mientras este ofrecía únicamente largura de vida, él ofrece vida sin fin (Deuteronomio 22:7). Esta promesa era una abolición de aquella sentencia de muerte que el pecado había traído sobre nosotros. Estas cosas dijo en la sinagoga, enseñando en Capernaum (I Reyes 3:14); donde tuvieron lugar muchas manifestaciones de su poder (Salmos 21:4; 91:16). Enseñó en la sinagoga y en el templo (Proverbios 3:2), con el fin de atraer a la multitud, y como señal de que no actuaba en oposición al Padre.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Bede/John 6_59#0": {
+  "text_es": "Místicamente, Capernaum, que significa ciudad hermosa, representa el mundo: la sinagoga, al pueblo judío. El significado es que nuestro Señor, por el misterio de la encarnación, se ha manifestado al mundo, y también ha enseñado al pueblo judío sus doctrinas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3eae74ea92e2"
+ },
+ "hcf:John Chrysostom/John 6_59#0": {
+  "text_es": "\"Estas cosas dijo en la sinagoga, mientras enseñaba en Capernaum.\"\n\nEl lugar donde se habían hecho la mayoría de sus maravillas, de modo que allí especialmente debía haber sido escuchado. Pero ¿por qué enseñaba en la sinagoga y en el Templo? Tanto porque deseaba captar al mayor número de ellos, como porque deseaba mostrar que no estaba opuesto al Padre.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cf34deffbbee"
+ },
+ "aquifer:19202": {
+  "text_es": "Lo que Jesús dijo fue impactante y ofensivo (6:53–58; véase Génesis 9:4–5). Era difícil de entender para sus discípulos y la multitud. ¿Debían tomarlo literalmente? ¿Cómo podían comer su carne? Jesús responde en Juan 6:63.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a63b83da179a"
+ },
+ "hcf:Alcuin of York/John 6_60#0": {
+  "text_es": "es decir, que dije, debéis comer mi carne, y beber mi sangre.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6566b62eae33"
+ },
+ "hcf:Augustine of Hippo/John 6_60#1": {
+  "text_es": "Tal es el discurso de nuestro Señor. La gente no percibía que tenía un significado profundo, o que la gracia iba junto con él: sino que recibiendo el asunto a su manera, y tomando sus palabras en sentido humano, lo entendieron como si hablara de cortar la carne del Verbo en pedazos, para distribuirlos a los que creyeran en Él: Muchos, pues, no de sus enemigos, sino incluso de sus discípulos, al oír esto, dijeron: Dura es esta palabra, ¿quién puede oírla?\n\n(Tr. xxvii. 2) Y si sus discípulos consideraron dura esa palabra, ¿qué pensarían sus enemigos? Sin embargo, era necesario declarar una cosa que sería ininteligible para los hombres. Los misterios de Dios deben atraer la atención de los hombres, no la enemistad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a536908ea448"
+ },
+ "hcf:Theophylact of Ohrid/John 6_60-61#0": {
+  "text_es": "Cuando oigas, sin embargo, de sus discípulos murmurando, no entiendas a aquellos realmente tales, sino más bien a algunos que, en cuanto a su aire y comportamiento, parecían recibir instrucción de Él. Pues entre sus discípulos había algunos del pueblo, que eran llamados tales, porque se quedaban algún tiempo con sus discípulos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f89ff2b8c0b3"
+ },
+ "hcf:Augustine of Hippo/John 6_61#1": {
+  "text_es": "Hablaban, sin embargo, de modo que no fueran oídos por Él. Pero Él, que sabía lo que había en ellos, oyó dentro de sí mismo: Cuando Jesús supo dentro de sí mismo que sus discípulos murmuraban de esto, les dijo: ¿Esto os ofende?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b14e950bab16"
+ },
+ "hcf:John Chrysostom/John 6_61-62#0": {
+  "text_es": "\"Cuando Jesús supo en sí mismo que sus discípulos murmuraban de esto\", (pues esto es un atributo de su Deidad, sacar a la luz las cosas secretas,) \"les dijo: ¿Esto os ofende? ¿Pues qué, si viereis al Hijo del hombre subir donde estaba antes?\"\n\nEsto también lo hace en el caso de Natanael, diciendo: \"Porque te dije que te vi debajo de la higuera, ¿crees? Cosas mayores que estas verás.\" Y a Nicodemo: \"Nadie ha subido al cielo sino el Hijo del hombre que está en el cielo.\" ¿Qué entonces, añade dificultades a dificultades? No, (lejos sea de Él,) sino que por la grandeza de las doctrinas, y el número de ellas, desea atraerlos. Pues si uno hubiera dicho simplemente: \"He descendido del cielo\", y no hubiera añadido nada más, habría sido más probable que los ofendiera; pero el que dijo: \"Mi cuerpo es la vida del mundo\"; el que dijo: \"Como el Padre viviente me ha enviado, así yo vivo por el Padre\"; y que dijo: \"He descendido del cielo\", resuelve la dificultad. Pues el hombre que pronuncia una sola cosa grande acerca de sí mismo puede quizás ser sospechoso de fingir, pero el que conecta tantas una tras otra elimina toda sospecha. Todo lo que hace y dice está destinado a apartarlos del pensamiento de que José era su padre. Y no fue con un deseo de fortalecer, sino más bien de eliminar ese tropiezo, que dijo esto. Pues quienquiera que considerara que era hijo de José no podía recibir sus dichos, mientras que uno que estuviera persuadido de que había descendido del cielo, y subiría allá, podría más fácilmente prestar atención a sus palabras...",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fd57ae3de1d1"
+ },
+ "hcf:Augustine of Hippo/John 6_62#1": {
+  "text_es": "O bien, estas palabras son una respuesta a su error. Ellos suponían que Él iba a distribuir Su cuerpo en pedazos; mientras que ahora les dice que Él ascendería al cielo entero y completo: ¿Pues qué, si viereis al Hijo del hombre subir donde estaba antes? entonces veréis que no distribuye Su cuerpo de la manera que pensáis. Además; Cristo se hizo Hijo del hombre, de la Virgen María aquí en la tierra, y tomó carne sobre Sí: Dice entonces: ¿Pues qué, si viereis al Hijo del hombre subir donde estaba antes? para darnos a conocer que Cristo, Dios y hombre, es una persona, no dos; y objeto de una sola fe, no una cuaternidad, sino una Trinidad. Él era el Hijo del hombre en el cielo, como era el Hijo de Dios en la tierra; el Hijo de Dios en la tierra por la asunción de la carne, el Hijo del hombre en el cielo, por la unidad de la persona.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0fda7cefc3b7",
+  "corregido_por_juez": "Traducción errónea: «the Son of God upon earth» se tradujo como «el Hijo del hombre en la tierra» en lugar de «el Hijo de Dios en la tierra»."
+ },
+ "hcf:Theophylact of Ohrid/John 6_62#0": {
+  "text_es": "No supongas por esto que el cuerpo de Cristo descendió del cielo, como dicen los herejes Marción y Apolinar; sino solo que el Hijo de Dios y el Hijo del hombre son uno y el mismo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "72b66f401764"
+ },
+ "aquifer:19203": {
+  "text_es": "La verdadera fuente del don que Jesús da es el Espíritu Santo, no el esfuerzo humano. En este contexto, ⸢la carne⸣ se refiere a lo que los humanos pueden hacer por sí mismos. La vida y el entendimiento vienen a través del don del Espíritu (véase 14:15–20; 20:21–22). La vida verdadera se encuentra solo cuando el Espíritu Santo da vida a las personas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "63cd05903d99"
+ },
+ "hcf:Augustine of Hippo/John 6_63#1": {
+  "text_es": "O así: la carne para nada aprovecha. Habían entendido por su carne, por así decirlo, un cadáver, que debía ser cortado y vendido en el mercado, no un cuerpo animado por el espíritu. Une el espíritu a la carne, y aprovecha mucho: pues si la carne no aprovechara, el Verbo no se habría hecho carne, y habitado entre nosotros. El Espíritu ha hecho mucho por nuestra salvación, por medio de la carne.\n\nPues la carne no limpia por sí misma, sino por el Verbo que la asumió: el cual Verbo, siendo el principio de vida en todas las cosas, habiendo tomado alma y cuerpo, limpia las almas y los cuerpos de los que creen. Es el espíritu, entonces, el que vivifica: la carne para nada aprovecha; es decir, la carne como ellos la entendían. No doy, parece decir, mi cuerpo para ser comido en este sentido. No debe pensar en la carne carnalmente: Las palabras que yo os hablo, son espíritu, y son vida.\n\n(Tr. xxvii) Si entonces las entiendes espiritualmente, son vida y espíritu para ti: si carnalmente, incluso entonces son vida y espíritu, pero no para ti. Nuestro Señor declara que al comer su cuerpo, y beber su sangre, permanecemos en Él, y Él en nosotros. Pero ¿qué tiene el poder de afectar esto, excepto el amor? El amor de Dios es derramado en nuestros corazones por el Espíritu Santo, que nos es dado. (Rom. 5:5)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d6408b966d58"
+ },
+ "hcf:Cyril of Alexandria/John 6_63#1": {
+  "text_es": "[En este pasaje Cristo está diciendo:] \"No es la naturaleza de la carne lo que hace que el Espíritu dé vida, sino el poder del Espíritu lo que hace que el cuerpo dé vida. Las palabras entonces que os he hablado son espíritu, es decir, tanto espirituales como del Espíritu, y son vida.\"",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "beaf41690137"
+ },
+ "hcf:Augustine of Hippo/John 6_64#0": {
+  "text_es": "\"Pero\", dice Él, \"hay algunos entre vosotros que no creen\". No dijo: Hay algunos entre vosotros que no entienden; sino que declaró la causa por la que no entienden: \"Hay algunos entre vosotros que no creen\", y por eso no entienden, porque no creen. Pues el profeta ha dicho: \"Si no creyereis, no entenderéis\". Somos unidos por la fe, vivificados por el entendimiento. Adhirámonos primero a Él por la fe, para que haya aquello que pueda ser vivificado por el entendimiento. Pues el que no se adhiere, resiste; el que resiste, no cree. ¿Y cómo puede ser vivificado el que resiste? Es adversario del rayo de luz por el cual debería ser penetrado: no aparta su ojo, sino que cierra su mente. \"Hay\", pues, \"algunos que no creen\". Que crean y se abran, que se abran y sean iluminados. \"Porque Jesús sabía desde el principio quiénes eran los que creían, y quién le había de entregar\". Pues también Judas estaba allí. Algunos ciertamente se ofendieron; pero él permaneció para acechar su oportunidad, no para entender. Y porque permaneció para ese propósito, el Señor no guardó silencio acerca de él. No lo describió por nombre, pero tampoco calló sobre él; para que todos temieran aunque solo uno pereciera.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c87069ec018b"
+ },
+ "hcf:John Chrysostom/John 6_64#0": {
+  "text_es": "\"Pero hay algunos de vosotros que no creen\".\n\nDe nuevo, según su costumbre, añade peso a sus palabras, al predecir lo que habría de suceder, y al mostrar que hablaba así no por deseo de honor de ellos, sino porque se preocupaba por ellos. Y cuando dijo \"algunos\", exceptuó a los discípulos. Pues al principio dijo: \"Vosotros me habéis visto, y no creéis\"; pero aquí: \"Hay algunos de vosotros que no creen\".\n\nPues Él \"sabía desde el principio quiénes eran los que no creían, y quién le había de entregar\".\n\nAquí el Evangelista nos insinúa el carácter voluntario de la Dispensación, y su tolerancia del mal. Ni está puesto aquí el \"desde el principio\" sin causa, sino para que estés consciente de su presciencia desde el principio, y que antes de que se pronunciaran las palabras, y no después de que los hombres hubieran murmurado ni después de que se hubieran ofendido, conocía al traidor, sino antes, lo cual era un atributo de la Deidad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ebda378bef64"
+ },
+ "aquifer:19204": {
+  "text_es": "⸢nadie puede venir a Mí si el Padre no se lo ha concedido⸣ (véase 6:44): Solo la luz de Dios puede brillar en la profunda oscuridad del mundo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "66fe73dcda4d"
+ },
+ "hcf:Augustine of Hippo/John 6_65#2": {
+  "text_es": "Y después de distinguir a los que creían de los que no creían, nuestro Señor da la razón de la incredulidad de estos últimos: Y dijo: Por eso os dije que nadie puede venir a Mí, si no le fuere dado de mi Padre.\n\n(Tr. xxvii. 7) Así pues, la fe nos es dada: y no es pequeño don. Por lo cual regocíjate si crees; pero no te enaltezcas, pues ¿qué tienes que no hayas recibido? (1 Cor. 4:7). Y que esta gracia es dada a algunos, y no a otros, nadie puede dudarlo, sin ir contra las declaraciones más claras de la Escritura. En cuanto a la cuestión de por qué no es dada a todos, esto no puede inquietar al creyente, que sabe que a consecuencia del pecado de un solo hombre, todos son justamente reos de condenación; y que ninguna culpa podría atribuirse a Dios, aun si ninguno fuera perdonado; siendo solo por su gran misericordia que tantos lo son. Y por qué perdona a uno más bien que a otro, queda a Él, cuyos juicios son inescrutables, y sus caminos incomprensibles.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d086ee0dfeab"
+ },
+ "hcf:John Chrysostom/John 6_65#0": {
+  "text_es": "Como si dijera: La incredulidad de los hombres no me perturba ni me asombra: sé a quién el Padre ha dado venir a Mí. Menciona al Padre, para mostrar primero que no tenía la vista puesta en su propia gloria; en segundo lugar, que Dios era su Padre, y no José.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "625a53b684b9"
+ },
+ "hcf:Augustine of Hippo/John 6_66#1": {
+  "text_es": "Y desde entonces muchos de sus discípulos se volvieron atrás, y ya no andaban con Él.\n\n(Tr. xxvii. 8) Cortados del cuerpo, su vida se había ido. Ya no estaban en el cuerpo; fueron contados entre los incrédulos. Se volvieron atrás no pocos, sino muchos tras Satanás, no tras Cristo; como dice el Apóstol de algunas mujeres: Pues algunas ya se habían extraviado tras Satanás. (1 Tim. 5:15). Nuestro Señor dice a Pedro: Apártate de mí. No le dice a Pedro que vaya tras Satanás.\n\n(Tr. xxvii. 8) Y quizá esto sucedió para nuestra consolación; ya que a veces sucede que un hombre dice lo que es verdad, y lo que dice no es entendido, y los que oyen se ofenden y se van. Entonces el hombre se arrepiente de haber dicho lo que era verdad; pues se dice a sí mismo: No debí haberlo dicho; y sin embargo nuestro Señor estuvo en el mismo caso. Habló la verdad, y destruyó a muchos. Pero Él no se perturba por ello, porque sabía desde el principio quiénes creerían. Nosotros, si esto nos sucede, nos perturbamos. Busquemos, pues, consolación en el ejemplo de nuestro Señor; y a la vez seamos cautos en nuestro hablar.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "52aa30b78739"
+ },
+ "hcf:John Chrysostom/John 6_66#1": {
+  "text_es": "Pero podría preguntarse: ¿qué razón había para decirles palabras que no edificaban, sino que más bien podían haberles dañado? Fue muy útil y necesario; pues por esta razón, ellos acababan de ser insistentes en pedir alimento corporal, y de recordarle lo que había sido dado a sus padres. Así que Él les recuerda aquí el alimento espiritual; para mostrar que todos aquellos milagros eran típicos. No debieron entonces haberse ofendido, sino haberle preguntado más. El escándalo se debió a su necedad, no a la dificultad de las verdades declaradas por nuestro Señor.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b1f869f99816"
+ },
+ "hcf:Bede/John 6_67#0": {
+  "text_es": "Nuestro Señor conocía bien las intenciones de los otros discípulos que se quedaron, en cuanto a quedarse o irse; pero sin embargo les hizo la pregunta, para probar su fe, y presentarla como ejemplo a imitar: Entonces dijo Jesús a los doce: ¿También vosotros queréis iros?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a89a8d304081"
+ },
+ "hcf:Cyril of Alexandria/John 6_67#1": {
+  "text_es": "Pues no es el número de adoradores, sino más bien los que sobresalen en la fe recta, aunque sean pocos, lo que es precioso a los ojos de Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "26ba21104dea"
+ },
+ "aquifer:19205": {
+  "text_es": "Simón Pedro habló a menudo en nombre de los 12 apóstoles (véanse también Mateo 14:28–29; 16:16; 17:4; 18:21; 19:27; 26:33–35).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "022f5004b814"
+ },
+ "hcf:Augustine of Hippo/John 6_68#1": {
+  "text_es": "Como si dijera: Nos echas de tu lado: danos otro a quien ir, si te dejamos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f2828a97714b"
+ },
+ "hcf:Cyril of Alexandria/John 6_68#1": {
+  "text_es": "¿A quién, pues, nos iremos (dice) en lugar de: quién nos instruirá de igual modo? ¿O a quién iremos y hallaremos lo que es mejor? Tú tienes las palabras de vida eterna: no palabras duras, como aquellos dicen, sino palabras que nos elevan hasta lo sumo de todo, a la vida incesante, sin fin y apartada de toda corrupción. Es (supongo) perfectamente claro para nosotros por estas palabras que debemos sentarnos junto a un solo Maestro, Cristo, y adherirnos a Él incesante e indisolublemente, y hacerlo nuestro Maestro, quien sabe bien guiar nuestros pies a la vida sin fin. Pues así, así subiremos a las cortes divinas y celestiales, y apresurándonos a la iglesia de los primogénitos, nos banquetearemos con los bienes que sobrepasan todo entendimiento.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0bb2a4b500af",
+  "corregido_por_juez": "Error gramatical y de conjugación al traducir «shall feast» como «nos banquetearnos» en lugar de «nos banquetearemos»."
+ },
+ "hcf:Augustine of Hippo/John 6_69#1": {
+  "text_es": "Pues creímos, para conocer. Si hubiéramos querido primero conocer, y luego creer, nunca habríamos podido creer. Esto creemos, y sabemos, que Tú eres el Cristo, el Hijo de Dios; es decir, que Tú eres la vida eterna, y que en tu carne y sangre das lo que Tú mismo eres.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1982402af7cf"
+ },
+ "aquifer:19206": {
+  "text_es": "Una vez más, Jesús mostró conocimiento sobrenatural (conocimiento más allá de la capacidad humana normal; véanse 1:47–49; 4:16–19). Sabía lo que había en los corazones de las personas (su yo más íntimo) y lo que sucedería en el futuro.\n\nJesús sabía que Judas lo traicionaría. Judas más tarde entregó a Jesús a las autoridades (12:4; 13:2; Mateo 26:14–16). ⸢Iscariote⸣ significa \"hombre de Kerioth\". Kerioth era la aldea natal de la familia de Judas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1c3103c6e089"
+ },
+ "hcf:Augustine of Hippo/John 6_70#1": {
+  "text_es": "Fue elegido para ser un instrumento involuntario e inconsciente de producir el mayor bien. Pues así como los impíos convierten las buenas obras de Dios en un uso malo, así a la inversa Dios convierte las malas obras del hombre en bien. ¿Qué puede ser peor que lo que hizo Judas? Sin embargo nuestro Señor hizo un buen uso de su maldad; permitiendo ser traicionado, para poder redimirnos. En: ¿No os he elegido yo a vosotros doce?, doce parece ser un número sagrado usado en el caso de aquellos que habían de difundir la doctrina de la Trinidad por las cuatro partes del mundo. Ni fue menoscabada la virtud de ese número, por perecer uno; ya que otro fue sustituido en su lugar.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a99f8ecbaf63"
+ },
+ "hcf:Bede/John 6_70-71#0": {
+  "text_es": "O debemos decir que eligió a los once para un propósito, y al duodécimo para otro: a los once para ocupar el lugar de Apóstoles, y perseverar en él hasta el fin; al duodécimo para el servicio de traicionarlo, lo cual fue el medio de salvar al género humano.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "805f653924a9"
+ },
+ "hcf:Gregory the Dialogist/John 6_70#0": {
+  "text_es": "Uno de vosotros es diablo: el cuerpo es aquí nombrado por su cabeza.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1bc93ea9ed29"
+ },
+ "hcf:John Chrysostom/John 6_70-71#0": {
+  "text_es": "\"¿No os he elegido yo a vosotros doce, y uno de vosotros es diablo?\"\n\nPues como Pedro dijo: \"Nosotros creemos\", Jesús exceptúa a Judas de la banda. En el otro lugar Pedro no hizo mención de los discípulos; pero cuando Cristo dijo: \"¿Quién decís que soy yo?\", él respondió: \"Tú eres el Cristo, el Hijo del Dios viviente\"; pero aquí, como dijo: \"Nosotros creemos\", Cristo con razón no admite a Judas en esa banda. Y esto lo hizo de lejos, y mucho antes del tiempo, para refrenar la maldad del traidor, sabiendo que no habría de servir de nada, pero haciendo su propia parte.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2146ac0e443e"
+ }
+}

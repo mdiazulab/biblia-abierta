@@ -1,0 +1,713 @@
+{
+ "aquifer:19069": {
+  "text_es": "María Magdalena, una seguidora dedicada de Jesús, fue al sepulcro para ayudar a terminar de sepultar a Jesús (véase Mateo 27:55–56; Lucas 8:1–3; véase Juan 19:42). Muchos sepulcros de Judea se sellaban con una piedra rodante.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7e42d8093b51"
+ },
+ "hcf:Augustine of Hippo/John 20_1#0": {
+  "text_es": "María Magdalena, sin duda la más ferviente en amor, de todas las mujeres que ministraban a nuestro Señor; de modo que Juan merecidamente la menciona solo a ella, y no dice nada de las otras que estaban con ella, como sabemos por los otros Evangelistas.\n\n(Tr. cxx) Una sabbati es el día que los cristianos llaman el día del Señor, después de la resurrección de nuestro Señor. Mateo lo llama prima sabbati.\n\n(de Con. Evang. iii. 24.) Lo que dice Marcos, Muy temprano en la mañana, al salir el sol (Marcos 16:1), no contradice las palabras de Juan, cuando aún estaba oscuro. Al amanecer, aún quedan restos de oscuridad, que desaparecen a medida que irrumpe la luz. No debemos entender las palabras de Marcos, Muy temprano en la mañana, al salir el sol, ἡλίου ἀνατεέλαντος, como que el sol estaba sobre el horizonte, sino más bien lo que nosotros mismos solemos querer decir con la frase, cuando queremos que algo se haga muy temprano, decimos al salir el sol, es decir, algún tiempo antes de que el sol haya salido.\n\n(Con. Evang. iii. 24) Ahora tuvo lugar lo que solo Mateo relata, el terremoto, y la remoción de la piedra, y el espanto de los guardias.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "10b5462b5393"
+ },
+ "hcf:Bede/John 20_1#0": {
+  "text_es": "Una sabbati, es decir, un día después del sábado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f66c82d682d9"
+ },
+ "hcf:Gregory the Dialogist/John 20_1#0": {
+  "text_es": "Bien se dice, Cuando aún estaba oscuro: María buscaba en el sepulcro al Creador de todas las cosas, y porque no lo encontró, pensó que había sido robado. Verdaderamente aún estaba oscuro cuando ella vino al sepulcro.\nY ve la piedra quitada del sepulcro.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "253d06ba8037"
+ },
+ "hcf:Theophylact of Ohrid/John 20_1#0": {
+  "text_es": "O así: Los judíos llamaban sábado a los días de la semana, y al primer día, uno de los sábados, el cual día es tipo de la vida venidera; pues aquella vida será un día no cortado por ninguna noche, ya que Dios es allí el sol, un sol que nunca se pone. En este día, pues, nuestro Señor resucitó de nuevo, con un cuerpo incorruptible, así como nosotros en la vida venidera nos revestiremos de incorrupción.\n\nPero ¿cómo llegaron ellas al sepulcro, mientras los soldados lo custodiaban? Una pregunta fácil de responder. Después de la resurrección de nuestro Señor y el terremoto, y la aparición del ángel en el sepulcro, los guardias se retiraron, y contaron a los fariseos lo que había sucedido.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b50af260adc8"
+ },
+ "aquifer:19078": {
+  "text_es": "María Magdalena corrió a buscar a Simón Pedro. Supuso que alguien había tomado el cuerpo de Jesús del sepulcro. Este tipo de disturbio en los sepulcros sí ocurría en el mundo antiguo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a79e75bde0b2"
+ },
+ "hcf:Augustine of Hippo/John 20_2#0": {
+  "text_es": "Esta es la manera en que él suele mencionarse a sí mismo. Jesús amaba a todos, pero a él de una manera especial y familiar. Y les dice: Han tomado al Señor del sepulcro, y no sabemos dónde lo han puesto.\n\n(Tr. cxx) Algunos de los ejemplares griegos tienen, han tomado a mi Señor, lo cual expresa más el amor, y el sentimiento de una sierva. Pero solo unos pocos tienen esta lectura.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5376a4cffcab"
+ },
+ "hcf:Glossa Ordinaria/John 20_2#0": {
+  "text_es": "Y por eso corrió a decírselo a los discípulos, para que la buscaran con ella, o se afligieran con ella: Entonces corre, y va a Simón Pedro, y al otro discípulo, a quien Jesús amaba.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a3e0780535ed"
+ },
+ "hcf:Gregory the Dialogist/John 20_2#0": {
+  "text_es": "Pone la parte por el todo; ella había venido solo a buscar el cuerpo de nuestro Señor, y ahora lamenta que nuestro Señor, todo Él, ha sido tomado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b8528750ead4"
+ },
+ "hcf:John Chrysostom/John 20_2#0": {
+  "text_es": "Este era el significado de su correr, y sus palabras lo declaran. «Han tomado», dice, «a mi Señor, y no sé dónde lo han puesto». ¿Ves cómo ella aún no sabía nada claramente acerca de la Resurrección, sino que pensaba que había habido una remoción del cuerpo, y lo cuenta todo sencillamente a los discípulos? Y el Evangelista no privó a la mujer de tal alabanza, ni tuvo por vergüenza que ellos aprendieran estas cosas primero de ella, que había pasado la noche en vela. Así en todas partes resplandece la naturaleza amante de la verdad de su disposición.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "864ceccb30d5"
+ },
+ "aquifer:19079": {
+  "text_es": "El otro discípulo era probablemente Juan, «el que Jesús amaba» y el autor de este Evangelio (véase 13:23). Él y Pedro confirmaron el testimonio de María al verificar el sepulcro ellos mismos. Juan llegó primero, pero Pedro entró primero.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b27a5bfebb24"
+ },
+ "hcf:Augustine of Hippo/John 20_3-4#0": {
+  "text_es": "Después de decir, llegó al sepulcro, vuelve atrás y nos cuenta cómo llegaron: Así que corrieron ambos juntos; y el otro discípulo corrió más aprisa que Pedro, y llegó primero al sepulcro; refiriéndose a sí mismo, pero siempre habla de sí mismo como si hablara de otra persona.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8b029c324fe2"
+ },
+ "hcf:Gregory the Dialogist/John 20_3#1": {
+  "text_es": "Pero Pedro y Juan antes que los otros, pues amaban más; Pedro, por tanto, salió, y el otro discípulo, y fueron al sepulcro.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "945fd3c063bd"
+ },
+ "hcf:Gregory the Dialogist/John 20_4#1": {
+  "text_es": "Pero este relato del Evangelista no debe considerarse sin algún significado místico. Por Juan, el más joven de los dos, se representa la sinagoga; por Pedro, el mayor, la Iglesia de los gentiles; pues aunque la sinagoga era antes que la Iglesia de los gentiles en cuanto al culto de Dios, en cuanto al tiempo el mundo gentil era antes que la sinagoga. Corrieron juntos, porque el mundo gentil corrió al lado de la sinagoga de principio a fin, en cuanto a pureza y comunidad de vida, aunque una pureza y comunidad de entendimiento no tenían.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c7119edfe2a3"
+ },
+ "hcf:Theophylact of Ohrid/John 20_4-8#0": {
+  "text_es": "O así: Pedro es práctico y pronto, Juan contemplativo e inteligente, y versado en las cosas divinas. Ahora bien, el hombre contemplativo generalmente lleva la delantera en conocimiento e inteligencia, pero el práctico, por su fervor y actividad, se adelanta a la percepción del otro, y ve primero el misterio divino.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "26a38560c3bc"
+ },
+ "hcf:Gregory the Dialogist/John 20_5#1": {
+  "text_es": "La sinagoga llegó primero al sepulcro, pero no entró: conocía los mandamientos de la ley, y había oído las profecías de la encarnación y muerte de nuestro Señor, pero no quiso creer en Aquel que murió.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5e7162edb4b5"
+ },
+ "hcf:John Chrysostom/John 20_5#0": {
+  "text_es": "Al llegar, ve los lienzos puestos a un lado: Y bajándose, y mirando hacia dentro, vio los lienzos puestos. Pero no hace más búsqueda; sin embargo, no entró.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2b47b4c1dfd2"
+ },
+ "aquifer:19082": {
+  "text_es": "Lo que Pedro y Juan encontraron en el sepulcro era notable. Los lienzos de lino estaban sobre el banco de sepultura (19:40). Los judíos también usaban un paño sobre el rostro para los entierros. Lo enrollaban, lo envolvían bajo la barbilla y lo ataban sobre la cabeza (véase 11:44). Los apóstoles encontraron este paño doblado sobre el banco. Juan incluyó estos detalles para contrarrestar cualquier sugerencia de que los ladrones de tumbas habían tomado el cuerpo de Jesús. Los ladrones habrían tomado tales ropas costosas en un robo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "452ca846d782"
+ },
+ "hcf:Gregory the Dialogist/John 20_6#1": {
+  "text_es": "Entonces llega Simón Pedro, y entró en el sepulcro: la Iglesia de los gentiles tanto conoció a Jesucristo como hombre muerto, como creyó en Él como Dios vivo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1ba941805a1e"
+ },
+ "hcf:John Chrysostom/John 20_6-7#0": {
+  "text_es": "Pedro, en cambio, siendo de temperamento más ferviente, prosiguió la búsqueda, y examinó todo: Entonces llega Simón Pedro siguiéndole, y entró en el sepulcro, y ve los lienzos puestos, y el sudario, que había estado sobre su cabeza, no puesto con los lienzos, sino envuelto en un lugar aparte. Tales circunstancias eran prueba de su resurrección. Pues si lo hubieran llevado, no lo habrían despojado; ni, si alguien lo hubiera robado, se habría tomado la molestia de envolver el sudario, y ponerlo en un lugar aparte, separado de los lienzos; sino que habrían tomado el cuerpo tal como estaba. Juan mencionó la mirra en primer lugar por esta razón, es decir, para mostrarte que no pudo haber sido robado. Pues la mirra haría que el lino se adhiriera al cuerpo, y así causaría problemas a los ladrones, y nunca habrían sido tan insensatos como para tomarse esta molestia innecesaria en el asunto.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7fb974e5f99b"
+ },
+ "hcf:Gregory the Dialogist/John 20_7#1": {
+  "text_es": "El sudario sobre la cabeza de nuestro Señor no se encuentra con los lienzos, es decir, Dios, la Cabeza de Cristo, y los misterios incomprensibles de la Deidad están removidos de nuestro pobre conocimiento; su poder trasciende la naturaleza de la criatura. Y se encuentra no solo aparte, sino también envuelto; porque del lino envuelto, no se ve ni principio ni fin; y la altura de la naturaleza divina no tenía ni principio ni fin. Y es en un lugar: pues donde hay división, Dios no está; y merecen su gracia quienes no ocasionan escándalo dividiéndose en sectas. Pero así como el sudario es lo que se usa al trabajar para limpiar el sudor de la frente, por el sudario aquí podemos entender el trabajo de Dios: el cual sudario se encuentra aparte, porque el sufrimiento de nuestro Redentor está muy lejos del nuestro; en cuanto que Él sufrió inocentemente, lo que nosotros sufrimos justamente; Él se sometió a la muerte voluntariamente, nosotros por necesidad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "13942c884b39"
+ },
+ "aquifer:19083": {
+  "text_es": "⸢vio y creyó⸣: Aunque no entendía del todo, Juan sabía que Dios había hecho esto, y se dio cuenta de que Jesús estaba vivo.",
+  "lemas_es": [
+   "vio y creyó"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6f509eb63578",
+  "lemas_rv1909": [
+   {
+    "lema": "y vio, y creyó",
+    "ref": "JHN.20.8"
+   }
+  ]
+ },
+ "hcf:Augustine of Hippo/John 20_8-9#0": {
+  "text_es": "Es decir, que Jesús había resucitado, piensan algunos: pero lo que sigue contradice esta noción. Vio el sepulcro vacío, y creyó lo que la mujer había dicho: Porque aún no sabían la Escritura, que Él debía resucitar de entre los muertos. Si aún no sabía que Él debía resucitar de entre los muertos, no podía creer que había resucitado. Ciertamente habían oído esto de nuestro Señor, y muy abiertamente, pero estaban tan acostumbrados a oír parábolas de Él, que tomaron esto por una parábola, y pensaron que quería decir otra cosa.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "410b0c1e1761"
+ },
+ "hcf:Gregory the Dialogist/John 20_8#1": {
+  "text_es": "Pero después de que Pedro entró, Juan entró también; pues al final del mundo también Judea será reunida a la verdadera fe.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "67d1c9578456"
+ },
+ "hcf:John Chrysostom/John 20_8#0": {
+  "text_es": "Después de Pedro, sin embargo, Juan entró: Entonces entró también el otro discípulo, que había llegado primero al sepulcro, y vio, y creyó.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7bc22096d36b"
+ },
+ "hcf:Augustine of Hippo/John 20_10-11#0": {
+  "text_es": "Es decir, al lugar donde se alojaban, y desde el cual habían corrido al sepulcro. Pero aunque los hombres regresaron, el amor más fuerte de la mujer la fijó en el lugar. Pero María estaba fuera del sepulcro llorando.\n\n(de Con. Ev. iii. xxiv. 69) Es decir, fuera del lugar donde estaba el sepulcro de piedra, pero aún dentro del huerto.\n\n(Tr. cxxi. 1) Los ojos, pues, que habían buscado a nuestro Señor, y no lo habían encontrado, ahora lloraban sin interrupción; más por el dolor de que nuestro Señor había sido removido, que por su muerte en la cruz. Pues ahora incluso todo recuerdo de Él había sido quitado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5f373befb686"
+ },
+ "hcf:Gregory the Dialogist/John 20_10#0": {
+  "text_es": "María Magdalena, que había sido la pecadora en la ciudad, y que había lavado las manchas de sus pecados con sus lágrimas, cuya alma ardía de amor, no se retiró del sepulcro cuando los otros lo hicieron: Entonces los discípulos se fueron otra vez a su propio hogar.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6cc17d920de6"
+ },
+ "hcf:John Chrysostom/John 20_10-11#0": {
+  "text_es": "De algún modo, el sexo femenino está lleno de sentimiento y más inclinado a la compasión. Digo esto para que no te admires de cómo pudo ser que María llorara amargamente en el sepulcro, mientras que Pedro no se conmovió de igual manera. Pues «los discípulos», dice, «se fueron a su propia casa»; pero ella permanecía derramando lágrimas. Porque su naturaleza era débil, y aún no conocía con exactitud el relato de la Resurrección; mientras que ellos, habiendo visto los lienzos y creído, se marcharon a sus casas asombrados. ¿Y por qué no fueron en seguida a Galilea, como se les había mandado antes de la Pasión? Esperaban quizá a los demás, y además aún estaban en el colmo de su asombro. Estos, pues, se marcharon; pero ella permaneció en el lugar, porque, como he dicho, incluso la vista del sepulcro contribuía mucho a consolarla. En todo caso, la ves a ella, para aliviar más su dolor, inclinarse y desear contemplar el lugar donde yacía el cuerpo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "371939a2e5e3"
+ },
+ "aquifer:19063": {
+  "text_es": "Aunque dos ángeles aparecieron dentro del sepulcro, seguía siendo un misterio cómo desapareció Jesús (véase Lucas 24:4). ⸢¿Por qué lloras?⸣: El dolor no era la respuesta apropiada en este momento.",
+  "lemas_es": [
+   "¿Por qué lloras?"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5df38b0f52bf",
+  "lemas_rv1909": [
+   {
+    "lema": "por qué lloras",
+    "ref": "JHN.20.13"
+   }
+  ]
+ },
+ "hcf:Augustine of Hippo/John 20_11#0": {
+  "text_es": "Ella entonces vio, con las otras mujeres, al Ángel sentado a la derecha, sobre la piedra que había sido removida del sepulcro, y a cuyas palabras ella miró dentro del sepulcro. (Mat. 28:5.)\n\n(Tr. cxxi) En su excesivo dolor no podía creer ni a sus propios ojos ni a los de los discípulos. ¿O fue un impulso divino lo que la hizo mirar dentro?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d417c77423c2"
+ },
+ "hcf:Gregory the Dialogist/John 20_11#0": {
+  "text_es": "Pues haber mirado una vez no es suficiente para el amor. El amor hace que uno desee mirar una y otra vez.\n\n(Hom. xxv.) Buscaba el cuerpo y no lo encontró; perseveró en buscarlo; y así sucedió que lo encontró. Sus anhelos, creciendo más fuertes cuanto más se veían defraudados, al fin encontraron y se aferraron a su objeto. Pues los santos anhelos siempre ganan fuerza con la demora; si no, no serían anhelos. María amaba tanto que, no contenta con ver el sepulcro, se inclinó y miró dentro: veamos el fruto que produjo este amor perseverante: Y vio dos Ángeles con vestiduras blancas sentados, uno a la cabecera y otro a los pies, donde había yacido el cuerpo de Jesús.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e8b90a5149d6"
+ },
+ "hcf:John Chrysostom/John 20_11#0": {
+  "text_es": "No te asombres de que María llorara de amor en el sepulcro y Pedro no; pues el sexo femenino es naturalmente tierno e inclinado al llanto.\n\n(Hom. lxxxvi) La vista del sepulcro mismo era algún consuelo. Es más, mírala, para consolarse aún más, inclinarse para ver el lugar mismo donde yacía el cuerpo: Y como lloraba, se inclinó y miró dentro del sepulcro.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e50257ed17de"
+ },
+ "hcf:Augustine of Hippo/John 20_12#0": {
+  "text_es": "Pero ¿por qué se sentó uno a la cabecera y el otro a los pies? Para significar que las buenas nuevas del Evangelio de Cristo habían de ser entregadas desde la cabeza hasta los pies, desde el principio hasta el fin. La palabra griega Angel significa uno que entrega noticias.\n\n(de Con. Evang. iii. xxiv) Aquí los Ángeles deben ser entendidos como levantándose, pues Lucas los describe como vistos de pie.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8c03c4293135"
+ },
+ "hcf:Gregory the Dialogist/John 20_12#0": {
+  "text_es": "El Ángel se sienta a la cabecera cuando los Apóstoles predican que en el principio era el Verbo; se sienta, por así decirlo, a los pies cuando se dice: El Verbo se hizo carne. Por los dos Ángeles podemos entender también los dos testamentos; ambos proclaman por igual la encarnación, muerte y resurrección de nuestro Señor. El Antiguo parece sentarse a la cabecera, el Nuevo a los pies.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b1bd4df6a5b0"
+ },
+ "hcf:John Chrysostom/John 20_12#0": {
+  "text_es": "Por todas estas circunstancias, como si se le abriera una puerta, fue llevada poco a poco al conocimiento de la Resurrección. Y la manera de sentarse de ellos la invitaba a preguntarles, pues mostraban que sabían lo que había sucedido; por lo cual tampoco se sentaron juntos, sino separados uno del otro. Pues como no era probable que ella se atreviera a interrogarlos de inmediato, tanto por interrogarle ellos como por la manera de sentarse, la llevan a conversar.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "37dedf7c1ab0"
+ },
+ "hcf:Augustine of Hippo/John 20_13#0": {
+  "text_es": "Pero ella, pensando que querían saber por qué lloraba, les dice la razón: Ella les dijo: Porque se han llevado a mi Señor. Al cuerpo sin vida de su Señor lo llama su Señor, poniendo la parte por el todo; así como confesamos que Jesucristo, el Hijo de Dios, fue sepultado, cuando solo su carne fue sepultada. Y no sé dónde lo han puesto: era un dolor aún mayor, que no supiera adónde ir para consolar su dolor.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6e5931fc42b1"
+ },
+ "hcf:Gregory the Dialogist/John 20_13#0": {
+  "text_es": "Las mismas declaraciones de la Escritura que provocan nuestras lágrimas de amor, enjugan esas mismas lágrimas, al prometernos la vista de nuestro Redentor de nuevo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "50558895f4ef"
+ },
+ "hcf:John Chrysostom/John 20_13#0": {
+  "text_es": "«Se han llevado a mi Señor, y no sé dónde lo han puesto». Habla con mucho ardor y afecto. «¿Qué dices? ¿Aún no sabes nada acerca de la Resurrección, sino que todavía te haces ilusiones sobre que fue puesto?» ¿Ves cómo aún no había recibido la sublime doctrina?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9ded755bf9a9"
+ },
+ "aquifer:19064": {
+  "text_es": "María pensó que Jesús era el jardinero. Jesús repitió la pregunta del ángel y preguntó: «⸢¿A quién buscas?⸣» Jesús quería que María pensara. En este punto María buscaba el cuerpo de Jesús, pero estaba a punto de encontrarse con el Cristo viviente.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fc9393d02367"
+ },
+ "hcf:Augustine of Hippo/John 20_14#0": {
+  "text_es": "Había llegado ya la hora que los Ángeles anunciaron, cuando el dolor sería sucedido por el gozo: Y cuando hubo dicho esto, se volvió hacia atrás.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "aa78c2c8150b"
+ },
+ "hcf:Augustine of Hippo/John 20_14-16#0": {
+  "text_es": "O primero volvió su cuerpo, pero lo consideró lo que no era; ahora fue convertida en su corazón y supo quién era. Que nadie, sin embargo, la culpe porque llamó al jardinero Señor, y a Jesús Maestro. Lo uno era un título de cortesía hacia una persona de quien pedía un favor; lo otro de respeto hacia un Maestro de quien solía aprender a distinguir lo divino de lo humano. La palabra Señor se usa en diferentes sentidos, cuando dice: Se han llevado a mi Señor, y cuando dice: Señor, si tú lo has llevado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bb9796ee94cf"
+ },
+ "hcf:Gregory the Dialogist/John 20_14#0": {
+  "text_es": "Debemos observar que María, que aún dudaba de la resurrección de nuestro Señor, se volvió para ver a Jesús. Al dudar, volvió la espalda, por así decirlo, a nuestro Señor. Sin embargo, en cuanto amaba, lo vio. Amaba y dudaba: vio y no lo reconoció: Y vio a Jesús de pie, y no sabía que era Jesús.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "396e14f6458f"
+ },
+ "hcf:John Chrysostom/John 20_14-15#0": {
+  "text_es": "¿Y por qué clase de consecuencia es que ella, habiéndoles hablado y no habiendo aún oído nada de ellos, se volvió? Me parece que mientras ella hablaba, Cristo, apareciendo de repente detrás de ella, llenó de asombro a los Ángeles; y que ellos, al contemplar a su Señor, mostraron inmediatamente por su porte, su mirada, sus movimientos, que veían al Señor; y esto atrajo la atención de la mujer y la hizo volverse. A ellos, pues, se les apareció de esta manera, pero no así a la mujer, para no asustarla a primera vista, sino con una forma más humilde y ordinaria, como se ve claro por el hecho de que ella supuso que era el jardinero. Convenía llevar a una mente tan humilde a asuntos elevados, no de golpe, sino suavemente.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7e2b9a5df587"
+ },
+ "hcf:Gregory the Dialogist/John 20_15#0": {
+  "text_es": "Jesús le dijo: Mujer, ¿por qué lloras? Le pregunta la causa de su dolor, para aumentar aún más su anhelo. Pues la mera mención del nombre de quien buscaba inflamaría su amor por Él.\n\n(Hom. xxv.) Quizá, sin embargo, la mujer tenía razón al creer que Jesús era el jardinero. ¿No era Él el jardinero espiritual, que por el poder de su amor había sembrado fuertes semillas de virtud en su pecho? Pero ¿cómo es que, tan pronto como ve al jardinero, según ella supone, dice, sin haberle dicho a quién buscaba: Señor, si tú lo has llevado? Surge de su amor; cuando uno ama a una persona, nunca piensa que algún otro pueda ignorarla.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "69de35224119"
+ },
+ "hcf:Theophylact of Ohrid/John 20_15#0": {
+  "text_es": "Temía que los judíos desataran su furia incluso contra el cuerpo sin vida, y por eso deseaba trasladarlo a algún lugar secreto.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5fe1914c7a7f"
+ },
+ "aquifer:19065": {
+  "text_es": "Cuando Jesús llamó a María por su nombre, ella lo reconoció de inmediato (véase 10:3–4).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "21cfaab7ee85"
+ },
+ "hcf:Cyril of Alexandria/John 20_16#0": {
+  "text_es": "Él invita al reconocimiento de la mujer, cuya mente ya había sido iluminada, y, permitiéndole contemplarlo sin impedimento ni obstáculo (pues en verdad lo amaba ardientemente), casi la reprende por haber sido tan lenta en percibir que Él era el Cristo, pues hay algún significado implícito en llamarla por su nombre. Ella entendió de inmediato, y al verlo, deja de lado las sospechas que sintió al principio, y le ofrece el tributo habitual de respeto, llamándolo Rabboni, es decir, Maestro; y, con la mente llena de un gozo celestial, corrió ansiosa a tocar el santo Cuerpo y a recibir bendición de él.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ba08bb10f918"
+ },
+ "hcf:Gregory the Dialogist/John 20_16#0": {
+  "text_es": "Nuestro Señor, después de llamarla por el nombre común de su sexo, y no ser reconocido, la llama por su propio nombre: Jesús le dijo: María; como si dijera: Reconoce a quien te reconoce. María, al ser llamada por su nombre, lo reconoce; que era Él a quien buscaba exteriormente, y Él quien le enseñaba interiormente a buscar: Ella se volvió y le dijo: Rabboni; que quiere decir, Maestro.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "38f5fa621f62"
+ },
+ "aquifer:19066": {
+  "text_es": "María pensó que con la resurrección, Jesús reanudaría las relaciones normales con sus discípulos. Trataba de aferrarse al gozo que descubrió en su Señor resucitado. Pero su comunión con ella vendría en una nueva forma (20:22). Jesús aún no había ascendido para completar su regreso al Padre, pero el proceso estaba en marcha. Antes de su partida final, daría el Espíritu Santo (20:22; véase 14:15–21, 26; 15:26–27; 16:5–15).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3fef78919d59"
+ },
+ "hcf:Augustine of Hippo/John 20_17#2": {
+  "text_es": "Pero si estando de pie sobre la tierra, no es tocado, ¿cómo será tocado sentado en el cielo? ¿Y acaso no se ofreció antes de su ascensión al tacto de los discípulos: Palpadme y ved, porque un espíritu no tiene carne ni huesos? (Lucas 24:39) ¿Quién puede ser tan absurdo como para suponer que quiso que los discípulos lo tocaran antes de ascender a su Padre, y que no quisiera que las mujeres lo hicieran hasta después? Es más, leemos de mujeres después de la resurrección, y antes de que ascendiera a su Padre, que lo tocaron, una de las cuales era la propia María Magdalena, según Mateo. O bien, entonces, María aquí es figura de la Iglesia de los gentiles, que no creyó en Cristo sino después de su ascensión; o el sentido es que Jesús ha de ser creído, esto es, tocado espiritualmente, de ninguna otra manera, sino como siendo uno con el Padre. Asciende al Padre místicamente, por así decirlo, en la mente de quien ha avanzado hasta reconocer que Él es igual al Padre. Pero ¿cómo podría María creer en Él de otro modo que carnalmente, cuando lo lloraba como a un hombre?\n\n(i. de Trin) El tacto es, por así decirlo, el fin del conocimiento; y no quiso que un alma atenta a Él tuviera su fin en pensarlo solo como lo que parecía ser.\n\n(Tr. cxxi) No dice: Padre nuestro, sino: Mi Padre y vuestro Padre: mío, por tanto, y vuestro en un sentido diferente; mío por naturaleza, vuestro por gracia. Ni dice: Dios nuestro, sino: Mi Dios —bajo Él soy hombre— y vuestro Dios; entre vosotros y Él soy Mediador.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4c1f8b70fe1c"
+ },
+ "hcf:Gregory the Dialogist/John 20_17#0": {
+  "text_es": "El Evangelista no añade lo que ella hizo al reconocerlo, pero lo sabemos por lo que nuestro Señor le dijo: Jesús le dice: No me toques. María, entonces, había intentado abrazar sus pies, pero no se le permitió. ¿Por qué no? La razón sigue: Porque aún no he subido a mi Padre.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d14ff217a4a0"
+ },
+ "hcf:Hilary of Poitiers/John 20_17#0": {
+  "text_es": "Los herejes, entre sus otras impiedades, interpretan mal estas palabras de nuestro Señor, y dicen que si su Padre es su Padre, y su Dios su Dios, Él no puede ser Dios mismo. Pero aunque permaneció en la forma de Dios, tomó sobre sí la forma de siervo; y Cristo dice esto en la forma de siervo a los hombres. Y no podemos dudar que, en cuanto es hombre, el Padre es su Padre en el mismo sentido en que lo es de los demás hombres, y Dios su Dios de igual manera. En efecto, comienza diciendo: Ve a mis hermanos. Pero Dios solo puede tener hermanos según la carne; el Dios Unigénito, siendo Unigénito, está sin hermanos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "252d26c53fbc"
+ },
+ "hcf:John Chrysostom/John 20_17#1": {
+  "text_es": "\"Ve y di a los hermanos que voy a mi Padre, y vuestro Padre, a mi Dios y vuestro Dios.\" Sin embargo, no iba a hacerlo inmediatamente, sino después de cuarenta días. ¿Cómo dice entonces esto? Con el deseo de elevar sus mentes y persuadirlos de que parte hacia los cielos. Pero el \"a mi Padre y vuestro Padre, a mi Dios y vuestro Dios\" pertenece a la Economía, ya que el \"ascender\" también pertenece a su Carne. Pues dice estas palabras a una que no tenía pensamientos elevados. \"¿Es entonces el Padre suyo de un modo, y nuestro de otro?\" Ciertamente lo es. Pues si es Dios de los justos de un modo diferente de aquel en que es Dios de los demás hombres, mucho más en el caso del Hijo y de nosotros. Porque como había dicho: \"Di a los hermanos\", para que no imaginaran alguna igualdad a partir de esto, mostró la diferencia. Él iba a sentarse en el trono de su Padre, pero ellos a estar de pie junto a él. De modo que, aunque en su Subsistencia según la Carne se hizo nuestro Hermano, en Honor se diferenció grandemente de nosotros, ni siquiera puede decirse cuánto.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2a5b0fe93744"
+ },
+ "aquifer:19067": {
+  "text_es": "María fue la primera persona en ver al Señor después de su resurrección. No solo lo vio, sino que también lo oyó y lo tocó (véase I Juan 1:1–4). Dios concedió este gran honor a una mujer cuya vida quebrantada había experimentado sanidad (Lucas 8:2). En la cultura judía, esto era sorprendente. Una mujer no podía ni siquiera ser testigo en un tribunal. Ningún judío de aquel tiempo habría inventado una historia así.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ee107c1677d2"
+ },
+ "hcf:Augustine of Hippo/John 20_18#1": {
+  "text_es": "Ella entonces se fue del sepulcro, esto es, de aquella parte del huerto frente a la roca que había sido excavada, y con ella las otras mujeres. Pero estas, según Marcos, fueron presa de temblor y asombro, y nada dijeron a nadie: María Magdalena vino y dijo a los discípulos que había visto al Señor, y que Él le había dicho estas cosas.\n\n(de Con. Evang. iii. 25) Mientras ella iba con las otras mujeres, según Mateo, Jesús les salió al encuentro, diciendo: Salve. (Mateo 28:9) Así deducimos que hubo dos visiones de Ángeles; y que también nuestro Señor fue visto dos veces, una cuando María lo tomó por el hortelano, y otra cuando les salió al encuentro por el camino, y con esta repetición de su presencia confirmó su fe. Y así María Magdalena vino y dijo a los discípulos, no sola, sino con las otras mujeres que Lucas menciona.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5125e327eee0"
+ },
+ "hcf:Bede/John 20_18#0": {
+  "text_es": "Místicamente, María, cuyo nombre significa señora, iluminada, iluminadora, estrella del mar, representa a la Iglesia, que es también Magdalena, esto es, torreada (pues Magdalena es griego por torre), como leemos en los Salmos: Has sido para mí una torre fuerte. (Sal. 61:3) En que ella anunció la resurrección de Cristo a los discípulos, todos, especialmente aquellos a quienes está encomendado el oficio de predicar, son amonestados a ser celosos en exponer a otros todo lo que se revela desde lo alto.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "25427482c882"
+ },
+ "hcf:Gregory the Dialogist/John 20_18#0": {
+  "text_es": "Así, el pecado del género humano es sepultado en el mismo lugar de donde salió. Pues mientras en el Paraíso la mujer dio al hombre el fruto mortal, una mujer anunció la vida a los hombres desde el sepulcro; una mujer entrega el mensaje de Aquel que nos resucita de entre los muertos, como una mujer había entregado las palabras de la serpiente que nos mató.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "14a8bc5c4c22"
+ },
+ "hcf:John Chrysostom/John 20_18#0": {
+  "text_es": "Tan gran bien es la perseverancia y la constancia. Pero ¿cómo fue que ya no se entristecieron cuando Él estaba a punto de partir, ni hablaron como lo habían hecho antes? En aquel tiempo estaban afectados de tal manera, como suponiendo que Él estaba a punto de morir; pero ahora que había resucitado, ¿qué razón tenían para entristecerse? Además, María informó de su aparición y de sus palabras, que eran suficientes para consolarlos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "90b9482104c4"
+ },
+ "aquifer:19068": {
+  "text_es": "⸢los discípulos estaban juntos con las puertas cerradas⸣: Los discípulos temían ser castigados por seguir a Jesús.⸢¡Paz a vosotros!⸣: Este era un saludo judío común (véase también III Juan 1:15). Pero Jesús estaba haciendo más que simplemente saludar a sus discípulos. Estaba ofreciendo la paz del Mesías y entregando el don de su reino (véase Isaías 9:6; 52:7; véase Juan 14:27; 16:33).",
+  "lemas_es": [
+   "¡Paz a vosotros!"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "964d2289df07",
+  "lemas_rv1909": [
+   {
+    "lema": "Paz a vosotros",
+    "ref": "JHN.20.19"
+   }
+  ]
+ },
+ "hcf:Augustine of Hippo/John 20_19#1": {
+  "text_es": "Algunos están muy mal dispuestos a creer este milagro, y argumentan así: Si el mismo cuerpo resucitó, que colgó de la Cruz, ¿cómo pudo ese cuerpo entrar por puertas cerradas? Pero si comprendes el modo, no es milagro: cuando la razón falla, entonces se edifica la fe.\n\n(Tr. cxx) La puerta cerrada no impidió al cuerpo, en el cual residía la Divinidad. Podía entrar sin puertas abiertas quien nació sin violación de la virginidad de su madre.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c22c4db82c7e"
+ },
+ "hcf:Bede/John 20_19#0": {
+  "text_es": "En lo cual se muestra la flaqueza de los Apóstoles. Se reunieron con las puertas cerradas, por aquel mismo temor de los judíos que antes los había dispersado: Vino Jesús, y se puso en medio. Vino por la tarde, porque a esa hora estarían más atemorizados.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fb23618f81d8"
+ },
+ "hcf:Theophylact of Ohrid/John 20_19#0": {
+  "text_es": "O porque esperó hasta que todos estuvieran reunidos: y con las puertas cerradas, para mostrar que de la misma manera había resucitado, esto es, con la piedra puesta sobre el sepulcro.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7518d9567cfe"
+ },
+ "aquifer:19070": {
+  "text_es": "La realidad de que Jesús había resucitado de entre los muertos era bastante clara. Jesús les mostró las heridas de los clavos y de la lanza. No fingió la muerte, sino que la venció. No era un fantasma, sino un hombre real con un cuerpo real. Había estado muerto, pero ahora estaba vivo. Jesús era plenamente humano tanto en la vida (1:14) como en su resurrección.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d0aa0c7f5691"
+ },
+ "hcf:Augustine of Hippo/John 20_20#0": {
+  "text_es": "Los clavos habían traspasado sus manos, la lanza había traspasado su costado. Para la sanación de los corazones dudosos, las marcas de las heridas aún se conservaban.\n\n(de Civ. Dei.) La gloria con la cual los justos brillarán como el sol en el reino de su Padre, esto es, en el cuerpo de Cristo, debemos creer que estaba más bien velada que no presente del todo. Acomodó su presencia a la débil vista del hombre, y se presentó en tal forma que su discípulo pudiera mirarlo y reconocerlo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8db5d2273c41"
+ },
+ "hcf:Gregory the Dialogist/John 20_20#0": {
+  "text_es": "Y porque su fe vacilaba aun con el cuerpo material delante de ellos, les mostró sus manos y su costado: Y cuando hubo dicho esto, les mostró sus manos y su costado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "44b1f96c74f4"
+ },
+ "hcf:John Chrysostom/John 20_20#0": {
+  "text_es": "Y lo que había prometido antes de la crucifixión: Os veré otra vez, y vuestro corazón se gozará, se cumple ahora: Entonces los discípulos se gozaron cuando vieron al Señor.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "047d32032849"
+ },
+ "aquifer:19071": {
+  "text_es": "⸢Yo os envío⸣: Dios envió a Jesús al mundo para establecer su reino. Ahora, Jesús envía a sus discípulos a continuar su misión. Los mensajeros de Cristo difunden la verdad de sus palabras al mundo (véase 17:18).",
+  "lemas_es": [
+   "Yo os envío"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9a08aff51169",
+  "lemas_rv1909": [
+   {
+    "lema": "yo os envío",
+    "ref": "JHN.20.21"
+   }
+  ]
+ },
+ "hcf:Augustine of Hippo/John 20_21#0": {
+  "text_es": "Hemos aprendido que el Hijo es igual al Padre: aquí se muestra a sí mismo como Mediador; Él a mí, y yo a vosotros.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "474e028359c0"
+ },
+ "hcf:Bede/John 20_21#0": {
+  "text_es": "Una repetición es una confirmación: ya sea que lo repita porque la gracia del amor es doble, o porque Él es quien de los dos hizo uno.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3d24f54ccc49"
+ },
+ "hcf:Gregory the Dialogist/John 20_21#0": {
+  "text_es": "El Padre envió al Hijo, lo designó para la obra de la redención. Dice, por tanto: Como me envió mi Padre, así también yo os envío; esto es, os amo, ahora que os envío a la persecución, con el mismo amor con que mi Padre me amó cuando me envió a mis sufrimientos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "50d236a49a4a"
+ },
+ "hcf:John Chrysostom/John 20_21#0": {
+  "text_es": "Todas estas cosas los condujeron a una fe plenísima. Como estaban en guerra incesante con los judíos, dice de nuevo: Entonces Jesús les dijo otra vez: Paz a vosotros.\n\n(Hom. lxxxvi. 3) Al mismo tiempo muestra la eficacia de la cruz, por la cual deshace todas las cosas malas y da todas las buenas, que es la paz. A las mujeres antes se les anunció el gozo; pues aquel sexo estaba en tristeza y había recibido la maldición: Con dolor darás a luz. (Gen. 3:16) Removidos, pues, todos los obstáculos y allanado todo, (πατωρθωται.) añade: Como me envió mi Padre, así también yo os envío.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6f289b29700e"
+ },
+ "aquifer:19072": {
+  "text_es": "Jesús comisionó a sus discípulos y les dio el Espíritu Santo. El Espíritu no había sido dado antes, porque Jesús aún no había sido glorificado (7:39). \n\nDespués de su resurrección, el Jesús glorificado dio el Espíritu a sus seguidores. Este don cumplió muchas promesas de que el Espíritu sería enviado (14:16, 26; 15:26; 16:7, 13). También señala hacia la venida poderosa del Espíritu en Pentecostés (Hechos 1:4–5; 2:1–47).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ef8683f6fcf8",
+  "text_es_2": "Jesús comisionó a sus discípulos y les dio el Espíritu Santo. El Espíritu aún no había sido dado antes, porque Jesús no había sido aún glorificado (7:39). \n\nDespués de su resurrección, el Jesús glorificado dio el Espíritu a sus seguidores. Este don cumplió muchas promesas de que el Espíritu sería enviado (14:16, 26; 15:26; 16:7, 13). También señala hacia el futuro la poderosa venida del Espíritu en Pentecostés (Hechos 1:4–5; 2:1–47).",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Augustine of Hippo/John 20_22#1": {
+  "text_es": "Aquel soplo corpóreo no era la sustancia del Espíritu Santo, sino que mostraba, mediante un símbolo adecuado, que el Espíritu Santo procede no solo del Padre, sino también del Hijo. Pues ¿quién sería tan insensato como para decir que era un Espíritu el que dio al soplar, y otro el que envió después de su ascensión?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "025a51af60bc",
+  "text_es_2": "Aquel soplo corpóreo no era la sustancia del Espíritu Santo, sino para mostrar, mediante un símbolo conveniente, que el Espíritu Santo procedía no solo del Padre, sino del Hijo. Pues ¿quién estaría tan loco como para decir que fue un Espíritu el que dio al soplar, y otro el que envió después de su ascensión?",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Augustine of Hippo/John 20_22#2": {
+  "text_es": "\"Y cuando hubo dicho esto, sopló sobre ellos y les dijo: Recibid el Espíritu Santo.\" Al soplar sobre ellos significó que el Espíritu Santo era el Espíritu, no solo del Padre, sino también suyo propio.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9ce5eef4935f",
+  "text_es_2": "«Y habiendo dicho esto, sopló, y díceles: Tomad el Espíritu Santo». Al soplar sobre ellos significó que el Espíritu Santo era el Espíritu no del Padre solamente, sino asimismo el suyo propio.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Cyril of Alexandria/John 20_22#1": {
+  "text_es": "El Hijo, que comparte la misma naturaleza que Dios el Padre, tiene el Espíritu de la misma manera en que se entendería que el Padre tiene el Espíritu. En otras palabras, el Espíritu no es algo añadido o que venga de fuera, pues sería ingenuo —incluso insensato— sostener tal opinión. Pero Dios el Padre tiene el Espíritu, así como cada uno de nosotros tiene su propio aliento dentro de sí que brota de lo más íntimo del cuerpo. Por esto Cristo sopló físicamente sobre sus discípulos, mostrando que así como el aliento procede físicamente de la boca humana, así también Cristo, de manera digna de Dios, hace brotar el [Espíritu] de la esencia divina.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1acffeda69d1",
+  "text_es_2": "El Hijo, al compartir la misma naturaleza que Dios el Padre, tiene el Espíritu de la misma manera en que se entendería que el Padre tiene el Espíritu. En otras palabras, el Espíritu no es algo añadido o que viene de fuera, pues sería ingenuo —e incluso insensato— sostener tal opinión. Sino que Dios el Padre tiene el Espíritu, así como cada uno de nosotros tiene su propio aliento dentro de sí que brota de las partes más íntimas del cuerpo. Por esto Cristo sopló físicamente sobre sus discípulos, mostrando que así como el aliento procede físicamente de la boca humana, así también Cristo, de una manera conveniente a Dios, derrama el [Espíritu] desde la esencia divina.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Gregory the Dialogist/John 20_22#0": {
+  "text_es": "Pero ¿por qué se da primero a los discípulos en la tierra, y después es enviado desde el cielo? Porque hay dos mandamientos de amor: amar a Dios y amar al prójimo. El espíritu para amar al prójimo se da en la tierra; el espíritu para amar a Dios se da desde el cielo. Así como el amor es uno y hay dos mandamientos, así el Espíritu es uno y hay dos dones del Espíritu. Y el primero es dado por nuestro Señor mientras aún estaba en la tierra; el segundo, desde el cielo, porque mediante el amor al prójimo aprendemos cómo llegar al amor de Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f4addf308ea4",
+  "text_es_2": "Pero ¿por qué se le da primero a los discípulos en la tierra, y después es enviado desde el cielo? Porque hay dos mandamientos de amor: amar a Dios y amar a nuestro prójimo. El espíritu para amar a nuestro prójimo es dado en la tierra; el espíritu para amar a Dios es dado desde el cielo. Así como el amor es uno y hay dos mandamientos, así el Espíritu es uno y hay dos dones del Espíritu. Y el primero es dado por nuestro Señor estando aún sobre la tierra, el segundo desde el cielo, porque por el amor a nuestro prójimo aprendemos cómo llegar al amor a Dios.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "aquifer:19073": {
+  "text_es": "⸢Si perdonáis los pecados de alguno⸣: La obra de los seguidores de Cristo continúa la obra de Cristo. Ellos no dan ni quitan el perdón de Dios por sí mismos. Más bien, actúan según la guía de Jesús mediante el Espíritu Santo (15:5; 14:31).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "478ba79bb0e4",
+  "text_es_2": "⸢A los que remitiereis los pecados⸣: La obra de los seguidores de Cristo continúa la obra de Cristo. Ellos no dan ni quitan el perdón de Dios por sí mismos. En cambio, actúan según la guía de Jesús a través del Espíritu Santo (15:5; 14:31).",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Augustine of Hippo/John 20_23#0": {
+  "text_es": "El amor de la Iglesia, que ha sido derramado en nuestros corazones por el Espíritu Santo, remite los pecados de quienes participan de él; pero retiene los pecados de quienes no participan. Por eso, donde ha dicho: Recibid el Espíritu Santo, menciona al instante la remisión y la retención de los pecados.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0589f7361bc7",
+  "text_es_2": "El amor de la Iglesia, que es derramado en nuestros corazones por el Espíritu Santo, remite los pecados de aquellos que participan de él; pero retiene los pecados de aquellos que no lo hacen. Por tanto, donde ha dicho: Tomad el Espíritu Santo, hace mención al instante de la remisión y la retención de los pecados.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Augustine of Hippo/John 20_23#1": {
+  "text_es": "\"A quienes remitiereis los pecados\", continúa, \"les son remitidos; y a quienes los retuviereis, les son retenidos.\" El amor de la Iglesia, que ha sido derramado en nuestros corazones por el Espíritu Santo, perdona los pecados de todos los que participan de él, pero retiene los pecados de quienes no tienen parte en él. Por eso, después de decir \"Recibid el Espíritu Santo\", añadió inmediatamente esto acerca de la remisión y la retención de los pecados.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ca3ee2ade7d7",
+  "text_es_2": "«A los que remitiereis los pecados», continúa, «les son remitidos; y a los que se los retuviereis, les son retenidos». El amor de la Iglesia, que es derramado en nuestros corazones por el Espíritu Santo, perdona los pecados de todos los que son partícipes con ella, pero retiene los pecados de aquellos que no tienen participación en ella. Por eso es que, después de decir «Tomad el Espíritu Santo», añadió inmediatamente esto respecto a la remisión y la retención de los pecados.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Gregory the Dialogist/John 20_23#0": {
+  "text_es": "Debemos entender que quienes primero recibieron el Espíritu Santo, para inocencia de vida en sí mismos y para predicar a unos pocos, lo recibieron abiertamente después de la resurrección, a fin de aprovechar no a pocos solamente, sino a muchos. ¡A qué altura de gloria son llevados los discípulos llamados a tales obras de humildad! He aquí que no solo tienen salvación para sí mismos, sino que son admitidos a las potestades del supremo tribunal del Juicio; de modo que, en lugar de Dios, retienen los pecados de unos y remiten los de otros. Su lugar en la Iglesia lo ocupan ahora los obispos, quienes reciben la autoridad de atar cuando son admitidos al rango de gobierno. Grande es el honor, pero pesada la carga del cargo. Malo es si quien no sabe gobernar su propia vida ha de ser juez de la de otro.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7bde556582e5",
+  "text_es_2": "Debemos entender que aquellos que primero recibieron el Espíritu Santo, para inocencia de vida en sí mismos y predicación a unos pocos otros, lo recibieron abiertamente después de la resurrección, para que pudieran aprovechar no solo a unos pocos, sino a muchos. Los discípulos que fueron llamados a tales obras de humildad, ¡a qué cumbre de gloria son llevados! He aquí, no solo tienen la salvación para sí mismos, sino que son admitidos a los poderes del supremo Tribunal de Juicio; de modo que, en lugar de Dios, retienen los pecados de algunos hombres y remiten los de otros. Su lugar en la Iglesia lo ocupan ahora los obispos, quienes reciben la autoridad de atar cuando son admitidos al rango de gobierno. Grande es el honor, pero pesada la carga del lugar. Mal va si uno que no sabe gobernar su propia vida ha de ser juez de la de otro.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:John Chrysostom/John 20_23#1": {
+  "text_es": "Hagamos, pues, todo lo posible por tener al Espíritu Santo con nosotros, y tratemos con mucho honor a aquellos en cuyas manos ha sido confiada su operación. Pues grande es la dignidad de los sacerdotes. \"A quienes remitiereis los pecados\", dice, \"les son remitidos\"; por lo cual también Pablo dice: \"Obedeced a vuestros pastores, y sujetaos a ellos.\" Y tenedlos en muy alta estima; pues tú ciertamente te preocupas por tus propios asuntos, y si los ordenas bien, no das cuenta por otros; pero el sacerdote, aunque ordene rectamente su propia vida, si no tiene solicitud ansiosa por la tuya, y también por la de todos los que lo rodean, partirá con los impíos al infierno; y a menudo, sin ser traicionado por su propia conducta, perece por la vuestra, si no ha cumplido rectamente toda su parte. Conociendo, pues, la grandeza del peligro, dadles una gran parte de vuestra benevolencia; lo cual también Pablo dio a entender cuando dijo: \"Porque ellos velan por vuestras almas\", y no simplemente eso, sino \"como quienes han de dar cuenta\".",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ce824c0aeec5",
+  "text_es_2": "Hagamos, pues, todo lo posible para tener al Espíritu Santo con nosotros, y tratemos con mucho honor a aquellos en cuyas manos ha sido encomendada su operación. Porque grande es la dignidad de los sacerdotes. «A los que remitiereis los pecados», dice, «les son remitidos»; por lo cual también Pablo dice: «Obedeced a vuestros pastores, y sujetaos a ellos». Y tenedlos en muy gran honor; porque tú en verdad te preocupas por tus propios asuntos, y si los ordenas bien, no das cuenta por otros, pero el sacerdote, aun si ordena rectamente su propia vida, si no tiene un cuidado ansioso por la tuya, sí, y por la de todos los que lo rodean, partirá con los impíos al infierno; y a menudo, cuando no es traicionado por su propia conducta, perece por la vuestra, si no ha desempeñado rectamente toda su parte. Conociendo, pues, la grandeza del peligro, concededles una gran parte de vuestra buena voluntad; lo cual también implicó Pablo cuando dijo: «Porque ellos velan por vuestras almas», y no simplemente así, sino, «como quienes han de dar cuenta».",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "aquifer:19074": {
+  "text_es": "⸢Tomás⸣: Véase también 11:16; 14:5. Tomás no estaba presente cuando Jesús apareció por primera vez. Permaneció lleno de duda incluso después de que sus amigos dijeran que habían visto al Señor. Tomás quería la misma experiencia directa que ellos tuvieron.",
+  "lemas_es": [
+   "Tomás"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8a2fd9af1af5",
+  "lemas_rv1909": [
+   {
+    "lema": "Tomás",
+    "ref": "JHN.20.24"
+   }
+  ]
+ },
+ "hcf:Alcuin of York/John 20_24#0": {
+  "text_es": "Dídimo, doble o dudoso, porque dudó al creer; Tomás, profundidad, porque con fe certísima penetró en la profundidad de la divinidad de nuestro Señor.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b543597c5054"
+ },
+ "hcf:Bede/John 20_24-25#0": {
+  "text_es": "Pero ¿por qué dice este evangelista que Tomás estaba ausente, cuando Lucas escribe que dos discípulos, al volver de Emaús, encontraron reunidos a los once? Debemos entender que Tomás había salido, y que en el intervalo de su ausencia, Jesús vino y se puso en medio.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d840529858dd"
+ },
+ "hcf:Gregory the Dialogist/John 20_24#0": {
+  "text_es": "No fue un accidente que aquel discípulo en particular no estuviera presente. La misericordia divina dispuso que un discípulo dudoso, al palpar en su Maestro las heridas de la carne, sanara en nosotros las heridas de la incredulidad. La incredulidad de Tomás es más provechosa para nuestra fe que la fe de los otros discípulos; pues el tacto por el cual es llevado a creer confirma nuestras mentes en la fe, sin lugar a duda.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fc69814240d7"
+ },
+ "hcf:John Chrysostom/John 20_24-25#0": {
+  "text_es": "Así como creer de manera descuidada y al azar proviene de un temperamento demasiado fácil, ser desmedidamente curioso y entrometido marca un entendimiento muy grosero. Por esto Tomás es reprendido. Pues no creyó a los apóstoles cuando dijeron: \"Hemos visto al Señor\"; no tanto desconfiando de ellos, cuanto considerando imposible la cosa, es decir, la resurrección de los muertos. Ya que no dice: \"No os creo\", sino: \"Si no meto mi mano, no creo.\" Pero ¿cómo fue que, estando todos reunidos, él solo estaba ausente? Probablemente, después de la dispersión que había ocurrido poco antes, aún no había vuelto. Pero tú, cuando veas la incredulidad del discípulo, considera la bondad amorosa del Señor, cómo por causa de una sola alma se mostró con sus heridas, y viene para salvar incluso a uno, aunque era más grosero que los demás; por lo cual ciertamente buscó prueba del más grosero de los sentidos, y ni siquiera confiaría en sus ojos. Pues no dijo: \"Si no veo\", sino: \"Si no palpo\", dice, no sea que lo que veía fuera de algún modo una aparición. Sin embargo, los discípulos que le contaron estas cosas eran en aquel momento dignos de crédito, y también lo era quien lo había prometido; pero, ya que deseaba más, Cristo no lo privó ni siquiera de esto.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "61caceafff7f"
+ },
+ "hcf:Cyril of Alexandria/John 20_25#1": {
+  "text_es": "Somos enseñados por la leve falta de fe mostrada por el bienaventurado Tomás que el misterio de la resurrección se efectúa en nuestros cuerpos terrenales y en Cristo como primicias del género humano. No era un fantasma ni un espíritu, formado con figura humana, simulando los rasgos de la humanidad, ni tampoco, como otros han conjeturado neciamente, un cuerpo espiritual compuesto de una sustancia sutil y etérea diferente de la carne. Pues algunos atribuyen este significado a la expresión \"cuerpo espiritual\". Dado que toda nuestra esperanza y el significado de nuestra fe irrefutable, después de la confesión de la santa y consustancial Trinidad, se centra en el misterio concerniente a la carne, el bienaventurado evangelista ha puesto muy pertinentemente esta declaración de Tomás junto al resumen de lo que precede. Pues observa que Tomás no desea simplemente ver al Señor, sino que busca las marcas de los clavos, es decir, las heridas en su cuerpo. Pues afirmó que entonces, en efecto, creería y estaría de acuerdo con los demás en que Cristo había resucitado verdaderamente, y resucitado en la carne.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3b12c31bb5e4"
+ },
+ "aquifer:19075": {
+  "text_es": "⸢Ocho días después⸣ era el primer día de la semana judía (domingo). Esto fue una semana después de la resurrección de Jesús. En aquel tiempo, la gente incluía el día en curso al contar hacia adelante. La aparición de Jesús en este domingo ayuda a explicar por qué los discípulos se reunían para adorar en \"el día del Señor\" (véase Apocalipsis 1:10). ⸢Paz a vosotros⸣: Esta escena fue igual a la primera aparición de Jesús (Juan 20:19–20). Jesús ya había oído la queja de Tomás, y ahora Jesús respondió directamente. ⸢cree⸣: Jesús desafió a Tomás a creer en la resurrección como los demás.",
+  "lemas_es": [
+   "Paz a vosotros",
+   "cree"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "eb025db4f8ab",
+  "lemas_rv1909": [
+   {
+    "lema": "Paz a vosotros",
+    "ref": "JHN.20.26"
+   },
+   {
+    "lema": null,
+    "ref": "JHN.20.26"
+   }
+  ]
+ },
+ "hcf:Augustine of Hippo/John 20_26#0": {
+  "text_es": "Preguntas: Si entró por la puerta cerrada, ¿dónde está la naturaleza de su cuerpo? (ubi est modus corporis.) Y respondo: Si caminó sobre el mar, ¿dónde está el peso de su cuerpo? El Señor hizo aquello como Señor; y ¿acaso, después de su resurrección, dejó de ser el Señor?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "481c2920c0da"
+ },
+ "hcf:John Chrysostom/John 20_26#0": {
+  "text_es": "¿Y por qué no se le aparece inmediatamente, en lugar de «después de ocho días»? Para que, siendo entretanto instruido continuamente por los discípulos y oyendo lo mismo, se inflamara a un deseo más ardiente y estuviera más dispuesto a creer en adelante. Pero ¿de dónde supo que su costado había sido abierto? Por haberlo oído de los discípulos. ¿Cómo entonces creía en parte y en parte no creía? Porque esto era muy extraño y maravilloso. Pero observad, os ruego, la veracidad de los discípulos, cómo no ocultan ninguna falta, ni propia ni ajena, sino que las registran con gran fidelidad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ec5fef7c0d15"
+ },
+ "hcf:Augustine of Hippo/John 20_27#1": {
+  "text_es": "Habría podido, si le hubiera placido, borrar toda mancha y rastro de herida de su cuerpo glorificado; pero tuvo razones para conservarlas. Las mostró a Tomás, que no quería creer sino veía y tocaba; y las mostrará a sus enemigos, no para decirles, como dijo a Tomás: Porque me has visto, has creído, sino para convencerlos: He aquí el Hombre a quien crucificasteis, ved las heridas que infligisteis, reconoced el costado que traspasasteis, que por vosotros y para vosotros fue abierto, y sin embargo no podéis entrar allí.\n\n(xxii. Civ. Dei, xix) Estamos, no sé cómo, afligidos de tal amor por los bienaventurados mártires, que desearíamos en aquel reino ver en sus cuerpos las marcas de aquellas heridas que soportaron por causa de Cristo. Y quizá las veremos; pues no tendrán deformidad, sino dignidad, y, aunque en el cuerpo, brillarán no con belleza corporal, sino espiritual (virtutis). Ni tampoco, si algunos miembros de los mártires han sido cortados, aparecerán por ello sin ellos en la resurrección de los muertos; pues está dicho: No perecerá un cabello de vuestra cabeza. Pero si es conveniente que en aquel mundo nuevo se conserven aún en la carne inmortal los rastros de las heridas gloriosas, en los lugares donde fueron cortados los miembros, aunque esos mismos miembros no se pierdan sino que sean restaurados, aparecerán las heridas. Pues aunque entonces ya no habrá ninguna imperfección del cuerpo, las evidencias de la virtud no deben llamarse imperfecciones.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "49e24747247e"
+ },
+ "hcf:Gregory the Dialogist/John 20_27#0": {
+  "text_es": "Nuestro Señor dio a tocar aquella carne que había introducido por puertas cerradas: en lo cual aparecen dos cosas maravillosas y, según la razón humana, contradictorias, a saber, que después de la resurrección tenía un cuerpo incorruptible y, sin embargo, palpable. Pues lo que es palpable debe ser corruptible, y lo que es incorruptible debe ser impalpable. Pero se mostró incorruptible y, sin embargo, palpable, para probar que su cuerpo después de la resurrección era el mismo en naturaleza que antes, pero diferente en gloria.\n\n(Mor. xii. 31) También nuestro cuerpo en aquella resurrección a la gloria será sutil por la acción del Espíritu, pero palpable por su verdadera naturaleza, no, como dice Eutiquio, impalpable, y más sutil que los vientos y el aire.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f4d4ee6d3e39"
+ },
+ "hcf:John Chrysostom/John 20_27#0": {
+  "text_es": "Jesús se les presenta de nuevo, y no espera ser requerido por Tomás, ni oír cosa semejante, sino que antes de que él hubiera hablado, él mismo se le anticipó y cumplió su deseo; mostrando que incluso cuando dijo aquellas palabras a los discípulos, él estaba presente. Pues usó las mismas palabras, y de cierto modo dando una aguda reprensión e instrucción para el futuro. Pues habiendo dicho: «Trae tu dedo, y mira mis manos; y trae tu mano, y métela en mi costado», añadió: «Y no seas incrédulo, sino creyente».\n\n¿Ves que su duda procedía de la incredulidad? Pero fue antes de que hubiera recibido el Espíritu; después de eso, ya no fue así, sino que, para el futuro, fueron perfeccionados.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4cbfa114cf58"
+ },
+ "aquifer:19076": {
+  "text_es": "⸢«¡Señor mío y Dios mío!»⸣: Esto no fue un grito de sorpresa, sino una declaración de fe profunda. Completa la declaración de Juan sobre la divinidad de Jesús que ha enmarcado todo el libro (véase 1:1–18).",
+  "lemas_es": [
+   "«¡Señor mío y Dios mío!»"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fc1290776da6",
+  "text_es_2": "⸢«¡Señor mío, y Dios mío!»⸣: Esto no fue un grito de sorpresa, sino una declaración de profunda fe. Completa la declaración de Juan sobre la divinidad de Jesús que ha enmarcado todo el libro (véase 1:1–18).",
+  "modelo_2": "gemini-3.6-flash",
+  "lemas_rv1909": [
+   {
+    "lema": "Señor mío, y Dios mío",
+    "ref": "JHN.20.28"
+   }
+  ]
+ },
+ "hcf:Augustine of Hippo/John 20_28#1": {
+  "text_es": "Tomás vio y tocó al hombre, y confesó al Dios a quien ni vio ni tocó. Por medio de lo uno creyó lo otro sin dudar: Tomás respondió y le dijo: Señor mío y Dios mío.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2729dc85faa7",
+  "text_es_2": "Tomás vio y tocó al hombre, y confesó al Dios a quien ni vio ni tocó. Por medio de lo uno creyó lo otro sin dudar: Entonces Tomás respondió, y díjole: ¡Señor mío, y Dios mío!",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "hcf:Theophylact of Ohrid/John 20_28-29#0": {
+  "text_es": "El que antes había sido incrédulo, después de tocar el cuerpo se mostró el mejor teólogo; pues afirmó la doble naturaleza y una sola Persona de Cristo; al decir Señor mío, la naturaleza humana; al decir Dios mío, la divina; y al unir ambas, confesó que una y la misma Persona era Señor y Dios.\nJesús le dice: Porque me has visto, has creído.\n\nAquí se refiere a los discípulos que habían creído sin ver la señal de los clavos y su costado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3fc0868638e6",
+  "text_es_2": "Aquel que antes había sido incrédulo, tras tocar el cuerpo se mostró como el mejor teólogo; pues afirmó la doble naturaleza y la única Persona de Cristo; al decir: Señor mío, la naturaleza humana; al decir: Dios mío, la divina; y al unir ambas, confesó que una y la misma Persona era Señor y Dios.\nJesús le dice: Porque me has visto, creíste.\n\nAquí se refiere a los discípulos que habían creído sin ver la señal de los clavos ni su costado.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "aquifer:19077": {
+  "text_es": "Jesús habla de las generaciones de cristianos que, mediante el testimonio de otros, creerían sin ver.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "728e276f78ba"
+ },
+ "hcf:Augustine of Hippo/John 20_29#1": {
+  "text_es": "No dice: Me has tocado, sino: Me has visto; siendo la vista una especie de sentido general, y puesta a menudo en lugar de los otros cuatro sentidos; como cuando decimos: Oye, y ve qué bien suena; huele, y ve qué dulce huele; gusta, y ve qué bien sabe; toca, y ve qué caliente está. Por lo cual también nuestro Señor dice: Trae tu dedo, y mira mis manos. ¿Qué es esto sino: Toca y ve? Y sin embargo, no tenía ojos en el dedo. Refiere ambas cosas al ver y al tocar, cuando dice: Porque me has visto, has creído. Aunque podría decirse que el discípulo no se atrevió a tocar lo que se le ofrecía para ser tocado.\n\nUsa el tiempo pasado, pues el futuro, según su conocimiento, ya había tenido lugar por su propia predestinación.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "efbeaa65585b"
+ },
+ "hcf:Gregory the Dialogist/John 20_29#0": {
+  "text_es": "Pero cuando el Apóstol dice: Es pues la fe la sustancia de las cosas que se esperan, la demostración de las cosas que no se ven (Heb. 11:1), es claro que las cosas que se ven no son objetos de fe, sino de conocimiento. ¿Por qué entonces se dice a Tomás, que vio y tocó: Porque me has visto, has creído? Porque vio una cosa, creyó otra; vio al hombre, confesó a Dios. Pero lo que sigue es muy gozoso: Bienaventurados los que no vieron, y creyeron. En cuya sentencia estamos incluidos especialmente nosotros, que no lo hemos visto con el ojo, pero lo retenemos en la mente, con tal que desarrollemos nuestra fe en buenas obras. Pues solo cree realmente quien practica lo que cree.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2dff56802375"
+ },
+ "hcf:John Chrysostom/John 20_29#0": {
+  "text_es": "Pues esto es propio de la fe, recibir cosas no vistas; ya que «la fe es la sustancia de las cosas que se esperan, la demostración de las cosas que no se ven». Y aquí pronuncia bienaventurados no solo a los discípulos, sino también a los que después de ellos habían de creer. «Sin embargo», dice alguno, «los discípulos vieron y creyeron». Sí, pero no buscaron nada de eso, sino que por la prueba de los lienzos recibieron inmediatamente la palabra acerca de la Resurrección, y antes de ver el cuerpo, mostraron toda fe. Cuando, por tanto, alguno en el día presente diga: «Quisiera haber vivido en aquellos tiempos y haber visto a Cristo obrando milagros», reflexione que «Bienaventurados los que no vieron, y creyeron».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4564b12a22e9"
+ },
+ "aquifer:19080": {
+  "text_es": "Muchos eruditos piensan que estas palabras son el final del Evangelio de Juan y consideran el capítulo 21 una adición. El relato de Juan es solo una selección de los muchos milagros y señales que Jesús realizó.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3e192389da0e"
+ },
+ "hcf:Augustine of Hippo/John 20_30-31#0": {
+  "text_es": "Después de hablarnos del incidente en relación con el cual el discípulo Tomás había ofrecido a su tacto los lugares de las heridas en el cuerpo de Cristo, y vio lo que no quería creer, y creyó, el evangelista Juan interpone estas palabras y dice: «Y muchas otras señales verdaderamente hizo Jesús en presencia de sus discípulos, que no están escritas en este libro: pero estas se han escrito para que creáis que Jesús es el Cristo, el Hijo de Dios; y para que creyendo, tengáis vida en su nombre». Este párrafo indica, por así decirlo, el final del libro; pero después se relata cómo el Señor se manifestó en el mar de Tiberias, y en la pesca milagrosa hizo referencia especial al misterio de la Iglesia, en cuanto a su carácter futuro, en la resurrección final de los muertos. Pienso, por tanto, que es conveniente darle especial prominencia al hecho de que se haya interpuesto así, por así decirlo, un final del libro, y que haya también una especie de prefacio a la narración que había de seguir, para darle en cierta medida una posición de mayor eminencia.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "73d64a237450"
+ },
+ "hcf:John Chrysostom/John 20_30-31#0": {
+  "text_es": "Puesto que este Evangelista ha mencionado menos que los otros, nos dice que tampoco los otros los mencionaron todos, sino tantos como eran suficientes para llevar a los oyentes a la fe. Pues, «Si», dice, «se escribiesen cada una, pienso que ni aun el mundo mismo podría contener los libros». De donde es claro que lo que mencionaron no lo escribieron por ostentación, sino solo por causa de lo que era útil. Pues ¿cómo podrían, quienes omitieron la mayor parte, escribir estas otras por ostentación? Pero ¿por qué no las recorrieron todas? Principalmente por su número; además, también consideraron que quien no creyera las que habían mencionado, no prestaría atención a un número mayor; mientras que quien recibiera estas, no tendría necesidad de otra para creer. Y aquí también me parece que por el momento habla de los milagros después de la Resurrección. Por lo cual dice: «En presencia de sus discípulos».\n\nPues como antes de la Resurrección era necesario que se hicieran muchos, para que creyeran que él era el Hijo de Dios, así también lo fue después de la Resurrección, para que admitieran que había resucitado. Por otra razón también añadió: «En presencia de sus discípulos», porque después de la Resurrección conversó solo con ellos; por lo cual también dijo: «El mundo no me verá más». Luego, para que entiendas que lo que se hizo fue hecho solo por causa de los discípulos, añadió: «Para que creyendo, tengáis vida en su Nombre».\n\nHablando en general a la humanidad, y mostrando que no a aquel en quien se cree, sino a nosotros mismos, concede un favor muy grande. «En su Nombre», esto es, «por medio de él»; pues él es la Vida.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6c6cd29e6ffa"
+ },
+ "aquifer:19081": {
+  "text_es": "⸢para que creáis⸣: Algunos manuscritos usan el tiempo presente, mostrando que Juan escribió para animar a los que ya creen. Otros manuscritos leen «para que [lleguéis a] creer», lo que sugiere que Juan estaba ayudando a las personas a comenzar a tener fe (compárese 1:7).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "56c859eea4d1"
+ }
+}

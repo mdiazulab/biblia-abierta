@@ -1,0 +1,519 @@
+{
+ "aquifer:19050": {
+  "text_es": "Jesús mostró quién es y qué vino a hacer mediante las prácticas religiosas y las fiestas del pueblo judío (véase 2:1; 5:1). Usó estos acontecimientos familiares para revelar su identidad y su misión.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "788c5521ac37",
+  "text_es_2": "Jesús mostró quién es y qué vino a hacer a través de las prácticas religiosas y las fiestas del pueblo judío (véase 2:1; 5:1). Utilizó estos acontecimientos conocidos para revelar su identidad y su misión.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "aquifer:19051": {
+  "text_es": "En esta sección, Jesús apareció en dos ceremonias judías simbólicas. En una boda en Caná (2:1–12), reemplazó el agua de la purificación ritual con su propio vino superior. Más tarde, alrededor de la Pascua, purificó el templo (2:13–25).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e349d1c883c8"
+ },
+ "aquifer:19056": {
+  "text_es": "Las ceremonias ⸢de boda⸣ podían durar hasta una semana. A menudo incluían desfiles dramáticos en los que el esposo llevaba a la novia a su casa para las celebraciones (Mateo 25:1–13).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f5ef5b260867"
+ },
+ "hcf:Alcuin of York/John 2_1#0": {
+  "text_es": "Galilea es una provincia; Caná una aldea en ella.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b6593e7f366e"
+ },
+ "hcf:Augustine of Hippo/John 2_1#2": {
+  "text_es": "Que el soberbio se sonroje al ver la humildad de Dios. He aquí que, entre otras cosas, el Hijo de la Virgen viene a una boda; aquel que, cuando estaba con el Padre, instituyó el matrimonio.\n\n(Tr. viii. c. 4) ¿Qué maravilla, si fue a aquella casa a una boda, quien vino a este mundo para una boda? Pues aquí tiene a su esposa, a quien redimió con su propia sangre, a quien dio las arras del Espíritu, y a quien unió a sí en el vientre de la Virgen. Porque el Verbo es el Esposo, y la carne humana la esposa, y ambos juntos son un solo Hijo de Dios y Hijo del hombre. Aquel vientre de la Virgen María es su cámara, de la cual salió como un esposo. (Sal. 19:5)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f403258959de"
+ },
+ "hcf:Bede/John 2_1#0": {
+  "text_es": "En el tiempo de la aparición de nuestro Señor en la carne, el dulce sabor vinoso de la ley había sido debilitado por las interpretaciones carnales de los fariseos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c69e411a71d8"
+ },
+ "hcf:Bede/John 2_1-2#0": {
+  "text_es": "Su condescendencia al venir a la boda, y el milagro que obró allí, son, aun considerándolos solo en la letra, una fuerte confirmación de la fe. En ello también se condenan los errores de Taciano, Marción y otros que menoscaban el honor del matrimonio. Pues si el lecho sin mancilla, y el matrimonio celebrado con la debida castidad, participaran en absoluto del pecado, nuestro Señor nunca habría venido a uno. Mientras que ahora, siendo buena la castidad conyugal, mejor la continencia de las viudas, y óptima la perfección del estado virginal, para sancionar todos estos grados, pero distinguir el mérito de cada uno, se dignó nacer del puro vientre de la Virgen; fue bendecido después de nacer por la voz profética de la viuda Ana; y ahora, invitado en la edad adulta a asistir a la celebración de una boda, honra también esto con la presencia de su bondad.\n\n(in loc.) Tampoco carece de alguna alusión misteriosa que el matrimonio se relate como acontecido en el tercer día. La primera edad del mundo, antes de la entrega de la Ley, fue iluminada por el ejemplo de los Patriarcas; la segunda, bajo la Ley, por los escritos de los Profetas; la tercera, bajo la gracia, por la predicación de los Evangelistas, como si fuera por la luz del tercer día; pues nuestro Señor había aparecido ya en la carne. También el nombre del lugar donde se celebró la boda, Caná de Galilea, que significa deseo de emigrar, tiene un significado típico, a saber, que son más dignos de Cristo los que arden con deseos devotos, y han conocido el paso del vicio a la virtud, de las cosas terrenas a las eternas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "19c605885ffc"
+ },
+ "hcf:Cyril of Alexandria/John 2_1#0": {
+  "text_es": "Galilea. Note bien de nuevo el que ama el aprendizaje: pues la reunión no es en Jerusalén, sino que fuera de Judea se celebra la fiesta, como en el país de los gentiles. Pues es la Galilea de los gentiles, como dice el profeta. Creo que es del todo evidente que la sinagoga de los judíos rechazó al Esposo del cielo, y que la Iglesia de los gentiles lo recibió, y eso con mucha alegría.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9721974869df"
+ },
+ "hcf:Augustine of Hippo/John 2_2#0": {
+  "text_es": "El Señor, al venir a la boda a la que fue invitado, quiso, aparte del significado místico, asegurarnos que el matrimonio era institución suya. Pues habían de existir aquellos de quienes habló el apóstol, «prohibiendo casarse», y afirmando que el matrimonio era un mal, y de institución del diablo; no obstante, el mismo Señor declara en el Evangelio, al ser preguntado si es lícito al hombre repudiar a su mujer por cualquier causa, que no es lícito sino por causa de fornicación. En su respuesta, si recuerdas, dijo: «Lo que Dios ha unido, no lo separe el hombre». Y los que están bien instruidos en la fe católica saben que Dios instituyó el matrimonio; y así como la unión del hombre y la mujer es de Dios, así el divorcio es del diablo. Pero en el caso de fornicación es lícito al hombre repudiar a su mujer, porque ella primero eligió no ser ya esposa al no preservar la fidelidad conyugal a su marido. Ni están sin matrimonio aquellas mujeres que consagran la virginidad a Dios, aunque ocupan un lugar más alto de honor y santidad en la Iglesia. Pues también ellas, junto con toda la Iglesia, alcanzan un matrimonio, un matrimonio en el que Cristo es el Esposo. Y por esta causa, por tanto, el Señor, al ser invitado, vino a la boda, para confirmar la castidad conyugal y mostrar el sacramento del matrimonio. Pues el esposo de aquella boda, a quien se dijo: «Has guardado el buen vino hasta ahora», representaba la persona del Señor. Pues el buen vino, es decir, el Evangelio, Cristo lo ha guardado hasta ahora.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "124dd59756fa"
+ },
+ "hcf:Cyril of Alexandria/John 2_2#0": {
+  "text_es": "Pues era conveniente que aquel que renovaba la misma naturaleza del hombre, y la reformaba toda para mejor, no solo impartiera su bendición a los ya llamados a la existencia, sino que también preparara antes de la gracia para los que pronto habían de nacer, y santificara su entrada en la existencia. Recibe también una tercera razón. Se había dicho a la mujer por Dios: Con dolor darás a luz hijos. ¿Cómo entonces no era necesario que desecháramos también esta maldición, o cómo de otro modo podríamos escapar de un matrimonio condenado? También esto lo elimina el Salvador, siendo amante del hombre. Pues él, el Deleite y Gozo de todos, honró el matrimonio con su Presencia, para expulsar la antigua vergüenza de la maternidad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d3c0c953a279"
+ },
+ "aquifer:19059": {
+  "text_es": "Cuando se acabó⸢el vino⸣, la familia anfitriona se enfrentaría a la vergüenza por no haber planificado bien. Quizá Jesús llegó inesperadamente con sus discípulos (véase Mateo 25:1–13). Esto podría explicar por qué su madre le habló del problema. Un banquete de bodas era una celebración importante en la vida de las aldeas judías. Este acontecimiento en particular también simbolizaba el gozo de la llegada del Mesías.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1667bd633d85"
+ },
+ "hcf:Alcuin of York/John 2_3#0": {
+  "text_es": "Ella representa aquí a la Sinagoga, que desafía a Cristo a realizar un milagro. Era costumbre entre los judíos pedir milagros.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "400b725a8f45"
+ },
+ "hcf:Bede/John 2_3#0": {
+  "text_es": "El vino fue hecho faltar, para dar a nuestro Señor la oportunidad de hacer uno mejor; para que así la gloria de Dios en el hombre fuera sacada de su escondite: Y cuando faltó el vino, la madre de Jesús le dice: No tienen vino.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "af4fd6443103"
+ },
+ "hcf:John Chrysostom/John 2_3#1": {
+  "text_es": "«¿Cómo entonces», pregunta alguien, «le vino a la mente a su madre imaginar algo grande de él?» Él estaba ahora comenzando a revelarse, y fue claramente descubierto por el testimonio de Juan, y por lo que había dicho a sus discípulos. Y antes de todo esto, la Concepción misma y todas sus circunstancias concomitantes la habían inspirado una grandísima opinión del Niño; pues, decía Lucas, «oyó todas las palabras concernientes al Niño, y las guardaba en su corazón». «¿Por qué entonces», dice uno, «no habló ella de esto antes?» Porque, como dije, era ahora por fin que él comenzaba a manifestarse. Antes de este tiempo vivía como uno de tantos, y por eso su madre no tenía confianza para decirle tal cosa; pero cuando oyó que Juan había venido por causa de él, y que le había dado el testimonio que le dio, y que tenía discípulos, después de eso cobró confianza, y lo llamó, y dijo, cuando faltó el vino: «No tienen vino». Pues deseaba tanto hacerles un favor, como hacerse más conspicua por medio de su Hijo; quizá también tenía algunos sentimientos humanos, como sus hermanos, cuando decían: «Muéstrate al mundo» (c. xvii. 4), deseando ganar crédito de sus milagros.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2e95429d79c3"
+ },
+ "aquifer:19060": {
+  "text_es": "Al principio, Jesús no intervino para resolver el problema. Su misión y su momento no estaban controlados por planes humanos.⸢Aún no ha venido mi hora⸣: Esto se refiere al tiempo en que Jesús sería glorificado. En el Evangelio de Juan, esto sucedió cuando fue levantado en la cruz (12:23; 17:1).",
+  "lemas_es": [
+   "Aún no ha venido mi hora"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cbe5889fd1a6",
+  "lemas_rv1909": [
+   {
+    "lema": "aun no ha venido mi hora",
+    "ref": "JHN.2.4"
+   }
+  ]
+ },
+ "hcf:Augustine of Hippo/John 2_4#13": {
+  "text_es": "Algunos que menosprecian el Evangelio y dicen que Jesús no nació de la Virgen María, intentan sacar de este pasaje un argumento para su error; pues, dicen, ¿cómo podría ella ser su madre, a quien Él dijo: ¿Qué tengo que ver contigo? Ahora bien, ¿quién es el que da este relato, y por cuya autoridad lo creemos? El evangelista Juan. Pero él mismo dice: La madre de Jesús estaba allí. ¿Por qué habría de decirlo, a menos que ambas cosas fueran verdaderas? Pero ¿acaso vino por eso a las bodas, para enseñar a los hombres a despreciar a su madre?\n\n(de Symbolo Serm. ii. c. 14. [5]) Para marcar una distinción entre su divinidad y su humanidad, a saber, que según su humanidad era inferior y estaba sujeto, pero según su divinidad era supremo, dice: Mujer, ¿qué tengo que ver contigo?\n\n(Tr. viii. c. 9. et seq. sparsim) O fue porque nuestro Señor como Dios no tenía madre, aunque como hombre la tenía, y el milagro que estaba a punto de obrar era acto de su divinidad, no de humana flaqueza. Cuando, pues, su madre le pidió un milagro, Él, como si no reconociera un nacimiento humano, estando a punto de realizar una obra divina, dijo: Mujer, ¿qué tengo que ver contigo? Como si dijera: Tú no engendraste en mí lo que obra el milagro, mi divinidad. (Se la llama mujer, con referencia al sexo femenino, no a injuria alguna de su virginidad.) Pero porque diste a luz mi flaqueza, te reconoceré entonces, cuando esa misma flaqueza penda de la cruz. Y por eso añade: Aún no ha venido mi hora: como si dijera: Te reconoceré cuando la flaqueza, de la cual eres madre, penda de la cruz. Encomendó a su madre al discípulo, estando a punto de morir y de resucitar, antes de la muerte de ella. Pero adviértase: así como los maniqueos han hallado ocasión de error y pretexto para su infidelidad en la palabra de nuestro Señor: ¿Qué tengo que ver contigo?, de la misma manera los astrólogos apoyan la suya en las palabras: Aún no ha venido mi hora. Pues, dicen, si Cristo no hubiera estado bajo el poder del hado, nunca habría dicho esto. Pero que crean lo que Dios dice más abajo: Tengo poder para ponerla (mi vida), y tengo poder para volverla a tomar: (Juan 10:18) y entonces pregunten por qué dice: Aún no ha venido mi hora; ni por tal motivo sujeten a la fatalidad al Creador del cielo; puesto que, aun si hubiera un hado en las estrellas, el Hacedor de las estrellas no podría estar bajo el dominio de las estrellas. Y no solo Cristo nada tenía que ver con el hado, como vosotros lo llamáis; sino que tampoco tú, ni ningún otro hombre. ¿Por qué dijo entonces: Aún no ha venido mi hora? Porque tenía poder para morir cuando quisiera, pero no juzgó conveniente ejercer aún ese poder. Había de llamar a los discípulos, proclamar el Reino de los cielos, hacer obras maravillosas, aprobar su divinidad con milagros, su humildad participando de los sufrimientos de nuestra condición mortal. Y cuando hubo hecho todo, entonces había llegado la hora, no del destino, sino de la voluntad; no de la obligación, sino del poder.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5801d71727b3",
+  "corregido_por_juez": "Se conserva el nombre del libro bíblico en inglés («John 10:18») en lugar de traducir a «Juan»."
+ },
+ "hcf:Cyril of Alexandria/John 2_4#0": {
+  "text_es": "Con suma excelencia el Salvador compuso también para nosotros este discurso. Pues no le correspondía venir apresuradamente a la acción, ni aparecer como hacedor de milagros como por su propia cuenta, sino, siendo llamado, llegar apenas a ello, y conceder la gracia a la necesidad más que a los espectadores. Pero el resultado de las cosas anheladas parece de algún modo ser aún más grato, cuando no se concede de inmediato a quienes lo piden, sino que mediante una pequeña demora se presenta a una esperanza más hermosa. Además, Cristo muestra con esto que el honor más profundo se debe a los padres, concediendo por reverencia a su Madre lo que aún no quería hacer.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "97efa88a48f5"
+ },
+ "hcf:Bede/John 2_5-6#0": {
+  "text_es": "Como si ella dijera: Aunque parezca negarse, lo hará sin embargo. Conocía su piedad y misericordia. Y estaban allí seis tinajas de piedra, para las purificaciones de los judíos, que contenían dos o tres firkins cada una. Hydriæ1 son vasijas para contener agua: hydor es el griego para agua.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2d848d9c039f"
+ },
+ "hcf:Cyril of Alexandria/John 2_5#0": {
+  "text_es": "La mujer, teniendo gran influencia para la realización del milagro, prevaleció, persuadiendo al Señor, por causa de lo que era conveniente, como su Hijo. Comienza la obra preparando a los servidores de la asamblea para obedecer las cosas que habían de ser ordenadas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6544d8170bcf"
+ },
+ "aquifer:19061": {
+  "text_es": "Las tinajas de piedra para agua estaban talladas en roca sólida. Se usaban para las ceremonias judías de purificación (rituales religiosos de lavado; véase Marcos 7:1–4).\n\nJesús estaba a punto de dar un nuevo significado a estas ceremonias. Mostraría que algo mayor que el lavado ritual estaba ahora presente.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3511a21d9c4a",
+  "corregido_por_juez": "Se dejó el nombre del libro bíblico en inglés («Mark» en lugar de «Marcos»)."
+ },
+ "hcf:Alcuin of York/John 2_6#0": {
+  "text_es": "Había allí vasijas para contener agua, para las purificaciones de los judíos. Entre otras tradiciones de los fariseos, observaban frecuentes lavados.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "90845ca778c5"
+ },
+ "hcf:Augustine of Hippo/John 2_6#3": {
+  "text_es": "Ahora bien, si hubiera mandado derramar el agua y luego hubiera introducido el vino desde los ocultos recessos de la creación, parecería haber rechazado el Antiguo Testamento. Pero al convertir, como lo hizo, el agua en vino, nos mostró que el Antiguo Testamento procedía de Él, pues por su orden se llenaron las tinajas. Pero aquellas Escrituras no tienen sentido, si Cristo no es entendido en ellas. Ahora sabemos desde qué tiempo data la ley, a saber, desde la fundación del mundo. Desde aquel tiempo hasta el presente hay seis edades: la primera, contando desde Adán hasta Noé; la segunda, desde Noé hasta Abraham; la tercera, desde Abraham hasta David; la cuarta, desde David hasta la deportación a Babilonia; la quinta, desde aquel tiempo hasta Juan el Bautista; la sexta, desde Juan el Bautista hasta el fin del mundo. Las seis tinajas denotan, pues, estas seis edades de profecía. Las profecías se han cumplido; las tinajas están llenas. Pero ¿qué significa que cada una contuviera dos o tres medidas? Si hubiera dicho solo tres, nuestra mente habría corrido inmediatamente al misterio de la Trinidad. Ni quizá podemos rechazarlo, aunque se diga dos o tres: pues al ser nombrados el Padre y el Hijo, el Espíritu Santo puede entenderse por consecuencia; en cuanto que es el amor entre el Padre y el Hijo, el cual es el Espíritu Santo. (c. 17.). Ni debemos pasar por alto otra interpretación, que hace aludir las dos medidas a las dos razas de hombres, los judíos y los griegos; y las tres a los tres hijos de Noé.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f739cebf36a6",
+  "corregido_por_juez": "Se deja el término en inglés «firkins» sin traducir."
+ },
+ "hcf:John Chrysostom/John 2_6#0": {
+  "text_es": "No es sin razón que el Evangelista dice: \"Para las purificaciones de los judíos\", sino para que ninguno de los incrédulos sospechara que, habiendo quedado heces en las vasijas, y habiéndose echado agua sobre ellas y mezcládose con ellas, se había hecho un vino muy débil. Por eso dice: \"para las purificaciones de los judíos\", para mostrar que aquellas vasijas nunca fueron receptáculos para vino. Pues como Palestina es un país con poca agua, y no se encontraban arroyos y fuentes por todas partes, solían llenar siempre tinajas con agua, para no tener que apresurarse a los ríos si en algún momento se contaminaban, sino tener a mano los medios de purificación.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f7aaad4cef98"
+ },
+ "hcf:Augustine of Hippo/John 2_7#0": {
+  "text_es": "Una firkin es cierta medida; como la urna, la ánfora y otras semejantes. Metron es el griego para medida: de donde metretae. Dos o tres, no ha de entenderse como que algunas contenían dos y otras tres, sino que los mismos vasos contenían dos o tres.\nJesús les dice: Llenad las tinajas de agua. Y las llenaron hasta arriba.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "123654dc3b45",
+  "corregido_por_juez": "Se dejan las palabras inglesas «urn, amphora» sin traducir al español."
+ },
+ "hcf:John Chrysostom/John 2_7-8#0": {
+  "text_es": "Pero ¿por qué no obró el milagro antes de que llenaran las tinajas, lo cual habría sido mucho más maravilloso; en cuanto que una cosa es cambiar la cualidad de alguna sustancia existente, otra hacerla de la nada? El último milagro sería el más maravilloso, pero el primero sería el más fácil de creer. Y este principio actúa a menudo como freno, para moderar la grandeza de los milagros de nuestro Señor: desea hacerlos más creíbles, por lo tanto los hace menos maravillosos; una refutación esta de la perversa doctrina de algunos, de que Él era un ser diferente del Hacedor del mundo. Pues vemos que realiza la mayoría de sus milagros sobre materia ya existente, mientras que si fuera contrario al Creador del mundo, no usaría una materia así ajena, para demostrar su propio poder. No sacó Él mismo el agua que convirtió en vino, sino que ordenó a los servidores hacerlo. Esto fue para tener testigos del milagro; Y les dice: Sacad ahora, y llevad al gobernador del banquete.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9438db974872"
+ },
+ "aquifer:19062": {
+  "text_es": "El maestro del banquete repitió un dicho común. Normalmente, el mejor vino se servía primero, cuando la gente podía saborearlo con mayor claridad. Después se servía vino de menor calidad.\n\nPero esta vez fue diferente. El vino que Jesús hizo, servido al final, era el mejor de todos.\n\nEn el Antiguo Testamento, el buen vino era señal de la bendición de Dios (Amos 9:13–14). Este milagro mostró que el Mesías, la mayor bendición de Dios, había venido ya.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a3859a360d17"
+ },
+ "hcf:Alcuin of York/John 2_9#0": {
+  "text_es": "El Triclinium es un círculo de tres lechos, cline significa lecho: los antiguos solían reclinarse sobre lechos. Y el Architriclinus es el que está a la cabeza del Triclinium, es decir, el principal de los invitados. Algunos dicen que entre los judíos era un sacerdote, y asistía a la boda para instruir en los deberes del estado matrimonial.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "213703f20792"
+ },
+ "hcf:Alcuin of York/John 2_9#1": {
+  "text_es": "Los servidores son los doctores del Nuevo Testamento, que interpretan la sagrada Escritura a otros espiritualmente; el gobernador del banquete es algún doctor de la ley, como Nicodemo, Gamaliel o Saulo. Cuando a los primeros se les confía la palabra del Evangelio, oculta bajo la letra de la ley, es el agua hecha vino, siendo puesta delante del gobernador del banquete. Y las tres filas de invitados a la mesa en la casa de la boda se mencionan propiamente; la Iglesia consta de tres órdenes de creyentes: los casados, los continentes y los doctores.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "76d8fb07559d"
+ },
+ "hcf:Augustine of Hippo/John 2_9#0": {
+  "text_es": "Pero ved los misterios que se ocultan en aquel milagro de nuestro Señor. Era necesario que se cumplieran en Cristo todas las cosas que de Él estaban escritas: aquellas Escrituras eran el agua. Convirtió el agua en vino cuando les abrió el sentido de estas cosas y les expuso las Escrituras; pues así vino a tener sabor lo que antes no lo tenía, y a embriagar lo que antes no embriagaba.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "63a0e165634d"
+ },
+ "hcf:Hilary of Poitiers/John 2_9#1": {
+  "text_es": "Se echa agua en las tinajas; se saca vino en las copas; los sentidos del que saca no concuerdan con el conocimiento del que echó. El que echó piensa que se saca agua; el que saca piensa que se echó vino. Cuando el gobernador del banquete gustó el agua hecha vino, y no sabía de dónde era, (pero los sirvientes que habían sacado el agua lo sabían,) el gobernador del banquete llamó al novio. No fue una mezcla, sino una creación: la simple naturaleza del agua desapareció, y se produjo el sabor del vino; no que se obtuviera una débil dilución por medio de alguna fuerte infusión, sino que lo que era fue aniquilado, y lo que no era llegó a ser.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3d3197abd7df"
+ },
+ "hcf:John Chrysostom/John 2_9#0": {
+  "text_es": "Aquí de nuevo algunos se burlan, diciendo: «esta era una reunión de hombres ebrios, el sentido de los jueces estaba embotado, y no podían gustar lo que se había hecho, ni decidir sobre lo que se había obrado, de modo que no sabían si lo hecho era agua o vino; pues que estaban ebrios», se alega, «el mismo gobernador lo mostró por lo que dijo». Ahora bien, esto es sumamente ridículo, pero aun esta sospecha la ha eliminado el Evangelista. Pues no dice que los convidados dieron su opinión sobre el asunto, sino «el gobernador del banquete», que estaba sobrio, y aún no había gustado nada. Pues por supuesto sabéis que los encargados de la dirección de tales banquetes son los más sobrios, ya que tienen este único oficio, disponer todas las cosas con orden y regularidad; y por eso el Señor llamó a los sobrios sentidos de tal hombre para que dieran testimonio de lo que se había hecho. Pues no dijo: «Servid a los que están sentados a la mesa», sino: «Llevad al gobernador del banquete».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "25b4df0b4d2c"
+ },
+ "hcf:Alcuin of York/John 2_10#0": {
+  "text_es": "Cristo ha guardado el buen vino hasta ahora, es decir, ha diferido el Evangelio hasta esta, la sexta edad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1e57856f7b38"
+ },
+ "aquifer:19052": {
+  "text_es": "⸢Jesús hizo esto, el primero de sus signos⸣: En él, reveló la gloria de Dios (véase también 1:14; 11:4, 40).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "684d17de819f"
+ },
+ "hcf:Alcuin of York/John 2_11#0": {
+  "text_es": "Él era el Rey de gloria, y cambió los elementos porque era su Señor.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "54355237d3bf"
+ },
+ "hcf:Augustine of Hippo/John 2_11#0": {
+  "text_es": "Este milagro de nuestro Señor, convertir el agua en vino, no es milagro para quienes saben que Dios lo obró. Pues el mismo que aquel día hizo vino en las tinajas, es el que cada año hace vino en la vid: solo que esto último ya no es maravilloso, porque sucede uniformemente. Y por eso Dios reserva algunos actos extraordinarios para ciertas ocasiones, a fin de despertar a los hombres de su letargo y hacer que lo adoren. Así sigue: Manifestó su gloria.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d02db7f091f5"
+ },
+ "hcf:Augustine of Hippo/John 2_11#1": {
+  "text_es": "Si ahora por primera vez creyeron en Él, no eran sus discípulos cuando vinieron a la boda. Sin embargo, esta es una forma de hablar, como decir que el apóstol Pablo nació en Tarso de Cilicia; sin significar con esto que ya era apóstol entonces. De la misma manera, cuando oímos que los discípulos de Cristo fueron invitados a la boda, debemos entender no discípulos ya, sino quienes habían de ser discípulos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ed89c12a438a"
+ },
+ "hcf:John Chrysostom/John 2_11#0": {
+  "text_es": "Si alguno dijera que no hay prueba suficiente de que este sea el principio de los milagros, porque se añade, en Caná de Galilea, como si algunos hubieran sido preferidos en otro lugar: respondemos, como hicimos antes, que Juan dice más abajo: Para que sea manifestado a Israel, por eso he venido bautizando. (c. 1) (Hom. xxi. 2). Ahora bien, si hubiera realizado milagros en la parte anterior de su vida, los judíos no habrían necesitado otra persona que lo señalara. Si nuestro Señor en poco tiempo se hizo tan distinguido por el número de sus milagros, que su Nombre era conocido por todos, ¿no lo habría sido mucho más, si hubiera obrado milagros desde sus primeros años? pues las cosas mismas habrían sido más extraordinarias, siendo realizadas por un Niño, y en tanto tiempo habrían llegado a ser notorias. Era conveniente y apropiado, sin embargo, que no comenzara a obrar milagros a tan temprana edad: pues los hombres habrían pensado que la encarnación era una fantasía, y en el extremo de la envidia lo habrían entregado para ser crucificado antes del tiempo señalado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "732c0bdaefbb"
+ },
+ "hcf:Alcuin of York/John 2_12#0": {
+  "text_es": "Los hermanos de nuestro Señor son los parientes de María y José, no los hijos de María y José. Pues no solo la bienaventurada Virgen, sino también José, testigo de su castidad, se abstuvieron de toda relación conyugal.\n\nO Capernaum, podemos interpretarlo como «la aldea hermosísima», y así significa el mundo, al cual descendió el Verbo del Padre.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4af76997ce37"
+ },
+ "hcf:Augustine of Hippo/John 2_12#2": {
+  "text_es": "El Señor nuestro Dios es Él, alto, para crearnos; bajo, para recrearnos; caminando entre los hombres, sufriendo lo humano, ocultando lo divino. Así tiene madre, tiene hermanos, tiene discípulos: de donde tiene madre, de allí tiene hermanos. La Escritura frecuentemente da el nombre de hermanos, no solo a los que nacen del mismo vientre, o del mismo padre, sino a los de la misma generación, primos por parte del padre o de la madre. Quienes desconocen esta manera de hablar, preguntan: ¿De dónde tiene hermanos nuestro Señor? ¿Dio a luz María de nuevo? Eso no podría ser: con ella comenzó la dignidad del estado virginal. Abraham era tío de Lot, y Jacob era sobrino de Labán el sirio. Sin embargo, Abraham y Lot son llamados hermanos; y asimismo Jacob y Labán.\n\n(de Cons. Ev. c. ii. c. xvii. [39.]) Y sus discípulos; es incierto si Pedro y Andrés y los hijos de Zebedeo eran de su número o no en este tiempo. Pues Mateo primero relata que nuestro Señor vino y habitó en Capernaum, y después que llamó a aquellos discípulos de sus barcas, mientras pescaban. ¿Acaso Mateo suple lo que había omitido? Pues sin ninguna mención de que fuera en un tiempo posterior, dice: Jesús, andando junto al mar de Galilea, vio a dos hermanos. (Mat. 4:18) ¿O es mejor suponer que estos eran otros discípulos? Pues los escritos de los Evangelistas y Apóstoles, no llaman discípulos solo a los doce, sino a todos los que creyendo en Dios fueron preparados para el reino de los cielos por la enseñanza de nuestro Señor. (id. cap. 18). ¿Cómo es también que el viaje de nuestro Señor a Galilea se coloca aquí antes del encarcelamiento de Juan el Bautista, cuando Mateo dice: Mas cuando Jesús oyó que Juan estaba preso, se retiró a Galilea: y Marcos lo mismo? Lucas también, aunque no dice nada del encarcelamiento de Juan, sin embargo coloca la visita de Cristo a Galilea después de su tentación y bautismo, como los dos anteriores. Debemos entender entonces que los tres Evangelistas no se oponen a Juan, sino que pasan por alto la primera venida de nuestro Señor a Galilea después de su bautismo; en cuyo tiempo fue que convirtió el agua en vino.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "300d0f448e0b"
+ },
+ "hcf:Bede/John 2_12#1": {
+  "text_es": "No se quedó allí muchos días, a causa de la Pascua, que se acercaba: Y la pascua de los judíos estaba cerca.\n\nPero continuó allí solo unos pocos días, porque vivió con los hombres en este mundo solo un corto tiempo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "601166ef26c2"
+ },
+ "hcf:Eusebius of Caesarea/John 2_12-13#0": {
+  "text_es": "Cuando llegaron al Evangelista Juan copias de los tres Evangelios, se relata que, mientras confirmaba su fidelidad y corrección, notó al mismo tiempo algunas omisiones, especialmente al comienzo del ministerio de nuestro Señor. Ciertamente es que los tres primeros Evangelios parecen contener solo los acontecimientos del año en que Juan el Bautista fue encarcelado y muerto. Y por eso, se dice, se le pidió a Juan que escribiera aquellos hechos de nuestro Salvador anteriores a la aprehensión del Bautista, que los anteriores Evangelistas habían pasado por alto. Cualquiera entonces, prestando atención, encontrará que los Evangelios no discrepan, sino que Juan relata los acontecimientos de una fecha diferente, de la que los otros refieren.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "00d6d81f4da9"
+ },
+ "hcf:John Chrysostom/John 2_12-13#0": {
+  "text_es": "«Después de esto descendió a Capernaum, él, y su madre, y sus hermanos, y sus discípulos; y no se quedaron allí muchos días.»\n\n¿Por qué viene con «su madre a Capernaum»? pues no ha hecho ningún milagro allí, y los habitantes de aquella ciudad no eran de los que estaban bien dispuestos hacia Él, sino de los totalmente corruptos. Y esto lo declaró Cristo cuando dijo: «Y tú, Capernaum, que eres levantada hasta el cielo, hasta el infierno serás abatida.» ¿Por qué entonces va? Pienso que fue porque tenía la intención de subir poco después a Jerusalén, que entonces fue a Capernaum, para evitar llevar consigo por todas partes a su madre y a sus hermanos. Y así, habiendo partido y deteniéndose un poco para honrar a su madre, de nuevo comienza sus milagros después de devolver a su hogar a la que lo había dado a luz. Por eso el Evangelista dice: Después «no muchos días»,\n\n«Subió a Jerusalén.»\n\nRecibió el bautismo entonces unos días antes de la pascua. Pero al subir a Jerusalén, ¿qué hizo, una obra llena de alta autoridad? pues echó del Templo a aquellos vendedores y cambistas, y a los que vendían palomas, y bueyes, y ovejas, y que pasaban allí su tiempo con este propósito.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "04402cf0ff8a"
+ },
+ "aquifer:19053": {
+  "text_es": "La Pascua judía era una fiesta anual de primavera que recordaba la liberación de Israel de la esclavitud en Egipto (Éxodo 12). Los judíos viajaban a Jerusalén para unirse a la fiesta (Deuteronomio 16:1–16). Debido a que Juan se refiere a tres fiestas de Pascua (Juan 2:13; 6:4; 11:55), muchos eruditos piensan que Jesús debió haber tenido un ministerio público de tres años.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1b49713b24cd"
+ },
+ "hcf:Alcuin of York/John 2_13#0": {
+  "text_es": "Y subió a Jerusalén. Los Evangelios mencionan dos viajes de nuestro Señor a Jerusalén, uno en el primer año de su predicación, antes de que Juan fuera enviado a prisión, que es el viaje del que ahora se habla; el otro en el año de su Pasión. Nuestro Señor nos ha dado aquí un ejemplo de cuidadosa obediencia a los mandamientos divinos. Pues si el Hijo de Dios cumplió las prescripciones de su propia ley, guardando las fiestas, como los demás, ¿con qué santo celo debemos nosotros, siervos, prepararnos y celebrarlas?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "97faff7da21f"
+ },
+ "aquifer:19054": {
+  "text_es": "Muchas personas venían a Jerusalén para la fiesta de la Pascua. Necesitaban animales que cumplieran los requisitos para el sacrificio. Los animales debían ser aprobados para el culto.\n\nDebido a esta necesidad, se desarrolló un gran negocio. La gente vendía animales e intercambiaba dinero por el tipo correcto de monedas. Sin embargo, esta compra y venta tenía lugar en el templo mismo.\n\nJesús actuó como un profeta. Exigió que la casa de Dios volviera a su verdadero propósito. El templo estaba destinado al culto, la oración, la enseñanza y el sacrificio. No estaba destinado a ser un mercado. Esta acción llevó a Jesús a un conflicto con los líderes del templo. Los Evangelios sinópticos (Mateo, Marcos y Lucas) sitúan la purificación del templo cerca del final del ministerio de Jesús (Mateo 21:12–13; Marcos 11:15–17; Lucas 19:45–46). Es posible que Juan haya incluido este evento antes para enfatizar su conexión con el milagro en que Jesús convirtió el agua en vino (Juan 2:1–11). Tanto el templo como las tinajas de piedra para agua eran instrumentos para la pureza espiritual en el judaísmo. Las tinajas, una vez llenas de agua para la purificación ceremonial, ahora contenían el vino que Jesús cambió por un milagro.\n\nDe manera similar, el templo de piedra, que estaba vinculado al sacrificio y la purificación, ya no sería central. Jesús mismo tomaría su lugar (2:19–21).\n\nAlgunos eruditos creen que Jesús purificó el templo dos veces. Piensan que lo hizo una vez al comienzo de su ministerio y otra vez al final.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "acb3b37e8a4c"
+ },
+ "hcf:Augustine of Hippo/John 2_14#0": {
+  "text_es": "Tales sacrificios fueron prescritos al pueblo, condescendiendo con sus mentes carnales, para evitar que se desviaran hacia los ídolos. Sacrificaban ovejas, bueyes y palomas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ec0da66ba936"
+ },
+ "hcf:Augustine of Hippo/John 2_14#1": {
+  "text_es": "Por los bueyes pueden entenderse los Apóstoles y Profetas, que nos han dispensado las Sagradas Escrituras. Quienes engañan al pueblo con esas mismas Escrituras, de quienes buscan honor, venden los bueyes; y venden también las ovejas, es decir, al pueblo mismo; y ¿a quién se lo venden, sino al diablo? Pues lo que se corta de la única Iglesia, (1 Ped. 5:8) ¿quién lo arrebata, sino el león rugiente, que anda por todas partes y busca a quién devorar?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9b0bbcc57122"
+ },
+ "hcf:Augustine of Hippo/John 2_14-16#0": {
+  "text_es": "Es evidente que esto se hizo en dos ocasiones distintas; la primera mencionada por Juan, la última por los otros tres.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a5d5c7bcd7f5"
+ },
+ "hcf:Bede/John 2_14#0": {
+  "text_es": "Nuestro Señor, al llegar a Jerusalén, entró inmediatamente en el templo para orar; dándonos ejemplo de que, dondequiera que vayamos, nuestra primera visita debe ser a la casa de Dios para orar. Y encontró en el templo a los que vendían bueyes, ovejas y palomas, y a los cambistas de dinero sentados. (Mat. 21)\n\nSin embargo, los que venían de lejos, al no poder traer consigo los animales requeridos para el sacrificio, traían el dinero en su lugar. Para su conveniencia, los escribas y fariseos ordenaron que se vendieran animales en el templo, a fin de que, cuando el pueblo los hubiera comprado y ofrecido después, pudieran venderlos de nuevo y así obtener grandes ganancias. Y cambistas de dinero sentados; los cambistas de dinero se sentaban a la mesa para proporcionar cambio a compradores y vendedores.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c9ac20a005d6"
+ },
+ "hcf:Origen of Alexandria/John 2_14#1": {
+  "text_es": "Jerusalén, como dice nuestro Salvador mismo, es la ciudad del gran Rey, a la cual ninguno de los que permanecen en la tierra asciende o entra. Solo el alma que tiene cierta elevación natural y clara percepción de las cosas invisibles es habitante de esa ciudad. Jesús solo sube allá. Pero sus discípulos parecen haber estado presentes después. El celo de tu casa me consume. Pero es como si en cada uno de los discípulos que subieron, fuera Jesús quien subió.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5b7a89d09e2e"
+ },
+ "hcf:Augustine of Hippo/John 2_15#1": {
+  "text_es": "Aquel que había de ser azotado por ellos, fue primero el azotador; y cuando hizo un azote de cuerdas pequeñas, los echó a todos fuera del templo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "90c5e2001a41"
+ },
+ "hcf:Augustine of Hippo/John 2_15#2": {
+  "text_es": "Nuestro Señor quiso que se viera un significado en que hiciera un azote de cuerdas pequeñas y luego azotara a los que realizaban el comercio en el templo. Cada uno, por sus pecados, se tuerce un cordel, al ir añadiendo pecado sobre pecado. Así pues, cuando los hombres sufren por sus iniquidades, que estén seguros de que es el Señor quien hace un azote de cuerdas pequeñas y les amonesta a cambiar de vida; lo cual, si no lo hacen, oirán al final: Atadle de pies y manos. (Mat. 23)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a6ec3e912b82"
+ },
+ "hcf:Bede/John 2_15-16#0": {
+  "text_es": "Pero nuestro Señor, desaprobando cualquier negocio mundano en su casa, especialmente uno de naturaleza tan cuestionable, echó fuera a todos los que en ello participaban.\n\nEl Evangelista nos presenta ambas naturalezas de Cristo: la humana, en que su madre lo acompañó a Capernaum; la divina, en que dijo: No hagáis de la casa de mi Padre casa de comercio.\n\n(in loc.) Son, pues, vendedores de palomas quienes, después de recibir la gracia gratuita del Espíritu Santo, no la dispensan gratuitamente, como se les manda, sino a precio: quienes confieren la imposición de manos, por la cual se recibe el Espíritu Santo, si no por dinero, al menos por obtener el favor del pueblo, que otorgan las Órdenes Sagradas no según el mérito, sino por favor.\n\n(in loc.) O bien, las ovejas son obras de pureza y piedad, y venden las ovejas quienes hacen obras de piedad para ganar la alabanza de los hombres. Cambian dinero en el templo quienes, en la Iglesia, se dedican abiertamente a los negocios seculares. Y además de los que buscan dinero, o alabanza, o honor de las Órdenes Sagradas, también hacen de la casa del Señor casa de comercio quienes no emplean el rango o la gracia espiritual que han recibido en la Iglesia de manos del Señor con sencillez de ánimo, sino con miras a una recompensa humana.\n\n(in loco.) Con un azote hecho de cuerdas pequeñas, pues, los echó fuera del templo; porque de la parte y la heredad de los santos son echados todos los que, colocados exteriormente entre los santos, hacen obras buenas hipócritamente, o malas abiertamente. También echó fuera las ovejas y los bueyes, para mostrar que la vida y la doctrina de tales eran igualmente reprobables. Y derribó los montones de cambio de los cambistas y sus mesas, como señal de que, en la condenación final de los impíos, quitará incluso la forma de aquellas cosas que amaban. La venta de palomas ordenó que se quitara del templo, porque la gracia del Espíritu, siendo recibida gratuitamente, debe darse gratuitamente.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "85f6cbea8970"
+ },
+ "hcf:Origen of Alexandria/John 2_15#0": {
+  "text_es": "¿Habría de parecer algo fuera del orden de las cosas que el Hijo de Dios hiciera un azote de cuerdas pequeñas para echarlos fuera del templo? Tenemos una respuesta en la que algunos se refugian, a saber: el poder divino de Jesús, quien, cuando le placía, podía extinguir la ira de sus enemigos por innumerables que fueran, y calmar el tumulto de sus mentes: El Señor hace nulo el consejo de las naciones. (Sal. 32, 33:10) Este acto ciertamente muestra no menos poder que sus milagros más positivos; más aún, más que el milagro por el cual el agua fue convertida en vino: en aquel, la materia era inanimada; aquí, las mentes de tantos miles de hombres son vencidas.\n\n(tom. x. in Joan. c. 17) Juan dice aquí que echó fuera del templo a los vendedores; Mateo, a los vendedores y compradores. El número de compradores era mucho mayor que el de vendedores; y por tanto, echarlos fuera estaba más allá del poder del hijo del carpintero, como se le suponía, si no hubiera puesto todas las cosas bajo él por su poder divino, como se ha dicho.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2763c5f9350b"
+ },
+ "hcf:Theophylact of Ohrid/John 2_15#0": {
+  "text_es": "Y no echó fuera solo a los que compraban y vendían, sino también sus mercancías: Las ovejas y los bueyes, y derramó el dinero de los cambistas, y volcó las mesas, es decir, de los cambistas, que eran cofres de monedas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "033644427d75"
+ },
+ "hcf:Augustine of Hippo/John 2_16#1": {
+  "text_es": "Así que aquel templo era todavía solo una figura, y nuestro Señor echó de él a todos los que venían a él como a un mercado. ¿Y qué vendían? Cosas que eran necesarias para el sacrificio de aquel tiempo. ¿Y si hubiera encontrado a hombres ebrios? Si la casa de Dios no debe ser casa de comercio, ¿debe ser casa de embriaguez?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "06791330b298"
+ },
+ "hcf:Augustine of Hippo/John 2_16#2": {
+  "text_es": "O bien, los que venden en la Iglesia son los que buscan lo suyo propio, no las cosas de Jesucristo. Los que no quieren ser comprados, piensan que pueden vender cosas terrenales. Así Simón quiso comprar el Espíritu, para poder venderlo; pues era uno de los que venden palomas. (El Espíritu Santo apareció en forma de paloma.) La paloma, sin embargo, no se vende, sino que se da por gracia gratuita; pues se llama gracia.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4803aac37d6b"
+ },
+ "hcf:Origen of Alexandria/John 2_16#1": {
+  "text_es": "Es posible incluso para el morador de Jerusalén incurrir en culpa, y aun los más ricamente dotados pueden extraviarse. Y si estos no se arrepienten pronto, pierden la capacidad con que fueron dotados. Él los encuentra en el templo, esto es, en lugares sagrados, o en el oficio de enunciar las verdades de la Iglesia, a algunos que hacen de la casa de su Padre una casa de comercio; esto es, que exponen a la venta los bueyes que deberían reservar para el arado, no sea que, volviéndose atrás, se vuelvan ineptos para el reino de Dios; también los que prefieren las riquezas injustas a las ovejas, de las cuales tienen el material de ornamento; también los que por miserable ganancia abandonan el cuidado vigilante de aquellos que metafóricamente son llamados palomas, sin hiel ni amargura alguna. Nuestro Salvador, encontrando a estos en la casa santa, hace un azote de cuerdas pequeñas, y los expulsa, junto con las ovejas y los bueyes expuestos para la venta, dispersa los montones de dinero, como impropio en la casa de Dios, y derriba las mesas levantadas en las mentes de los codiciosos, prohibiéndoles vender palomas en la casa de Dios por más tiempo. Pienso también que Él quiso decir lo anterior como una insinuación mística de que todo lo que había de realizarse con respecto a aquella oblación sagrada por los sacerdotes, no había de realizarse a la manera de oblaciones materiales, y que la ley no había de observarse como los judíos carnales deseaban. Pues nuestro Señor, al expulsar las ovejas y los bueyes, y al ordenar que se alejaran las palomas, que eran las ofrendas más comunes entre los judíos, y al derribar las mesas de monedas materiales, que solo en figura, no en verdad, llevaban el sello divino (esto es, lo que según la letra de la ley parecía bueno), y cuando con su propia mano azotó al pueblo, declaró en la medida de lo posible que la dispensación había de ser quebrantada y destruida, y el reino trasladado a los creyentes de entre los gentiles.\n\n(tom. x. in Joan. c. 16) Por el templo podemos entender también el alma en la que habita el Verbo de Dios; en la cual, antes de la enseñanza de Cristo, habían prevalecido afectos terrenales y bestiales. El buey, siendo el labrador de la tierra, es símbolo de los afectos terrenales; la oveja, siendo el más irracional de todos los animales, de los necios; la paloma es el tipo de pensamientos ligeros y volátiles; y el dinero, de los bienes terrenales; el cual dinero Cristo arrojó fuera por el Verbo de su doctrina, para que la casa de su Padre no fuera más un mercado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c6b0607a6374"
+ },
+ "hcf:Alcuin of York/John 2_17#0": {
+  "text_es": "El celo, tomado en buen sentido, es cierto fervor del Espíritu, por el cual la mente, olvidados todos los temores humanos, es incitada a la defensa de la verdad.\n\nPara tomar el pasaje místicamente, Dios entra espiritualmente en su Iglesia cada día, y observa la conducta de cada uno allí. Seamos, pues, cuidadosos cuando estamos en la Iglesia de Dios, de no entregarnos a cuentos, o bromas, o odios, o deseos, no sea que de repente venga y nos azote, y nos expulse de su Iglesia.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "397d16e005a5"
+ },
+ "hcf:Augustine of Hippo/John 2_17#1": {
+  "text_es": "Aquel, pues, es consumido por el celo de la casa de Dios, que desea corregir todo lo que ve mal allí; y, si no puede corregir, lo soporta y se duele. En tu casa te afanas por evitar que las cosas vayan mal; en la casa de Dios, donde se ofrece la salvación, ¿has de ser indiferente? ¿Tienes un amigo? Amonéstalo suavemente; ¿una esposa? Corrígela severamente; ¿una sierva? Aun constríñela con azotes. Haz lo que puedas, según tu condición.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "72ff86f6e266"
+ },
+ "hcf:Bede/John 2_17#0": {
+  "text_es": "Sus discípulos, al ver este celo tan ferviente en Él, recordaron que fue por celo de la casa de su Padre que nuestro Salvador expulsó a los impíos del templo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0287c59e2105"
+ },
+ "hcf:Cyril of Alexandria/John 2_17#0": {
+  "text_es": "Los discípulos en poco tiempo alcanzan la perfección del conocimiento, y comparando lo escrito con los acontecimientos, ya muestran un gran progreso para mejor.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6e32858fb819"
+ },
+ "hcf:Bede/John 2_18-21#0": {
+  "text_es": "Pues en cuanto buscaban de nuestro Señor una señal de su derecho a expulsar la mercancía acostumbrada del templo, Él respondió que aquel templo significaba el templo de su Cuerpo, en el cual no había mancha de pecado; como si dijera: Así como por mi poder purifico vuestro templo inanimado de vuestra mercancía y maldad, así el templo de mi Cuerpo, del cual aquel es figura, destruido por vuestras manos, al tercer día lo levantaré de nuevo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fbd2e50e0ff9"
+ },
+ "hcf:Theophylact of Ohrid/John 2_18#1": {
+  "text_es": "Los judíos, viendo a Jesús actuar así con poder, y habiendo oído que decía: No hagáis de la casa de mi Padre casa de comercio, le piden una señal; Entonces respondieron los judíos y le dijeron: ¿Qué señal nos muestras, ya que haces estas cosas?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "58a9cb0ebbf9"
+ },
+ "aquifer:19055": {
+  "text_es": "⸢Destruid este templo⸣: Herodes el Grande comenzó a reconstruir la grandiosa estructura del templo en el año 20 a. C. La obra continuó hasta el año 64 d. C. Por eso Jesús asombró a su audiencia cuando afirmó que podía destruirlo y reconstruirlo en unos pocos días.\n\nSin embargo, Jesús hablaba figuradamente (usando una imagen verbal) acerca de su propio cuerpo. Describió su cuerpo como el verdadero templo, el lugar donde Dios estaba presente (véase 1:14, 51).\n\nSu cuerpo sería destruido. Tres días después, Dios lo resucitaría de entre los muertos. Mediante su resurrección, Jesús mostró que Él mismo era ahora el verdadero lugar donde las personas se encuentran con Dios. Por esto, el Templo de Jerusalén y sus sacrificios ya no eran necesarios.\n\nMás tarde, durante el juicio de Jesús, algunas personas malinterpretaron sus palabras. Usaron su declaración acerca de destruir el templo como evidencia contra Él. Lo acusaron de blasfemia (Marcos 14:58).",
+  "lemas_es": [
+   "Destruid este templo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3aa7807f5c60",
+  "lemas_rv1909": [
+   {
+    "lema": "Destruid este templo",
+    "ref": "JHN.2.19"
+   }
+  ]
+ },
+ "hcf:Theophylact of Ohrid/John 2_19#1": {
+  "text_es": "Sin embargo, no los provoca a cometer asesinato, al decir: Destruid; sino que solo muestra que sus intenciones no estaban ocultas para Él. Observen los arrianos cómo nuestro Señor, como destructor de la muerte, dice: Yo lo levantaré; es decir, por mi propio poder.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7470bee0d89d"
+ },
+ "hcf:Alcuin of York/John 2_20#0": {
+  "text_es": "Nota que aquí no aluden al primer templo bajo Salomón, que fue terminado en siete años, sino al reconstruido bajo Zorobabel. (Esdras 4:5) Este estuvo cuarenta y seis años en construcción, a consecuencia del impedimento suscitado por los enemigos de la obra.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "53bc766d0f0d"
+ },
+ "hcf:Augustine of Hippo/John 2_20#2": {
+  "text_es": "El Padre también lo resucitó; a quien Él dice: Levántame, y les daré el pago. (Sal. 41:10) Pero ¿qué hizo el Padre sin el Verbo? Así pues, como el Padre lo resucitó, también el Hijo lo hizo: como dice más abajo: Yo y mi Padre somos uno. Juan 10:30.\n\n(iv. de Trin. c. 9. [v.]) O puede ser que este número cuadre con la perfección del Cuerpo del Señor. Pues seis veces cuarenta y seis son doscientos setenta y seis días, que componen nueve meses y seis días, el tiempo que el Cuerpo de nuestro Señor estuvo formándose en el vientre; como sabemos por tradiciones autorizadas transmitidas por nuestros padres, y conservadas por la Iglesia. Fue, según la creencia general, concebido el octavo día de las Kalendas de abril, (24 de marzo) el día en que padeció, y nacido el octavo día de las Kalendas de enero. (25 de diciembre) El tiempo intermedio contiene doscientos setenta y seis días, es decir, seis multiplicado por cuarenta y seis.\n\n(b. lxxxiii. Quæst. 2. 5. f.) Se dice que el proceso de la concepción humana es este. Los primeros seis días producen una sustancia como leche, que en los siguientes nueve se convierte en sangre; en doce más se consolida, en dieciocho más se forma en un conjunto perfecto de miembros, cuyo crecimiento y aumento llena el resto del tiempo hasta el nacimiento. Pues seis, y nueve, y doce, y dieciocho, sumados juntos son cuarenta y cinco, y con la adición de uno (que representa la suma total, al recogerse todos estos números en uno) cuarenta y seis. Esto multiplicado por el número seis, que está a la cabeza de este cálculo, da doscientos setenta y seis, es decir, nueve meses y seis días. No es, pues, información sin sentido que el templo estuviera cuarenta y seis años en construcción; pues el templo prefiguraba su Cuerpo, y tantos años como el templo estuvo en construcción, tantos días estuvo el Cuerpo del Señor formándose.\n\n(in Joan. Tr. x. c. 12) O así: si tomas las cuatro palabras griegas, anatole, el este; dysis, el oeste; arctos, el norte; y mesembria, el sur; las primeras letras de estas palabras forman Adam. Y nuestro Señor dice que reunirá a sus santos de los cuatro vientos, cuando venga a juicio. Ahora bien, estas letras de la palabra Adam componen, según la figuración griega, el número de los años durante los cuales el templo estuvo en construcción. Pues en Adam tenemos alfa, uno; delta, cuatro; alfa de nuevo, uno; y mi, cuarenta; que juntos suman cuarenta y seis. El templo, pues, significa el cuerpo derivado de Adam; el cual cuerpo nuestro Señor no tomó en su estado pecaminoso, sino que lo renovó, en que después que los judíos lo destruyeron, lo resucitó de nuevo al tercer día. Los judíos, sin embargo, siendo carnales, entendieron carnalmente; Él habló espiritualmente. Nos dice, por el Evangelista, qué templo significa; Mas él hablaba del templo de su Cuerpo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c8f61f354115"
+ },
+ "hcf:Theophylact of Ohrid/John 2_20#1": {
+  "text_es": "Los judíos, suponiendo que hablaba del templo material, se burlaron: Entonces dijeron los judíos: Cuarenta y seis años fue edificado este templo, ¿y tú lo levantarás en tres días?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3debb4b923c8"
+ },
+ "hcf:Theophylact of Ohrid/John 2_21#1": {
+  "text_es": "De esto Apolinar saca una inferencia herética: e intenta mostrar que la carne de Cristo era inanimada, porque el templo era inanimado. De esta manera probarás que la carne de Cristo es madera y piedra, porque el templo está compuesto de estos materiales. Ahora bien, si te niegas a permitir que lo que se dice: Ahora está turbada mi alma; (Juan 12:27) y, Tengo poder para ponerla (mi vida), (ib. 10:18) se diga del alma racional, ¿cómo interpretarás aún: En tus manos, oh Señor, encomiendo mi espíritu? (Lucas 23:46) no puedes entender esto de un alma irracional: o de nuevo, el pasaje: No dejarás mi alma en el infierno. (Sal. 16:11)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "72bdeb8e140a"
+ },
+ "aquifer:19057": {
+  "text_es": "⸢creyeron⸣: Ver un milagro de Dios puede llevar a las personas a creer. Sin embargo, este tipo de creencia no es la fe más profunda. La fe más profunda confía en Jesús incluso sin ver milagros (20:29).",
+  "lemas_es": [
+   "creyeron"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "125e523f81d5",
+  "lemas_rv1909": [
+   {
+    "lema": "creyeron",
+    "ref": "JHN.2.22"
+   }
+  ]
+ },
+ "hcf:Alcuin of York/John 2_22#0": {
+  "text_es": "Pues antes de la resurrección no entendían las Escrituras, porque aún no habían recibido el Espíritu Santo, quien aún no había sido dado, porque Jesús aún no había sido glorificado. (Juan 7:39) Pero el día de la resurrección nuestro Señor apareció y abrió su significado a sus discípulos; para que entendieran lo que se decía de Él en la Ley y los Profetas. Y entonces creyeron la predicción de los Profetas de que Cristo resucitaría al tercer día, y la palabra que Jesús les había hablado: Destruid este templo, etc.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "19ea2e414e69"
+ },
+ "hcf:John Chrysostom/John 2_22#0": {
+  "text_es": "Muchas de tales palabras pronuncia que no eran inteligibles para sus oyentes inmediatos, pero que lo serían para los que habían de venir después. ¿Y por qué hace esto? Para que, cuando se hubiera cumplido su predicción, se viera que había conocido de antemano desde el principio lo que había de suceder; lo cual en efecto fue el caso de esta profecía. Pues, dice el Evangelista: «Cuando resucitó de entre los muertos, sus discípulos se acordaron que había dicho esto; y creyeron la Escritura, y la palabra que Jesús había dicho».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "aa6f12466748"
+ },
+ "hcf:Augustine of Hippo/John 2_23-24#2": {
+  "text_es": "¿Qué significa esto: Muchos creyeron en su Nombre, pero Jesús no se confiaba a ellos? ¿Acaso no creían en Él, sino que solo lo fingían? En tal caso el Evangelista no habría dicho: Muchos creyeron en su Nombre. Admirable es esto, y extraño, que los hombres confíen en Cristo, y Cristo no se confíe a los hombres; especialmente considerando que era el Hijo de Dios, y sufrió voluntariamente, o de lo contrario no habría tenido que sufrir en absoluto. Sin embargo, tales son todos los catecúmenos. Si decimos a un catecúmeno: ¿Crees en Cristo?, responde: Creo, y se santigua. Si le preguntamos: ¿Comes la carne del Hijo del hombre?, no sabe lo que decimos, pues Jesús no se ha confiado a él.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1f2cecfbcf0a"
+ },
+ "hcf:Bede/John 2_23#0": {
+  "text_es": "El Evangelista ha relatado arriba lo que nuestro Señor hizo en su camino a Jerusalén; ahora relata cómo otros se comportaron hacia Él en Jerusalén: «Y estando en Jerusalén en la Pascua, en el día de la fiesta, muchos creyeron en su Nombre, viendo las señales que hacía».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "da57823c1d4a"
+ },
+ "hcf:Origen of Alexandria/John 2_23#0": {
+  "text_es": "Pero (en la interpretación mística) alcanzaremos la plena medida de la fe en la gran resurrección de todo el cuerpo de Jesús, es decir, su Iglesia; ya que la fe que procede de la vista es muy diferente de la que ve como por un espejo, oscuramente.\n\n(tom. x. c. 30) Pero ¿cómo fue que muchos creyeron en Él por ver sus milagros? Pues parece que no realizó obras sobrenaturales en Jerusalén, a menos que supongamos que la Escritura las pasó por alto. ¿No podría, sin embargo, contarse como milagro el acto de hacer un azote de cuerdas pequeñas y expulsar a todos del templo?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "229b82dcbf1a"
+ },
+ "aquifer:19058": {
+  "text_es": "Juan usa aquí un juego de palabras. A causa de las señales de Jesús (milagros que muestran quién es él), muchos confiaron en él (2:23). Pero Jesús no confió en ellos de la misma manera.\n\nEsta declaración no se refiere solo a ciertas personas en Jerusalén. Muestra que Jesús sabe lo que hay dentro de cada persona. Comprende los pensamientos, los motivos (razones para actuar) y los deseos de las personas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4bd741a451f4"
+ },
+ "hcf:Bede/John 2_24-25#0": {
+  "text_es": "Una advertencia para nosotros de no confiar en nosotros mismos, sino de estar siempre ansiosos y desconfiados; sabiendo que lo que escapa a nuestro propio conocimiento no puede escapar al Juez eterno.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4ea015b2ba6d"
+ },
+ "hcf:Origen of Alexandria/John 2_24#0": {
+  "text_es": "O bien, eran aquellos que creían en su Nombre, no en Él, a quienes Jesús no se confiaba. Creen en Él los que siguen el camino estrecho que lleva a la vida; creen en su Nombre los que solo creen los milagros.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9598155bded2"
+ },
+ "hcf:Augustine of Hippo/John 2_25#1": {
+  "text_es": "El Hacedor sabía mejor lo que había en su propia obra, que la obra sabía lo que había en sí misma. Pedro no sabía lo que había en sí mismo cuando dijo: «Iré contigo hasta la muerte»; (Lucas 22:33. ver. 61) pero la respuesta de nuestro Señor mostró que Él sabía lo que hay en el hombre: «Antes que el gallo cante, me negarás tres veces».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8772dc94ffd4"
+ },
+ "hcf:Cyril of Alexandria/John 2_25#0": {
+  "text_es": "Divina es también esta excelencia, junto con las demás que hay en Cristo, y no lo es en ninguno de los seres creados. Pues a Él solo, que es verdaderamente Dios, se la atribuye el Salmista, diciendo: Él forma el corazón de todos ellos, Él considera todas sus obras. Pero si solo Dios entiende lo que hay en nosotros, y Cristo lo entiende, ¿cómo no ha de ser Dios por naturaleza, quien conoce los secretos y conoce las cosas profundas y ocultas, como está escrito? Porque ¿qué hombre conoce las cosas del hombre, sino el espíritu del hombre que está en él? Aunque ningún hombre lo conozca, Dios no lo ignorará, pues tampoco es contado en el número de todos aquellos de quienes «ningún hombre» puede predicarse con razón, sino que, siendo externo a todos y estando todas las cosas bajo sus pies, lo conocerá. Y Pablo también dará testimonio, diciendo: Porque la palabra de Dios es viva y eficaz, y más cortante que toda espada de dos filos; y penetra hasta partir el alma y el espíritu, y las coyunturas y los tuétanos, y discierne los pensamientos y las intenciones del corazón; y no hay criatura que no sea manifiesta en su presencia, sino que todas las cosas están desnudas y abiertas a los ojos de Aquel. Pues como quien plantó el oído, oye todas las cosas, y como quien formó el ojo, observa. Y en efecto, se le introduce diciendo en Job: ¿Quién es este que oculta el consejo de mí, guardando palabras en su corazón, y piensa esconderlas de mí? Para que, pues, reconozcamos que el Hijo es Dios por naturaleza, necesario es que el Evangelista diga que no tenía necesidad de que nadie testificara del hombre, porque él sabía lo que había en el hombre.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "675b41e48284",
+  "corregido_por_juez": "Error gramatical en la cita bíblica («y es discierne» en lugar de «y discierne» o «y es discernidor de»)."
+ }
+}

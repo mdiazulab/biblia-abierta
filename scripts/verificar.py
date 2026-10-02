@@ -21,13 +21,32 @@ import comun as C
 import traducir as T
 
 INGLES = set("the and of which that with from this these those would should their there is are was were "
-             "has have been not by be it his her they them".split())
+             "have been not by be it his her they them".split())
+LIBROS_ORDINAL = ("Corintios|Corinthians|Cor|Reyes|Kings|Samuel|Sam|Crónicas|Chronicles|Chron|Timoteo|Timothy|Tim|"
+                  "Tesalonicenses|Thessalonians|Thess|Tes|Pedro|Peter|Pet|Ped|Juan|John|Macabeos|Maccabees|Macc|Esdras")
+# «the Word» que nombra al Hijo (no la palabra predicada: «the Word of salvation», «sanctified it by the Word»)
+CRISTO_EN = re.compile(r"\b(?:God the Word|(?:is|was) the Word\b|uttered the Word|Word of the Father|the Word (?:was|became|"
+                       r"made|Himself|incarnate|of God,? (?:who|which|that) (?:was|is|became)))")
+# «Palabra» con mayúscula en medio de oración: o es el Hijo («el Verbo», RV1909) o va en minúscula
+PALABRA_MAY = re.compile(r"(?<![.!?¿¡«\"(\n]) (?:\w+ )?Palabra\b")
+# remisiones que no son libros: «Véase 8:48» (mismo libro), «Infra 17:24», «Ep. 112:100» (cartas de Agustín)
+NO_LIBRO = {"Véase", "Vea", "Ver", "Cf", "Comp", "Infra", "Supra", "Ep", "Epist", "Serm", "Hom", "Tract", "Tr", "Cap", "Cp", "Ibid", "Lib", "Mor", "Aug"}
+ARCAICO = re.compile(r"\b(?:saith|hath|thou|thee|thy|doth|dost|art|ye)\b")
 COMENTARIO = re.compile(r"(?i)\b(?:nota del traductor|traducción:|aquí est[aá] la traducción|here is|translator'?s note)\b|\[ES\]")
 
 
 def numeros(t):
-    t = re.sub(r"\b(III|II|I)(?= [A-ZÁÉ][a-záéíóú])", lambda m: str(len(m.group(1))), t)   # «I Corintios» = «1 Corinthians»
+    # «I Corintios» = «1 Corinthians»; solo ante libros con ordinal («I Am» de Jn 8,58 no es un número)
+    t = re.sub(r"\b(III|II|I)(?= (?:" + LIBROS_ORDINAL + r")\b)", lambda m: str(len(m.group(1))), t)
     return collections.Counter(re.findall(r"\d+", t))
+
+
+def oraciones(x):
+    """Fin de oración = signo + cierre opcional + mayúscula siguiente; las abreviaturas de las referencias
+    («tom. vi. c. 15», «i. e.», «Gen. 1:26») no cuentan."""
+    x = re.sub(r"\([^()]{0,60}\)", "", x)                          # referencias entre paréntesis
+    x = re.sub(r"\bi\. ?e\.", "", x)                                 # «i. e. I will…»
+    return len(re.findall(r"[.!?][\"”’»)]*\s+(?=[«\"“¿¡(]?[A-ZÁÉÍÓÚÑ])", x)) + 1
 
 
 def revisar(n, t, rv):
@@ -45,16 +64,24 @@ def revisar(n, t, rv):
     for term in C.glosario_para(src):
         if term.get("prohibido") and re.search(term["prohibido"], es):
             fallos.append(f"4 término prohibido para «{term['es']}»")
-    if re.search(r"\bthe Word\b", src) and "Verbo" not in es:
+    if PALABRA_MAY.search(es):
+        fallos.append("4 «Palabra» con mayúscula (el Hijo es «el Verbo»; si no, minúscula)")
+    if CRISTO_EN.search(src) and "Verbo" not in es:
         fallos.append("4 falta «Verbo»")
     pal = re.findall(r"[a-záéíóúñ]+", es.lower())
     if pal and sum(w in INGLES for w in pal) / len(pal) > 0.03:
         fallos.append("5 inglés residual")
     if re.search(r"&\w+;|<[a-z/]", es) or COMENTARIO.search(es):
         fallos.append("5 HTML, marca de prueba o comentario del modelo")
+    # las traducciones inglesas del s. XIX (NPNF, Newman, Pusey: «saith», «thou hast») son más largas: mediana 0,97 y p5 0,88 en Juan,
+    # 26 pares entre 0,79 y 0,89 leídos completos el 02-10-2026 -> mínimo 0,78; la omisión la mide el conteo de oraciones
     r = len(es) / max(1, len(src))
-    if len(src) > 300 and not 0.9 <= r <= 1.5:
+    minimo = 0.78 if n["layer"] == "padres" or ARCAICO.search(src) else 0.9
+    if len(src) > 300 and not minimo <= r <= 1.5:
         fallos.append(f"6 razón de longitud {r:.2f}")
+    o_en, o_es = (oraciones(x) for x in (src, es))
+    if o_en >= 4 and o_es < 0.75 * o_en:
+        fallos.append(f"6 posible omisión: {o_en} oraciones -> {o_es}")
     if not n.get("license") or not n.get("provenance"):
         fallos.append("7 sin licencia o procedencia")
     if n["layer"] == "padres" and not (n["source"].get("work") and (n["source"].get("passage") or n["source"].get("work"))):
@@ -65,9 +92,16 @@ def revisar(n, t, rv):
     malas = []
     norm = B.normalizar(es, malas, None)
     for x in re.findall(r"(?<!⸣ )\b((?:[1-3I]{1,3} )?[A-Z][a-zé]+\.? \d+:\d+)", norm):
+        if x.split()[-2].rstrip(".") in NO_LIBRO:
+            continue
+        fallos.append(f"+ cita sin forma única (libro inglés o abreviatura desconocida): {x}")
+    for x in re.findall(r"\((?!⸢)([A-Z][a-zé]+)\.? \d{1,3}\.?\)", norm):          # capítulo entero
+        if x in NO_LIBRO:
+            continue
         fallos.append(f"+ cita sin forma única (libro inglés o abreviatura desconocida): {x}")
     fallos += [f"+ cita bíblica inexistente: {x}" for _, x in malas]
-    return fallos
+    acept = C.cargar(f"revision/aceptados_{n['ref'].split('.')[0]}.json", {}).get(n["id"], {})   # hallazgos leídos y aceptados, con evidencia
+    return [f for f in fallos if not any(f.startswith(a) for a in acept.get("puntos", []))]
 
 
 def main():

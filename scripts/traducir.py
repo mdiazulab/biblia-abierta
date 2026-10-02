@@ -25,6 +25,7 @@ def texto_a_traducir(n):
     if n["layer"] == "padres" and p and t.lstrip().startswith(f"({p})"):
         t = t.lstrip()[len(p) + 2:].lstrip()          # el locus va en la atribución, no en el cuerpo
     # llamadas de nota de la edición inglesa pegadas a la palabra («In Him was life1.», «the preposition by1»)
+    t = re.sub(r"(?<=[a-z]) \d (?=[a-z])", " ", t)        # llamada suelta entre palabras («able to 1 gain»)
     return re.sub(NOTA_PEGADA, "", t)
 
 

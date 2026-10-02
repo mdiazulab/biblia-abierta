@@ -1,0 +1,828 @@
+{
+ "aquifer:19152": {
+  "text_es": "En esta sección, Jesús asiste a varias fiestas judías y usa su imaginería para revelar verdades más profundas acerca de sí mismo.\n\nAparece en: una fiesta de reposo (capítulo 5), la Pascua (capítulo 6), la Fiesta de los Tabernáculos (capítulos 7–9), y la Fiesta de la Dedicación (también llamada Hanukkah; capítulo 10). En cada caso, Jesús mismo reemplaza un elemento importante en las ceremonias de la fiesta.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "57b2fad79c7d",
+  "text_es_2": "En esta sección, Jesús asiste a varias fiestas judías y utiliza su simbología para revelar verdades más profundas acerca de sí mismo. \n\nAparece en: una fiesta del día de reposo (capítulo 5), la Pascua (capítulo 6), la Fiesta de los Tabernáculos (capítulos 7–9) y la Fiesta de la Dedicación (también llamada Janucá; capítulo 10). En cada caso, Jesús mismo reemplaza un elemento importante en las ceremonias de la fiesta.",
+  "modelo_2": "gemini-3.6-flash"
+ },
+ "aquifer:19153": {
+  "text_es": "Este capítulo está estructurado como un caso judicial (un juicio legal). Comienza con una descripción del evento que condujo al conflicto (5:1–15). Esto es seguido por la decisión de los líderes judíos de tomar acción contra Jesús (5:16). Luego viene una declaración de los cargos contra él (5:18). El capítulo presenta entonces la defensa dada por Jesús, donde explica su autoridad y su relación con el Padre (5:17, 19–40).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "70307634c2e8"
+ },
+ "aquifer:19158": {
+  "text_es": "⸢una fiesta de los judíos⸣: Jesús regresó a Jerusalén para esta celebración. Por esto, era probablemente una de las tres principales fiestas de peregrinación (fiestas especiales cuando la gente viajaba a Jerusalén).\n\nEn el Antiguo Testamento, Dios mandó a Israel celebrar tres de tales fiestas cada año (ver Éxodo 23:14–17; Deuteronomio 16:16). Estas eran la Fiesta de los Panes sin Levadura (también llamada Pascua), la Fiesta de las Semanas, y la Fiesta de los Tabernáculos.\n\nCada una de estas fiestas duraba alrededor de una semana. Durante ese tiempo, mucha gente se reunía en Jerusalén para adorar a Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c0c2fbded14c"
+ },
+ "hcf:Augustine of Hippo/John 5_1#1": {
+  "text_es": "Después del milagro en Galilea, regresa a Jerusalén: Después de esto había una fiesta de los judíos, y Jesús subió a Jerusalén.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "14c7dba5ba26"
+ },
+ "hcf:John Chrysostom/John 5_1#0": {
+  "text_es": "\"Después de esto había una fiesta de los judíos.\" ¿Qué \"fiesta\"? Me parece que la de Pentecostés. \"Y Jesús subió a Jerusalén.\" Continuamente en las fiestas frecuentaba la Ciudad, en parte para que pareciera que festejaba con ellos, en parte para que atrajera a la multitud que estaba libre de engaño; pues durante estos días especialmente, los más sencillos de disposición se reunían más que en otros tiempos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b393c61f6429"
+ },
+ "aquifer:19163": {
+  "text_es": "Los copistas griegos que nunca habían estado en Jerusalén tenían dificultad para interpretar y deletrear el nombre Betesda⸢,⸣ por lo que hay varias variantes de este nombre en los manuscritos. La mejor elección es ⸢Bet-esda⸣, que significa \"casa de flujo\".",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2e0361245ce3"
+ },
+ "hcf:Alcuin of York/John 5_2#0": {
+  "text_es": "El estanque junto al mercado de ovejas, es el lugar donde el sacerdote lavaba los animales que iban a ser sacrificados.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "07c114d377fa"
+ },
+ "hcf:Augustine of Hippo/John 5_2-3#1": {
+  "text_es": "Juzgando según nociones bajas y humanas de este milagro, no es en absoluto una exhibición impresionante de poder, y solo una moderada de bondad. De tantos, que yacían enfermos, solo uno fue sanado; aunque, si Él hubiera querido, podría haberlos restaurado a todos con una sola palabra. ¿Cómo debemos explicar esto? Suponiendo que su poder y bondad fueron afirmados más para impartir un conocimiento de salvación eterna al alma, que para obrar una cura temporal en el cuerpo. Lo que recibió la cura temporal estaba destinado a decaer al final, cuando llegara la muerte: mientras que el alma que creyó pasó a la vida eterna. El estanque y el agua me parecen significar el pueblo judío: pues Juan en el Apocalipsis obviamente usa agua para expresar pueblos. (Apoc. 17:15.)\n\n(Tr. xvii. c. 2) El agua entonces, es decir, el pueblo, estaba encerrada dentro de cinco pórticos, es decir, los cinco libros de Moisés. Pero esos libros solo delataban al impotente, y no lo recuperaban; es decir, la Ley convencía al pecador, pero no lo absolvía.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b9c6768c190d"
+ },
+ "hcf:Bede/John 5_2#0": {
+  "text_es": "Se describe adecuadamente como un estanque de ovejas. Por ovejas se entiende el pueblo, según el pasaje, Nosotros somos tu pueblo, y las ovejas de tu prado. (Sal. 95:7)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "edc776eb21ed"
+ },
+ "hcf:John Chrysostom/John 5_2-4#0": {
+  "text_es": "¿Qué clase de cura es esta? ¿Qué misterio nos significa? Pues estas cosas no están escritas descuidadamente, o sin un propósito, sino que como por una figura y tipo muestran en bosquejo las cosas venideras, para que lo que era extremadamente extraño no dañara al venir inesperadamente entre muchos el poder de la fe. ¿Qué es entonces lo que muestran en bosquejo? Un Bautismo estaba por ser dado, poseyendo mucho poder, y el mayor de los dones, un Bautismo que purga todos los pecados, y hace a los hombres vivos en lugar de muertos. Estas cosas entonces son prefiguradas como en un cuadro por el estanque, y por muchas otras circunstancias. Y primero se da un agua que purga las manchas de nuestros cuerpos, y aquellas contaminaciones que no son, sino que parecen ser, como las de tocar a los muertos, las de la lepra, y otras causas similares; bajo el antiguo pacto uno puede ver muchas cosas hechas por agua por esta razón.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "deb918c557bc"
+ },
+ "aquifer:19169": {
+  "text_es": "El estanque de Betesda era un lugar de sanación donde se reunían muchos enfermos. Esperaban que Dios los curara con un milagro. Algunos manuscritos posteriores incluyen un versículo adicional, Juan 5:4, que explica que un ángel agitaba el agua. Este versículo no está incluido en la Berean Standard Bible porque no aparece en los manuscritos más antiguos del Evangelio de Juan. El versículo añadido refleja una tradición temprana que ayuda a explicar por qué la gente se reunía en el estanque.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5b414a442603"
+ },
+ "hcf:Bede/John 5_3#0": {
+  "text_es": "Finalmente, muchas clases de enfermos impotentes yacían cerca del estanque: los ciegos, es decir, aquellos que están sin la luz del conocimiento; los cojos, es decir, aquellos que no tienen fuerza para hacer lo que se les manda; los secos, es decir, aquellos que no tienen la médula del amor celestial.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "30bef21093e8"
+ },
+ "hcf:Augustine of Hippo/John 5_4#1": {
+  "text_es": "Así entonces Cristo vino al pueblo judío, y por medio de obras poderosas, y lecciones provechosas, perturbó a los pecadores, es decir, el agua, y la agitación continuó hasta que Él trajo sobre sí su propia pasión. Pero Él perturbó el agua, desconocido para el mundo. Pues si lo hubieran conocido, no habrían crucificado al Señor de gloria. (1 Cor. 11) Pero la perturbación del agua vino sobre todos a la vez, y no se vio quién la perturbó. De nuevo, descender al agua perturbada, es creer humildemente en la pasión de nuestro Señor. Solo uno fue sanado, para significar la unidad de la Iglesia: quienquiera que viniera después no era sanado, para significar que quienquiera que esté fuera de esta unidad no puede ser sanado. ¡Ay de aquellos que odian la unidad, y levantan sectas!",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7aebe4248c90"
+ },
+ "aquifer:19174": {
+  "text_es": "No existía un sistema de cuidado organizado para ayudar a este hombre. Había estado enfermo durante 38 años.\n\nProbablemente no podía mantenerse limpio. Probablemente no podía moverse fácilmente por sí mismo. Muy probablemente, dependía de mendigar de las personas que venían al estanque (ver 5:7). Desde un punto de vista humano, su situación parecía desesperada.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8633763df0a3"
+ },
+ "hcf:Augustine of Hippo/John 5_5#3": {
+  "text_es": "Fue un acto mayor en Cristo, sanar las enfermedades del alma, que las dolencias del cuerpo perecedero. Pero como el alma misma no conocía a su Restaurador, ya que tenía ojos en la carne para discernir las cosas visibles, pero no en el corazón con que conocer a Dios; nuestro Señor realizó curas que podían ser vistas, para que después pudiera obrar curas que no podían ser vistas. Fue al lugar, donde yacía una multitud de enfermos, de los cuales escogió uno para sanar: Y estaba allí un cierto hombre, que había estado enfermo treinta y ocho años.\n\n(Tr. xvii. c. 3) De nuevo, el que fue sanado había tenido su enfermedad treinta y ocho años: siendo este un número que pertenece a la enfermedad, más que a la salud. El número cuarenta tiene un carácter sagrado entre nosotros, y es significativo de perfección. Pues la Ley fue dada en Diez Mandamientos, y debía ser predicada por todo el mundo, que consiste de cuatro partes; y cuatro multiplicado por diez, forma el número cuarenta. Y la Ley también es cumplida por el Evangelio, que está escrito en cuatro libros. Así entonces si el número cuarenta posee la perfección de la Ley, y nada cumple la Ley, excepto el doble precepto del amor, ¿por qué maravillarse de la impotencia de aquel, que estaba dos menos que cuarenta? Algún hombre era necesario para su recuperación; pero era un hombre que era Dios. Encontró al hombre falto por el número dos, y por lo tanto dio dos mandamientos, para llenar la deficiencia. Pues los dos preceptos de nuestro Señor significan amor; el amor de Dios siendo primero en orden de mandato, el amor del prójimo, en orden de cumplimiento.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a4deef5695c0"
+ },
+ "hcf:John Chrysostom/John 5_5#0": {
+  "text_es": "Avergoncémonos entonces, amados, avergoncémonos, y gimamos por nuestra excesiva pereza. \"Treinta y ocho años\" había estado aquel hombre esperando sin obtener lo que deseaba, y no se retiró. Y no había fallado por ninguna negligencia propia, sino por ser oprimido y sufrir violencia de otros, y ni aun así se volvió insensible; mientras que nosotros si hemos persistido por diez días en orar por algo y no lo hemos obtenido, somos demasiado perezosos después para emplear el mismo celo. Y por los hombres esperamos por tanto tiempo, guerreando y soportando dificultades y realizando ministerios serviles, y a menudo al final fallando en nuestra expectativa, pero en nuestro Maestro, de quien estamos seguros de obtener una recompensa mayor que nuestros trabajos, (pues, dice el Apóstol, \"la esperanza no avergüenza\"-Rom. v. 5,) en Él no soportamos esperar con la diligencia debida.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4ad97b42b5f8"
+ },
+ "hcf:Augustine of Hippo/John 5_6-7#0": {
+  "text_es": "Veamos, pues, ahora el sagrado misterio por el cual este hombre impotente es sanado por el Señor. El mismo Señor vino, el Maestro del amor, lleno de amor, «abreviando», como estaba predicho de Él, «la palabra sobre la tierra», y mostró que la ley y los profetas dependen de dos preceptos de amor. De estos pendía Moisés con su número cuarenta, de estos Elías con el suyo; y el Señor introdujo este número en su testimonio. Este hombre impotente es sanado por el Señor en persona; pero antes de sanarlo, ¿qué le dice? «¿Quieres ser sano?» El hombre respondió que no tenía un hombre que lo metiera en el estanque. En verdad necesitaba de un «hombre» para su sanación, pero ese «hombre» que es también Dios. «Porque hay un solo Dios, y un solo mediador entre Dios y los hombres, el hombre Cristo Jesús.» Vino, pues, el Hombre que era necesario: ¿por qué había de demorarse la sanación? «Levántate», dice; «toma tu lecho, y anda.» Dijo tres cosas: «Levántate, toma tu lecho, y anda.» Pero aquel «levántate» no fue un mandato para hacer una obra, sino la operación de la sanación. Y el hombre, al ser sanado, recibió dos mandatos: «Toma tu lecho, y anda.» Os pregunto, ¿por qué no bastó decir: «Anda»? O, en todo caso, ¿por qué no bastó decir: «Levántate»? Pues cuando el hombre se hubo levantado sano, no habría permanecido en el lugar. ¿No sería con el propósito de irse que se habría levantado? Mi impresión es que Aquel que encontró al hombre falto de dos cosas, le dio estos dos preceptos: pues, al ordenarle hacer dos cosas, es como si supliera lo que faltaba.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "415acee8c6bc"
+ },
+ "hcf:Cyril of Alexandria/John 5_6#0": {
+  "text_es": "Prueba evidente de la extrema bondad de Cristo, que no espera las súplicas de los enfermos, sino que se anticipa a su petición por su amorosa benignidad. Pues corre, como ves, hacia él mientras yace, y se compadece del que estaba enfermo sin consuelo. Pero la pregunta de si deseaba ser librado de su enfermedad no era la de uno que pregunta por ignorancia una cosa manifiesta y evidente para todos, sino la de uno que incita a un deseo más ferviente, y mueve a una súplica diligentísima. La pregunta de si quería obtener lo que anhelaba está preñada de una especie de fuerza y expresión, de que Él tiene el poder de dar, y está ya dispuesto a ello, y solo espera la petición del que recibe la gracia.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ddb1d54d0da9"
+ },
+ "hcf:Cyril of Alexandria/John 5_7#0": {
+  "text_es": "En el día de la santa Pentecostés, los ángeles que descendían del cielo solían agitar el agua del estanque, y luego hacían del chapoteo de allí el heraldo de su presencia. Y el agua era santificada por los santos espíritus, y quien de la multitud de enfermos se adelantaba en descender, volvía a subir aliviado del sufrimiento que lo afligía; sin embargo, a uno solo, al que primero lo tomaba, se le medía el poder de la sanación. Pero esto también era una señal del beneficio de la ley por manos de los ángeles, que se extendía a la sola raza de los judíos, y no sanaba a ningún otro sino a ellos. Pues desde Dan, así llamado, hasta Beerseba, los mandamientos dados por Moisés fueron pronunciados, ministrados por ángeles en el monte Sinaí en los días señalados después como la santa Pentecostés. Por esta razón, el agua del estanque tampoco solía ser agitada en ningún otro tiempo, significando con ello el descenso de los santos ángeles sobre ella. El paralítico, pues, no teniendo a nadie que lo empujara al agua, con la enfermedad que lo tenía, lamentaba la falta de sanadores, diciendo: No tengo hombre, a saber, que me meta en el agua. Pues esperaba plenamente que Jesús le diría y le aconsejaría esto.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f0e8dbdb753c"
+ },
+ "aquifer:19175": {
+  "text_es": "Jesús sanó al enfermo de inmediato y solo le pidió que obedeciera. Para probar que el hombre estaba sanado, Jesús le dijo que recogiera su camilla y anduviera. Jesús realizó este milagro en el sábado. El sábado era un día semanal de descanso. La ley de Moisés decía que no se debía hacer ningún trabajo en ese día (basado en Génesis 2:2; Éxodo 20:8). La tradición judía identificaba 39 tipos de trabajo que no estaban permitidos (⸢Mishnah Shabbat⸣ 7:2). Una regla decía que una persona no podía llevar un objeto, como una camilla, de un lugar a otro (Juan 5:10). \n\nJesús le dijo al hombre sanado que recogiera su camilla y anduviera. Cuando el hombre obedeció a Jesús, quebrantó esta tradición judía posterior.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c00cc9957613"
+ },
+ "hcf:Augustine of Hippo/John 5_8#2": {
+  "text_es": "Tres mandatos distintos. Levantarse, sin embargo, no es un mandato, sino la concesión de la cura. Dos mandatos fueron dados tras su cura: toma tu lecho, y anda.\n\n(Tr. xvii. c. 3) Toma tu lecho, dice nuestro Señor, es decir: Cuando estabas impotente, tu prójimo te llevaba; ahora que estás sano, lleva a tu prójimo. Y anda; pero ¿a dónde, sino al Señor tu Dios?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "049bce61e14a"
+ },
+ "hcf:Bede/John 5_8#0": {
+  "text_es": "Hay una gran diferencia entre el modo de sanar de nuestro Señor y el de un médico. Él actúa por su palabra, y actúa de inmediato: el otro requiere un largo tiempo para su realización.\n\n¿Qué significan las palabras: Levántate, y anda; sino que te levantes de tu torpor e indolencia, y te apliques a avanzar en buenas obras. Toma tu lecho, es decir, tu prójimo por el cual eres llevado, y sopórtalo tú mismo con paciencia.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cb9497aac4e0"
+ },
+ "hcf:Cyril of Alexandria/John 5_8#0": {
+  "text_es": "Digna de Dios es la orden, y posee la más clara evidencia de poder y autoridad sobre el hombre. Pues no ruega por la liberación de su enfermedad para el paciente, no sea que también Él parezca ser como uno de los santos Profetas, sino que como el Señor de los Poderes manda con autoridad que así sea, diciéndole que vaya a casa gozoso, que tome su lecho sobre sus hombros, que sea un recordatorio para los espectadores del poder de Aquel que lo había sanado. De inmediato el enfermo hace lo que se le manda, y por la obediencia y la fe gana para sí la gracia tres veces anhelada. Pero puesto que en lo anterior lo presentamos como imagen y tipo de la multitud de los judíos, que serían sanados en los últimos tiempos: vengan, pensemos de nuevo en algo que armonice con los pensamientos pertinentes a esto, análogo a los antes examinados.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fc064f93f26e"
+ },
+ "hcf:Cyril of Alexandria/John 5_9#0": {
+  "text_es": "En el día del sábado sana Cristo al hombre, y una vez sanado le ordena inmediatamente quebrantar la costumbre de la ley, induciéndolo a andar en el sábado y esto cargado con su lecho, aunque Dios claramente clama por uno de los santos Profetas: No saquéis carga de vuestras casas en el día del sábado. Y nadie, supongo, que sea sensato diría que el hombre fue hecho despreciador o rebelde a los mandamientos divinos, sino que como en un tipo Cristo daba a conocer a los judíos que serían sanados por la obediencia y la fe en los últimos tiempos del mundo (pues esto creo que significa el sábado, siendo el último día de la semana): pero que una vez recibida la sanación por la fe, y habiendo sido remodelados para novedad de vida, era necesario que la vejez de la letra de la ley quedara sin efecto, y que el culto típico como en sombras y la vana observancia de la costumbre judía fuera rechazado. De ahí (creo) que también el bienaventurado Pablo, tomando ocasión de hablar, escribe a los que después de la fe volvían de nuevo a la Ley: Os digo que si os circuncidáis, Cristo no os aprovechará nada; y de nuevo: Separados estáis de Cristo, los que por la ley os justificáis; de la gracia habéis caído.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7c79ec36df72"
+ },
+ "hcf:Augustine of Hippo/John 5_10#0": {
+  "text_es": "No acusaron a nuestro Señor de sanar en el sábado, pues Él habría respondido que si un buey o un asno de ellos hubiera caído en un pozo, ¿no lo habrían sacado en el día del sábado?; sino que se dirigieron al hombre mientras cargaba su lecho, como diciendo: Aunque la sanación no pudiera demorarse, ¿por qué ordenar el trabajo?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c20d6a700a1f"
+ },
+ "hcf:Cyril of Alexandria/John 5_10#0": {
+  "text_es": "Muy oportunamente (creo) clama sobre ellos: «Oíd ahora esto, pueblo necio y sin corazón, que tienen ojos y no ven». Pues ¿qué puede haber más ignorante que tales personas, o qué mayor insensatez? Porque ni siquiera admiten en su mente que debieran maravillarse del poder del Sanador; antes bien, siendo amargos reprensores, y expertos solo en esto, acusan de quebrantar la ley a quien apenas y con dificultad se había recuperado de una larga enfermedad, y neciamente le mandan que se acueste de nuevo, como si el honor debido al sábado se pagara con tener que estar enfermo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "dd8f9fe2d9a0",
+  "corregido_por_juez": "Error de traducción al interpretar «just» como «justa» (en lugar de «apenas» o «recientemente») y errata en «reprenssores»."
+ },
+ "hcf:Augustine of Hippo/John 5_11#0": {
+  "text_es": "Se escuda bajo la autoridad de su Sanador: El que me sanó, el mismo me dijo: Toma tu lecho, y anda: es decir, ¿por qué no he de recibir un mandato, si de Él recibí una cura?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0701c504acbd"
+ },
+ "hcf:Cyril of Alexandria/John 5_11#0": {
+  "text_es": "La sentencia está repleta de sapientísimo sentido y repulsa la obstinación de los judíos. Pues en que dicen que no es lícito en el día del sábado tomar su lecho e ir a casa, tramando una acusación de quebrantar la ley contra el que fue sanado, necesariamente les opone una defensa más resuelta, diciendo que le había sido ordenado andar por Aquel que se le manifestó como el Dador de la salud, casi diciendo algo de este tenor: Dignísimo de honor (señores) digo que es Él, aunque me mande violar el honor del sábado, quien tiene tan gran poder y gracia, como para ahuyentar mi enfermedad. Pues si la excelencia en estas cosas no pertenece a cualquier hombre casual, sino que convendrá más bien al Poder y la Fuerza dignos de Dios, ¿cómo (dice) hará mal el obrador de estas cosas? ¿o cómo no ha de aconsejar ciertamente lo que es agradable a Dios el que está poseído de un Poder digno de Dios? El discurso, pues, tiene en sí mismo algún sentido punzante.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0d7fdb01b7df"
+ },
+ "aquifer:19154": {
+  "text_es": "⸢Quién es este hombre que te dijo⸣: El foco de la historia cambia ahora. Pasa de la alegría de un milagro a una acusación por quebrantar el sábado.\n\nLos líderes religiosos querían saber quién le dijo al hombre que cargara su camilla. Pidieron el nombre del sanador que había quebrantado su tradición.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "be452512f4ba"
+ },
+ "hcf:Augustine of Hippo/John 5_12#0": {
+  "text_es": "Y él, en su defensa, puso al autor de su curación delante de sus censores, diciendo: «El que me sanó, él mismo me dijo: Toma tu lecho y anda». ¿No he de recibir la orden de aquel de quien recibí la curación? Y ellos dijeron: «¿Quién es el hombre que te dijo: Toma tu lecho y anda?».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "18036615c4ad"
+ },
+ "hcf:John Chrysostom/John 5_12-13#0": {
+  "text_es": "«¿Quién es el hombre que te dijo: Toma tu lecho y anda? Y el que fue sanado no sabía quién era; porque Jesús se había retirado, habiendo mucha gente en aquel lugar».\n\n¿Y por qué se ocultó Jesús? En primer lugar, para que, estando él ausente, el testimonio del hombre fuera insospechable, pues quien ahora se sentía sano era testigo creíble del beneficio. Y en segundo lugar, para no inflamar aún más la furia de los judíos, pues la sola vista de aquel a quien envidian suele encender no pequeña chispa en las personas maliciosas. Por esta razón se retiró y dejó que el hecho mismo defendiera su causa entre ellos, para no decir nada en persona respecto de sí mismo, sino que lo hicieran quienes habían sido sanados, y junto con ellos también los acusadores. Incluso estos últimos por un tiempo dan testimonio del milagro, pues no dijeron: «¿Por qué has mandado que se hicieran estas cosas en el día de reposo?», sino: «¿Por qué haces estas cosas en el día de reposo?», no disgustados por la transgresión, sino envidiosos de la restauración del paralítico.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "50ef24625b49"
+ },
+ "hcf:Augustine of Hippo/John 5_13#1": {
+  "text_es": "Lleva, pues, contigo a aquel con quien caminas, para que puedas llegar a Aquel con quien deseas permanecer. Sin embargo, aún no sabía quién era Jesús; así como también nosotros creemos en él aunque no lo vemos. Jesús de nuevo no quiere ser visto, sino que se aparta de la multitud. Es en una especie de soledad de la mente donde Dios es visto: la multitud es ruidosa; esta visión requiere quietud.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "66438e96715e"
+ },
+ "hcf:Cyril of Alexandria/John 5_13#0": {
+  "text_es": "Insaciable de sangre es la mente de los judíos. Pues buscan quién era el que había mandado esto, con el designio de involucrarlo junto con el milagrosamente sanado (pues solo él, al parecer, estaba por molestarles respecto del día de reposo, quien acababa de escapar de lazos y trampas infranqueables, y había sido arrancado de las mismas puertas de la muerte); pero no pudo decir quién era su Médico, aunque ellos hacen diligentes averiguaciones, habiéndose ocultado Cristo bien y económicamente, para escapar del ardor presente de su ira. Y no como si pudiera sufrir algo por necesidad, a menos que quisiera sufrir, practica la huida; sino haciéndose también en esto un Ejemplo para nosotros.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "864562c65f03"
+ },
+ "aquifer:19155": {
+  "text_es": "⸢No peques más⸣: Aunque Jesús sanó a este hombre físicamente, el hombre aún necesitaba aprender a obedecer al Señor. La siguiente acción del hombre (5:15) podría indicar que no escuchó.",
+  "lemas_es": [
+   "No peques más"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1c4253c2cc1d",
+  "lemas_rv1909": [
+   {
+    "lema": "no peques más",
+    "ref": "JHN.5.14"
+   }
+  ]
+ },
+ "hcf:Alcuin of York/John 5_14#0": {
+  "text_es": "c. Pues si queremos conocer la gracia de nuestro Hacedor y alcanzar la visión de él, debemos evitar la multitud de malos pensamientos y afectos, apartarnos de la congregación de los impíos y huir al templo; a fin de que nos hagamos templo de Dios, almas que Dios visitará y en quienes se dignará habitar.\nY le dijo: He aquí, has sido sanado; no peques más, para que no te venga algo peor.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b5afd39eb3a9"
+ },
+ "hcf:Augustine of Hippo/John 5_14#1": {
+  "text_es": "El Señor Jesús lo vio tanto en la multitud como en el templo. El hombre impotente no reconoce a Jesús en la multitud; pero en el templo, siendo un lugar sagrado, sí lo reconoce.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "040844fb06ec"
+ },
+ "hcf:John Chrysostom/John 5_14#7": {
+  "text_es": "Y no solo fortaleciendo el cuerpo del enfermo, sino también de otra manera, le dio una fuerte prueba de su Divinidad; pues al decir: «No peques más», mostró que conocía todas las transgresiones que él había cometido anteriormente; y con esto ganaría su creencia en cuanto al futuro.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c34fe0ee6532"
+ },
+ "hcf:Augustine of Hippo/John 5_15#1": {
+  "text_es": "Ahora que el hombre había visto a Jesús y sabía que él era el autor de su recuperación, no tardó en predicarlo a otros: El hombre se fue y dijo a los judíos que era Jesús quien lo había sanado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4bad787dea3b"
+ },
+ "hcf:John Chrysostom/John 5_15#2": {
+  "text_es": "Además, si hubiera querido calumniarlo, no habría dicho nada acerca de su propia curación, sino que habría mencionado y esgrimido contra él la violación del día de reposo. Pero no es este el caso, ciertamente no lo es; las palabras son palabras de gran audacia y franqueza; proclama a su Benefactor no menos de lo que lo hizo el ciego. Pues ¿qué dijo este? «Hizo lodo y ungió mis ojos» (c. ix. 6); y así este hombre de quien ahora hablamos: «Es Jesús quien me ha sanado».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a90ad94f5aee"
+ },
+ "hcf:Augustine of Hippo/John 5_16-17#0": {
+  "text_es": "Este anuncio los enfureció, Y por eso los judíos perseguían a Jesús, porque había hecho estas cosas en el día de reposo. Una obra corporal evidente había sido hecha ante sus ojos, distinta de la curación del cuerpo del hombre, y que no habría podido ser necesaria, incluso si la curación lo era; a saber, el llevar el lecho. Por lo cual nuestro Señor dice abiertamente que el sacramento del día de reposo, la señal de observar uno de cada siete días, era solo una institución temporal, que había alcanzado su cumplimiento en él: Pero Jesús les respondió: Mi Padre hasta ahora trabaja, y yo trabajo; como si dijera: No supongáis que mi Padre reposó en el día de reposo en tal sentido que desde entonces haya cesado de trabajar; pues él trabaja hasta ahora, aunque sin fatiga, y así trabajo yo. El reposo de Dios significa solamente que no hizo ninguna otra criatura después de la creación. La Escritura lo llama reposo para recordarnos el reposo que disfrutaremos después de una vida de buenas obras aquí. Y así como Dios, solo cuando hubo hecho al hombre a su propia imagen y semejanza, y acabado todas sus obras, y visto que eran muy buenas, reposó en el séptimo día: así también tú no esperes reposo, a menos que vuelvas a la semejanza en que fuiste hecho, pero que has perdido por el pecado; es decir, a menos que hagas buenas obras.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8dee8e67ca84"
+ },
+ "hcf:Augustine of Hippo/John 5_16-17#1": {
+  "text_es": "Puede decirse entonces que la observancia del día de reposo fue impuesta a los judíos como la sombra de algo venidero; a saber, aquel reposo espiritual que Dios, mediante la figura de su propio reposo, prometió a todos los que realizaran buenas obras.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cc76061dbd13"
+ },
+ "hcf:Augustine of Hippo/John 5_16-17#2": {
+  "text_es": "Habrá un día de reposo del mundo, cuando las seis edades, es decir, los seis días, por así decirlo, del mundo, hayan pasado: entonces vendrá aquel reposo que está prometido a los santos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e01ba7d2b63d"
+ },
+ "aquifer:19156": {
+  "text_es": "⸢Mi Padre hasta ahora trabaja, y yo trabajo⸣: El día de reposo era un día de descanso. No se suponía que la gente trabajara.\n\nSin embargo, los maestros judíos coincidían en que Dios seguía trabajando en el día de reposo. Dios da vida mediante el nacimiento. Dios también quita la vida en la muerte. La obra de Dios no se detiene.\n\nJesús usó esta idea para explicar sus acciones. Dijo que, como su Padre, él también estaba trabajando. Al hablar así, Jesús se comparó con Dios.\n\nLos líderes judíos entendieron lo que quería decir. Objetaron porque creían que estaba reclamando un derecho especial que pertenece solo a Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f5b12c940bfb"
+ },
+ "hcf:Augustine of Hippo/John 5_17#7": {
+  "text_es": "El misterio de cuyo reposo el mismo Señor Jesús selló con su sepultura; pues reposó en su sepulcro en el día de reposo, habiendo acabado el sexto día toda su obra, en cuanto dijo: Consumado es. (c. 19) ¿Qué maravilla entonces que Dios, para prefigurar el día en que Cristo había de reposar en el sepulcro, reposara un día de sus obras, para después continuar la obra de gobernar el mundo? Podemos considerar también que Dios, cuando reposó, reposó simplemente de la obra de la creación, es decir, no hizo más clases nuevas de criaturas; pero que desde entonces hasta ahora ha estado llevando a cabo el gobierno de aquellas criaturas. Pues su poder, en lo que respecta al gobierno del cielo y de la tierra, y de todas las cosas que había hecho, no cesó en el séptimo día; habrían perecido inmediatamente, sin su gobierno; porque el poder del Creador es aquel del que depende la existencia de toda criatura. Si dejara de gobernar, toda especie de creación dejaría de existir; y toda la naturaleza se reduciría a nada. Pues el mundo no es como un edificio, que se mantiene en pie después de que el arquitecto lo ha dejado; no podría mantenerse en pie ni un abrir y cerrar de ojos, si Dios retirara su mano gobernante. Por lo tanto, cuando nuestro Señor dice: Mi Padre hasta ahora trabaja, se refiere a la continuación de la obra; la cohesión y el gobierno de la creación. Habría sido diferente si hubiera dicho: Trabaja incluso ahora. Esto no habría transmitido el sentido de continuación. Como está, lo encontramos: Hasta ahora; es decir, desde el tiempo de la creación en adelante.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "338790f481d5"
+ },
+ "hcf:Augustine of Hippo/John 5_17#8": {
+  "text_es": "Dice entonces, por así decirlo, a los judíos: ¿Por qué pensáis que yo no debería trabajar en el día de reposo? El día de reposo fue instituido como un tipo de mí. Vosotros observáis las obras de Dios: por mí fueron hechas todas las cosas. El Padre hizo la luz, pero habló para que fuera hecha. Si habló, entonces la hizo por el Verbo; y yo soy su Verbo. Mi Padre trabajó cuando hizo el mundo, y trabaja hasta ahora, gobernando el mundo; y así como hizo el mundo por mí cuando lo hizo, así lo gobierna por mí ahora que lo gobierna.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d53aeba6751d"
+ },
+ "hcf:Augustine of Hippo/John 5_17-18#0": {
+  "text_es": "Las palabras: Mi Padre hasta ahora trabaja, y yo trabajo, suponen que él es igual al Padre. Entendido esto, del trabajar del Padre se seguía que el Hijo trabajara; en cuanto que el Padre nada hace sin el Hijo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "85bcbeb5536a"
+ },
+ "hcf:John Chrysostom/John 5_17#3": {
+  "text_es": "Y esto puede verse más claramente por lo que había dicho antes, pues «Mi Padre trabaja, y yo trabajo» es la expresión de uno que se declara igual a Dios. Pues en estas palabras no ha marcado ninguna diferencia. No dijo: «Él trabaja, y yo sirvo», sino: «Como él trabaja, así trabajo yo»; y ha declarado absoluta Igualdad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0c60ea4792fa"
+ },
+ "hcf:Augustine of Hippo/John 5_18#2": {
+  "text_es": "Es decir, no en el sentido secundario en que es verdad respecto de todos nosotros, sino como implicando igualdad. Pues todos nosotros decimos a Dios: Padre nuestro que estás en los cielos. (Mat. 6) Y los judíos dicen: Tú eres nuestro Padre. (Isaías 63:16) No se enojaron entonces porque llamara a Dios su Padre, sino porque lo llamó así en un sentido diferente del de los hombres.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7b142ad0be12"
+ },
+ "hcf:Augustine of Hippo/John 5_18#3": {
+  "text_es": "Así, los judíos entendieron lo que los arrianos no entienden. Pues los arrianos dicen que el Hijo no es igual al Padre, y de ahí brotó aquella herejía que aflige a la Iglesia.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9fd1a1eaf230"
+ },
+ "hcf:Augustine of Hippo/John 5_18#4": {
+  "text_es": "Los judíos, sin embargo, no entendieron de nuestro Señor que Él era el Hijo de Dios, sino solo que era igual a Dios; aunque Cristo dio esto como resultado de ser Él el Hijo de Dios. Es por no ver esto, mientras veían al mismo tiempo que se afirmaba la igualdad, que lo acusaron de hacerse igual a Dios: siendo la verdad que Él no se hizo igual, sino que el Padre lo había engendrado igual.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "17da750f866a"
+ },
+ "hcf:Hilary of Poitiers/John 5_18#0": {
+  "text_es": "El Evangelista explica aquí por qué los judíos querían matarlo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c95e0dda4964"
+ },
+ "hcf:John Chrysostom/John 5_18#0": {
+  "text_es": "«Por esto los judíos procuraban más matarle, porque no solo quebrantaba el sábado, sino que también decía que Dios era su Padre, haciéndose igual a Dios.» Y esto lo afirmaba no solo con palabras, sino con obras, pues no solo en el discurso, sino también, y aún más a menudo, con acciones lo declaraba. ¿Por qué así? Porque podrían objetar a sus palabras y acusarlo de arrogancia, pero cuando vieron la verdad de sus acciones probada por los resultados, y su poder proclamado por las obras, después de eso no pudieron decir nada contra Él.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "278affcc26db"
+ },
+ "aquifer:19157": {
+  "text_es": "Jesús afirmó que su obra en el sábado era la misma que la obra de Dios en el sábado. Jesús afirmó ser igual a Dios, haciendo las cosas que Dios hace. Sin embargo, se sometió a la voluntad de Dios, haciendo solo lo que el Padre quería.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "86d90c7c212b"
+ },
+ "hcf:Augustine of Hippo/John 5_19#20": {
+  "text_es": "Los judíos, sin embargo, no entendieron de nuestro Señor que Él era el Hijo de Dios, sino solo que era igual a Dios; aunque Cristo dio esto como resultado de ser Él el Hijo de Dios. Es por no ver esto, mientras veían al mismo tiempo que se afirmaba la igualdad, que lo acusaron de hacerse igual a Dios: siendo la verdad que Él no se hizo igual, sino que el Padre lo había engendrado igual.\n\n(Tr. xviii. 3, 5) Algunos que quieren ser tenidos por cristianos, los herejes arrianos, que dicen que el mismo Hijo de Dios que tomó nuestra carne sobre sí era inferior al Padre, aprovechan estas palabras para desacreditar nuestra doctrina, y dicen: Veis que cuando nuestro Señor percibió que los judíos se indignaban, porque parecía hacerse igual a Dios, dio una respuesta tal que mostró que no era igual. Pues dicen: el que no puede hacer nada sino lo que ve hacer al Padre no es igual sino inferior al Padre. Pero si hay un Dios mayor y un Dios menor, (siendo el Verbo Dios,) adoramos a dos Dioses, y no a uno.\n\n(Tr. xx. 4) Como si dijera: ¿Por qué os ofendéis de que yo llamara a Dios mi Padre, y de que me haga igual a Dios? Soy igual, pero igual en un sentido que es compatible con que Él me haya engendrado; con que yo sea de Él, no Él de mí. En el Hijo, el ser y el poder son una y la misma cosa. Siendo, pues, la Sustancia del Hijo del Padre, el poder del Hijo es también del Padre; y así como el Hijo no es de sí mismo, tampoco puede de sí mismo. El Hijo no puede hacer nada de sí mismo, sino lo que ve hacer al Padre.— (xxi. 4). Su ver y su ser engendrado del Padre son lo mismo. Su visión no es distinta de su Sustancia, sino que todo junto es del Padre.\n\n(ii. de Tr. c. 3) Si entendemos que esta subordinación del Hijo surge de la naturaleza humana, se seguirá que el Padre caminó primero sobre el agua, e hizo todas las demás cosas que el Hijo hizo en la carne, para que el Hijo las hiciera. ¿Quién puede ser tan insensato como para pensar esto?\n\n(Tr. xx. s. 6) Sin embargo, aquel caminar de la carne sobre el mar fue hecho por el Padre a través del Hijo. Pues cuando la carne caminaba, y la Divinidad del Hijo guiaba, el Padre no estaba ausente, como el mismo Hijo dice más abajo: El Padre que mora en mí, Él hace las obras. (c. 14) (s. 9). Guarda, sin embargo, contra la interpretación carnal de las palabras: El Hijo no puede hacer nada de sí mismo. (v. 19) Como si el caso fuera como el de dos artesanos, maestro y discípulo, uno de los cuales hizo un cofre, y el otro hizo otro semejante, al añadir: Porque todo lo que él hace, esto también hace el Hijo de igual manera. No dice: Todo lo que el Padre hace, el Hijo hace otras cosas semejantes, sino las mismas cosas. El Padre hizo el mundo, el Hijo hizo el mundo, el Espíritu Santo hizo el mundo. Si el Padre, el Hijo y el Espíritu Santo son uno, se sigue que uno y el mismo mundo fue hecho por el Padre, a través del Hijo, en el Espíritu Santo. Así, es la misma cosa la que hace el Hijo. Añade igualmente, para prevenir que surja otro error. Pues el cuerpo parece hacer las mismas cosas que la mente, pero no las hace de la misma manera, en cuanto que el cuerpo está sujeto, el alma gobierna, el cuerpo es visible, el alma invisible. Cuando un esclavo hace una cosa por mandato de su señor, la misma cosa es hecha por ambos; pero ¿es de la misma manera? Ahora bien, en el Padre y el Hijo no existe esta diferencia; hacen las mismas cosas, y de la misma manera. Padre e Hijo actúan con el mismo poder; de modo que el Hijo es igual al Padre.\n\n(contra Serm. Arianorum, c. 9. [xiv.]) Esto no es señal de deficiencia en Él, sino de su permanencia en su nacimiento del Padre. Y es un atributo tan alto del Todopoderoso que no cambia, como que no muere. El Hijo podría hacer lo que no había visto hacer al Padre, si pudiera hacer lo que el Padre no hace a través de Él; es decir, si pudiera pecar: una suposición inconsistente con la naturaleza inmutablemente buena que fue engendrada del Padre. Eso no puede hacer; esto, entonces, debe entenderse de Él, no en el sentido de deficiencia, sino de poder.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "39605a1a60da"
+ },
+ "hcf:Hilary of Poitiers/John 5_19-20#0": {
+  "text_es": "Se refiere a la acusación de violar el sábado, presentada contra Él. Mi Padre trabaja hasta ahora, y yo trabajo; queriendo decir que tenía un precedente para reclamar el derecho que reclamaba; y que lo que hacía era en realidad obra de su Padre, que actuaba en el Hijo. Y para calmar los celos que se habían suscitado, porque mediante el uso del nombre de su Padre se había hecho igual a Dios, y para afirmar la excelencia de su nacimiento y naturaleza, dice: De cierto, de cierto os digo: El Hijo no puede hacer nada de sí mismo, sino lo que ve hacer al Padre.\n\n(vii. de Tr. c. 17.) Para que, entonces, aquella afirmación de su igualdad, que debe pertenecerle, como por Nombre y Naturaleza el Hijo, no arrojara duda sobre su Natividad, dice que el Hijo no puede hacer nada de sí mismo.\n\n(vii. de Tr. c. 17) Para que el orden saludable de nuestra confesión, es decir, que creamos en el Padre y en el Hijo, permaneciera, muestra la naturaleza de su nacimiento; a saber, que derivó el poder de actuar no de un acceso de fuerza suministrada para cada obra, sino por su propio conocimiento en primer lugar. Y este conocimiento lo derivó no de precedentes visibles particulares, como si lo que el Padre había hecho, el Hijo pudiera hacerlo después; sino que el Hijo, siendo engendrado del Padre, y consecuentemente consciente de la virtud y naturaleza del Padre dentro de Él, no podía hacer nada sino lo que veía hacer al Padre: como aquí testifica; Dios no ve por órganos corporales, sino por la virtud de su naturaleza.\n\n(vii. de Tr. c. 18) O así: Todas las cosas y las mismas, dice, para mostrar la virtud de su naturaleza, su ser la misma que la de Dios. Esa es la misma naturaleza, que puede hacer todas las mismas cosas. Y como el Hijo hace todas las mismas cosas de una manera semejante, la semejanza de las obras excluye la noción de que el obrador exista solo. Así llegamos a una verdadera idea de la Natividad, tal como nuestra fe la recibe: la semejanza de las obras da testimonio de la Natividad, su identidad de la Naturaleza.\n\n(vii. de Trin. c. 19) No debe suponerse que el Dios Unigénito necesitara tal mostración a causa de ignorancia. Pues la mostración aquí es solo la doctrina de la natividad; el Hijo autoexistente, del Padre autoexistente.\n\n(vii. de Trin. c. 19) Ni careció el discurso celestial de la cautela, para guardar contra que infiriéramos de estas palabras alguna diferencia en la naturaleza del Hijo y del Padre. Pues dice que las obras del Padre le fueron mostradas, no que se le suministrara fuerza para hacerlas, a fin de enseñar que esta mostración sustancialmente no es otra cosa que su nacimiento; pues que simultáneamente con el Hijo mismo nace el conocimiento del Hijo de las obras que el Padre hará a través de Él.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "baa627504b7e"
+ },
+ "hcf:John Chrysostom/John 5_19#1": {
+  "text_es": "¿Qué significa entonces: «No puede hacer nada de sí mismo»? Que no puede hacer nada en oposición al Padre, nada ajeno a Él, nada extraño a Él, lo cual es especialmente la afirmación de Uno que declara una Igualdad y una entera concordia.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "91609859c0dd"
+ },
+ "hcf:Augustine of Hippo/John 5_20#8": {
+  "text_es": "Habiendo dicho que Él hacía las mismas cosas que el Padre hacía, y de manera semejante, añade: Porque el Padre ama al Hijo, y le muestra todas las cosas que Él mismo hace. Y le muestra todas las cosas que Él mismo hace: esto tiene referencia a las palabras anteriores; Pero lo que ve al Padre hacer. Pero de nuevo, nuestras ideas humanas se ven confundidas, y uno puede decir: Entonces el Padre primero hace algo, para que el Hijo vea lo que hace; así como un artesano enseña a su hijo su arte, y le muestra lo que hace, para que él pueda hacer lo mismo después de él. Bajo esta suposición, cuando el Padre hace una cosa, el Hijo no la hace; en cuanto que el Hijo está contemplando lo que su Padre hace. Pero sostenemos como verdad fija e incontrovertible, que el Padre hace todas las cosas por medio del Hijo, y por lo tanto debe mostrárselas al Hijo, antes de hacerlas. ¿Y dónde muestra el Padre al Hijo lo que hace, sino en el Hijo mismo, por quien las hace? Porque si el Padre hace una cosa como modelo, y el Hijo atiende a la obra a medida que avanza, ¿dónde está la indivisibilidad de la Trinidad? El Padre, por lo tanto, no muestra al Hijo lo que hace haciéndolo, sino que mostrándolo lo hace, por medio del Hijo. El Hijo ve, y el Padre muestra, antes de que una cosa sea hecha, y de la mostración del Padre, y la visión del Hijo, se hace lo que se hace; hecho por el Padre, por medio del Hijo. Pero tú dirás: Yo muestro a mi hijo lo que deseo que haga, y él lo hace, y yo lo hago por medio de él. Verdadero; pero antes de que hagas cualquier cosa, se lo muestras a tu hijo, para que él lo haga según tu ejemplo, y tú por medio de él; pero tú hablas a tu hijo palabras que no eres tú mismo; mientras que el Hijo mismo es el Verbo del Padre; ¿y podría Él hablar por medio del Verbo al Verbo? O, porque el Hijo era el gran Verbo, ¿habrían de pasar palabras menores entre el Padre y el Hijo, o un cierto sonido y creación temporal, por así decirlo, salir de la boca del Padre, y golpear el oído del Hijo? Desecha estas nociones corporales, y si eres simple, ve la verdad en la simplicidad. Si no puedes comprender lo que Dios es, comprende al menos lo que no es. Habrás avanzado no poco camino, si no piensas nada que sea falso acerca de Dios. Ve lo que digo ejemplificado en tu propia mente. Tienes memoria y pensamiento, tu memoria muestra a tu pensamiento Cartago: antes de que percibas lo que hay en ella, ella lo muestra al pensamiento, que se vuelve hacia ella: la memoria entonces ha mostrado, el pensamiento ha percibido, y ninguna palabra ha pasado entre ellos, ningún signo externo ha sido usado. Pero todo lo que está en tu memoria, lo recibes de fuera: lo que el Padre muestra al Hijo, no lo recibe de fuera; todo sucede dentro; no existiendo ninguna criatura fuera, sino lo que el Padre ha hecho por medio del Hijo. Y el Padre hace mostrando, en cuanto que hace por medio del Hijo que ve. ¿La mostración del Padre engendra la visión del Hijo, como el Padre engendra al Hijo? La mostración engendra la visión, no la visión la mostración. Pero sería más correcto, y más espiritual, no ver al Padre como distinto de su mostración, o al Hijo de su visión.\n\n(Tr. xxi) Porque ver al Padre es ver a su Hijo. El Padre muestra así todas sus obras al Hijo, que el Hijo las ve del Padre. Porque el nacimiento del Hijo está en su visión: Él ve de la misma fuente, de la cual es, y nace, y permanece.\n\n(Tr. xxi. s. 5) Pero ahora de Aquel a quien llamamos coeterno con el Padre, que vio al Padre, y existía en cuanto que veía, volvemos a las cosas del tiempo, Y le mostrará obras mayores que estas. Pero si le mostrará, es decir, está a punto de mostrarle, aún no le ha mostrado: y cuando se las muestre, otros también verán; (Tr. xix). porque sigue: Para que creáis. Es difícil ver qué puede mostrar el Padre eterno en el tiempo al Hijo coeterno, que conoce todo lo que existe en la mente del Padre. Porque como el Padre levanta a los muertos, y les da vida, así también el Hijo da vida a quien quiere. Levantar a los muertos era una obra mayor que sanar a los enfermos. Pero esto se explica considerando que Aquel que poco antes hablaba como Dios, ahora comienza a hablar como hombre. Como hombre, y por lo tanto viviendo en el tiempo, se le mostrarán obras mayores en el tiempo. Los cuerpos resucitarán de nuevo por la dispensación humana por la cual el Hijo de Dios asumió la humanidad en el tiempo; pero las almas por virtud de la eternidad de la Sustancia Divina. Por cuya razón se dijo antes que el Padre amaba al Hijo, y le mostraba todas las cosas que hacía. Porque el Padre muestra al Hijo que las almas son levantadas; porque son levantadas por el Padre y el Hijo, así como no pueden vivir, a menos que Dios les dé vida. (Tr. xxi). O el Padre está a punto de mostrar esto a nosotros, no a Él; según lo que sigue: Para que creáis. Siendo esta la razón por la que el Padre le mostraría cosas mayores que estas. Pero ¿por qué no dijo: os mostrará, en lugar del Hijo? Porque nosotros somos miembros del Hijo, y Él, por así decirlo, aprende en sus miembros, así como sufre en nosotros. Porque como dice: En cuanto lo hicisteis a uno de estos mis hermanos más pequeños, a mí lo hicisteis: (Mat. 25:40) así, si le preguntamos cómo Él, el Maestro de todas las cosas, aprende, responde: Cuando uno de mis hermanos más pequeños aprende, yo aprendo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0956315a1394"
+ },
+ "hcf:John Chrysostom/John 5_20#1": {
+  "text_es": "¿Cuál es entonces su significado? Fue porque había fortalecido al paralítico, y estaba a punto de resucitar a los muertos, que habló así, casi diciendo: «¿Os maravilláis de que haya fortalecido al paralítico? Veréis cosas mayores que estas». Pero no habló así, sino que procedió de algún modo en un tono más humilde, para poder calmar su locura. Y para que aprendas que «mostrará» no se usa de manera absoluta, escucha de nuevo lo que sigue.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a07ebfec0c57"
+ },
+ "aquifer:19159": {
+  "text_es": "La mayoría de los judíos creía firmemente en la resurrección, pero la veían como algo que solo Dios podía realizar. Jesús afirmó que él da vida.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5071c5abdda1"
+ },
+ "hcf:Augustine of Hippo/John 5_21#5": {
+  "text_es": "Pero ahora de Aquel a quien llamamos coeterno con el Padre, que vio al Padre, y existía en cuanto que veía, volvemos a las cosas del tiempo, Y le mostrará obras mayores que estas. Pero si le mostrará, es decir, está a punto de mostrarle, aún no le ha mostrado: y cuando se las muestre, otros también verán; (Tr. xix). porque sigue: Para que creáis. Es difícil ver qué puede mostrar el Padre eterno en el tiempo al Hijo coeterno, que conoce todo lo que existe en la mente del Padre. Porque como el Padre levanta a los muertos, y les da vida, así también el Hijo da vida a quien quiere. Levantar a los muertos era una obra mayor que sanar a los enfermos. Pero esto se explica considerando que Aquel que poco antes hablaba como Dios, ahora comienza a hablar como hombre. Como hombre, y por lo tanto viviendo en el tiempo, se le mostrarán obras mayores en el tiempo. Los cuerpos resucitarán de nuevo por la dispensación humana por la cual el Hijo de Dios asumió la humanidad en el tiempo; pero las almas por virtud de la eternidad de la Sustancia Divina. Por cuya razón se dijo antes que el Padre amaba al Hijo, y le mostraba todas las cosas que hacía. Porque el Padre muestra al Hijo que las almas son levantadas; porque son levantadas por el Padre y el Hijo, así como no pueden vivir, a menos que Dios les dé vida. (Tr. xxi). O el Padre está a punto de mostrar esto a nosotros, no a Él; según lo que sigue: Para que creáis. Siendo esta la razón por la que el Padre le mostraría cosas mayores que estas. Pero ¿por qué no dijo: os mostrará, en lugar del Hijo? Porque nosotros somos miembros del Hijo, y Él, por así decirlo, aprende en sus miembros, así como sufre en nosotros. Porque como dice: En cuanto lo hicisteis a uno de estos mis hermanos más pequeños, a mí lo hicisteis: (Mat. 25:40) así, si le preguntamos cómo Él, el Maestro de todas las cosas, aprende, responde: Cuando uno de mis hermanos más pequeños aprende, yo aprendo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f49c8ec7a151"
+ },
+ "hcf:Augustine of Hippo/John 5_21#6": {
+  "text_es": "Habiendo dicho que el Padre mostraría al Hijo obras mayores que estas, procede a describir estas obras mayores: Porque como el Padre levanta a los muertos, y les da vida, así también el Hijo da vida a quien quiere. Estas son claramente obras mayores, pues es más milagroso que un muerto resucite, que el que un enfermo se recupere. No debemos entender por las palabras, que algunos son levantados por el Padre, otros por el Hijo; sino que el Hijo da vida a los mismos que el Padre levanta. Y para guardar contra cualquiera que diga: El Padre levanta a los muertos por medio del Hijo, el primero por su propio poder, el segundo, como un instrumento, por otro poder, Él afirma distintamente el poder del Hijo: El Hijo da vida a quien quiere. Observa aquí no solo el poder del Hijo, sino también su voluntad. El Padre y el Hijo tienen el mismo poder y voluntad. El Padre no quiere nada distinto del Hijo; sino que ambos tienen la misma voluntad, así como tienen la misma sustancia.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "231d5cb2807f"
+ },
+ "hcf:Augustine of Hippo/John 5_21-22#0": {
+  "text_es": "Pero ¿quiénes son estos muertos, a quienes el Padre y el Hijo resucitan a la vida? Alude a la resurrección general que ha de venir; no a la resurrección de aquellos pocos que fueron resucitados a la vida para que los demás creyeran; como Lázaro, que resucitó para morir después. Habiendo dicho, pues: Porque como el Padre levanta a los muertos y les da vida, para evitar que tomemos las palabras como referidas a los muertos que Él resucitó a causa del milagro, y no a la resurrección para la vida eterna, añade: Porque el Padre a nadie juzga; mostrando así que hablaba de aquella resurrección de los muertos que tendrá lugar en el juicio. (Tr. xxiii. s. 13). O las palabras: Como el Padre levanta a los muertos, etc., se refieren a la resurrección del alma; Porque el Padre a nadie juzga, sino que todo el juicio dio al Hijo, a la resurrección del cuerpo. Pues la resurrección del alma tiene lugar por la sustancia del Padre y del Hijo, y por tanto es obra del Padre y del Hijo juntamente; pero la resurrección del cuerpo tiene lugar por una dispensación de la humanidad del Hijo, que es una dispensación temporal, y no coeterna con el Padre. (Tr. xxi. s. 12.). Pero mira cómo el Verbo de Cristo lleva la mente en distintas direcciones, sin permitirle ningún reposo carnal; sino que mediante la variedad de movimientos la ejercita, mediante el ejercicio la purifica, mediante la purificación la agranda en su capacidad, y después de agrandarla la llena. Poco antes dijo que el Padre muestra al Hijo cuantas cosas hace. Así, pues, vi, por así decirlo, al Padre obrando, y al Hijo esperando; ahora de nuevo veo al Hijo obrando, y al Padre reposando.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d8d7e2f266da"
+ },
+ "hcf:Hilary of Poitiers/John 5_21#0": {
+  "text_es": "Pues querer es el poder libre de una naturaleza, que por el acto de elección reposa en la bienaventuranza de la excelencia perfecta.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "221c07cce1e4"
+ },
+ "hcf:John Chrysostom/John 5_21#0": {
+  "text_es": "\"Porque como el Padre levanta a los muertos, y les da vida, así también el Hijo a los que quiere da vida.\" Sin embargo, \"no puede hacer nada por sí mismo\" se opone a \"a los que quiere\"; pues si da vida \"a los que quiere\", puede hacer algo \"por sí mismo\" (porque \"querer\" implica poder), pero si \"no puede hacer nada por sí mismo\", entonces no puede \"dar vida a los que quiere\". Porque la expresión \"como el Padre levanta\" muestra una semejanza invariable en el Poder, y \"a los que quiere\", la Igualdad de Autoridad. ¿Ves, por tanto, que \"no puede hacer nada por sí mismo\" es la expresión de quien no se despoja de su propia autoridad, sino que declara la semejanza invariable de su Poder y su Voluntad (con los del Padre)?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3c2959bdde4d",
+  "corregido_por_juez": "Cambio de sentido: «not taking away His (own) authority» se tradujo como «quien no se arroga su propia autoridad» en lugar de «quien no se despoja de / no quita su propia autoridad»."
+ },
+ "aquifer:19160": {
+  "text_es": "Además de dar vida, Jesús reclamó la autoridad absoluta para juzgar⸢,⸣ que pertenece solo a Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f034179f323c"
+ },
+ "hcf:Augustine of Hippo/John 5_22#4": {
+  "text_es": "Pues esto, a saber, que el Padre le haya dado todo el juicio al Hijo, no significa que engendrara al Hijo con este atributo, como se entiende en las palabras: Así también le dio al Hijo tener vida en sí mismo. Pues si así fuera, no se diría: El Padre a nadie juzga, porque, en cuanto que el Padre engendró al Hijo igual, juzga con el Hijo. Lo que se quiere decir es que en el juicio no aparecerá la forma de Dios, sino la forma del Hijo del hombre; no porque no haya de juzgar quien dio todo el juicio al Hijo; pues el Hijo dice de Él más abajo: Hay quien busca y juzga, (c. 8.) sino que el Padre a nadie juzga; es decir, nadie lo verá a Él en el juicio, sino que todos verán al Hijo, porque es el Hijo del hombre, incluso los impíos que mirarán a Aquel a quien traspasaron. (Zac. 12)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ee2cd6cef757"
+ },
+ "hcf:Hilary of Poitiers/John 5_22#1": {
+  "text_es": "Habiendo dicho que el Hijo da vida a los que quiere, para que no perdiéramos de vista la natividad, y pensáramos que se apoyaba en el fundamento de su propio poder no engendrado, añade inmediatamente: Porque el Padre a nadie juzga, sino que todo el juicio dio al Hijo. En que todo el juicio le sea dado, se muestran tanto su naturaleza como su natividad; porque solo una naturaleza autoexistente puede poseer todas las cosas, y la natividad no puede tener nada, excepto lo que le es dado.\n\n(vii. de Trin. c. 20) Todo el juicio le es dado, porque da vida a los que quiere. Ni puede considerarse el juicio como quitado al Padre, en cuanto que la causa de que Él no juzgue es que el juicio del Hijo es suyo. Pues todo el juicio es dado por el Padre. Y la razón por la que lo da aparece inmediatamente después: Para que todos honren al Hijo como honran al Padre.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "12249637ffdd"
+ },
+ "aquifer:19161": {
+  "text_es": "⸢el Padre que le envió⸣: En el mundo antiguo, una persona podía enviar a un representante autorizado para sellar un contrato o tomar una decisión con autoridad. Jesús afirmó ser el representante de Dios, de modo que obedecer a Jesús es lo mismo que obedecer a Dios, y deshonrarlo a él es deshonrar a Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8ec4b6a70acc"
+ },
+ "hcf:Augustine of Hippo/John 5_23#4": {
+  "text_es": "Primero, en efecto, el Hijo apareció como siervo, y el Padre fue honrado como Dios. Pero el Hijo será visto como igual al Padre, para que todos honren al Hijo como honran al Padre. 1Pero ¿qué si se encuentran personas que honran al Padre y no honran al Hijo? No puede ser: El que no honra al Hijo, no honra al Padre que le envió. Una cosa es reconocer a Dios como Dios; y otra reconocerlo como Padre. Cuando reconoces a Dios Creador, reconoces un Espíritu todopoderoso, supremo, eterno, invisible, inmutable. Cuando reconoces al Padre, en realidad reconoces al Hijo; pues no podría ser el Padre si no tuviera al Hijo. Pero si honras al Padre como mayor y al Hijo como menor, en cuanto das menos honor al Hijo, quitas del honor del Padre. Pues en realidad piensas que el Padre no pudo o no quiso engendrar al Hijo igual a sí mismo; lo cual, si no quiso hacerlo, era envidioso; si no pudo, era débil. (Tr. xxiii. s. 13). O bien: Para que todos honren al Hijo como honran al Padre, tiene referencia a la resurrección de las almas, que es obra del Hijo, así como del Padre. Pero la resurrección del cuerpo se indica en lo que sigue: El que no honra al Hijo, no honra al Padre que le envió. Aquí no hay un como; el hombre Cristo es honrado, pero no como el Padre que le envió, ya que con respecto a su humanidad Él mismo dice: Mi Padre mayor es que yo. (Tr. xxi. s. 17). Pero alguien dirá: si el Hijo es enviado por el Padre, es inferior al Padre. Deja tus razonamientos carnales, y entiende una misión, no una separación. Las cosas humanas engañan, las divinas esclarecen; aunque incluso las cosas humanas dan testimonio contra ti, por ejemplo, si un hombre pretende casarse con una mujer, y no puede obtenerla por sí mismo, envía a un amigo, mayor que él, para que le solicite el matrimonio. Pero mira la diferencia en las cosas humanas. Un hombre no va con aquel a quien envía; pero el Padre que envió al Hijo, nunca dejó de estar con el Hijo; como leemos: No estoy solo, sino que el Padre está conmigo. (c. 16)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7ec4286f7c0a"
+ },
+ "hcf:Augustine of Hippo/John 5_23#5": {
+  "text_es": "Sin embargo, no se dice que el Hijo sea enviado en cuanto que es engendrado del Padre, sino por su aparición en este mundo, como el Verbo hecho carne; como dice: Salí del Padre, y he venido al mundo: (Juan 16:28) o por su recepción en nuestras mentes individualmente, como leemos: Envíala, para que esté conmigo y trabaje conmigo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fffe0d6c9612"
+ },
+ "hcf:Hilary of Poitiers/John 5_23#1": {
+  "text_es": "La conclusión, pues, se mantiene firme contra toda la furia de las mentes heréticas. Es el Hijo, porque no hace nada por sí mismo: Es Dios, porque cuantas cosas hace el Padre, las hace Él igualmente; Son uno, porque son iguales en honor: No es el Padre, porque es enviado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3896f1944a11"
+ },
+ "hcf:John Chrysostom/John 5_23#0": {
+  "text_es": "«El que no honra al Hijo, no honra al Padre que le envió». ¿Ves cómo el honor del Hijo está unido al del Padre? «¿Y qué?», dice uno. «Vemos lo mismo en el caso de los apóstoles; “El que os recibe a vosotros”, dice Cristo, “me recibe a mí”». Pero en aquel lugar habla así porque hace suyas las cosas de sus siervos; aquí, porque la esencia y la gloria son una con las del Padre. Por tanto, no se dice de los apóstoles «que honren», sino que con razón dice: «El que no honra al Hijo, no honra al Padre». Pues donde hay dos reyes, si uno es insultado, el otro también es insultado, y especialmente cuando el insultado es un hijo. Es insultado incluso cuando uno de sus soldados es maltratado; no de la misma manera que en este caso, sino como en la persona de otro, mientras que aquí es como en la suya propia. Por eso dijo de antemano: «Para que honren al Hijo como honran al Padre», a fin de que cuando dijera: «El que no honra al Hijo, no honra al Padre», entendieras que el honor es el mismo. Pues no dice simplemente: «el que no honra al Hijo», sino «el que no le honra como he dicho» «no honra al Padre».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9b995ba8efc6"
+ },
+ "aquifer:19162": {
+  "text_es": "Jesús es el dador de vida así como el juez (véase 5:21–22), pero nunca obra independientemente del Padre.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "98ba0b714f50"
+ },
+ "hcf:Augustine of Hippo/John 5_24#0": {
+  "text_es": "Si en el oír y el creer está la vida eterna, ¿cuánto más en el entender? Pero el paso a nuestra piedad es la fe, el fruto de la fe, el entendimiento. No dice: El que cree en mí, sino: en el que me envió. ¿Por qué uno ha de oír su palabra y creer a otro? ¿No es que quiere decir que su palabra está en mí? Y ¿qué es «oye mi palabra», sino «me oye a mí»? Y dice: «cree en el que me envió»; como si dijera: el que cree en él, cree en su Verbo, esto es, en mí, porque yo soy el Verbo del Padre.\n\n(Tr. xxii. s. 4. et sq.) Pero ¿quién es esta persona favorecida? ¿Habrá alguno mejor que el apóstol Pablo, que dice: «todos hemos de comparecer ante el tribunal de Cristo»? (1 Cor. 6) Ahora bien, juicio a veces significa castigo, a veces prueba. En el sentido de prueba, todos hemos de comparecer ante el tribunal de Cristo; en el sentido de condenación leemos que algunos no entrarán en juicio, esto es, no serán condenados. Sigue: «sino que ha pasado de muerte a vida»: no «está pasando ahora», sino «ha pasado» de la muerte de la incredulidad a la vida de la fe, de la muerte del pecado a la vida de la justicia. O quizá se dice así para impedir que supongamos que la fe nos salvaría de la muerte corporal, esa pena que debemos pagar por la transgresión de Adán. Aquel en quien todos entonces estábamos oyó la sentencia divina: «ciertamente morirás»; (Gén. 2) ni podemos evadirla. Pero cuando hayamos sufrido la muerte del hombre viejo, recibiremos la vida del nuevo, y por la muerte haremos un paso a la vida. Pero ¿a qué vida? (Tr. xix.). A la vida eterna: los muertos resucitarán al fin del mundo y entrarán en la vida eterna. (Tr. xxii.). Pues esta vida no merece el nombre de vida; solo aquella vida es verdadera que es eterna.\n\n(de Verb. Dom. Serm. lxiv) Vemos a los amantes de esta vida presente y transitoria tan atentos a su bienestar, que cuando están en peligro de muerte recurren a cualquier medio para retrasar su llegada, aunque no puedan esperar ahuyentarla del todo. Si tanta solicitud y trabajo se emplea, pues, en ganar un poco más de duración de vida, ¿cómo debemos esforzarnos por la vida eterna? Y si son tenidos por sabios los que procuran de todos modos posponer la muerte, aunque solo puedan vivir unos pocos días más, ¡cuán necios son los que viven de tal modo que pierden el día eterno?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a4e5d64d14de",
+  "corregido_por_juez": "Cambio de sentido al traducir «in Me» por «en él» en lugar de «en mí»."
+ },
+ "hcf:Cyril of Alexandria/John 5_24#0": {
+  "text_es": "Habiendo ya probado suficientemente por lo que antecede que los miserables judíos no pecan solo contra el Hijo, al atreverse a censurar las cosas que él dice o hace entre ellos en su enseñanza, sino que también transgreden ignorantemente contra el Padre mismo, y habiendo, en cuanto atañe a la fuerza de lo dicho, envuelto su excesiva confianza con temor, y persuadídoles de vivir más religiosamente en esperanza de las cosas venideras, al fin los atrapa para la obediencia. Y no sin habilidad de nuevo ajustó su discurso a este fin. Pues como sabía que los judíos seguían enfermos y aún se ofendían por causa de él, de nuevo remite su fe a la persona de Dios el Padre, no como excluyéndose a sí mismo, sino como honrado también en el Padre por razón de la identidad de esencia. Pues afirma que los que creen no solo serán partícipes de la vida eterna, sino que también escaparán del peligro de la condenación, siendo justificados, esto es: presentando el temor mezclado con la esperanza. Pues así podía hacer su discurso más eficaz y más demostrativo para los oyentes.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a7add09cc519"
+ },
+ "hcf:Glossa Ordinaria/John 5_24#0": {
+  "text_es": "Habiendo dicho que el Hijo vivifica a quien quiere, muestra a continuación que alcanzamos la vida por medio del Hijo: «De cierto, de cierto os digo: El que oye mi palabra, y cree al que me envió, tiene vida eterna».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c6be58423726"
+ },
+ "hcf:Hilary of Poitiers/John 5_24#0": {
+  "text_es": "La conclusión, pues, se mantiene firme contra toda la furia de las mentes heréticas. Es el Hijo, porque no hace nada por sí mismo; es Dios, porque todo lo que hace el Padre, lo hace él igualmente; son uno, porque son iguales en honor; no es el Padre, porque es enviado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3896f1944a11"
+ },
+ "hcf:Augustine of Hippo/John 5_25#5": {
+  "text_es": "Vemos que los amantes de esta vida presente y transitoria están tan atentos a su bienestar, que cuando están en peligro de muerte, emplean cualquier medio para retrasar su llegada, aunque no puedan esperar ahuyentarla del todo. Si tanto cuidado y trabajo se gasta entonces en ganar un poco más de duración de vida, ¿cómo hemos de esforzarnos por la vida eterna? Y si son tenidos por sabios los que procuran de todos modos posponer la muerte, aunque solo puedan vivir unos días más, ¡cuán necios son los que viven de tal modo que pierden el día eterno!\n\n(Tr. xxiii. s. 14) Alguien podría preguntarte: El Padre vivifica al que cree en él; pero ¿qué de ti? ¿no vivificas tú? Observa que también el Hijo vivifica a quien quiere: «De cierto, de cierto os digo: Viene la hora, y ahora es, cuando los muertos oirán la voz del Hijo de Dios; y los que la oyeren vivirán».\n\n(Tr. xxii. s. 12) O bien quiere prevenir que pensemos que el pasar de muerte a vida se refiere a la resurrección futura; su sentido es que el que cree ha pasado; y por eso dice: «De cierto, de cierto os digo: Viene la hora», (¿qué hora?) «y ahora es, cuando los muertos oirán la voz del Hijo de Dios, y los que la oyeren vivirán». No dice: porque viven, oyen; sino que a consecuencia de oír, vuelven a la vida. Pero ¿qué es oír sino obedecer? Pues los que creen y obran conforme a la verdadera fe, viven y no están muertos; mientras que los que no creen, o, creyendo, viven mal y no tienen amor, más bien han de ser tenidos por muertos. Y sin embargo aquella hora sigue transcurriendo, y seguirá, la misma hora, hasta el fin del mundo: como dice Juan: «Es la última hora». (1 Juan 2:13)\n\nCuando los muertos, es decir, los incrédulos, oigan la voz del Hijo de Dios, es decir, el Evangelio; y los que oigan, es decir, los que obedezcan, vivirán, es decir, serán justificados, y no permanecerán más en la incredulidad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0e84199a546c"
+ },
+ "hcf:Hilary of Poitiers/John 5_25-26#0": {
+  "text_es": "Los herejes, apremiados por las pruebas de la Escritura, se ven obligados a atribuir al Hijo al menos una semejanza, en cuanto a la virtud, con el Padre. Pero no admiten una semejanza de naturaleza, al no poder ver que una semejanza de virtud no podría surgir sino de una semejanza de naturaleza; pues una naturaleza inferior nunca puede alcanzar la virtud de otra superior y mejor. Y no puede negarse que el Hijo de Dios tiene la misma virtud que el Padre, cuando dice: «Todo lo que (el Padre) hace, el Hijo lo hace igualmente». Pero a continuación se menciona expresamente la semejanza de naturaleza: «Como el Padre tiene vida en sí mismo, así también ha dado al Hijo el tener vida en sí mismo». En la vida se comprenden la naturaleza y la esencia. Y el Hijo, así como la tiene, así la ha recibido como dada. Pues lo mismo que es vida en ambos, es esencia en ambos; y la vida, es decir, la esencia, que es engendrada de la vida, nace; aunque no nace desemejante a la otra. Pues, siendo vida de vida, permanece semejante en naturaleza a su origen.\n\n(vii. de Trin. c. 27, 28) El Viviente nacido del Viviente tiene la perfección de la natividad, sin la novedad de la naturaleza. Pues nada nuevo se implica en la generación de viviente a viviente, ya que la vida no viene al nacer de la nada. Y la vida que deriva su nacimiento de la vida, debe, por la unidad de naturaleza y el sacramento de un nacimiento perfecto, tanto estar en el ser viviente, como tener en sí misma al ser que la vive. Débil es en verdad la naturaleza humana, compuesta de elementos desiguales, y traída a la vida desde materia inanimada; ni la prole humana vive algún tiempo después de ser engendrada. Ni vive enteramente de la vida, puesto que mucho crece en ella insensiblemente y decae insensiblemente. Pero en el caso de Dios, todo lo que él es, vive: pues Dios es vida, y de la vida nada puede ser sino lo que vive.\n\nPues la persona del que recibe es distinta de la del que da: siendo inconcebible que una y la misma persona dé y reciba de sí misma. El que vive de sí mismo es una persona: el que reconoce un Autor de su vida es otra.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6c17535d24d7"
+ },
+ "hcf:Theophylact of Ohrid/John 5_25#0": {
+  "text_es": "Aquí habla con referencia a aquellos que estaba a punto de resucitar de entre los muertos: a saber, la hija del jefe de la sinagoga, el hijo de la viuda y Lázaro.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "63a4afa13d2c"
+ },
+ "hcf:Augustine of Hippo/John 5_26#10": {
+  "text_es": "Pero alguien preguntará: ¿Tiene el Hijo vida, de donde vivirán los que creen? Oye sus propias palabras: «Como el Padre tiene vida en sí mismo, así también ha dado al Hijo el tener vida en sí mismo». La vida es original y absoluta en él, no viene de ninguna otra fuente, no depende de ningún otro poder. No es como si fuera partícipe de una vida que no es él mismo; sino que tiene vida en sí mismo: de modo que él mismo es su propia vida. Oye, alma muerta, al Padre, que habla por el Hijo: levántate, para que recibas esa vida que no tienes en ti misma, y entres en la primera resurrección. Pues esta vida, que el Padre y el Hijo son, pertenece al alma, y no es percibida por el cuerpo. Solo la mente racional descubre la vida de la sabiduría.\n\n(xv. de Trin. c. 47. [xxvi.]) Ha de entenderse que el Padre no dio vida al Hijo, que existía sin vida, sino que lo engendró de tal modo, independientemente del tiempo, que la vida que le dio al engendrarlo era coeterna con la suya propia.\n\n(Tr. xxii. s. 10) «Dado al Hijo», pues, tiene el sentido de «engendró al Hijo»; pues le dio la vida, al engendrarlo. Como le dio el ser, así le dio el tener vida en sí mismo; de modo que el Hijo no necesitó que la vida le viniera de fuera; sino que era en sí mismo la plenitud de la vida, de donde otros, es decir, los creyentes, recibieron su vida. ¿Cuál es entonces la diferencia entre ellos? Esta: que uno dio, el otro recibió.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0778bf093479"
+ },
+ "hcf:John Chrysostom/John 5_26#0": {
+  "text_es": "\"Porque como el Padre tiene vida en sí mismo, así también ha dado al Hijo el tener vida en sí mismo.\"\n\n¿Ves que esto declara una semejanza perfecta, salvo en un punto, que es que Uno es Padre y el Otro es Hijo? Pues la expresión \"ha dado\" introduce meramente esta distinción, pero declara que todo lo demás es igual y exactamente semejante. De donde es claro que el Hijo hace todas las cosas con tanta autoridad y poder como el Padre, y que no recibe poder de alguna otra fuente, pues \"tiene vida\" así como el Padre la tiene.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "043bfd6abe93"
+ },
+ "hcf:Augustine of Hippo/John 5_27#5": {
+  "text_es": "O así: En cuanto el Verbo estaba en el principio con Dios, el Padre le dio el tener vida en sí mismo; pero en cuanto el Verbo se hizo carne de la Virgen María, hecho hombre, se hizo Hijo del hombre; y como Hijo del hombre, recibió poder para ejecutar juicio al fin del mundo; tiempo en el cual los cuerpos de los muertos resucitarán. Las almas, pues, de los muertos, Dios las resucita por Cristo, el Hijo de Dios; sus cuerpos por el mismo Cristo, el Hijo del hombre. Por lo cual añade: Porque es el Hijo del hombre; pues en cuanto al Hijo de Dios, siempre tuvo el poder.\n\n(de Ver. Dom. Ser. 64) En el juicio aparecerá la forma de hombre; esa forma juzgará, la que fue juzgada; se sentará como Juez el que estuvo ante el juez; condenará a los culpables el que fue condenado inocente. Pues es propio que los juzgados vean a su Juez. Ahora bien, los juzgados constan tanto de buenos como de malos; de modo que la forma del siervo se mostrará a buenos y malos por igual; la forma de Dios solo a los buenos. Bienaventurados los de limpio corazón, porque ellos verán a Dios. (Mateo 5:8)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f8a8ee68dd57"
+ },
+ "hcf:Hilary of Poitiers/John 5_27#0": {
+  "text_es": "Pues la persona del que recibe es distinta de la del que da; siendo inconcebible que una y la misma persona se dé y reciba de sí misma. El que vive de sí mismo es una persona; el que reconoce un Autor de su vida es otra.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "42e7811b05ea"
+ },
+ "hcf:John Chrysostom/John 5_27-29#0": {
+  "text_es": "Pero ¿por qué se detiene tan constantemente en estos temas: juicio, resurrección y vida? Porque son los argumentos más poderosos para llevar a los hombres a la fe, y los más aptos para prevalecer con oyentes obstinados. Pues quien está persuadido de que resucitará y será llamado por el Hijo a rendir cuentas de sus malas acciones, aunque no sepa nada más que esto, se preocupará por propiciar a su Juez. Sigue: Porque es el Hijo del hombre, no te maravilles de esto. Pablo de Samosata lo lee: Le ha dado poder para ejecutar juicio también, porque es el Hijo del hombre. Pero esta conexión no tiene sentido; pues no recibe el poder de juzgar porque es hombre (pues, sobre esta suposición, ¿qué impediría que todos los hombres fueran jueces?), sino porque es el inefable Hijo de Dios; por tanto, es Juez. Debemos leer entonces: Porque es el Hijo del hombre, no te maravilles de esto. Como los oyentes de Cristo lo tenían por un mero hombre, y como lo que afirmaba de sí mismo era demasiado elevado para ser verdad de hombres, o incluso de ángeles, o de cualquier ser inferior a Dios mismo, había un fuerte obstáculo para que creyeran, el cual nuestro Señor señala para removerlo: No te maravilles, dice, de que sea el Hijo del hombre; y luego añade la razón por la que no deben maravillarse: Porque viene la hora en la cual todos los que están en los sepulcros oirán la voz del Hijo de Dios. ¿Y por qué no dijo: No te maravilles de que sea el Hijo del hombre, porque en verdad es el Hijo de Dios? Porque, habiendo dado a entender que era él quien resucitaría a los hombres de entre los muertos, siendo la resurrección una obra estrictamente divina, deja que sus oyentes infieran que él es Dios, y el Hijo de Dios. Las personas que argumentan a menudo hacen esto. Cuando han presentado fundamentos ampliamente suficientes para probar la conclusión que desean, no sacan ellos mismos esa conclusión; sino que, para hacer mayor la victoria, dejan que el adversario la saque. Al referirse antes a la resurrección de Lázaro y los demás, no dijo nada sobre el juicio, pues Lázaro no resucitó para juicio; mientras que ahora, al hablar de la resurrección general, introduce la mención del juicio: Y saldrán, dice, los que hicieron lo bueno, a la resurrección de vida, y los que hicieron lo malo, a la resurrección de condenación. Habiendo dicho antes: El que oye mis palabras, y cree al que me envió, tiene vida eterna; para que los hombres no supusieran por esto que la fe era suficiente para la salvación, procede a hablar de las obras: Y los que hicieron lo bueno, y los que hicieron lo malo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "079baccb44e2"
+ },
+ "hcf:Theophylact of Ohrid/John 5_27#0": {
+  "text_es": "El Padre concedió al Hijo poder no solo para dar vida, sino también para ejecutar juicio. Y le ha dado autoridad para ejecutar juicio.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "962faeab9484"
+ },
+ "hcf:Augustine of Hippo/John 5_28-29#5": {
+  "text_es": "Ninguno de los fundadores de las falsas sectas religiosas ha podido negar la resurrección del alma, pero muchos han negado la resurrección del cuerpo; y, a menos que Tú, Señor Jesús, lo hubieras declarado, ¿qué respuesta podríamos dar al que lo niega? Para exponer esta verdad, dice: No te maravilles de esto; (es decir, de que haya dado poder al Hijo del hombre para ejecutar juicio,) porque viene la hora, etc.\n\n(de Ver. Dom. Ser. 64) No añade aquí: Y ahora es; porque esta hora sería al fin del mundo. No te maravilles, es decir, no te maravilles de que los hombres sean juzgados todos por un hombre. Pero ¿qué hombres? No solo aquellos que Él hallará vivos, porque viene la hora en la cual todos los que están en los sepulcros oirán su voz.\n\n(Sup. Joan. Tr. xix. s. 17, 18) ¿Qué puede ser más claro? Los cuerpos de los hombres están en los sepulcros, no sus almas. Antes, cuando dijo: Viene la hora, y añadió: y ahora es; prosigue: Cuando los muertos oirán la voz del Hijo de Dios. No dice: Todos los muertos; pues por los muertos se entienden los malvados, y los malvados no todos han sido llevados a obedecer el Evangelio. Pero al fin del mundo todos los que están en los sepulcros oirán su voz, y saldrán. No dice: Vivirán, como dijo antes, cuando habló de la vida eterna y bienaventurada; la cual no todos tendrán, los que saldrán de sus sepulcros. Este juicio le fue encomendado porque era el Hijo del hombre. Pero ¿qué sucede en este juicio? Los que hicieron lo bueno irán a la resurrección de vida, es decir, a vivir con los Ángeles de Dios; los que hicieron lo malo, a la resurrección de juicio. Juicio aquí significa condenación.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d465223aad1e"
+ },
+ "hcf:John Chrysostom/John 5_29#0": {
+  "text_es": "Cuando, pues, mencionó la resurrección de Lázaro, no habló del Juicio (pues no fue para esto que Lázaro resucitó); pero cuando habló en general, también añadió que \"los que hicieron lo bueno saldrán a la resurrección de vida, y los que hicieron lo malo a la resurrección de juicio\". Así también Juan llevó a sus oyentes hablando del Juicio, y que \"el que no cree en el Hijo, no verá la vida, sino que la ira de Dios permanece sobre él\"; así también Él mismo llevó a Nicodemo: \"El que cree en el Hijo\", le dijo, \"no es juzgado; pero el que no cree ya ha sido juzgado\"; y así aquí menciona el tribunal y el castigo que seguirá a las malas obras. Pues porque había dicho antes: \"El que oye mis palabras y cree al que me envió\", \"no es juzgado\", para que nadie imaginara que esto solo es suficiente para la salvación, añade también el resultado de la vida del hombre, declarando que \"los que hicieron lo bueno saldrán a la resurrección de vida, y los que hicieron lo malo a la resurrección de juicio\".",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6f9479f9f33e"
+ },
+ "hcf:Augustine of Hippo/John 5_30#0": {
+  "text_es": "Estábamos a punto de preguntar a Cristo: Tú juzgarás, y el Padre no juzga: ¿no juzgarás entonces según el Padre? Él se nos anticipa diciendo: No puedo yo hacer nada por mí mismo.\n\n(Tr. xxiii. s. 15) Cuando habló de la resurrección del alma, no dijo: Oye, sino: Ve. (v. 19) Oír implica un mandato que procede del Padre. Habla como hombre, que es inferior al Padre.\n\n(Serm. contr. Arrian. c. 9. [xiv.]) Como oigo, juzgo, se dice con referencia a su subordinación humana, como Hijo del hombre, o a aquella naturaleza inmutable y simple de la filiación derivada del Padre; en la cual naturaleza oír y ver es idéntico a ser. (ut sup. c. xvii.). Por lo cual, como oye, juzga. El Verbo es engendrado uno con el Padre, y por tanto juzga según la verdad. (c. xviii). Sigue: Y mi juicio es justo, porque no busco mi voluntad, sino la voluntad del Padre que me envió. Esto pretende llevarnos de vuelta a aquel hombre (sc. Adán) que, al buscar su propia voluntad, no la voluntad de quien lo hizo, no se juzgó justamente a sí mismo, sino que recibió una justa sentencia sobre él. No creyó que, al hacer su propia voluntad, no la de Dios, moriría. Así hizo su propia voluntad, y murió; porque el juicio de Dios es justo, juicio que el Hijo de Dios ejecuta, al no buscar su propia voluntad, es decir, su voluntad en cuanto Hijo del hombre. No que no tenga voluntad al juzgar, sino que su voluntad no es propia en tal sentido que sea diferente de la del Padre.\n\n(Tr. xix. 19.) No busco entonces mi propia voluntad, es decir, la voluntad del Hijo del hombre, en oposición a Dios; pues los hombres hacen su propia voluntad, no la de Dios, cuando, para hacer lo que desean, violan los mandamientos de Dios. Pero cuando hacen lo que desean de modo que al mismo tiempo siguen la voluntad de Dios, no hacen su propia voluntad. O bien: No busco mi propia voluntad, es decir, porque no soy de mí mismo, sino del Padre.\n\n(Tr. xxi) El Hijo unigénito dice: No busco mi propia voluntad; y sin embargo los hombres desean hacer su propia voluntad. Hagamos la voluntad del Padre, Cristo y el Espíritu Santo; pues estos tienen una sola voluntad, poder y majestad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "360e022578bb"
+ },
+ "hcf:John Chrysostom/John 5_30#2": {
+  "text_es": "Y no te maravilles de que haya afirmado una conjunción tan estrecha; pues también con referencia al Espíritu Pablo usó esta ilustración: «Porque ¿quién de los hombres sabe las cosas del hombre, sino el espíritu del hombre que está en él? Así tampoco nadie conoció las cosas de Dios, sino el Espíritu de Dios.» Así el significado de Cristo no es otro que este: «No tengo una voluntad diferente y aparte de la del Padre, sino que si Él desea algo, entonces yo también; si yo, entonces Él también. Por tanto, como nadie podría objetar al Padre que juzgue, tampoco a mí, pues la sentencia de cada uno se da desde la misma Mente.» Y si pronuncia estas palabras más bien como hombre, no te maravilles, viendo que todavía lo consideraban un simple hombre. Por eso en pasajes como estos es necesario no solo investigar el significado de las palabras, sino también tener en cuenta la sospecha de los oyentes, y escuchar lo que se dice como dirigido a esa sospecha. De lo contrario, seguirán muchas dificultades.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2b3ae854406c"
+ },
+ "aquifer:19164": {
+  "text_es": "La ley de Dios requiere más de un testigo en un juicio (Deuteronomio 17:6). La palabra de una sola persona no es suficiente para probar un caso.\n\nJesús reconoció este principio. Dijo que su propio testimonio necesitaba el apoyo de otros.\n\nAsí que presentó varios testigos que confirmaron quién era. Estos testigos apoyaron sus afirmaciones y mostraron que su mensaje era verdadero.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f01f7cedbbbc"
+ },
+ "hcf:Alcuin of York/John 5_31-32#0": {
+  "text_es": "O así: Cristo, siendo a la vez Dios y hombre, muestra la existencia propia de ambos, al hablar a veces según la naturaleza que tomó del hombre, a veces según la majestad de la divinidad. Si yo doy testimonio de mí mismo, mi testimonio no es verdadero: esto debe entenderse de su humanidad; el sentido es: Si yo, un hombre, doy testimonio de mí mismo, es decir, sin Dios, mi testimonio no es verdadero; y luego sigue: Otro hay que da testimonio de mí. El Padre dio testimonio de Cristo, por la voz que se oyó en el bautismo, y en la transfiguración en el monte. Y sé que su testimonio es verdadero; porque Él es el Dios de la verdad. ¿Cómo entonces puede su testimonio ser de otra manera que verdadero?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e3204f01e081"
+ },
+ "hcf:Augustine of Hippo/John 5_31-33#0": {
+  "text_es": "Él sabía de sí mismo que su testimonio de sí mismo era verdadero, pero por compasión hacia los débiles e incrédulos, el Sol buscó candelas, para que su débil vista no fuera deslumbrada por su pleno resplandor. Y por eso Juan fue presentado para dar su testimonio a la verdad. No que haya tal testimonio en realidad, pues cualesquiera testigos que den testimonio de Él, en realidad es Él quien da testimonio de sí mismo; así como es su morada en los testigos lo que los mueve a dar así su testimonio a la verdad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4f5606b7e195"
+ },
+ "hcf:John Chrysostom/John 5_31#1": {
+  "text_es": "Los judíos estaban a punto de objetarle: «Si das testimonio de ti mismo, tu testimonio no es verdadero»; por eso pronunció estas palabras anticipándose; como si hubiera dicho: «Seguramente me diréis: no te creemos; pues nadie que da testimonio de sí mismo es fácilmente tenido por digno de confianza entre los hombres.» De modo que el «no es verdadero» no debe leerse en absoluto, sino con referencia a sus sospechas, como si hubiera dicho: «para vosotros no es verdadero»; y así pronunció las palabras no mirando a su propia dignidad, sino a sus pensamientos secretos. Cuando dice: «Mi testimonio no es verdadero», reprende su opinión de Él, y la objeción que estaban a punto de presentar contra Él; pero cuando dice: «Aunque yo doy testimonio de mí mismo, mi testimonio es verdadero», declara la naturaleza misma de la cosa, a saber, que como Dios deberían considerarlo digno de confianza incluso cuando habla de sí mismo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3d2840da52b9"
+ },
+ "aquifer:19165": {
+  "text_es": "El primer testigo que habló en apoyo de Jesús fue Dios mismo.\n\nJesús puede haber estado pensando en la voz del cielo en su bautismo, cuando Dios dijo que Jesús era su Hijo (Marcos 1:11). También puede haber querido decir el poder de Dios que obraba a través de él en sus milagros.\n\nDe ambas maneras, Dios dio testimonio sobre quién es Jesús.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "269dcb2799a6"
+ },
+ "hcf:John Chrysostom/John 5_32#0": {
+  "text_es": "En respuesta, entonces, presenta tres pruebas claras e irrefutables, tres testigos por así decirlo, de la verdad de lo que había dicho: las obras que había hecho, el testimonio del Padre y la predicación de Juan; poniendo primero el menor de estos, es decir, la predicación de Juan: Otro hay que da testimonio de mí; y sé que el testimonio que él da de mí es verdadero.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0cec2aebae2c"
+ },
+ "aquifer:19166": {
+  "text_es": "El segundo testigo de Jesús fue Juan el Bautista. Juan señaló a Jesús y dijo que él es el Mesías (1:29–34).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1940e8fecbc4"
+ },
+ "hcf:Alcuin of York/John 5_33-34#0": {
+  "text_es": "Pero él dio testimonio no de sí mismo, sino de la verdad; como amigo de la verdad, dio testimonio de la verdad, es decir, de Cristo. Nuestro Señor, por su parte, no rechaza el testimonio de Juan, como si no fuera necesario, sino que muestra solo que los hombres no deben prestar tal atención a Juan como para olvidar que el testimonio de Cristo era todo lo necesario para sí mismo. Pero yo no recibo, dice, testimonio de hombres.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "88ecabdbba5e"
+ },
+ "hcf:Bede/John 5_33-34#0": {
+  "text_es": "Porque no lo quiero. Juan, aunque dio testimonio, no lo hizo para que Cristo aumentara, sino para que los hombres fueran llevados al conocimiento de Él.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8bc11dfa3196"
+ },
+ "hcf:John Chrysostom/John 5_33#0": {
+  "text_es": "«¿Qué entonces», dice alguno, «si Juan dio testimonio parcialmente?» Para que los judíos no afirmaran esto, mira cómo elimina esta sospecha. Pues no dijo: «Juan testificó de mí», sino: «Vosotros enviasteis primero a Juan, y no habríais enviado si no lo hubierais considerado digno de confianza.» Es más, lo que es más, no habían enviado para preguntarle acerca de Cristo, sino acerca de él mismo, y al hombre que consideraban digno de confianza en lo relacionado con él mismo, mucho más lo considerarían así en lo relacionado con otro. Pues es, por así decirlo, la naturaleza de todos nosotros no dar tanto crédito a los que hablan de sí mismos como a los que hablan de otros; sin embargo, a él lo consideraron tan digno de confianza que no requerían ni siquiera acerca de él mismo ningún otro testimonio. Pues los que fueron enviados no dijeron: «¿Qué dices acerca de Cristo?», sino: «¿Quién eres? ¿Qué dices de ti mismo?» Tan grande admiración sentían por el hombre.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5545c0d33194"
+ },
+ "hcf:John Chrysostom/John 5_34-35#0": {
+  "text_es": "Incluso el testimonio de Juan era el testimonio de Dios; pues lo que dijo, Dios se lo enseñó. Pero para anticiparse a su pregunta de cómo aparecía que Dios enseñó a Juan, como si los judíos hubieran objetado que el testimonio de Juan podría no ser verdadero, nuestro Señor se anticipa diciendo: «Vosotros mismos lo buscasteis para preguntarle; por eso uso su testimonio, pues no lo necesito.» Añade: Pero estas cosas digo para que seáis salvos. Como si dijera: Yo, siendo Dios, no necesitaba este tipo de testimonio humano. Pero, puesto que vosotros atendéis más a él, y lo consideráis más digno de crédito que cualquier otro, mientras no me creéis a mí, aunque hago milagros; por esta causa os recuerdo su testimonio. Pero ¿no habían recibido el testimonio de Juan? Antes de que tengan tiempo de preguntar esto, Él responde: Él era una antorcha que ardía y alumbraba, y vosotros quisisteis regocijaros por un tiempo en su luz. Dice esto para mostrar cuán ligeramente se habían aferrado a Juan, y cuán pronto lo habían dejado, impidiéndole así llevarlos a Cristo. Lo llama antorcha, porque Juan no tenía su luz de sí mismo, sino de la gracia del Espíritu Santo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9aedc8dd2b3d"
+ },
+ "hcf:Alcuin of York/John 5_35#0": {
+  "text_es": "Juan era una antorcha encendida por Cristo, la Luz, ardiendo con fe y amor, brillando en palabra y obra. Fue enviado antes, para confundir a los enemigos de Cristo, según el Salmo: He preparado una lámpara para mi Ungido; a sus enemigos los vestiré de vergüenza. (Sal. 131)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "95bb348be775"
+ },
+ "hcf:John Chrysostom/John 5_35#1": {
+  "text_es": "Llamó a Juan una antorcha, dando a entender que no tenía luz de sí mismo, sino por la gracia del Espíritu; pero la circunstancia que causaba la distinción absoluta entre Él y Juan, a saber, que Él era el Sol de justicia, esto aún no lo puso; sino que, insinuando apenas esto por ahora, los tocó con agudeza, mostrando que por la misma disposición que los llevaba a despreciar a Juan, tampoco podían creer en Cristo. Pues solo por un tiempo admiraban incluso al hombre que admiraban, y quien, si no hubieran actuado así, pronto los habría llevado de la mano a Jesús.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b946ff8bf6f7"
+ },
+ "aquifer:19167": {
+  "text_es": "El tercer testimonio de Jesús fueron sus enseñanzas y milagros. Estas eran señales que revelaban su verdadera identidad e indicaban que el Padre lo envió.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ceb7ce66c3c5"
+ },
+ "hcf:Alcuin of York/John 5_36#0": {
+  "text_es": "Que ilumina al ciego, que abre el oído del sordo, suelta la boca del mudo, expulsa demonios, resucita a los muertos; estas obras dan testimonio de Cristo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2df4585752c2"
+ },
+ "hcf:Hilary of Poitiers/John 5_36#1": {
+  "text_es": "El Dios unigénito se muestra a sí mismo como el Hijo, sobre el testimonio no solo del hombre, sino de su propio poder. Las obras que hace dan testimonio de que es enviado del Padre. Por lo tanto, la obediencia del Hijo y la autoridad del Padre se exponen en Aquel que fue enviado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a21708295cb4"
+ },
+ "hcf:John Chrysostom/John 5_36#0": {
+  "text_es": "\"Pero yo tengo mayor testimonio que el de Juan.\" \"Pues si hubierais estado dispuestos a admitir la fe según la consecuencia (natural) de los hechos, os habría ganado por mis obras más que él por sus palabras. Pero ya que no queréis, os remito a Juan, no porque necesite su testimonio, sino porque hago todo 'para que seáis salvos'. Pues tengo mayor testimonio que el de Juan, a saber, el de mis obras; sin embargo, no considero meramente cómo puedo ser aceptado por vosotros mediante evidencia creíble, sino cómo por la (de personas) conocidas y admiradas por vosotros.\" Luego, mirándolos y diciendo que se regocijaron por un tiempo en su luz (la de Juan), declaró que su celo era solo temporal e incierto.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "669a5da05ca7"
+ },
+ "hcf:Alcuin of York/John 5_37#0": {
+  "text_es": "Los judíos podrían decir: Oímos la voz del Señor en Sinaí, y lo vimos bajo la apariencia de fuego. Si Dios entonces da testimonio de ti, deberíamos conocer su voz. A lo cual Él responde: Tengo el testimonio del Padre, aunque no lo entendéis; porque nunca habéis oído su voz, ni visto su forma.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3e15b3b7a767"
+ },
+ "hcf:Bede/John 5_37#0": {
+  "text_es": "Por su misión debemos entender su encarnación. Finalmente, muestra que Dios es incorpóreo, y no puede ser visto por el ojo corporal: Nunca habéis oído su voz, ni visto su forma.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cb7ae25ef997"
+ },
+ "hcf:Hilary of Poitiers/John 5_37#0": {
+  "text_es": "Pero como el testimonio de las obras no es evidencia suficiente, sigue: Y el Padre mismo que me envió, ha dado testimonio de mí. Abrid los volúmenes evangélicos, y examinad toda su extensión: ningún testimonio del Padre al Hijo se da en ninguno de los libros, aparte de que Él es el Hijo. Así que qué calumnia es que los hombres ahora digan que esto es solo un nombre de adopción: haciendo así a Dios mentiroso, y los nombres sin sentido.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "15c4d77d8f08"
+ },
+ "hcf:John Chrysostom/John 5_37#0": {
+  "text_es": "\"Y el Padre mismo, que me ha enviado, ha dado testimonio de mí.\" ¿Dónde dio Él testimonio de Él? En el Jordán: \"Este es mi Hijo amado, en quien tengo complacencia\"; a él oíd. Sin embargo, incluso esto necesitaba prueba. El testimonio de Juan entonces era claro, pues ellos mismos habían enviado a él, y no podían negarlo. El testimonio de los milagros era de igual manera claro, pues los habían visto obrados, y habían oído de aquel que fue sanado, y habían creído; de donde también sacaron su acusación. Por lo tanto, quedaba dar prueba al testimonio del Padre.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c6af271fb302"
+ },
+ "hcf:Alcuin of York/John 5_38#0": {
+  "text_es": "Pues no es por el oído carnal, sino por la comprensión espiritual, mediante la gracia del Espíritu Santo, que Dios es oído. Y ellos no oyeron la voz espiritual, porque no lo amaban ni le obedecían, ni vieron su forma; ya que esta no ha de ser vista por el ojo externo, sino por la fe y el amor.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "732aa90b4c7c"
+ },
+ "hcf:John Chrysostom/John 5_38#0": {
+  "text_es": "\"Pero ¿por qué\", dice, \"nombro estas cosas? No solo no habéis 'oído su voz ni visto su figura', sino que ni siquiera está en vuestro poder afirmar aquello de lo que más os jactáis y de lo que todos estáis plenamente seguros, a saber, que habéis recibido y guardáis sus mandamientos\". Por lo cual añade: \"Y no tenéis su palabra permaneciendo en vosotros\". Es decir, las ordenanzas, los mandamientos, la Ley y los Profetas. Pues aunque Dios los instituyó, con todo no están con vosotros, ya que no creéis en mí. Porque, si la Escritura en todas partes dice que es necesario prestarme atención, y sin embargo no creéis, está bastante claro que su palabra se ha apartado de vosotros. Por lo cual de nuevo añade: \"Porque aquel a quien él envió, a ese no creéis\".",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "93c17aa773b9",
+  "corregido_por_juez": "«still they are not with you» se tradujo como «aún no están con vosotros» (que significa «not yet»), alterando el sentido de «aun así / con todo no están con vosotros»."
+ },
+ "aquifer:19168": {
+  "text_es": "El cuarto testimonio de Jesús fueron las Escrituras. El Antiguo Testamento apuntaba al Mesías, y Jesús cumplió sus profecías (véase Lucas 24:25–27).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3e209c8bed63"
+ },
+ "hcf:Alcuin of York/John 5_39-40#0": {
+  "text_es": "O así; no pueden tener permaneciendo en ellos el Verbo que era en el principio, quienes no vinieron a tener en mente, ni a cumplir en la práctica, esa palabra de Dios que oyen. Habiendo mencionado los testimonios de Juan, y del Padre, y de sus obras, añade ahora el de la Ley mosaica: Escudriñad las Escrituras, porque en ellas pensáis tener vida eterna; y ellas son las que testifican de mí: como si dijera: Pensáis tener vida eterna en las Escrituras, y me rechazáis como opuesto a Moisés; pero encontraréis que Moisés mismo testifica que yo soy Dios, si escudriñáis la Escritura cuidadosamente. Toda Escritura ciertamente da testimonio de Cristo, ya sea por sus tipos, o por los profetas, o por el ministerio de los Ángeles. Pero los judíos no creyeron estas insinuaciones de Cristo, y por lo tanto no pudieron obtener la vida eterna: No queréis venir a mí, para que tengáis vida; es decir, las Escrituras dan testimonio de mí, pero no queréis venir a mí a pesar de ello, esto es, no creéis en mí, y no buscáis la salvación de mis manos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bd3217f21cd8"
+ },
+ "hcf:John Chrysostom/John 5_39#0": {
+  "text_es": "Entonces, para que no argumenten: \"¿Cómo, si no hemos oído su voz, ha testificado de ti?\", dice: \"Escudriñad las Escrituras, porque ellas son las que testifican de mí.\" Ya que por estas el Padre dio su testimonio. Lo dio ciertamente también por el Jordán y en el monte, pero Cristo no presenta esas voces; quizás al hacerlo habría sido descreído; pues una de ellas, la del monte, no la oyeron, y la otra la oyeron ciertamente, pero no la atendieron. Por esta razón los remite a las Escrituras, mostrando que de ellas viene el testimonio del Padre, habiendo primero eliminado los antiguos motivos por los que solían jactarse, ya sea por haber visto a Dios o por haber oído su voz. Pues como era probable que descreyeran de su voz, y se imaginaran lo que sucedió en Sinaí, después de corregir primero sus sospechas en estos puntos, y mostrar que lo que se había hecho era una condescendencia, entonces los remite al testimonio de las Escrituras.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "31099135ff39"
+ },
+ "hcf:Bede/John 5_40#0": {
+  "text_es": "Que el venir se pone por creer lo sabemos: Venid a Él, y seréis iluminados. Añade: Para que tengáis vida; (Sal. 33) Pues, si el alma que peca muere, ellos estaban muertos en alma y mente. Y por lo tanto promete la vida del alma, esto es, la felicidad eterna.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "727aebadab8f"
+ },
+ "aquifer:19170": {
+  "text_es": "Los juicios judíos tenían como propósito descubrir la verdad. La meta era decidir si los cargos eran verdaderos o falsos.\n\nSi las personas eran acusadas falsamente, podían mostrar que eran inocentes. También podía presentar cargos contra quienes lo habían acusado. En esta situación, Jesús hizo eso.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6288df5f54a2"
+ },
+ "hcf:Alcuin of York/John 5_41-42#0": {
+  "text_es": "O, No recibo honra de los hombres: es decir, no busco la alabanza humana; pues no vine a recibir honra carnal de los hombres, sino a dar honra espiritual a los hombres. No presento entonces este testimonio porque busque mi propia gloria; sino porque me compadezco de vuestros extravíos, y deseo traeros de vuelta al camino de la verdad. De ahí lo que sigue: Pero yo os conozco, que no tenéis el amor de Dios en vosotros.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5bf68bb4b29c"
+ },
+ "hcf:John Chrysostom/John 5_41-42#0": {
+  "text_es": "\"No recibo honra de los hombres\". Es decir, \"no la necesito\": \"Mi naturaleza\", dice, \"no es de tal índole que necesite la honra que viene de los hombres, pues si el sol no puede recibir aumento alguno de la luz de una vela, mucho más lejos estoy yo de necesitar la honra que viene de los hombres\". \"¿Por qué entonces\", pregunta alguno, \"dices estas cosas, si no la necesitas?\". \"Para que seáis salvos\". Esto lo afirmó positivamente arriba, y lo mismo dio a entender aquí también, al decir: \"para que tengáis vida\". Además, añade otra razón: \"Pero yo os conozco, que no tenéis el amor de Dios en vosotros\". Pues cuando, bajo pretexto de amar a Dios, lo perseguían porque se hacía igual a Dios, y él sabía que no le creerían, para que nadie preguntara: \"¿por qué dices estas palabras?\". \"Las digo\", dice, \"para convenceros de esto: que no es por amor de Dios que me perseguís, si es que él da testimonio de mí tanto por las obras como por las Escrituras. Porque así como antes de esto, cuando me teníais por enemigo de Dios, me rechazasteis, así ahora, puesto que he declarado estas cosas, deberíais haber acudido a mí, si de veras hubierais amado a Dios. Pero no lo amáis. Y por eso he dicho estas palabras: para mostrar que estáis poseídos de soberbia excesiva, que os jactáis vanamente y encubrís vuestra propia envidia\". Y lo mismo prueba no solo por estas cosas, sino por las que habían de suceder.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "44b1b20a3267",
+  "corregido_por_juez": "«to convict you of this» se tradujo agramaticalmente como «para convictos de esto» en lugar de usar una forma verbal («para convencerlos» o «para redargüiros»)."
+ },
+ "aquifer:19171": {
+  "text_es": "Jesús dijo que los líderes judíos no tenían el amor de Dios en ellos. No amaban verdaderamente a Dios.\n\nPorque no amaban a Dios, no podían entender lo que Jesús estaba haciendo. Sin amor por Dios, eran incapaces de reconocer la obra de Dios en él.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "16411116f4d9"
+ },
+ "hcf:Alcuin of York/John 5_43#0": {
+  "text_es": "Como si dijera: Por esta causa vine al mundo, para que por mí fuese glorificado el nombre del Padre; pues a él lo atribuyo todo. Así, pues, como no quisieron recibir a quien vino a hacer la voluntad de su Padre, no tenían el amor de Dios. Pero el Anticristo vendrá no en el nombre del Padre, sino en el suyo propio, para buscar no la gloria del Padre, sino la suya. Y habiendo rechazado los judíos a Cristo, fue un justo castigo para ellos que recibieran al Anticristo y creyeran a la mentira, ya que no quisieron creer a la Verdad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9289ab6326d5"
+ },
+ "hcf:John Chrysostom/John 5_43-44#0": {
+  "text_es": "He aquí la prueba culminante de su impiedad. Dice, por así decirlo: Si fuera el amor de Dios lo que os movía a perseguirme, perseguiríais mucho más al Anticristo; pues él no profesa haber sido enviado por el Padre, ni venir conforme a su voluntad; sino que, por el contrario, usurpando lo que no le pertenece, se proclamará a sí mismo Dios sobre todas las cosas. Es manifiesto que vuestra persecución contra mí procede de malicia y de odio a Dios. Luego da la razón de su incredulidad: ¿Cómo podéis creer, los que recibís gloria los unos de los otros, y no buscáis la gloria que viene de Dios solo? Otra prueba esta de que lo suyo no era celo por Dios, sino satisfacción de sus propias pasiones.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "73654fa84db6"
+ },
+ "aquifer:19172": {
+  "text_es": "Los líderes judíos querían honor y alabanza los unos de los otros. Les importaba su reputación y su posición.\n\nAmaban la actividad religiosa, pero no amaban verdaderamente a Dios. Sus acciones no correspondían a sus afirmaciones. Por esto, Dios los juzgaría (5:45–46).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3f7df9b7cfc4"
+ },
+ "hcf:Alcuin of York/John 5_44#0": {
+  "text_es": "¡Cuán defectuoso es, pues, el temperamento jactancioso, y ese afán de alabanza humana, que gusta de ser tenido por lo que no es, y querría que se pensara que todo lo que tiene lo tiene por su propia fuerza! Los hombres de tal temperamento no pueden creer; pues en sus corazones están inclinados únicamente a ganar alabanza y a ponerse por encima de los demás.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2573c6b350ee",
+  "corregido_por_juez": "Cambio de sentido: «to have what it has not» (tener lo que no tiene) se tradujo inexactamente como «ser tenido por lo que no es»."
+ },
+ "hcf:Bede/John 5_44-45#0": {
+  "text_es": "La mejor manera de guardarse de este pecado es traer a nuestra conciencia el recuerdo de que somos polvo, y que debemos atribuir todo el bien que tenemos no a nosotros mismos, sino a Dios. Y debemos procurar ser siempre tales como deseamos aparecer ante los demás. Entonces, como podrían preguntar: ¿Nos acusarás entonces ante el Padre? Él se anticipa a esta pregunta: No penséis que yo os acusaré ante el Padre.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6465c932dac0"
+ },
+ "hcf:John Chrysostom/John 5_44#0": {
+  "text_es": "«¿Cómo podéis creer, los que recibís gloria los unos de los otros, y no buscáis la gloria que viene de Dios solo?» De aquí de nuevo muestra que no miraban a las cosas de Dios, sino que bajo este pretexto deseaban satisfacer sentimientos particulares, y estaban tan lejos de hacer esto por causa de su gloria, que preferían la gloria de los hombres a la que viene de él. ¿Cómo, pues, era probable que sintieran tal hostilidad contra él por una especie de gloria que tanto despreciaban, que preferían a ella la gloria que viene de los hombres?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "31db3bb8ecf6"
+ },
+ "aquifer:19173": {
+  "text_es": "El quinto y último testimonio a favor de Jesús fue Moisés, la figura central por medio de quien Dios dio la ley a Israel. Antes en el Evangelio de Juan, Jesús es comparado con Moisés, quien dio la ley, mientras que Jesús trajo gracia y verdad (1:17; véase también 6:14–15). Los líderes judíos no aceptaron las palabras de Moisés, quien habló claramente acerca del Mesías venidero, incluida la promesa de un profeta como él (por ejemplo, Deuteronomio 18:15).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "88b18b36b4b8"
+ },
+ "hcf:John Chrysostom/John 5_45-46#0": {
+  "text_es": "Pues no he venido a condenar, sino a salvar. Hay uno que os acusa, Moisés, en quien confiáis. Como había dicho antes de las Escrituras: En ellas pensáis tener vida eterna. Así ahora dice de Moisés: En quien confiáis, respondiéndoles siempre a partir de sus propias autoridades. Pero dirán: ¿Cómo nos acusará? ¿Qué tienes tú que ver con Moisés, tú que has quebrantado el sábado? Así que añade: Porque si creyerais a Moisés, quizá me creeríais a mí, pues de mí escribió. Esto se conecta con lo dicho antes. Pues donde la evidencia de que él venía de Dios les había sido impuesta por sus palabras, por la voz de Juan y por el testimonio del Padre, era cierto que Moisés los condenaría; (aludiendo a Deut. 13:1.) pues había dicho: Si alguno viniere, haciendo milagros, llevando a los hombres a Dios y prediciendo el futuro con certeza, debéis obedecerle. Cristo hizo todo esto, y ellos no le obedecieron.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3e19ee818e27"
+ },
+ "hcf:Alcuin of York/John 5_46#0": {
+  "text_es": "Quizá, dice, por acomodación a nuestra manera de hablar, no porque realmente haya en Dios duda alguna. Moisés profetizó de Cristo: Profeta de en medio de ti, de tus hermanos, como yo, te levantará Jehová tu Dios: a él oiréis. (Deut. 18:18)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "524d05a63c53"
+ },
+ "hcf:Augustine of Hippo/John 5_46#1": {
+  "text_es": "Oye a Juan: Como habéis oído que el Anticristo ha de venir, así también ahora muchos anticristos han aparecido. (1 Juan 2:18) Pero ¿qué temes en el Anticristo, sino que exaltará su propio nombre y despreciará el nombre del Señor? ¿Y qué otra cosa hace el que dice: «Yo justifico»; o los que dicen: «A menos que seamos buenos, pereceréis»? Por tanto, mi vida dependerá de ti, y mi salvación estará afianzada en ti. ¿Habré de olvidar así mi fundamento? ¿No es mi roca Cristo?\n\n(cont. Faust. l. xvi. c. 9) Pero, de hecho, todo lo que Moisés escribió, fue escrito de Cristo, es decir, tiene referencia a él principalmente; ya sea que lo señale por acciones figuradas o por expresión; o que exponga su gracia y su gloria.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0ba1073e2880"
+ },
+ "hcf:John Chrysostom/John 5_46-47#0": {
+  "text_es": "En efecto, si hubieran atendido a sus palabras, deberían haber procurado y habrían procurado aprender de él qué cosas eran las que Moisés había escrito de él. Pero callan. Pues es propio de la maldad desafiar la persuasión. Hagas lo que hagas, conserva su veneno hasta el final.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9fd9c7fb0ad1"
+ },
+ "hcf:Alcuin of York/John 5_47#0": {
+  "text_es": "De esto podemos inferir también que quien conoce los mandamientos contra el robo y otros crímenes, y los descuida, nunca cumplirá los preceptos más perfectos y refinados del Evangelio.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "dbf0dc56fcb1"
+ },
+ "hcf:Augustine of Hippo/John 5_47#0": {
+  "text_es": "Pero si no creéis a sus escritos, ¿cómo creeréis a mis palabras?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "54d023fca702"
+ },
+ "hcf:Theophylact of Ohrid/John 5_47#0": {
+  "text_es": "Como si dijera: Él incluso escribió, y ha dejado sus libros entre vosotros, como un recordatorio constante para vosotros, para que no olvidéis sus palabras. Y puesto que no creéis a sus escritos, ¿cómo podéis creer a mis palabras no escritas?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "965847a92507"
+ }
+}
