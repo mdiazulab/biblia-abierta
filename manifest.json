@@ -1,0 +1,15 @@
+{
+ "descripcion": "Fuentes fijadas por commit (SHA). La ingesta (scripts/ingesta.py) descarga exactamente estas versiones en fuentes/ (fuera de git).",
+ "fuentes": {
+  "rv1909": {"repo": "https://github.com/seven1m/open-bibles", "sha": "f257a3559025c3f873b48a75019f53a9354ed7de",
+             "rutas": ["/spa-rv1909.usfx.xml"], "licencia": "Dominio público", "capa": "texto"},
+  "aquifer": {"repo": "https://github.com/BibleAquifer/AquiferOpenStudyNotes", "sha": "bbb3f86016cd20913f410a95af63d9f7ff9a71d6",
+              "rutas": ["/eng/json/{libro}.content.json", "/spa/json/{libro}.content.json"], "licencia": "CC-BY-SA-4.0", "capa": "contexto"},
+  "hcf": {"repo": "https://github.com/HistoricalChristianFaith/Commentaries-Database", "sha": "8e8082b5f541e7e4105f48692f973956caa72dcd",
+          "rutas": ["/*/{nombre} [0-9]*"], "licencia": "Compilación dedicada al dominio público; cada cita según su traducción (ver glosario/obras.json)", "capa": "padres"}
+ },
+ "excluidas": {
+  "open-christian-data": "Repositorio CC BY-NC 4.0 (incompatible con BY-SA). Calvino/Wesley/Henry se toman de sus fuentes de dominio público (CrossWire SWORD / HelloAO) en CI.",
+  "net-bible": "Notas sin permiso para obras derivadas."
+ }
+}

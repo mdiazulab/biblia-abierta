@@ -1,0 +1,471 @@
+# Padres JHN (HCF)
+
+- dominio público: 5246 citas, 1,257,148 palabras (inglés)
+- cuarentena: 4370 citas, 1,104,194 palabras (no se traducen)
+- excluidos (autores modernos): {'CS Lewis': 47, 'GK Chesterton': 37}
+- Oriente / Occidente (dominio público): 2715 / 2531
+- versículos con al menos una cita de dominio público: 858
+
+## Por autor y obra (dominio público)
+
+- Cyril of Alexandria — Commentary on the Gospel of John: 884
+- Augustine of Hippo — Catena Aurea (Tomás de Aquino): 625
+- Theophylact of Ohrid — Catena Aurea (Tomás de Aquino): 209
+- Alcuin of York — Catena Aurea (Tomás de Aquino): 177
+- John Chrysostom — Catena Aurea (Tomás de Aquino): 170
+- Bede — Catena Aurea (Tomás de Aquino): 142
+- Tertullian — Against Praxeas: 96
+- Gregory the Dialogist — Catena Aurea (Tomás de Aquino): 93
+- Origen of Alexandria — Catena Aurea (Tomás de Aquino): 67
+- Hilary of Poitiers — Catena Aurea (Tomás de Aquino): 56
+- John Chrysostom — Homily on the Gospel of John 83: 35
+- Augustine of Hippo — Tractates on John 15: 34
+- Clement of Alexandria — The Instructor Book 1: 29
+- Irenaeus — Against Heresies Book IV: 26
+- Hilary of Poitiers — On the Trinity: 25
+- John Chrysostom — Homily on the Gospel of John 38: 25
+- John Chrysostom — Homily on the Gospel of John 49: 24
+- Philoxenus of Mabbug — 13 Ascetic Discourses: 24
+- Tertullian — An Answer to the Jews: 24
+- Cyprian — Treatise XII Three Books of Testimonies Against the Jews: 23
+- Augustine of Hippo — Tractates on John 19: 22
+- Augustine of Hippo — Tractates on John 22: 22
+- Cyprian — Treatise XII. Three Books of Testimonies Against the Jews.: 22
+- John Chrysostom — Homily on the Gospel of John 52: 22
+- Augustine of Hippo — Tractates on John 20: 21
+- Tertullian — On Baptism: 21
+- Augustine of Hippo — Tractates on John 17: 20
+- John Chrysostom — Homily on the Gospel of John 31: 20
+- Augustine of Hippo — Tractates on John 26: 19
+- Cyril of Alexandria — Commentary on the Gospel of John - Book 11: 19
+- John Chrysostom — Homily on the Gospel of John 45: 19
+- Tertullian — On the Resurrection of the Flesh: 19
+- Augustine of Hippo — Tractates on John 5: 18
+- Irenaeus — Against Heresies Book III: 18
+- John Chrysostom — Homily on the Gospel of John 82: 18
+- John Chrysostom — Homily on the Gospel of John 87: 18
+- John Chrysostom — Homily on the Gospel of John 54: 18
+- Augustine of Hippo — Tractates on John 14: 17
+- Augustine of Hippo — Tractates on John 44: 17
+- Cosmas Indicopleustes — The Christian Topography: 17
+- Glossa Ordinaria — Catena Aurea (Tomás de Aquino): 17
+- Hippolytus of Rome — Hippolytus Dogmatical and Historical Fragments: 17
+- John Chrysostom — Homily on the Gospel of John 88: 17
+- John Chrysostom — Homily on the Gospel of John 42: 17
+- John Chrysostom — Homily on the Gospel of John 47: 17
+- Augustine of Hippo — Tractates on John 12: 16
+- Augustine of Hippo — Tractates on John 13: 16
+- Augustine of Hippo — Tractates on John 21: 16
+- Augustine of Hippo — Tractates on John 25: 16
+- John Chrysostom — Homily on the Gospel of John 77: 16
+- John Chrysostom — Homily on the Gospel of John 85: 16
+- John Chrysostom — Homily on the Gospel of John 16: 16
+- John Chrysostom — Homily on the Gospel of John 23: 16
+- John Chrysostom — Homily on the Gospel of John 58: 16
+- Augustine of Hippo — Tractates on John 8: 15
+- Irenaeus — Against Heresies Book V: 15
+- John Chrysostom — Homily on the Gospel of John 67: 15
+- John Chrysostom — Homily on the Gospel of John 84: 15
+- John Chrysostom — Homily on the Gospel of John 86: 15
+- John Chrysostom — Homily on the Gospel of John 40: 15
+- John Chrysostom — Homily on the Gospel of John 46: 15
+- Augustine of Hippo — Tractates on John 49: 14
+- Augustine of Hippo — Tractates on John 120: 14
+- Augustine of Hippo — Tractates on John 7: 14
+- John Chrysostom — Homily on the Gospel of John 26: 14
+- John Chrysostom — Homily on the Gospel of John 55: 14
+- Augustine of Hippo — Tractates on John 11: 13
+- Augustine of Hippo — Tractates on John 33: 13
+- Augustine of Hippo — Tractates on John 38: 13
+- Augustine of Hippo — Tractates on John 40: 13
+- Hippolytus of Rome — Hippolytus Refutation of All Heresies Book V: 13
+- John Chrysostom — Homily on the Gospel of John 60: 13
+- John Chrysostom — Homily on the Gospel of John 62: 13
+- John Chrysostom — Homily on the Gospel of John 65: 13
+- John Chrysostom — Homily on the Gospel of John 25: 13
+- John Chrysostom — Homily on the Gospel of John 43: 13
+- John Chrysostom — Homily on the Gospel of John 48: 13
+- Tertullian — The Prescription Against Heretics: 13
+- Augustine of Hippo — Tractates on John 48: 12
+- Augustine of Hippo — Tractates on John 99: 12
+- Augustine of Hippo — Tractates on John 111: 12
+- Augustine of Hippo — Tractates on John 121: 12
+- Augustine of Hippo — Tractates on John 10: 12
+- Cyril of Alexandria — Commentary on the Gospel of John - Book 10: 12
+- Ignatius of Antioch — Epistle of Ignatius to the Ephesians: 12
+- John Chrysostom — Homily on the Gospel of John 29: 12
+- Tertullian — On Prayer: 12
+- Augustine of Hippo — Tractates on John 97: 11
+- Augustine of Hippo — Tractates on John 1: 11
+- Augustine of Hippo — Tractates on John 4: 11
+- Augustine of Hippo — Tractates on John 18: 11
+- Clement of Alexandria — The Stromata Book 1: 11
+- John Chrysostom — Homily on the Gospel of John 76: 11
+- John Chrysostom — Homily on the Gospel of John 32: 11
+- John Chrysostom — Homily on the Gospel of John 33: 11
+- John Chrysostom — Homily on the Gospel of John 34: 11
+- John Chrysostom — Homily on the Gospel of John 39: 11
+- John Chrysostom — Homily on the Gospel of John 53: 11
+- Apostolic Constitutions — Constitutions of the Holy Apostles Book 2: 10
+- Apostolic Constitutions — Constitutions of the Holy Apostles Book 5: 10
+- Augustine of Hippo — Tractates on John 51: 10
+- Augustine of Hippo — Tractates on John 116: 10
+- Augustine of Hippo — Tractates on John 27: 10
+- John Chrysostom — Homily on the Gospel of John 63: 10
+- John Chrysostom — Homily on the Gospel of John 78: 10
+- John Chrysostom — Homily on the Gospel of John 22: 10
+- Augustine of Hippo — Tractates on John 50: 9
+- Augustine of Hippo — Tractates on John 2: 9
+- Augustine of Hippo — Tractates on John 16: 9
+- Augustine of Hippo — Tractates on John 6: 9
+- Augustine of Hippo — Tractates on John 28: 9
+- Augustine of Hippo — Tractates on John 31: 9
+- Clement of Alexandria — The Stromata Book 6: 9
+- John Chrysostom — Homily on the Gospel of John 66: 9
+- John Chrysostom — Homily on the Gospel of John 80: 9
+- John Chrysostom — Homily on the Gospel of John 81: 9
+- John Chrysostom — Homily on the Gospel of John 5: 9
+- John Chrysostom — Homily on the Gospel of John 50: 9
+- Methodius of Olympus — Methodius Oration on the Psalms: 9
+- Tertullian — On the Flesh of Christ: 9
+- Augustine of Hippo — Tractates on John 112: 8
+- Augustine of Hippo — Tractates on John 113: 8
+- Augustine of Hippo — Tractates on John 123: 8
+- Augustine of Hippo — Tractates on John 124: 8
+- Augustine of Hippo — Tractates on John 24: 8
+- Augustine of Hippo — Tractates on John 36: 8
+- Augustine of Hippo — Tractates on John 39: 8
+- Augustine of Hippo — Tractates on John 42: 8
+- Augustine of Hippo — Tractates on John 43: 8
+- Clement of Alexandria — The Stromata Book 5: 8
+- Cyprian — Treatise IV On the Lord's Prayer: 8
+- Irenaeus — Fragments from the Lost Writings of Irenaeus: 8
+- John Chrysostom — Homily on the Gospel of John 59: 8
+- John Chrysostom — Homily on the Gospel of John 61: 8
+- John Chrysostom — Homily on the Gospel of John 70: 8
+- John Chrysostom — Homily on the Gospel of John 71: 8
+- John Chrysostom — Homily on the Gospel of John 3: 8
+- John Chrysostom — Homily on the Gospel of John 10: 8
+- John Chrysostom — Homily on the Gospel of John 15: 8
+- John Chrysostom — Homily on the Gospel of John 17: 8
+- John Chrysostom — Homily on the Gospel of John 18: 8
+- John Chrysostom — Homily on the Gospel of John 24: 8
+- John Chrysostom — Homily on the Gospel of John 35: 8
+- John Chrysostom — Homily on the Gospel of John 56: 8
+- Justin Martyr — Dialogue with Trypho: 8
+- Tertullian — On Modesty: 8
+- Apostolic Constitutions — Constitutions of the Holy Apostles Book 8: 7
+- Augustine of Hippo — Tractates on John 52: 7
+- Augustine of Hippo — Tractates on John 100: 7
+- Augustine of Hippo — Tractates on John 101: 7
+- Augustine of Hippo — Tractates on John 105: 7
+- Augustine of Hippo — Tractates on John 107: 7
+- Augustine of Hippo — Tractates on John 110: 7
+- Augustine of Hippo — Tractates on John 117: 7
+- Augustine of Hippo — Tractates on John 122: 7
+- Ignatius of Antioch — Epistle of Ignatius to the Smyrnaeans: 7
+- Ignatius of Antioch — Epistle of Pseudo-Ignatius to the Tarsians: 7
+- John Chrysostom — Homily on the Gospel of John 74: 7
+- John Chrysostom — Homily on the Gospel of John 79: 7
+- John Chrysostom — Homily on the Gospel of John 20: 7
+- John Chrysostom — Homily on the Gospel of John 21: 7
+- John Chrysostom — Homily on the Gospel of John 28: 7
+- Tertullian — Against Hermogenes: 7
+- Tertullian — Against Marcion Book V: 7
+- Apostolic Constitutions — Constitutions of the Holy Apostles Book 6: 6
+- Augustine of Hippo — Tractates on John 53: 6
+- Augustine of Hippo — Tractates on John 54: 6
+- Augustine of Hippo — Tractates on John 98: 6
+- Augustine of Hippo — Tractates on John 102: 6
+- Augustine of Hippo — Tractates on John 103: 6
+- Augustine of Hippo — Tractates on John 104: 6
+- Augustine of Hippo — Tractates on John 108: 6
+- Augustine of Hippo — Tractates on John 109: 6
+- Augustine of Hippo — Tractates on John 106: 6
+- Augustine of Hippo — Tractates on John 114: 6
+- Augustine of Hippo — Tractates on John 119: 6
+- Augustine of Hippo — Tractates on John 3: 6
+- Augustine of Hippo — Tractates on John 9: 6
+- Clement of Alexandria — The Instructor Book 2: 6
+- Clement of Alexandria — The Stromata Book 2: 6
+- Cyprian — Treatise XI. Exhortation to Martyrdom: 6
+- Cyprian — Epistle LXXII: 6
+- Didymus the Blind — Catena Aurea (Tomás de Aquino): 6
+- Hippolytus of Rome — Hippolytus Exegetical Fragments: 6
+- Irenaeus — Against Heresies Book II: 6
+- John Chrysostom — Homily on the Gospel of John 4: 6
+- John Chrysostom — Homily on the Gospel of John 13: 6
+- John Chrysostom — Homily on the Gospel of John 14: 6
+- John Chrysostom — Homily on the Gospel of John 36: 6
+- John Chrysostom — Homily on the Gospel of John 37: 6
+- John Chrysostom — Homily on the Gospel of John 41: 6
+- Tertullian — On Fasting: 6
+- Tertullian — On Monogamy: 6
+- Tertullian — A Treatise on the Soul: 6
+- Augustine of Hippo — Tractates on John 56: 5
+- Augustine of Hippo — Tractates on John 59: 5
+- Augustine of Hippo — Tractates on John 74: 5
+- Augustine of Hippo — Tractates on John 76: 5
+- Augustine of Hippo — Tractates on John 75: 5
+- Augustine of Hippo — Tractates on John 89: 5
+- Augustine of Hippo — Tractates on John 95: 5
+- Augustine of Hippo — Tractates on John 96: 5
+- Augustine of Hippo — Tractates on John 94: 5
+- Augustine of Hippo — Tractates on John 115: 5
+- Augustine of Hippo — Tractates on John 30: 5
+- Augustine of Hippo — Tractates on John 37: 5
+- Cyprian — Treatise IV. On the Lord's Prayer.: 5
+- Cyprian — Epistle LXII: 5
+- Haymo of Halberstadt — Catena Aurea (Tomás de Aquino): 5
+- Ignatius of Antioch — Epistle of Ignatius to the Philadelphians: 5
+- Ignatius of Antioch — Epistle of Ignatius to the Trallians: 5
+- Irenaeus — Against Heresies Book I: 5
+- Irenaeus — Irenaeus Against Heresies Book 3: 5
+- Jerome — Catena Aurea (Tomás de Aquino): 5
+- John Chrysostom — Homily on the Gospel of John 64: 5
+- John Chrysostom — Homily on the Gospel of John 69: 5
+- John Chrysostom — Homily on the Gospel of John 73: 5
+- John Chrysostom — Homily on the Gospel of John 8: 5
+- John Chrysostom — Homily on the Gospel of John 12: 5
+- John Chrysostom — Homily on the Gospel of John 27: 5
+- John Chrysostom — Homily on the Gospel of John 30: 5
+- John Chrysostom — Homily on the Gospel of John 44: 5
+- John Chrysostom — Homily on the Gospel of John 57: 5
+- Tertullian — On Idolatry: 5
+- Tertullian — On the Veiling of Virgins: 5
+- Augustine of Hippo — Tractates on John 47: 4
+- Augustine of Hippo — Tractates on John 55: 4
+- Augustine of Hippo — Tractates on John 61: 4
+- Augustine of Hippo — Tractates on John 62: 4
+- Augustine of Hippo — Tractates on John 71: 4
+- Augustine of Hippo — Tractates on John 73: 4
+- Augustine of Hippo — Tractates on John 85: 4
+- Augustine of Hippo — Tractates on John 87: 4
+- Augustine of Hippo — Tractates on John 91: 4
+- Augustine of Hippo — Tractates on John 81: 4
+- Augustine of Hippo — Tractates on John 93: 4
+- Augustine of Hippo — Tractates on John 118: 4
+- Augustine of Hippo — Tractates on John 29: 4
+- Augustine of Hippo — Tractates on John 41: 4
+- Clement of Alexandria — The Stromata Book 4: 4
+- Cyprian — Treatise I On the Unity of the Church: 4
+- Cyprian — Treatise VII On the Mortality: 4
+- Hippolytus of Rome — The Refutation of All Heresies - Book 5: 4
+- Ignatius of Antioch — Epistle of Pseudo-Ignatius to the Philippians: 4
+- Ignatius of Antioch — Epistle of Pseudo-Ignatius to the Antiochians: 4
+- Irenaeus — Irenaeus Against Heresies Book 5: 4
+- John Chrysostom — Homily on the Gospel of John 68: 4
+- John Chrysostom — Homily on the Gospel of John 75: 4
+- John Chrysostom — Homily on the Gospel of John 11: 4
+- John Chrysostom — Homily on the Gospel of John 19: 4
+- John Chrysostom — Homily on the Gospel of John 7: 4
+- John Chrysostom — Homily on the Gospel of John 51: 4
+- Tertullian — Pseudo-Tertullian Against All Heresies: 4
+- Augustine of Hippo — Tractates on John 45: 3
+- Augustine of Hippo — Tractates on John 58: 3
+- Augustine of Hippo — Tractates on John 66: 3
+- Augustine of Hippo — Tractates on John 72: 3
+- Augustine of Hippo — Tractates on John 77: 3
+- Augustine of Hippo — Tractates on John 78: 3
+- Augustine of Hippo — Tractates on John 79: 3
+- Augustine of Hippo — Tractates on John 80: 3
+- Augustine of Hippo — Tractates on John 82: 3
+- Augustine of Hippo — Tractates on John 86: 3
+- Augustine of Hippo — Tractates on John 88: 3
+- Augustine of Hippo — Tractates on John 90: 3
+- Augustine of Hippo — Tractates on John 23: 3
+- Augustine of Hippo — Tractates on John 32: 3
+- Clement of Alexandria — The Instructor Book 3: 3
+- Clement of Alexandria — Fragments Found in Greek Only in the Oxford Edition: 3
+- Cyprian — Epistle LXXV: 3
+- Cyprian — Epistle LV: 3
+- Cyprian — The Seventh Council of Carthage Under Cyprian: 3
+- Cyprian — Epistle LIV: 3
+- Cyprian — Epistle LXVIII: 3
+- Dionysius of Alexandria — A Commentary on the Beginning of Ecclesiastes: 3
+- Hippolytus of Rome — Exegetical Fragments: 3
+- Ignatius of Antioch — Epistle of Ignatius to the Romans: 3
+- Ignatius of Antioch — Epistle of Ignatius to the Magnesians: 3
+- Irenaeus — Irenaeus Against Heresies Book 4: 3
+- John Chrysostom — Homily on the Gospel of John 2: 3
+- John Chrysostom — Homily on the Gospel of John 9: 3
+- John Chrysostom — Homily on the Gospel of John 6: 3
+- Tertullian — Against Marcion Book II: 3
+- Tertullian — On Repentance: 3
+- Tertullian — Against Marcion Book IV: 3
+- Apostolic Constitutions — Constitutions of the Holy Apostles Book 3: 2
+- Apostolic Constitutions — Apostolic Constitutions (Book V): 2
+- Augustine of Hippo — Tractates on John 63: 2
+- Augustine of Hippo — Tractates on John 65: 2
+- Augustine of Hippo — Tractates on John 67: 2
+- Augustine of Hippo — Tractates on John 69: 2
+- Augustine of Hippo — Tractates on John 70: 2
+- Augustine of Hippo — Tractates on John 83: 2
+- Augustine of Hippo — Tractates on John 84: 2
+- Augustine of Hippo — Tractates on John 92: 2
+- Augustine of Hippo — Tractates on John 35: 2
+- Clement of Alexandria — The Stromata Book 7: 2
+- Council of Ephesus — Catena Aurea (Tomás de Aquino): 2
+- Cyprian — Treatise VII. On the Mortality: 2
+- Cyprian — Treatise XII. Three Books of Testimonies Against the Jews: 2
+- Cyprian — Epistle LXXIV: 2
+- Cyprian — Epistle II: 2
+- Hippolytus of Rome — Hippolytus Refutation of All Heresies Book X: 2
+- Hippolytus of Rome — Fragments - Dogmatical and Historical: 2
+- Hippolytus of Rome — Hippolytus Fragments - Dogmatic and Historical: 2
+- Hippolytus of Rome — Dubious and Spurious Pieces: 2
+- Irenaeus — Against Heresies 4.14.1: 2
+- Irenaeus — Irenaeus Against Heresies Book 2: 2
+- John Chrysostom — Homily on the Gospel of John 72: 2
+- Justin Martyr — The First Apology: 2
+- Methodius of Olympus — Oration on the Psalms: 2
+- Methodius of Olympus — Methodius From the Discourse on the Resurrection: 2
+- Tertullian — De Corona: 2
+- Tertullian — Scorpiace: 2
+- Tertullian — On the Apparel of Women Book II: 2
+- Ambrose of Milan — Exposition of the Christian Faith 5.10.119-20: 1
+- Ambrose of Milan — Exposition of the Christian Faith 3.11.91: 1
+- Ambrose of Milan — Exposition of the Christian Faith 5.5.66: 1
+- Ambrose of Milan — Exposition of the Christian Faith 1.17.108: 1
+- Ambrose of Milan — Exposition of the Christian Faith 5.2.28: 1
+- Ambrose of Milan — Exposition of the Christian Faith 1.7.50: 1
+- Ambrose of Milan — Exposition of the Christian Faith 1.2.12: 1
+- Ambrose of Milan — Exposition of the Christian Faith 4.2.27: 1
+- Ambrose of Milan — Exposition of the Christian Faith 2.9.77-78: 1
+- Ambrose of Milan — Exposition of the Christian Faith 4.3.36-38: 1
+- Ambrose of Milan — Exposition of the Christian Faith 5.7.88-91: 1
+- Ambrose of Milan — Catena Aurea (Tomás de Aquino): 1
+- Ambrose of Milan — Exposition of the Christian Faith 1.8.57: 1
+- Ambrose of Milan — Exposition of the Christian Faith 3.10.71-74: 1
+- Ambrose of Milan — Exposition of the Christian Faith 3.7.50: 1
+- Ambrose of Milan — Exposition of the Christian Faith 5: 1
+- Ambrose of Milan — Exposition of the Christian Faith 3.2.13-14: 1
+- Ambrose of Milan — Exposition of the Christian Faith 2.7.58: 1
+- Ambrose of Milan — Exposition of the Christian Faith 2.6.47: 1
+- Ambrose of Milan — Exposition of the Christian Faith 5.13.169: 1
+- Ambrose of Milan — Exposition of the Christian Faith 5.4.53: 1
+- Ambrose of Milan — Exposition of the Christian Faith 2.8.68: 1
+- Ambrose of Milan — Exposition of the Christian Faith 2.8.69: 1
+- Ambrose of Milan — Exposition of the Christian Faith 4.5.60: 1
+- Ambrose of Milan — Exposition of the Christian Faith 2.12.100: 1
+- Ambrose of Milan — Exposition of the Christian Faith 2.12.104: 1
+- Ambrose of Milan — Exposition of the Christian Faith 2.9.79-80: 1
+- Apostolic Constitutions — Apostolic Constitutions (Book VII): 1
+- Apostolic Constitutions — Constitutions of the Holy Apostles Book 7: 1
+- Athanasius of Alexandria — Discourses Against the Arians 3.29.57: 1
+- Athanasius of Alexandria — Discourses Against the Arians 1.11.39: 1
+- Athanasius of Alexandria — Discourses Against the Arians 1.21: 1
+- Athanasius of Alexandria — Discourses Against the Arians 3.25.19: 1
+- Athanasius of Alexandria — Discourses Against the Arians 1.12.48: 1
+- Athanasius of Alexandria — Discourses Against the Arians 3.23.6-24.8-9: 1
+- Athanasius of Alexandria — Discourses Against the Arians 2.18.34-36: 1
+- Athanasius of Alexandria — Discourses Against the Arians 3.27.35: 1
+- Athanasius of Alexandria — Discourses Against the Arians 2.16.20-22: 1
+- Athanasius of Alexandria — Discourses Against the Arians 3.25.16: 1
+- Augustine of Hippo — Tractates on John 46: 1
+- Augustine of Hippo — Tractates on John 57: 1
+- Augustine of Hippo — Tractates on John 60: 1
+- Augustine of Hippo — Tractates on John 64: 1
+- Augustine of Hippo — Tractates on John 68: 1
+- Augustine of Hippo — Tractates on John 34: 1
+- Basil of Caesarea — Catena Aurea (Tomás de Aquino): 1
+- Clement of Alexandria — From the Latin Translation of Cassiodorus: 1
+- Clement of Alexandria — Who is the Rich Man that Shall Be Saved?: 1
+- Clement of Alexandria — The Stromata Book 3: 1
+- Cyprian — Treatise VI On the Vanity of Idols: 1
+- Cyprian — Treatise I. On the Unity of the Church.: 1
+- Cyprian — Epistle LXXX: 1
+- Cyprian — Pseudo-Cyprian On the Glory of Martyrdom: 1
+- Cyprian — Epistle V: 1
+- Cyprian — Epistle VI.4: 1
+- Cyprian — Epistle LXXIII: 1
+- Cyprian — Treatise I. On the Unity of the Church 14: 1
+- Cyprian — Treatise IX. On the Advantage of Patience: 1
+- Cyprian — Treatise V. An Address to Demetrianus.: 1
+- Cyprian — Epistle LXIV: 1
+- Cyprian — Treatise I. On the Unity of the Church 4: 1
+- Cyprian — Epistle LXXI: 1
+- Cyprian — Epistle VI: 1
+- Cyprian — Epistle LI: 1
+- Cyprian — Treatise II. On the Dress of Virgins.: 1
+- Cyprian — Treatise II On the Dress of Virgins: 1
+- Cyprian — Epistle LXII.13: 1
+- Cyprian — Epistle LXII.8: 1
+- Cyprian — Treatise X. On Jealousy and Envy.: 1
+- Cyprian — Treatise XI Exhortation to Martyrdom Addressed to Fortunatus: 1
+- Cyprian — Treatise IX. On the Advantage of Patience 9.13: 1
+- Cyprian — Epistle LXIII: 1
+- Cyprian — Epistle LXVII: 1
+- Cyprian — Epistle LXIX: 1
+- Cyprian — The Seventh Council of Carthage Under Cyprian.: 1
+- Cyril of Alexandria — Catena Aurea (Tomás de Aquino): 1
+- Cyril of Jerusalem — Catechetical Lecture 16:20: 1
+- Cyril of Jerusalem — Catechetical Lecture 11:22-23: 1
+- Cyril of Jerusalem — Catechetical Lecture 13:38: 1
+- Cyril of Jerusalem — Catechetical Lecture 13:23: 1
+- Cyril of Jerusalem — Catechetical Lecture 13:29: 1
+- Cyril of Jerusalem — Catechetical Lecture 13:32: 1
+- Cyril of Jerusalem — Catechetical Lecture 13:21: 1
+- Cyril of Jerusalem — Catechetical Lecture 13:19: 1
+- Cyril of Jerusalem — Catechetical Lecture 14:11: 1
+- Cyril of Jerusalem — Catechetical Lecture 11:9: 1
+- Cyril of Jerusalem — Catechetical Lecture 11:10: 1
+- Cyril of Jerusalem — Catechetical Lecture 17:9-10: 1
+- Cyril of Jerusalem — Catechetical Lecture 7:7: 1
+- Cyril of Jerusalem — Catechetical Lecture 11:18-19: 1
+- Cyril of Jerusalem — Catechetical Lecture 17:12: 1
+- Cyril of Jerusalem — Catechetical Lecture 6:6: 1
+- Cyril of Jerusalem — Catechetical Lecture 16:11-12: 1
+- Dionysius of Alexandria — The Gospel According to Luke - An Interpretation of Luke 22:42-48: 1
+- Dionysius of Alexandria — An Exposition of Luke XXII. 46: 1
+- Dionysius of Alexandria — On Luke XXII. 42: 1
+- Dionysius of Alexandria — From the Two Books on the Promises: 1
+- Dionysius of Alexandria — The Epistle to Bishop Basilides: 1
+- Dionysius of Alexandria — Epistle to Dionysius Bishop of Rome: 1
+- Eusebius of Caesarea — Catena Aurea (Tomás de Aquino): 1
+- Hilary of Poitiers — On the Trinity 2.18-19: 1
+- Hilary of Poitiers — On the Trinity 2.20: 1
+- Hilary of Poitiers — On the Trinity 3.5: 1
+- Hilary of Poitiers — On the Trinity 10.16: 1
+- Hilary of Poitiers — On the Trinity 10.54: 1
+- Hippolytus of Rome — Hippolytus Refutation of All Heresies Book 5: 1
+- Hippolytus of Rome — Hippolytus Refutation of All Heresies Book VI: 1
+- Hippolytus of Rome — Hippolytus Refutation of All Heresies Book IX: 1
+- Hippolytus of Rome — The Refutation of All Heresies Book 10: 1
+- Hippolytus of Rome — Dubious Hippolytus Fragments: 1
+- Hippolytus of Rome — Hippolytus Refutation of All Heresies Book 7: 1
+- Hippolytus of Rome — Hippolytus Refutation of All Heresies Book VII: 1
+- Hippolytus of Rome — Hippolytus Refutation of All Heresies Book VIII: 1
+- Hippolytus of Rome — Fragments - Dogmatic and Historical: 1
+- Irenaeus — Against Heresies (Book II: 1
+- Irenaeus — Against Heresies (Book I: 1
+- Irenaeus — Against Heresies Book 3.19.3: 1
+- Irenaeus — Against Heresies 4.1.2: 1
+- Irenaeus — Against Heresies 4.18.3: 1
+- Irenaeus — Against Heresies 4.21.3: 1
+- Irenaeus — Against Heresies (Book V: 1
+- Irenaeus — Irenaeus Against Heresies Book 1: 1
+- Justin Martyr — On the Resurrection - Fragments: 1
+- Methodius of Olympus — Methodius Discourse IX. Tusiane: 1
+- Methodius of Olympus — Methodius Discourse VII. Procilla: 1
+- Methodius of Olympus — Methodius Discourse V. Thallousa: 1
+- Methodius of Olympus — The Banquet of the Ten Virgins: 1
+- Methodius of Olympus — Extracts from the Work on Things Created: 1
+- Methodius of Olympus — Methodius Concerning Free-Will: 1
+- Methodius of Olympus — Some Other Fragments of the Same Methodius: 1
+- Methodius of Olympus — Oration Concerning Simeon and Anna: 1
+- Methodius of Olympus — Methodius Discourse II. Theophila: 1
+- Methodius of Olympus — Methodius Discourse VIII. Thekla: 1
+- Tertullian — On Flight in Persecution: 1
+- Tertullian — To His Wife Book II: 1
+- Tertullian — De Spectaculis: 1
+- Tertullian — Of Patience: 1
+- Tertullian — Prescription against Heretics: 1
+- Tertullian — The Apology: 1
+
+## Cuarentena por motivo
+
+- 3157: Traducción moderna o sin identificar (p. ej. Aquinas, Commentary on John [Larcher]; Bonaventura [Karris]; Teofilacto, Commentary on John [Chrysostom Press 2007]; Gregorio y Beda, homilías [Hurst 1990-91]; Bernardo [Cistercian Fathers])
+- 1196: Extractos con título en mayúsculas, numeración moderna y elipsis: Ancient Christian Commentary on Scripture (IVP), traducciones protegidas
+- 14: Sin URL de procedencia
+- 3: Incluye libros (p. ej. 19) que no están en ANF 10; inglés de procedencia desconocida
