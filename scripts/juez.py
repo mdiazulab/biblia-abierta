@@ -74,7 +74,7 @@ def main():
         try:
             capitulo(libro, c, us, rnd)
         except RuntimeError as e:      # sin modelos: lo juzgado queda en la caché y la próxima corrida sigue
-            print(f"cap.{c}: JUEZ INCOMPLETO ({C._sin_claves(str(e))[:300]})")
+            print(f"cap.{c}: JUEZ INCOMPLETO ({C._sin_claves(str(e))[:300]})", flush=True)
 
 
 def capitulo(libro, c, us, rnd):
@@ -118,7 +118,7 @@ def capitulo(libro, c, us, rnd):
                 "es": tr[i]["text_es"]} for i in quedan])
     estado = "APROBADO" if sup < UMBRAL and sens >= 0.8 else "REVISAR"
     print(f"cap.{c}: sensibilidad {detect}/{len(sembrados)} = {sens:.0%}; marcadas {len(malos)}, corregidas "
-          f"{len(malos) - len(quedan)}, quedan {len(quedan)}; extremo superior ajustado {sup:.1%} -> {estado}")
+          f"{len(malos) - len(quedan)}, quedan {len(quedan)}; extremo superior ajustado {sup:.1%} -> {estado}", flush=True)
 
 
 if __name__ == "__main__":
