@@ -444,10 +444,10 @@
   "huella": "ca0b8af6daa0"
  },
  "hcf:Bede/John 3_8#0": {
-  "ok": false,
-  "motivo": "Omisión de «heart» (corazón) al traducir «whose heart to visit».",
+  "ok": true,
+  "motivo": "",
   "modelo": "gemini-3.6-flash",
-  "huella": "b58a6c2f4565"
+  "huella": "43072cbff575"
  },
  "hcf:Cyril of Alexandria/John 3_12#0": {
   "ok": true,
@@ -468,10 +468,10 @@
   "huella": "0ef21228711a"
  },
  "hcf:Cyril of Alexandria/John 3_26#0": {
-  "ok": false,
-  "motivo": "Adición injustificada de la palabra «aparente» para traducir «John's shortcoming».",
-  "modelo": "gemini-3.6-flash",
-  "huella": "5dea8fafe0bf"
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "d4ecdb14158d"
  },
  "hcf:Cyril of Alexandria/John 3_28#0": {
   "ok": true,
@@ -730,5 +730,11 @@
   "motivo": null,
   "modelo": "gemini-3.6-flash",
   "huella": "3fefe1a24642"
+ },
+ "_calibracion": {
+  "detect": 17,
+  "total": 17,
+  "modelo": "gemini-3.6-flash",
+  "fuente": "corrida 37066191612 (02-10-2026), informes/juez_JHN.md en e854121"
  }
 }

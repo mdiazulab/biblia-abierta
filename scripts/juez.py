@@ -81,6 +81,27 @@ def main():
             capitulo(libro, c, us, rnd)
         except RuntimeError as e:      # sin modelos: lo juzgado queda en la caché y la próxima corrida sigue
             print(f"cap.{c}: JUEZ INCOMPLETO ({C._sin_claves(str(e))[:300]})", flush=True)
+    if pedido == "todos":
+        print(compuerta_libro(libro, caps), flush=True)
+
+
+def compuerta_libro(libro, caps):
+    """Compuerta del libro entero: con menos de ~130 notas el extremo de Wilson no baja del 3 % ni con cero
+    errores, así que la decisión estadística se toma sumando capítulos. Lo que Claude resolvió con evidencia
+    (revision/adjudicaciones y aceptados) no cuenta como error pendiente."""
+    resueltos = set(C.cargar(f"revision/adjudicaciones_{libro}.json", {})) | set(C.cargar(f"revision/aceptados_{libro}.json", {}))
+    n = quedan = det = tot = 0
+    for c in caps:
+        cache = C.cargar(f"traducido/{libro}/juez_{c:02d}.json", {})
+        cal = cache.get("_calibracion", {})
+        det, tot = det + cal.get("detect", 0), tot + cal.get("total", 0)
+        n += sum(1 for k in cache if not k.startswith("_"))
+        quedan += sum(1 for x in C.cargar(f"informes/cola_{libro}_{c:02d}.json", []) if x["id"] not in resueltos)
+    sens = det / tot if tot else 0
+    sup = wilson_sup(quedan, n) / max(sens, 0.01)
+    estado = "APROBADO" if sup < UMBRAL and sens >= 0.8 else "REVISAR"
+    return (f"libro {libro}: {n} notas; sensibilidad {det}/{tot} = {sens:.0%}; pendientes {quedan}; "
+            f"extremo superior ajustado {sup:.2%} -> {estado}")
 
 
 def capitulo(libro, c, us, rnd):

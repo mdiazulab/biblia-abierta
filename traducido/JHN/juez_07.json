@@ -570,10 +570,10 @@
   "huella": "733a1fbec624"
  },
  "hcf:John Chrysostom/John 7_24#0": {
-  "ok": false,
-  "motivo": "Se omitió el texto entre paréntesis «(I have made)» («[He sanado / he hecho]»).",
-  "modelo": "gemini-3.6-flash",
-  "huella": "83e03c2196b9"
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "9c88dfd3208d"
  },
  "hcf:John Chrysostom/John 7_25-26#0": {
   "ok": true,
@@ -796,5 +796,11 @@
   "motivo": null,
   "modelo": "gemini-3.6-flash",
   "huella": "28d8903db901"
+ },
+ "_calibracion": {
+  "detect": 16,
+  "total": 16,
+  "modelo": "gemini-3.6-flash",
+  "fuente": "corrida 37066191612 (02-10-2026), informes/juez_JHN.md en e854121"
  }
 }

@@ -72,10 +72,11 @@
   "huella": "1945e9c7079e"
  },
  "hcf:Augustine of Hippo/John 19_6#0": {
-  "text_es": "La envidia de los judíos no se apacigua con las desgracias de Cristo; antes bien, aumenta: Cuando los principales sacerdotes y los alguaciles lo vieron, gritaron, diciendo: ¡Crucifícale, crucifícale!",
+  "text_es": "La envidia de los judíos no se aplaca ante las ignominias de Cristo; antes bien, se acrecienta: Cuando los principales sacerdotes, pues, y los alguaciles le vieron, dieron voces, diciendo: Crucifícale, crucifícale.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "bdcc557ae424"
+  "huella": "bdcc557ae424",
+  "corregido_por_juez": "Omite 'therefore' (pues/por tanto) y traduce 'disgraces' como 'desgracias' en vez de ignominias/oprobios."
  },
  "hcf:John Chrysostom/John 19_6#1": {
   "text_es": "Pero ni aun así se apagó su furia, sino que gritaron: \"Crucifícale, crucifícale\". Entonces Pilato, viendo que todo se hacía en vano, dijo: \"Tomadle vosotros, y crucificadle\". De donde es claro que había permitido lo que se había hecho antes, a causa de su locura. \"Pues yo\", dice, \"no hallo en él ningún delito\".",
@@ -194,10 +195,11 @@
   "huella": "552bfd4fe97f"
  },
  "hcf:Augustine of Hippo/John 19_13#0": {
-  "text_es": "Pilato antes temía no violar su ley al perdonarlo, sino matar al Hijo de Dios al matarlo. Pero no podía tratar a su señor el César con el mismo desprecio con que trataba la ley de una nación extranjera: Cuando Pilato oyó, pues, esta palabra, sacó a Jesús, y se sentó en el tribunal, en el lugar que se llama el Pavimento, pero en hebreo, Gabata.",
+  "text_es": "Pilato antes temía, no violar su ley al perdonarlo, sino matar al Hijo de Dios al darle muerte. Pero no podía tratar a su señor César con el mismo desprecio con que trataba la ley de una nación extranjera: Cuando Pilato oyó esta palabra, sacó a Jesús, y se sentó en el tribunal en un lugar que se llama el Enlosado, y en hebreo, Gabata.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "a1d37d0ce45d"
+  "huella": "a1d37d0ce45d",
+  "corregido_por_juez": "Traduce mal 'not of violating... but of killing': 'temía no violar su ley... sino matar...' invierte el sentido; debía decir que no temía violar la ley, sino matar al Hijo de Dios."
  },
  "hcf:Bede/John 19_13#0": {
   "text_es": "Lithostraton, es decir, pavimentado con piedra; la palabra significa pavimento. Era un lugar elevado.",
@@ -304,10 +306,11 @@
   "huella": "3315f6974313"
  },
  "aquifer:19028": {
-  "text_es": "El madero vertical (latín ⸢staticulum⸣) de la cruz solía permanecer en el sitio de la crucifixión. La víctima cargaba solo el pesado madero ⸢de la cruz⸣ (latín ⸢patibulum⸣). Las crucifixiones eran ejecuciones públicas cerca de los caminos principales. Los romanos las diseñaban para impactar y advertir al pueblo. ⸢El Lugar de la Calavera⸣ (hebreo y arameo ⸢Gólgota⸣; latín ⸢calvariae,⸣ «Calvario»): La mayoría de los arqueólogos concuerdan en que la crucifixión de Jesús ocurrió en el sitio de la actual Iglesia del Santo Sepulcro. Esta está en el Barrio Cristiano de la antigua ciudad amurallada de Jerusalén. \n\nUn sitio alternativo, el Calvario de Gordon (al norte de la Puerta de Damasco), muestra cómo pudo haber lucido la escena. Sin embargo, solo tiene una tumba del siglo 500 a. C., por lo que es improbable que sea donde Jesús fue crucificado y sepultado.",
+  "text_es": "La viga vertical (latín ⸢staticulum⸣) de la cruz solía permanecer en el lugar de la crucifixión. La víctima cargaba solo la pesada viga ⸢de la cruz⸣ (latín ⸢patibulum⸣). Las crucifixiones eran ejecuciones públicas cerca de los caminos principales. Los romanos las diseñaron para impactar y advertir al pueblo. ⸢El Lugar de la Calavera⸣ (hebreo y arameo ⸢Golgotha⸣; latín ⸢calvariae,⸣ «Calvario»): La mayoría de los arqueólogos concuerda en que la crucifixión de Jesús ocurrió en el sitio de la actual Iglesia del Santo Sepulcro. Esta se encuentra en el Barrio Cristiano de la antigua ciudad amurallada de Jerusalén. \n\nUn sitio alternativo, el Calvario de Gordon (al norte de la Puerta de Damasco), muestra cómo pudo haber sido la escena. Sin embargo, solo tiene una tumba de los años 500 a. C., por lo que es improbable que sea el lugar donde Jesús fue crucificado y sepultado.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "ac8f62e1c799"
+  "huella": "ac8f62e1c799",
+  "corregido_por_juez": "El original dice «from the 500s BC» (siglo VI a. C. / años 500 a. C.); el español pone «del siglo 500 a. C.», alterando el número/época."
  },
  "hcf:Augustine of Hippo/John 19_17#1": {
   "text_es": "Ambos lo llevaron; primero Jesús, como dice Juan, luego Simón, como dicen los otros tres Evangelistas. Al salir por primera vez, llevó su propia cruz.\n\n(Tract. cxvii) Gran espectáculo, para el profano una burla, para el piadoso un misterio. La profanidad ve a un Rey llevando una cruz en lugar de un cetro; la piedad ve a un Rey llevando una cruz, para clavarse en ella, y después clavarla en las frentes de los reyes. Aquello era despreciable a los ojos profanos, de lo cual los corazones de los Santos se gloriarían después; Cristo mostrando su propia cruz sobre sus hombros, y llevando lo que no había de ser puesto debajo del celemín, el candelero de aquella vela que estaba ahora a punto de arder.",
@@ -418,10 +421,11 @@
   "huella": "0b4e2f7f25e8"
  },
  "hcf:Ambrose of Milan/John 19_25-27#0": {
-  "text_es": "María, la madre de nuestro Señor, estaba de pie ante la cruz de su Hijo. Ninguno de los Evangelistas me ha contado esto excepto Juan. Los otros han relatado cómo en la Pasión de nuestro Señor la tierra tembló, el cielo se cubrió de tinieblas, el sol huyó, el ladrón fue llevado al paraíso después de su confesión. Juan nos ha contado lo que los otros no, cómo desde la cruz en que colgaba, llamó a su madre. Consideró cosa más grande mostrarlo vencedor sobre el castigo, cumpliendo los oficios de piedad hacia su madre, que dar el reino de los cielos y la vida eterna al ladrón. Pues si fue religioso dar la vida al ladrón, mucho más rica obra de piedad es que un hijo honre a su madre con tal afecto. He aquí, dice, tu hijo; he aquí tu madre. Cristo hizo su Testamento desde la cruz, y dividió los oficios de piedad entre la Madre y los discípulos. Nuestro Señor hizo no solo un Testamento público, sino también doméstico. Y este su Testamento Juan lo selló, testigo digno de tal Testador. Un buen testamento era, no de dinero, sino de vida eterna, que no fue escrito con tinta, sino con el espíritu del Dios viviente: Mi lengua es pluma de escribiente muy ligero. (Sal. 45:1) María, como convenía a la madre de nuestro Señor, estaba de pie ante la cruz, cuando los Apóstoles huyeron, y con ojos compasivos contemplaba las heridas de su Hijo. Pues no miraba la muerte del Rehén, sino la salvación del mundo; y quizá sabiendo que la muerte de su Hijo traería esta salvación, ella, que había sido la morada del Rey, pensaba que con su muerte podría añadir a ese don universal.\nPero Jesús no necesitaba ninguna ayuda para salvar el mundo, como leemos en el Salmo: He sido como un hombre sin ayuda, libre entre los muertos. (Sal. 87) Recibió ciertamente el afecto de una madre, pero no buscó la ayuda de otro. Imitadla, vosotras santas matronas, que, en cuanto a su único y amadísimo Hijo, os habéis dado ejemplo de tal virtud: pues no tenéis hijos más dulces, ni la Virgen buscó consuelo volviendo a ser madre.",
+  "text_es": "María, la madre de nuestro Señor, estaba de pie ante la cruz de su Hijo. Ninguno de los Evangelistas me lo ha contado excepto Juan. Los otros han relatado cómo en la Pasión de nuestro Señor tembló la tierra, el cielo se cubrió de tinieblas, huyó el sol, el ladrón fue llevado al paraíso después de su confesión. Juan nos ha contado lo que los otros no, cómo desde la cruz en que pendía llamó a su madre. Consideró cosa más grande mostrarlo vencedor del castigo, cumpliendo los deberes de piedad para con su madre, que dar el reino de los cielos y la vida eterna al ladrón. Pues si era religioso dar la vida al ladrón, mucho más rica obra de piedad es que un hijo honre a su madre con tal afecto. He aquí, dice, tu hijo; he aquí tu madre. Cristo hizo su Testamento desde la cruz, y repartió los deberes de piedad entre la Madre y los discípulos. Nuestro Señor hizo no solo un Testamento público, sino también doméstico. Y este su Testamento lo selló Juan, testigo digno de tal Testador. Buen testamento era, no de dinero, sino de vida eterna, que no fue escrito con tinta, sino con el espíritu del Dios vivo: Mi lengua es la pluma de un escritor veloz. (Sal. 45:1) María, como convenía a la madre de nuestro Señor, estaba de pie ante la cruz, cuando los Apóstoles huyeron, y con ojos compasivos contemplaba las heridas de su Hijo. Pues no miraba la muerte del Rehén, sino la salvación del mundo; y quizá, sabiendo que la muerte de su Hijo traería esta salvación, ella, que había sido morada del Rey, pensaba que con su muerte podría añadir a aquel don universal.\nPero Jesús no necesitaba ninguna ayuda para salvar al mundo, como leemos en el Salmo, He sido como un hombre sin ayuda, libre entre los muertos. (Sal. 87) Recibió ciertamente el afecto de una madre, pero no buscó la ayuda de otro. Imitadla, vosotras, santas matronas, que, en relación con su único y amadísimo Hijo, os ha dado ejemplo de tal virtud: pues no tenéis hijos más dulces, ni la Virgen buscó consuelo en volver a ser madre.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "bf7e306c53d6"
+  "huella": "bf7e306c53d6",
+  "corregido_por_juez": "El original dice que María 'os ha dado ejemplo' (ella), pero la traducción pone 'os habéis dado ejemplo' (vosotras), cambiando el sujeto."
  },
  "hcf:Augustine of Hippo/John 19_25#0": {
   "text_es": "Si Mateo y Marcos no hubieran mencionado por nombre a María Magdalena, habríamos pensado que había dos grupos, uno de los cuales estaba lejos, y el otro cerca. Pero ¿cómo hemos de explicar que la misma María Magdalena y las otras mujeres estuvieran lejos, como dicen Mateo y Marcos, y estuvieran cerca de la cruz, como dice Juan? Suponiendo que estaban a tal distancia que quedaban dentro de la vista de nuestro Señor, y sin embargo suficientemente lejos para estar fuera del camino de la multitud, el Centurión y los soldados que estaban inmediatamente alrededor de Él. O podemos suponer que después de que nuestro Señor encomendó a su madre al discípulo, se retiraron para estar fuera del camino de la multitud, y vieron lo que sucedió después a distancia: de modo que aquellos Evangelistas que no las mencionan hasta después de la muerte de nuestro Señor, las describen como estando lejos. (Mateo y Marcos.) Que algunas mujeres sean mencionadas por todos por igual, otras no, no importa.",
@@ -516,16 +520,18 @@
   "huella": "2981083ca580"
  },
  "hcf:Gregory the Dialogist/John 19_30#0": {
-  "text_es": "Ghost se pone aquí por alma; pues si el Evangelista hubiera querido decir otra cosa con ello, aunque el ghost partiera, el alma podría haber permanecido todavía.",
+  "text_es": "«Espíritu» se pone aquí por alma; pues si el Evangelista hubiera querido decir otra cosa con ello, aunque el espíritu hubiera partido, el alma aún podría haber permanecido.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "6eca2d81a6c2"
+  "huella": "6eca2d81a6c2",
+  "corregido_por_juez": "No traduce 'Ghost' al español; debe verterse como 'espíritu'/'Espíritu' según la RVA 1909, no dejarse en inglés."
  },
  "hcf:Theophylact of Ohrid/John 19_30#0": {
-  "text_es": "Cuando Jesús, pues, hubo recibido el vinagre, dijo: Consumado es.\n\nNuestro Señor entregó su ghost a Dios Padre, mostrando que las almas de los santos no permanecen en el sepulcro, sino que van a la mano del Padre de todos; mientras que los pecadores son reservados para el lugar del castigo, es decir, el infierno.",
+  "text_es": "Cuando Jesús, pues, hubo tomado el vinagre, dijo: Consumado es.\n\nNuestro Señor entregó su espíritu a Dios el Padre, mostrando que las almas de los santos no permanecen en el sepulcro, sino que van a la mano del Padre de todos; mientras que los pecadores son reservados para el lugar del castigo, es decir, el infierno.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "5272a45d7434"
+  "huella": "5272a45d7434",
+  "corregido_por_juez": "No traduce 'ghost' (debe ser 'espíritu')."
  },
  "aquifer:19037": {
   "text_es": "Las autoridades judías, ansiosas por completar la crucifixión antes de que comenzara el sábado al atardecer, pidieron a Pilato que quebrara las piernas de los hombres. Era común quebrar las piernas de los crucificados con una herramienta. Esto hacía que dejaran de respirar y sangraran excesivamente porque la víctima no podía impulsarse hacia arriba para respirar.",
@@ -546,16 +552,18 @@
   "huella": "cc68de6521ff"
  },
  "hcf:Theophylact of Ohrid/John 19_31#0": {
-  "text_es": "Nuestro Señor entregó su ghost a Dios Padre, mostrando que las almas de los santos no permanecen en el sepulcro, sino que van a la mano del Padre de todos; mientras que los pecadores son reservados para el lugar del castigo, es decir, el infierno.\n\nPues se mandaba en la Ley que el sol no se pusiera sobre el castigo de nadie; o no querían aparecer como atormentadores y homicidas en un día de fiesta.",
+  "text_es": "Nuestro Señor entregó su espíritu a Dios Padre, mostrando que las almas de los santos no permanecen en el sepulcro, sino que van a la mano del Padre de todos; mientras que los pecadores son reservados para el lugar del castigo, es decir, el infierno.\n\nPues se mandaba en la Ley que el sol no se pusiera sobre el castigo de nadie; o no querían aparecer como verdugos y homicidas en día de fiesta.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "b94f42b84414"
+  "huella": "b94f42b84414",
+  "corregido_por_juez": "No traduce 'ghost' (debe ser 'espíritu')."
  },
  "hcf:Cyril of Alexandria/John 19_32#0": {
-  "text_es": "En cumplimiento de la petición de los judíos, hombres afligidos con una locura semejante a su crueldad ----me refiero a los soldados de Pilato---- quebraron las piernas de los dos ladrones, ya que aún eran contados entre los vivos, intensificando el amargo dolor de su última agonía, y finalmente despachándolos con el más grave acto de violencia. Pero cuando encontraron a Jesús con su Cabeza inclinada, y vieron que ya había entregado el ghost, pensaron que era trabajo perdido quebrarle las Piernas; pero, como aún tenían una leve sospecha de que quizá no estuviera realmente muerto, con una lanza le abrieron el Costado, del cual salieron Sangre, mezclada con Agua; presentándonos Dios con ello un tipo, por así decirlo, y prefigurando el misterio de la Eucaristía, y del Santo Bautismo. Pues el Santo Bautismo es de Cristo, e institución de Cristo; y el poder del misterio de la Eucaristía creció para nosotros de su Santa Carne.",
+  "text_es": "Atendiendo a la petición de los judíos, unos hombres afligidos por una locura semejante a su crueldad —me refiero a los soldados de Pilato— quiebran las piernas de los dos ladrones, pues aún eran contados entre los vivos, intensificando el amargo dolor de su última agonía y, finalmente, dándoles muerte con el más penoso acto de violencia. Pero cuando hallaron a Jesús con la cabeza inclinada y vieron que ya había entregado el espíritu, pensaron que era trabajo perdido quebrarle las piernas; mas, como aún tenían una leve sospecha de que no estuviera realmente muerto, le traspasaron el costado con una lanza, de la cual salió sangre mezclada con agua; presentándonos Dios con ello, por así decirlo, un tipo y una prefiguración del misterio de la Eucaristía y del santo bautismo. Pues el santo bautismo es de Cristo y de institución de Cristo; y la virtud del misterio de la Eucaristía brotó para nosotros de su santa carne.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "0ed06c556c16"
+  "huella": "0ed06c556c16",
+  "corregido_por_juez": "No se traduce «ghost»: queda «entregado el ghost» en lugar de «entregado el espíritu»."
  },
  "aquifer:19038": {
   "text_es": "Para confirmar que Jesús estaba muerto, un soldado romano le atravesó el costado con una lanza. ⸢sangre y agua salieron⸣: Esto tiene varios niveles de significado: La lanza probablemente cortó el ⸢pericardio⸣, el saco que rodea el corazón, liberando estos fluidos. Juan podría haber estado pensando en más simbolismo pascual. La sangre del cordero pascual tenía que fluir al morir. El agua que fluye del costado de Jesús es similar al lenguaje del \"agua viva\" que Jesús había mencionado antes (véase 4:10–14; 7:37–39).",

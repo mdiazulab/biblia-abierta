@@ -38,10 +38,11 @@
   "huella": "5e250629d45a"
  },
  "aquifer:19097": {
-  "text_es": "Varios de los discípulos volvieron a pescar en el mar de Galilea. Esto no era señal de que su fe se hubiera debilitado. Incluso los rabinos que predicaban regularmente seguían ejerciendo sus oficios (véase Acts 18:3; 20:34; 1 Corinthians 4:12). ⸢Los hijos de Zebedeo⸣ eran Jacobo y Juan (véase Matthew 4:21).",
+  "text_es": "Varios de los discípulos volvieron a pescar en el mar de Galilea. Esto no era señal de que su fe se hubiera debilitado. Incluso los rabinos que predicaban regularmente seguían ejerciendo sus oficios (véanse Hechos 18:3; 20:34; 1 Corintios 4:12). ⸢Los hijos de Zebedeo⸣ eran Jacobo y Juan (véase Mateo 4:21).",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "2f9f89a9d3d4"
+  "huella": "2f9f89a9d3d4",
+  "corregido_por_juez": "Deja referencias bíblicas en inglés: 'Acts', '1 Corinthians', 'Matthew' en vez de 'Hechos', '1 Corintios', 'Mateo'."
  },
  "hcf:John Chrysostom/John 21_2-3#0": {
   "text_es": "Como nuestro Señor no estaba con ellos regularmente, y el Espíritu no les había sido dado, y no habían recibido ninguna comisión, y no tenían nada que hacer, siguieron el oficio de pescadores: Y de esta manera se manifestó. Estaban juntos Simón Pedro, y Tomás llamado Dídimo, y Natanael de Caná de Galilea; el que fue llamado por Felipe, y los hijos de Zebedeo, es decir, Jacobo y Juan, y otros dos de sus discípulos. Simón Pedro les dice: Voy a pescar.\n\n(Hom. lxxxvii) Los otros discípulos siguieron a Pedro: Le dicen: Nosotros también vamos contigo; pues desde este tiempo estaban todos unidos; y también deseaban ver la pesca: Salieron y entraron en una barca en seguida. Y aquella noche no pescaron nada. Pescaron de noche, por miedo.",
@@ -74,10 +75,11 @@
   "huella": "cdeaa5fc2fa0"
  },
  "aquifer:19099": {
-  "text_es": "Jesús estaba de pie en la orilla⸢,⸣ pero los hombres no lo reconocieron (compárese 20:11–16; Luke 24:13–53).",
+  "text_es": "Jesús estaba de pie en la orilla⸢,⸣ pero los hombres no lo reconocieron (compárese 20:11–16; Lucas 24:13–53).",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "2fb63b8c7db3"
+  "huella": "2fb63b8c7db3",
+  "corregido_por_juez": "Deja 'Luke 24:13–53' en inglés; debe ser 'Lucas 24:13–53'."
  },
  "hcf:Gregory the Dialogist/John 21_4#0": {
   "text_es": "Puede preguntarse por qué después de su resurrección se puso de pie en la orilla para recibir a los discípulos, mientras que antes caminó sobre el mar. El mar significa el mundo, que es agitado con diversas causas de tumultos y las olas de esta vida corruptible; la orilla, por su solidez, figura el descanso eterno. Los discípulos entonces, en cuanto que todavía estaban sobre las olas de esta vida mortal, trabajaban en el mar; pero el Redentor, habiendo arrojado por su resurrección la corrupción de la carne, estaba de pie en la orilla.",
@@ -110,7 +112,7 @@
   "huella": "ab6311692cf1"
  },
  "aquifer:19101": {
-  "text_es": "⸢«¡Es el Señor!»⸣: Juan reconoció a Jesús, probablemente recordando que un milagro similar había sucedido antes (Luke 5:1–11). Pedro, que se había quitado la ropa mientras trabajaba, se puso la túnica (su ropa exterior) para recibir al Señor.",
+  "text_es": "⸢«¡Es el Señor!»⸣: Juan reconoció a Jesús, recordando probablemente que un milagro semejante había ocurrido antes (Lucas 5:1–11). Pedro, que se había quitado la ropa mientras trabajaba, se puso la túnica (su ropa exterior) para salir al encuentro del Señor.",
   "lemas_es": [
    "«¡Es el Señor!»"
   ],
@@ -121,7 +123,8 @@
     "lema": "El Señor",
     "ref": "JHN.21.7"
    }
-  ]
+  ],
+  "corregido_por_juez": "Deja 'Luke 5:1–11' en inglés; debe ser 'Lucas 5:1–11'."
  },
  "hcf:Bede/John 21_7-8#0": {
   "text_es": "El Evangelista se alude a sí mismo aquí de la misma manera que siempre lo hace. Reconoció a nuestro Señor ya sea por el milagro, o por el sonido de su voz, o por la asociación de ocasiones anteriores en las que los encontró pescando. Pedro estaba desnudo en comparación con el vestido habitual que llevaba, en el sentido en que decimos a una persona a la que encontramos con ropa ligera: Estás completamente desnudo. Pedro estaba desnudo por conveniencia, como lo están los pescadores al pescar.\n\nFue a Jesús con el ardor con que hacía todas las cosas: Y se echó al mar. Y los otros discípulos vinieron en una barquita. No debemos entender aquí que Pedro caminó sobre la superficie del agua, sino que o nadó, o caminó por el agua, estando muy cerca de la tierra: Porque no estaban lejos de tierra, sino como a doscientos codos.\n\nPor los doscientos codos se significa la doble gracia del amor; el amor de Dios y el amor del prójimo; pues por ellos nos acercamos a Cristo. El pez asado es Cristo que sufrió. Se dignó ser escondido en las aguas de la naturaleza humana, y ser tomado en la red de nuestra noche; y habiéndose hecho pez por la asunción de la humanidad, se hizo pan para refrescarnos por su divinidad.",
@@ -130,10 +133,11 @@
   "huella": "876f7acb7985"
  },
  "hcf:Theophylact of Ohrid/John 21_7#0": {
-  "text_es": "El ceñirse Pedro es señal de modestia. Se ciñó con un manto de lino, como el que se echan encima los pescadores de Tamiata y de Tiro cuando no tienen otra cosa puesta, o incluso sobre sus demás vestidos.",
+  "text_es": "El ceñirse Pedro es señal de modestia. Se ciñó con una túnica de lino, como la que se echan encima los pescadores de Thamias y de Tiro cuando no llevan otra cosa, o incluso sobre sus demás vestidos.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "7883a38b04a4"
+  "huella": "7883a38b04a4",
+  "corregido_por_juez": "El inglés dice 'Thamian'; el español traduce 'Tamiata', un nombre o referente distinto."
  },
  "hcf:Glossa Ordinaria/John 21_8#0": {
   "text_es": "Un paréntesis; pues sigue: arrastrando la red con los peces. El orden es: Los otros discípulos vinieron en una barquilla, arrastrando la red con los peces.",
@@ -172,10 +176,11 @@
   "huella": "53321cd9cff4"
  },
  "hcf:Augustine of Hippo/John 21_11#1": {
-  "text_es": "En la pesca anterior, no se menciona el número de los peces, como si se cumpliera la profecía del Salmo: Si yo los declarara y hablara de ellos, serían más de los que puedo expresar; (Sal. 41:7) pero aquí se menciona un número determinado, que debemos explicar. El número que significa la ley es diez, por los diez Mandamientos. Pero cuando a la ley se une la gracia, al espíritu la letra, se introduce el número siete, que es el número que representa al Espíritu Santo, a quien propiamente pertenece la santificación. Pues de la santificación se oyó hablar por primera vez en la ley, con respecto al séptimo día; e Isaías alaba al Espíritu Santo por su obra y oficio séptuplo. El siete del Espíritu añadido al diez de la ley hace diecisiete; y los números desde uno hasta diecisiete, sumados juntos, hacen ciento cincuenta y tres.\n\n(Tract. cxxii) No se significa entonces que solo ciento cincuenta y tres santos hayan de resucitar a la vida eterna, sino que este número representa a todos los que participan de la gracia del Espíritu Santo; número que también contiene tres cincuentenas, y tres más, con referencia al misterio de la Trinidad. Y el número cincuenta se compone de siete sietes, y uno más, significando que aquellos sietes son uno. Que fueran también grandes peces no carece de significado. Pues cuando nuestro Señor dice: No vine a destruir la ley, sino a cumplir, dando, esto es, el Espíritu Santo por quien la ley puede cumplirse, dice casi inmediatamente después: Cualquiera que hiciere y enseñare estas cosas, será llamado grande en el reino de los cielos. En la primera pesca se rompió la red, para significar los cismas; pero aquí, para mostrar que en aquella perfecta paz de los bienaventurados no habría cismas, el Evangelista continúa: Y aunque eran tan grandes, no se rompió la red; como aludiendo al caso anterior, en el que se rompió, y haciendo una comparación favorable.",
+  "text_es": "En la pesca anterior no se menciona el número de los peces, como si se cumpliera la profecía del Salmo: Si yo dijera que los voy a contar, serían más que la arena; (Sal. 41:7) pero aquí se menciona un número determinado, que debemos explicar. El número que significa la ley es diez, por los diez Mandamientos. Pero cuando a la ley se une la gracia, al espíritu la letra, se introduce el número siete, que es el número que representa al Espíritu Santo, a quien propiamente pertenece la santificación. Pues de la santificación se oyó hablar por primera vez en la ley, con respecto al séptimo día; e Isaías alaba al Espíritu Santo por su obra y oficio séptuplos. El siete del Espíritu añadido al diez de la ley hace diecisiete; y los números desde uno hasta diecisiete, sumados entre sí, hacen ciento cincuenta y tres.\n\n(Tract. cxxii) No se significa, pues, que solo ciento cincuenta y tres santos hayan de resucitar a la vida eterna, sino que este número representa a todos los que participan de la gracia del Espíritu Santo; número que también contiene tres cincuentenas, y tres más, con referencia al misterio de la Trinidad. Y el número cincuenta se compone de siete sietes, y uno en añadidura, significando que aquellos sietes son uno. Que fueran también peces grandes no carece de significado. Pues cuando nuestro Señor dice: No he venido a abrogar la ley, sino a cumplirla, dando, esto es, el Espíritu Santo por quien la ley puede cumplirse, dice casi inmediatamente después: Cualquiera que hiciere y enseñare así, este será llamado grande en el reino de los cielos. En la primera pesca se rompió la red, para significar los cismas; pero aquí, para mostrar que en aquella perfecta paz de los bienaventurados no habría cismas, el Evangelista continúa: Y aunque eran tantos, no se rompió la red; como aludiendo al caso anterior, en que se rompió, y haciendo una comparación favorable.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "d731f981a1fc"
+  "huella": "d731f981a1fc",
+  "corregido_por_juez": "Invierte «to the letter spirit»: traduce «al espíritu la letra» en lugar de «a la letra el espíritu»."
  },
  "hcf:Gregory the Dialogist/John 21_11#0": {
   "text_es": "A Pedro fue encomendada la santa Iglesia; a él se le dice especialmente: Apacienta mis ovejas. Aquello, pues, que después se declara de palabra, ahora se significa por obra. Él es quien atrae los peces a la orilla firme, porque él fue quien señaló a los fieles la estabilidad de la patria eterna. Esto lo hizo de viva voz, por epístolas; esto lo hace diariamente por señales y milagros. Después de decir que la red estaba llena de grandes peces, sigue el número: Llena de grandes peces, ciento cincuenta y tres.\n\n(Hom. xxiv.) Siete y diez multiplicados por tres hacen cincuenta y uno. El año quincuagésimo era año de reposo para todo el pueblo de todas sus obras. En la unidad está el verdadero reposo; pues donde hay división, el verdadero reposo no puede existir.",
@@ -278,20 +283,22 @@
   "modelo_2": "gemini-3.6-flash"
  },
  "hcf:Augustine of Hippo/John 21_15-17#0": {
-  "text_es": "Bien dice a Pedro: ¿Me amas (ἀγαπᾶς diligis), y Pedro responde: Te amo (φελῶ amo), y nuestro Señor replica de nuevo: Apacienta mis corderos. Por lo cual aparece que amor y dilectio son lo mismo; especialmente porque nuestro Señor, la tercera vez que habla, no dice: Diligis Me, sino Amas Me. Le dice la tercera vez: Simón, hijo de Jonás, ¿me amas? Una tercera vez nuestro Señor pregunta a Pedro si lo ama. Tres confesiones se hacen para responder a las tres negaciones; que la lengua muestre tanto amor como tuvo temor, y que la vida recobrada saque la voz tanto como la muerte amenazó.\n\n(Tract. cxxiii) Los que apacientan las ovejas de Cristo como si fueran propias, no de Cristo, muestran claramente que se aman a sí mismos, no a Cristo; que son movidos por la codicia de gloria, poder y ganancia, no por el amor de obedecer, ministrar y agradar a Dios. Amémonos, pues, no a nosotros mismos, sino a él, y al apacentar sus ovejas, no busquemos lo nuestro, sino las cosas que son suyas. Pues quien se ama a sí mismo, no a Dios, no se ama a sí mismo: el hombre que no puede vivir de sí mismo, debe morir por amarse a sí mismo; y no puede amarse a sí mismo quien se ama para su propia perdición. Mientras que cuando se ama a Aquel por quien vivimos, nos amamos más a nosotros mismos, porque no nos amamos a nosotros mismos; porque no nos amamos a nosotros mismos a fin de amar a Aquel por quien vivimos.\n\n(Serm. Pass.) Pero se levantaron siervos infieles, que dividieron el rebaño de Cristo y transmitieron la división a sus sucesores; y los oyes decir: Esas ovejas son mías, ¿qué buscas con mis ovejas? No te dejaré venir a mis ovejas. Si llamamos nuestras ovejas a las nuestras, como ellos las llaman suyas, Cristo ha perdido sus ovejas.",
+  "text_es": "Bien dice a Pedro: ¿Me amas (ἀγαπᾶς diligis)?, y Pedro responde: Te amo (φελῶ amo), y nuestro Señor replica de nuevo: Apacienta mis corderos. Por lo cual se ve que amor y dilectio son la misma cosa; sobre todo porque nuestro Señor, la tercera vez que habla, no dice: Diligis Me, sino: Amas Me. Le dice por tercera vez: Simón, hijo de Jonás, ¿me amas? Una tercera vez nuestro Señor pregunta a Pedro si le ama. Tres confesiones se hacen para responder a las tres negaciones; para que la lengua muestre tanto amor cuanto tuvo de temor, y la vida recobrada arranque la voz cuanto la amenazó la muerte.\n\n(Tract. cxxiii) Los que apacientan las ovejas de Cristo como si fueran propias, no de Cristo, muestran claramente que se aman a sí mismos, no a Cristo; que los mueve la codicia de la gloria, del poder, de la ganancia, no el amor de obedecer, de servir, de agradar a Dios. Amemos, pues, no a nosotros mismos, sino a Él, y al apacentar sus ovejas no busquemos lo nuestro, sino lo que es suyo. Porque quien se ama a sí mismo, no a Dios, no se ama a sí mismo: el hombre que no puede vivir de sí mismo, debe morir por amarse a sí mismo; y no puede amarse a sí mismo quien se ama para su propia perdición. En cambio, cuando se ama a Aquel por quien vivimos, nos amamos más a nosotros mismos, porque no nos amamos a nosotros mismos; porque no nos amamos a nosotros mismos a fin de amar a Aquel por quien vivimos.\n\n(Serm. Pass.) Pero se levantaron siervos infieles, que dividieron el rebaño de Cristo, y transmitieron la división a sus sucesores; y los oís decir: Esas ovejas son mías, ¿qué buscas con mis ovejas?, no te dejaré llegar a mis ovejas. Si llamamos nuestras a nuestras ovejas, como ellos las llaman suyas, Cristo ha perdido sus ovejas.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
   "huella": "555295c14dd2",
   "text_es_2": "Bien le dice a Pedro: ¿Me amas? (ἀγαπᾶς diligis), y Pedro responde: Te amo (φελῶ amo), y nuestro Señor responde de nuevo: Apacienta mis corderos. Por lo cual parece que amor y dilectio son la misma cosa; especialmente porque la tercera vez que nuestro Señor habla no dice Diligis Me, sino Amas Me. Dícele la tercera vez: Simón, hijo de Jonás, ¿me amas? Por tercera vez nuestro Señor le pregunta a Pedro si le ama. Tres confesiones se hacen para responder a las tres negaciones; para que la lengua mostrara tanto amor como había tenido temor, y la vida ganada sacara la voz tanto como la muerte amenazaba.\n\n(Tract. cxxiii) Aquellos que apacientan las ovejas de Cristo como si fueran suyas, no de Cristo, muestran claramente que se aman a sí mismos, no a Cristo; que son movidos por la codicia de gloria, poder, ganancia, no por el amor de obedecer, servir, agradar a Dios. Amemos, pues, no a nosotros mismos, sino a Él, y al apacentar sus ovejas, no busquemos lo nuestro, sino las cosas que son suyas. Porque quien se ama a sí mismo, no a Dios, no se ama a sí mismo: el hombre, que no puede vivir por sí mismo, debe morir por amarse a sí mismo; y no puede amarse a sí mismo quien se ama para su propia destrucción. Mientras que cuando es amado Aquel por quien vivimos, nos amamos tanto más a nosotros mismos porque no nos amamos a nosotros mismos; porque no nos amamos a nosotros mismos a fin de amar a Aquel por quien vivimos.\n\n(Serm. Pass.) Pero se levantaron siervos infieles que dividieron el rebaño de Cristo y transmitieron la división a sus sucesores; y los oís decir: Esas ovejas son mías, ¿qué buscas con mis ovejas?, no te dejaré venir a mis ovejas. Si llamamos mías a nuestras ovejas, como ellos las llaman suyas, Cristo ha perdido sus ovejas.",
-  "modelo_2": "gemini-3.6-flash"
+  "modelo_2": "gemini-3.6-flash",
+  "corregido_por_juez": "«Amémonos» introduce un reflexivo/recíproco que no está en «Let us love not ourselves»; debería ser «Amemos»."
  },
  "hcf:Augustine of Hippo/John 21_15-17#2": {
-  "text_es": "Tenemos también aquí demostrado que amor y afecto son una y la misma cosa; pues el Señor también en la última pregunta no dijo ¿Diligis me? sino ¿Amas me? Amémonos, pues, no a nosotros mismos, sino a él; y al apacentar sus ovejas, busquemos las cosas que son suyas, no las que son nuestras. Pues de algún modo inexplicable, no sé cuál, todo el que se ama a sí mismo y no a Dios, no se ama a sí mismo; y quien ama a Dios y no a sí mismo, ese es el que se ama a sí mismo. Porque el que no puede vivir por sí mismo ciertamente morirá por amarse a sí mismo; por tanto, no se ama a sí mismo quien se ama para su propia pérdida de la vida. Pero cuando se ama a Aquel por quien se conserva la vida, el hombre, al no amarse solo a sí mismo, ama más, cuando por esta razón no se ama a sí mismo, a saber, para amar a Aquel por quien vive.",
+  "text_es": "Aquí se nos demuestra también que amar y querer son una y la misma cosa; pues el Señor también en la última pregunta no dijo Diligis me? sino Amas me? Amemos, pues, no a nosotros mismos, sino a Él; y al apacentar sus ovejas, busquemos las cosas que son suyas, no las que son nuestras. Pues de algún modo inexplicable, no sé cuál, todo el que se ama a sí mismo y no a Dios, no se ama a sí mismo; y quien ama a Dios y no a sí mismo, ese es el que se ama a sí mismo. Porque el que no puede vivir por sí mismo, ciertamente morirá por amarse a sí mismo; por tanto, no se ama a sí mismo quien se ama para su propia pérdida de la vida. Pero cuando es amado Aquel por quien se conserva la vida, el hombre, al no amarse a sí mismo, solo ama más, cuando por esta razón no se ama a sí mismo, [a saber,] para poder amar a Aquel por quien vive.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
   "huella": "62e28b2a1184",
   "text_es_2": "Aquí también se nos demuestra que el amor y el afecto son una y la misma cosa; porque el Señor también en la última pregunta no dijo ¿Diligis me?, sino ¿Amas me? No nos amemos, pues, a nosotros mismos, sino a Él; y al apacentar sus ovejas, busquemos las cosas que son suyas, no las que son nuestras. Porque de una manera inexplicable, no sé cuál, todo aquel que se ama a sí mismo y no a Dios, no se ama a sí mismo; y quienquiera que ama a Dios y no a sí mismo, ese es el que se ama a sí mismo. Porque el que no puede vivir por sí mismo verdaderamente morirá por amarse a sí mismo; por tanto, no se ama a sí mismo quien se ama para su propia pérdida de vida. Pero cuando es amado Aquel por quien la vida es preservada, el hombre, al no amarse a sí mismo, solo ama más, cuando es por esta razón que no se ama a sí mismo, [a saber] para poder amar a Aquel por quien vive.",
-  "modelo_2": "gemini-3.6-flash"
+  "modelo_2": "gemini-3.6-flash",
+  "corregido_por_juez": "«Amémonos» introduce un reflexivo/recíproco que no está en «Let us love not ourselves»; debería ser «Amemos»."
  },
  "hcf:John Chrysostom/John 21_15-16#0": {
   "text_es": "Lo que más atrae el amor divino es el cuidado y el amor por nuestro prójimo. Nuestro Señor, pasando por alto a los demás, dirige este mandato a Pedro: siendo él el jefe de los Apóstoles, la boca de los discípulos y cabeza del colegio. Nuestro Señor no recuerda más su pecado al negarlo, ni se lo reprocha, sino que le confía de inmediato la superintendencia sobre sus hermanos. Si me amas, gobierna a tus hermanos, muestra ese amor que has evidenciado en todo, y esa vida que dijiste que darías por mí, dala por las ovejas.\nLe dice de nuevo la segunda vez: Simón, hijo de Jonás, ¿me amas? Le dice: Sí, Señor; tú sabes que te amo.",

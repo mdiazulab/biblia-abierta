@@ -1090,5 +1090,11 @@
   "motivo": "Traducción fiel y completa.",
   "modelo": "gemini-3.6-flash",
   "huella": "994adf7340a3"
+ },
+ "_calibracion": {
+  "detect": 18,
+  "total": 19,
+  "modelo": "gemini-3.6-flash",
+  "fuente": "corrida 37066191612 (02-10-2026), informes/juez_JHN.md en e854121"
  }
 }

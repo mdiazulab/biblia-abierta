@@ -222,10 +222,10 @@
   "huella": "20ed298093ce"
  },
  "hcf:Alcuin of York/John 6_14#0": {
-  "ok": false,
-  "motivo": "La referencia bíblica al final conserva el nombre del libro en inglés («Luke» en vez de «Lucas»).",
-  "modelo": "gemini-3.6-flash",
-  "huella": "8cb1496a2bbe"
+  "ok": true,
+  "motivo": "Traducción fiel y completa; no hay omisiones, adiciones ni cambios de sentido, números o referencias.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "88a718793732"
  },
  "hcf:Alcuin of York/John 6_15#0": {
   "ok": true,
@@ -1276,5 +1276,11 @@
   "motivo": null,
   "modelo": "gemini-3.6-flash",
   "huella": "e9dbef8be742"
+ },
+ "_calibracion": {
+  "detect": 18,
+  "total": 18,
+  "modelo": "gemini-3.6-flash",
+  "fuente": "corrida 37066191612 (02-10-2026), informes/juez_JHN.md en e854121"
  }
 }

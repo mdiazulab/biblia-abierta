@@ -182,10 +182,11 @@
   "huella": "4bf56260b58a"
  },
  "hcf:Augustine of Hippo/John 15_11#1": {
-  "text_es": "¿Y qué es el gozo de Cristo en nosotros, sino que se digna alegrarse por causa nuestra? ¿Y qué es nuestro gozo, que él dice que será pleno, sino tener comunión con él? Él tuvo perfecto gozo por causa nuestra cuando se alegró al preconocemos y predestinarnos; pero aquel gozo no estaba en nosotros, porque entonces no existíamos: comenzó a estar en nosotros cuando nos llamó. Y este gozo lo llamamos con razón nuestro, este gozo con que seremos bienaventurados; el cual se inicia en la fe de los que han nacido de nuevo, y se cumplirá en la recompensa de los que resucitan.",
+  "text_es": "¿Y qué es el gozo de Cristo en nosotros, sino que se digna gozarse por causa nuestra? ¿Y qué es nuestro gozo, que Él dice que será cumplido, sino tener comunión con Él? Tenía perfecto gozo por causa nuestra, cuando se gozaba en preconocernos y predestinarnos; pero aquel gozo no estaba en nosotros, porque entonces no existíamos: comenzó a estar en nosotros cuando nos llamó. Y este gozo lo llamamos con razón nuestro propio gozo, este gozo con el cual seremos bendecidos; el cual se inicia en la fe de los que han nacido de nuevo, y se cumplirá en la recompensa de los que resucitan.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "3cc84b089daf"
+  "huella": "3cc84b089daf",
+  "corregido_por_juez": "Error tipográfico en 'preconocemos' (debería ser 'preconocernos')."
  },
  "hcf:John Chrysostom/John 15_11#0": {
   "text_es": "Luego, porque la Pasión se acercaba ya para interrumpir su gozo, añade: Estas cosas os he hablado, para que mi gozo permanezca en vosotros: como si dijera: Y si la tristeza cae sobre vosotros, yo la quitaré; de modo que os alegraréis al final.",
@@ -200,10 +201,11 @@
   "huella": "678dc34e146e"
  },
  "hcf:Augustine of Hippo/John 15_12#1": {
-  "text_es": "¿Dónde, pues, hay amor, qué puede faltar? Donde no lo hay, ¿qué puede aprovechar? Pero este amor se distingue del amor de los hombres entre sí en cuanto hombres, al añadir: Como yo os he amado. ¿Con qué fin nos amó Cristo, sino para que reinemos con él? Amémonos, por tanto, unos a otros de tal modo que nuestro amor sea diferente del de los demás hombres; quienes no se aman unos a otros con el fin de que Dios sea amado, porque en realidad no aman en absoluto. Quienes se aman unos a otros con el fin de tener a Dios dentro de sí, esos verdaderamente se aman unos a otros.",
+  "text_es": "Donde hay amor, ¿qué puede faltar? Donde no lo hay, ¿de qué puede servir? Pero este amor se distingue del amor de los hombres entre sí en cuanto hombres, al añadir: Como yo os he amado. ¿Con qué fin nos amó Cristo, sino para que reinemos con Él? Amémonos, pues, unos a otros, de tal manera que nuestro amor sea distinto del de los demás hombres; quienes no se aman unos a otros con el fin de que Dios sea amado, porque en realidad no aman en absoluto. Los que se aman unos a otros con el fin de tener a Dios dentro de sí, verdaderamente se aman unos a otros.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "ed7166a2c9fe"
+  "huella": "ed7166a2c9fe",
+  "corregido_por_juez": "El original dice 'Where then love is' (= Donde hay amor), pero la traducción lo convierte en pregunta '¿Dónde... hay amor?', cambiando el sentido."
  },
  "hcf:Gregory the Dialogist/John 15_12#0": {
   "text_es": "Pero cuando todos los sagrados discursos de nuestro Señor están llenos de sus mandamientos, ¿por qué da este mandamiento especial respecto al amor, si no es porque todo mandamiento enseña amor, y todos los preceptos son uno? El amor, y solo el amor, es el cumplimiento de todo lo que se manda. Como todas las ramas de un árbol proceden de una sola raíz, así todas las virtudes se producen de un solo amor; ni tiene el sarmiento, es decir, la buena obra, vida alguna, a menos que permanezca en la raíz del amor.",
@@ -320,10 +322,11 @@
   "huella": "b821826eb9ae"
  },
  "hcf:John Chrysostom/John 15_18#0": {
-  "text_es": "O así: He dicho que doy mi vida por vosotros, y que yo os elegí primero. He dicho esto no como reproche, sino para inducirnos a amarnos unos a otros. Luego, como estaban a punto de sufrir persecución y reproche, les manda no entristecerse, sino regocijarse por ello: Si el mundo os aborrece, sabed que a mí me aborreció antes que a vosotros: como si dijera: Sé que es una prueba dura, pero la soportaréis por mi causa.",
+  "text_es": "O así: He dicho que pongo Mi vida por vosotros, y que yo os elegí primero. He dicho esto no como reproche, sino para inducir a vosotros a amaros unos a otros. Luego, como estaban a punto de sufrir persecución y reproche, les manda no entristecerse, sino regocijarse por ello: Si el mundo os aborrece, sabed que a mí me ha aborrecido antes que a vosotros: como si dijera: Sé que es una prueba dura, pero la soportaréis por Mi causa.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "86b671431334"
+  "huella": "86b671431334",
+  "corregido_por_juez": "El original dice \"induce you\" (a vosotros), pero el español traduce \"inducirnos\" (a nosotros), cambiando el sujeto de la exhortación."
  },
  "hcf:Gregory the Dialogist/John 15_19#1": {
   "text_es": "Pues el desprecio de los perversos es nuestra alabanza. No hay nada malo en no agradar a quienes no agradan a Dios. No se prueba amigo de Dios quien agrada a su enemigo; y quien tiene su alma sujeta a la Verdad, tendrá que contender con los enemigos de esa Verdad.",
@@ -358,16 +361,18 @@
   "huella": "6f1c630d3d20"
  },
  "hcf:Glossa Ordinaria/John 15_20#0": {
-  "text_es": "La observaron para calumniarla, como leemos en los Salmos: El impío ve al justo.",
+  "text_es": "Lo observaron para calumniarlo, como leemos en los Salmos: El impío ve al justo.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "d31c5048428a"
+  "huella": "d31c5048428a",
+  "corregido_por_juez": "El pronombre 'la' en 'observaron para calumniarla' no tiene referente claro en el texto, mientras que el inglés 'it' se refiere a la conducta o palabra, siendo más preciso 'lo'."
  },
  "hcf:Theophylact of Ohrid/John 15_20#0": {
-  "text_es": "O así: Si, dice, han perseguido a vuestro Señor, mucho más os perseguirán a vosotros; si lo hubieran perseguido, pero guardado sus mandamientos, también guardarían los vuestros.",
+  "text_es": "O así: Si, dice, han perseguido a vuestro Señor, mucho más os perseguirán a vosotros; si le hubieran perseguido, pero guardado sus mandamientos, guardarían también los vuestros.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "c52ae3fb3ba8"
+  "huella": "c52ae3fb3ba8",
+  "corregido_por_juez": "Omite la parte «if they had persecuted Him, but»: no traduce «si le hubieran perseguido, pero»."
  },
  "hcf:Augustine of Hippo/John 15_21#0": {
   "text_es": "Todas estas cosas, a saber, lo que había mencionado: que el mundo los aborrecería, los perseguiría, despreciaría su palabra. Por causa de mi Nombre, es decir, en vosotros me aborrecerán, en vosotros me perseguirán, vuestra palabra no guardarán, porque es mía. Quienes hacen estas cosas por causa de su nombre son tan miserables como dichosos quienes las sufren; excepto cuando las hacen también contra los malvados; pues entonces tanto quienes las hacen como quienes las sufren son miserables. Pero ¿cómo hacen todas estas cosas por causa de su nombre, cuando no hacen nada por causa del nombre de Cristo, es decir, por causa de la justicia? Eliminaremos esta dificultad si tomamos las palabras como aplicadas a los justos; como si fuera: Todas estas cosas las sufriréis de ellos, por causa de mi nombre. Si por causa de mi nombre significa esto, es decir, mi nombre que ellos aborrecen en vosotros, la justicia que aborrecen en vosotros; de los buenos, cuando persiguen a los malvados, puede decirse de la misma manera que lo hacen tanto por causa de la justicia, que aman, cuyo amor es su motivo al perseguir, como por causa de la injusticia, la injusticia de los malvados, que aborrecen. Porque no conocen al que me envió, es decir, no conocen según aquel conocimiento del cual se dice: Conocerte es justicia perfecta. (Sab. 15:3)",
@@ -388,10 +393,11 @@
   "huella": "b4a1335ab6c5"
  },
  "hcf:Augustine of Hippo/John 15_22#0": {
-  "text_es": "Cristo habló solo a los judíos, no a ninguna otra nación. En ellos, pues, estaba aquel mundo que aborreció a Cristo y a sus discípulos; y no solo en ellos, sino también en nosotros. ¿Estaban entonces los judíos sin pecado antes de que Cristo viniera en la carne, porque Cristo no les había hablado? Por pecado aquí no se refiere a todo pecado, sino a cierto gran pecado, que incluye a todos, y que solo él impide la remisión de los demás pecados, a saber, la incredulidad. No creyeron en Cristo, que vino para que creyeran en Él. Este pecado, pues, no lo habrían tenido si Cristo no hubiera venido; pues el advenimiento de Cristo, así como fue la salvación de los creyentes, así fue la perdición de los incrédulos. Mas ahora no tienen excusa por su pecado. Si aquellos a quienes Cristo no había venido ni hablado no tenían excusa (προφασιν, excusationem Vulg. cloke E. T.) por su pecado, ¿por qué se dice aquí que estos no tenían excusa, porque Cristo había venido y les había hablado? Si los primeros tenían excusa, ¿eliminaba esto del todo su castigo, o solo lo mitigaba? Respondo que esta excusa cubría, no todo su pecado, sino solo este, a saber, que no creyeron en Cristo. Pero no son de este número aquellos a quienes Cristo vino por medio de sus discípulos: no han de ser absueltos con un castigo más leve quienes rechazaron por completo el amor de Cristo y, en lo que a ellos concernía, desearon su destrucción. Esta excusa pueden tenerla quienes murieron antes de oír del Evangelio de Cristo; pero esto no los protegerá de la condenación. Pues quienesquiera que no se salven en el Salvador, que vino a buscar lo que se había perdido, sin duda irán a la perdición; aunque algunos tendrán castigos más leves, otros más severos. Perece para Dios quien es castigado con la exclusión de aquella felicidad que se da a los santos. Pero hay tanta diversidad de castigos como de pecados; aunque cómo se dispone esto es asunto conocido ciertamente por la Sabiduría Divina, pero demasiado profundo para que la conjetura humana lo examine o lo pronuncie.",
+  "text_es": "Cristo habló solo a los judíos, no a ninguna otra nación. En ellos, pues, estaba aquel mundo que odió a Cristo y a sus discípulos; y no solo en ellos, sino también en nosotros. ¿Estaban entonces los judíos sin pecado antes de que Cristo viniera en la carne, porque Cristo no les había hablado? Por pecado aquí no se refiere a todo pecado, sino a cierto pecado grande, que incluye todos, y que por sí solo impide la remisión de los demás pecados, a saber, la incredulidad. No creyeron en Cristo, que vino para que creyeran en él. Este pecado, pues, no lo habrían tenido si Cristo no hubiera venido; porque el advenimiento de Cristo, así como fue la salvación de los creyentes, así fue la perdición de los incrédulos. Pero ahora no tienen excusa para su pecado. Si aquellos a quienes Cristo no había venido ni hablado no tenían excusa (προφασιν, excusationem Vulg. cloke E. T.) para su pecado, ¿por qué se dice aquí que estos no tenían excusa, porque Cristo había venido y les había hablado? Si los primeros tenían excusa, ¿acaso esta anulaba por completo su castigo, o solo lo mitigaba? Respondo que esta excusa cubría, no todo su pecado, sino solo este, a saber, que no creyeron en Cristo. Pero ellos no son de este número a quienes Cristo vino por medio de sus discípulos; no han de ser absueltos con un castigo más leve quienes rechazaron por completo el amor de Cristo y, en lo que a ellos concernía, desearon su destrucción. Esta excusa pueden tenerla quienes murieron antes de oír del Evangelio de Cristo; pero esto no los protegerá de la condenación. Pues quienesquiera que no sean salvos en el Salvador, que vino a buscar lo que se había perdido, sin duda irán a la perdición; aunque algunos tendrán castigos más leves, otros más severos. Perece para Dios quien es castigado con la exclusión de aquella felicidad que se da a los santos. Pero hay tanta diversidad de castigos como de pecados; aunque cómo se determine esto es cosa conocida ciertamente por la Sabiduría Divina, pero demasiado profunda para que la conjetura humana la examine o la pronuncie.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "2c2dcaa2beb6"
+  "huella": "2c2dcaa2beb6",
+  "corregido_por_juez": "Se invierte la relación: el inglés dice que ellos no son de este número (los que recibieron a Cristo por medio de los discípulos); el español afirma que los que recibieron a Cristo por medio de los discípulos no son de este número."
  },
  "hcf:John Chrysostom/John 15_22#0": {
   "text_es": "Además de esto, privando a aquellos otros de excusa, y poniendo también otra fuente de consuelo, dice: «Si yo no hubiera venido y les hubiera hablado, no tendrían pecado». Mostrando que obrarán injustamente tanto en lo que hacen contra Él como contra ellos. «¿Por qué entonces nos trajiste a tales calamidades? ¿No conocías de antemano las guerras, el odio?». Por eso de nuevo dice...",
@@ -406,16 +412,18 @@
   "huella": "122b641bd6af"
  },
  "hcf:Augustine of Hippo/John 15_23#3": {
-  "text_es": "Pero acaba de decir: Porque no conocen al que me envió. ¿Cómo podían aborrecer a quien no conocían? Pues si aborrecían a Dios, creyéndolo otra cosa, y no Dios, esto no era odio a Dios. En el caso de los hombres, sucede a menudo que odiamos o amamos a personas que nunca hemos visto, simplemente a consecuencia de lo que hemos oído de ellas. Pero si el carácter de un hombre nos es conocido, no puede propiamente decirse que sea desconocido. Y el carácter de un hombre no se muestra por su rostro, sino por sus costumbres y modo de vida; de lo contrario no podríamos conocernos a nosotros mismos, pues no podemos ver nuestro propio rostro. Pero la historia y la fama a veces mienten; y nuestra fe es impuesta. No podemos penetrar en los corazones de los hombres; solo sabemos que tales cosas son rectas, y otras malas; y si aquí escapamos del error, equivocarse respecto a los hombres es materia venial. Un hombre bueno puede aborrecer a un hombre bueno ignorantemente, o más bien amarlo ignorantemente, pues ama al hombre bueno, aunque aborrece al hombre que supone que es. Un hombre malo puede amar a un hombre bueno, suponiendo que es un hombre malo como él, y por tanto no, propiamente hablando, amándolo, sino a la persona que cree que es. Y de la misma manera respecto a Dios. Si se preguntara a los judíos si amaban a Dios, responderían que sí lo amaban, no con intención de mentir, sino solo equivocándose al decirlo. Pues ¿cómo podían amar al Padre de la Verdad quienes aborrecían la Verdad? No querían que sus acciones fueran juzgadas, y esto lo hacía la Verdad. Aborrecían, pues, la Verdad, porque aborrecían el castigo que Él infligiría a tales como ellos. Pero al mismo tiempo no sabían que Él era la Verdad, que vino a condenarlos. No sabían que la Verdad nació de Dios Padre, y por tanto no conocían a Dios Padre mismo. Así, pues, aborrecían y también desconocían al Padre.",
+  "text_es": "Pero Él acaba de decir: Porque no conocen al que me envió. ¿Cómo podían odiar a quien no conocían? Pues si odiaban a Dios, creyéndolo otra cosa y no Dios, esto no era odio a Dios. En el caso de los hombres, sucede a menudo que odiamos o amamos a personas que nunca hemos visto, simplemente a consecuencia de lo que hemos oído de ellas. Pero si el carácter de un hombre nos es conocido, no puede decirse propiamente que sea desconocido. Y el carácter de un hombre no se muestra por su rostro, sino por sus costumbres y su modo de vida; de lo contrario no podríamos conocernos a nosotros mismos, pues no podemos ver nuestro propio rostro. Pero la historia y la fama a veces mienten; y se abusa de nuestra fe. No podemos penetrar en los corazones de los hombres; solo sabemos que unas cosas son rectas y otras malas; y si aquí evitamos el error, equivocarse respecto a los hombres es materia venial. Un hombre bueno puede odiar ignorantemente a un hombre bueno, o más bien amarlo ignorantemente, pues ama al hombre bueno, aunque odia al hombre que supone que es. Un hombre malo puede amar a un hombre bueno, suponiendo que es un hombre malo como él, y por tanto, hablando propiamente, no amándolo a él, sino a la persona que cree que es. Y de la misma manera respecto a Dios. Si se preguntara a los judíos si amaban a Dios, responderían que sí lo amaban, no con intención de mentir, sino solo equivocándose al decirlo. Pues ¿cómo podían amar al Padre de la Verdad quienes odiaban la Verdad? No querían que sus acciones fueran juzgadas, y esto lo hacía la Verdad. Odiaban, pues, la Verdad, porque odiaban el castigo que Él infligiría a los que eran como ellos. Pero al mismo tiempo no sabían que era la Verdad quien venía a condenarlos. No sabían que la Verdad había nacido de Dios Padre, y por tanto no conocían a Dios Padre mismo. Así, pues, odiaban y también desconocían al Padre.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "44fc6dc74b8a"
+  "huella": "44fc6dc74b8a",
+  "corregido_por_juez": "«our faith is imposed upon» significa que se abusa o se engaña nuestra fe; «nuestra fe es impuesta» cambia el sentido."
  },
  "hcf:John Chrysostom/John 15_23#0": {
-  "text_es": "«El que me aborrece, aborrece también a mi Padre».\n\nTambién con esto proclama de antemano no pequeña condenación contra ellos. Pues, ya que continuamente pretendían que lo perseguían por causa del Padre, para privarlos de esta excusa dijo estas palabras. «No tienen excusa. Les di la enseñanza que es por palabras, a la que añadí la de obras, conforme a la Ley de Moisés, que mandaba a todos los hombres obedecer a uno que hablara e hiciera tales cosas, cuando a la vez condujera a la piedad y exhibiera los mayores milagros». Y no habló simplemente de «señales», sino...",
+  "text_es": "\"El que me aborrece a mí, también a mi Padre aborrece.\"\n\nTambién con esto anuncia de antemano no pequeño castigo contra ellos. Pues, como continuamente pretendían que perseguían a aquel por causa del Padre, para privarles de este pretexto dijo estas palabras. \"No tienen excusa. Les di la enseñanza que es por palabras, a la que añadí la de obras, conforme a la Ley de Moisés, que mandó a todos los hombres obedecer a uno que habla y hace tales cosas, cuando ha de conducir a la piedad y exhibir los mayores milagros.\" Y no habló simplemente de \"señales\", sino...",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "1fc78fa2ec85"
+  "huella": "1fc78fa2ec85",
+  "corregido_por_juez": "Traduce 'punishment' como 'condenación' en lugar de 'castigo', lo que cambia el sentido."
  },
  "hcf:Augustine of Hippo/John 15_24#0": {
   "text_es": "El pecado de no creer en Él, a pesar de su doctrina y sus milagros. Pero ¿por qué añade: Que ningún otro hombre hizo? Cristo no hizo obra mayor que la resurrección de los muertos, que sabemos que los antiguos Profetas hicieron antes que Él. ¿Es que hizo algunas cosas que nadie más hizo? Pero otros también hicieron lo que ni Él ni nadie más hizo. Cierto: sin embargo, ninguno de los antiguos profetas, que leamos, sanó tantos defectos corporales, enfermedades, dolencias. Pues para no decir nada de casos aislados, Marcos dice que dondequiera que entraba, en aldeas, o ciudades, o campos, ponían a los enfermos en las calles, y le rogaban que tocaran aunque fuera el borde de su manto; y todos los que le tocaban quedaban sanos. (Marcos 6:56) Obras como estas nadie más las había hecho en ellos. En ellos, es decir, no entre ellos, o ante ellos, sino dentro de ellos. Pero aun donde obras particulares, como algunas de estas, se habían hecho antes, quienquiera que las hiciera no las hacía realmente; pues Él las hacía por medio de ellos; mientras que Él realiza estos milagros por su propio poder. Pues aunque el Padre o el Espíritu Santo las hicieran, no era otro que Él; pues las Tres Personas son de una sola sustancia. Por estos beneficios, entonces, debían haberle devuelto no odio, sino amor. Y de esto los reprende: Pero ahora han visto y aborrecido tanto a mí como a mi Padre.",

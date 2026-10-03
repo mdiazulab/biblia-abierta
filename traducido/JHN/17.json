@@ -61,10 +61,11 @@
   "huella": "a48110df5897"
  },
  "hcf:Hilary of Poitiers/John 17_2#2": {
-  "text_es": "Pues, habiéndose hecho él mismo carne, estaba por restaurar la vida eterna al hombre frágil, corpóreo y mortal.\n\n(ix. de Trin. 31) Si Cristo es Dios, no engendrado, sino no engendrado, entonces que este recibir se tenga por debilidad. Pero no si su recibir la potestad significa su engendramiento, en el cual recibió lo que es. Este don no puede contarse como debilidad. Pues el Padre es tal en cuanto que da; el Hijo permanece Dios en cuanto que ha recibido la potestad de dar vida eterna.",
+  "text_es": "Pues al hacerse Él mismo carne, estaba a punto de restaurar la vida eterna al hombre frágil, corpóreo y mortal.\n\n(ix. de Trin. 31) Si Cristo es Dios, no engendrado, sino ingénito, entonces que este recibir sea tenido por debilidad. Pero no si su recibir poder significa su engendramiento, en el cual recibió lo que es. Este don no puede ser contado por debilidad. Pues el Padre es tal en cuanto que da; el Hijo permanece Dios en cuanto que ha recibido el poder de dar la vida eterna.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "47b4daf9aaab"
+  "huella": "47b4daf9aaab",
+  "corregido_por_juez": "Traduce «not begotten, but unbegotten» como «no engendrado, sino no engendrado», borrando la distinción entre begotten y unbegotten (ingénito)."
  },
  "hcf:John Chrysostom/John 17_2#1": {
   "text_es": "«¿De toda carne»? Pues ciertamente no todos creyeron. Sin embargo, por su parte, todos creyeron; y si los hombres no prestaron atención a sus palabras, la culpa no estaba en el Maestro, sino en quienes no las recibieron.",
@@ -125,7 +126,8 @@
   "text_es": "Esta nueva gloria con la que nuestro Señor había glorificado al Padre, no implica ningún progreso en la Deidad, sino que se refiere al honor recibido de aquellos que son convertidos de la ignorancia al conocimiento.\n\n(ix. de Trin) Después de lo cual, para que entendamos la recompensa de su obediencia y el misterio de toda la dispensación, añade: Y ahora glorifícame tú, Padre, junto a ti mismo, con la gloria que tenía contigo antes que el mundo fuese.\n\n(iii. de Trin) O bien oró para que lo que era mortal recibiera la gloria inmortal, para que la corrupción de la carne fuera transformada y absorbida en la incorrupción del Espíritu.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "55069d35ba6f"
+  "huella": "55069d35ba6f",
+  "corregido_por_juez": "Añade «Padre» en la cita de Juan 17:5, palabra ausente en el inglés."
  },
  "hcf:John Chrysostom/John 17_4#0": {
   "text_es": "«Te he glorificado en la tierra.» Bien dijo «en la tierra»; pues en el cielo ya había sido glorificado, teniendo su propia gloria natural, y siendo adorado por los Ángeles. Cristo, pues, no habla de aquella gloria que está unida a su Esencia, (pues esa gloria, aunque nadie le glorifique, la posee siempre en su plenitud,) sino de la que viene del servicio de los hombres.",
@@ -140,10 +142,11 @@
   "huella": "3d66240ad298"
  },
  "hcf:John Chrysostom/John 17_5#0": {
-  "text_es": "«Y ahora, Padre, glorifícame tú junto a ti mismo, con la gloria que tenía contigo antes que el mundo fuese.» ¿Dónde está esa gloria? Pues aunque se le permita haber sido sin honra entre los hombres a causa del velo que le fue puesto alrededor; ¿cómo busca ser glorificado con el Padre? ¿Qué dice entonces aquí? La expresión se refiere a la Dispensación; pues su naturaleza carnal aún no había sido glorificada, no habiendo aún gozado de la incorrupción, ni compartido el trono real. Por eso no dijo «en la tierra», sino «contigo».",
+  "text_es": "\"Y ahora, oh Padre, glorifícame tú contigo mismo, con la gloria que tenía contigo antes que el mundo fuese\". ¿Dónde está esa gloria? Pues aunque se le permita haber sido con razón sin honra entre los hombres, a causa del velo que se le puso alrededor; ¿cómo busca ser glorificado con el Padre? ¿Qué dice entonces aquí? La expresión se refiere a la Dispensación; pues su naturaleza carnal aún no había sido glorificada, no habiendo gozado todavía de la incorrupción, ni compartido el trono real. Por eso no dijo \"en la tierra\", sino \"contigo\".",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "25093c4445f6"
+  "huella": "25093c4445f6",
+  "corregido_por_juez": "Omite 'with reason' ('con razón') en 'aunque se le permita haber sido sin honra entre los hombres'; el inglés dice que fue deshonrado con razón."
  },
  "aquifer:18993": {
   "text_es": "Este versículo resume lo que Jesús vino a hacer. Reveló la verdadera persona de Dios al mundo, reunió al pueblo de Dios en su rebaño y los instruyó en la obediencia. El resultado de esta obra es la Iglesia.",
@@ -413,10 +416,11 @@
   ]
  },
  "hcf:Augustine of Hippo/John 17_21#3": {
-  "text_es": "Debemos observar particularmente aquí que nuestro Señor no dijo que seamos todos uno, sino que ellos sean todos uno, como tú, Padre, en mí, y yo en ti, eres uno, según se entiende. Pues el Padre está de tal modo en el Hijo, que son uno, porque son de una sola sustancia; pero nosotros podemos ser uno en ellos, mas no con ellos; porque nosotros y ellos no somos de una sola sustancia. Ellos están en nosotros, y nosotros en ellos, de modo que ellos son uno en su naturaleza, nosotros uno en la nuestra. Ellos están en nosotros, como Dios está en el templo; nosotros en ellos, como la criatura está en su Creador. Por lo cual añade: en nosotros, para mostrar que el que seamos hechos uno por la caridad debe atribuirse a la gracia de Dios, no a nosotros mismos.",
+  "text_es": "Debemos observar particularmente aquí, que nuestro Señor no dijo que seamos todos uno, sino que ellos sean todos uno, como tú, Padre, en mí, y yo en ti, son uno, en el sentido de que se entiende. Pues el Padre está de tal modo en el Hijo, que son uno, porque son de una misma sustancia; pero nosotros podemos ser uno en ellos, mas no con ellos; porque nosotros y ellos no somos de una misma sustancia. Ellos están en nosotros, y nosotros en ellos, de modo que ellos son uno en su naturaleza, nosotros uno en la nuestra. Ellos están en nosotros, como Dios está en el templo; nosotros en ellos, como la criatura está en su Creador. Por lo cual añade: en nosotros, para mostrar que el que seamos hechos uno por la caridad debe atribuirse a la gracia de Dios, no a nosotros mismos.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "c5663ac1b972"
+  "huella": "c5663ac1b972",
+  "corregido_por_juez": "Traduce 'are one' como 'eres uno', cambiando el sujeto plural (Padre e Hijo) y el sentido."
  },
  "hcf:Augustine of Hippo/John 17_21#4": {
   "text_es": "O que en nosotros mismos no podemos ser uno, separados unos de otros por diversos placeres, concupiscencias y la contaminación del pecado, de la cual debemos ser limpiados por un Mediador, para ser uno en Él.",
@@ -491,10 +495,11 @@
   "huella": "cde10a24a484"
  },
  "hcf:Augustine of Hippo/John 17_24#10": {
-  "text_es": "Estos son aquellos que ha recibido del Padre, a quienes también eligió del mundo; como dice al comienzo de esta oración: Le has dado potestad sobre toda carne, es decir, sobre toda la humanidad, para que dé vida eterna a todos los que le has dado. En lo cual muestra que había recibido potestad sobre todos los hombres, para librar a quien quisiera, y condenar a quien quisiera. Por lo cual, a todos sus miembros promete esta recompensa: que donde Él está, estén también ellos. Ni puede dejar de hacerse lo que el Hijo omnipotente dice que desea al Padre omnipotente; pues el Padre y el Hijo tienen una sola voluntad, la cual, si la debilidad nos impide comprenderla, la piedad debe creerla. Donde yo estoy: en cuanto pertenece a la criatura, fue hecho de la descendencia de David según la carne: podría decir: Donde yo estoy, significando donde estaba poco después de estar, es decir, el cielo. En el cielo, pues, promete que estaremos. Pues allí fue elevada la forma de siervo, que había tomado de la Virgen, y allí colocada a la diestra de Dios.",
+  "text_es": "Estos son aquellos que ha recibido del Padre, a los cuales también escogió del mundo; como dice al comienzo de esta oración: Le diste potestad sobre toda carne, es decir, sobre todo el género humano, para que dé vida eterna a todos los que le has dado. En lo cual muestra que había recibido potestad sobre todos los hombres, para librar a quien quisiera y condenar a quien quisiera. Por lo cual, a todos sus miembros promete esta recompensa: que donde él está, también ellos estén. Ni puede dejar de hacerse lo que el Hijo omnipotente dice que desea al Padre omnipotente; pues el Padre y el Hijo tienen una sola voluntad, la cual, si la debilidad nos impide comprenderla, la piedad debe creerla. Donde yo estoy: en cuanto atañe a la criatura, fue hecho de la descendencia de David según la carne; podría decir: Donde yo estoy, es decir, donde había de estar pronto, esto es, el cielo. En el cielo, pues, nos promete que estaremos. Porque allí fue elevada la forma de siervo, que había tomado de la Virgen, y allí colocada a la diestra de Dios.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "a772f860b9fd"
+  "huella": "a772f860b9fd",
+  "corregido_por_juez": "La frase 'where He was shortly to be' se traduce como 'donde estaba poco después de estar', alterando el sentido; debería indicar 'donde había de estar pronto' o 'donde estaría en breve'."
  },
  "hcf:Augustine of Hippo/John 17_24#11": {
   "text_es": "Pero en cuanto a la forma de Dios, en la que es igual al Padre, si entendemos estas palabras: que estén conmigo donde yo estoy, con referencia a aquello, entonces desechad toda idea corporal, y no preguntéis dónde está el Hijo, que es igual al Padre; pues nadie ha descubierto dónde no está. Por lo cual no le bastó decir: Quiero que estén donde yo estoy, sino que añade: conmigo. Pues estar con Él es el gran bien: incluso los miserables pueden estar donde Él está, pero solo los felices pueden estar con Él. Y como en el caso de lo visible, aunque muy diferente sea cualquier ejemplo que tomemos, un ciego servirá como uno, pues un ciego, aunque está donde está la luz, no está él mismo con la luz, sino que está ausente de ella en su presencia, así no solo los incrédulos, sino también los creyentes, aunque no pueden estar donde Cristo no está, sin embargo no están ellos mismos con Cristo por vista: por la fe no podemos dudar que un creyente está con Cristo. Pero aquí habla de aquella visión en la que lo veremos tal como es; como añade: Que contemplen mi gloria, que me has dado. Que contemplen, dice, no, que crean. Es la recompensa de la fe de lo que habla, no la fe misma.",
@@ -515,10 +520,11 @@
   "huella": "aa04ea6bcc9b"
  },
  "hcf:Gregory the Dialogist/John 17_24#0": {
-  "text_es": "¿Qué significa entonces lo que la Verdad dice arriba: Nadie ha subido al cielo, sino el que descendió del cielo, el Hijo del hombre que está en el cielo. (John 3:13) Sin embargo, aquí no hay discrepancia, pues nuestro Señor, siendo la Cabeza de sus miembros, excluidos los réprobos, está solo con nosotros. Y por tanto, nosotros haciéndonos uno con Él, de donde Él vino solo en sí mismo, allí regresa solo en nosotros.",
+  "text_es": "¿Qué significa, pues, lo que dice la Verdad más arriba: «Nadie subió al cielo, sino el que descendió del cielo, el Hijo del hombre, que está en el cielo» (Juan 3:13)? Sin embargo, aquí no hay discrepancia, pues nuestro Señor, siendo la Cabeza de sus miembros, excluidos los réprobos, está solo con nosotros. Y por eso, al hacernos uno con Él, de donde vino solo en sí mismo, allí regresa solo en nosotros.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "1ab7536fe33a"
+  "huella": "1ab7536fe33a",
+  "corregido_por_juez": "La referencia bíblica queda en inglés: «John 3:13» en lugar de «Juan 3:13»."
  },
  "hcf:John Chrysostom/John 17_24#0": {
   "text_es": "\"Padre\", dice, \"quiero que también aquellos que me has dado, estén conmigo donde yo estoy\". \"¿Entonces obtienes por oración, y aún no posees aquello sobre lo que preguntaban continuamente, diciendo: '¿A dónde vas?' ¿Qué dices? ¿Cómo entonces les dijiste: 'Os sentaréis sobre doce tronos'? ¿Cómo prometiste otras cosas mayores y más grandes?\" ¿Ves que dice todo a modo de condescendencia? Pues ¿cómo habría dicho: \"Me seguirás después\"? Pero habla así con vistas a una convicción y demostración más plena de su amor.",
@@ -559,9 +565,10 @@
   "huella": "6a3b21369da5"
  },
  "hcf:John Chrysostom/John 17_26#0": {
-  "text_es": "\"Y les he declarado tu Nombre, y lo declararé\". \"Sin embargo tú dices que el conocimiento perfecto es del Espíritu\". \"Pero las cosas del Espíritu son mías\". \"Que el amor con que me has amado permanezca en ellos, y yo en ellos\". \"Pues si aprenden quién eres, entonces sabrán que no estoy separado de ti, sino que soy uno de los muy amados, y un verdadero Hijo, y estrechamente unido a ti. Y aquellos que estén rectamente persuadidos de esto, guardarán tanto la fe que es en mí como el amor perfecto; y yo permaneceré en ellos\". ¿Ves cómo ha llegado a un buen fin, rematando el discurso con el amor, la madre de todas las bendiciones?",
+  "text_es": "\"Y les he dado a conocer Tu Nombre, y lo daré a conocer.\" \"Sin embargo, tú dices que el conocimiento perfecto viene del Espíritu.\" \"Pero las cosas del Espíritu son Mías.\" \"Que el amor con que Tú me has amado permanezca en ellos, y Yo en ellos.\" \"Pues si aprenden quién eres Tú, entonces sabrán que Yo no estoy separado de Ti, sino que soy uno de los muy amados, y un verdadero Hijo, y estrechamente unido a Ti. Y quienes estén rectamente persuadidos de esto, guardarán tanto la fe que es en Mí como el amor perfecto; y Yo permaneceré en ellos.\" ¿Ves cómo ha llegado a un buen fin, rematando el discurso con el amor, la madre de todas las bendiciones?",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "4cc0b69c4ea8"
+  "huella": "4cc0b69c4ea8",
+  "corregido_por_juez": "Traduce 'the faith which is on Me' como 'la fe que es en mí', que se entiende como la fe que está en Cristo, no la fe en Cristo."
  }
 }

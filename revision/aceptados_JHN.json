@@ -12,5 +12,27 @@
   ],
   "motivo": "«(Luke 13:33)» no es error de la traducción: biblia.normalizar lo convierte a «(⸢Lucas⸣ 13:33)» en el EPUB (clase cubierta por el control «cita sin forma única»)",
   "evidencia": "(Luke 13:33)"
+ },
+ "hcf:John Chrysostom/John 14_6#0": {
+  "puntos": [
+   "juez"
+  ],
+  "motivo": "las citas siguen el texto de la RV1909 (Jn 6,44 «si el Padre que me envió no le trajere»; Jn 14,4 «Y sabéis a dónde voy»): es la norma de la edición, no una adición",
+  "evidencia": "No man can come to Me, except the Father draw him ... Whither I go ye know"
+ },
+ "hcf:Augustine of Hippo/John 19_6#0": {
+  "puntos": [
+   "juez"
+  ],
+  "motivo": "falso positivo del juez: el español dice «no se aplaca» (correcto); la palabra «aclapa» no está en el texto",
+  "evidencia": "The envy of the Jews does not subside"
+ },
+ "hcf:Augustine of Hippo/John 21_11#1": {
+  "puntos": [
+   "juez",
+   "2 números distintos"
+  ],
+  "motivo": "«so great» de Jn 21,11 = «siendo tantos» en la RV1909; lo demás corregido en adjudicaciones; números distintos a propósito: la referencia del original «Ps. 41:7» se corrigió a «Sal. 40:5» (regla de citas bíblicas: el texto citado es Sal 40,5 hebreo / 39,6 Vulgata)",
+  "evidencia": "And for all they were so great, yet was not the net broken"
  }
 }

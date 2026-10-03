@@ -42,10 +42,11 @@
   "huella": "5376a4cffcab"
  },
  "hcf:Glossa Ordinaria/John 20_2#0": {
-  "text_es": "Y por eso corrió a decírselo a los discípulos, para que la buscaran con ella, o se afligieran con ella: Entonces corre, y va a Simón Pedro, y al otro discípulo, a quien Jesús amaba.",
+  "text_es": "Y por eso corrió a decírselo a los discípulos, para que lo buscaran con ella, o se afligieran con ella: Entonces corrió, y fue a Simón Pedro y al otro discípulo, a quien Jesús amaba.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "a3e0780535ed"
+  "huella": "a3e0780535ed",
+  "corregido_por_juez": "Traduce 'seek Him with her' como 'la buscaran con ella'; debe ser 'lo buscaran con ella'."
  },
  "hcf:Gregory the Dialogist/John 20_2#0": {
   "text_es": "Pone la parte por el todo; ella había venido solo a buscar el cuerpo de nuestro Señor, y ahora lamenta que nuestro Señor, todo Él, ha sido tomado.",
@@ -402,10 +403,11 @@
   "huella": "d0aa0c7f5691"
  },
  "hcf:Augustine of Hippo/John 20_20#0": {
-  "text_es": "Los clavos habían traspasado sus manos, la lanza había traspasado su costado. Para la sanación de los corazones dudosos, las marcas de las heridas aún se conservaban.\n\n(de Civ. Dei.) La gloria con la cual los justos brillarán como el sol en el reino de su Padre, esto es, en el cuerpo de Cristo, debemos creer que estaba más bien velada que no presente del todo. Acomodó su presencia a la débil vista del hombre, y se presentó en tal forma que su discípulo pudiera mirarlo y reconocerlo.",
+  "text_es": "Los clavos habían traspasado sus manos, la lanza había traspasado su costado. Para la curación de los corazones que dudaban, las marcas de las heridas aún se conservaban.\n\n(de Civ. Dei.) La gloria con la que los justos resplandecerán como el sol en el reino de su Padre, esto es, en el cuerpo de Cristo, debemos creer que estaba más bien velada que ausente por completo. Él acomodó su presencia a la débil vista del hombre, y se presentó en tal forma que su discípulo pudiera mirarlo y reconocerlo.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "8db5d2273c41"
+  "huella": "8db5d2273c41",
+  "corregido_por_juez": "'not to have been there at all' se traduce como 'no presente del todo', que significa 'no del todo presente', no 'ausente por completo'."
  },
  "hcf:Gregory the Dialogist/John 20_20#0": {
   "text_es": "Y porque su fe vacilaba aun con el cuerpo material delante de ellos, les mostró sus manos y su costado: Y cuando hubo dicho esto, les mostró sus manos y su costado.",
@@ -693,10 +695,11 @@
   "huella": "3e192389da0e"
  },
  "hcf:Augustine of Hippo/John 20_30-31#0": {
-  "text_es": "Después de hablarnos del incidente en relación con el cual el discípulo Tomás había ofrecido a su tacto los lugares de las heridas en el cuerpo de Cristo, y vio lo que no quería creer, y creyó, el evangelista Juan interpone estas palabras y dice: «Y muchas otras señales verdaderamente hizo Jesús en presencia de sus discípulos, que no están escritas en este libro: pero estas se han escrito para que creáis que Jesús es el Cristo, el Hijo de Dios; y para que creyendo, tengáis vida en su nombre». Este párrafo indica, por así decirlo, el final del libro; pero después se relata cómo el Señor se manifestó en el mar de Tiberias, y en la pesca milagrosa hizo referencia especial al misterio de la Iglesia, en cuanto a su carácter futuro, en la resurrección final de los muertos. Pienso, por tanto, que es conveniente darle especial prominencia al hecho de que se haya interpuesto así, por así decirlo, un final del libro, y que haya también una especie de prefacio a la narración que había de seguir, para darle en cierta medida una posición de mayor eminencia.",
+  "text_es": "Después de hablarnos del incidente con motivo del cual el discípulo Tomás había ofrecido a su tacto los lugares de las heridas en el cuerpo de Cristo, y vio lo que no quería creer, y creyó, el evangelista Juan interpone estas palabras y dice: «Y muchas otras señales verdaderamente hizo Jesús en presencia de sus discípulos, que no están escritas en este libro: mas éstas son escritas para que creáis que Jesús es el Cristo, el Hijo de Dios; y para que creyendo, tengáis vida en su nombre». Este párrafo indica, por así decirlo, el final del libro; pero después se relata cómo el Señor se manifestó junto al mar de Tiberias, y en la pesca de los peces hizo referencia especial al misterio de la Iglesia, en cuanto a su carácter futuro, en la resurrección final de los muertos. Pienso, por tanto, que es apto para darle especial relieve el hecho de que se haya interpuesto así, por decirlo de algún modo, un final del libro, y que haya también una especie de prefacio a la narración que había de seguir, a fin de darle en cierta medida una posición de mayor eminencia.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "73d64a237450"
+  "huella": "73d64a237450",
+  "corregido_por_juez": "Añade «milagrosa»; el inglés solo dice «the draught of fishes»."
  },
  "hcf:John Chrysostom/John 20_30-31#0": {
   "text_es": "Puesto que este Evangelista ha mencionado menos que los otros, nos dice que tampoco los otros los mencionaron todos, sino tantos como eran suficientes para llevar a los oyentes a la fe. Pues, «Si», dice, «se escribiesen cada una, pienso que ni aun el mundo mismo podría contener los libros». De donde es claro que lo que mencionaron no lo escribieron por ostentación, sino solo por causa de lo que era útil. Pues ¿cómo podrían, quienes omitieron la mayor parte, escribir estas otras por ostentación? Pero ¿por qué no las recorrieron todas? Principalmente por su número; además, también consideraron que quien no creyera las que habían mencionado, no prestaría atención a un número mayor; mientras que quien recibiera estas, no tendría necesidad de otra para creer. Y aquí también me parece que por el momento habla de los milagros después de la Resurrección. Por lo cual dice: «En presencia de sus discípulos».\n\nPues como antes de la Resurrección era necesario que se hicieran muchos, para que creyeran que él era el Hijo de Dios, así también lo fue después de la Resurrección, para que admitieran que había resucitado. Por otra razón también añadió: «En presencia de sus discípulos», porque después de la Resurrección conversó solo con ellos; por lo cual también dijo: «El mundo no me verá más». Luego, para que entiendas que lo que se hizo fue hecho solo por causa de los discípulos, añadió: «Para que creyendo, tengáis vida en su Nombre».\n\nHablando en general a la humanidad, y mostrando que no a aquel en quien se cree, sino a nosotros mismos, concede un favor muy grande. «En su Nombre», esto es, «por medio de él»; pues él es la Vida.",

@@ -250,10 +250,11 @@
   "huella": "9ee2c5502f88"
  },
  "hcf:Augustine of Hippo/John 9_16#0": {
-  "text_es": "Algunos, no todos: pues algunos ya habían sido ungidos. Pero ellos, que ni veían ni habían sido ungidos, decían: Este hombre no es de Dios, porque no guarda el día de reposo. Más bien lo guardaba, en que estaba sin pecado; pues observar el día de reposo espiritualmente es no tener pecado. Y de esto nos amonesta Dios, cuando ordena el día de reposo, diciendo: En él no harás ningún trabajo servil. (Éxodo 20:10) Qué es trabajo servil, nuestro Señor nos lo dice arriba: Todo el que comete pecado es esclavo del pecado. (c. 8:34) Observaban el día de reposo carnalmente, lo transgredían espiritualmente.",
+  "text_es": "Algunos, no todos: pues algunos ya habían sido ungidos. Pero ellos, que ni veían ni habían sido ungidos, decían: Este hombre no es de Dios, porque no guarda el día de reposo. Más bien lo guardaba él, en cuanto que estaba sin pecado; pues guardar espiritualmente el día de reposo es no tener pecado. Y de esto nos amonesta Dios, cuando ordena el día de reposo, diciendo: En él no harás obra servil. (Exod. 20:10) Qué es obra servil, nos lo dice nuestro Señor más arriba: Todo aquel que comete pecado, esclavo es del pecado. (c. 8:34) Ellos guardaban carnalmente el día de reposo, lo transgredían espiritualmente.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "7d931c0bf381"
+  "huella": "7d931c0bf381",
+  "corregido_por_juez": "Traduce 'servant' como 'esclavo' en lugar de 'siervo' (cf. RV1909; Juan 8:34)."
  },
  "hcf:John Chrysostom/John 9_16#0": {
   "text_es": "Pasando por alto el milagro en silencio, dan toda la prominencia posible a la supuesta transgresión; no acusándolo de sanar en el día de reposo, sino de no guardar el día de reposo. Otros decían: ¿Cómo puede un hombre que es pecador hacer tales milagros? Estaban impresionados por sus milagros, pero solo de una manera débil e inestable. Pues aunque tales milagros podrían haberles mostrado que el día de reposo no era quebrantado; aún no tenían idea de que Él era Dios, y por lo tanto no sabían que era el Señor del día de reposo quien había obrado el milagro. Ni ninguno de ellos se atrevía a decir abiertamente cuáles eran sus sentimientos, sino que hablaban ambiguamente; uno, porque pensaba que el hecho mismo era improbable; otro, por amor a su posición. Sigue: Y había división entre ellos. Es decir, el pueblo estaba dividido primero, y luego los gobernantes.",
@@ -274,10 +275,11 @@
   "huella": "1153101cafea"
  },
  "hcf:Theophylact of Ohrid/John 9_17#0": {
-  "text_es": "Mira con qué buena intención plantean la pregunta. No dicen: ¿Qué dices de Él que no guarda el día de reposo?, sino que mencionan el milagro: que te ha abierto los ojos; queriendo, al parecer, sacar al hombre sanado mismo; Él te ha beneficiado, parecen decir, y tú deberías predicarlo.",
+  "text_es": "Observa con qué buena intención plantean la pregunta. No dicen: «¿Qué dices de aquel que no guarda el sábado?», sino que mencionan el milagro, que Él te ha abierto los ojos; con lo cual parece que quieren sacar al propio hombre sanado; Él los ha beneficiado, parecen decir, y tú deberías predicarlo.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "0b4047b0786e"
+  "huella": "0b4047b0786e",
+  "corregido_por_juez": "Traduce «He hath benefited them» como «Él te ha beneficiado», cambiando el destinatario de ellos a tú."
  },
  "aquifer:19263": {
   "text_es": "Los fariseos querían descartar el milagro. No querían aceptar que Jesús había sanado verdaderamente al hombre.\n\nLlamaron a los padres del hombre y los interrogaron. Esperaban que los padres negaran que había tenido lugar una verdadera curación.",

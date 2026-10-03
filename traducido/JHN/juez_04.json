@@ -766,5 +766,17 @@
   "motivo": "",
   "modelo": "gemini-3.6-flash",
   "huella": "38bfe2d66314"
+ },
+ "hcf:Cyril of Alexandria/John 4_50#0": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "9c589556bbd2"
+ },
+ "_calibracion": {
+  "detect": 14,
+  "total": 14,
+  "modelo": "gemini-3.6-flash",
+  "fuente": "corrida 37066191612 (02-10-2026), informes/juez_JHN.md en e854121"
  }
 }

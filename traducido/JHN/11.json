@@ -114,10 +114,11 @@
   "huella": "b00b06b9abbc"
  },
  "hcf:John Chrysostom/John 11_7#0": {
-  "text_es": "«Luego dice a sus discípulos: Vamos a Judea otra vez». ¿Por qué, cuando en otros lugares nunca les dijo de antemano adónde iba, se lo dice aquí? Habían estado muy aterrados, y como estaban dispuestos de este modo, les advierte, para que la súbita noticia no los turbara.",
+  "text_es": "«Entonces dijo a sus discípulos: Vamos a Judea». ¿Por qué, cuando en otros lugares nunca les dijo de antemano adónde iba, se lo dice aquí? Habían quedado muy aterrados, y puesto que estaban dispuestos de este modo, les advierte, para que la súbita noticia no los turbara.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "84313672aadf"
+  "huella": "84313672aadf",
+  "corregido_por_juez": "Añade «otra vez» en la cita; el inglés solo dice «Let us go into Judea»."
  },
  "aquifer:18869": {
   "text_es": "Los discípulos estaban justamente preocupados por el riesgo (véase 7:25; 8:37, 44, 59; 10:31, 39).",
@@ -132,10 +133,11 @@
   "huella": "f5c19cb9086b"
  },
  "hcf:John Chrysostom/John 11_8#0": {
-  "text_es": "«Los judíos de nuevo procuraban apedrearte, ¿y otra vez vas allá?». Ellos, por tanto, también habían temido por él, pero en su mayor parte más bien por sí mismos; pues aún no eran perfectos. Así Tomás, temblando de miedo, dijo: «Vamos también nosotros, para que muramos con él», porque Tomás era más débil e incrédulo que los demás. Pero mira cómo Jesús los anima con lo que dice.",
+  "text_es": "«Los judíos hace poco procuraban apedrearte, ¿y otra vez vas allá?». Por tanto, también ellos habían temido por Él, pero en su mayor parte más bien por sí mismos; pues aún no eran perfectos. Así Tomás, temblando de miedo, dijo: «Vamos también nosotros, para que muramos con Él», porque Tomás era más débil y más incrédulo que los demás. Pero mira cómo Jesús los anima con lo que dice.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "2917b49b1cb9"
+  "huella": "2917b49b1cb9",
+  "corregido_por_juez": "«of late» significa «recientemente/hace poco», no «de nuevo»."
  },
  "hcf:Theophylact of Ohrid/John 11_9-10#0": {
   "text_es": "Algunos entienden que el día es el tiempo que precede a la Pasión, y la noche es la Pasión. En este sentido, mientras es de día significaría: antes de mi Pasión; no tropezaréis antes de mi Pasión, porque los judíos no os perseguirán; pero cuando venga la noche, es decir, mi Pasión, entonces seréis rodeados de tinieblas y dificultades.",
@@ -144,10 +146,11 @@
   "huella": "43a7d5f4e380"
  },
  "hcf:Augustine of Hippo/John 11_11#0": {
-  "text_es": "Realmente era verdad que dormía. Para nuestro Señor, dormía; para los hombres que no podían resucitarlo, estaba muerto. Nuestro Señor lo despertó con tanta facilidad de su sepulcro, como tú despiertas a un durmiente de su lecho. Lo llama, pues, dormido, con referencia a su propio poder, como dice el Apóstol: Pero no quiero que ignoréis, hermanos, acerca de los que duermen. (1 Tes. 4:13) Dormido, dice, porque habla de su resurrección que había de ser. Pero así como importa a los que duermen y despiertan cada día, lo que ven en su sueño, teniendo algunos sueños agradables, otros penosos, así es en la muerte; cada uno duerme y resucita con su propia cuenta.",
+  "text_es": "Realmente era verdad que dormía. Para nuestro Señor, dormía; para los hombres que no podían resucitarlo, estaba muerto. Nuestro Señor lo despertó con tanta facilidad de su sepulcro, como tú despiertas a un durmiente de su lecho. Lo llama, pues, dormido, con referencia a su propio poder, como dice el Apóstol: «Pero no quiero que ignoréis, acerca de los que duermen» (1 Tes. 4:13). Dormido, dice, porque habla de su resurrección que había de ser. Pero así como importa a los que duermen y vuelven a despertar cada día lo que ven en su sueño, teniendo algunos sueños agradables y otros penosos, así es en la muerte; cada uno duerme y vuelve a levantarse con su propia cuenta.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "f141ee9393af"
+  "huella": "f141ee9393af",
+  "corregido_por_juez": "Añade «hermanos» en la cita bíblica, ausente en el inglés."
  },
  "hcf:John Chrysostom/John 11_11#0": {
   "text_es": "Habiéndolos animado con estas palabras, añade que la causa de ir allá era urgente, y les muestra que no iban a Jerusalén, sino a Betania.\n\n«Nuestro amigo Lázaro», dice, «duerme; mas voy para despertarle del sueño.» Esto es: «No voy con el mismo propósito que antes, para razonar y contender de nuevo con los judíos, sino para despertar a nuestro amigo.»\n\n«Entonces dijeron sus discípulos: Señor, si duerme, sanará.»\n\nEsto lo dijeron no sin causa, sino deseando impedir la ida allá. «¿Dices», pregunta uno de ellos, «que duerme? Entonces no hay razón urgente para ir.» Sin embargo, por esto había dicho: «Nuestro amigo», para mostrar que era necesario ir allá.",
@@ -782,10 +785,11 @@
   "huella": "4f271fb150ce"
  },
  "hcf:Alcuin of York/John 11_49#0": {
-  "text_es": "De este Caifás relata Josefo que compró el sumo sacerdocio por un año, por cierta suma.",
+  "text_es": "De este Caifás relata Josefo que compró el sacerdocio por un año, por cierta suma.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "883d2d9f53a5"
+  "huella": "883d2d9f53a5",
+  "corregido_por_juez": "Añade 'sumo' no presente en el inglés ('the priesthood')."
  },
  "hcf:Augustine of Hippo/John 11_49#0": {
   "text_es": "¿Cómo es que se le llama sumo sacerdote de aquel año, cuando Dios designó un solo sumo sacerdote hereditario? Esto se debió a la ambición y contienda de facciones entre los propios judíos, que había terminado en el nombramiento de varios sumos sacerdotes, quienes tomaban el oficio por turno, año tras año. Y a veces incluso parece haber habido más de uno en el cargo.",
@@ -908,10 +912,11 @@
   "huella": "e35da033900d"
  },
  "hcf:Cyril of Alexandria/John 11_56#0": {
-  "text_es": "La forma de la expresión, sin embargo, deja en duda si las palabras: ¿Qué os parece? ¿Que no vendrá a la fiesta?, son la utterance de quienes lo odiaban o de quienes lo amaban. Pues no era improbable que quienes creían en Él hablaran así a los incrédulos: «Puesto que tomasteis consejo para dar muerte a Jesús, y pensáis que Él ignora lo que habéis planeado en secreto, esto será para vosotros una señal clara de que Él es Dios. Pues por supuesto que no vendrá ahora a unirse a nosotros para celebrar la fiesta, porque como Dios conoce vuestros planes». O la expresión puede parafrasearse así como la utterance de quienes odiaban a Jesús: «Como Jesús tiene siempre la costumbre de dejar de lado la ley, ¿vosotros que creéis en Él estáis dispuestos a reconocer que este es su carácter, viendo que ahora no ha venido a la fiesta, despreciando la ley de la fiesta al no unirse a nosotros en su celebración?». Y dicen esto, no porque fuera necesario que todos subieran juntos a Jerusalén en la Pascua, como en la fiesta de los Tabernáculos, sino más bien dando a entender que su no subir a Jerusalén era indicio de cobardía, como si no pudiera protegerse en tal momento y por eso no viniera. O de nuevo, los designados para prenderlo pueden haber dicho estas palabras entre sí, estando desesperados, porque aún no lo veían venir, y estaban ansiosos por ejecutar rápidamente aquello para lo que habían sido designados.",
+  "text_es": "La forma de expresión, sin embargo, deja en duda si las palabras: ¿Pensáis que no vendrá a la fiesta?, son expresión de quienes le odiaban o de quienes le amaban. Pues no era improbable que los que creían en Él hablaran así a los incrédulos: «Ya que tomasteis consejo para dar muerte a Jesús, y pensáis que Él ignora lo que habéis planeado en secreto, esto será para vosotros una señal clara de que Él es Dios. Pues ciertamente no vendrá ahora a reunirse con nosotros para celebrar la fiesta, porque como Dios conoce vuestros planes». O la expresión puede parafrasearse así como palabra de quienes odiaban a Jesús: «Como es costumbre constante en Jesús dejar de lado la ley, ¿estáis vosotros que creéis en Él dispuestos a reconocer que este es su carácter, puesto que ahora no ha venido a la fiesta, desatendiendo la ley de la fiesta al no unirse con nosotros en su celebración?». Y dicen esto, no porque fuera necesario que todos subieran juntos a Jerusalén en la pascua, como en la fiesta de los Tabernáculos, sino más bien dando a entender que el no subir Él a Jerusalén era indicio de cobardía, como si no pudiera protegerse en tal momento, y por esa razón dejara de venir. O también, los designados para prenderle pudieron haber dicho estas palabras entre sí, estando desesperados, porque aún no le veían venir, y ansiaban ejecutar rápidamente aquello para lo cual habían sido designados.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "8457fc452036"
+  "huella": "8457fc452036",
+  "corregido_por_juez": "Deja sin traducir la palabra inglesa 'utterance' (dos veces)."
  },
  "hcf:Theophylact of Ohrid/John 11_57#0": {
   "text_es": "Si solo el pueblo común hubiera hecho estas cosas, la Pasión habría parecido deberse a la ignorancia de los hombres; pero son los fariseos quienes ordenan que sea prendido: Y los principales sacerdotes y los fariseos habían dado mandamiento, que si alguno supiera dónde estaba, lo manifestara, para que lo prendieran.",

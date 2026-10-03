@@ -210,10 +210,10 @@
   "huella": "d1f61a7c6d59"
  },
  "hcf:Alcuin of York/John 5_44#0": {
-  "ok": false,
-  "motivo": "Cambio de sentido en «likes to be thought to have what it has not», traducido como «gusta de ser tenido por lo que no es» en vez de «gusta de que se crea que tiene lo que no tiene».",
-  "modelo": "gemini-3.6-flash",
-  "huella": "a51afd7b5c0b"
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "f71947735e16"
  },
  "hcf:Alcuin of York/John 5_46#0": {
   "ok": true,
@@ -808,5 +808,11 @@
   "motivo": null,
   "modelo": "gemini-3.6-flash",
   "huella": "b2496f5280a4"
+ },
+ "_calibracion": {
+  "detect": 20,
+  "total": 20,
+  "modelo": "gemini-3.6-flash",
+  "fuente": "corrida 37066191612 (02-10-2026), informes/juez_JHN.md en e854121"
  }
 }

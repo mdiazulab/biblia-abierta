@@ -26,10 +26,11 @@
   "huella": "6bee906bee3b"
  },
  "hcf:Augustine of Hippo/John 18_1#1": {
-  "text_es": "El discurso que nuestro Señor tuvo con sus discípulos después de la cena, y la oración que siguió, habiendo terminado ya, el Evangelista comienza el relato de su Pasión. Cuando Jesús hubo dicho estas palabras, salió con sus discípulos sobre el arroyo Cedrón, donde había un huerto, en el cual entró él, y sus discípulos. Pero esto no ocurrió inmediatamente después de terminada la oración; hubo un intervalo que contiene algunas cosas, que Juan omite, pero que son mencionadas por los otros Evangelistas.\n\n(de Con. Ev. iii. c. 3.) Se produjo una contienda entre ellos, sobre cuál de ellos era el mayor, como relata Lucas. También dijo a Pedro, como Lucas añade en el mismo lugar: He aquí, Satanás os ha pedido para zarandearos como a trigo, etc. (Lucas 22:31) Y según Mateo y Marcos, cantaron un himno, y luego fueron al monte de los Olivos. (Mat. 26:30. Marcos 14:26) Mateo, por último, une las dos narraciones: Entonces Jesús fue con sus discípulos a un lugar que se llama Getsemaní. Ese es el lugar que Juan menciona aquí: Donde había un huerto, en el cual entró él, y sus discípulos.\n\n(Tr. cxii) Cuando Jesús hubo dicho estas palabras, muestra que no entró antes de haber terminado de hablar.",
+  "text_es": "El discurso que nuestro Señor tuvo con sus discípulos después de la cena, y la oración que siguió, habiendo terminado ya, el Evangelista comienza el relato de su Pasión. Cuando Jesús hubo dicho estas palabras, salió con sus discípulos al otro lado del arroyo Cedrón, donde había un huerto, en el cual entró él y sus discípulos. Pero esto no ocurrió inmediatamente después de terminada la oración; hubo un intervalo que contiene algunas cosas, las cuales omite Juan, pero que mencionan los otros Evangelistas.\n\n(de Con. Ev. iii. c. 3.) Se produjo una contienda entre ellos sobre quién de ellos era el mayor, como relata Lucas. También dijo a Pedro, como añade Lucas en el mismo lugar: He aquí, Satanás os ha pedido para zarandearos como a trigo, etc. (Lucas 22:31) Y según Mateo y Marcos, cantaron un himno, y luego fueron al Monte de los Olivos. (Mat. 26:30. Marcos 14:26) Finalmente Mateo reúne las dos narraciones: Entonces Jesús fue con sus discípulos a un lugar que se llama Getsemaní. Ese es el lugar que Juan menciona aquí: Donde había un huerto, en el cual entró él y sus discípulos.\n\n(Tr. cxii) Cuando Jesús hubo dicho estas palabras, muestra que no entró antes de haber terminado de hablar.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "4203df0431ab"
+  "huella": "4203df0431ab",
+  "corregido_por_juez": "Traduce 'over the brook Cedron' como 'sobre el arroyo Cedrón'; el sentido correcto es 'al otro lado del arroyo Cedrón'."
  },
  "hcf:Cyril of Alexandria/John 18_1#0": {
   "text_es": "Pero, como el tiempo había llegado ya, Cristo dejó la casa donde había instruido a sus discípulos en el misterio, y vino al lugar adonde él mismo, el Salvador de todo el género humano, solía acudir a menudo, junto con sus santos discípulos. Hizo esto también por el deseo de facilitar al traidor el encontrarlo. El lugar era un huerto, que tipificaba el Paraíso de antaño. Pues en él, por así decirlo, todos los lugares estaban resumidos; y en él se consumó nuestro retorno a la condición antigua del hombre. Porque en el Paraíso los problemas de la humanidad tuvieron su origen; mientras que en el huerto comenzó el sufrimiento de Cristo, que nos trajo la liberación de todo mal que nos había sobrevenido en el tiempo pasado.",
@@ -222,10 +223,11 @@
   "huella": "5da5cbfae228"
  },
  "aquifer:19000": {
-  "text_es": "⸢un hombre muriera por el pueblo⸣: Caifás había dicho esto como un cálculo político (11:49–50). Juan señala la ironía: la muerte de Jesús no trajo libertad política a Israel. En cambio, trajo salvación espiritual para todo el que cree en él.",
+  "text_es": "⸢un hombre murió por el pueblo⸣: Caifás había dicho esto como un cálculo político (11:49–50). Juan señala la ironía: la muerte de Jesús no trajo libertad política a Israel. En cambio, trajo salvación espiritual para todo el que cree en él.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "6f2692d99e74"
+  "huella": "6f2692d99e74",
+  "corregido_por_juez": "El inglés dice «one man died» (murió), pero el español usa «muriera» (subjuntivo), cambiando el modo/tiempo verbal."
  },
  "hcf:Alcuin of York/John 18_14#0": {
   "text_es": "Josefo relata que este Caifás compró el sumo sacerdocio para este año. No es de extrañar, entonces, que un sumo sacerdote malvado juzgara malvadamente. Un hombre que fue elevado al sacerdocio por la avaricia, se mantendría en él por la injusticia.",
@@ -326,10 +328,11 @@
   "huella": "635d843ede09"
  },
  "hcf:Alcuin of York/John 18_19-20#0": {
-  "text_es": "No pregunta para conocer la verdad, sino para encontrar algún cargo contra Él, sobre el cual entregarlo al Gobernador romano para que sea condenado. Pero nuestro Señor templa de tal modo su respuesta, que ni oculta la verdad, ni tampoco parece defenderse a sí mismo: Jesús le respondió: Yo he hablado abiertamente al mundo; yo siempre he enseñado en la sinagoga y en el templo, a donde concurren los judíos; y nada he hablado en secreto.",
+  "text_es": "No pregunta para conocer la verdad, sino para encontrar alguna acusación contra Él, con la cual entregarlo al gobernador romano para que sea condenado. Pero nuestro Señor modera de tal manera su respuesta, que ni oculta la verdad, ni tampoco parece defenderse: Jesús le respondió: Yo he hablado abiertamente al mundo; siempre he enseñado en la sinagoga y en el templo, adonde concurren siempre los judíos; y nada he hablado en secreto.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "99d4e82782af"
+  "huella": "99d4e82782af",
+  "corregido_por_juez": "Omite 'always' en 'whither the Jews always resort'."
  },
  "hcf:Theophylact of Ohrid/John 18_19#0": {
   "text_es": "Le pregunta además acerca de su doctrina, qué era, si era opuesta a Moisés y a la ley, para tomar ocasión por ello de darle muerte como enemigo de Dios.",
@@ -362,10 +365,11 @@
   "huella": "684e30f19a27"
  },
  "hcf:John Chrysostom/John 18_21#0": {
-  "text_es": "«¿Por qué me preguntas a mí? Pregunta a los que han oído lo que les he hablado.» Estas no son palabras de uno que habla con arrogancia, sino de uno que confía en la verdad de lo que había dicho. Por lo tanto, lo que dijo al principio: «Si yo doy testimonio de mí mismo, mi testimonio no es verdadero», esto ahora lo implica, deseando hacer su testimonio abundantemente creíble. Pues cuando Anás mencionó a los discípulos, ¿qué dice Él? «¿Me preguntas acerca de los míos? Pregunta a mis enemigos, pregunta a los que han conspirado contra mí, a los que me han atado; que ellos hablen.» Esta es una prueba incuestionable de la verdad, cuando uno llama a sus enemigos como testigos de lo que dice.",
+  "text_es": "«¿Por qué me preguntas? Pregunta a los que me han oído». No son estas palabras de uno que habla con arrogancia, sino de uno que confía en la verdad de lo que había dicho. Por tanto, lo que dijo al principio: «Si yo doy testimonio de mí mismo, mi testimonio no es verdadero», esto da a entender ahora, deseando hacer su testimonio abundantemente creíble. Pues cuando Anás mencionó a los discípulos, ¿qué dice él? «¿Me preguntas acerca de los míos? Pregunta a mis enemigos, pregunta a los que han conspirado contra mí, a los que me han atado; que ellos hablen». Esta es una prueba indiscutible de la verdad, cuando uno llama a sus enemigos como testigos de lo que dice.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "65b1002c7303"
+  "huella": "65b1002c7303",
+  "corregido_por_juez": "Añade «lo que les he hablado» en la primera cita, ausente en el inglés."
  },
  "aquifer:19005": {
   "text_es": "Cuando Jesús le recordó a Anás el procedimiento legal correcto, uno de los guardias del templo pensó que estaba siendo irrespetuoso. El guardia abofeteó a Jesús.\n\nSin embargo, Jesús conocía bien la ley y habló con verdad. No había testigos que lo acusaran, y no se presentó evidencia contra él.",
@@ -374,10 +378,11 @@
   "huella": "fc682a1df5e3"
  },
  "hcf:Alcuin of York/John 18_22-23#0": {
-  "text_es": "Aquí se cumple la profecía: Di mi mejilla a los que me herían. Jesús, aunque golpeado injustamente, respondió con mansedumbre: Jesús le respondió: Si he hablado mal, testifica en qué está el mal; y si bien, ¿por qué me hieres?",
+  "text_es": "Aquí se cumple la profecía: di mi mejilla a los que me herían. Jesús, aunque fue golpeado injustamente, respondió con mansedumbre: Jesús le respondió: Si he hablado mal, testifica en qué está el mal; y si bien, ¿por qué me hieres?",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "44a0f6f02adc"
+  "huella": "44a0f6f02adc",
+  "corregido_por_juez": "Traduce 'bear witness of the evil' como 'testifica en qué está el mal', añadiendo 'en qué está' y cambiando el sentido."
  },
  "hcf:Augustine of Hippo/John 18_22-23#0": {
   "text_es": "¿Qué puede haber más verdadero, más manso, más bondadoso que esta respuesta? Aquel que recibió el golpe en el rostro ni deseó para quien lo golpeó que el fuego del cielo lo consumiera, o que la tierra abriera su boca y lo tragara; o que un demonio se apoderara de él; o cualquier otro tipo de castigo aún más horrible. Sin embargo, ¿acaso no tenía Él, por quien fue hecho el mundo, poder para hacer que cualquiera de estas cosas sucediera, sino que prefirió enseñarnos aquella paciencia por la cual el mundo es vencido? Alguien preguntará aquí por qué no hizo lo que Él mismo mandó, es decir, no dar esta respuesta, sino presentar la otra mejilla al que lo golpeaba. Pero ¿qué si hizo ambas cosas, tanto respondió con mansedumbre, como entregó, no solo su mejilla al que lo golpeaba, sino todo su cuerpo para ser clavado en la Cruz? Y en esto muestra que aquellos preceptos de paciencia deben cumplirse no por la postura del cuerpo, sino por la preparación del corazón; pues es posible que un hombre presente su mejilla exteriormente y, sin embargo, esté airado al mismo tiempo. ¡Cuánto mejor es responder con verdad, pero con mansedumbre, y estar dispuesto a soportar pacientemente incluso un trato más duro!",
@@ -442,10 +447,11 @@
   "huella": "89f931544433"
  },
  "hcf:Augustine of Hippo/John 18_25-27#0": {
-  "text_es": "Aquí encontramos a Pedro no en la puerta, sino junto al fuego, cuando niega por segunda vez; de modo que debió haber vuelto después de haber salido afuera, donde Mateo dice que estaba. No salió, y otra criada lo vio afuera, sino que otra criada lo vio cuando se levantaba para salir, y lo notó, y dijo a los que estaban allí, es decir, a los que estaban de pie con ella junto al fuego dentro del patio: Este también estaba con Jesús de Nazaret. (Mat. 26:71, 72) Él oyó esto afuera, y volvió, y juró: No conozco al hombre. Luego Juan continúa: Le dijeron, pues: ¿No eres tú también de sus discípulos? Palabras que suponemos fueron dichas a él cuando había vuelto y estaba de pie junto al fuego. Y esta explicación se confirma por el hecho de que, además de la otra criada mencionada por Mateo y Marcos en la segunda negación, había otra persona, mencionada por Lucas, que también lo interrogó. Así Juan usa el plural: Le dijeron, pues. Y luego sigue la tercera negación: Uno de los siervos del sumo sacerdote, pariente de aquel a quien Pedro había cortado la oreja, le dice: ¿No te vi yo en el huerto con él? Que Mateo y Marcos hablen en plural de la persona que aquí interroga a Pedro, mientras que Lucas menciona solo a una, y Juan también, añadiendo que aquella era pariente de aquel a quien Pedro había cortado la oreja, se explica fácilmente suponiendo que Mateo y Marcos usaron el número plural por una forma común de hablar en lugar del singular; o que uno que lo había observado más estrictamente hizo la pregunta primero, y otros la siguieron, y presionaron a Pedro más.",
+  "text_es": "Aquí encontramos a Pedro no en la puerta, sino junto al fuego, cuando niega por segunda vez; de modo que debió haber vuelto después de haber salido afuera, donde dice Mateo que estaba. No salió, y otra criada lo vio afuera, sino que otra criada lo vio cuando se levantaba para salir, y lo notó, y lo dijo a los que estaban allí, es decir, a los que estaban de pie con ella junto al fuego dentro del patio: Este también estaba con Jesús de Nazaret. (Mat. 26:71, 72) Él oyó esto afuera, y volvió, y juró: No conozco al hombre. Luego Juan continúa: Le dijeron, pues: ¿No eres tú también de sus discípulos? palabras que suponemos le fueron dichas cuando había vuelto y estaba de pie junto al fuego. Y esta explicación se confirma por el hecho de que, además de la otra criada mencionada por Mateo y Marcos en la segunda negación, había otra persona, mencionada por Lucas, que también lo interrogó. Así Juan usa el plural: Le dijeron, pues. Y luego sigue la tercera negación: Uno de los siervos del sumo sacerdote, pariente de aquel a quien Pedro había cortado la oreja, le dice: ¿No te vi yo en el huerto con él? Que Mateo y Marcos hablen en plural de los que aquí interrogan a Pedro, mientras que Lucas menciona solo a uno, y Juan también, añadiendo que aquel era pariente de aquel a quien Pedro había cortado la oreja, se explica fácilmente suponiendo que Mateo y Marcos usaron el número plural por una forma común de hablar en lugar del singular; o que uno que lo había observado más estrictamente hizo la pregunta primero, y otros la siguieron, y apremiaron más a Pedro.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "115bdce2e557"
+  "huella": "115bdce2e557",
+  "corregido_por_juez": "El original dice 'the party who here question Peter' (plural) y 'that one was the kinsman' (masculino); el español lo vuelve singular 'la persona que aquí interroga' y femenino 'aquella', cambiando el sentido."
  },
  "hcf:Bede/John 18_25-27#0": {
   "text_es": "Místicamente, por la primera negación de Pedro se designan aquellos que antes de la Pasión de nuestro Señor negaron que Él fuera Dios; por la segunda, aquellos que lo hicieron después de su resurrección. Así, por el primer canto del gallo se significa su resurrección; por el segundo, la resurrección general al fin del mundo. Por la primera criada, que obligó a Pedro a negar, se designa la lujuria; por la segunda, el deleite carnal; por uno o más siervos, los demonios que persuaden a los hombres a negar a Cristo.",
@@ -496,10 +502,11 @@
   "huella": "32f5f924157c"
  },
  "hcf:John Chrysostom/John 18_28#1": {
-  "text_es": "\"Pero ¿qué es 'Para que comieran la Pascua?' Pues Él había hecho esto el primer día de los panes sin levadura.\" O bien llama a toda la fiesta \"la Pascua\", o quiere decir que ellos entonces estaban celebrando la Pascua, mientras que Él la entregó a sus seguidores un día antes, reservando su propio Sacrificio para el día de la Preparación, cuando también antiguamente se celebraba la Pascua. Pero ellos, aunque habían tomado las armas, lo cual era ilícito, y estaban derramando sangre, son escrupulosos acerca del lugar, y le traen a Pilato.",
+  "text_es": "\"Pero ¿qué es 'para que pudieran comer la Pascua?' Porque Él había hecho esto en el primer día de los panes sin levadura.\" O llama a toda la fiesta \"la Pascua\", o quiere decir que ellos entonces estaban celebrando la Pascua, mientras que Él la entregó a sus seguidores un día antes, reservando su propio Sacrificio para el día de la Preparación, cuando también antiguamente se celebraba la Pascua. Pero ellos, aunque habían tomado las armas, lo cual era ilícito, y estaban derramando sangre, son escrupulosos acerca del lugar, y traen a Pilato ante ellos.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "85e89abe6746"
+  "huella": "85e89abe6746",
+  "corregido_por_juez": "El inglés dice 'bring forth Pilate to them' (traen a Pilato ante ellos); el español dice 'le traen a Pilato', invirtiendo el objeto/destinatario: no es llevar a Pilato ante ellos, sino llevar a Jesús ante Pilato."
  },
  "aquifer:19009": {
   "text_es": "Pilato⸢,⸣ el quinto gobernador romano de Judea, gobernó el país desde el año 26 hasta el 36 d. C. Normalmente vivía en la costa, en Cesarea, pero mantenía tropas estacionadas en una fortaleza en Jerusalén, donde aparecía personalmente para las grandes fiestas. Fue un gobernante brutal cuyas atrocidades contra los judíos eran legendarias (por ejemplo, Lucas 13:1; Josefo, ⸢Guerra⸣ 2.9.2–4).",
@@ -648,10 +655,11 @@
   "huella": "95fec8a16358"
  },
  "hcf:Theophylact of Ohrid/John 18_37#0": {
-  "text_es": "O, a la pregunta de Pilato de si era Rey, nuestro Señor responde: Para esto he nacido, es decir, para ser Rey. Que yo haya nacido de un Rey prueba que soy Rey.\n\nPues casi había desaparecido del mundo y se había vuelto desconocido a consecuencia de la incredulidad general.",
+  "text_es": "O, a la pregunta de Pilato sobre si era Rey, nuestro Señor responde: Para esto he nacido, es decir, para ser Rey. Que yo haya nacido de un Rey prueba que soy Rey.\n\nPues casi había desaparecido del mundo, y se había vuelto desconocida a causa de la incredulidad general.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "b2fa93cb114a"
+  "huella": "b2fa93cb114a",
+  "corregido_por_juez": "El adjetivo «desconocido» no concuerda con el referente implícito «la verdad»; debería ser «desconocida»."
  },
  "aquifer:19014": {
   "text_es": "⸢¿Qué es la verdad?⸣: La verdad no era una idea ajena a Pilato. Pero no esperó una respuesta porque no creía que hubiera una. Pilato volvió a los miembros del concilio que esperaban fuera y entregó su veredicto: no culpable. Aunque se refirió a Jesús como \"Rey de los judíos\" (véase también 19:19), el título era solo una expresión destinada a burlarse de Jesús. Pilato quería liberar a Jesús. Su oferta mostró que no quería que Jesús fuera ejecutado.",

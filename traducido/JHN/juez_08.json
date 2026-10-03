@@ -1072,5 +1072,11 @@
   "motivo": null,
   "modelo": "gemini-3.6-flash",
   "huella": "26e51d2ce13f"
+ },
+ "_calibracion": {
+  "detect": 17,
+  "total": 17,
+  "modelo": "gemini-3.6-flash",
+  "fuente": "corrida 37066191612 (02-10-2026), informes/juez_JHN.md en e854121"
  }
 }

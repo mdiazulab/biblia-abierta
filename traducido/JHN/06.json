@@ -287,11 +287,11 @@
   "huella": "bbe1c81acc65"
  },
  "hcf:Alcuin of York/John 6_14#0": {
-  "text_es": "Su fe era aún débil, por lo que solo llaman Profeta a nuestro Señor, sin saber que era Dios. Pero el milagro había producido considerable efecto en ellos, pues hizo que llamaran a nuestro Señor aquel Profeta, singularizándolo entre los demás. Lo llaman Profeta, porque algunos de los Profetas habían obrado milagros; y con razón, en cuanto que nuestro Señor se llama a sí mismo Profeta: No puede ser que un profeta perezca fuera de Jerusalén. (Luke 13:33)",
+  "text_es": "Siendo su fe todavía débil, solo llaman a nuestro Señor un Profeta, sin saber que Él era Dios. Pero el milagro había producido considerable efecto en ellos, pues les hizo llamar a nuestro Señor aquel Profeta, singularizándolo entre los demás. Lo llaman Profeta, porque algunos de los Profetas habían obrado milagros; y con propiedad, en cuanto que nuestro Señor se llama a sí mismo Profeta; No puede ser que un profeta perezca fuera de Jerusalén. (Lucas 13:33)",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
   "huella": "be6dddacce30",
-  "corregido_por_juez": "Cambio de sujeto y sentido: «it made them call» se refiera al milagro («hizo que llamaran» / «les hizo llamar») y no a «hicieron que llamaran»."
+  "corregido_por_juez": "La referencia bíblica al final conserva el nombre del libro en inglés («Luke» en vez de «Lucas»)."
  },
  "hcf:Augustine of Hippo/John 6_14#0": {
   "text_es": "Cristo es un Profeta, y el Señor de los Profetas; así como es un Ángel, y el Señor de los Ángeles. En cuanto que vino a anunciar algo, era un Ángel; en cuanto que predijo el futuro, era un Profeta; en cuanto que era el Verbo hecho carne, era Señor tanto de los Ángeles como de los Profetas; pues nadie puede ser Profeta sin la palabra de Dios.",

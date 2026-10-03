@@ -66,9 +66,18 @@ Clases nuevas, con prueba y control (todas aplicadas a los 21 capítulos):
 Cola del juez caps. 1-8: 5 ítems resueltos por Claude (4 en `revision/adjudicaciones_JHN.json`, 1 aceptado en
 `revision/aceptados_JHN.json`). Verificación 21/21; EPUB completo (620 KB) epubcheck 0/0/0.
 
+Juez completo (03-10-2026). Con la clave nueva de Gemini, gemini-3.6-flash no respondía y flash-lite
+mostró sensibilidad 62-80 % (retirado del juez); caps. 1-8 juzgados por gemini-3.6-flash, caps. 9-21 por
+deepseek-reasoner (lotes en paralelo, ~35 min). Calibración con el mismo modelo del censo, guardada en la
+caché («_calibracion»). Compuerta del LIBRO (con < ~130 notas por capítulo el extremo de Wilson no baja de 3 %
+ni con cero errores): 2.526 notas, sensibilidad 342/345 = 99 %, pendientes 0, extremo superior 0,15 % ->
+APROBADO. Cola final: 9 ítems; 6 corregidos con evidencia (incluida la cita «Ps. 41:7» del original, que es
+Sal 40,5), 2 son citas en texto RV1909 (norma de la edición), 1 falso positivo del juez.
+Verificación 21/21; EPUB completo de Juan (620 KB) epubcheck 0/0/0, revisado en pantalla. PILOTO COMPLETO.
+
 Pendiente:
-1. Juez de los caps. 9-21 (corrida en el espejo); resolver su cola; EPUB final.
-2. Capa «Reforma» (Calvino, Wesley) desde fuentes de dominio público en CI.
+1. Capa «Reforma» (Calvino, Wesley) desde fuentes de dominio público en CI.
+2. Siguiente libro con la misma cadena (orden «LIBRO todos» en el espejo).
 
 Decisiones del usuario: acentos modernizados (a); repo propio `biblia-abierta` (b); misma licencia
 CC BY-SA 4.0, gratuito, sin venta; objetivo: patrística y referencias de alto nivel.

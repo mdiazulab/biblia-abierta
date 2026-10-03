@@ -164,11 +164,11 @@
   "huella": "4b302ce50c46"
  },
  "hcf:Bede/John 3_8#0": {
-  "text_es": "Es el Espíritu Santo, por tanto, quien sopla donde quiere. Está en su propio poder elegir a quién visitar con su gracia iluminadora. Y oyes su sonido. Cuando uno lleno del Espíritu Santo está presente contigo y te habla.",
+  "text_es": "Es el Espíritu Santo, por tanto, quien sopla donde quiere. Está en su propio poder elegir cuyo corazón visitar con su gracia iluminadora. Y oyes su sonido. Cuando uno lleno del Espíritu Santo está presente contigo y te habla.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
   "huella": "e4db6cce755e",
-  "corregido_por_juez": "Omitió la traducción de «heart» en la frase «whose heart to visit»."
+  "corregido_por_juez": "Omite 'cuyo corazón': el original dice elegir cuyo corazón visitar, pero el español dice solo 'a quién visitar'."
  },
  "hcf:Haymo of Halberstadt/John 3_8#0": {
   "text_es": "O bien: No puedes decir de dónde viene; es decir, no sabes cómo lleva a los creyentes a la fe; o a dónde va, es decir, cómo dirige a los fieles a su esperanza. Y así es todo aquel que es nacido del Espíritu; como si dijera: El Espíritu Santo es un Espíritu invisible; y de igual modo, todo el que es nacido del Espíritu nace invisiblemente.",
@@ -570,11 +570,11 @@
   "huella": "24b08a48eeac"
  },
  "hcf:Cyril of Alexandria/John 3_26#0": {
-  "text_es": "Rabí, el que estaba contigo al otro lado del Jordán, de quien tú diste testimonio, he aquí, el mismo bautiza, y todos vienen a él. Juan respondió y dijo:\n\nLos discípulos, mordidos por las palabras de los fariseos y atendiendo a la misma naturaleza del asunto, no podían convencerlos de mentirosos, sino que razonablemente estaban perplejos, y, ignorando la gran dignidad de nuestro Salvador, quedan sumamente sorprendidos ante la aparente inferioridad de Juan, y, mezclando palabras de amor con reverencia y admiración, desean saber por qué Aquel de quien él dio testimonio con su voz le precede en honor, le supera en gracia y, al bautizar, recoge en su red no una parte de toda la multitud judía, sino a todos ellos. Y hicieron la pregunta, según parece, no sin la voluntad de Dios; pues de ahí que el Bautista los invite a una explicación precisa y extensa acerca del Salvador, e introduzca la distinción más clara entre los bautismos.",
+  "text_es": "Rabí, el que estaba contigo al otro lado del Jordán, de quien tú diste testimonio, he aquí, el mismo bautiza, y todos vienen a él. Juan respondió y dijo:\n\nLos discípulos, mordidos por las palabras de los fariseos, y mirando a la misma naturaleza del asunto, no podían convencerlos de mentirosos, sino que razonablemente estaban perplejos, y siendo ignorantes de la gran dignidad de nuestro Salvador, se sobresaltan en extremo ante la deficiencia de Juan, y mezclando palabras de amor con reverencia y admiración, desean aprender por qué Aquel de quien él dio testimonio con su voz lo previene en honor, lo supera en gracia, y al bautizar recoge en su red, no una porción de toda la multitud judía, sino incluso a todos ellos. E hicieron la pregunta, según parece, no sin la voluntad de Dios: pues de aquí el Bautista los invita a una explicación precisa y extensa acerca del Salvador, e introduce la distinción más clara entre los bautismos.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
   "huella": "4f7f6e831388",
-  "corregido_por_juez": "Traducción incorrecta e incomprensible de «were not able to convict them as liars» como «no podían convictos de mentirosos»."
+  "corregido_por_juez": "Adición injustificada de la palabra «aparente» para traducir «John's shortcoming»."
  },
  "aquifer:19114": {
   "text_es": "Juan el Bautista habló a causa de dos preocupaciones: Algunas personas cuestionaban si su bautismo era de Dios (véase 1:26), y sus discípulos estaban preocupados porque muchas personas comenzaban a seguir a Jesús en lugar de a Juan (3:26).",

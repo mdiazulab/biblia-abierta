@@ -112,10 +112,11 @@
   "huella": "38599914336f"
  },
  "hcf:Augustine of Hippo/John 13_7#0": {
-  "text_es": "Respondió Jesús y le dijo: Lo que yo hago, tú no lo entiendes ahora; pero lo entenderás después.",
+  "text_es": "Respondió Jesús y le dijo: Lo que yo hago, tú no lo sabes ahora; pero lo sabrás después.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "0ef0bf82d6c9"
+  "huella": "0ef0bf82d6c9",
+  "corregido_por_juez": "Traduce 'knowest/shalt know' como 'entiendes/entenderás' en lugar de 'sabes/sabrás' (RV1909), alterando el texto bíblico."
  },
  "hcf:John Chrysostom/John 13_7-8#0": {
   "text_es": "«Le dijo: Lo que yo hago, tú no lo entiendes ahora, pero lo entenderás después.»\n\nEsto es: «entenderás cuán grande es la ganancia de esto, el provecho de la lección, y cómo es capaz de guiarnos a toda humildad de ánimo». ¿Qué hace entonces Pedro? Todavía lo obstaculiza, y dice: «No me lavarás los pies jamás». «¿Qué haces, Pedro? ¿No recuerdas aquellas palabras anteriores? ¿No dijiste: 'Ten compasión de ti mismo', y no oíste en respuesta: 'Apártate de mí, Satanás'? ¿No estás ni siquiera así serenado, sino que aún eres vehemente?» «Sí», dice, «pues lo que se está haciendo es un gran asunto, y lleno de asombro». Entonces, puesto que hizo esto por amor excesivo, Cristo a su vez lo somete por el mismo medio; y como allí lo logró reprendiéndolo duramente, y diciendo: «Me eres tropiezo», así también aquí diciendo: «Si no te lavo, no tienes parte conmigo».",
@@ -160,10 +161,11 @@
   "huella": "dd6c076df43c"
  },
  "hcf:Augustine of Hippo/John 13_10#0": {
-  "text_es": "Limpio todo excepto los pies. Todo el hombre es lavado en el bautismo, sin exceptuar sus pies; pero al vivir después en el mundo, pisamos la tierra. Aquellos afectos humanos, pues, sin los cuales no podemos vivir en este mundo, son, por así decirlo, nuestros pies, que nos conectan con las cosas humanas, de modo que si decimos que no tenemos pecado, nos engañamos a nosotros mismos. (1 Juan 1:8) Pero si confesamos nuestros pecados, aquel que lavó los pies de los discípulos nos perdona nuestros pecados hasta nuestros pies, con los cuales tenemos trato con la tierra.\n\n(Ad. Seleuc. Ep. c. viii.) De lo que aquí se dice, entendemos que Pedro ya estaba bautizado. En efecto, que él bautizara por medio de sus discípulos muestra que sus discípulos debían haber sido bautizados, ya con el bautismo de Juan, ya, lo que es más probable, con el de Cristo. Bautizó por medio de siervos bautizados; pues no rechazó el ministerio de bautizar quien tuvo la humildad de lavar los pies.\n\n(Tr. lvi. 4) O bien, los discípulos, una vez lavados, solo tenían que lavarse los pies; porque mientras el hombre vive en este mundo, se mancha con la tierra, por medio de sus afectos humanos, que son, por así decirlo, sus pies.",
+  "text_es": "Limpios todos excepto los pies. Todo el hombre es lavado en el bautismo, sin exceptuar sus pies; pero al vivir después en el mundo, pisamos la tierra. Aquellos afectos humanos, pues, sin los cuales no podemos vivir en este mundo, son, por así decirlo, nuestros pies, que nos unen a las cosas humanas, de modo que si decimos que no tenemos pecado, nos engañamos a nosotros mismos. (1 Juan 1:8) Pero si confesamos nuestros pecados, Aquel que lavó los pies de los discípulos nos perdona nuestros pecados hasta los pies mismos, con los cuales tenemos trato con la tierra.\n\n(Ad. Seleuc. Ep. c. viii.) De lo que aquí se dice, entendemos que Pedro ya estaba bautizado. En efecto, que Él bautizara por medio de sus discípulos muestra que sus discípulos debían haber sido bautizados, o con el bautismo de Juan, o, lo que es más probable, con el de Cristo. Bautizaba por medio de siervos bautizados; pues no rechazó el ministerio de bautizar quien tuvo la humildad de lavar los pies.\n\n(Tr. lvi. 4) O bien, los discípulos, una vez lavados, solo tenían que dejar que les lavaran los pies; porque mientras el hombre vive en este mundo, se mancha con la tierra por medio de sus afectos humanos, que son, por así decirlo, sus pies.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "ba2a5ac837b5"
+  "huella": "ba2a5ac837b5",
+  "corregido_por_juez": "Traduce 'had only to have their feet washed' (pasivo) como 'solo tenían que lavarse los pies' (activo/reflexivo), cambiando el sentido."
  },
  "hcf:John Chrysostom/John 13_10-11#0": {
   "text_es": "«El que está lavado no necesita sino lavarse los pies, pues está todo limpio; y vosotros limpios estáis, pero no todos. Porque sabía quién le había de entregar».\n\n«Y si están limpios, ¿por qué les lava los pies?» Para que aprendamos a ser modestos. Por eso no se acercó a ninguna otra parte del cuerpo, sino a la que se considera más deshonrosa que el resto. Pero ¿qué es «el que está lavado»? Equivale a «el que está limpio». ¿Estaban entonces limpios, quienes aún no habían sido librados de sus pecados, ni considerados dignos del Espíritu, ya que el pecado aún tenía el dominio, la escritura de la maldición aún permanecía, y la víctima aún no había sido ofrecida? ¿Cómo entonces los llama «limpios»? Para que no los consideres limpios como librados de sus pecados, añade: He aquí, «ya vosotros estáis limpios por la palabra que os he hablado». Es decir: «De este modo estáis hasta cierto punto limpios; habéis recibido la luz, habéis sido librados del error judío. Pues también el Profeta dice: 'Lavaos, limpiaos, quitad la maldad de vuestras almas'; de modo que tal persona está lavada y está limpia». Puesto que, entonces, estos hombres habían desechado toda maldad de sus almas, y habían acompañado a Cristo con mente pura, por eso dice conforme a la palabra del Profeta: «el que está lavado ya está limpio». Pues también allí no significa el «lavado» de agua practicado por los judíos, sino la limpieza de la conciencia.",
@@ -190,10 +192,11 @@
   "huella": "3f499d66a930"
  },
  "hcf:Augustine of Hippo/John 13_12#0": {
-  "text_es": "Nuestro Señor, mindful de su promesa a Pedro de que conocería el significado de su acto, «Lo sabrás después», ahora comienza a enseñarle: Así que, después que les hubo lavado los pies, y tomado sus vestiduras, y se hubo sentado de nuevo, les dijo: ¿Sabéis lo que os he hecho?",
+  "text_es": "Nuestro Señor, atento a su promesa a Pedro de que había de saber el significado de su acto, «lo sabrás después», ahora comienza a enseñarle: «Así que, después que les hubo lavado los pies, y tomado su ropa, volviéndose a sentar, les dijo: ¿Sabéis lo que os he hecho?»",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "c57a14d92d8f"
+  "huella": "c57a14d92d8f",
+  "corregido_por_juez": "Deja sin traducir 'mindful' («mindful de su promesa»)."
  },
  "hcf:Bede/John 13_12#0": {
   "text_es": "Nuestro Señor primero hizo una cosa, luego la enseñó: como se dice: Jesús comenzó a hacer y a enseñar. (Hechos 1:1)",
@@ -208,10 +211,11 @@
   "huella": "eead0b03a0d4"
  },
  "hcf:Augustine of Hippo/John 13_13#0": {
-  "text_es": "Se ordena en los Proverbios: Alábete otro, y no tu propia boca. (Prov. 27:2.) Pues es peligroso que uno se alabe a sí mismo, quien debe guardarse de la soberbia. Pero aquel que está por encima de todas las cosas, por mucho que se alabe a sí mismo, no se ensalza demasiado. Ni puede Dios ser llamado arrogante: pues que nosotros lo conozcamos no es ganancia para él, sino para nosotros. Ni puede nadie conocerlo, a menos que quien lo conoce se muestre a sí mismo. De modo que si, para evitar la arrogancia, no se alabara a sí mismo, nos estaría negando la sabiduría. Pero ¿por qué la Verdad habría de temer la arrogancia? A que se llame a sí mismo Maestro, nadie podría objetar, incluso si fuera solo hombre, ya que los profesores de distintas artes se llaman así sin presunción. Pero ¿qué hombre libre puede soportar el título de señor en un hombre? Sin embargo, cuando Dios habla, la altura no puede exaltarse, la verdad no puede mentir; a nosotros nos corresponde someternos a esa altura, obedecer a esa verdad. Por eso decís bien al llamarme Maestro y Señor, pues lo soy; pero si yo no fuera lo que decís, diríais mal.",
+  "text_es": "Se ordena en los Proverbios: «Alábete otro, y no tu propia boca». (Prov. 27:2.) Pues es peligroso que uno se alabe a sí mismo, quien ha de guardarse de la soberbia. Pero Aquel que está por encima de todas las cosas, por mucho que se alabe a sí mismo, no se ensalza demasiado. Ni puede Dios ser llamado arrogante: pues que nosotros le conozcamos no es ganancia para Él, sino para nosotros. Ni puede nadie conocerle, a menos que quien le conoce se muestre a sí mismo. De modo que, si para evitar la arrogancia no se alabara a sí mismo, nos estaría negando la sabiduría. Pero ¿por qué había de temer la arrogancia la Verdad? A que Él se llame Maestro, nadie podría objetar, aunque fuera solo hombre, ya que los profesores de distintas artes se llaman así sin presunción. Pero ¿qué hombre libre puede soportar el título de señor en un hombre? Sin embargo, cuando Dios habla, la altura no puede ensalzarse, la verdad no puede mentir; a nosotros nos toca someternos a esa altura, obedecer a esa verdad. Por eso decís bien al llamarme Maestro y Señor, pues lo soy; pero si yo no fuera lo que decís, diríais mal.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "bb72c64f46cd"
+  "huella": "bb72c64f46cd",
+  "corregido_por_juez": "En «Nor can any one know Him, unless He who knows, shows Himself» se cambia el sujeto: el español dice «a menos que quien le conoce se muestre a sí mismo» (el que conoce a Dios), cuando debe ser Dios mismo quien se muestra."
  },
  "hcf:Cyril of Alexandria/John 13_13#0": {
   "text_es": "Pues Cristo no posee el título de Señor como un vano nombre de honor, a la manera que nosotros mismos, aunque permanecemos por naturaleza simples siervos, somos adornados por favor de otros con títulos que superan nuestra naturaleza y mérito; sino que Él es por naturaleza «Señor», poseyendo autoridad sobre el universo como Dios; acerca de quien se dice en algún lugar por voz del salmista: Porque todas las cosas te sirven. Y es por naturaleza también «Maestro» [o «Doctor»], pues toda sabiduría viene del Señor, y por Él viene toda inteligencia. Pues en cuanto que Él es sabiduría, hace sabios a todos los seres inteligentes, y en toda criatura racional, tanto en el cielo como en la tierra, implanta la inteligencia que le es propia. Pues así como, siendo Él mismo por naturaleza Vida, vivifica todas las cosas capaces de recibir vida; así también, puesto que Él es la sabiduría del Padre, otorga a todos los dones de la sabiduría, a saber, el conocimiento y la percepción de todo bien. Por naturaleza, por tanto, el Hijo es Señor y Maestro de todas las cosas.",
@@ -288,10 +292,11 @@
   "huella": "a0ca67ee364b"
  },
  "hcf:Augustine of Hippo/John 13_18#1": {
-  "text_es": "Como si dijera: Hay uno entre vosotros que no será bienaventurado, ni hace estas cosas. Yo sé a quiénes he elegido. ¿A quiénes, sino a los que serán bienaventurados cumpliendo sus mandamientos? Judas, por tanto, no fue elegido. Pero si es así, ¿por qué dice en otro lugar: No os he elegido yo a vosotros doce? Porque Judas fue elegido para aquello para lo cual era necesario, pero no para aquella felicidad de la que dice: Bienaventurados seréis, si las hiciereis.\n\n(Tr. lix. 1) Ha alzado contra mí su calcañar, esto es, me ha pisoteado. Se refiere al traidor Judas.\n\n(Tr. lix. 1) Entonces los que fueron elegidos comieron al Señor; él comió el pan del Señor, para injuriar al Señor; ellos comieron vida, él condenación; pues el que come indignamente, come condenación para sí mismo. (1 Cor. 11:27)",
+  "text_es": "Como si dijera: Hay uno entre vosotros que no será bienaventurado, ni hace estas cosas. Yo sé a quiénes he elegido. ¿A quiénes, sino a los que serán dichosos cumpliendo sus mandamientos? Judas, por tanto, no fue elegido. Pero si es así, ¿por qué dice en otro lugar: No os he elegido yo a vosotros doce? Porque Judas fue elegido para aquello para lo que era necesario, pero no para aquella dicha de la que dice: Bienaventurados seréis, si las hiciereis.\n\n(Tr. lix. 1) Alzará su calcañar contra mí, esto es, me pisoteará. Se refiere a Judas el traidor.\n\n(Tr. lix. 1) Los que fueron elegidos, pues, comieron al Señor; él comió el pan del Señor, para injuriar al Señor; ellos comieron la vida, él la condenación; porque el que come indignamente, come condenación para sí. (1 Cor. 11:27)",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "00b77ccbc693"
+  "huella": "00b77ccbc693",
+  "corregido_por_juez": "Cambia el futuro 'Shall lift up... shall tread' por pasado 'Ha alzado... ha pisoteado'."
  },
  "hcf:John Chrysostom/John 13_18#1": {
   "text_es": "Pero habiendo dicho: «No hablo de todos vosotros», para no infundir temor a más de uno, al fin separa al traidor, hablando así: «El que come pan conmigo». Pues el «no de todos vosotros» no dirige las palabras a uno solo, por lo que añadió: «El que come pan conmigo»; mostrando a aquel miserable que no fue sorprendido por ignorancia, sino con pleno conocimiento; cosa que de por sí era lo más apto para refrenarlo. Y no dijo: «me traiciona», sino: «ha alzado contra mí su calcañar», queriendo representar el engaño, la traición, el secreto de la conspiración.",
@@ -324,10 +329,11 @@
   "huella": "cdeae0d0b397"
  },
  "hcf:John Chrysostom/John 13_20#0": {
-  "text_es": "Grande es la recompensa del cuidado dispensado a los siervos de Dios, y por sí misma nos rinde sus frutos. Pues dice: «El que a vosotros recibe, a mí recibe; y el que a mí recibe, recibe al que me envió». Ahora bien, ¿qué puede igualarse a recibir a Cristo y a su Padre? Pero ¿qué clase de conexión tiene esto con lo dicho antes? ¿Qué tiene en común con aquello que había dicho: «Si sabéis estas cosas, bienaventurados seréis», el añadir: «El que a vosotros recibe»? Una conexión estrecha y muy armoniosa. Observa cómo. Cuando estaban a punto de salir y de sufrir muchas cosas terribles, los consuela de dos maneras: una derivada de sí mismo, la otra derivada de los demás. Pues dice: «Si en verdad sois sabios, teniéndome siempre en mente y llevando sobre vosotros tanto lo que dije como lo que hice, fácilmente soportaréis cosas terribles. Y no solo de esta manera, sino también por disfrutar de gran atención de parte de todos los hombres». El primer punto lo declaró cuando dijo: «Si sabéis estas cosas, bienaventurados seréis»; el segundo cuando dijo: «El que a vosotros recibe, a mí recibe». Pues les abrió las casas de todos los hombres, de modo que tanto por la sana sabiduría de sus costumbres como por el celo de quienes habrían de atenderlos, tuvieran doble consuelo.",
+  "text_es": "Grande es la recompensa del cuidado dispensado a los siervos de Dios, y por sí mismo nos rinde sus frutos. Pues «el que a vosotros recibe», dice, «a Mí me recibe; y el que a Mí me recibe, recibe al que me envió». Ahora bien, ¿qué puede ser igual a recibir a Cristo y a su Padre? Pero ¿qué clase de conexión tiene esto con lo dicho antes? ¿Qué tiene en común con aquello que había dicho: «Si hacéis estas cosas, bienaventurados seréis», el añadir: «El que a vosotros recibe»? Una conexión estrecha, y muy armoniosa. Observa cómo. Cuando estaban a punto de salir y de sufrir muchas cosas terribles, los consuela de dos maneras; una derivada de sí mismo, la otra derivada de otros. «Pues si», dice, «sois verdaderamente sabios, teniéndome siempre en mente, y llevando sobre vosotros todo tanto lo que dije como lo que hice, soportaréis fácilmente cosas terribles. Y no solo de esta manera, sino también por disfrutar de gran atención de parte de todos los hombres». El primer punto lo declaró cuando dijo: «Si hacéis estas cosas, bienaventurados seréis»; el segundo cuando dijo: «El que a vosotros recibe, a Mí me recibe». Pues abrió las casas de todos los hombres para ellos, de modo que tanto por la sana sabiduría de sus costumbres como por el celo de quienes habrían de atenderlos, tuvieran doble consuelo.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "f0b82cf1d231"
+  "huella": "f0b82cf1d231",
+  "corregido_por_juez": "La cita «If ye do these things happy are ye» se traduce como «Si sabéis estas cosas, bienaventurados seréis», cambiando «hacer» por «saber»."
  },
  "aquifer:18908": {
   "text_es": "Por tercera vez en el Evangelio de Juan, Jesús ⸢se conmovió⸣ (griego ⸢tarassō⸣; véase 11:33; 12:27). Cuando Judas traicionó a Jesús, le causó profunda aflicción.",
@@ -456,18 +462,19 @@
   "huella": "943729ea795c"
  },
  "aquifer:18912": {
-  "text_es": "⸢Satan entered into him⸣: Judas se convirtió en un ejemplo de lo que les sucede a las personas consumidas por las tinieblas (véase Lucas 22:3). Satanás usa a tales personas como instrumentos en una lucha más amplia contra la luz. ⸢What you are about to do, do quickly⸣: Al dar esta orden, Jesús mostró una vez más que él tenía el control, no los seres humanos ni Satanás (véase la nota de estudio sobre Juan 7:30).",
+  "text_es": "⸢Satanás entró en él⸣: Judas se convirtió en ejemplo de lo que les sucede a las personas consumidas por las tinieblas (véase Lucas 22:3). Satanás usa a tales personas como instrumentos en una lucha más amplia contra la luz. ⸢Lo que vas a hacer, hazlo pronto⸣: Al dar esta orden, Jesús mostró una vez más que él tenía el control, no los seres humanos ni Satanás (véase la nota de estudio sobre Juan 7:30).",
   "lemas_es": [
-   "Satan entered into him"
+   "Satanás entró en él"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "1a4626ad96f2",
   "lemas_rv1909": [
    {
-    "lema": null,
+    "lema": "el bocado Satanás entró",
     "ref": "JHN.13.27"
    }
-  ]
+  ],
+  "corregido_por_juez": "No traduce las frases entre corchetes: ⸢Satan entered into him⸣ y ⸢What you are about to do, do quickly⸣."
  },
  "hcf:Augustine of Hippo/John 13_27#3": {
   "text_es": "No como piensan algunos lectores descuidados, que entonces Judas recibió él solo el cuerpo de Cristo. Pues nuestro Señor ya había distribuido los sacramentos de su cuerpo y su sangre a todos ellos, mientras Judas estaba allí, como relata Lucas; y después de esto mojó el bocado, como relata Juan, y lo dio al traidor; el mojar del pan quizá significaba el tinte profundo de su pecado; pues algunos tintes no pueden lavarse de nuevo; es decir, cuando las cosas se mojan, para recibir un tinte permanente. Si, sin embargo, este mojar significaba algo bueno, fue ingrato por ello, y mereció la condenación que lo siguió; Y después del bocado, Satanás entró en él.\n\n(Tr. lxii. 2) O entró en él, para tener una posesión más plena de él: pues estaba en él, cuando acordó con los judíos entregar a nuestro Señor por una suma de dinero, según Lucas: Entonces entró Satanás en Judas Iscariote, y fue y habló con los principales sacerdotes. (Lucas 22:3. 4) En este estado vino a la cena. Pero después del bocado entró el diablo, no para tentarlo, como si fuera independiente, sino para poseerlo como suyo,\n\n(Tr. lxii) Pero algunos dirán: ¿fue su entrega al diablo efecto de haber recibido el bocado de Cristo? A quienes respondemos, que aprendan aquí el peligro de recibir mal lo que en sí es bueno. Si es reprendido quien no discierne, es decir, quien no distingue, el cuerpo del Señor de otro alimento, ¿cómo es condenado quien, fingiéndose amigo, viene como enemigo a la mesa del Señor?\nEntonces Jesús le dijo: Lo que haces, hazlo más pronto.\n\n(Tr. lxii. 4) Sin embargo, no ordenó el acto, sino que lo predijo, no por deseo de la destrucción del pérfido, sino para apresurar la salvación de los fieles.",
@@ -506,18 +513,19 @@
   "huella": "f9aba8013ea5"
  },
  "aquifer:18915": {
-  "text_es": "⸢out into the night⸣: Este detalle es más que una nota sobre la hora del día. Tiene significado simbólico.\n\nLa partida de Judas muestra su condición espiritual. Las tinieblas se habían apoderado de él por completo (véase la nota de estudio sobre 13:2; compárese 3:19). Jesús, la luz del mundo, es lo opuesto a la noche.",
+  "text_es": "⸢salió a la noche⸣: Este detalle es más que una nota sobre la hora del día. Tiene un significado simbólico.\n\nLa salida de Judas muestra su condición espiritual. Las tinieblas se habían apoderado por completo de él (véase la nota de estudio sobre 13:2; compárese con 3:19). Jesús, la luz del mundo, es lo opuesto a la noche.",
   "lemas_es": [
-   "out into the night"
+   "salió a la noche"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "5d9635131f03",
   "lemas_rv1909": [
    {
-    "lema": null,
+    "lema": "salió: y era ⸢ya⸣ noche",
     "ref": "JHN.13.30"
    }
-  ]
+  ],
+  "corregido_por_juez": "No traduce la frase entre corchetes: ⸢out into the night⸣."
  },
  "hcf:Gregory the Dialogist/John 13_30#0": {
   "text_es": "Por la hora del día se significa el fin de la acción. Judas salió de noche para consumar su perfidia, por la cual nunca había de ser perdonado.",
@@ -654,10 +662,11 @@
   "huella": "e2caac9951d0"
  },
  "hcf:Augustine of Hippo/John 13_38#1": {
-  "text_es": "¿Harás por mí lo que yo aún no he hecho por ti? ¿Puedes ir delante, tú que no puedes ir detrás? ¿Por qué presumes tanto? Escucha lo que eres: De cierto, de cierto te digo: No cantará el gallo, hasta que me hayas negado tres veces. Tú, que me prometes tu muerte, negarás tres veces tu vida. Pedro conocía su gran deseo, su fuerza no la conocía: se jactaba de su voluntad, mientras aún era débil; pero el Médico veía su debilidad. (c. 2.). Algunos que favorecen perversamente a Pedro, lo excusan, y dicen que no negó a Cristo, porque cuando la sierva le preguntó, dijo que no lo conocía, como los otros Evangelistas testifican más expresamente. Como si negar al hombre Cristo no fuera negar a Cristo; es más, que en Cristo, aquello que Él fue hecho por nosotros, no pereciera aquello que Él nos hizo. ¿Por qué es Él la Cabeza de la Iglesia, sino por su humanidad? ¿Y cómo entonces está en el cuerpo de Cristo quien niega al hombre Cristo? Pero ¿por qué discuto tanto? Nuestro Señor no dice: No cantará el gallo hasta que niegues al hombre, o al Hijo del hombre, sino hasta que me niegues a Mí. ¿Qué es Mí, sino aquello que Él era? Así pues, cualquier cosa que Pedro negara, negó a Cristo: es impío dudarlo. Cristo lo dijo, y Cristo dijo la verdad: sin duda, Pedro negó a Cristo. No acusemos a Cristo para defender a Pedro. La fragilidad del mismo Pedro reconoció su pecado, cuando atestiguó con sus lágrimas el mal que había hecho al negar a Cristo. Y no decimos esto porque nos complazca culpar al primero de los Apóstoles, sino para que de él tomemos advertencia, para no confiar en nuestras propias fuerzas.\n\n(Tr. lxvi. 2) Aquello tuvo lugar en el alma de Pedro, que él ofreció en el cuerpo; aunque de manera distinta de lo que él pretendía. Pues antes de la muerte y resurrección de nuestro Señor, él tanto murió por su negación, como volvió a vivir por sus lágrimas.\n\n(de Con. Evang. iii. c. 2. [5.]) Este dicho, No cantará el gallo, aparece en todos los Evangelistas, pero no al mismo tiempo en todos. Mateo y Marcos lo introducen después de que han salido de la casa en que comían; Lucas y Juan, antes. Podemos suponer o que los dos primeros recuerdan lo que había pasado, o que los dos últimos anticipan lo que viene. O la gran diferencia no solo de las palabras, sino de los asuntos que preceden al dicho, y que incitan a Pedro a la presunción de ofrecerse a morir por o con nuestro Señor, puede llevarnos a concluir que él hizo esta oferta tres veces, y que nuestro Señor tres veces respondió: Antes que el gallo cante, me negarás tres veces.",
+  "text_es": "¿Harás por mí lo que yo aún no he hecho por ti? ¿Puedes ir delante, tú que no puedes venir detrás? ¿Por qué presumes tanto? Escucha lo que eres: De cierto, de cierto te digo: No cantará el gallo, hasta que me hayas negado tres veces. Tú, que me prometes tu muerte, negarás tres veces tu vida. Pedro conocía su gran deseo, pero no conocía su fuerza: se jactaba de su voluntad, siendo aún débil; pero el Médico veía su debilidad. (c. 2.). Algunos que perversamente favorecen a Pedro, lo excusan y dicen que no negó a Cristo, porque cuando la sierva le preguntó, dijo que no lo conocía, como los otros Evangelistas testifican más expresamente. Como si negar al hombre Cristo no fuera negar a Cristo; sí, negar aquello que en Cristo fue hecho por causa nuestra, para que no pereciera lo que él nos hizo. ¿Por qué es él Cabeza de la Iglesia, sino por su humanidad? ¿Y cómo entonces está en el cuerpo de Cristo quien niega al hombre Cristo? Pero ¿por qué discuto tanto? Nuestro Señor no dice: No cantará el gallo hasta que niegues al hombre, o al Hijo del hombre, sino hasta que me niegues a mí. ¿Qué es mí, sino aquello que él era? Así pues, cualquier cosa que Pedro negara, negaba a Cristo: es impío dudarlo. Cristo lo dijo, y Cristo dijo la verdad: sin duda alguna, Pedro negó a Cristo. No acusemos a Cristo para defender a Pedro. La fragilidad de Pedro mismo reconoció su pecado, cuando atestiguó con sus lágrimas el mal que había hecho al negar a Cristo. Y no decimos esto porque nos complazca culpar al primero de los Apóstoles, sino para que de él tomemos advertencia, y no confiemos en nuestras propias fuerzas.\n\n(Tr. lxvi. 2) Ocurrió en el alma de Pedro lo que ofreció en el cuerpo; aunque de manera distinta de lo que él pretendía. Pues antes de la muerte y resurrección de nuestro Señor, tanto murió por su negación, como volvió a vivir por sus lágrimas.\n\n(de Con. Evang. iii. c. 2. [5.]) Este dicho, No cantará el gallo, aparece en todos los Evangelistas, pero no en el mismo momento en todos. Mateo y Marcos lo introducen después de que han salido de la casa en que comían; Lucas y Juan, antes. Podemos suponer o que los dos primeros recuerdan lo que había pasado, o que los dos últimos anticipan lo que va a venir. O la gran diferencia no solo de las palabras, sino de los asuntos que preceden al dicho, y que incitan a Pedro a la presunción de ofrecerse a morir por nuestro Señor o con nuestro Señor, puede llevarnos a concluir que hizo esta oferta tres veces, y que nuestro Señor respondió tres veces: Antes que el gallo cante, me negarás tres veces.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "3434bdfd9dcc"
+  "huella": "3434bdfd9dcc",
+  "corregido_por_juez": "La cláusula 'yea, that in Christ...' se traduce de forma defectuosa: omite el verbo 'negar' y altera el sentido."
  },
  "hcf:Bede/John 13_38#0": {
   "text_es": "Esta sentencia puede leerse de dos maneras: o como afirmando: darás tu vida por mí, pero ahora, por temor a la muerte del cuerpo, incurrirás en la muerte espiritual; o como burlándose; como si dijera:\n\nSin embargo, si alguno cayera, que el ejemplo de Pedro lo salve de la desesperación, y le enseñe que puede sin demora obtener el perdón de Dios.",

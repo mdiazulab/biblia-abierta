@@ -200,10 +200,11 @@
   "huella": "4de79b5da15e"
  },
  "hcf:Augustine of Hippo/John 12_10-11#0": {
-  "text_es": "Cuando la noticia de este gran milagro se hubo difundido por todas partes, y estaba respaldada por una evidencia tan clara que no podían ni suprimir ni negar el hecho, entonces los principales sacerdotes consultaron que podrían dar muerte también a Lázaro. ¡Oh ciega furia! Como si el Señor pudiera resucitar a los muertos y no resucitar a los asesinados. He aquí que el Señor hizo ambas cosas. Resucitó a Lázaro, y se resucitó a sí mismo.",
+  "text_es": "Cuando la noticia de este gran milagro se hubo difundido por todas partes, y estaba respaldada por una evidencia tan clara que no podían ni suprimir ni negar el hecho, entonces, los principales sacerdotes consultaron que podrían dar muerte a Lázaro. ¡Oh ciega furia! como si el Señor pudiera resucitar a los muertos, y no resucitar a los que habían sido muertos. He aquí, el Señor ha hecho ambas cosas. Resucitó a Lázaro, y se resucitó a sí mismo.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "f735cc197b03"
+  "huella": "f735cc197b03",
+  "corregido_por_juez": "Añade «también» («also»), que no aparece en el inglés."
  },
  "aquifer:18871": {
   "text_es": "El día siguiente era domingo (véase 12:1). Una gran multitud de peregrinos religiosos, muchos de Galilea, acampaba en esta zona. Mientras Jesús recorría el camino a Jerusalén, lo aclamaban. Esta entrada triunfal aparece en los cuatro Evangelios (Mateo 21:1–11; Marcos 11:1–11; Lucas 19:29–38).",
@@ -212,10 +213,11 @@
   "huella": "de7cdccc039f"
  },
  "hcf:Augustine of Hippo/John 12_12-13#0": {
-  "text_es": "Ved cuán grande fue el fruto de su predicación, y cuán grande el rebaño de las ovejas perdidas de la casa de Israel que oyó la voz de su Pastor: «Al día siguiente, una gran multitud que había venido a la fiesta, cuando oyeron que Jesús venía a Jerusalén, tomaron ramas de palmeras». Las ramas de palmeras son cantos de alabanza, por la victoria que nuestro Señor estaba a punto de obtener por su muerte sobre la muerte, y su triunfo sobre el diablo, príncipe de la muerte, por el trofeo de la cruz.\n\n(Tr. li. 2) Hosanna es una simple exclamación, que más bien indica cierta agitación de la mente que tener algún significado particular; como muchas interjecciones que tenemos en latín.\n\n(Tr. li. 4) Cosa pequeña sería para el Rey eterno ser hecho rey humano. Cristo no era el Rey de Israel para exigir tributos y mandar ejércitos, sino para dirigir las almas y llevarlas al reino de los cielos. Por lo tanto, que Cristo fuera entonces Rey de Israel era una condescendencia, no una elevación, una señal de su piedad, no un aumento de su poder. Pues quien fue llamado en la tierra el Rey de los judíos, es en el cielo el Rey de los Ángeles.",
+  "text_es": "Ved cuán grande fue el fruto de su predicación, y cuán numeroso rebaño de las ovejas perdidas de la casa de Israel oyó la voz de su Pastor: Al día siguiente, mucha gente que había venido a la fiesta, cuando oyeron que Jesús venía a Jerusalén, tomaron ramas de palmeras. Las ramas de palmas son cantos de alabanza, por la victoria que nuestro Señor estaba a punto de obtener por su muerte sobre la muerte, y su triunfo sobre el diablo, príncipe de la muerte, por el trofeo de la cruz.\n\n(Tr. li. 2) Hosanna es una simple exclamación, que más bien indica cierta agitación de la mente, que tener algún significado particular; como muchas interjecciones que tenemos en latín.\n\n(Tr. li. 4) Cosa pequeña sería para el Rey eterno hacerse rey humano. Cristo no era el Rey de Israel para exigir tributos y mandar ejércitos, sino para dirigir las almas y llevarlas al reino de los cielos. Que Cristo fuera entonces Rey de Israel era una condescendencia, no una elevación, señal de su piedad, no aumento de su poder. Pues el que fue llamado en la tierra Rey de los judíos, es en el cielo el Rey de los Ángeles.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "b0ab6bbd8391"
+  "huella": "b0ab6bbd8391",
+  "corregido_por_juez": "Añade «Por lo tanto»; el inglés «For» no es aquí conjunción conclusiva, sino marca de infinitivo."
  },
  "hcf:John Chrysostom/John 12_12#0": {
   "text_es": "La Ley ordenaba que el décimo día del primer mes se encerrara en la casa un cordero o un cabrito, y se guardara hasta el día catorce del mismo mes, al atardecer del cual era sacrificado. De acuerdo con esta ley, el Cordero escogido, el Cordero sin mancha, cuando subió a Jerusalén para ser inmolado por la santificación del pueblo, subió cinco días antes, es decir, el día décimo.",
@@ -224,17 +226,17 @@
   "huella": "c0af56b041d9"
  },
  "aquifer:18872": {
-  "text_es": "⸢Ramas de palmeras⸣: La palmera datilera ⸢palm⸣ simbolizaba el orgullo de la nación judía y la celebración. ⸢meet Him⸣: La palabra griega describe a menudo a multitudes que reciben a un rey que regresa triunfante de la guerra. ⸢Blessed is He⸣: La multitud citó el Salmo 118:25–26, con un saludo para los que venían a Jerusalén. \n\nLa frase «⸢¡Bendito el Rey de Israel!⸣» no está en el salmo (pero véase Sofonías 3:15). Aunque el pueblo veía a Jesús como un libertador político nacional, él rechazó este papel (Juan 6:15).",
+  "text_es": "⸢Ramos de palma⸣: La ⸢palma⸣ datilera simbolizaba el orgullo de la nación judía y la celebración. ⸢salir a recibirle⸣: La palabra griega describe a menudo a multitudes que reciben a un rey que regresa triunfante de la guerra. ⸢Bendito el que viene⸣: La multitud citó el Salmo 118:25–26, con un saludo para los que venían a Jerusalén.\n\nLa frase «⸢¡Bendito el Rey de Israel!⸣» no está en el salmo (pero véase Sofonías 3:15). Aunque el pueblo veía a Jesús como un libertador político nacional, él rechazó este papel (Juan 6:15).",
   "lemas_es": [
-   "Ramas de palmeras",
-   "meet Him",
-   "Blessed is He"
+   "Ramos de palma",
+   "salir a recibirle",
+   "Bendito el que viene"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "5d374f260248",
   "lemas_rv1909": [
    {
-    "lema": null,
+    "lema": "ramos de palmas",
     "ref": "JHN.12.13"
    },
    {
@@ -242,10 +244,11 @@
     "ref": "JHN.12.13"
    },
    {
-    "lema": null,
+    "lema": "Bendito el que viene",
     "ref": "JHN.12.13"
    }
-  ]
+  ],
+  "corregido_por_juez": "Deja sin traducir al español los términos 'palm', 'meet Him' y 'Blessed is He'."
  },
  "hcf:Bede/John 12_13#3": {
   "text_es": "Es un compuesto de dos palabras; Hosi se abrevia en «salva»; Anna, una mera exclamación, completa. «Bendito el que viene en el nombre del Señor». El nombre del Señor aquí es el nombre de Dios Padre; aunque podemos entenderlo como su propio nombre; en cuanto que también Él es el Señor. Pero el primer sentido concuerda mejor con el texto anterior: «Yo he venido en nombre de mi Padre» (5:43). No pierde su divinidad cuando nos enseña la humildad.",
@@ -338,10 +341,11 @@
   "huella": "ca4575ab64cd"
  },
  "hcf:Augustine of Hippo/John 12_20-22#0": {
-  "text_es": "¡He aquí! Los judíos quieren matarlo, los gentiles verlo. Pero también eran de los judíos los que clamaban: Bendito el que viene en el nombre del Señor. Así pues, he aquí los de la circuncisión y los de la incircuncisión, antes tan distantes, uniéndose como dos muros y encontrándose en una sola fe de Cristo por el beso de la paz.\nFelipe va y se lo dice a Andrés.",
+  "text_es": "¡He aquí! Los judíos desean matarlo, los gentiles verlo. Pero también eran de los judíos los que clamaban: «Bendito el que viene en el nombre del Señor». Así pues, he aquí a los de la circuncisión y a los de la incircuncisión, antes tan distantes entre sí, uniéndose como dos muros y encontrándose en una sola fe de Cristo por el beso de la paz.\nFelipe viene y se lo dice a Andrés.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "709ce6e39b5f"
+  "huella": "709ce6e39b5f",
+  "corregido_por_juez": "«cometh» se traduce como «va»; debería ser «viene»."
  },
  "hcf:Bede/John 12_20#0": {
   "text_es": "El templo de Jerusalén era tan famoso que en los días de fiesta venían a adorar en él no solo la gente cercana, sino también muchos gentiles de países lejanos; como aquel eunuco de Candace, reina de los etíopes, mencionado en los Hechos. Los gentiles que estaban ahora en Jerusalén habían subido con este propósito: Y había ciertos gentiles entre ellos que habían venido a adorar en la fiesta.",
@@ -374,10 +378,11 @@
   "huella": "995ca1213c18"
  },
  "hcf:Augustine of Hippo/John 12_23-24#0": {
-  "text_es": "Escuchemos la voz de la piedra angular: Y Jesús les respondió, diciendo: Ha llegado la hora de que el Hijo del hombre sea glorificado. ¿Pensaba que era glorificado porque los gentiles deseaban verlo? No. Sino que vio que después de su pasión y resurrección, los gentiles en todas las tierras creerían en Él; y tomó ocasión de esta petición de algunos gentiles de verlo, para anunciar la plenitud próxima de los gentiles, pues la hora de su glorificación estaba ya cerca, y que después de que fuera glorificado en los cielos, los gentiles creerían; según el pasaje del Salmo: Levantaos, oh Dios, sobre los cielos, y vuestra gloria sobre toda la tierra. (Sal. 56, y 107) Pero era necesario que su exaltación y gloria fueran precedidas por su humillación y pasión; por lo cual dice: De cierto, de cierto os digo, que si el grano de trigo no cae en la tierra y muere, queda solo; pero si muere, lleva mucho fruto. Ese grano era Él; para ser mortificado en la incredulidad de los judíos, para ser multiplicado en la fe de los gentiles.",
+  "text_es": "Escuchemos la voz de la piedra angular: Y Jesús les respondió, diciendo: Ha llegado la hora de que el Hijo del hombre sea glorificado. ¿Pensaba que era glorificado porque los gentiles deseaban verlo? No. Sino que vio que después de su pasión y resurrección, los gentiles de todas las tierras creerían en él; y tomó ocasión de esta petición de algunos gentiles de verlo, para anunciar la plenitud de los gentiles que se acercaba, pues la hora de su glorificación estaba ya próxima, y que después de ser glorificado en los cielos, los gentiles creerían; conforme al pasaje del Salmo: Levántate, oh Dios, sobre los cielos, y sobre toda la tierra tu gloria. (Sal. 56, y 107) Pero era necesario que su exaltación y gloria fueran precedidas por su humillación y pasión; por lo cual dice: De cierto, de cierto os digo, que si el grano de trigo no cae en la tierra y muere, queda solo; pero si muere, lleva mucho fruto. Ese grano era él; para ser mortificado en la incredulidad de los judíos, para ser multiplicado en la fe de los gentiles.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "e969e89aa3d4"
+  "huella": "e969e89aa3d4",
+  "corregido_por_juez": "El salmo se cita en plural («Levantaos... vuestra gloria») cuando el original dice singular («Set up Thyself... Thy glory»)."
  },
  "aquifer:18881": {
   "text_es": "El acontecimiento central de la glorificación de Jesús fue la cruz (12:23). Como un ⸢grano de trigo⸣ plantado en la tierra, la muerte de Jesús traería vida abundante.",
@@ -392,10 +397,11 @@
   "huella": "99d9d5195977"
  },
  "hcf:John Chrysostom/John 12_24#0": {
-  "text_es": "Ilustra su discurso con un ejemplo de la naturaleza. Un grano de trigo produce fruto después de haber muerto. ¿Cuánto más, entonces, el Hijo de Dios? Los gentiles habían de ser llamados después de que los judíos finalmente ofendieran; es decir, después de su crucifixión. Ahora, pues, que los gentiles por su propia voluntad ofrecían su fe, vio que su crucifixión no podía estar lejos.",
+  "text_es": "Ilustra su discurso con un ejemplo de la naturaleza. Un grano de trigo produce fruto después de haber muerto. ¿Cuánto más, entonces, debe hacerlo el Hijo de Dios? Los gentiles habían de ser llamados después de que los judíos hubieran ofendido finalmente; es decir, después de su crucifixión. Ahora bien, puesto que los gentiles ofrecían por su propia voluntad la fe, vio que su crucifixión no podía estar lejos.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "1c90bd5a6993"
+  "huella": "1c90bd5a6993",
+  "corregido_por_juez": "Omite 'must' (debe), perdiendo la necesidad expresada en el original."
  },
  "aquifer:18882": {
   "text_es": "Para los discípulos (seguidores de Jesús), el sacrificio y la abnegación (elegir no ponerse uno mismo primero) son parte de este camino. No pierden la vida por seguir a Jesús. En cambio, ganan la plenitud de vida que viene mediante su sacrificio.\n\nQuienes renuncian (se apartan de) a las prioridades del mundo estarán con Jesús para siempre. Dios honrará a quienes sirven a su Hijo. De este modo, el camino de la obediencia humilde conduce a la vida eterna y al honor.",
@@ -452,10 +458,10 @@
   "huella": "b1c3420959f1"
  },
  "aquifer:18884": {
-  "text_es": "⸢Vino una voz del cielo⸣: Compárese con Mateo 3:17; 17:5; Marcos 1:11; 9:7; Lucas 3:22; 9:35. Dios ya había traído gloria a sí mismo cuando Cristo entró en el mundo, y mediante la obra de Jesús. Esto mostró el poder de Dios al mundo (Juan 1:14). ⸢Le glorificaré otra vez⸣: La manifestación final de gloria vendría en la cruz (véase 12:23; 17:1). En el Evangelio de Juan, la cruz es un acontecimiento de gloria, pues allí Cristo fue \"levantado\" y glorificado (12:32). \n\nJesús estaba preparado para la crucifixión como un rey que viene a su coronación. La cruz era como un trono (véase 19:19–22). Sepultaron a Jesús como a un rey. El tiempo de su glorificación incluyó todos los acontecimientos desde su arresto hasta su resurrección.",
+  "text_es": "⸢Una voz vino del cielo⸣: Compárese con Mateo 3:17; 17:5; Marcos 1:11; 9:7; Lucas 3:22; 9:35. Dios ya se había glorificado a sí mismo cuando Cristo entró en el mundo, y mediante la obra de Jesús. Esto mostró el poder de Dios al mundo (Juan 1:14). ⸢De nuevo lo glorificaré⸣: La manifestación final de la gloria vendría en la cruz (véanse 12:23; 17:1). En el Evangelio de Juan, la cruz es un acontecimiento de gloria, pues allí Cristo fue \"levantado\" y glorificado (12:32). \n\nJesús estaba preparado para la crucifixión como un rey que viene a su coronación. La cruz era como un trono (véanse 19:19–22). Sepultaron a Jesús como a un rey. El tiempo de su glorificación incluyó todos los acontecimientos desde su arresto hasta su resurrección.",
   "lemas_es": [
-   "Vino una voz del cielo",
-   "Le glorificaré otra vez"
+   "Una voz vino del cielo",
+   "De nuevo lo glorificaré"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "61bef53123bb",
@@ -465,10 +471,11 @@
     "ref": "JHN.12.28"
    },
    {
-    "lema": "glorificaré otra vez",
+    "lema": null,
     "ref": "JHN.12.28"
    }
-  ]
+  ],
+  "corregido_por_juez": "Traduce 'brought glory to himself' como 'glorificado su nombre', cambiando el objeto de la glorificación."
  },
  "hcf:Augustine of Hippo/John 12_28-29#0": {
   "text_es": "Le he glorificado, esto es, antes de que hiciera el mundo; y le glorificaré otra vez, esto es, cuando resucites de entre los muertos. O bien: le he glorificado, cuando naciste de una Virgen, hiciste milagros, fuiste manifestado por el Espíritu Santo que descendió en forma de paloma; y le glorificaré otra vez, cuando resucites de entre los muertos y, como Dios, seas exaltado sobre los cielos, y tu gloria sobre toda la tierra.\nLa gente, pues, que estaba presente y lo oyó, decía que había tronado.",
@@ -641,10 +648,11 @@
   "huella": "14b022c417ea"
  },
  "hcf:John Chrysostom/John 12_38#0": {
-  "text_es": "Pero ¿por qué entonces vino Cristo? ¿No sabía que no creerían en él? Sí: los Profetas habían prohibido esta misma incredulidad, y él vino para que se manifestara, para su confusión y condenación; Para que se cumpliera la palabra del profeta Isaías, que dijo: Señor, ¿quién ha creído a nuestro anuncio? ¿y a quién se ha revelado el brazo del Señor?\n\n(Hom. lxviii. 2) Para que se cumpliera la palabra de Isaías: esto aquí no expresa la causa, sino el acontecimiento. No dejaron de creer porque Isaías dijo que lo harían; sino porque iban a no creer, Isaías dijo que lo harían.",
+  "text_es": "Pero ¿por qué entonces vino Cristo? ¿No sabía que no creerían en Él? Sí: los Profetas habían prohibido esta misma incredulidad, y vino para que se manifestara, para su confusión y condenación; Para que se cumpliera la palabra del profeta Isaías, que dijo: Señor, ¿quién ha creído a nuestro anuncio? ¿y a quién se ha revelado el brazo del Señor?\n\n(Hom. lxviii. 2) Para que se cumpliera la palabra de Isaías: esto aquí no expresa la causa, sino el resultado. No dejaron de creer porque Isaías dijo que lo harían; sino porque iban a no creer, Isaías dijo que lo harían.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "d445f3390398"
+  "huella": "d445f3390398",
+  "corregido_por_juez": "Traduce 'They did not disbelieve' como 'No dejaron de creer', que significa que continuaron creyendo, contrario al contexto de incredulidad."
  },
  "aquifer:18892": {
   "text_es": "⸢no podían creer⸣: Juan cita Isaías 6:10 para explicar la falta de fe de Israel (véanse Mateo 13:13–15; Marcos 4:12; Lucas 8:10; Hechos 28:26–27). Cuando viene la revelación de Dios, debemos creer. Si la rechazamos, la luz desaparece (Juan 12:35–36). Cuando la luz de Dios se aparta, las tinieblas se cierran sobre los corazones incrédulos. Esto significa que el rechazo continuado lleva a una ceguera espiritual más profunda.",
@@ -733,10 +741,11 @@
   "huella": "59ab77d0a427"
  },
  "hcf:Augustine of Hippo/John 12_44-45#0": {
-  "text_es": "Les significa que es más de lo que parece ser, (pues a los hombres aparecía solo como un hombre; su divinidad estaba oculta). Tal como es el Padre, tal soy yo en naturaleza y en dignidad; El que cree en mí, no cree en mí, es decir, en lo que ve, sino en el que me envió, es decir, en el Padre. [1El que cree en el Padre debe creer en él como el Padre, es decir, debe creer que tiene un Hijo; y a la inversa, el que cree en el Hijo cree por ello en el Padre.] Y de nuevo, si alguno piensa que Dios tiene hijos por gracia, pero no un Hijo igual y coeterno consigo mismo, tampoco cree 2en el Padre, que envió al Hijo; porque aquel en quien cree no es el Padre que lo envió. (c. 3.). Y para mostrar que no es el Hijo en el sentido de uno entre muchos, un hijo por gracia, sino el unigénito igual al Padre, añade: Y el que me ve, ve al que me envió; tan poca diferencia hay entre yo y el que me envió, que el que me ve, ve a él. Nuestro Señor envió a sus apóstoles, pero ninguno de ellos se atrevió a decir: El que cree en mí. Creemos en un apóstol, pero no creemos en un apóstol. En cambio, el unigénito dice: El que cree en mí, no cree en mí, sino en el que me envió. Con lo cual no retira la fe del creyente de sí mismo, sino que le da un objeto más elevado que la forma de siervo, para esa fe.",
+  "text_es": "Les significa que Él es más de lo que parece ser, (pues a los hombres se mostró solo como hombre; su divinidad estaba oculta). Cual es el Padre, tal soy yo en naturaleza y en dignidad; El que cree en mí, no cree en mí, es decir, en lo que ve, sino en el que me envió, es decir, en el Padre. [1El que cree en el Padre debe creer en Él como Padre, es decir, debe creer que tiene un Hijo; e inversamente, el que cree en el Hijo cree por ello en el Padre.] Y de nuevo, si alguno piensa que Dios tiene hijos por gracia, pero no un Hijo igual y coeterno consigo mismo, tampoco cree 2en el Padre, que envió al Hijo; porque aquello en lo que cree no es el Padre que lo envió. (c. 3.). Y para mostrar que no es el Hijo en el sentido de uno entre muchos, un hijo por gracia, sino el unigénito igual al Padre, añade: Y el que me ve, ve al que me envió; tan poca diferencia hay entre mí y el que me envió, que el que me ve, ve a Él. Nuestro Señor envió a sus apóstoles, pero ninguno de ellos se atrevió a decir: El que cree en mí. Creemos a un apóstol, pero no creemos en un apóstol. En cambio, el unigénito dice: El que cree en mí, no cree en mí, sino en el que me envió. Con lo cual no retira del creyente la fe en sí mismo, sino que le da un objeto más elevado que la forma de siervo, para esa fe.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "b3c003b8275b"
+  "huella": "b3c003b8275b",
+  "corregido_por_juez": "Traduce 'We believe an Apostle' como 'Creemos en un apóstol', confundiéndolo con 'believe on an Apostle'; debe distinguirse: 'Creemos a un apóstol, pero no creemos en un apóstol'."
  },
  "hcf:Cyril of Alexandria/John 12_44#1": {
   "text_es": "Acostumbra gradualmente sus mentes a penetrar hacia la profundidad de los misterios concernientes a él, [llevándolos] no a la Persona humana, sino a lo que era de la Esencia divina; en cuanto que la divinidad es aprehendida completamente en la Persona de Dios el Padre, pues él tiene en sí mismo al Hijo y al Espíritu. Con suma sabiduría los lleva adelante, diciendo: El que cree en mí, no cree en mí, sino en el que me envió; pues no se excluye a sí mismo de ser creído por nosotros, porque es Dios por naturaleza y ha resplandecido de Dios el Padre. Sino que hábilmente (como se ha dicho) maneja la mente de los débiles para moldearlos a la piedad, a fin de que entiendas que dice algo de este tipo: \"Cuando creéis en mí, que por vosotros soy por un lado un hombre como vosotros, pero por otro lado soy Dios por razón de mi propia Naturaleza y del Padre de quien soy, no supongáis que es en un hombre en quien ponéis vuestra fe. Pues soy por Naturaleza Dios, aunque aparezca como uno de vosotros, y tengo dentro de mí al que me engendró. Por cuanto, pues, soy consustancial con el que me ha engendrado, vuestra fe pasará seguramente también al Padre mismo.\" Como dijimos, pues, el Señor, entrenándolos gradualmente para algo mejor, y entretejiendo provechosamente lo humano con lo que es propio de Dios...",
@@ -769,10 +778,11 @@
   "huella": "4b2007a8b730"
  },
  "hcf:Augustine of Hippo/John 12_48#0": {
-  "text_es": "Entretanto esperaban saber quién era este; así que prosigue: La palabra que he hablado, ella le juzgará en el día postrero. Deja suficientemente claro que él mismo juzgará en el día postrero. Pues la palabra que habla, es él mismo. Se habla a sí mismo, se anuncia a sí mismo. También recogemos de estas palabras que los que no han oído serán juzgados de manera diferente que los que han oído y despreciado.\n\n(i. de Trin. c. xii. [26.]) Yo no le juzgo; la palabra que he hablado, ella le juzgará; porque no he hablado de mí mismo. La palabra que el Hijo habla juzga, porque el Hijo no habló de sí mismo; pues no he hablado de mí mismo: es decir, no nací de mí mismo.\n\nPregunto entonces cómo entenderemos esto: ¿No juzgaré, sino que la palabra que he hablado juzgará? Sin embargo, él mismo es la Palabra del Padre que habla. ¿Es así? No juzgaré por mi poder humano, como Hijo del hombre, sino como la palabra de Dios, porque soy el Hijo de Dios.",
+  "text_es": "Entretanto, esperaban saber quién era este; así que prosigue: La palabra que yo he hablado, esa le juzgará en el día postrero. Deja suficientemente claro que Él mismo juzgará en el día postrero. Pues la palabra que Él habla, es Él mismo. Él habla, se anuncia a sí mismo. También deducimos de estas palabras que quienes no han oído serán juzgados de manera distinta de quienes han oído y despreciado.\n\n(i. de Trin. c. xii. [26.]) Yo no le juzgo; la palabra que he hablado, esa le juzgará; porque no he hablado de mí mismo. La palabra que el Hijo habla juzga, porque el Hijo no habló de sí mismo; pues no he hablado de mí mismo: es decir, no nací de mí mismo.\n\nPregunto, entonces, cómo hemos de entender esto: No juzgaré, sino que la palabra que he hablado le juzgará? Sin embargo, Él mismo es el Verbo del Padre que habla. ¿Es así? No juzgaré según mi poder humano, como Hijo del hombre, sino como la palabra de Dios, porque soy el Hijo de Dios.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "7a975d012ca9"
+  "huella": "7a975d012ca9",
+  "corregido_por_juez": "Omite «He speaks Himself» y añade «se da a conocer a sí mismo»."
  },
  "aquifer:18897": {
   "text_es": "El mayor error es que las personas vean la luz y la rechacen, pensando que no tiene conexión con el Padre que envió la luz.",
@@ -793,9 +803,10 @@
   "huella": "f34b8c678558"
  },
  "hcf:Augustine of Hippo/John 12_50#0": {
-  "text_es": "Si la vida eterna es el Hijo mismo, y el mandamiento es vida eterna, ¿qué es esto sino decir: Yo soy el mandamiento del Padre? Y de la misma manera en lo que sigue: Lo que yo hablo, por tanto, así como el Padre me lo dijo, así hablo, no debemos entender «me dijo» como si se hubieran pronunciado palabras al Verbo unigénito. El Padre habló al Hijo, así como dio vida al Hijo; no porque el Hijo no supiera o no tuviera, sino porque era el Hijo. ¿Qué significa «así como me dijo, así hablo», sino que yo soy el Verbo que habla? El Padre es verdadero, el Hijo es la verdad: el Verdadero engendró a la Verdad. ¿Qué podría entonces decir a la Verdad, si la Verdad era perfecta desde el principio y ninguna verdad nueva podía añadírsele? Que habló a la Verdad significa, pues, que engendró a la Verdad.",
+  "text_es": "Si la vida eterna es el Hijo mismo, y el mandamiento es vida eterna, ¿qué es esto sino decir: Yo soy el mandamiento del Padre? Y de la misma manera en lo que sigue: Lo que yo hablo, por tanto, así como el Padre me lo dijo, así hablo, no debemos entender «me lo dijo» como si se hubieran pronunciado palabras al Verbo único. El Padre habló al Hijo, así como le dio vida al Hijo; no porque el Hijo no supiera o no tuviera, sino porque era el Hijo. ¿Qué significa «así como me lo dijo, así hablo», sino que yo soy el Verbo que habla? El Padre es verdadero, el Hijo es la verdad: el Verdadero engendró a la Verdad. ¿Qué podría, pues, decirle a la Verdad, si la Verdad era perfecta desde el principio, y ninguna verdad nueva podía añadírsele? Que habló entonces a la Verdad significa que engendró a la Verdad.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
-  "huella": "72ba1c347c8b"
+  "huella": "72ba1c347c8b",
+  "corregido_por_juez": "Añade «unigénito» donde el inglés dice «Only Word» («Verbo único/solo Verbo»), alterando el título."
  }
 }

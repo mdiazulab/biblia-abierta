@@ -1,0 +1,577 @@
+{
+ "aquifer:19259": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "93746b493194"
+ },
+ "aquifer:19267": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a09bebb3398a"
+ },
+ "aquifer:19274": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "61770f1d4e92"
+ },
+ "aquifer:19275": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "09ecbddd617b"
+ },
+ "aquifer:19276": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "7ba5ae07a10c"
+ },
+ "aquifer:19260": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "4b24d82072b3"
+ },
+ "aquifer:19261": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "4e2f049d5221"
+ },
+ "aquifer:19262": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "018c2c383760"
+ },
+ "aquifer:19263": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "03db60f3e7cd"
+ },
+ "aquifer:19264": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "0ace8eabc337"
+ },
+ "aquifer:19265": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "361ab41a0ef7"
+ },
+ "aquifer:19266": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "39622950d334"
+ },
+ "aquifer:19268": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a5595aeed20d"
+ },
+ "aquifer:19269": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b6968d78466c"
+ },
+ "aquifer:19270": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "627b68f9e01e"
+ },
+ "aquifer:19272": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b4d2c18f313b"
+ },
+ "aquifer:19271": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "828422356109"
+ },
+ "aquifer:19273": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "882a832f4070"
+ },
+ "hcf:Alcuin of York/John 9_22-23#0": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e3fd21e3702e"
+ },
+ "hcf:Alcuin of York/John 9_24#0": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "6c53dddcec48"
+ },
+ "hcf:Alcuin of York/John 9_25#0": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "78c87e528546"
+ },
+ "hcf:Augustine of Hippo/John 9_1#0": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "c5a719921a4e"
+ },
+ "hcf:Augustine of Hippo/John 9_10-11#0": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "877e6a292924"
+ },
+ "hcf:Augustine of Hippo/John 9_12#0": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "8391e5cb8daf"
+ },
+ "hcf:Augustine of Hippo/John 9_14#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "be4190607f50"
+ },
+ "hcf:Augustine of Hippo/John 9_16#0": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "72508080e209"
+ },
+ "hcf:Augustine of Hippo/John 9_17#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "d049b4de21e6"
+ },
+ "hcf:Augustine of Hippo/John 9_18#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "aadaa761b513"
+ },
+ "hcf:Augustine of Hippo/John 9_2#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "addfbc0f4da8"
+ },
+ "hcf:Augustine of Hippo/John 9_21#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "6f37798b78a4"
+ },
+ "hcf:Augustine of Hippo/John 9_22#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "586fb44dc470"
+ },
+ "hcf:Augustine of Hippo/John 9_23#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a3a21fdfb156"
+ },
+ "hcf:Augustine of Hippo/John 9_24#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "cf39d6fa484c"
+ },
+ "hcf:Augustine of Hippo/John 9_26-27#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "9ebc2b031511"
+ },
+ "hcf:Augustine of Hippo/John 9_27#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "3fce23839a5e"
+ },
+ "hcf:Augustine of Hippo/John 9_28#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "8aa6d4b3811f"
+ },
+ "hcf:Augustine of Hippo/John 9_29#0": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "330c0dd3ed80"
+ },
+ "hcf:Augustine of Hippo/John 9_3#0": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "ac109d66e897"
+ },
+ "hcf:Augustine of Hippo/John 9_30-33#0": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "c953c434e651"
+ },
+ "hcf:Augustine of Hippo/John 9_31#0": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "643c643eb2a3"
+ },
+ "hcf:Augustine of Hippo/John 9_32-33#0": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "054a3bd07e79"
+ },
+ "hcf:Augustine of Hippo/John 9_34#0": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "548fa6c569e1"
+ },
+ "hcf:Augustine of Hippo/John 9_38#0": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "413158e8e9d5"
+ },
+ "hcf:Augustine of Hippo/John 9_39-41#0": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "2c6735211546"
+ },
+ "hcf:Augustine of Hippo/John 9_4#0": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "525906f442be"
+ },
+ "hcf:Augustine of Hippo/John 9_5#0": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "ba49bd868e56"
+ },
+ "hcf:Augustine of Hippo/John 9_6#0": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a003b9e9c5b2"
+ },
+ "hcf:Augustine of Hippo/John 9_7#0": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "1af27858041c"
+ },
+ "hcf:Augustine of Hippo/John 9_8-9#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "d84bc7292992"
+ },
+ "hcf:Augustine of Hippo/John 9_9#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "475022010b69"
+ },
+ "hcf:Bede/John 9_1#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "86b26af94ea6"
+ },
+ "hcf:Bede/John 9_12#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a9e43d2c6ac5"
+ },
+ "hcf:Bede/John 9_13#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "108976e5408d"
+ },
+ "hcf:Bede/John 9_34#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "3279e8a01a77"
+ },
+ "hcf:Bede/John 9_35#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "3279e8a01a77"
+ },
+ "hcf:Bede/John 9_38#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "f316cb2f6405"
+ },
+ "hcf:Bede/John 9_4#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "68548272b724"
+ },
+ "hcf:Cyril of Alexandria/John 9_11#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "26755ac92b65"
+ },
+ "hcf:Cyril of Alexandria/John 9_27#1": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "69d61680eab8"
+ },
+ "hcf:Cyril of Alexandria/John 9_35#1": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "ee48c76fd873"
+ },
+ "hcf:Cyril of Alexandria/John 9_9#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "050cac26c542"
+ },
+ "hcf:Gregory the Dialogist/John 9_3#1": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b74a989bc2d3"
+ },
+ "hcf:Gregory the Dialogist/John 9_6#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "489218becdb2"
+ },
+ "hcf:John Chrysostom/John 9_1#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "149d778b223d"
+ },
+ "hcf:John Chrysostom/John 9_10-11#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "49ea284efe8e"
+ },
+ "hcf:John Chrysostom/John 9_12#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "c8250b1b8382"
+ },
+ "hcf:John Chrysostom/John 9_13#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "11b24acf81a4"
+ },
+ "hcf:John Chrysostom/John 9_14#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "1aa001fce3c6"
+ },
+ "hcf:John Chrysostom/John 9_15#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "dc2a11f439ba"
+ },
+ "hcf:John Chrysostom/John 9_19#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "bff37a23e696"
+ },
+ "hcf:John Chrysostom/John 9_20-21#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a349483c329a"
+ },
+ "hcf:John Chrysostom/John 9_25#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "1fcc66ca3e0c"
+ },
+ "hcf:John Chrysostom/John 9_26-27#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "654e477cb475"
+ },
+ "hcf:John Chrysostom/John 9_28-29#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "ebca4dffae15"
+ },
+ "hcf:John Chrysostom/John 9_3#2": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "8bacdd87f156"
+ },
+ "hcf:John Chrysostom/John 9_30#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "d257c45d84a2"
+ },
+ "hcf:John Chrysostom/John 9_32-33#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "8eb36cda463f"
+ },
+ "hcf:John Chrysostom/John 9_34#1": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "5772948bb0d3"
+ },
+ "hcf:John Chrysostom/John 9_36-37#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "4dbcca06ae1e"
+ },
+ "hcf:John Chrysostom/John 9_38-39#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "57897de462cb"
+ },
+ "hcf:John Chrysostom/John 9_4#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "d514efec54fc"
+ },
+ "hcf:John Chrysostom/John 9_40#1": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "bbad785e90ed"
+ },
+ "hcf:John Chrysostom/John 9_5#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "57373f820987"
+ },
+ "hcf:John Chrysostom/John 9_8-9#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a07b3f785293"
+ },
+ "hcf:Theophylact of Ohrid/John 9_17#0": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "08fe1f8f2363"
+ },
+ "hcf:Theophylact of Ohrid/John 9_18#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "f5f2feef203b"
+ },
+ "hcf:Theophylact of Ohrid/John 9_2#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "71b2af197637"
+ },
+ "hcf:Theophylact of Ohrid/John 9_22#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "cedc6280b480"
+ },
+ "hcf:Theophylact of Ohrid/John 9_24#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "cedc6280b480"
+ },
+ "hcf:Theophylact of Ohrid/John 9_31#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "0b01cf7d3f76"
+ },
+ "hcf:Theophylact of Ohrid/John 9_37#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e66cecc161f5"
+ },
+ "hcf:Theophylact of Ohrid/John 9_39#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "2f12d7d3ff3a"
+ },
+ "hcf:Theophylact of Ohrid/John 9_41#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "9af5f9217baa"
+ },
+ "hcf:Theophylact of Ohrid/John 9_6#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "364bba2cc819"
+ },
+ "hcf:John Chrysostom/John 9_16#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "ac8e11d321a1"
+ },
+ "_calibracion": {
+  "detect": 13,
+  "total": 13,
+  "modelo": "deepseek:deepseek-reasoner"
+ }
+}
