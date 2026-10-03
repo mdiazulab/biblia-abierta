@@ -110,7 +110,8 @@ def llamar(prompt, cadena, temperatura=0.2, intentos=3):
     if os.getenv("MODELO_FALSO"):
         return json.loads(_falso(prompt, "falso", temperatura)), "falso"
     errores = {}
-    for modelo in cadena:
+    vivos = [m for m in cadena if m not in _CAIDOS] or list(cadena)
+    for modelo in vivos:
         for k in range(intentos):
             try:
                 if modelo.startswith("deepseek:"):
@@ -125,8 +126,16 @@ def llamar(prompt, cadena, temperatura=0.2, intentos=3):
                 return json.loads(m.group(0)), modelo
             except Exception as e:  # noqa: BLE001 -- se reintenta y se pasa al siguiente modelo
                 errores[modelo] = _sin_claves(str(e))[:200]
+                if re.search(r"\b40[0134]\b", str(e)):          # modelo inexistente o sin permiso: no se reintenta
+                    break
                 time.sleep(15 * (k + 1) if "429" in str(e) or "503" in str(e) else 4 * (k + 1))
+        # agotó sus intentos: no se vuelve a probar en esta corrida (03-10-2026: con la clave nueva
+        # gemini-3.6-flash daba error en cada pedido y sus reintentos triplicaban el tiempo del juez)
+        _CAIDOS.add(modelo)
     raise RuntimeError(f"ningún modelo respondió: {errores}")
+
+
+_CAIDOS = set()
 
 
 def _sin_claves(s):
@@ -141,4 +150,6 @@ TRADUCTOR = ["deepseek:deepseek-chat"]
 # juez de otra familia que el traductor; si Gemini agota su cupo diario (02-10-2026, cap. 9 de Juan), sigue
 # deepseek-reasoner (de pago, sin cupo; mismo criterio que periodico_kindle/config.json "verificador2"): la
 # calibración con errores sembrados de cada capítulo mide si comparte puntos ciegos con el traductor
-CONTROL = ["gemini-3.6-flash", "gemini-3.1-flash-lite", "deepseek:deepseek-reasoner"]
+# gemini-3.1-flash-lite salió de la cadena el 03-10-2026: detectó solo 62-80 % de los errores sembrados
+# (caps. 7, 8, 15, 16 de Juan), por debajo de la compuerta de sensibilidad (80 %)
+CONTROL = ["gemini-3.6-flash", "deepseek:deepseek-reasoner"]

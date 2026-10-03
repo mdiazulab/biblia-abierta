@@ -11,11 +11,14 @@ Misma lógica que periodico_kindle/calidad (lecciones de Staniloae), en versión
 
 Uso: python3 scripts/juez.py JHN [CAP|todos]
 """
+import collections
 import json
 import math
+import os
 import random
 import re
 import sys
+from concurrent.futures import ThreadPoolExecutor
 
 import comun as C
 import traducir as T
@@ -41,12 +44,15 @@ def prompt(pares):
             f"<<<JSON{json.dumps(entrada, ensure_ascii=False)}JSON>>>")
 
 
-def juzgar(pares):
+def juzgar(pares, cadena=None):
+    """Lotes en paralelo (JUEZ_HILOS, 4 por defecto): el razonador tarda minutos por pedido."""
+    def lote(k):
+        return C.llamar(prompt(pares[k:k + LOTE]), cadena or C.CONTROL, temperatura=0)
     out = {}
-    for k in range(0, len(pares), LOTE):
-        r, modelo = C.llamar(prompt(pares[k:k + LOTE]), C.CONTROL, temperatura=0)
-        for x in r.get("resultados", []):
-            out[x["id"]] = (str(x.get("veredicto", "")).upper().startswith("S"), x.get("motivo", ""), modelo)
+    with ThreadPoolExecutor(int(os.getenv("JUEZ_HILOS", "4"))) as ex:
+        for r, modelo in ex.map(lote, range(0, len(pares), LOTE)):
+            for x in r.get("resultados", []):
+                out[x["id"]] = (str(x.get("veredicto", "")).upper().startswith("S"), x.get("motivo", ""), modelo)
     return out
 
 
@@ -78,26 +84,22 @@ def main():
 
 
 def capitulo(libro, c, us, rnd):
-    ruta = f"traducido/{libro}/{c:02d}.json"
+    ruta, rcache = f"traducido/{libro}/{c:02d}.json", f"traducido/{libro}/juez_{c:02d}.json"
     tr = C.cargar(ruta, {})
-    cache = C.cargar(f"traducido/{libro}/juez_{c:02d}.json", {})
+    cache = C.cargar(rcache, {})
     ns = [n for n in us if C.cap(n["ref"]) == c and tr.get(n["id"], {}).get("text_es")]
     par = lambda n: (n["id"], T.texto_a_traducir(n), tr[n["id"]]["text_es"])
-    # calibración
-    muestra = rnd.sample(ns, min(20, len(ns)))
-    sembrados = [(f"mut:{n['id']}", T.texto_a_traducir(n), m) for n in muestra
-                 for m, _ in [sembrar(tr[n["id"]]["text_es"], rnd)] if m]
-    v = juzgar(sembrados)
-    detect = sum(1 for i, *_ in sembrados if i in v and not v[i][0])
-    sens = detect / len(sembrados) if sembrados else 0
+    vigente = lambda i: (cache.get(i, {}).get("huella") == C.huella(tr[i]["text_es"])
+                         and cache[i].get("modelo") in C.CONTROL)      # veredictos de modelos retirados se rehacen
     # censo
-    pend = [par(n) for n in ns if cache.get(n["id"], {}).get("huella") != C.huella(tr[n["id"]]["text_es"])]
-    for k in range(0, len(pend), LOTE * 5):          # caché guardada por tramos: un corte no pierde lo juzgado
-        for i, (ok, motivo, modelo) in juzgar(pend[k:k + LOTE * 5]).items():
+    pend = [par(n) for n in ns if not vigente(n["id"])]
+    for k in range(0, len(pend), LOTE * 8):          # caché guardada por tramos: un corte no pierde lo juzgado
+        for i, (ok, motivo, modelo) in juzgar(pend[k:k + LOTE * 8]).items():
             cache[i] = {"ok": ok, "motivo": motivo, "modelo": modelo, "huella": C.huella(tr[i]["text_es"])}
-        C.guardar(f"traducido/{libro}/juez_{c:02d}.json", cache)
-    # corrección de lo marcado
-    malos = [n for n in ns if not cache.get(n["id"], {}).get("ok", True)]
+        C.guardar(rcache, cache)
+    # corrección de lo marcado (una vez por motivo)
+    malos = [n for n in ns if not cache.get(n["id"], {}).get("ok", True)
+             and tr[n["id"]].get("corregido_por_juez") != cache[n["id"]]["motivo"]]
     for n in malos:
         p = T.prompt([n]).replace("Devuelve SOLO", f"Una revisión señaló este problema en una traducción anterior: "
                                                    f"«{cache[n['id']]['motivo']}». Evítalo. Devuelve SOLO")
@@ -109,17 +111,30 @@ def capitulo(libro, c, us, rnd):
     if malos:
         for i, (ok, motivo, modelo) in juzgar([par(n) for n in malos]).items():
             cache[i] = {"ok": ok, "motivo": motivo, "modelo": modelo, "huella": C.huella(tr[i]["text_es"])}
+    # calibración con el MISMO modelo que hizo el censo (el que dio la mayoría de los veredictos)
+    censo = collections.Counter(cache[n["id"]]["modelo"] for n in ns if n["id"] in cache).most_common(1)
+    modelo_censo = censo[0][0] if censo else C.CONTROL[0]
+    cal = cache.get("_calibracion", {})
+    if cal.get("modelo") != modelo_censo:
+        muestra = rnd.sample(ns, min(20, len(ns)))
+        sembrados = [(f"mut:{n['id']}", T.texto_a_traducir(n), m) for n in muestra
+                     for m, _ in [sembrar(tr[n["id"]]["text_es"], rnd)] if m]
+        v = juzgar(sembrados, [modelo_censo])
+        cal = {"detect": sum(1 for i, *_ in sembrados if i in v and not v[i][0]), "total": len(sembrados),
+               "modelo": modelo_censo}
+        cache["_calibracion"] = cal
+    detect, total = cal["detect"], cal["total"]
+    sens = detect / total if total else 0
     quedan = [n["id"] for n in ns if not cache.get(n["id"], {}).get("ok", True)]
     sup = wilson_sup(len(quedan), len(ns)) / max(sens, 0.01)
     C.guardar(ruta, tr)
-    C.guardar(f"traducido/{libro}/juez_{c:02d}.json", cache)
+    C.guardar(rcache, cache)
     C.guardar(f"informes/cola_{libro}_{c:02d}.json",
               [{"id": i, "motivo": cache[i]["motivo"], "en": next(par(n)[1] for n in ns if n["id"] == i),
                 "es": tr[i]["text_es"]} for i in quedan])
     estado = "APROBADO" if sup < UMBRAL and sens >= 0.8 else "REVISAR"
-    print(f"cap.{c}: sensibilidad {detect}/{len(sembrados)} = {sens:.0%}; marcadas {len(malos)}, corregidas "
-          f"{len(malos) - len(quedan)}, quedan {len(quedan)}; extremo superior ajustado {sup:.1%} -> {estado}", flush=True)
-
+    print(f"cap.{c}: juez {modelo_censo}; sensibilidad {detect}/{total} = {sens:.0%}; marcadas {len(malos)}, "
+          f"quedan {len(quedan)}; extremo superior ajustado {sup:.1%} -> {estado}", flush=True)
 
 if __name__ == "__main__":
     main()
