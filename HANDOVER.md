@@ -136,6 +136,12 @@ anagignoskomena: Tobías, Judit, adiciones a Ester y Daniel, I-III Macabeos, Sab
 Carta de Jeremías, III Esdras, Oración de Manasés, Salmo 151; IV Macabeos en apéndice), entre los Testamentos
 como Valera 1602; y hacer público el repositorio (la cadena corre en .github/workflows/cadena.yml cuando el
 repositorio tenga sus secretos; mientras, en el espejo). cuarentena/ salió de git y del historial antes de publicar.
+Texto base deuterocanónico (verificado 06-10-2026 en el catálogo de eBible, fuentes_ci/): no hay Reina 1569 ni
+Torres Amat digitales y libres en eBible. Candidata: «Santa Biblia libre para el mundo» (spablm, CC0, «borrador»,
+traducida de la World English Bible; registro con «vosotros»; trae todo el canon ortodoxo: TOB JDT ESG WIS SIR BAR
+1MA 2MA 1ES MAN PS2 3MA 4MA DAG). Descartada «Biblia libre Latinoamericana» (spabll: paráfrasis coloquial,
+«se la pasa orando» en II Mac 15:14). Control: Septuaginta griega de Brenton (grcbrent, dominio público).
+Condición de la licencia de spablm: si se cambia el texto, cambiar el nombre.
 Orden propuesto: cerrar Hebreos -> NT (Romanos, Gálatas…) -> piloto deuterocanónico (II Macabeos, Tobías) -> AT.
 
 Decisiones del usuario: acentos modernizados (a); repo propio `biblia-abierta` (b); misma licencia
