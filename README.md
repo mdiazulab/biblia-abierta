@@ -12,7 +12,7 @@ Piloto: Evangelio de Juan (21 capítulos, 879 versículos).
 | Ingesta (fuentes fijadas por SHA en `manifest.json`) | `scripts/ingesta.py` | `fuentes/` (fuera de git) |
 | Texto RV1909 con ids OSIS, acentos modernizados | `scripts/rv1909.py` | `normalizado/rv1909/JHN.json` |
 | Notas de contexto (inglés + español existente) | `scripts/aquifer.py` | `normalizado/JHN/aquifer.json` |
-| Padres: filtro de licencia por obra | `scripts/hcf.py` + `glosario/obras.json` | `normalizado/JHN/padres.json`, `cuarentena/` |
+| Padres: filtro de licencia por obra | `scripts/hcf.py` + `glosario/obras.json` | `normalizado/JHN/padres.json`, `cuarentena/` (local, fuera de git: textos de licencia dudosa) |
 | Traducción, adjudicación, re-anclaje, verificación, EPUB | (siguientes pasos) | `traducido/`, `epub/` |
 
 `make normalizar LIBRO=JHN` corre los cuatro primeros pasos. Informes cortos en `informes/`.
