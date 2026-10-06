@@ -16,8 +16,8 @@ import requests
 
 RAIZ = pathlib.Path(__file__).resolve().parent.parent
 TERMINOS = json.loads((RAIZ / "glosario" / "terminos.json").read_text())
-SENSIBLES = ["JHN.1.1", "JHN.1.14", "JHN.1.18", "JHN.3.5", *[f"JHN.6.{v}" for v in range(51, 59)], "JHN.14.6",
-             "JHN.20.22", "JHN.20.23", "JHN.20.28", "JHN.21.15", "JHN.21.16", "JHN.21.17"]
+from libros import LIBROS
+SENSIBLES = [f"{k}.{r}" for k, v in LIBROS.items() for r in v["sensibles"]]
 
 
 def cap(ref):
@@ -64,7 +64,7 @@ def adjudicacion(i, libro="JHN"):
 
 def es_sensible(n):
     a, b = n["ref"], n.get("ref_fin", n["ref"])
-    return any(cap(a) <= cap(s) <= cap(b) and (cap(s), ver(s)) >= (cap(a), ver(a)) and (cap(s), ver(s)) <= (cap(b), ver(b))
+    return any(s.split(".")[0] == a.split(".")[0] and (cap(a), ver(a)) <= (cap(s), ver(s)) <= (cap(b), ver(b))
                for s in SENSIBLES)
 
 

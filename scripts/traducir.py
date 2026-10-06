@@ -33,8 +33,17 @@ def texto_a_traducir(n):
 NOTA_PEGADA = r"(?<=[a-záéíóúñ])\d{1,2}(?=[\s.,;:?!)»]|$)"
 
 
+# vocabulario de la RV1909 que los modelos cambian por el moderno (06-10-2026: «sumo sacerdote» en 31 notas de Juan)
+VOCABULARIO = [(r"\bSumos [Ss]acerdotes\b", "Pontífices"), (r"\bsumos sacerdotes\b", "pontífices"),
+               (r"\bSumo [Ss]acerdote\b", "Pontífice"), (r"\bsumo sacerdote\b", "pontífice"),
+               (r"\bMelqui[sz]edec\b", "Melchisedec")]
+
+
 def limpiar(es):
-    return re.sub(NOTA_PEGADA, "", es.strip())
+    es = re.sub(NOTA_PEGADA, "", es.strip())
+    for mal, bien in VOCABULARIO:
+        es = re.sub(mal, bien, es)
+    return es
 
 
 def prompt(lote):

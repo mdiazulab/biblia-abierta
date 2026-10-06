@@ -75,9 +75,25 @@ APROBADO. Cola final: 9 ítems; 6 corregidos con evidencia (incluida la cita «P
 Sal 40,5), 2 son citas en texto RV1909 (norma de la edición), 1 falso positivo del juez.
 Verificación 21/21; EPUB completo de Juan (620 KB) epubcheck 0/0/0, revisado en pantalla. PILOTO COMPLETO.
 
+Hebreos (06-10-2026, pedido del usuario: patrística + contexto, «los Padres también escriben en su contexto»):
+- `scripts/libros.py`: datos por libro en un solo lugar (Aquifer, HCF, nombre, versículos sensibles, base patrística).
+  `es_sensible` ahora compara también el libro (antes, Hebreos 2:10 habría marcado Juan 2:10).
+- Licencias por obra para Hebreos (`glosario/obras.json`): Crisóstomo *Homilías sobre Hebreos* (NPNF 1889), Confesiones,
+  Ciudad de Dios, Basilio, Ambrosio (NPNF/LF), Padres apostólicos y ANF, verificados por estilo. Cuarentena:
+  Ecumenio (traducción literal moderna de HCF), Teofilacto (moderna), Aquino (Larcher/Baer), extractos ACCS
+  (Teodoreto, Efrén, Severiano…), y obras sin URL.
+- Selección HEB: 795 notas, 106.300 palabras (Aquifer 284; Crisóstomo completo 333 como base; 178 de otras voces,
+  hasta 2 por versículo y 4 en sensibles); 303/303 versículos.
+- Contexto: `editorial/HEB.md` (introducción: género, autor, fecha, destinatarios, trasfondo, plan; cómo leer a los
+  Padres en su contexto; textos discutidos entre tradiciones, presentados con las dos lecturas) y
+  `glosario/autores.json` (ficha de cada Padre: fechas, lugar, situación; el nombre en cada nota enlaza a la ficha).
+- Clases nuevas aplicadas también a Juan: vocabulario RV1909 («pontífice», no «sumo sacerdote»; «Melchisedec»),
+  31 casos en Juan corregidos; circunflejos («Melchîsedec», «Sichâr»), tildes de hiato («oír», «creíste»);
+  errata de la fuente en Hebreos 12:2 («en al autor» -> «en el autor»).
+
 Pendiente:
-1. Capa «Reforma» (Calvino, Wesley) desde fuentes de dominio público en CI.
-2. Siguiente libro con la misma cadena (orden «LIBRO todos» en el espejo).
+1. Corrida «HEB todos» en el espejo; resolver cola y verificación; EPUB de Hebreos al usuario.
+2. Capa «Reforma» (Calvino, Wesley) desde fuentes de dominio público en CI.
 
 Decisiones del usuario: acentos modernizados (a); repo propio `biblia-abierta` (b); misma licencia
 CC BY-SA 4.0, gratuito, sin venta; objetivo: patrística y referencias de alto nivel.

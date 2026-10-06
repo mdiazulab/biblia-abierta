@@ -15,8 +15,7 @@ import sys
 import comun as C
 
 MAX_PALABRAS = 350
-ORIENTE = [("John Chrysostom", "Homily on the Gospel of John"), ("Cyril of Alexandria", "Commentary on the Gospel of John")]
-OCCIDENTE = [("Augustine of Hippo", "Tractates on John")]
+from libros import LIBROS
 
 
 def main():
@@ -25,13 +24,17 @@ def main():
     pa = C.cargar(f"normalizado/{libro}/padres.json")
     versos = C.cargar(f"normalizado/rv1909/{libro}.json")
     sel = [n["id"] for n in aq]
-    catena = [n for n in pa if n["source"]["work"].startswith("Catena")]
+    L = LIBROS[libro]
+    ORIENTE, OCCIDENTE = L["oriente"], L["occidente"]
+    es_base = lambda n: n["source"]["work"].startswith("Catena") or any(
+        n["source"]["author"] == a and n["source"]["work"].startswith(w) for a, w in L["base"])
+    catena = [n for n in pa if es_base(n)]
     sel += [n["id"] for n in catena]
     con_catena = {n["ref"] for n in catena}
     palabras = lambda n: len(n["text_src"].split())
     por_ref = collections.defaultdict(list)
     for n in pa:
-        if not n["source"]["work"].startswith("Catena") and palabras(n) <= MAX_PALABRAS:
+        if not es_base(n) and palabras(n) <= MAX_PALABRAS:
             por_ref[n["ref"]].append(n)
     extra = 0
     oriente_catena = {n["ref"] for n in catena if n["tradition"] == "oriente"}
@@ -47,6 +50,13 @@ def main():
             if cand:
                 sel.append(min(cand, key=palabras)["id"])
                 extra += 1
+        if L.get("libre"):                              # voces adicionales sin obra fija (Hebreos)
+            tope = L["libre"][1 if sensible else 0]
+            cand = sorted(por_ref.get(ref, []), key=lambda n: (n["tradition"] == "oriente", palabras(n)))
+            autores = set()
+            for n in cand:
+                if len(autores) < tope and n["source"]["author"] not in autores:
+                    sel.append(n["id"]); autores.add(n["source"]["author"]); extra += 1
     sel = list(dict.fromkeys(sel))
     C.guardar(f"normalizado/{libro}/seleccion.json", sel)
     us = C.unidades(libro)

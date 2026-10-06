@@ -19,7 +19,8 @@ import zipfile
 import biblia as B
 import comun as C
 
-LIBRO_ES = {"JHN": "Juan"}
+from libros import LIBROS
+LIBRO_ES = {k: v["es"] for k, v in LIBROS.items()}
 AUTORES = {"Augustine of Hippo": "San Agustín", "John Chrysostom": "San Juan Crisóstomo",
            "Cyril of Alexandria": "San Cirilo de Alejandría", "Theophylact of Ohrid": "Teofilacto de Ohrid",
            "Origen of Alexandria": "Orígenes", "Alcuin of York": "Alcuino de York", "Bede": "San Beda",
@@ -37,6 +38,60 @@ OBRAS = [(r"^Tractates on John\s*(\d+)?", r"Tratados sobre el Evangelio de Juan 
          (r"^Commentary on the Gospel of John", "Comentario al Evangelio de Juan"),
          (r"^On the Trinity", "Sobre la Trinidad"), (r"^Against Heresies", "Contra las herejías"),
          (r"^Against Praxeas", "Contra Práxeas"), (r"^Catena Aurea.*", "Catena Aurea")]
+FICHAS = C.cargar("glosario/autores.json", {}).get("autores", {})
+AUTORES.update({k: v["es"] for k, v in FICHAS.items()})
+
+
+def ancla_autor(a):
+    return "a-" + re.sub(r"[^a-z0-9]+", "-", a.lower()).strip("-")
+
+
+def md_xhtml(md):
+    """Markdown mínimo de editorial/*.md: #, ##, ###, párrafos, listas «- », *cursiva*, **negrita**."""
+    def fmt(s):
+        s = x(s)
+        s = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", s)
+        return re.sub(r"\*(.+?)\*", r"<em>\1</em>", s)
+    out = []
+    for bloque in md.strip().split("\n\n"):
+        parrafo, items = [], []
+        for linea in bloque.split("\n"):
+            if linea.startswith("- "):
+                items.append(linea[2:])
+            elif items and linea.startswith("  "):          # continuación de un ítem
+                items[-1] += " " + linea.strip()
+            else:
+                parrafo.append(linea)
+        texto = " ".join(parrafo).strip()
+        m = re.match(r"(#{1,3}) (.*)", texto)
+        if m:
+            out.append(f"<h{len(m.group(1))}>{fmt(m.group(2))}</h{len(m.group(1))}>")
+        elif texto:
+            out.append(f"<p>{fmt(texto)}</p>")
+        if items:
+            out.append("<ul>" + "".join(f"<li>{fmt(i)}</li>" for i in items) + "</ul>")
+    return "\n".join(out)
+
+
+def padres_xhtml(usados):
+    claves = sorted({n["source"]["author"] for n in usados if n["layer"] == "padres"} |
+                    ({"Catena Aurea"} if any(n["source"]["work"].startswith("Catena") for n in usados) else set()),
+                    key=lambda a: re.sub(r"^(San|Santa|El) ", "", AUTORES.get(a, a)))
+    cuerpo = ["<h1>Los Padres en su contexto</h1>",
+              "<p>Cada Padre escribió en una época, un lugar y una situación concretas: controversias, predicación, "
+              "persecución, la escuela en que se formó y el texto bíblico que leía. Estas fichas, redactadas para esta "
+              "edición, ayudan a leer sus notas en ese contexto y a distinguir su aplicación de la intención del autor "
+              "bíblico.</p>"]
+    for a in claves:
+        f = FICHAS.get(a)
+        if not f:
+            continue
+        trad = "Oriente" if f["tradicion"] == "oriente" else "Occidente"
+        cuerpo.append(f'<h2 id="{ancla_autor(a)}">{x(f["es"])}</h2><p class="fuente">{x(f["fechas"])} · {x(f["lugar"])} · {trad}</p>'
+                      f'<p>{x(f["contexto"])}</p>')
+    return "\n".join(cuerpo)
+
+
 CSS = """body { font-family: serif; line-height: 1.5; margin: 0 4%; }
 h1 { font-size: 1.6em; text-align: center; font-weight: bold; margin: 1.5em 0 1em; }
 h2 { font-size: 1.15em; font-weight: bold; margin: 1.4em 0 0.6em; }
@@ -55,6 +110,9 @@ aside p { text-indent: 0; }
 nav#toc ol { list-style-type: none; padding-left: 1.2em; } nav#toc > ol { padding-left: 0; }
 nav#toc li { text-align: left; margin: 0.25em 0; } nav#toc a { text-decoration: none; }
 .portada { text-align: center; margin-top: 30%; }
+a.autor { color: inherit; text-decoration: none; }
+ul { margin: 0.3em 0 0.6em 1.2em; padding: 0; } li { margin: 0.15em 0; text-align: left; }
+h3 { font-size: 1em; font-weight: bold; margin: 1em 0 0.4em; }
 """
 
 
@@ -81,6 +139,8 @@ def atribucion(n):
     s = n["source"]
     autor = AUTORES.get(s["author"], s["author"])
     trad = "Oriente" if n["tradition"] == "oriente" else "Occidente"
+    if s["author"] in FICHAS:
+        trad += ", " + FICHAS[s["author"]]["fechas"]
     if s["work"].startswith("Catena"):
         donde = (f"<em>{x(s['passage'])}</em>, " if s.get("passage") and s["passage"] != s["work"] else "") + "en la <em>Catena Aurea</em> de santo Tomás de Aquino"
     else:
@@ -89,7 +149,9 @@ def atribucion(n):
     if s["work"].startswith("Catena"):            # la edición repite autor y obra: queda solo «trad. …»
         ed = re.sub(r"^.*?Catena Aurea,?\s*", "", ed)
         donde, ed = (f"{donde}, {x(ed)}", "") if ed else (donde, "")
-    return (f'<span class="autor">{x(autor)}</span> <span class="trad">({trad})</span>',
+    nombre = (f'<a class="autor" href="padres.xhtml#{ancla_autor(s["author"])}">{x(autor)}</a>' if s["author"] in FICHAS
+              else f'<span class="autor">{x(autor)}</span>')
+    return (f'{nombre} <span class="trad">({trad})</span>',
             f'<p class="fuente">{donde}.' + (f" {x(ed)}" if ed else "") + "</p>")
 
 
@@ -151,7 +213,9 @@ def paginas_previas(libro, us, tr_total):
     fuentes = ("<h1>Fuentes y cómo leer las notas</h1>"
                "<p>Cada versículo lleva llamadas por capa: <strong>C</strong> (contexto histórico y literario) y "
                "<strong>P</strong> (Padres de la Iglesia). En cada cita patrística se indica la tradición (Oriente u "
-               "Occidente), la obra, el pasaje y la edición inglesa de dominio público desde la que se tradujo.</p>"
+               "Occidente), la obra, el pasaje y la edición inglesa de dominio público desde la que se tradujo. "
+               "El nombre de cada Padre lleva a su ficha en «Los Padres en su contexto» (fechas, lugar y situación "
+               "en que escribió).</p>"
                "<p>Texto bíblico: Reina-Valera 1909 (dominio público), con las tildes de monosílabos actualizadas "
                "(«fue», «a», «dio»); ninguna palabra cambiada. Las palabras en cursiva del texto bíblico son las que los "
                "traductores de 1909 añadieron para el sentido.</p>"
@@ -164,7 +228,9 @@ def paginas_previas(libro, us, tr_total):
                  "inglesas de dominio público; la Catena Aurea en la traducción de J. H. Newman (Oxford, 1841-45).</p>"
                  "<p>Esta edición (traducción al español, notas y maquetación) se publica bajo licencia Creative Commons "
                  "Atribución-CompartirIgual 4.0 Internacional (https://creativecommons.org/licenses/by-sa/4.0/). "
-                 "Es gratuita y puede copiarse, adaptarse y redistribuirse con la misma licencia.</p>")
+                 "Es gratuita y puede copiarse, adaptarse y redistribuirse con la misma licencia.</p>"
+                 "<p>La introducción y las fichas «Los Padres en su contexto» fueron redactadas para esta edición "
+                 "(misma licencia).</p>")
     return portada, fuentes, licencias
 
 
@@ -181,11 +247,21 @@ def main():
         archivos[f"c{c:02d}.xhtml"] = xhtml(f"{LIBRO_ES[libro]} {c}",
                                             capitulo_xhtml(libro, c, rv, [n for n in us if C.cap(n["ref"]) == c], tr))
     portada, fuentes, licencias = paginas_previas(libro, us, tr_total)
-    archivos = {"portada.xhtml": xhtml("Portada", portada), "fuentes.xhtml": xhtml("Fuentes", fuentes),
-                **archivos, "licencias.xhtml": xhtml("Licencias", licencias)}
+    intro = C.RAIZ / "editorial" / f"{libro}.md"
+    previas = {"portada.xhtml": xhtml("Portada", portada)}
+    if intro.exists():
+        previas["introduccion.xhtml"] = xhtml("Introducción", md_xhtml(intro.read_text()))
+    previas["fuentes.xhtml"] = xhtml("Fuentes", fuentes)
+    usados = [n for n in us if n["id"] in tr_total]
+    archivos = {**previas, **archivos, "padres.xhtml": xhtml("Los Padres en su contexto", padres_xhtml(usados)),
+                "licencias.xhtml": xhtml("Licencias", licencias)}
     items = "".join(f'<li><a href="c{c:02d}.xhtml">{LIBRO_ES[libro]} {c}</a></li>' for c in caps)
-    nav = xhtml("Índice", '<nav epub:type="toc" id="toc"><h1>Índice</h1><ol><li><a href="fuentes.xhtml">Fuentes y cómo leer las notas</a></li>'
-                f'<li><a href="c{caps[0]:02d}.xhtml">Evangelio según {LIBRO_ES[libro]}</a><ol>{items}</ol></li>'
+    li_intro = ('<li><a href="introduccion.xhtml">Introducción: la carta en su contexto</a></li>'
+                if "introduccion.xhtml" in archivos else "")
+    nav = xhtml("Índice", f'<nav epub:type="toc" id="toc"><h1>Índice</h1><ol>{li_intro}'
+                '<li><a href="fuentes.xhtml">Fuentes y cómo leer las notas</a></li>'
+                f'<li><a href="c{caps[0]:02d}.xhtml">{x(LIBROS[libro]["titulo"])}</a><ol>{items}</ol></li>'
+                '<li><a href="padres.xhtml">Los Padres en su contexto</a></li>'
                 '<li><a href="licencias.xhtml">Atribuciones y licencias</a></li></ol></nav>')
     ident = f"urn:uuid:{uuid.uuid5(uuid.NAMESPACE_URL, 'biblia-abierta/' + libro)}"
     hoy = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")

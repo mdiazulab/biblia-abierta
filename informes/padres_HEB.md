@@ -1,0 +1,160 @@
+# Padres HEB (HCF)
+
+- dominio público: 596 citas, 109,857 palabras (inglés)
+- cuarentena: 1601 citas, 319,885 palabras (no se traducen)
+- excluidos (autores modernos): {'CS Lewis': 28, 'GK Chesterton': 9}
+- Oriente / Occidente (dominio público): 480 / 116
+- versículos con al menos una cita de dominio público: 253
+
+## Por autor y obra (dominio público)
+
+- Cosmas Indicopleustes — The Christian Topography: 43
+- John Chrysostom — Homily on Hebrews 33: 25
+- John Chrysostom — Homily on Hebrews 6: 22
+- John Chrysostom — Homily on Hebrews 22: 19
+- Philoxenus of Mabbug — 13 Ascetic Discourses: 18
+- John Chrysostom — Homily on Hebrews 13: 17
+- John Chrysostom — Homily on Hebrews 5: 15
+- Shepherd of Hermas — Shepherd of Hermas: 14
+- Tertullian — An Answer to the Jews: 14
+- John Chrysostom — Homily on Hebrews 3: 13
+- John Chrysostom — Homily on Hebrews 17: 12
+- John Chrysostom — Homily on Hebrews 2: 12
+- John Chrysostom — Homily on Hebrews 15: 12
+- Clement of Alexandria — The Stromata Book 2: 11
+- John Chrysostom — Homily on Hebrews 27: 11
+- John Chrysostom — Homily on Hebrews 29: 11
+- John Chrysostom — Homily on Hebrews 4: 11
+- John Chrysostom — Homily on Hebrews 8: 11
+- John Chrysostom — Homily on Hebrews 14: 10
+- John Chrysostom — Homily on Hebrews 21: 9
+- John Chrysostom — Homily on Hebrews 12: 9
+- John Chrysostom — Homily on Hebrews 26: 8
+- John Chrysostom — Homily on Hebrews 32: 8
+- John Chrysostom — Homily on Hebrews 7: 8
+- John Chrysostom — Homily on Hebrews 10: 8
+- Lucius Caecilius Firmianus Lactantius — The Divine Institutes Book 4: 8
+- John Chrysostom — Homily on Hebrews 18: 7
+- John Chrysostom — Homily on Hebrews 23: 7
+- John Chrysostom — Homily on Hebrews 34: 7
+- Clement of Alexandria — The Stromata Book 4: 6
+- John Chrysostom — Homily on Hebrews 19: 6
+- John Chrysostom — Homily on Hebrews 24: 6
+- John Chrysostom — Homily on Hebrews 25: 6
+- John Chrysostom — Homily on Hebrews 30: 6
+- John Chrysostom — Homily on Hebrews 1: 6
+- John Chrysostom — Homily on Hebrews 11: 6
+- John Chrysostom — Homily on Hebrews 16: 6
+- Clement of Alexandria — The Stromata Book 1: 5
+- Clement of Rome — Clement's First Letter to the Corinthians: 5
+- John Chrysostom — Homily on Hebrews 20: 5
+- John Chrysostom — Homily on Hebrews 28: 5
+- John Chrysostom — Homily on Hebrews 9: 5
+- Tertullian — On Modesty: 5
+- John Chrysostom — Homily on Hebrews 31: 4
+- Justin Martyr — Dialogue with Trypho: 4
+- Tertullian — Against Marcion Book IV: 4
+- Clement of Alexandria — The Stromata Book 6: 3
+- Clement of Rome — Letter to the Corinthians (Clement): 3
+- Methodius of Olympus — Methodius Oration Concerning Simeon and Anna: 3
+- Tertullian — On Prayer: 3
+- Tertullian — Of Patience: 3
+- Tertullian — On Exhortation to Chastity: 3
+- Alexander of Alexandria — Epistles on the Arian Heresy - Epistle Catholic: 2
+- Alexander of Alexandria — Epistles on the Arian Heresy - To Alexander: 2
+- Apostolic Constitutions — Constitutions of the Holy Apostles Book 2: 2
+- Clement of Alexandria — The Stromata Book 7: 2
+- Clement of Alexandria — The Stromata Book 3: 2
+- Cyprian — Treatise XII Three Books of Testimonies Against the Jews: 2
+- Ignatius of Antioch — Epistle of Ignatius to the Trallians: 2
+- Justin Martyr — The First Apology: 2
+- Methodius of Olympus — Methodius Discourse V. Thallousa: 2
+- Methodius of Olympus — Methodius Discourse III. Thaleia: 2
+- Pseudo-Clement — Second Epistle To The Corinthians (Pseudo-Clement): 2
+- Pseudo-Clement — Two Epistles on Virginity: 2
+- Tertullian — On the Veiling of Virgins: 2
+- Tertullian — On Monogamy: 2
+- Tertullian — Against Marcion Book II: 2
+- Tertullian — On Repentance: 2
+- Ambrose of Milan — Letter 44: 1
+- Ambrose of Milan — Exposition of the Christian Faith 3. [86-87]: 1
+- Ambrose of Milan — Concerning Repentance 2.2.7-12: 1
+- Ambrose of Milan — Exposition of the Christian Faith 3. [88-89]: 1
+- Apostolic Constitutions — Constitutions of the Holy Apostles Book 5: 1
+- Apostolic Constitutions — Constitutions of the Holy Apostles Book 6: 1
+- Apostolic Constitutions — Constitutions of the Holy Apostles Book 3: 1
+- Athanasius of Alexandria — Discourses Against the Arians 1.4.12: 1
+- Athanasius of Alexandria — Discourses Against the Arians 1.3.9: 1
+- Athanasius of Alexandria — Discourses Against the Arians 1.13.59(8): 1
+- Athanasius of Alexandria — Discourses Against the Arians 1.13.55(3): 1
+- Athanasius of Alexandria — Discourses Against the Arians 1.13. [59]: 1
+- Augustine of Hippo — Confessions 2.3.5: 1
+- Augustine of Hippo — City of God 16.28: 1
+- Augustine of Hippo — City of God 16.32: 1
+- Augustine of Hippo — City of God 15.6: 1
+- Augustine of Hippo — City of God 10.21: 1
+- Augustine of Hippo — City of God 10.5: 1
+- Augustine of Hippo — City of God 9.15: 1
+- Augustine of Hippo — City of God 20.21: 1
+- Augustine of Hippo — Confessions 1.1: 1
+- Augustine of Hippo — City of God 16.22: 1
+- Augustine of Hippo — City of God 17.3: 1
+- Basil of Caesarea — On the Spirit 6.15: 1
+- Clement of Alexandria — The Instructor Book 1: 1
+- Clement of Alexandria — From the Latin Translation of Cassiodorus: 1
+- Clement of Alexandria — The Stromata Book 5: 1
+- Clement of Alexandria — Exhortation to the Heathen: 1
+- Cyprian — Treatise XI Exhortation to Martyrdom Addressed to Fortunatus: 1
+- Cyprian — Epistle VIII: 1
+- Cyprian — Epistle VII: 1
+- Cyprian — Pseudo-Cyprian On the Glory of Martyrdom: 1
+- Cyprian — Epistle LXVI: 1
+- Cyprian — Epistle LXXII: 1
+- Cyprian — Epistle LXII.4: 1
+- Cyril of Alexandria — Commentary on the Gospel of John: 1
+- Cyril of Jerusalem — Catechetical Lecture 3:4: 1
+- Cyril of Jerusalem — Catechetical Lecture 5:1-2: 1
+- Cyril of Jerusalem — Catechetical Lecture 5:3: 1
+- Cyril of Jerusalem — Catechetical Lecture 5:5: 1
+- Cyril of Jerusalem — Catechetical Lecture 5:6: 1
+- Cyril of Jerusalem — Catechetical Lecture 5:4: 1
+- Cyril of Jerusalem — Catechetical Lecture 15:1: 1
+- Cyril of Jerusalem — Catechetical Lecture 16:24: 1
+- Cyril of Jerusalem — Catechetical Lecture 14:27: 1
+- Cyril of Jerusalem — Catechetical Lecture 3:11: 1
+- Cyril of Jerusalem — Catechetical Lecture 15:32: 1
+- Didache — The Didache: 1
+- Dionysius of Alexandria — Epistle III.-To Fabius Bishop of Antioch: 1
+- Hippolytus of Rome — Hippolytus Refutation of All Heresies Book VI: 1
+- Hippolytus of Rome — Fragments - Dogmatic and Historical: 1
+- Hippolytus of Rome — Hippolytus Refutation of All Heresies Book V: 1
+- Hippolytus of Rome — Dubious Hippolytus Fragments: 1
+- Ignatius of Antioch — Epistle of Ignatius to the Smyrnaeans: 1
+- Ignatius of Antioch — Epistle of Ignatius to the Magnesians: 1
+- Ignatius of Antioch — Epistle of Pseudo-Ignatius to Hero: 1
+- Irenaeus — Fragments from the Lost Writings of Irenaeus: 1
+- Irenaeus — Irenaeus Against Heresies Book 2: 1
+- Irenaeus — Irenaeus Against Heresies Book 3: 1
+- Lucius Caecilius Firmianus Lactantius — The Divine Institutes Book 7: 1
+- Methodius of Olympus — Methodius Discourse VII. Procilla: 1
+- Methodius of Olympus — Methodius From the Discourse on the Resurrection: 1
+- Methodius of Olympus — Methodius Discourse IX. Tusiane: 1
+- Peter of Alexandria — The Canonical Epistle: 1
+- Tertullian — Against Praxeas: 1
+- Tertullian — The Apology: 1
+- Tertullian — On Baptism: 1
+- Tertullian — On the Apparel of Women Book II: 1
+- Tertullian — A Treatise on the Soul: 1
+- Tertullian — The Prescription Against Heretics: 1
+- Tertullian — Pseudo-Tertullian Against All Heresies: 1
+- Tertullian — Pseudo-Tertullian AGAINST ALL HERESIES 8: 1
+- Tertullian — On the Apparel of Women Book I: 1
+- Tertullian — Against Marcion Book III: 1
+- Tertullian — To His Wife Book I: 1
+- Theognostus Of Alexandria — From His Seven Books of Hypotyposes or Outlines: 1
+
+## Cuarentena por motivo
+
+- 1068: Traducción moderna o sin identificar (p. ej. Aquinas, Commentary on John [Larcher]; Bonaventura [Karris]; Teofilacto, Commentary on John [Chrysostom Press 2007]; Gregorio y Beda, homilías [Hurst 1990-91]; Bernardo [Cistercian Fathers])
+- 530: Extractos con título en mayúsculas, numeración moderna y elipsis: Ancient Christian Commentary on Scripture (IVP), traducciones protegidas
+- 3: Sin URL de procedencia

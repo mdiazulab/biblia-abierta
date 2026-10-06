@@ -175,7 +175,7 @@
   "huella": "39d9346c785c"
  },
  "hcf:Theophylact of Ohrid/John 18_10#0": {
-  "text_es": "O bien, había conseguido uno para sacrificar el cordero, y lo llevó consigo desde la Cena.\n\nO bien, el corte de la oreja derecha del siervo del sumo sacerdote es un tipo de la sordera del pueblo, de la cual participaron más fuertemente los principales sacerdotes: la restauración de la oreja, de la iluminación final del entendimiento de los judíos, en la venida de Elías.",
+  "text_es": "O bien, había conseguido uno para sacrificar el cordero, y lo llevó consigo desde la Cena.\n\nO bien, el corte de la oreja derecha del siervo del pontífice es un tipo de la sordera del pueblo, de la cual participaron más fuertemente los principales sacerdotes: la restauración de la oreja, de la iluminación final del entendimiento de los judíos, en la venida de Elías.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
   "huella": "d51dd32840f5"
@@ -187,7 +187,7 @@
   "huella": "5d1deaebf82b"
  },
  "aquifer:18999": {
-  "text_es": "Los soldados ataron a Jesús y lo llevaron de vuelta a Jerusalén. Primero lo llevaron a Anás, que había sido sumo sacerdote y seguía siendo muy influyente. Cinco de sus hijos también llegaron a ser sumos sacerdotes. Caifás, su yerno, era el sumo sacerdote oficial en aquel tiempo (véase 18:24).",
+  "text_es": "Los soldados ataron a Jesús y lo llevaron de vuelta a Jerusalén. Primero lo llevaron a Anás, que había sido pontífice y seguía siendo muy influyente. Cinco de sus hijos también llegaron a ser pontífices. Caifás, su yerno, era el pontífice oficial en aquel tiempo (véase 18:24).",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
   "huella": "4ff6eafa2b20"
@@ -205,13 +205,13 @@
   "huella": "20cf07e40fdc"
  },
  "hcf:Augustine of Hippo/John 18_13#0": {
-  "text_es": "Pero después que hubieron atado a Jesús, aparece entonces más claramente que Judas lo había traicionado no con un buen propósito, sino con uno sumamente malvado: Y lo llevaron primero a Anás.\n\n(Tr. cxiii) Por qué hicieron esto, lo dice inmediatamente después: Porque era suegro de Caifás, que era el sumo sacerdote de aquel año. Mateo, para abreviar la narración, dice que fue llevado a Caifás; porque fue llevado primero a Anás, por ser suegro de Caifás. De modo que debemos entender que Anás quiso hacer el papel de Caifás.",
+  "text_es": "Pero después que hubieron atado a Jesús, aparece entonces más claramente que Judas lo había traicionado no con un buen propósito, sino con uno sumamente malvado: Y lo llevaron primero a Anás.\n\n(Tr. cxiii) Por qué hicieron esto, lo dice inmediatamente después: Porque era suegro de Caifás, que era el pontífice de aquel año. Mateo, para abreviar la narración, dice que fue llevado a Caifás; porque fue llevado primero a Anás, por ser suegro de Caifás. De modo que debemos entender que Anás quiso hacer el papel de Caifás.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
   "huella": "5e76a43c9c86"
  },
  "hcf:Bede/John 18_13-14#0": {
-  "text_es": "Para que, mientras nuestro Señor era condenado por su colega, él no quedara sin culpa, aunque su crimen fuera menor. O quizá su casa estaba en el camino, y se vieron obligados a pasar por ella. O fue designio de la Providencia que quienes estaban unidos por la sangre lo estuvieran también en la culpa. Que Caifás fuera sumo sacerdote aquel año suena contrario a la ley, que ordenaba que hubiera un solo sumo sacerdote y hacía el oficio hereditario. Pero el pontificado había sido ya abandonado a hombres ambiciosos.",
+  "text_es": "Para que, mientras nuestro Señor era condenado por su colega, él no quedara sin culpa, aunque su crimen fuera menor. O quizá su casa estaba en el camino, y se vieron obligados a pasar por ella. O fue designio de la Providencia que quienes estaban unidos por la sangre lo estuvieran también en la culpa. Que Caifás fuera pontífice aquel año suena contrario a la ley, que ordenaba que hubiera un solo pontífice y hacía el oficio hereditario. Pero el pontificado había sido ya abandonado a hombres ambiciosos.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
   "huella": "54c29dbd1c94"
@@ -230,7 +230,7 @@
   "corregido_por_juez": "El inglés dice «one man died» (murió), pero el español usa «muriera» (subjuntivo), cambiando el modo/tiempo verbal."
  },
  "hcf:Alcuin of York/John 18_14#0": {
-  "text_es": "Josefo relata que este Caifás compró el sumo sacerdocio para este año. No es de extrañar, entonces, que un sumo sacerdote malvado juzgara malvadamente. Un hombre que fue elevado al sacerdocio por la avaricia, se mantendría en él por la injusticia.",
+  "text_es": "Josefo relata que este Caifás compró el sumo sacerdocio para este año. No es de extrañar, entonces, que un pontífice malvado juzgara malvadamente. Un hombre que fue elevado al sacerdocio por la avaricia, se mantendría en él por la injusticia.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
   "huella": "ac562c00058c"
@@ -268,7 +268,7 @@
   "huella": "023070ec9b2d"
  },
  "hcf:John Chrysostom/John 18_15#1": {
-  "text_es": "Su venida allí fue causada por el amor, su no entrar dentro por la angustia y el temor. Pues el evangelista ha registrado estas cosas para abrir camino a excusar su negación; en cuanto a sí mismo, no lo pone como algo de gran importancia que fuera conocido del sumo sacerdote, sino que, puesto que había dicho que él solo con Jesús entró, para que no supongas que la acción procedió de sentimientos elevados, pone también la causa.",
+  "text_es": "Su venida allí fue causada por el amor, su no entrar dentro por la angustia y el temor. Pues el evangelista ha registrado estas cosas para abrir camino a excusar su negación; en cuanto a sí mismo, no lo pone como algo de gran importancia que fuera conocido del pontífice, sino que, puesto que había dicho que él solo con Jesús entró, para que no supongas que la acción procedió de sentimientos elevados, pone también la causa.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
   "huella": "2d0fa18e477e"
@@ -322,7 +322,7 @@
   "huella": "06e3523b0681"
  },
  "aquifer:19003": {
-  "text_es": "El sumo sacerdote hizo preguntas a Jesús, lo cual iba contra los procedimientos legales judíos. En el tribunal judío, el sacerdote no interrogaba directamente a la persona de la defensa. En cambio, reunían evidencia de testigos para probar la culpabilidad (véase Números 35:30; Deuteronomio 17:6; 19:15; compárese Mateo 18:16). Si Jesús decía algo que lo hiciera culpable, Anás lo usaría contra él en su juicio. Anás trató de seguir la práctica romana haciendo que Jesús dijera algo sobre sí mismo que lo hiciera culpable. Esto era diferente de usar testigos como requería la ley judía.",
+  "text_es": "El pontífice hizo preguntas a Jesús, lo cual iba contra los procedimientos legales judíos. En el tribunal judío, el sacerdote no interrogaba directamente a la persona de la defensa. En cambio, reunían evidencia de testigos para probar la culpabilidad (véase Números 35:30; Deuteronomio 17:6; 19:15; compárese Mateo 18:16). Si Jesús decía algo que lo hiciera culpable, Anás lo usaría contra él en su juicio. Anás trató de seguir la práctica romana haciendo que Jesús dijera algo sobre sí mismo que lo hiciera culpable. Esto era diferente de usar testigos como requería la ley judía.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
   "huella": "635d843ede09"
@@ -391,13 +391,13 @@
   "huella": "969d4ce88482"
  },
  "hcf:Theophylact of Ohrid/John 18_22#0": {
-  "text_es": "Cuando Jesús había apelado al testimonio del pueblo, un alguacil, deseando exculparse y mostrar que no era uno de los que admiraban a nuestro Señor, lo golpeó: Y cuando hubo dicho esto, uno de los alguaciles que estaba allí, dio una bofetada a Jesús, diciendo: ¿Así respondes al sumo sacerdote?",
+  "text_es": "Cuando Jesús había apelado al testimonio del pueblo, un alguacil, deseando exculparse y mostrar que no era uno de los que admiraban a nuestro Señor, lo golpeó: Y cuando hubo dicho esto, uno de los alguaciles que estaba allí, dio una bofetada a Jesús, diciendo: ¿Así respondes al pontífice?",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
   "huella": "2e4b75d4fa1a"
  },
  "hcf:Theophylact of Ohrid/John 18_23#0": {
-  "text_es": "Como si dijera: Si tienes alguna falta que encontrar en lo que he dicho, muéstrala; si no la tienes, ¿por qué te enfureces? O así: Si enseñé algo sin reflexión, cuando enseñaba en las sinagogas, da prueba de ello al sumo sacerdote; pero si enseñé correctamente, de modo que incluso vosotros, alguaciles, admirabais, ¿por qué me golpeas, a quien antes admirabas?",
+  "text_es": "Como si dijera: Si tienes alguna falta que encontrar en lo que he dicho, muéstrala; si no la tienes, ¿por qué te enfureces? O así: Si enseñé algo sin reflexión, cuando enseñaba en las sinagogas, da prueba de ello al pontífice; pero si enseñé correctamente, de modo que incluso vosotros, alguaciles, admirabais, ¿por qué me golpeas, a quien antes admirabas?",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
   "huella": "54a0ee491a5f"
@@ -409,7 +409,7 @@
   "huella": "bc47c31ec85f"
  },
  "hcf:Augustine of Hippo/John 18_24#0": {
-  "text_es": "Esto muestra que Anás era el sumo sacerdote, pues esto fue antes de que fuera enviado a Caifás. Y Lucas, al principio de su Evangelio, dice que Anás y Caifás eran ambos sumos sacerdotes.\n\n(Tr. cxiii) Él era aquel a quien lo llevaban desde el principio, como dice Mateo; siendo él el sumo sacerdote de aquel año. Debemos entender que el pontificado se tomaba entre ellos año tras año alternadamente, y que fue con el consentimiento de Caifás que lo llevaron primero a Anás; o que sus casas estaban situadas de tal modo que no podían sino pasar directamente junto a la de Anás.",
+  "text_es": "Esto muestra que Anás era el pontífice, pues esto fue antes de que fuera enviado a Caifás. Y Lucas, al principio de su Evangelio, dice que Anás y Caifás eran ambos pontífices.\n\n(Tr. cxiii) Él era aquel a quien lo llevaban desde el principio, como dice Mateo; siendo él el pontífice de aquel año. Debemos entender que el pontificado se tomaba entre ellos año tras año alternadamente, y que fue con el consentimiento de Caifás que lo llevaron primero a Anás; o que sus casas estaban situadas de tal modo que no podían sino pasar directamente junto a la de Anás.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
   "huella": "3867c9465967"
@@ -447,7 +447,7 @@
   "huella": "89f931544433"
  },
  "hcf:Augustine of Hippo/John 18_25-27#0": {
-  "text_es": "Aquí encontramos a Pedro no en la puerta, sino junto al fuego, cuando niega por segunda vez; de modo que debió haber vuelto después de haber salido afuera, donde dice Mateo que estaba. No salió, y otra criada lo vio afuera, sino que otra criada lo vio cuando se levantaba para salir, y lo notó, y lo dijo a los que estaban allí, es decir, a los que estaban de pie con ella junto al fuego dentro del patio: Este también estaba con Jesús de Nazaret. (Mat. 26:71, 72) Él oyó esto afuera, y volvió, y juró: No conozco al hombre. Luego Juan continúa: Le dijeron, pues: ¿No eres tú también de sus discípulos? palabras que suponemos le fueron dichas cuando había vuelto y estaba de pie junto al fuego. Y esta explicación se confirma por el hecho de que, además de la otra criada mencionada por Mateo y Marcos en la segunda negación, había otra persona, mencionada por Lucas, que también lo interrogó. Así Juan usa el plural: Le dijeron, pues. Y luego sigue la tercera negación: Uno de los siervos del sumo sacerdote, pariente de aquel a quien Pedro había cortado la oreja, le dice: ¿No te vi yo en el huerto con él? Que Mateo y Marcos hablen en plural de los que aquí interrogan a Pedro, mientras que Lucas menciona solo a uno, y Juan también, añadiendo que aquel era pariente de aquel a quien Pedro había cortado la oreja, se explica fácilmente suponiendo que Mateo y Marcos usaron el número plural por una forma común de hablar en lugar del singular; o que uno que lo había observado más estrictamente hizo la pregunta primero, y otros la siguieron, y apremiaron más a Pedro.",
+  "text_es": "Aquí encontramos a Pedro no en la puerta, sino junto al fuego, cuando niega por segunda vez; de modo que debió haber vuelto después de haber salido afuera, donde dice Mateo que estaba. No salió, y otra criada lo vio afuera, sino que otra criada lo vio cuando se levantaba para salir, y lo notó, y lo dijo a los que estaban allí, es decir, a los que estaban de pie con ella junto al fuego dentro del patio: Este también estaba con Jesús de Nazaret. (Mat. 26:71, 72) Él oyó esto afuera, y volvió, y juró: No conozco al hombre. Luego Juan continúa: Le dijeron, pues: ¿No eres tú también de sus discípulos? palabras que suponemos le fueron dichas cuando había vuelto y estaba de pie junto al fuego. Y esta explicación se confirma por el hecho de que, además de la otra criada mencionada por Mateo y Marcos en la segunda negación, había otra persona, mencionada por Lucas, que también lo interrogó. Así Juan usa el plural: Le dijeron, pues. Y luego sigue la tercera negación: Uno de los siervos del pontífice, pariente de aquel a quien Pedro había cortado la oreja, le dice: ¿No te vi yo en el huerto con él? Que Mateo y Marcos hablen en plural de los que aquí interrogan a Pedro, mientras que Lucas menciona solo a uno, y Juan también, añadiendo que aquel era pariente de aquel a quien Pedro había cortado la oreja, se explica fácilmente suponiendo que Mateo y Marcos usaron el número plural por una forma común de hablar en lugar del singular; o que uno que lo había observado más estrictamente hizo la pregunta primero, y otros la siguieron, y apremiaron más a Pedro.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
   "huella": "115bdce2e557",

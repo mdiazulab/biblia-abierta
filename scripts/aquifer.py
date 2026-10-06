@@ -15,7 +15,8 @@ import re
 import sys
 
 RAIZ = pathlib.Path(__file__).resolve().parent.parent
-NUM = {"JHN": "43"}
+from libros import LIBROS
+NUM = {k: v["aquifer"] for k, v in LIBROS.items()}
 LIBRO_POR_NUM = {"01": "GEN", "02": "EXO", "03": "LEV", "04": "NUM", "05": "DEU", "06": "JOS", "07": "JDG", "08": "RUT",
                  "09": "1SA", "10": "2SA", "11": "1KI", "12": "2KI", "13": "1CH", "14": "2CH", "15": "EZR", "16": "NEH",
                  "17": "EST", "18": "JOB", "19": "PSA", "20": "PRO", "21": "ECC", "22": "SNG", "23": "ISA", "24": "JER",

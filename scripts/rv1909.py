@@ -20,7 +20,8 @@ FUENTE = RAIZ / "fuentes" / "rv1909" / "spa-rv1909.usfx.xml"
 # monosílabos con tilde obsoleta (Ortografía RAE 1959/2010); NO se tocan dé, sé, él, mí, tú, sí, más, qué...
 ACENTOS = {"fué": "fue", "Fué": "Fue", "fuí": "fui", "Fuí": "Fui", "dió": "dio", "Dió": "Dio", "vió": "vio",
            "Vió": "Vio", "ví": "vi", "Ví": "Vi", "fuí": "fui", "dí": "di", "Dí": "Di", "fé": "fe", "tí": "ti",
-           "á": "a", "Á": "A", "ó": "o", "é": "e", "piés": "pies", "ríe": "ríe"}
+           "á": "a", "Á": "A", "ó": "o", "é": "e", "piés": "pies", "ríe": "ríe",
+           "oir": "oír", "Oir": "Oír", "creiste": "creíste"}      # tildes que la ortografía actual exige (hiato)
 PALABRA = re.compile(r"\b\w+\b", re.UNICODE)
 # demostrativos y «sólo» sin tilde (RAE 2010); pretérito + UN enclítico sigue la regla general
 # («Respondióles» -> «Respondioles», «fuése» -> «fuese», «dínos» -> «dinos»; «dióselo» conserva la tilde)
@@ -29,7 +30,26 @@ DEMOSTRATIVOS = {w: w.translate(str.maketrans("éó", "eo")) for w in
 ENCLITICO = re.compile(r"^(\w*?[^\Wáéíóú]\w*?)(ó|é)(le|les|lo|los|la|las|se|me|te|nos|os)$|^([DdVv]|[Ff]u)(í)(le|les|lo|los|la|las|se|me|te|nos|os)$")
 
 
+CIRCUNFLEJO = str.maketrans("âêîôûÂÊÎÔÛ", "aeiouAEIOU")     # «Melchîsedec» -> «Melchisedec», «Sichâr» -> «Sichar»
+
+
+# erratas de la fuente digital corregidas con evidencia (política del usuario: se corrigen las erratas del original)
+ERRATAS = {
+    "HEB.12.2": [("en al autor", "en el autor",
+                  "«en al» es agramatical; RV1909 impresa y RV1960 «en el autor y consumador de la fe»; gr. «eis ton… archēgon»")],
+}
+
+
+def errata(ref, t):
+    for mal, bien, _ in ERRATAS.get(ref, []):
+        assert mal in t, (ref, mal)
+        t = t.replace(mal, bien)
+    return t
+
+
 def _sin_tilde(w):
+    if any(ch in w for ch in "âêîôûÂÊÎÔÛ"):
+        return w.translate(CIRCUNFLEJO)
     if w in DEMOSTRATIVOS or w[:1].lower() + w[1:] in DEMOSTRATIVOS:
         n = DEMOSTRATIVOS[w[:1].lower() + w[1:]]
         return n[:1].upper() + n[1:] if w[:1].isupper() else n
@@ -80,7 +100,7 @@ def main():
     libro = sys.argv[1] if len(sys.argv) > 1 else "JHN"
     cuenta = collections.Counter()
     vs = versiculos(libro)
-    datos = {ref: {"texto": modernizar(t, cuenta), "texto_1909": t} for ref, t in vs.items()}
+    datos = {ref: {"texto": errata(ref, modernizar(t, cuenta)), "texto_1909": t} for ref, t in vs.items()}
     destino = RAIZ / "normalizado" / "rv1909"
     destino.mkdir(parents=True, exist_ok=True)
     (destino / f"{libro}.json").write_text(json.dumps(datos, ensure_ascii=False, indent=0))

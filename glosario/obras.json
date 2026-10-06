@@ -1,46 +1,245 @@
 {
- "descripcion": "Decisión de licencia por obra para las citas de HCF (la compilación es de dominio público, pero cada cita depende de su traducción). Reglas en orden: la primera que coincide decide. Verificado por el estilo del texto contra la edición indicada (02-10-2026).",
- "excluir_autores": ["CS Lewis", "GK Chesterton"],
+ "descripcion": "Decisión de licencia por obra para las citas de HCF (la compilación es de dominio público, pero cada cita depende de su traducción). Reglas en orden: la primera que coincide decide. Verificado por el estilo del texto contra la edición indicada (02-10-2026). Hebreos (06-10-2026): Crisóstomo Homilías sobre Hebreos, Confesiones (Pusey/Pilkington), Ciudad de Dios (Dods), Basilio Sobre el Espíritu, Ambrosio (NPNF y LF 45) y Padres apostólicos/ANF verificados por estilo; Ecumenio (traducción literal moderna de HCF), Teofilacto (traducción moderna), Aquino (Larcher/Baer) y extractos ACCS quedan en cuarentena.",
+ "excluir_autores": [
+  "CS Lewis",
+  "GK Chesterton"
+ ],
  "reglas": [
-  {"si": {"catena": true}, "estado": "dominio_publico",
-   "edicion": "Tomás de Aquino, Catena Aurea, trad. J. H. Newman et al., Oxford 1841-45"},
-  {"si": {"titulo_mayusculas": true}, "estado": "cuarentena",
-   "motivo": "Extractos con título en mayúsculas, numeración moderna y elipsis: Ancient Christian Commentary on Scripture (IVP), traducciones protegidas"},
-  {"si": {"sin_url": true}, "estado": "cuarentena", "motivo": "Sin URL de procedencia"},
-  {"si": {"autor": "Augustine of Hippo", "titulo": "Tractates on John"}, "estado": "dominio_publico",
-   "edicion": "NPNF serie 1, vol. 7, trad. J. Gibb y J. Innes, 1888"},
-  {"si": {"autor": "John Chrysostom", "titulo": "Homily on the Gospel of John"}, "estado": "dominio_publico",
-   "edicion": "NPNF serie 1, vol. 14, trad. Ph. Schaff (Library of the Fathers), 1889"},
-  {"si": {"autor": "Cyril of Alexandria", "titulo": "Commentary on the Gospel of John"}, "estado": "dominio_publico",
-   "edicion": "Library of the Fathers 43 y 48, trad. P. E. Pusey (1874) y T. Randell (1885)"},
-  {"si": {"autor": "Hilary of Poitiers", "titulo": "On the Trinity"}, "estado": "dominio_publico",
-   "edicion": "NPNF serie 2, vol. 9, trad. E. W. Watson y L. Pullan, 1899"},
-  {"si": {"autor": "Ambrose of Milan", "titulo": "Exposition of the Christian Faith"}, "estado": "dominio_publico",
-   "edicion": "NPNF serie 2, vol. 10, trad. H. de Romestin, 1896"},
-  {"si": {"autor": "Athanasius of Alexandria", "titulo": "Discourses Against the Arians"}, "estado": "dominio_publico",
-   "edicion": "NPNF serie 2, vol. 4, trad. J. H. Newman y A. Robertson, 1892"},
-  {"si": {"autor": "Cyril of Jerusalem", "titulo": "Catechetical Lecture"}, "estado": "dominio_publico",
-   "edicion": "NPNF serie 2, vol. 7, trad. E. H. Gifford, 1894"},
-  {"si": {"autor": "Philoxenus of Mabbug", "titulo": "13 Ascetic Discourses"}, "estado": "dominio_publico",
-   "edicion": "The Discourses of Philoxenus, trad. E. A. W. Budge, 1894"},
-  {"si": {"autor": "Cosmas Indicopleustes", "titulo": "The Christian Topography"}, "estado": "dominio_publico",
-   "edicion": "trad. J. W. McCrindle, Hakluyt Society, 1897"},
-  {"si": {"autor": ["Tertullian", "Irenaeus", "Cyprian", "Clement of Alexandria", "Hippolytus of Rome",
-                    "Ignatius of Antioch", "Apostolic Constitutions", "Justin Martyr", "Methodius of Olympus",
-                    "Novatian", "Lactantius", "Gregory Thaumaturgus", "Dionysius of Alexandria", "Archelaus"]},
-   "estado": "dominio_publico", "edicion": "Ante-Nicene Fathers, ed. A. Roberts y J. Donaldson, 1885-96"},
-  {"si": {"autor": "Origen of Alexandria", "titulo": "Commentary on the Gospel of John"}, "estado": "cuarentena",
-   "motivo": "Incluye libros (p. ej. 19) que no están en ANF 10; inglés de procedencia desconocida"},
-  {"si": {}, "estado": "cuarentena",
-   "motivo": "Traducción moderna o sin identificar (p. ej. Aquinas, Commentary on John [Larcher]; Bonaventura [Karris]; Teofilacto, Commentary on John [Chrysostom Press 2007]; Gregorio y Beda, homilías [Hurst 1990-91]; Bernardo [Cistercian Fathers])"}
+  {
+   "si": {
+    "catena": true
+   },
+   "estado": "dominio_publico",
+   "edicion": "Tomás de Aquino, Catena Aurea, trad. J. H. Newman et al., Oxford 1841-45"
+  },
+  {
+   "si": {
+    "titulo_mayusculas": true
+   },
+   "estado": "cuarentena",
+   "motivo": "Extractos con título en mayúsculas, numeración moderna y elipsis: Ancient Christian Commentary on Scripture (IVP), traducciones protegidas"
+  },
+  {
+   "si": {
+    "sin_url": true
+   },
+   "estado": "cuarentena",
+   "motivo": "Sin URL de procedencia"
+  },
+  {
+   "si": {
+    "autor": "Augustine of Hippo",
+    "titulo": "Tractates on John"
+   },
+   "estado": "dominio_publico",
+   "edicion": "NPNF serie 1, vol. 7, trad. J. Gibb y J. Innes, 1888"
+  },
+  {
+   "si": {
+    "autor": "John Chrysostom",
+    "titulo": "Homily on the Gospel of John"
+   },
+   "estado": "dominio_publico",
+   "edicion": "NPNF serie 1, vol. 14, trad. Ph. Schaff (Library of the Fathers), 1889"
+  },
+  {
+   "si": {
+    "autor": "Cyril of Alexandria",
+    "titulo": "Commentary on the Gospel of John"
+   },
+   "estado": "dominio_publico",
+   "edicion": "Library of the Fathers 43 y 48, trad. P. E. Pusey (1874) y T. Randell (1885)"
+  },
+  {
+   "si": {
+    "autor": "Hilary of Poitiers",
+    "titulo": "On the Trinity"
+   },
+   "estado": "dominio_publico",
+   "edicion": "NPNF serie 2, vol. 9, trad. E. W. Watson y L. Pullan, 1899"
+  },
+  {
+   "si": {
+    "autor": "Ambrose of Milan",
+    "titulo": "Exposition of the Christian Faith"
+   },
+   "estado": "dominio_publico",
+   "edicion": "NPNF serie 2, vol. 10, trad. H. de Romestin, 1896"
+  },
+  {
+   "si": {
+    "autor": "Athanasius of Alexandria",
+    "titulo": "Discourses Against the Arians"
+   },
+   "estado": "dominio_publico",
+   "edicion": "NPNF serie 2, vol. 4, trad. J. H. Newman y A. Robertson, 1892"
+  },
+  {
+   "si": {
+    "autor": "Cyril of Jerusalem",
+    "titulo": "Catechetical Lecture"
+   },
+   "estado": "dominio_publico",
+   "edicion": "NPNF serie 2, vol. 7, trad. E. H. Gifford, 1894"
+  },
+  {
+   "si": {
+    "autor": "Philoxenus of Mabbug",
+    "titulo": "13 Ascetic Discourses"
+   },
+   "estado": "dominio_publico",
+   "edicion": "The Discourses of Philoxenus, trad. E. A. W. Budge, 1894"
+  },
+  {
+   "si": {
+    "autor": "Cosmas Indicopleustes",
+    "titulo": "The Christian Topography"
+   },
+   "estado": "dominio_publico",
+   "edicion": "trad. J. W. McCrindle, Hakluyt Society, 1897"
+  },
+  {
+   "si": {
+    "autor": [
+     "Tertullian",
+     "Irenaeus",
+     "Cyprian",
+     "Clement of Alexandria",
+     "Hippolytus of Rome",
+     "Ignatius of Antioch",
+     "Apostolic Constitutions",
+     "Justin Martyr",
+     "Methodius of Olympus",
+     "Novatian",
+     "Lactantius",
+     "Gregory Thaumaturgus",
+     "Dionysius of Alexandria",
+     "Archelaus"
+    ]
+   },
+   "estado": "dominio_publico",
+   "edicion": "Ante-Nicene Fathers, ed. A. Roberts y J. Donaldson, 1885-96"
+  },
+  {
+   "si": {
+    "autor": "John Chrysostom",
+    "titulo": "Homily on Hebrews"
+   },
+   "estado": "dominio_publico",
+   "edicion": "NPNF serie 1, vol. 14, trad. Library of the Fathers rev. F. Gardiner, 1889"
+  },
+  {
+   "si": {
+    "autor": "Augustine of Hippo",
+    "titulo": "Confessions"
+   },
+   "estado": "dominio_publico",
+   "edicion": "NPNF serie 1, vol. 1, trad. J. G. Pilkington (sobre E. B. Pusey, 1838), 1886"
+  },
+  {
+   "si": {
+    "autor": "Augustine of Hippo",
+    "titulo": "City of God"
+   },
+   "estado": "dominio_publico",
+   "edicion": "NPNF serie 1, vol. 2, trad. M. Dods, 1887"
+  },
+  {
+   "si": {
+    "autor": "Basil of Caesarea",
+    "titulo": "On the Spirit"
+   },
+   "estado": "dominio_publico",
+   "edicion": "NPNF serie 2, vol. 8, trad. B. Jackson, 1895"
+  },
+  {
+   "si": {
+    "autor": "Ambrose of Milan",
+    "titulo": "Concerning Repentance"
+   },
+   "estado": "dominio_publico",
+   "edicion": "NPNF serie 2, vol. 10, trad. H. de Romestin, 1896"
+  },
+  {
+   "si": {
+    "autor": "Ambrose of Milan",
+    "titulo": "Letter"
+   },
+   "estado": "dominio_publico",
+   "edicion": "Library of the Fathers 45, Cartas de san Ambrosio, Oxford 1881"
+  },
+  {
+   "si": {
+    "autor": [
+     "Lucius Caecilius Firmianus Lactantius",
+     "Clement of Rome",
+     "Pseudo-Clement",
+     "Shepherd of Hermas",
+     "Didache",
+     "Alexander of Alexandria",
+     "Peter of Alexandria",
+     "Theognostus Of Alexandria"
+    ]
+   },
+   "estado": "dominio_publico",
+   "edicion": "Ante-Nicene Fathers, ed. A. Roberts y J. Donaldson, 1885-96"
+  },
+  {
+   "si": {
+    "autor": "Origen of Alexandria",
+    "titulo": "Commentary on the Gospel of John"
+   },
+   "estado": "cuarentena",
+   "motivo": "Incluye libros (p. ej. 19) que no están en ANF 10; inglés de procedencia desconocida"
+  },
+  {
+   "si": {},
+   "estado": "cuarentena",
+   "motivo": "Traducción moderna o sin identificar (p. ej. Aquinas, Commentary on John [Larcher]; Bonaventura [Karris]; Teofilacto, Commentary on John [Chrysostom Press 2007]; Gregorio y Beda, homilías [Hurst 1990-91]; Bernardo [Cistercian Fathers])"
+  }
  ],
  "tradicion": {
-  "oriente": ["John Chrysostom", "Cyril of Alexandria", "Theophylact of Ohrid", "Origen of Alexandria", "Athanasius of Alexandria",
-              "Cyril of Jerusalem", "Clement of Alexandria", "Ignatius of Antioch", "Hippolytus of Rome", "Irenaeus",
-              "Philoxenus of Mabbug", "Cosmas Indicopleustes", "Apostolic Constitutions", "Basil of Caesarea",
-              "Gregory of Nyssa", "Gregory the Theologian", "Ephrem the Syrian", "John of Damascus", "Isidore of Pelusium",
-              "Ammonius of Alexandria", "Apollinaris of Laodicea", "Theodore of Mopsuestia", "Didymus the Blind",
-              "Pseudo-Dionysius", "Severus of Antioch", "Gregory Thaumaturgus", "Dionysius of Alexandria", "Methodius of Olympus"],
+  "oriente": [
+   "Alexander of Alexandria",
+   "Ammonius of Alexandria",
+   "Apollinaris of Laodicea",
+   "Apostolic Constitutions",
+   "Athanasius of Alexandria",
+   "Basil of Caesarea",
+   "Clement of Alexandria",
+   "Cosmas Indicopleustes",
+   "Cyril of Alexandria",
+   "Cyril of Jerusalem",
+   "Desert Fathers",
+   "Didache",
+   "Didymus the Blind",
+   "Dionysius of Alexandria",
+   "Ephrem the Syrian",
+   "Gregory Thaumaturgus",
+   "Gregory of Nazianzus",
+   "Gregory of Nyssa",
+   "Gregory the Theologian",
+   "Hippolytus of Rome",
+   "Ignatius of Antioch",
+   "Irenaeus",
+   "Isidore of Pelusium",
+   "John Chrysostom",
+   "John of Damascus",
+   "Methodius of Olympus",
+   "Oecumenius",
+   "Origen of Alexandria",
+   "Peter of Alexandria",
+   "Philoxenus of Mabbug",
+   "Photios I of Constantinople",
+   "Pseudo-Dionysius",
+   "Severian of Gabala",
+   "Severus of Antioch",
+   "Symeon the New Theologian",
+   "Theodore of Mopsuestia",
+   "Theodoret of Cyrus",
+   "Theognostus Of Alexandria",
+   "Theophylact of Ohrid"
+  ],
   "occidente": "resto"
  }
 }

@@ -54,7 +54,7 @@ class Compuerta(unittest.TestCase):
     def test_tildes_obsoletas(self):
         import rv1909 as R
         par = {"éste": "este", "Aquél": "Aquel", "Respondióles": "Respondioles", "fuése": "fuese", "dínos": "dinos",
-               "dióselo": "dióselo", "Judíos": "Judíos", "ríos": "ríos", "José": "José"}
+               "dióselo": "dióselo", "Judíos": "Judíos", "ríos": "ríos", "José": "José", "Melchîsedec": "Melchisedec", "Sichâr": "Sichar"}
         self.assertEqual({w: R._sin_tilde(w) for w in par}, par)
 
     # clases de la corrida completa de Juan (02-10-2026)
@@ -70,6 +70,21 @@ class Compuerta(unittest.TestCase):
 
     def test_oraciones_sin_abreviaturas(self):
         self.assertEqual(V.oraciones("I will see you, i. e. I will take you (in Joan. tom. vi. c. 15). Or thus."), 2)
+
+    def test_sensibles_por_libro(self):
+        self.assertTrue(C.es_sensible({"ref": "HEB.2.10"}))
+        self.assertFalse(C.es_sensible({"ref": "JHN.2.10"}))          # mismo cap:vers, otro libro
+        self.assertTrue(C.es_sensible({"ref": "JHN.6.50", "ref_fin": "JHN.6.52"}))
+
+    def test_vocabulario_rv1909(self):
+        import traducir as T
+        self.assertEqual(T.limpiar("El sumo sacerdote y los sumos sacerdotes, según Melquisedec."),
+                         "El pontífice y los pontífices, según Melchisedec.")
+
+    def test_errata_y_tildes_rv1909(self):
+        import rv1909 as R
+        self.assertEqual(R.errata("HEB.12.2", "Puestos los ojos en al autor"), "Puestos los ojos en el autor")
+        self.assertEqual(R.ACENTOS["oir"], "oír")
 
     def test_wilson(self):
         self.assertLess(J.wilson_sup(0, 200), 0.02)

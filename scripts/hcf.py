@@ -16,7 +16,8 @@ import tomllib
 import urllib.parse
 
 RAIZ = pathlib.Path(__file__).resolve().parent.parent
-NOMBRE = {"JHN": "John"}
+from libros import LIBROS
+NOMBRE = {k: v["hcf"] for k, v in LIBROS.items()}
 CFG = json.loads((RAIZ / "glosario" / "obras.json").read_text())
 ORIENTE = set(CFG["tradicion"]["oriente"])
 

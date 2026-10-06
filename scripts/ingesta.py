@@ -12,7 +12,7 @@ import subprocess
 import sys
 
 RAIZ = pathlib.Path(__file__).resolve().parent.parent
-LIBROS = {"JHN": ("43", "John")}          # OSIS -> (número Aquifer, nombre en HCF)
+from libros import LIBROS
 
 
 def git(*a, cwd=None):
@@ -20,7 +20,7 @@ def git(*a, cwd=None):
 
 
 def traer(nombre, f, libro):
-    num, nombre_en = LIBROS[libro]
+    num, nombre_en = LIBROS[libro]["aquifer"], LIBROS[libro]["hcf"]
     destino = RAIZ / "fuentes" / nombre
     rutas = [r.format(libro=num, nombre=nombre_en) for r in f["rutas"]]
     if not (destino / ".git").exists():

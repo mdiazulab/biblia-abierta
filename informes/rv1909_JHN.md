@@ -18,6 +18,7 @@ Acentos modernizados (solo tildes obsoletas en monosílabos; ninguna palabra cam
 - Respondióle->Respondiole: 7
 - éstas->estas: 3
 - sólo->solo: 3
+- oir->oír: 3
 - Fué->Fue: 2
 - Aquél->Aquel: 2
 - quedóse->quedose: 2
@@ -26,6 +27,7 @@ Acentos modernizados (solo tildes obsoletas en monosílabos; ninguna palabra cam
 - ciñóse->ciñose: 2
 - dióles->dioles: 1
 - echólos->echolos: 1
+- Sichâr->Sichar: 1
 - respondióle->respondiole: 1
 - enderezóse->enderezose: 1
 - hablóles->habloles: 1
@@ -45,6 +47,7 @@ Acentos modernizados (solo tildes obsoletas en monosílabos; ninguna palabra cam
 - ésos->esos: 1
 - bajóse->bajose: 1
 - mostróles->mostroles: 1
+- creiste->creíste: 1
 - manifestóse->manifestose: 1
 - echóse->echose: 1
 - Entristecióse->Entristeciose: 1
