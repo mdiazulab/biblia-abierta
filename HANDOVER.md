@@ -131,6 +131,13 @@ Pendiente:
 1. Wesley (Explanatory Notes) como segunda voz de la Reforma/avivamiento, si se quiere.
 2. Gemini: la clave nueva no tiene cupo para gemini-3.6-flash (429); el juez usa deepseek-reasoner.
 
+Decisiones del usuario (06-10-2026): escalar a toda la Biblia con el CANON ORTODOXO (deuterocanónicos y
+anagignoskomena: Tobías, Judit, adiciones a Ester y Daniel, I-III Macabeos, Sabiduría, Eclesiástico, Baruc y
+Carta de Jeremías, III Esdras, Oración de Manasés, Salmo 151; IV Macabeos en apéndice), entre los Testamentos
+como Valera 1602; y hacer público el repositorio (la cadena corre en .github/workflows/cadena.yml cuando el
+repositorio tenga sus secretos; mientras, en el espejo). cuarentena/ salió de git y del historial antes de publicar.
+Orden propuesto: cerrar Hebreos -> NT (Romanos, Gálatas…) -> piloto deuterocanónico (II Macabeos, Tobías) -> AT.
+
 Decisiones del usuario: acentos modernizados (a); repo propio `biblia-abierta` (b); misma licencia
 CC BY-SA 4.0, gratuito, sin venta; objetivo: patrística y referencias de alto nivel.
 
