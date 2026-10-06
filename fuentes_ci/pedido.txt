@@ -1,1 +1,2 @@
 # nombre url  (una por línea; las líneas con # se ignoran)
+ebible_translations.csv https://ebible.org/Scriptures/translations.csv
