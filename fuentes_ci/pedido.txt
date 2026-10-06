@@ -1,2 +1,2 @@
-# nombre url  (una por línea; las líneas con # se ignoran)
+# nombre url  (una por línea; las líneas con # se ignoran) — 06-10-2026: catálogo de eBible
 ebible_translations.csv https://ebible.org/Scriptures/translations.csv
