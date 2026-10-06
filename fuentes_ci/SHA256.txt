@@ -1,0 +1,1 @@
+e483306390017347de4bbe1f6f8748d2359feadd3160e5b4986c9565d068704b  ebible_translations.csv  https://ebible.org/Scriptures/translations.csv
