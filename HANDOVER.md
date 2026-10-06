@@ -129,7 +129,8 @@ Capas nuevas de Hebreos (06-10-2026):
 
 Pendiente:
 1. Wesley (Explanatory Notes) como segunda voz de la Reforma/avivamiento, si se quiere.
-2. Gemini: la clave nueva no tiene cupo para gemini-3.6-flash (429); el juez usa deepseek-reasoner.
+2. Solo DeepSeek (decisión del usuario 06-10-2026: Gemini sin créditos): TRADUCTOR deepseek-chat, CONTROL
+   deepseek-reasoner; los veredictos de gemini-3.6-flash (Juan 1-8) siguen valiendo (JUECES_VALIDOS).
 
 Decisiones del usuario (06-10-2026): escalar a toda la Biblia con el CANON ORTODOXO (deuterocanónicos y
 anagignoskomena: Tobías, Judit, adiciones a Ester y Daniel, I-III Macabeos, Sabiduría, Eclesiástico, Baruc y

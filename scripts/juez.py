@@ -120,7 +120,7 @@ def capitulo(libro, c, us, rnd):
     ns = [n for n in us if C.cap(n["ref"]) == c and tr.get(n["id"], {}).get("text_es")]
     par = lambda n: (n["id"], T.texto_a_traducir(n), tr[n["id"]]["text_es"])
     vigente = lambda i: (cache.get(i, {}).get("huella") == C.huella(tr[i]["text_es"])
-                         and cache[i].get("modelo") in C.CONTROL)      # veredictos de modelos retirados se rehacen
+                         and cache[i].get("modelo") in C.JUECES_VALIDOS)   # veredictos de modelos retirados se rehacen
     # censo
     pend = [par(n) for n in ns if not vigente(n["id"])]
     for k in range(0, len(pend), LOTE * 8):          # caché guardada por tramos: un corte no pierde lo juzgado

@@ -138,6 +138,11 @@ class Compuerta(unittest.TestCase):
         self.assertIsNotNone(m)
         self.assertNotEqual(m, "Jesús es el Verbo. Vino en el año 30. Fue enviado.")
 
+    def test_solo_deepseek_sin_rejuzgar_lo_aprobado(self):
+        self.assertTrue(all(m.startswith("deepseek:") for m in C.TRADUCTOR + C.CONTROL))
+        self.assertIn("gemini-3.6-flash", C.JUECES_VALIDOS)          # Juan 1-8: veredictos calibrados, no se rehacen
+        self.assertNotIn("gemini-3.1-flash-lite", C.JUECES_VALIDOS)  # retirado por baja sensibilidad
+
 
 class Griego(unittest.TestCase):
     """Notas de unfoldingWord: fuera lo dirigido al traductor, sin romper las listas de lecturas posibles."""

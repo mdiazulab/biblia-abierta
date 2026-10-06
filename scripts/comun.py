@@ -181,4 +181,10 @@ TRADUCTOR = ["deepseek:deepseek-chat"]
 # calibración con errores sembrados de cada capítulo mide si comparte puntos ciegos con el traductor
 # gemini-3.1-flash-lite salió de la cadena el 03-10-2026: detectó solo 62-80 % de los errores sembrados
 # (caps. 7, 8, 15, 16 de Juan), por debajo de la compuerta de sensibilidad (80 %)
-CONTROL = ["gemini-3.6-flash", "deepseek:deepseek-reasoner"]
+# 06-10-2026, decisión del usuario: solo DeepSeek (Gemini sin créditos). El juez es deepseek-reasoner; la
+# independencia que da otra familia la reemplaza la calibración con errores sembrados (compuerta de Wilson).
+# Gemini sigue soportado en _gemini(): basta con volver a ponerlo aquí y cargar GEMINI_API_KEY.
+CONTROL = ["deepseek:deepseek-reasoner"]
+# veredictos que siguen valiendo aunque su modelo ya no esté en CONTROL: gemini-3.6-flash juzgó Juan 1-8
+# calibrado y aprobado (no se paga de nuevo); los modelos retirados por baja sensibilidad NO van aquí
+JUECES_VALIDOS = set(CONTROL) | {"gemini-3.6-flash"}
