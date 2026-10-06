@@ -184,6 +184,7 @@
   "Traduce al español neutro, registro académico y claro; no expliques ni comentes, solo traduce.",
   "Una nota = una unidad: no fusiones ni dividas notas; devuelve exactamente los mismos ids.",
   "Conserva sin cambios: referencias bíblicas (números), palabras griegas, hebreas y latinas (en cursiva ⸢…⸣), números y fechas, y los marcadores ⸢ ⸣ de cursiva.",
+  "Toda otra frase en cursiva ⸢…⸣ (por ejemplo, la cita del versículo al comienzo de una nota de contexto) SE TRADUCE al español, con las palabras de la RV1909 si las reconoces; nunca la dejes en inglés.",
   "Cuando la nota cita un pasaje bíblico, usa el texto de la Reina-Valera 1909 si lo reconoces (por ejemplo «el Verbo», «Consolador», «Hijo del hombre»).",
   "Las abreviaturas latinas de las referencias patrísticas (Tract., Hom., de Trin., lib.) se dejan como están.",
   "Los nombres de libros bíblicos van en español (Génesis, Salmos, Romanos, I Corintios...)."

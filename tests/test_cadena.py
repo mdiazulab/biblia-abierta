@@ -86,6 +86,28 @@ class Compuerta(unittest.TestCase):
         self.assertEqual(R.errata("HEB.12.2", "Puestos los ojos en al autor"), "Puestos los ojos en el autor")
         self.assertEqual(R.ACENTOS["oir"], "oír")
 
+    def test_json_mal_formado_no_descarta_el_modelo(self):
+        import os, requests
+        respuestas = iter(['{"notas": [{"id": "a",, }]}', '{"notas": []}'])
+        orig, falso, dormir = C._deepseek, os.environ.pop("MODELO_FALSO", None), C.time.sleep
+        os.environ["DEEPSEEK_API_KEY"] = "x"
+        C._deepseek = lambda *a: next(respuestas)
+        C.time.sleep = lambda s: None
+        try:
+            self.assertEqual(C.llamar("p", ["deepseek:prueba"])[0], {"notas": []})
+            self.assertNotIn("deepseek:prueba", C._CAIDOS)
+            def sin_permiso(*a):
+                r = requests.Response(); r.status_code = 404
+                raise requests.HTTPError("404 Not Found", response=r)
+            C._deepseek = sin_permiso
+            with self.assertRaises(RuntimeError):
+                C.llamar("p", ["deepseek:prueba"])
+            self.assertIn("deepseek:prueba", C._CAIDOS)
+        finally:
+            C._deepseek = orig; C.time.sleep = dormir; C._CAIDOS.clear(); os.environ.pop("DEEPSEEK_API_KEY", None)
+            if falso is not None:
+                os.environ["MODELO_FALSO"] = falso
+
     def test_wilson(self):
         self.assertLess(J.wilson_sup(0, 200), 0.02)
         self.assertGreater(J.wilson_sup(5, 100), 0.03)

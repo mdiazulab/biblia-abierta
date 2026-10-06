@@ -47,7 +47,11 @@ def prompt(pares):
 def juzgar(pares, cadena=None):
     """Lotes en paralelo (JUEZ_HILOS, 4 por defecto): el razonador tarda minutos por pedido."""
     def lote(k):
-        return C.llamar(prompt(pares[k:k + LOTE]), cadena or C.CONTROL, temperatura=0)
+        try:
+            return C.llamar(prompt(pares[k:k + LOTE]), cadena or C.CONTROL, temperatura=0)
+        except RuntimeError as e:                      # el lote queda sin veredicto (pendiente); el resto sigue
+            print(f"  lote sin veredicto ({len(pares[k:k + LOTE])} pares): {str(e)[:160]}", flush=True)
+            return {}, None
     out = {}
     with ThreadPoolExecutor(int(os.getenv("JUEZ_HILOS", "4"))) as ex:
         for r, modelo in ex.map(lote, range(0, len(pares), LOTE)):
@@ -90,16 +94,21 @@ def compuerta_libro(libro, caps):
     errores, así que la decisión estadística se toma sumando capítulos. Lo que Claude resolvió con evidencia
     (revision/adjudicaciones y aceptados) no cuenta como error pendiente."""
     resueltos = set(C.cargar(f"revision/adjudicaciones_{libro}.json", {})) | set(C.cargar(f"revision/aceptados_{libro}.json", {}))
-    n = quedan = det = tot = 0
+    n = quedan = det = tot = sin_juzgar = 0
     for c in caps:
         cache = C.cargar(f"traducido/{libro}/juez_{c:02d}.json", {})
         cal = cache.get("_calibracion", {})
         det, tot = det + cal.get("detect", 0), tot + cal.get("total", 0)
-        n += sum(1 for k in cache if not k.startswith("_"))
+        n_cap = sum(1 for u in C.unidades(libro) if C.cap(u["ref"]) == c)
+        juzgadas = sum(1 for k in cache if not k.startswith("_"))
+        n += n_cap
+        sin_juzgar += n_cap - juzgadas
         quedan += sum(1 for x in C.cargar(f"informes/cola_{libro}_{c:02d}.json", []) if x["id"] not in resueltos)
     sens = det / tot if tot else 0
     sup = wilson_sup(quedan, n) / max(sens, 0.01)
-    estado = "APROBADO" if sup < UMBRAL and sens >= 0.8 else "REVISAR"
+    estado = "APROBADO" if sup < UMBRAL and sens >= 0.8 and not sin_juzgar else "REVISAR"
+    if sin_juzgar:
+        estado += f" (sin juzgar {sin_juzgar})"
     return (f"libro {libro}: {n} notas; sensibilidad {det}/{tot} = {sens:.0%}; pendientes {quedan}; "
             f"extremo superior ajustado {sup:.2%} -> {estado}")
 
@@ -141,9 +150,10 @@ def capitulo(libro, c, us, rnd):
         sembrados = [(f"mut:{n['id']}", T.texto_a_traducir(n), m) for n in muestra
                      for m, _ in [sembrar(tr[n["id"]]["text_es"], rnd)] if m]
         v = juzgar(sembrados, [modelo_censo])
-        cal = {"detect": sum(1 for i, *_ in sembrados if i in v and not v[i][0]), "total": len(sembrados),
-               "modelo": modelo_censo}
-        cache["_calibracion"] = cal
+        cal = {"detect": sum(1 for i, *_ in sembrados if i in v and not v[i][0]),
+               "total": sum(1 for i, *_ in sembrados if i in v), "modelo": modelo_censo}
+        if cal["total"]:                               # sin veredictos no hay calibración que guardar
+            cache["_calibracion"] = cal
     detect, total = cal["detect"], cal["total"]
     sens = detect / total if total else 0
     quedan = [n["id"] for n in ns if not cache.get(n["id"], {}).get("ok", True)]
@@ -153,8 +163,11 @@ def capitulo(libro, c, us, rnd):
     C.guardar(f"informes/cola_{libro}_{c:02d}.json",
               [{"id": i, "motivo": cache[i]["motivo"], "en": next(par(n)[1] for n in ns if n["id"] == i),
                 "es": tr[i]["text_es"]} for i in quedan])
-    estado = "APROBADO" if sup < UMBRAL and sens >= 0.8 else "REVISAR"
-    print(f"cap.{c}: juez {modelo_censo}; sensibilidad {detect}/{total} = {sens:.0%}; marcadas {len(malos)}, "
+    sin_juzgar = sum(1 for n in ns if not vigente(n["id"]))
+    estado = "APROBADO" if sup < UMBRAL and sens >= 0.8 and not sin_juzgar else "REVISAR"
+    if sin_juzgar:
+        estado += f" (sin juzgar {sin_juzgar})"
+    print(f"cap.{c}: {len(ns)} notas; juez {modelo_censo}; sensibilidad {detect}/{total} = {sens:.0%}; marcadas {len(malos)}, "
           f"quedan {len(quedan)}; extremo superior ajustado {sup:.1%} -> {estado}", flush=True)
 
 if __name__ == "__main__":

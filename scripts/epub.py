@@ -159,7 +159,7 @@ def capitulo_xhtml(libro, c, rv, ns, tr):
     por = {}
     for n in ns:
         t = dict(tr.get(n["id"], {}))
-        t.update(C.adjudicacion(n["id"], libro))
+        t.update(C.adjudicacion(n["id"], libro, t.get("text_es")))
         if not t.get("text_es"):
             continue
         ancla = n["ref"]

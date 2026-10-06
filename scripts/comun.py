@@ -53,13 +53,23 @@ def unidades(libro="JHN"):
 _ADJ = {}
 
 
-def adjudicacion(i, libro="JHN"):
-    """Correcciones decididas por Claude leyendo el original (revision/adjudicaciones_<LIBRO>.json):
-    {id: {"text_es": ..., "motivo": ..., "evidencia": <frase inglesa>}}. Pisan la traducción del modelo."""
+def adjudicacion(i, libro, texto=None):
+    """Correcciones decididas por Claude leyendo el original (revision/adjudicaciones_<LIBRO>.json), con evidencia:
+    {id: {"text_es": ...} | {"reemplazos": [[mal, bien], ...]}, "motivo": ..., "evidencia": <frase inglesa>}.
+    «text_es» pisa la traducción; «reemplazos» se aplican sobre el texto actual (sobreviven a una retraducción).
+    Si un reemplazo ya no encuentra su texto, devuelve «adjudicacion_pendiente» para que verificar.py lo marque."""
     if libro not in _ADJ:
         _ADJ[libro] = cargar(f"revision/adjudicaciones_{libro}.json", {})
     a = _ADJ[libro].get(i)
-    return {"text_es": a["text_es"]} if a else {}
+    if not a:
+        return {}
+    if "text_es" in a:
+        return {"text_es": a["text_es"]}
+    texto = texto or ""
+    faltan = [mal for mal, _ in a.get("reemplazos", []) if mal not in texto]
+    for mal, bien in a.get("reemplazos", []):
+        texto = texto.replace(mal, bien)
+    return {"text_es": texto, **({"adjudicacion_pendiente": faltan} if faltan else {})}
 
 
 def es_sensible(n):
@@ -112,6 +122,7 @@ def llamar(prompt, cadena, temperatura=0.2, intentos=3):
     errores = {}
     vivos = [m for m in cadena if m not in _CAIDOS] or list(cadena)
     for modelo in vivos:
+        acceso = False                                   # el último error fue de acceso o cupo (no de formato)
         for k in range(intentos):
             try:
                 if modelo.startswith("deepseek:"):
@@ -122,17 +133,33 @@ def llamar(prompt, cadena, temperatura=0.2, intentos=3):
                     if not os.getenv("GEMINI_API_KEY"):
                         break
                     txt = _gemini(prompt, modelo, temperatura)
-                m = re.search(r"\{.*\}", txt, re.S)
-                return json.loads(m.group(0)), modelo
-            except Exception as e:  # noqa: BLE001 -- se reintenta y se pasa al siguiente modelo
+                return _json(txt), modelo
+            except requests.HTTPError as e:
                 errores[modelo] = _sin_claves(str(e))[:200]
-                if re.search(r"\b40[0134]\b", str(e)):          # modelo inexistente o sin permiso: no se reintenta
+                codigo = e.response.status_code if e.response is not None else 0
+                acceso = codigo in (400, 401, 403, 404, 429)
+                if codigo in (400, 401, 403, 404):       # modelo inexistente o sin permiso: no se reintenta
                     break
-                time.sleep(15 * (k + 1) if "429" in str(e) or "503" in str(e) else 4 * (k + 1))
-        # agotó sus intentos: no se vuelve a probar en esta corrida (03-10-2026: con la clave nueva
-        # gemini-3.6-flash daba error en cada pedido y sus reintentos triplicaban el tiempo del juez)
-        _CAIDOS.add(modelo)
+                time.sleep(15 * (k + 1) if codigo in (429, 503) else 4 * (k + 1))
+            except Exception as e:  # noqa: BLE001 -- red o JSON mal formado: se reintenta
+                errores[modelo] = _sin_claves(str(e))[:200]
+                acceso = False
+                time.sleep(4 * (k + 1))
+        # solo un modelo sin acceso o sin cupo queda fuera del resto de la corrida (03-10-2026). Un JSON mal
+        # formado NO lo descarta: el 06-10-2026 un solo lote mal formado de DeepSeek cortó la traducción de Hebreos
+        # en el cap. 8 porque el modelo había quedado «caído» para todos los lotes siguientes.
+        if acceso:
+            _CAIDOS.add(modelo)
     raise RuntimeError(f"ningún modelo respondió: {errores}")
+
+
+def _json(txt):
+    """Objeto JSON de la respuesta: sin cercas de código; si no hay objeto, error (se reintenta)."""
+    txt = re.sub(r"^```(?:json)?|```$", "", (txt or "").strip(), flags=re.M)
+    m = re.search(r"\{.*\}", txt, re.S)
+    if not m:
+        raise ValueError("respuesta sin objeto JSON")
+    return json.loads(m.group(0))
 
 
 _CAIDOS = set()

@@ -31,8 +31,9 @@ CRISTO_EN = re.compile(r"\b(?:God the Word|(?:is|was) the Word\b|uttered the Wor
 PALABRA_MAY = re.compile(r"(?<![.!?¿¡«\"(\n]) (?:\w+ )?Palabra\b")
 # remisiones que no son libros: «Véase 8:48» (mismo libro), «Infra 17:24», «Ep. 112:100» (cartas de Agustín)
 NO_LIBRO = {"Véase", "Vea", "Ver", "Cf", "Comp", "Infra", "Supra", "Ep", "Epist", "Serm", "Hom", "Tract", "Tr", "Cap", "Cp", "Ibid", "Lib", "Mor", "Aug"}
+INGLES_CURSIVA = INGLES | {"his", "he", "him", "you", "your", "will", "for", "all", "one", "who", "with", "our", "we", "to", "out"}
 ARCAICO = re.compile(r"\b(?:saith|hath|thou|thee|thy|doth|dost|art|ye)\b")
-COMENTARIO = re.compile(r"(?i)\b(?:nota del traductor|traducción:|aquí est[aá] la traducción|here is|translator'?s note)\b|\[ES\]")
+COMENTARIO = re.compile(r"(?i:\b(?:nota del traductor|traducción:|aquí est[aá] la traducción|here is|translator'?s note)\b)|\[ES\] ")
 
 
 def numeros(t):
@@ -51,11 +52,17 @@ def oraciones(x):
 
 def revisar(n, t, rv):
     t = dict(t or {})
-    t.update(C.adjudicacion(n["id"]))
+    t.update(C.adjudicacion(n["id"], n["ref"].split(".")[0], t.get("text_es")))
     fallos = []
     src, es = T.texto_a_traducir(n), (t or {}).get("text_es") or ""
     if not es:
         return ["1 sin traducir"]
+    if t.get("adjudicacion_pendiente"):
+        fallos.append(f"+ adjudicación de Claude que ya no se aplica (la nota cambió): {t['adjudicacion_pendiente']}")
+    for frag in re.findall(r"⸢([^⸣]+)⸣", es):            # lema o frase en cursiva que quedó en inglés
+        pal = re.findall(r"[a-z]+", frag.lower())
+        if len(pal) >= 2 and frag in src and any(w in INGLES_CURSIVA for w in pal):
+            fallos.append(f"5 cursiva sin traducir: «{frag}»")
     if numeros(src) != numeros(es):
         dif = (numeros(src) - numeros(es)) + (numeros(es) - numeros(src))
         fallos.append(f"2 números distintos: {dict(dif)}")

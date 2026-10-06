@@ -76,7 +76,17 @@ def lotes(ns):
 
 
 def traducir_lote(lote, cadena):
-    r, modelo = C.llamar(prompt(lote), cadena)
+    try:
+        r, modelo = C.llamar(prompt(lote), cadena)
+    except RuntimeError as e:                          # un lote fallido no detiene el capítulo: de a una, y lo que
+        if len(lote) == 1:                             # siga fallando queda pendiente para la próxima corrida
+            print(f"  sin traducir {lote[0]['id']}: {str(e)[:160]}", flush=True)
+            return {}, None
+        salida, modelo = {}, None
+        for n in lote:
+            s, m = traducir_lote([n], cadena)
+            salida.update(s); modelo = modelo or m
+        return salida, modelo
     salida = {x["id"]: x for x in r.get("notas", []) if isinstance(x, dict) and "id" in x}
     faltan = [n for n in lote if n["id"] not in salida or not (salida[n["id"]].get("texto") or "").strip()]
     if faltan and len(lote) > 1:                       # se reintenta de a una (nunca se fusionan ni dividen)
