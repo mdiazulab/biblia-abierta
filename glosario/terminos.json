@@ -178,6 +178,14 @@
   {
    "en": "\\bAaron\\b",
    "es": "Aarón"
+  },
+  {
+   "en": "\\bPopery\\b|\\bPapists?\\b",
+   "es": "papismo / papistas (término polémico del siglo XVI; se traduce tal cual)"
+  },
+  {
+   "en": "\\bthe Apostle\\b",
+   "es": "el Apóstol"
   }
  ],
  "reglas": [

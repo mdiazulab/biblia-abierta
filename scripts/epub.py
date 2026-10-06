@@ -74,10 +74,10 @@ def md_xhtml(md):
 
 
 def padres_xhtml(usados):
-    claves = sorted({n["source"]["author"] for n in usados if n["layer"] == "padres"} |
+    claves = sorted({n["source"]["author"] for n in usados if n["layer"] in ("padres", "reforma")} |
                     ({"Catena Aurea"} if any(n["source"]["work"].startswith("Catena") for n in usados) else set()),
                     key=lambda a: re.sub(r"^(San|Santa|El) ", "", AUTORES.get(a, a)))
-    cuerpo = ["<h1>Los Padres en su contexto</h1>",
+    cuerpo = ["<h1>Los autores en su contexto</h1>",
               "<p>Cada Padre escribió en una época, un lugar y una situación concretas: controversias, predicación, "
               "persecución, la escuela en que se formó y el texto bíblico que leía. Estas fichas, redactadas para esta "
               "edición, ayudan a leer sus notas en ese contexto y a distinguir su aplicación de la intención del autor "
@@ -98,7 +98,7 @@ h2 { font-size: 1.15em; font-weight: bold; margin: 1.4em 0 0.6em; }
 p { margin: 0 0 0.35em; text-indent: 0; text-align: justify; }
 .v sup.n { font-size: 0.65em; color: #8a1c1c; font-weight: bold; margin-right: 0.15em; }
 a.ll { text-decoration: none; font-size: 0.7em; vertical-align: super; line-height: 0; font-family: sans-serif; }
-a.ll.c { color: #1f5a8a; } a.ll.p { color: #7a4b00; }
+a.ll.c { color: #1f5a8a; } a.ll.p { color: #7a4b00; } a.ll.r { color: #2e6b2e; }
 section.notas { margin-top: 2.5em; font-size: 0.9em; border-top: 1px solid #999; }
 aside { margin: 1em 0; }
 aside h3 { font-size: 0.95em; font-weight: bold; margin: 0.8em 0 0.3em; }
@@ -130,7 +130,7 @@ def inline(t):
 
 # títulos españoles por prefijo del título inglés de HCF; el resto («Book 4, Chapter XI») se traduce aparte
 TITULOS = {
-    "Homily on Hebrews": "Homilías sobre la Epístola a los Hebreos", "Homily on the Gospel of John": "Homilías sobre el Evangelio de Juan",
+    "Homily on Hebrews": "Homilías sobre la Epístola a los Hebreos", "Commentary on Hebrews": "Comentario a la Epístola a los Hebreos", "Homily on the Gospel of John": "Homilías sobre el Evangelio de Juan",
     "Tractates on John": "Tratados sobre el Evangelio de Juan", "Commentary on the Gospel of John": "Comentario al Evangelio de Juan",
     "The Christian Topography": "Topografía cristiana", "The Stromata": "Stromata", "An Answer to the Jews": "Respuesta a los judíos",
     "City of God": "La ciudad de Dios", "Confessions": "Confesiones", "Shepherd of Hermas, Vision": "El Pastor, Visión",
@@ -186,7 +186,7 @@ def obra_es(w):
 def atribucion(n):
     s = n["source"]
     autor = AUTORES.get(s["author"], s["author"])
-    trad = "Oriente" if n["tradition"] == "oriente" else "Occidente"
+    trad = {"oriente": "Oriente", "reforma": "Reforma"}.get(n["tradition"], "Occidente")
     if s["author"] in FICHAS:
         trad += ", " + FICHAS[s["author"]]["fechas"]
     if s["work"].startswith("Catena"):
@@ -267,13 +267,13 @@ def capitulo_xhtml(libro, c, rv, ns, tr):
         anclas = t.get("lemas_rv1909") or []
         if anclas and anclas[0].get("ref"):
             ancla = anclas[0]["ref"]
-        capa = "c" if n["layer"] == "contexto" else "p"
+        capa = {"contexto": "c", "reforma": "r"}.get(n["layer"], "p")
         por.setdefault((ancla, capa), []).append((n, t))
     cuerpo, notas = [], []
     for ref in [r for r in rv if C.cap(r) == c]:
         v = C.ver(ref)
         llamadas = ""
-        for capa, letra in (("c", "C"), ("p", "P")):
+        for capa, letra in (("c", "C"), ("p", "P"), ("r", "R")):
             if (ref, capa) in por:
                 nid = f"n{c}-{v}-{capa}"
                 llamadas += f' <a class="ll {capa}" epub:type="noteref" href="#{nid}" id="r{nid}">{letra}</a>'
@@ -288,7 +288,7 @@ def capitulo_xhtml(libro, c, rv, ns, tr):
                     else:
                         quien, fuente = atribucion(n)
                         bloques.append(f"<p>{quien}: {inline(t['text_es'])}</p>{fuente}")
-                titulo = ("Contexto" if capa == "c" else "Padres de la Iglesia") + f" — {LIBRO_ES[libro]} {c}:{v}"
+                titulo = {"c": "Contexto", "p": "Padres de la Iglesia", "r": "Reforma"}[capa] + f" — {LIBRO_ES[libro]} {c}:{v}"
                 notas.append(f'<aside epub:type="footnote" id="{nid}"><h3><a href="#r{nid}">{x(titulo)}</a></h3>'
                              + "".join(bloques) + "</aside>")
         texto = x(rv[ref]["texto"]).replace("⸢", "<em>").replace("⸣", "</em>")
@@ -307,30 +307,37 @@ def xhtml(titulo, cuerpo):
 def paginas_previas(libro, us, tr_total):
     usados = [n for n in us if n["id"] in tr_total]
     autores = sorted({AUTORES.get(n["source"]["author"], n["source"]["author"]) for n in usados if n["layer"] == "padres"})
-    ediciones = sorted({n["source"]["edition"] for n in usados if n["layer"] == "padres" and n["source"].get("edition")})
+    reforma = sorted({AUTORES.get(n["source"]["author"], n["source"]["author"]) for n in usados if n["layer"] == "reforma"})
+    ediciones = sorted({n["source"]["edition"] for n in usados if n["layer"] in ("padres", "reforma") and n["source"].get("edition")})
     portada = (f'<div class="portada"><h1>{LIBRO_ES[libro]}</h1><p style="text-align:center">Reina-Valera 1909</p>'
-               '<p style="text-align:center">Biblia de Estudio Abierta — notas de contexto y de los Padres de la Iglesia</p>'
+               '<p style="text-align:center">Biblia de Estudio Abierta — notas de contexto, de los Padres de la Iglesia'
+               + (' y de la Reforma' if reforma else '') + '</p>'
                '<p style="text-align:center">Edición piloto</p></div>')
     fuentes = ("<h1>Fuentes y cómo leer las notas</h1>"
                "<p>Cada versículo lleva llamadas por capa: <strong>C</strong> (contexto histórico y literario) y "
-               "<strong>P</strong> (Padres de la Iglesia). En cada cita patrística se indica la tradición (Oriente u "
+               "<strong>P</strong> (Padres de la Iglesia) y, donde la hay, <strong>R</strong> (Reforma: el comentario de "
+               "Juan Calvino). En cada cita patrística se indica la tradición (Oriente u "
                "Occidente), la obra, el pasaje y la edición inglesa de dominio público desde la que se tradujo. "
-               "El nombre de cada Padre lleva a su ficha en «Los Padres en su contexto» (fechas, lugar y situación "
+               "El nombre de cada autor lleva a su ficha en «Los autores en su contexto» (fechas, lugar y situación "
                "en que escribió).</p>"
                "<p>Texto bíblico: Reina-Valera 1909 (dominio público), con las tildes de monosílabos actualizadas "
                "(«fue», «a», «dio»); ninguna palabra cambiada. Las palabras en cursiva del texto bíblico son las que los "
                "traductores de 1909 añadieron para el sentido.</p>"
                f"<h2>Padres citados</h2><p>{x(', '.join(autores))}.</p>"
-               "<h2>Ediciones de las traducciones</h2>" + "".join(f"<p>{x(e)}</p>" for e in ediciones))
+               + (f"<h2>Reforma</h2><p>{x(', '.join(reforma))}.</p>" if reforma else "")
+               + "<h2>Ediciones de las traducciones</h2>" + "".join(f"<p>{x(e)}</p>" for e in ediciones))
     licencias = ("<h1>Atribuciones y licencias</h1>"
                  "<p>Notas de contexto adaptadas de <em>Aquifer Open Study Notes</em> © Mission Mutual, adaptación de "
                  "<em>Tyndale Open Study Notes</em> © 2023 Tyndale House Publishers, CC BY-SA 4.0. Traducido y modificado.</p>"
                  "<p>Citas patrísticas: compilación de Historical Christian Faith (dominio público) sobre traducciones "
                  "inglesas de dominio público; la Catena Aurea en la traducción de J. H. Newman (Oxford, 1841-45).</p>"
+                 + ("<p>Capa «Reforma»: Juan Calvino, <em>Comentario a la Epístola a los Hebreos</em> (1549), en la "
+                    "traducción inglesa de J. Owen (Calvin Translation Society, Edimburgo, 1853), de dominio público, según el "
+                    "texto de la Christian Classics Ethereal Library.</p>" if reforma else "") +
                  "<p>Esta edición (traducción al español, notas y maquetación) se publica bajo licencia Creative Commons "
                  "Atribución-CompartirIgual 4.0 Internacional (https://creativecommons.org/licenses/by-sa/4.0/). "
                  "Es gratuita y puede copiarse, adaptarse y redistribuirse con la misma licencia.</p>"
-                 "<p>La introducción y las fichas «Los Padres en su contexto» fueron redactadas para esta edición "
+                 "<p>La introducción y las fichas «Los autores en su contexto» fueron redactadas para esta edición "
                  "(misma licencia).</p>")
     return portada, fuentes, licencias
 
@@ -361,7 +368,7 @@ def main():
         previas["introduccion.xhtml"] = xhtml("Introducción", md_xhtml(intro.read_text()))
     previas["fuentes.xhtml"] = xhtml("Fuentes", fuentes)
     usados = [n for n in us if n["id"] in tr_total]
-    archivos = {**previas, **archivos, "padres.xhtml": xhtml("Los Padres en su contexto", padres_xhtml(usados)),
+    archivos = {**previas, **archivos, "padres.xhtml": xhtml("Los autores en su contexto", padres_xhtml(usados)),
                 "licencias.xhtml": xhtml("Licencias", licencias)}
     items = "".join(f'<li><a href="c{c:02d}.xhtml">{LIBRO_ES[libro]} {c}</a></li>' for c in caps)
     li_intro = ('<li><a href="introduccion.xhtml">Introducción: la carta en su contexto</a></li>'
@@ -369,7 +376,7 @@ def main():
     nav = xhtml("Índice", f'<nav epub:type="toc" id="toc"><h1>Índice</h1><ol>{li_intro}'
                 '<li><a href="fuentes.xhtml">Fuentes y cómo leer las notas</a></li>'
                 f'<li><a href="c{caps[0]:02d}.xhtml">{x(LIBROS[libro]["titulo"])}</a><ol>{items}</ol></li>'
-                '<li><a href="padres.xhtml">Los Padres en su contexto</a></li>'
+                '<li><a href="padres.xhtml">Los autores en su contexto</a></li>'
                 '<li><a href="licencias.xhtml">Atribuciones y licencias</a></li></ol></nav>')
     ident = f"urn:uuid:{uuid.uuid5(uuid.NAMESPACE_URL, 'biblia-abierta/' + libro)}"
     hoy = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")

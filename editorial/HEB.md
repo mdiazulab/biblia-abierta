@@ -66,7 +66,16 @@ Los Padres que comentan Hebreos también escriben desde una época y una situaci
 - **El canon de su Iglesia.** En el Occidente anterior al siglo IV, Hebreos no se leía como Escritura. Por eso muchas citas latinas antiguas son paralelos de tema que los compiladores asociaron al versículo, no comentarios de la carta.
 - **El texto que leían.** Los griegos leían el original. Los latinos, una traducción antigua (la Vetus Latina y luego la Vulgata), con diferencias que a veces explican una interpretación.
 
-La ficha de cada autor («Los Padres en su contexto», al final del libro) resume estos datos. El nombre de cada Padre en las notas lleva a su ficha.
+## Calvino: la lectura de la Reforma
+
+Las notas marcadas **R** son el comentario completo de Juan Calvino a Hebreos (1549), en la traducción inglesa de John Owen (1853). Calvino es un contrapeso natural de Crisóstomo: los dos buscan el sentido llano y la intención del autor, los dos leen el griego, y Calvino conoce a Crisóstomo y lo cita a menudo, a veces para seguirlo y a veces para corregirlo. Leerlos juntos muestra dónde coinciden la exégesis antioquena y la de la Reforma (que son muchas más veces de lo que se suele pensar) y dónde se separan.
+
+Calvino también escribe desde su contexto:
+- **La controversia con Roma.** Cuando habla del sacrificio único (7:27; 9:12; 10:10-14), del sacerdocio de Cristo o de la misa, polemiza con la teología y la práctica católicas del siglo XVI. El lenguaje duro («papismo», «papistas») es de esa polémica y se traduce tal cual.
+- **El humanismo.** Comenta desde el griego y el latín, discute variantes de lectura y prefiere la explicación gramatical a la alegórica.
+- **El autor de la carta.** No cree que la haya escrito Pablo, por el estilo y por *Hebreos* 2:3, pero la recibe sin dudar como Escritura apostólica. Su «Argumento» de la epístola, al comienzo del capítulo 1, explica por qué.
+
+La ficha de cada autor («Los autores en su contexto», al final del libro) resume estos datos. El nombre de cada Padre, y el de Calvino, lleva en las notas a su ficha.
 
 ## Textos que las tradiciones leen de manera distinta
 

@@ -84,7 +84,7 @@ def revisar(n, t, rv):
     # las traducciones inglesas del s. XIX (NPNF, Newman, Pusey: «saith», «thou hast») son más largas: mediana 0,97 y p5 0,88 en Juan,
     # 26 pares entre 0,79 y 0,89 leídos completos el 02-10-2026 -> mínimo 0,78; la omisión la mide el conteo de oraciones
     r = len(es) / max(1, len(src))
-    minimo = 0.78 if n["layer"] == "padres" or ARCAICO.search(src) else 0.9
+    minimo = 0.78 if n["layer"] in ("padres", "reforma") or ARCAICO.search(src) else 0.9
     if len(src) > 300 and not minimo <= r <= 1.5:
         fallos.append(f"6 razón de longitud {r:.2f}")
     o_en, o_es = (oraciones(x) for x in (src, es))
@@ -92,7 +92,7 @@ def revisar(n, t, rv):
         fallos.append(f"6 posible omisión: {o_en} oraciones -> {o_es}")
     if not n.get("license") or not n.get("provenance"):
         fallos.append("7 sin licencia o procedencia")
-    if n["layer"] == "padres" and not (n["source"].get("work") and (n["source"].get("passage") or n["source"].get("work"))):
+    if n["layer"] in ("padres", "reforma") and not (n["source"].get("work") and (n["source"].get("passage") or n["source"].get("work"))):
         fallos.append("7 cita patrística sin obra/pasaje")
     for a in (t or {}).get("lemas_rv1909", []):
         if a["lema"] and a["lema"] not in rv.get(a["ref"], {}).get("texto", ""):
