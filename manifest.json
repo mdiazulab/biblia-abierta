@@ -37,6 +37,15 @@
    ],
    "licencia": "CC-BY-SA-4.0 (unfoldingWord® Translation Notes © 2022 unfoldingWord; edición Aquifer, release v91)",
    "capa": "griego"
+  },
+  "uwtm": {
+   "repo": "https://github.com/BibleAquifer/UWTranslationManual",
+   "sha": "0c7b8e5fa4026c769c30c98ce995bfcd12d0a41a",
+   "rutas": [
+    "/eng/json/001.content.json"
+   ],
+   "licencia": "CC-BY-SA-4.0 (unfoldingWord® Translation Academy © 2022 unfoldingWord; edición Aquifer)",
+   "capa": "griego (glosario del volumen complementario)"
   }
  },
  "excluidas": {

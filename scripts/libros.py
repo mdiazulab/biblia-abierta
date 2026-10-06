@@ -16,6 +16,7 @@ LIBROS = {
             "base": [("John Chrysostom", "Homily on Hebrews")], "oriente": [], "occidente": [], "libre": (2, 4),
             "reforma": True,          # Calvino, comentario completo (capa R)
             "griego": True,           # unfoldingWord® Translation Notes filtradas (capa G)
+            "griego_completo": True,  # todas, con lo dirigido a traductores: volumen complementario (epub_griego.py)
             "sensibles": ["1.3", "1.8", "2.10", "4.15", "5.7", "5.8", "5.9", "6.4", "6.5", "6.6", "7.25", "7.28",
                           "9.14", "9.24", "10.10", "10.14", "10.26", "10.27", "10.28", "10.29", "11.39", "11.40",
                           "12.1", "12.22", "12.23", "12.24", "13.10"]},

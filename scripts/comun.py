@@ -47,7 +47,8 @@ def unidades(libro="JHN"):
     """Notas seleccionadas (normalizado/<libro>/seleccion.json) con su contenido."""
     sel = set(cargar(f"normalizado/{libro}/seleccion.json", []))
     todas = (cargar(f"normalizado/{libro}/aquifer.json", []) + cargar(f"normalizado/{libro}/padres.json", [])
-             + cargar(f"normalizado/{libro}/reforma.json", []) + cargar(f"normalizado/{libro}/griego.json", []))
+             + cargar(f"normalizado/{libro}/reforma.json", []) + cargar(f"normalizado/{libro}/griego.json", [])
+             + cargar(f"normalizado/{libro}/griego_completo.json", []))
     return [n for n in todas if n["id"] in sel]
 
 

@@ -67,6 +67,8 @@ def revisar(n, t, rv):
     if numeros(src) != numeros(es):
         dif = (numeros(src) - numeros(es)) + (numeros(es) - numeros(src))
         fallos.append(f"2 números distintos: {dict(dif)}")
+    if n["layer"] in ("griego_intro", "glosario_g") and src.count("\n\n") != es.count("\n\n"):   # títulos y viñetas
+        fallos.append(f"3 párrafos {src.count(chr(10) * 2) + 1} -> {es.count(chr(10) * 2) + 1}")
     if abs(src.count("⸢") - es.count("⸢")) > 1:
         fallos.append(f"3 cursivas {src.count('⸢')} -> {es.count('⸢')}")
     for term in C.glosario_para(src):

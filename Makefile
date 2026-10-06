@@ -10,6 +10,7 @@ normalizar: ingesta
 	python3 scripts/aquifer.py $(LIBRO)
 	python3 scripts/hcf.py $(LIBRO)
 	python3 scripts/griego.py $(LIBRO)
+	python3 scripts/griego_completo.py $(LIBRO)
 
 CAP ?= 1
 

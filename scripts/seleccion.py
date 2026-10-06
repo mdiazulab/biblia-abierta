@@ -61,6 +61,8 @@ def main():
         sel += [n["id"] for n in C.cargar(f"normalizado/{libro}/reforma.json", [])]
     if L.get("griego"):                                 # capa «Griego»: todas las notas que pasaron el filtro de griego.py
         sel += [n["id"] for n in C.cargar(f"normalizado/{libro}/griego.json", [])]
+    if L.get("griego_completo"):                        # volumen complementario «El texto griego explicado»
+        sel += [n["id"] for n in C.cargar(f"normalizado/{libro}/griego_completo.json", [])]
     sel = list(dict.fromkeys(sel))
     C.guardar(f"normalizado/{libro}/seleccion.json", sel)
     us = C.unidades(libro)

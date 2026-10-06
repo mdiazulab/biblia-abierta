@@ -260,6 +260,8 @@ def griego_cab(n, t):
     ancló la glosa (o la glosa traducida si no se ancló)."""
     lemas = [a["lema"] for a in t.get("lemas_rv1909", []) if a.get("lema")] or [l for l in t.get("lemas_es") or [] if l]
     lema = f' <span class="lema">({x("; ".join(lemas))})</span>' if lemas else ""
+    if not n.get("griego"):                         # nota sobre el versículo entero
+        return f'<span class="lema">v. {C.ver(n["ref"])}:</span> '
     return f'<span class="grc" lang="grc" xml:lang="grc">{x(n["griego"])}</span>{lema}: '
 
 
@@ -276,7 +278,9 @@ def capitulo_xhtml(libro, c, rv, ns, tr):
         anclas = t.get("lemas_rv1909") or []
         if anclas and anclas[0].get("ref"):
             ancla = anclas[0]["ref"]
-        capa = {"contexto": "c", "reforma": "r", "griego": "g"}.get(n["layer"], "p")
+        capa = {"contexto": "c", "griego": "g", "padres": "p", "reforma": "r"}.get(n["layer"])
+        if not capa:                                    # volumen complementario (epub_griego.py)
+            continue
         por.setdefault((ancla, capa), []).append((n, t))
     cuerpo, notas = [], []
     for ref in [r for r in rv if C.cap(r) == c]:

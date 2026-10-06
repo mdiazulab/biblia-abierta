@@ -11254,6 +11254,38 @@
   }
  },
  {
+  "id": "uwtn:259227",
+  "ref": "HEB.11.5",
+  "ref_fin": "HEB.11.5",
+  "orden": 1,
+  "layer": "griego",
+  "tradition": "griego",
+  "griego": null,
+  "lemma_src": [],
+  "lemma_rv1909": [],
+  "text_src": "The author refers to a story about a man named ⸢Enoch⸣. Because he pleased God, God did not let him die but instead took him to heaven.",
+  "text_es": null,
+  "categoria": null,
+  "source": {
+   "work": "unfoldingWord® Translation Notes",
+   "author": null,
+   "passage": "Hebrews 11:5 (#1)",
+   "url": "https://github.com/BibleAquifer/UWTranslationNotes/blob/13134fc6803be7c8e395ae94af258c8fb5cc6e11/eng/json/58.content.json"
+  },
+  "license": "CC-BY-SA-4.0",
+  "provenance": {
+   "repo": "BibleAquifer/UWTranslationNotes",
+   "sha": "13134fc6803be7c8e395ae94af258c8fb5cc6e11",
+   "content_id": "259227",
+   "version": "1.0.4"
+  },
+  "translation": null,
+  "review": {
+   "human": false,
+   "status": "pendiente"
+  }
+ },
+ {
   "id": "uwtn:259238",
   "ref": "HEB.11.6",
   "ref_fin": "HEB.11.6",
@@ -11322,6 +11354,38 @@
   }
  },
  {
+  "id": "uwtn:259243",
+  "ref": "HEB.11.7",
+  "ref_fin": "HEB.11.7",
+  "orden": 1,
+  "layer": "griego",
+  "tradition": "griego",
+  "griego": null,
+  "lemma_src": [],
+  "lemma_rv1909": [],
+  "text_src": "The author refers to a story about a man named ⸢Noah⸣. When God decided to punish humans for their sins by flooding the earth, he warned Noah about it. Noah built a boat called an “ark” and survived the flood with his family.",
+  "text_es": null,
+  "categoria": null,
+  "source": {
+   "work": "unfoldingWord® Translation Notes",
+   "author": null,
+   "passage": "Hebrews 11:7 (#1)",
+   "url": "https://github.com/BibleAquifer/UWTranslationNotes/blob/13134fc6803be7c8e395ae94af258c8fb5cc6e11/eng/json/58.content.json"
+  },
+  "license": "CC-BY-SA-4.0",
+  "provenance": {
+   "repo": "BibleAquifer/UWTranslationNotes",
+   "sha": "13134fc6803be7c8e395ae94af258c8fb5cc6e11",
+   "content_id": "259243",
+   "version": "1.0.4"
+  },
+  "translation": null,
+  "review": {
+   "human": false,
+   "status": "pendiente"
+  }
+ },
+ {
   "id": "uwtn:259246",
   "ref": "HEB.11.7",
   "ref_fin": "HEB.11.7",
@@ -11381,6 +11445,38 @@
    "repo": "BibleAquifer/UWTranslationNotes",
    "sha": "13134fc6803be7c8e395ae94af258c8fb5cc6e11",
    "content_id": "259248",
+   "version": "1.0.4"
+  },
+  "translation": null,
+  "review": {
+   "human": false,
+   "status": "pendiente"
+  }
+ },
+ {
+  "id": "uwtn:259252",
+  "ref": "HEB.11.8",
+  "ref_fin": "HEB.11.8",
+  "orden": 1,
+  "layer": "griego",
+  "tradition": "griego",
+  "griego": null,
+  "lemma_src": [],
+  "lemma_rv1909": [],
+  "text_src": "In 11:8–12, the author refers to a story about a man named ⸢Abraham⸣ and his wife “Sarah.” God appeared to Abraham and told him to travel to a different country, a country that God promised to give to him. God also promised to give a child and grandchildren to Abraham and Sarah, even though they were old. Although they had to wait a long time, God did what he promised to do, and Abraham’s descendants were the Israelites.",
+  "text_es": null,
+  "categoria": null,
+  "source": {
+   "work": "unfoldingWord® Translation Notes",
+   "author": null,
+   "passage": "Hebrews 11:8 (#1)",
+   "url": "https://github.com/BibleAquifer/UWTranslationNotes/blob/13134fc6803be7c8e395ae94af258c8fb5cc6e11/eng/json/58.content.json"
+  },
+  "license": "CC-BY-SA-4.0",
+  "provenance": {
+   "repo": "BibleAquifer/UWTranslationNotes",
+   "sha": "13134fc6803be7c8e395ae94af258c8fb5cc6e11",
+   "content_id": "259252",
    "version": "1.0.4"
   },
   "translation": null,
@@ -11798,6 +11894,38 @@
   }
  },
  {
+  "id": "uwtn:259299",
+  "ref": "HEB.11.17",
+  "ref_fin": "HEB.11.17",
+  "orden": 1,
+  "layer": "griego",
+  "tradition": "griego",
+  "griego": null,
+  "lemma_src": [],
+  "lemma_rv1909": [],
+  "text_src": "In 11:17–19, the author refers to a specific story about ⸢Abraham⸣. God told Abraham to sacrifice his son ⸢Isaac⸣. Abraham began to obey God and was about to kill his son when God sent an angel to stop him and tell him that he had proved that he feared God. Abraham then sacrificed an animal instead of sacrificing Isaac.",
+  "text_es": null,
+  "categoria": null,
+  "source": {
+   "work": "unfoldingWord® Translation Notes",
+   "author": null,
+   "passage": "Hebrews 11:17 (#1)",
+   "url": "https://github.com/BibleAquifer/UWTranslationNotes/blob/13134fc6803be7c8e395ae94af258c8fb5cc6e11/eng/json/58.content.json"
+  },
+  "license": "CC-BY-SA-4.0",
+  "provenance": {
+   "repo": "BibleAquifer/UWTranslationNotes",
+   "sha": "13134fc6803be7c8e395ae94af258c8fb5cc6e11",
+   "content_id": "259299",
+   "version": "1.0.4"
+  },
+  "translation": null,
+  "review": {
+   "human": false,
+   "status": "pendiente"
+  }
+ },
+ {
   "id": "uwtn:259302",
   "ref": "HEB.11.17",
   "ref_fin": "HEB.11.17",
@@ -11900,6 +12028,38 @@
   }
  },
  {
+  "id": "uwtn:259318",
+  "ref": "HEB.11.20",
+  "ref_fin": "HEB.11.20",
+  "orden": 1,
+  "layer": "griego",
+  "tradition": "griego",
+  "griego": null,
+  "lemma_src": [],
+  "lemma_rv1909": [],
+  "text_src": "The author refers to a story about how ⸢Isaac⸣ blessed his twin sons ⸢Jacob⸣ and ⸢Esau⸣. In the story, Jacob pretends to be Esau and receives the blessing that Isaac intended for Esau. When Esau comes to receive his blessing, Isaac realizes that Jacob stole the blessing from Esau. He then gives Esau a different blessing.",
+  "text_es": null,
+  "categoria": null,
+  "source": {
+   "work": "unfoldingWord® Translation Notes",
+   "author": null,
+   "passage": "Hebrews 11:20 (#1)",
+   "url": "https://github.com/BibleAquifer/UWTranslationNotes/blob/13134fc6803be7c8e395ae94af258c8fb5cc6e11/eng/json/58.content.json"
+  },
+  "license": "CC-BY-SA-4.0",
+  "provenance": {
+   "repo": "BibleAquifer/UWTranslationNotes",
+   "sha": "13134fc6803be7c8e395ae94af258c8fb5cc6e11",
+   "content_id": "259318",
+   "version": "1.0.4"
+  },
+  "translation": null,
+  "review": {
+   "human": false,
+   "status": "pendiente"
+  }
+ },
+ {
   "id": "uwtn:259319",
   "ref": "HEB.11.20",
   "ref_fin": "HEB.11.20",
@@ -11968,6 +12128,38 @@
   }
  },
  {
+  "id": "uwtn:259321",
+  "ref": "HEB.11.21",
+  "ref_fin": "HEB.11.21",
+  "orden": 1,
+  "layer": "griego",
+  "tradition": "griego",
+  "griego": null,
+  "lemma_src": [],
+  "lemma_rv1909": [],
+  "text_src": "The author refers to a story about ⸢Jacob⸣, Abraham’s grandson. When he was about to die, he ⸢blessed⸣ the two sons of his own son ⸢Joseph⸣.",
+  "text_es": null,
+  "categoria": null,
+  "source": {
+   "work": "unfoldingWord® Translation Notes",
+   "author": null,
+   "passage": "Hebrews 11:21 (#1)",
+   "url": "https://github.com/BibleAquifer/UWTranslationNotes/blob/13134fc6803be7c8e395ae94af258c8fb5cc6e11/eng/json/58.content.json"
+  },
+  "license": "CC-BY-SA-4.0",
+  "provenance": {
+   "repo": "BibleAquifer/UWTranslationNotes",
+   "sha": "13134fc6803be7c8e395ae94af258c8fb5cc6e11",
+   "content_id": "259321",
+   "version": "1.0.4"
+  },
+  "translation": null,
+  "review": {
+   "human": false,
+   "status": "pendiente"
+  }
+ },
+ {
   "id": "uwtn:259322",
   "ref": "HEB.11.21",
   "ref_fin": "HEB.11.21",
@@ -11993,6 +12185,38 @@
    "repo": "BibleAquifer/UWTranslationNotes",
    "sha": "13134fc6803be7c8e395ae94af258c8fb5cc6e11",
    "content_id": "259322",
+   "version": "1.0.4"
+  },
+  "translation": null,
+  "review": {
+   "human": false,
+   "status": "pendiente"
+  }
+ },
+ {
+  "id": "uwtn:259323",
+  "ref": "HEB.11.22",
+  "ref_fin": "HEB.11.22",
+  "orden": 1,
+  "layer": "griego",
+  "tradition": "griego",
+  "griego": null,
+  "lemma_src": [],
+  "lemma_rv1909": [],
+  "text_src": "The author refers to a story about what ⸢Joseph⸣ said when he was about to die. He said that God would lead them from Egypt to the land that God promised to give to them, and that they should take his bones with them when they left Egypt.",
+  "text_es": null,
+  "categoria": null,
+  "source": {
+   "work": "unfoldingWord® Translation Notes",
+   "author": null,
+   "passage": "Hebrews 11:22 (#1)",
+   "url": "https://github.com/BibleAquifer/UWTranslationNotes/blob/13134fc6803be7c8e395ae94af258c8fb5cc6e11/eng/json/58.content.json"
+  },
+  "license": "CC-BY-SA-4.0",
+  "provenance": {
+   "repo": "BibleAquifer/UWTranslationNotes",
+   "sha": "13134fc6803be7c8e395ae94af258c8fb5cc6e11",
+   "content_id": "259323",
    "version": "1.0.4"
   },
   "translation": null,
@@ -12070,6 +12294,38 @@
   }
  },
  {
+  "id": "uwtn:259329",
+  "ref": "HEB.11.23",
+  "ref_fin": "HEB.11.23",
+  "orden": 1,
+  "layer": "griego",
+  "tradition": "griego",
+  "griego": null,
+  "lemma_src": [],
+  "lemma_rv1909": [],
+  "text_src": "The author refers to a story about a man named ⸢Moses⸣. The king of Egypt, where ⸢Moses⸣ was born, had commanded that all the boys born to the Israelites should be killed. When ⸢Moses⸣ was born to his parents, they defied the command and hid Moses for ⸢three months⸣.",
+  "text_es": null,
+  "categoria": null,
+  "source": {
+   "work": "unfoldingWord® Translation Notes",
+   "author": null,
+   "passage": "Hebrews 11:23 (#1)",
+   "url": "https://github.com/BibleAquifer/UWTranslationNotes/blob/13134fc6803be7c8e395ae94af258c8fb5cc6e11/eng/json/58.content.json"
+  },
+  "license": "CC-BY-SA-4.0",
+  "provenance": {
+   "repo": "BibleAquifer/UWTranslationNotes",
+   "sha": "13134fc6803be7c8e395ae94af258c8fb5cc6e11",
+   "content_id": "259329",
+   "version": "1.0.4"
+  },
+  "translation": null,
+  "review": {
+   "human": false,
+   "status": "pendiente"
+  }
+ },
+ {
   "id": "uwtn:259332",
   "ref": "HEB.11.23",
   "ref_fin": "HEB.11.23",
@@ -12129,6 +12385,38 @@
    "repo": "BibleAquifer/UWTranslationNotes",
    "sha": "13134fc6803be7c8e395ae94af258c8fb5cc6e11",
    "content_id": "259334",
+   "version": "1.0.4"
+  },
+  "translation": null,
+  "review": {
+   "human": false,
+   "status": "pendiente"
+  }
+ },
+ {
+  "id": "uwtn:259335",
+  "ref": "HEB.11.24",
+  "ref_fin": "HEB.11.24",
+  "orden": 1,
+  "layer": "griego",
+  "tradition": "griego",
+  "griego": null,
+  "lemma_src": [],
+  "lemma_rv1909": [],
+  "text_src": "In 11:24–27, the author refers to a story about ⸢Moses⸣. This man ⸢Moses⸣ grew up as the adopted son of Pharaoh’s daughter. However, one day Moses saw an Egyptian hitting one of his fellow Israelites. He killed the Egyptian, but Pharaoh found out and wanted to kill Moses. Moses escaped to a land called Midian.",
+  "text_es": null,
+  "categoria": null,
+  "source": {
+   "work": "unfoldingWord® Translation Notes",
+   "author": null,
+   "passage": "Hebrews 11:24 (#1)",
+   "url": "https://github.com/BibleAquifer/UWTranslationNotes/blob/13134fc6803be7c8e395ae94af258c8fb5cc6e11/eng/json/58.content.json"
+  },
+  "license": "CC-BY-SA-4.0",
+  "provenance": {
+   "repo": "BibleAquifer/UWTranslationNotes",
+   "sha": "13134fc6803be7c8e395ae94af258c8fb5cc6e11",
+   "content_id": "259335",
    "version": "1.0.4"
   },
   "translation": null,
@@ -12274,6 +12562,38 @@
   }
  },
  {
+  "id": "uwtn:259349",
+  "ref": "HEB.11.28",
+  "ref_fin": "HEB.11.28",
+  "orden": 1,
+  "layer": "griego",
+  "tradition": "griego",
+  "griego": null,
+  "lemma_src": [],
+  "lemma_rv1909": [],
+  "text_src": "The author refers to the story of the first ⸢Passover⸣, a festival that the Israelites continued to celebrate to remember what happened when God delivered them from Egypt. God had warned the king of Egypt that if he did not let the Israelites go free, he would kill the ⸢firstborn⸣ son in each Egyptian family. God told Moses to have the Israelites spread blood from a sacrificed lamb on their doors so that their ⸢firstborn⸣ sons would not die. Then, God sent a destroying angel, who killed the ⸢firstborn⸣ sons of the Egyptians. When that happened, the king of Egypt let the Israelites go free.",
+  "text_es": null,
+  "categoria": null,
+  "source": {
+   "work": "unfoldingWord® Translation Notes",
+   "author": null,
+   "passage": "Hebrews 11:28 (#1)",
+   "url": "https://github.com/BibleAquifer/UWTranslationNotes/blob/13134fc6803be7c8e395ae94af258c8fb5cc6e11/eng/json/58.content.json"
+  },
+  "license": "CC-BY-SA-4.0",
+  "provenance": {
+   "repo": "BibleAquifer/UWTranslationNotes",
+   "sha": "13134fc6803be7c8e395ae94af258c8fb5cc6e11",
+   "content_id": "259349",
+   "version": "1.0.4"
+  },
+  "translation": null,
+  "review": {
+   "human": false,
+   "status": "pendiente"
+  }
+ },
+ {
   "id": "uwtn:259350",
   "ref": "HEB.11.28",
   "ref_fin": "HEB.11.28",
@@ -12367,6 +12687,102 @@
    "repo": "BibleAquifer/UWTranslationNotes",
    "sha": "13134fc6803be7c8e395ae94af258c8fb5cc6e11",
    "content_id": "259352",
+   "version": "1.0.4"
+  },
+  "translation": null,
+  "review": {
+   "human": false,
+   "status": "pendiente"
+  }
+ },
+ {
+  "id": "uwtn:259355",
+  "ref": "HEB.11.29",
+  "ref_fin": "HEB.11.29",
+  "orden": 1,
+  "layer": "griego",
+  "tradition": "griego",
+  "griego": null,
+  "lemma_src": [],
+  "lemma_rv1909": [],
+  "text_src": "The author refers to a story about how God rescued the Israelites from Egypt. After the king of Egypt let them go free, the Israelites traveled until they reached the edge of the ⸢Red Sea⸣. However, the king of Egypt decided that he had made a mistake and wanted to take the Israelites back. His army surrounded them as they camped next to the ⸢Red Sea⸣. However, God opened a path through the ⸢Red Sea⸣, and the Israelites walked right through. When the Egyptian army followed, God sent the water back over the path he had created, and the Egyptians drowned.",
+  "text_es": null,
+  "categoria": null,
+  "source": {
+   "work": "unfoldingWord® Translation Notes",
+   "author": null,
+   "passage": "Hebrews 11:29 (#1)",
+   "url": "https://github.com/BibleAquifer/UWTranslationNotes/blob/13134fc6803be7c8e395ae94af258c8fb5cc6e11/eng/json/58.content.json"
+  },
+  "license": "CC-BY-SA-4.0",
+  "provenance": {
+   "repo": "BibleAquifer/UWTranslationNotes",
+   "sha": "13134fc6803be7c8e395ae94af258c8fb5cc6e11",
+   "content_id": "259355",
+   "version": "1.0.4"
+  },
+  "translation": null,
+  "review": {
+   "human": false,
+   "status": "pendiente"
+  }
+ },
+ {
+  "id": "uwtn:259359",
+  "ref": "HEB.11.30",
+  "ref_fin": "HEB.11.30",
+  "orden": 1,
+  "layer": "griego",
+  "tradition": "griego",
+  "griego": null,
+  "lemma_src": [],
+  "lemma_rv1909": [],
+  "text_src": "The author refers to a story about a city named ⸢Jericho⸣. This city was the first city that the Israelites attacked when they entered the land that God had promised to give to them. God told them to march around the city once a day for six days and then to march around the city seven times on the seventh day. When the Israelites completed their last march around the city and shouted loudly, the walls fell down and the Israelites conquered the city.",
+  "text_es": null,
+  "categoria": null,
+  "source": {
+   "work": "unfoldingWord® Translation Notes",
+   "author": null,
+   "passage": "Hebrews 11:30 (#1)",
+   "url": "https://github.com/BibleAquifer/UWTranslationNotes/blob/13134fc6803be7c8e395ae94af258c8fb5cc6e11/eng/json/58.content.json"
+  },
+  "license": "CC-BY-SA-4.0",
+  "provenance": {
+   "repo": "BibleAquifer/UWTranslationNotes",
+   "sha": "13134fc6803be7c8e395ae94af258c8fb5cc6e11",
+   "content_id": "259359",
+   "version": "1.0.4"
+  },
+  "translation": null,
+  "review": {
+   "human": false,
+   "status": "pendiente"
+  }
+ },
+ {
+  "id": "uwtn:259361",
+  "ref": "HEB.11.31",
+  "ref_fin": "HEB.11.31",
+  "orden": 1,
+  "layer": "griego",
+  "tradition": "griego",
+  "griego": null,
+  "lemma_src": [],
+  "lemma_rv1909": [],
+  "text_src": "The author refers to a story about a woman named ⸢Rahab⸣. She was a ⸢prostitute⸣ who lived in the city of Jericho. When Joshua sent ⸢spies⸣ to see what Jericho was like, Rahab hid them from the leaders of the city and sent them safely back to Joshua. Because she did that, Joshua had the Israelites keep Rahab and her family alive when they conquered Jericho and killed everyone else.",
+  "text_es": null,
+  "categoria": null,
+  "source": {
+   "work": "unfoldingWord® Translation Notes",
+   "author": null,
+   "passage": "Hebrews 11:31 (#1)",
+   "url": "https://github.com/BibleAquifer/UWTranslationNotes/blob/13134fc6803be7c8e395ae94af258c8fb5cc6e11/eng/json/58.content.json"
+  },
+  "license": "CC-BY-SA-4.0",
+  "provenance": {
+   "repo": "BibleAquifer/UWTranslationNotes",
+   "sha": "13134fc6803be7c8e395ae94af258c8fb5cc6e11",
+   "content_id": "259361",
    "version": "1.0.4"
   },
   "translation": null,
@@ -13192,6 +13608,38 @@
   }
  },
  {
+  "id": "uwtn:259492",
+  "ref": "HEB.12.12",
+  "ref_fin": "HEB.12.12",
+  "orden": 1,
+  "layer": "griego",
+  "tradition": "griego",
+  "griego": null,
+  "lemma_src": [],
+  "lemma_rv1909": [],
+  "text_src": "In this verse, the author uses language that is very similar to Isaiah 35:3.",
+  "text_es": null,
+  "categoria": null,
+  "source": {
+   "work": "unfoldingWord® Translation Notes",
+   "author": null,
+   "passage": "Hebrews 12:12 (#1)",
+   "url": "https://github.com/BibleAquifer/UWTranslationNotes/blob/13134fc6803be7c8e395ae94af258c8fb5cc6e11/eng/json/58.content.json"
+  },
+  "license": "CC-BY-SA-4.0",
+  "provenance": {
+   "repo": "BibleAquifer/UWTranslationNotes",
+   "sha": "13134fc6803be7c8e395ae94af258c8fb5cc6e11",
+   "content_id": "259492",
+   "version": "1.0.4"
+  },
+  "translation": null,
+  "review": {
+   "human": false,
+   "status": "pendiente"
+  }
+ },
+ {
   "id": "uwtn:259497",
   "ref": "HEB.12.13",
   "ref_fin": "HEB.12.13",
@@ -13498,6 +13946,38 @@
   }
  },
  {
+  "id": "uwtn:259521",
+  "ref": "HEB.12.17",
+  "ref_fin": "HEB.12.17",
+  "orden": 1,
+  "layer": "griego",
+  "tradition": "griego",
+  "griego": null,
+  "lemma_src": [],
+  "lemma_rv1909": [],
+  "text_src": "Here the author refers to a story about what happened to Esau after he sold his birthright. When Esau’s father Isaac was about to die, he wanted to give Esau a blessing. However, Esau’s brother Jacob tricked his father Isaac and took the blessing for himself. When Esau found out, he wept and asked his father to bless him. However, his father had already given the blessing to Jacob.",
+  "text_es": null,
+  "categoria": null,
+  "source": {
+   "work": "unfoldingWord® Translation Notes",
+   "author": null,
+   "passage": "Hebrews 12:17 (#1)",
+   "url": "https://github.com/BibleAquifer/UWTranslationNotes/blob/13134fc6803be7c8e395ae94af258c8fb5cc6e11/eng/json/58.content.json"
+  },
+  "license": "CC-BY-SA-4.0",
+  "provenance": {
+   "repo": "BibleAquifer/UWTranslationNotes",
+   "sha": "13134fc6803be7c8e395ae94af258c8fb5cc6e11",
+   "content_id": "259521",
+   "version": "1.0.4"
+  },
+  "translation": null,
+  "review": {
+   "human": false,
+   "status": "pendiente"
+  }
+ },
+ {
   "id": "uwtn:259525",
   "ref": "HEB.12.17",
   "ref_fin": "HEB.12.17",
@@ -13557,6 +14037,38 @@
    "repo": "BibleAquifer/UWTranslationNotes",
    "sha": "13134fc6803be7c8e395ae94af258c8fb5cc6e11",
    "content_id": "259527",
+   "version": "1.0.4"
+  },
+  "translation": null,
+  "review": {
+   "human": false,
+   "status": "pendiente"
+  }
+ },
+ {
+  "id": "uwtn:259529",
+  "ref": "HEB.12.18",
+  "ref_fin": "HEB.12.18",
+  "orden": 1,
+  "layer": "griego",
+  "tradition": "griego",
+  "griego": null,
+  "lemma_src": [],
+  "lemma_rv1909": [],
+  "text_src": "In 12:18–21, the author refers to what happened when the Israelites left Egypt and arrived a mountain named ⸢Sinai⸣. God came down to this mountain to create a covenant with the Israelites, and Moses met him on the mountain and received God’s commands and promises. When God came to the mountain, there were loud sounds, fire, and dark clouds, and God commanded that nobody should go up the mountain except for Moses and Aaron. The Israelites were afraid and asked Moses to speak to God for them.",
+  "text_es": null,
+  "categoria": null,
+  "source": {
+   "work": "unfoldingWord® Translation Notes",
+   "author": null,
+   "passage": "Hebrews 12:18 (#1)",
+   "url": "https://github.com/BibleAquifer/UWTranslationNotes/blob/13134fc6803be7c8e395ae94af258c8fb5cc6e11/eng/json/58.content.json"
+  },
+  "license": "CC-BY-SA-4.0",
+  "provenance": {
+   "repo": "BibleAquifer/UWTranslationNotes",
+   "sha": "13134fc6803be7c8e395ae94af258c8fb5cc6e11",
+   "content_id": "259529",
    "version": "1.0.4"
   },
   "translation": null,
@@ -14917,6 +15429,38 @@
    "repo": "BibleAquifer/UWTranslationNotes",
    "sha": "13134fc6803be7c8e395ae94af258c8fb5cc6e11",
    "content_id": "259673",
+   "version": "1.0.4"
+  },
+  "translation": null,
+  "review": {
+   "human": false,
+   "status": "pendiente"
+  }
+ },
+ {
+  "id": "uwtn:259675",
+  "ref": "HEB.13.11",
+  "ref_fin": "HEB.13.11",
+  "orden": 1,
+  "layer": "griego",
+  "tradition": "griego",
+  "griego": null,
+  "lemma_src": [],
+  "lemma_rv1909": [],
+  "text_src": "The author refers to some of the commands that God gave for what to do on the special day called “the Day of Atonement.” Once every year, the high priest would slaughter a bull and a goat and sprinkle some of their blood in the inner, most sacred part of the tabernacle. Later, a person would take the carcasses of the bull and the goat and burn them completely outside the area where the Israelites were staying.",
+  "text_es": null,
+  "categoria": null,
+  "source": {
+   "work": "unfoldingWord® Translation Notes",
+   "author": null,
+   "passage": "Hebrews 13:11 (#1)",
+   "url": "https://github.com/BibleAquifer/UWTranslationNotes/blob/13134fc6803be7c8e395ae94af258c8fb5cc6e11/eng/json/58.content.json"
+  },
+  "license": "CC-BY-SA-4.0",
+  "provenance": {
+   "repo": "BibleAquifer/UWTranslationNotes",
+   "sha": "13134fc6803be7c8e395ae94af258c8fb5cc6e11",
+   "content_id": "259675",
    "version": "1.0.4"
   },
   "translation": null,

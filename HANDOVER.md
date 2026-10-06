@@ -115,6 +115,13 @@ Capas nuevas de Hebreos (06-10-2026):
   lecturas posibles «(1)…(2)…» y las de trasfondo/variantes/sin categoría; fuera las de técnica de traducción y
   toda oración dirigida al traductor (si eso rompe una lista de opciones, la nota entera se descarta). La frase
   griega va aparte ("griego") y no se traduce; la glosa es el lema y se ancla a la RV1909.
+- Volumen complementario «Hebreos: el texto griego explicado» (pedido del usuario 06-10-2026: «las sugerencias
+  para traductores podrían ir en un trabajo aparte… le ilumina las ideas detrás»): TODAS las notas de unfoldingWord
+  (1.767, con lo dirigido a traductores), introducciones al libro y a cada capítulo (121 secciones) y glosario de
+  las 63 categorías citadas (sección «Description» de unfoldingWord® Translation Academy, `uwtm` en manifest.json).
+  `scripts/griego_completo.py` -> capas griego_c / griego_intro / glosario_g (pasan por traducción, juez y
+  verificación como el resto; la Biblia de estudio no las muestra); `scripts/epub_griego.py` arma
+  `epub/Hebreos_griego_explicado.epub`; presentación en `editorial/HEB_griego.md`.
 - Evaluadas y NO usadas: SBLGNT (el repo de GitHub no trae el aparato, solo marcas ⸂⸃); Biblica Study Notes
   (CC BY-SA, hay español, pero son 20 notas por perícopa que repiten el enfoque de Tyndale); Versión Biblia Libre
   (CC BY-SA 4.0, verificada en eBible.org: paráfrasis con decisiones que borran justo los términos en disputa:

@@ -79,15 +79,20 @@ def limpiar(cuerpo):
 
 
 def nota(x):
-    """(griego, glosa, explicación, categoría) de una nota de versículo."""
+    """(griego, glosa, explicación, categoría) de una nota de versículo. Las notas sobre el versículo entero
+    (la historia de Enoc en 11:5) no traen frase griega ni glosa: (None, None, …)."""
     ps = re.findall(r"<p>(.*?)</p>", x["content"], re.S)
-    if len(ps) < 3:
-        return None
-    griego = plano(ps[0]).strip("⸢⸣ ").replace(" & ", " … ").replace("&", "…")
-    glosa = plano(ps[1]).strip("⸢⸣ ").strip('"“”')
     m = re.search(r'UWTranslationManual">([^<]+)<', x["content"])
     categoria = m.group(1).strip() if m else None
-    cuerpo = " ".join(plano(p) for p in ps[2:] if not p.startswith("See:"))
+    if len(ps) >= 3 and ps[0].startswith("<strong><span"):
+        griego = plano(ps[0]).strip("⸢⸣ ").replace(" & ", " … ").replace("&", "…")
+        glosa = plano(ps[1]).strip("⸢⸣ ").strip('"“”')
+        ps = ps[2:]
+    elif ps and not ps[0].startswith("<strong>"):
+        griego = glosa = None
+    else:
+        return None
+    cuerpo = " ".join(plano(p) for p in ps if not p.startswith("See:"))
     return griego, glosa, cuerpo, categoria
 
 
@@ -119,7 +124,7 @@ def main():
         orden = int((re.search(r"#(\d+)", x["title"]) or [0, 0])[1])
         palabras += len(texto.split())
         out.append({"id": f"uwtn:{x['content_id']}", "ref": ref, "ref_fin": ref, "orden": orden,
-                    "layer": "griego", "tradition": "griego", "griego": griego, "lemma_src": [glosa], "lemma_rv1909": [],
+                    "layer": "griego", "tradition": "griego", "griego": griego, "lemma_src": [glosa] if glosa else [], "lemma_rv1909": [],
                     "text_src": texto, "text_es": None, "categoria": categoria,
                     "source": {"work": "unfoldingWord® Translation Notes", "author": None, "passage": x["title"],
                                "url": f"https://github.com/BibleAquifer/UWTranslationNotes/blob/{sha}/eng/json/{num}.content.json"},

@@ -162,6 +162,27 @@ class Griego(unittest.TestCase):
         import griego as G
         self.assertIsNone(G.limpiar("It could mean: (1) something that you could say. (2) another thing entirely here."))
 
+    def test_nota_sin_frase_griega(self):
+        import griego as G                             # 11:5 (Enoc): nota sobre el versículo entero
+        x = {"content": "<p>The author refers to a story about a man named <strong>Enoch</strong>.</p>"
+                        '<p>See: <data class="resource-ref" data-resource-code="UWTranslationManual">Background Information</data></p>'}
+        self.assertEqual(G.nota(x)[:2], (None, None))
+
+    def test_introduccion_por_secciones(self):
+        import griego_completo as GC
+        s = GC.secciones("<h1>Intro</h1><h2>Part 1</h2><h3>Outline</h3><p>Text.</p><ul><li>A<ul><li>B</li></ul></li></ul>"
+                         "<h3>Who wrote it?</h3><p>Nobody knows.</p>")
+        self.assertEqual([[n for n, _ in t] for t, _ in s], [[2, 3], [3]])     # títulos sin cuerpo van con el siguiente
+        self.assertEqual(s[0][1], ["Text.", "• A", "◦ B"])
+
+    def test_categorias_con_nombre_espanol(self):
+        import griego_completo as GC
+        import json
+        ruta = C.RAIZ / "normalizado" / "HEB" / "griego_completo.json"
+        if ruta.exists():
+            cats = {n["categoria"] for n in json.loads(ruta.read_text()) if n.get("categoria")}
+            self.assertFalse(cats - set(GC.CATEGORIAS))
+
 
 if __name__ == "__main__":
     unittest.main()
