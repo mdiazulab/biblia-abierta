@@ -127,6 +127,11 @@ Capas nuevas de Hebreos (06-10-2026):
   (CC BY-SA 4.0, verificada en eBible.org: paráfrasis con decisiones que borran justo los términos en disputa:
   10:14 «justificó» por τετελείωκεν, 12:1 sin «testigos», 12:23 sin «espíritus»).
 
+Calvino (corrida del 06-10-2026): 1.046 notas, sin traducir 0, sensibilidad 229/229; cola resuelta con evidencia
+(17 adjudicaciones). Clase nueva: «the Word of God» = la Escritura (Owen, Agustín) traducido «Verbo»/«Palabra»;
+barrida en Juan (17 casos, todos del Hijo: bien) y Hebreos (4 corregidos). CRISTO_EN ya no confunde «was the
+Word of God» (Escritura) con el Hijo. epubcheck se corre de a un archivo (con varios solo mostraba la ayuda).
+
 Pendiente:
 1. Wesley (Explanatory Notes) como segunda voz de la Reforma/avivamiento, si se quiere.
 2. Solo DeepSeek (decisión del usuario 06-10-2026: Gemini sin créditos): TRADUCTOR deepseek-chat, CONTROL

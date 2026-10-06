@@ -138,6 +138,11 @@ class Compuerta(unittest.TestCase):
         self.assertIsNotNone(m)
         self.assertNotEqual(m, "Jesús es el Verbo. Vino en el año 30. Fue enviado.")
 
+    def test_word_of_god_escritura_no_es_el_hijo(self):
+        # Calvino (Owen) 10:37: «his watchtower was the Word of God» es la Escritura; «was the Word» sigue siendo el Hijo
+        self.assertIsNone(V.CRISTO_EN.search("and his watchtower was the Word of God, by which he was raised"))
+        self.assertIsNotNone(V.CRISTO_EN.search("In the beginning was the Word, and the Word was with God"))
+
     def test_solo_deepseek_sin_rejuzgar_lo_aprobado(self):
         self.assertTrue(all(m.startswith("deepseek:") for m in C.TRADUCTOR + C.CONTROL))
         self.assertIn("gemini-3.6-flash", C.JUECES_VALIDOS)          # Juan 1-8: veredictos calibrados, no se rehacen

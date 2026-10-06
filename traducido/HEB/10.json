@@ -227,7 +227,7 @@
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
   "huella": "23fb479e30e4",
-  "corregido_por_juez": "Traduce 'Holy place' como 'Lugar Santísimo' (cambio de referencia) y 'dedicated' como 'abrió' (cambio de sentido)."
+  "corregido_por_juez": "Traduce 'Holy place' como 'Lugar Santísimo' y 'dedicated' como 'abrió', cambiando el sentido."
  },
  "hcf:John Chrysostom/Hebrews 10_19#0": {
   "text_es": "«Así que, hermanos, teniendo libertad para entrar en el Lugar Santísimo por la sangre de Jesús.» Habiendo mostrado la diferencia del Pontífice, y de los sacrificios, y del tabernáculo, y del Pacto, y de la promesa, y que la diferencia es grande, ya que aquellos son temporales, pero estos eternos, aquellos «cercanos a desvanecerse», estos permanentes, aquellos sin poder, estos perfectos, aquellos figuras, estos realidad. Pues (dice) «no según la ley del mandamiento carnal, sino según el poder de una vida sin fin.» Y «Tú eres sacerdote para siempre.» He aquí la continuidad del Sacerdote. Y en cuanto al Pacto, Aquel (dice) es antiguo (pues «lo que se envejece y se hace viejo está próximo a desvanecerse»), pero este es nuevo; y tiene remisión de pecados, mientras que aquel no tiene nada de eso; pues (dice) «la Ley nada perfeccionó.» Y de nuevo: «sacrificio y ofrenda no quisiste.» Aquel está hecho con manos, mientras que este es «no hecho con manos»: aquel «tiene la sangre de machos cabríos», este la del Señor; aquel tiene al Sacerdote «de pie», este «sentado». Puesto que, por tanto, todos aquellos son inferiores y estos mayores, por eso dice: «Así que, hermanos, teniendo libertad.»\n\n«Libertad»: ¿de dónde? Como los pecados (quiere decir) producen vergüenza, así el que se nos hayan perdonado todas las cosas, y el haber sido hechos coherederos, y el disfrutar de tan grande Amor, produce libertad.\n\n«Para entrar en el Lugar Santísimo.» ¿Qué quiere decir aquí con «entrada»? El cielo, y el acceso a las cosas espirituales.",
@@ -587,5 +587,479 @@
   "modelo": "deepseek:deepseek-chat",
   "huella": "62d4830bcf79",
   "corregido_por_juez": "El español invierte el sujeto: el inglés dice que la vida se apartó de ellos, no que ellos se apartaron de tal vida."
+ },
+ "calvino:HEB.10.1#143": {
+  "text_es": "1. ⸢Porque la ley, teniendo la sombra, etc.⸣ Tomó esta semejanza del arte pictórico; pues una sombra aquí tiene un sentido distinto del que tiene en Colosenses 2:17, donde llama sombras a los antiguos ritos o ceremonias, porque no poseían la sustancia real de lo que representaban. Pero ahora dice que eran como trazos toscos, que bosquejan el cuadro perfecto; pues los pintores, antes de introducir los colores vivos con el pincel, suelen trazar los contornos de lo que pretenden representar. Esta representación indistinta es llamada por los griegos σκιαγραφία, que podrías llamar en latín «umbratilem», sombría. Los griegos tenían también la εἰκὼν, la semejanza plena. De ahí también que las «eiconia» se llamen imágenes (⸢imagines⸣) en latín, las cuales representan al natural la forma de hombres o de animales o de lugares.\n\nLa diferencia, pues, que el Apóstol establece entre la Ley y el Evangelio es esta: que bajo la Ley se bosquejaba solo con líneas toscas e imperfectas lo que bajo el Evangelio se presenta con colores vivos y gráficamente distinto. Confirma así de nuevo lo que había dicho antes, que la Ley no fue inútil, ni sus ceremonias sin provecho. Pues aunque no había en ellas la imagen de las cosas celestiales, acabada, como dicen, por el último toque del artista, sin embargo la representación, tal como era, no fue de pequeño beneficio para los padres; pero con todo, nuestra condición es mucho más favorable. Debemos, no obstante, observar que las cosas que les fueron mostradas a distancia son las mismas que ahora se ponen ante nuestros ojos. De ahí que a ambos se les exhiba el mismo Cristo, la misma justicia, santificación y salvación; y la diferencia está solo en el modo de pintarlas o presentarlas.\n\n⸢De los bienes venideros, etc.⸣ Estos, pienso, son cosas eternas. Concedo ciertamente que el reino de Cristo, que ahora está presente con nosotros, fue anunciado antiguamente como futuro; pero las palabras del Apóstol significan que tenemos una imagen viva de las bendiciones futuras. Entiende, pues, aquel modelo espiritual, cuya plena fruición se difiere a la resurrección y al mundo venidero. Al mismo tiempo confieso de nuevo que estos bienes comenzaron a revelarse al inicio del reino de Cristo; pero de lo que ahora trata es de esto: que no solo son bendiciones futuras respecto al Antiguo Testamento, sino también respecto a nosotros, que aún las esperamos.\n\n⸢Que ofrecen cada año, etc.⸣ Habla especialmente del sacrificio anual, mencionado en Levítico 16, aunque todos los sacrificios se incluyen aquí bajo una sola especie. Ahora razona así: cuando ya no hay conciencia de pecado, entonces no hay necesidad de sacrificio; pero bajo la Ley la ofrenda del mismo sacrificio se repetía con frecuencia; entonces no se daba satisfacción a Dios, ni se removía la culpa ni se apaciguaban las conciencias; de ser así, se habría puesto fin a los sacrificios. Debemos además observar cuidadosamente que llama los mismos sacrificios a los que fueron instituidos para un propósito similar; pues se puede formar una mejor noción de ellos por el designio para el cual Dios los instituyó, que por las diferentes bestias que se ofrecían.\n\nY esta sola cosa es abundantemente suficiente para confutar y exponer la sutileza de los papistas, con la cual les parece que evaden ingeniosamente un absurdo al defender el sacrificio de la misa; pues cuando se les objeta que la repetición del sacrificio es superflua, ya que la virtud de aquel sacrificio que Cristo ofreció es perpetua, responden de inmediato que el sacrificio en la misa no es diferente, sino el mismo. Esta es su respuesta. Pero ¿qué dice, por el contrario, el Apóstol? Niega expresamente que el sacrificio que se ofrece repetidamente, aunque sea el mismo, sea eficaz o capaz de hacer expiación. Ahora bien, aunque los papistas gritaran mil veces que el sacrificio que Cristo ofreció una vez es el mismo, y no diferente del que ellos hacen diariamente, yo seguiré sosteniendo siempre, según las palabras expresas del Apóstol, que puesto que las ofrendas de Cristo valieron para apaciguar a Dios, no solo se puso fin a los sacrificios anteriores, sino que también es impío repetir el sacrificio. De aquí es bastante evidente que la ofrenda de Cristo en la misa es sacrílega.",
+  "lemas_es": [
+   "Porque la ley, teniendo la sombra",
+   "De los bienes venideros",
+   "Que ofrecen cada año"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7007db56c8ef",
+  "lemas_rv1909": [
+   {
+    "lema": "Porque la ley, teniendo la sombra",
+    "ref": "HEB.10.1"
+   },
+   {
+    "lema": "de los bienes venideros",
+    "ref": "HEB.10.1"
+   },
+   {
+    "lema": "que ofrecen continuamente cada año",
+    "ref": "HEB.10.1"
+   }
+  ]
+ },
+ "calvino:HEB.10.3#144": {
+  "text_es": "3. ⸢Un recordatorio de nuevo, etc.⸣ Aunque el Evangelio es un mensaje de reconciliación con Dios, sin embargo es necesario que recordemos diariamente nuestros pecados; pero lo que el Apóstol quiere decir es que los pecados eran traídos a la memoria para que la culpa fuera removida por medio del sacrificio entonces ofrecido. No se trata, pues, de cualquier clase de recordatorio, sino de aquel que pudiera llevar a tal confesión de culpa ante Dios, que hiciera necesario un sacrificio para su remoción.\n\nTal es el sacrificio de la misa entre los papistas; pues pretenden que por él la gracia de Dios se nos aplica a fin de que los pecados sean borrados. Pero puesto que el Apóstol concluye que los sacrificios de la Ley eran débiles, porque cada año se repetían para obtener perdón, por la misma razón puede concluirse que el sacrificio de Cristo fue débil, si debe ofrecerse diariamente para que su virtud se nos aplique. Con cualquier máscara, pues, que cubran su misa, nunca podrán escapar de la acusación de una atroz blasfemia contra Cristo.",
+  "lemas_es": [
+   "Un recordatorio de nuevo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "509c0671e8e4",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.10.3"
+   }
+  ]
+ },
+ "calvino:HEB.10.4#145": {
+  "text_es": "4. ⸢Porque no es posible, etc.⸣ Confirma el sentimiento anterior con la misma razón que había aducido antes: que la sangre de bestias no podía limpiar las almas del pecado. Los judíos ciertamente tenían en esto un símbolo y una prenda de la limpieza real; pero era con referencia a otro, así como la sangre del becerro representaba la sangre de Cristo. Pero el Apóstol habla aquí de la eficacia de la sangre de bestias en sí misma. Justamente, por tanto, le quita el poder de limpiar. Ha de entenderse también un contraste que no está expresado, como si hubiera dicho: «No es de extrañar que los antiguos sacrificios fueran insuficientes, de modo que debían ofrecerse continuamente, pues no tenían en ellos sino la sangre de bestias, que no podía alcanzar la conciencia; pero muy otra es la virtud de la sangre de Cristo: no es justo, pues, medir la ofrenda que él ha hecho por los sacrificios anteriores».",
+  "lemas_es": [
+   "Porque no es posible"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "70b110ed34d5",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.10.4"
+   }
+  ]
+ },
+ "calvino:HEB.10.5#146": {
+  "text_es": "5. ⸢Por lo cual, cuando viene, etc.⸣ Esta entrada en el mundo fue la manifestación de Cristo en la carne; pues cuando se revistió de la naturaleza humana para ser Redentor del mundo y se apareció a los hombres, se dice que entonces vino al mundo, como en otro lugar se dice que descendió del cielo. (Juan 6:41.) Y sin embargo, el Salmo cuarenta, que cita, parece aplicarse impropiamente a Cristo, pues lo que allí se halla de ningún modo cuadra con su carácter, como «Mis iniquidades se han apoderado de mí», a menos que consideremos que Cristo tomó voluntariamente sobre sí los pecados de sus miembros. Todo lo que se dice, sin duda, concuerda rectamente con David; pero como es bien sabido que David fue tipo de Cristo, nada hay irrazonable en transferir a Cristo lo que David declaró respecto de sí mismo, y especialmente cuando se menciona la abolición de las ceremonias de la Ley, como sucede en este pasaje. Sin embargo, no todos consideran que las palabras tengan este sentido, pues piensan que aquí no se repudian expresamente los sacrificios, sino que se condena la noción supersticiosa que generalmente había prevalecido, de que todo el culto de Dios consistía en ellos; y si es así, podría decirse que este testimonio tiene poco que ver con la cuestión presente. Conviene, pues, que examinemos este pasaje más minuciosamente, para que aparezca evidente si el Apóstol lo adujo adecuadamente.\n\nPor doquier en los Profetas ocurren sentencias de este tipo: que los sacrificios no agradan a Dios, que no los requiere, que no los tiene en estima; antes bien, al contrario, que le son abominación. Pero entonces la culpa no estaba en los sacrificios mismos, sino que se refería a lo que les era adventicio; pues como los hipócritas, obstinados en su impiedad, procuraban aún aplacar a Dios con sacrificios, de este modo eran reprendidos. Los Profetas, entonces, rechazaban los sacrificios, no en cuanto instituidos por Dios, sino en cuanto viciados por hombres malvados y profanados por conciencias inmundas. Pero aquí la razón es distinta, pues no condena sacrificios ofrecidos con hipocresía, o de otro modo no realizados rectamente por la depravación y maldad de los hombres; sino que niega que sean requeridos de los fieles y sinceros adoradores de Dios; pues habla de sí mismo, que los ofrecía con corazón limpio y manos puras, y sin embargo dice que no agradaron a Dios.\n\nSi alguno objetara y dijera que no eran aceptados por su propia cuenta ni por su propio mérito, sino por causa de otra cosa, yo diría aún que un argumento de este tipo es inadecuado para este lugar; pues entonces los hombres serían llamados de vuelta al culto espiritual, cuando atribuyeran demasiado a las ceremonias externas; entonces el Espíritu Santo sería considerado como declarando que las ceremonias nada son ante Dios, cuando por error de los hombres son exaltadas en demasía.\n\nDavid, estando bajo la Ley, ciertamente no debía haber descuidado el rito del sacrificio. Debía, lo concedo, haber adorado a Dios con sinceridad de corazón; pero no le era lícito omitir lo que Dios había mandado, y tenía el mandamiento de sacrificar en común con todos los demás. De aquí concluimos que miraba más allá de su propia época, cuando dijo: ⸢Sacrificio no quisiste.⸣ Era, en efecto, en cierto sentido verdadero, incluso en tiempos de David, que Dios no miraba los sacrificios; pero como todos estaban aún bajo el yugo del ayo, David no podía realizar el culto de Dios de manera completa, a menos que revestido, por así decirlo, de una forma de este tipo. Hemos, pues, de llegar necesariamente al reino de Cristo, para que la verdad de la no voluntad de Dios de recibir sacrificio aparezca plenamente. Hay un pasaje similar en el Salmo 16:10: «No dejarás que tu santo vea corrupción»; pues aunque Dios libró a David por un tiempo de la corrupción, esto no se cumplió plenamente sino en Cristo.\n\nNo es de poca importancia que, cuando profesa que haría la ⸢voluntad⸣ de Dios, no asigne lugar alguno a los sacrificios; pues de aquí concluimos que sin ellos puede haber una obediencia perfecta a Dios, lo cual no podría ser verdad si la Ley no fuera anulada. No niego, sin embargo, que David en este lugar, así como en el Salmo 51:16, atenuara de tal modo los sacrificios externos que prefiriera a ellos lo que es lo principal; pero no hay duda de que en ambos lugares puso sus ojos en el reino de Cristo. Y así el Apóstol es testigo de que Cristo es justamente introducido como el que habla en este Salmo, en el cual ni siquiera el lugar más bajo entre los mandamientos de Dios se concede a los sacrificios, que Dios sin embargo había exigido estrictamente bajo la Ley.\n\n⸢Mas un cuerpo me preparaste, etc.⸣ Las palabras de David son diferentes: «Me horadaste oreja», frase que algunos piensan ha sido tomada de un antiguo rito o costumbre de la Ley, (Éxodo 21:6;) pues si alguno no valoraba la libertad concedida en el jubileo y deseaba estar bajo servidumbre perpetua, su oreja era horadada con un punzón. El sentido, según ellos piensan, era este: «Me tendrás, oh Señor, como siervo para siempre». Yo, sin embargo, adopto otra opinión, considerándola como indicativa de docilidad y obediencia; pues estamos sordos hasta que Dios abre nuestros oídos, esto es, hasta que corrige la obstinación que se nos adhiere. Hay al mismo tiempo un contraste implícito entre la masa promiscua y vulgar, (para quienes los sacrificios eran como fantasmas sin ningún poder,) y David, a quien Dios había descubierto su uso y aplicación espirituales y legítimos.\n\nPero el Apóstol siguió a los traductores griegos cuando dijo: «Un cuerpo me preparaste»; pues al citar estas palabras los Apóstoles no eran tan escrupulosos, con tal de no pervertir la Escritura para su propio propósito. Siempre hemos de tener en cuenta el fin por el cual citan los pasajes, pues son muy cuidadosos en cuanto al objeto principal, de modo de no torcer la Escritura a otro sentido; pero en cuanto a las palabras y otras cosas, que no atañen al asunto en cuestión, usan gran libertad.",
+  "lemas_es": [
+   "Por lo cual, cuando viene",
+   "Mas un cuerpo me preparaste"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fb3af87c7d2b",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.10.5"
+   },
+   {
+    "lema": "mas me apropiaste cuerpo",
+    "ref": "HEB.10.5"
+   }
+  ]
+ },
+ "calvino:HEB.10.7#147": {
+  "text_es": "7. ⸢En el rollo o capítulo del libro, etc. Rollo⸣ es propiamente el sentido de la palabra hebrea; pues sabemos que los libros antiguamente se enrollaban en forma de cilindro. Tampoco hay nada irrazonable en entender ⸢libro⸣ como significando la Ley, que prescribe a todos los hijos de Dios la regla de una vida santa; aunque me parece una opinión más adecuada considerarlo como diciendo que se tenía a sí mismo en el catálogo de los que se hacen obedientes a Dios. La Ley, en efecto, nos manda a todos obedecer a Dios; pero David quiere decir que fue contado entre los que son llamados a obedecer a Dios; y luego testifica que obedeció a su vocación, añadiendo: ⸢Vengo a hacer tu voluntad;⸣ y esto pertenece peculiarmente a Cristo. Pues aunque todos los santos aspiran a la justicia de Dios, solo Cristo fue plenamente competente para hacer la voluntad de Dios.\n\nEste pasaje, sin embargo, debe estimularnos a todos a rendir pronta obediencia a Dios; pues Cristo es un modelo de obediencia perfecta con este fin: que todos los que son suyos contiendan unos con otros en imitarlo, que juntos respondan al llamado de Dios, y que su vida ejemplifique esta palabra: ⸢He aquí, vengo.⸣ Al mismo propósito es lo que sigue: ⸢Está escrito,⸣ esto es, que hagamos la voluntad de Dios, conforme a lo que se dice en otro lugar, que el fin de nuestra elección es ser santos e irreprensibles en su presencia. (Colosenses 1:22.)",
+  "lemas_es": [
+   "En el rollo o capítulo del libro, etc. Rollo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "688dea3be10d",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.10.7"
+   }
+  ]
+ },
+ "calvino:HEB.10.9#148": {
+  "text_es": "9. ⸢Quita, etc.⸣ Ved ahora por qué y con qué propósito se citó este pasaje, a saber, para que sepamos que la justicia plena y perfecta bajo el reino de Cristo no necesita de los sacrificios de la Ley; pues cuando estos son removidos, la voluntad de Dios se establece como regla perfecta. De aquí se sigue que los sacrificios de bestias habían de ser removidos por el sacerdocio de Cristo, ya que nada tenían en común con él. Pues no había razón, como hemos dicho, para que él rechazara los sacrificios por causa de una culpa accidental; pues no está tratando con hipócritas, ni condena la superstición de un culto pervertido; sino que niega que los sacrificios habituales sean requeridos de un hombre piadoso rectamente instruido, y testifica que sin sacrificios Dios es obedecido plena y perfectamente.",
+  "lemas_es": [
+   "Quita"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a43e053285d1",
+  "lemas_rv1909": [
+   {
+    "lema": "Quita",
+    "ref": "HEB.10.9"
+   }
+  ]
+ },
+ "calvino:HEB.10.10#149": {
+  "text_es": "10. ⸢Por la cual voluntad, etc.⸣ Después de haber acomodado a su tema el testimonio de David, ahora aprovecha la ocasión para volver algunas de las palabras a su propio propósito, pero más por adorno que por explicación. David profesó, no tanto en su propia persona como en la de Cristo, que estaba dispuesto a hacer la voluntad de Dios. Esto ha de extenderse a todos los miembros de Cristo; pues la doctrina de Pablo es general cuando dice: «Esta es la voluntad de Dios, a saber, vuestra santificación, que cada uno de vosotros se abstenga de impureza». (1 Tesalonicenses 4:3.) Pero como fue un ejemplo supereminente de obediencia en Cristo ofrecerse a la muerte de cruz, y como fue especialmente para esto que tomó la forma de siervo, el Apóstol dice que Cristo, ofreciéndose a sí mismo, cumplió el mandamiento de su Padre, y que así hemos sido ⸢santificados⸣. Cuando añade: ⸢mediante la ofrenda del cuerpo, etc.⸣, alude a aquella parte del Salmo donde dice: «Un cuerpo me preparaste», al menos como se halla en griego. Así da a entender que Cristo halló en sí mismo lo que podía aplacar a Dios, de modo que no tenía necesidad de auxilios externos. Pues si los sacerdotes levíticos hubieran tenido un cuerpo apto, los sacrificios de bestias habrían sido superfluos. Pero Cristo solo fue suficiente, y era por sí mismo capaz de realizar cuanto Dios requería.",
+  "lemas_es": [
+   "Por la cual voluntad"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1283d8d8da61",
+  "text_es_2": "10. ⸢En la cual voluntad, etc.⸣ Después de haber acomodado a su tema el testimonio de David, aprovecha ahora la ocasión para aplicar algunas de las palabras a su propio propósito, pero más con fines de ornamento que de explicación. David profesó, no tanto en su propia persona como en la de Cristo, que estaba dispuesto a hacer la voluntad de Dios. Esto debe extenderse a todos los miembros de Cristo; pues la doctrina de Pablo es general cuando dice: «Porque la voluntad de Dios es vuestra santificación: que os apartéis de fornicación». (1 Tesalonicenses 4:3.) Pero como fue un ejemplo supereminente de obediencia en Cristo el ofrecerse a sí mismo hasta la muerte de cruz, y como fue especialmente por esto que se revistió de la forma de siervo, el Apóstol dice que Cristo, al ofrecerse a sí mismo, cumplió el mandamiento de su Padre, y que así hemos sido ⸢santificados. ⸣ Cuando añade⸢, por la ofrenda del cuerpo, etc.⸣, alude a aquella parte del Salmo donde dice: «Mas me preparaste cuerpo», al menos según se halla en griego. Así da a entender que Cristo halló en sí mismo lo que podía aplacar a Dios, de modo que no tuvo necesidad de auxilios externos. Pues si los sacerdotes levíticos hubieran tenido un cuerpo apto, los sacrificios de animales habrían sido superfluos. Pero Cristo solo fue suficiente, y por sí mismo capaz de cumplir cuanto Dios requería.",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "la cual voluntad",
+    "ref": "HEB.10.10"
+   }
+  ]
+ },
+ "calvino:HEB.10.11#150": {
+  "text_es": "11. ⸢Y todo sacerdote, etc.⸣ Aquí está la conclusión de todo el argumento: que la práctica de sacrificar diariamente es incompatible y del todo ajena al sacerdocio de Cristo; y que, por tanto, después de su venida, los sacerdotes levíticos, cuya costumbre y práctica establecida era ofrecer diariamente, fueron depuestos de su oficio; pues la naturaleza de las cosas contrarias es que, cuando una se establece, la otra cae por tierra. Hasta aquí se ha esforzado lo suficiente, y más que suficiente, en defender el sacerdocio de Cristo; la conclusión, pues, es que el antiguo sacerdocio, que es incompatible con este, ha cesado; porque todos los santos hallan una plena consagración en la única ofrenda de Cristo. Al mismo tiempo, la palabra τετελείωκεν, que traduzco «ha consagrado», puede aún traducirse «ha perfeccionado»; pero prefiero el primer sentido, porque aquí trata de cosas sagradas.\n\nAl decir, ⸢los que son santificados⸣, incluye a todos los hijos de Dios; y nos recuerda que la gracia de la santificación se busca en vano en otra parte.\n\nPero para que los hombres no imaginen que Cristo está ahora ocioso en el cielo, repite de nuevo que ⸢se sentó a la diestra de Dios⸣; con lo cual se denota, como hemos visto en otros lugares, su dominio y poder. No hay, por tanto, razón para que temamos que él permita que la eficacia de su muerte sea destruida o quede sepultada; pues vive para este fin: para que por su poder llene el cielo y la tierra. Nos recuerda luego, con las palabras del Salmo, cuánto ha de durar este estado de cosas, hasta que Cristo derribe a todos sus enemigos. Si, pues, nuestra fe busca a Cristo sentado a la diestra de Dios, y reposa tranquilamente en él como allí sentado, gozaremos finalmente del fruto de su victoria; sí, cuando nuestros enemigos, Satanás, el pecado, la muerte y el mundo entero sean vencidos, y cuando la corrupción de nuestra carne sea desechada, triunfaremos para siempre juntamente con nuestra cabeza.",
+  "lemas_es": [
+   "Y todo sacerdote"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5f61a91edcdf",
+  "lemas_rv1909": [
+   {
+    "lema": "todo sacerdote",
+    "ref": "HEB.10.11"
+   }
+  ]
+ },
+ "calvino:HEB.10.15#151": {
+  "text_es": "15. ⸢El Espíritu Santo también es testigo, etc.⸣ Este testimonio de Jeremías no se aduce por segunda vez sin razón ni superfluamente. Lo citó antes con un propósito distinto, a saber, para mostrar que era necesario abrogar el Antiguo Testamento, porque se había prometido otro, uno nuevo, y con este fin, para enmendar la debilidad del antiguo. Pero ahora tiene otra cosa en vista; pues se detiene solo en estas palabras: ⸢De sus iniquidades no me acordaré más⸣; y de ahí concluye que ya no hay necesidad de sacrificio, puesto que los pecados son borrados.\n\nEsta inferencia puede en verdad parecer no bien fundada; pues aunque antiguamente hubo innumerables promesas acerca de la remisión de los pecados bajo la Ley y en los profetas, la Iglesia no cesó de ofrecer sacrificios; por tanto, la remisión de los pecados no excluye los sacrificios. Pero si consideras cada particular más de cerca, hallarás que los padres también tenían las mismas promesas acerca de la remisión de los pecados bajo la Ley, como las tenemos hoy; confiando en ellas, invocaban a Dios y se regocijaban en el perdón que obtenían. Y sin embargo, el Profeta, como si hubiera aducido algo nuevo e inaudito antes, promete que no habría recuerdo de los pecados ante Dios bajo el nuevo pacto. De ahí podemos concluir que los pecados son ahora remitidos de una manera distinta de como lo eran antes; pero esta diferencia no está en la promesa, ni en la fe, sino en el precio mismo por el cual se procura la remisión. Dios, pues, no se acuerda ahora de los pecados, porque se ha hecho una expiación de una vez para siempre; de otro modo, lo que dice el Profeta habría sido en vano: que el beneficio del Nuevo Testamento sería este: que Dios no se acordaría más de los pecados.\n\nAhora bien, puesto que hemos llegado al final de la discusión acerca del sacerdocio de Cristo, es preciso recordar brevemente a los lectores que aquí no se prueba más eficazmente que los sacrificios de la Ley han sido abolidos, de lo que se prueba que el sacrificio de la misa practicado por los papistas es una vana ficción.\n\nSostienen que su misa es un sacrificio para expiar los pecados de los vivos y de los muertos; pero el Apóstol niega que haya ahora lugar alguno para un sacrificio, incluso desde el tiempo en que se ha cumplido la profecía de Jeremías.\n\nIntentan evadirlo diciendo que no es un sacrificio nuevo, ni distinto del de Cristo, sino el mismo; por el contrario, el Apóstol sostiene que el mismo sacrificio no debe repetirse, y declara que el sacrificio de Cristo es solo uno, y que fue ofrecido por todos; y, además, reclama con frecuencia para Cristo solo el honor de ser sacerdote, de modo que nadie era apto para ofrecerlo sino él solo.\n\nLos papistas tienen otra evasión, y llaman a su sacrificio incruento; pero el Apóstol afirma como verdad sin excepción que la muerte es necesaria para hacer un sacrificio.\n\nLos papistas intentan evadirlo de nuevo diciendo que la misa es la aplicación del único sacrificio que Cristo ha hecho; pero el Apóstol nos enseña, por el contrario, que los sacrificios de la Ley fueron abolidos por la muerte de Cristo por esta razón: porque en ellos se hacía memoria de los pecados; de ahí aparece evidente que este tipo de aplicación que ellos han ideado ha cesado.\n\nEn resumen, que los papistas se retuerzan en las formas que quieran, nunca podrán escapar de los claros argumentos del Apóstol, por los cuales aparece claro que su misa abunda en impiedades; pues, primero, según el testimonio del Apóstol, Cristo solo fue apto para ofrecerse a sí mismo; en la misa es ofrecido por otras manos; — segundo, el Apóstol afirma que el sacrificio de Cristo no solo fue uno, sino que también fue ofrecido una vez, de modo que es impío repetirlo; pero en la misa, por mucho que parloteen acerca del sacrificio, sin embargo se hace evidentemente cada día, y ellos mismos lo confiesan; — tercero, el Apóstol no reconoce ningún sacrificio sin sangre y muerte; en vano, pues, charlotean que el sacrificio que ofrecen es incruento; — cuarto, el Apóstol, al hablar de obtener el perdón de los pecados, nos manda huir a aquel único sacrificio que Cristo ofreció en la cruz, y hace esta distinción entre nosotros y los padres: que el rito de sacrificar continuamente fue abolido por la venida de Cristo; pero los papistas, para hacer eficaz la muerte de Cristo, requieren aplicaciones diarias por medio de un sacrificio; de modo que, llamándose cristianos, no difieren en nada de los judíos excepto en el símbolo externo.",
+  "lemas_es": [
+   "El Espíritu Santo también es testigo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9cbb45a05044",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.10.15"
+   }
+  ]
+ },
+ "calvino:HEB.10.19#152": {
+  "text_es": "19. ⸢Así que, hermanos, etc.⸣ Expone la conclusión o el resumen de su doctrina anterior, a la cual luego añade oportunamente una seria exhortación, y pronuncia una severa amenaza contra quienes habían renunciado a la gracia de Cristo. Ahora bien, el resumen de lo que había dicho es que todas las ceremonias por las cuales bajo la Ley se abría un acceso al santuario tienen su verdadero cumplimiento en Cristo, de modo que para quien tiene a Cristo, el uso de ellas es superfluo e inútil. Para exponer esto más plenamente, describe alegóricamente el acceso que Cristo nos ha abierto; pues compara el cielo con el antiguo santuario, y expone las cosas que se han cumplido espiritualmente en Cristo con expresiones típicas. Las alegorías ciertamente a veces oscurecen más que ilustran un tema; pero cuando el Apóstol transfiere a Cristo las antiguas figuras de la Ley, no hay poca elegancia en lo que dice, y no poca luz se alcanza; y lo hizo para que reconozcamos como ahora realmente exhibido en él todo lo que la Ley prefiguraba. Pero como hay gran peso casi en cada palabra, debemos recordar que aquí ha de entenderse un contraste: la verdad o realidad tal como se ve en Cristo, y la abolición de los antiguos tipos.\n\nDice primero que tenemos ⸢libertad para entrar en el santuario⸣. Este privilegio nunca fue concedido a los padres bajo la Ley, pues al pueblo se le prohibía entrar en el santuario visible, aunque el pontífice llevaba los nombres de las tribus sobre sus hombros, y doce piedras como memorial de ellas sobre su pecho. Pero ahora el caso es muy distinto, pues no solo simbólicamente, sino en realidad, se nos abre una entrada al cielo por el favor de Cristo, pues nos ha hecho un sacerdocio real.\n\nAñade, ⸢por la sangre de Jesús⸣, porque la puerta del santuario no se abría para la entrada periódica del pontífice sino mediante la intervención de sangre. Pero después señala la diferencia entre esta sangre y la de las bestias; pues la sangre de las bestias, como pronto se corrompe, no podía retener por mucho tiempo su eficacia; pero la sangre de Cristo, que no está sujeta a corrupción, sino que fluye siempre como un arroyo puro, es suficiente para nosotros hasta el fin del mundo. No es de extrañar que las bestias muertas en sacrificio no tuvieran poder para vivificar, pues estaban muertas; pero Cristo, que resucitó de los muertos para darnos vida, nos comunica su propia vida. Es una consagración perpetua del camino, porque la sangre de Cristo está siempre en cierto modo destilando ante la presencia del Padre, para regar el cielo y la tierra.",
+  "lemas_es": [
+   "Así que, hermanos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "577fd5fe37e7",
+  "lemas_rv1909": [
+   {
+    "lema": "Así que, hermanos",
+    "ref": "HEB.10.19"
+   }
+  ]
+ },
+ "calvino:HEB.10.20#153": {
+  "text_es": "20. ⸢Por el velo, etc.⸣ Así como el velo cubría los recintos interiores del santuario y sin embargo daba acceso a él, así la divinidad, aunque oculta en la carne de Cristo, nos conduce hasta el cielo; ni nadie puede hallar a Dios sino aquel a quien el hombre Cristo le llega a ser la puerta y el camino. Así se nos recuerda que la gloria de Cristo no ha de estimarse según la apariencia externa de su carne; ni ha de despreciarse su carne, porque oculta como un velo la majestad de Dios, siendo también la que nos conduce al goce de todos los bienes de Dios.",
+  "lemas_es": [
+   "Por el velo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4169987949c2",
+  "lemas_rv1909": [
+   {
+    "lema": "por el velo",
+    "ref": "HEB.10.20"
+   }
+  ]
+ },
+ "calvino:HEB.10.21#154": {
+  "text_es": "21. ⸢Y teniendo un gran sacerdote, etc.⸣ Cuanto ha dicho antes de la abrogación del antiguo sacerdocio, conviene que ahora lo tengamos presente, pues Cristo no podía ser sacerdote sin que los anteriores sacerdotes quedaran despojados de su oficio, ya que era otro orden. Insinúa, pues, que todas aquellas cosas que Cristo cambió al venir debían abandonarse; y Dios lo ha puesto sobre toda su casa con este fin: que todo el que busque un lugar en la Iglesia se someta a Cristo y lo elija a él, y a ningún otro, como su guía y gobernante.",
+  "lemas_es": [
+   "Y teniendo un gran sacerdote"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9c6cc0458c93",
+  "lemas_rv1909": [
+   {
+    "lema": "Y ⸢teniendo⸣ un gran sacerdote",
+    "ref": "HEB.10.21"
+   }
+  ]
+ },
+ "calvino:HEB.10.22#155": {
+  "text_es": "22. ⸢Acercémonos con corazón verdadero, etc.⸣ Así como muestra que en Cristo y en su sacrificio no hay nada sino lo que es espiritual o celestial, así también quiere que lo que nosotros aportamos por nuestra parte corresponda a ello. Los judíos antiguamente se purificaban con diversas abluciones para prepararse para el servicio de Dios. No es de extrañar que los ritos de purificación fueran carnales, puesto que el culto mismo de Dios, envuelto aún en sombras, participaba en cierto modo de lo carnal. Pues el sacerdote, siendo mortal, era escogido de entre los pecadores para realizar por un tiempo las cosas sagradas; estaba ciertamente adornado con vestiduras preciosas, pero eran de este mundo, para que pudiera estar en la presencia de Dios; solo se acercaba a la obra del pacto; y para santificar su entrada, tomaba prestado para sacrificio un animal bruto, ya del rebaño, ya del aprisco. Pero en Cristo todas estas cosas son muy superiores; Él mismo no solo es puro e inocente, sino que es también la fuente de toda santidad y justicia, y fue constituido sacerdote por un oráculo celestial, no por el breve período de una vida mortal, sino perpetuamente. Para sancionar su nombramiento se interpuso un juramento. Salió adornado con todos los dones del Espíritu Santo en la más alta perfección; propició a Dios con su propia sangre, y lo reconcilió con los hombres; ascendió por encima de todos los cielos para presentarse ante Dios como nuestro Mediador.\n\nAhora bien, por nuestra parte, nada ha de aportarse sino lo que corresponda a todo esto, pues debe haber una mutua concordia o armonía entre el sacerdote y el pueblo. Lejos, pues, todas las abluciones externas de la carne, y cesen todo el aparato de ceremonias; porque el Apóstol opone a estos ritos externos un ⸢corazón verdadero⸣, la certeza de la fe y una purificación de todos los vicios. Y de aquí aprendemos cuál debe ser la disposición de nuestra mente para que podamos gozar de los beneficios conferidos por Cristo; pues no hay manera de llegar a él sin un corazón recto o verdadero, una fe segura y una conciencia pura.\n\nAhora bien, un corazón ⸢verdadero⸣ o sincero se opone a un corazón hipócrita y engañoso. Con el término ⸢plena certidumbre⸣, πληροφορία, el Apóstol señala la naturaleza de la fe, y al mismo tiempo nos recuerda que la gracia de Cristo no puede recibirse sino por quienes poseen una convicción firme e indeclinable. La ⸢aspersión del corazón de una mala conciencia⸣ tiene lugar, o bien cuando, al obtener el perdón, somos considerados puros ante Dios, o bien cuando el corazón, limpio de todas las afecciones corruptas, no es estimulado por los aguijones de la carne. Me inclino a incluir ambas cosas. Lo que sigue, ⸢nuestros cuerpos lavados con agua pura⸣, se entiende generalmente del bautismo; pero me parece más probable que el Apóstol aluda a las antiguas ceremonias de la Ley; y así, por agua designa el Espíritu de Dios, conforme a lo que se dice por Ezequiel: «Esparciré sobre vosotros agua limpia» (Ezequiel 36:25). El sentido es que somos hechos partícipes de Cristo si nos acercamos a él, santificados en cuerpo y alma; y sin embargo, que esta santificación no consiste en una visible ostentación de ceremonias, sino que procede de la fe, de la conciencia pura y de aquella limpieza de alma y cuerpo que fluye del Espíritu de Dios y es efectuada por él. Así Pablo exhorta a los fieles a limpiarse de toda inmundicia de carne y de espíritu, puesto que habían sido adoptados por Dios como sus hijos. (2 Corintios 7:1.)",
+  "lemas_es": [
+   "Acercémonos con corazón verdadero"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fe1aae44631c",
+  "corregido_por_juez": "Traduce 'fixed and unhesitating conviction' como 'convicción firme e indecisa', invirtiendo el sentido de 'unhesitating'.",
+  "lemas_rv1909": [
+   {
+    "lema": "con corazón verdadero",
+    "ref": "HEB.10.22"
+   }
+  ]
+ },
+ "calvino:HEB.10.23#156": {
+  "text_es": "23. ⸢Retengamos firme, etc.⸣ Al exhortar aquí a los judíos a perseverar, menciona la esperanza más bien que la fe; pues así como la esperanza nace de la fe, así también por ella es alimentada y sostenida hasta el fin. Exige también la ⸢profesión⸣ o confesión, pues no es verdadera fe sino la que se muestra ante los hombres. Y parece tocar indirectamente la disimulación de quienes prestaban demasiada atención, para agradar a su propia nación, a las ceremonias de la Ley. Les manda, por tanto, no solo creer con el corazón, sino también mostrar y profesar cuánto honraban a Cristo.\n\nPero debemos notar con cuidado la razón que añade: ⸢fiel es el que prometió.⸣ Pues de aquí aprendemos primeramente que nuestra fe descansa sobre este fundamento: que Dios es veraz, esto es, fiel a su promesa, la cual contiene su palabra; pues para que creamos, la voz o palabra de Dios debe preceder; pero no toda clase de palabra es capaz de producir fe; solo la promesa es aquello sobre lo que la fe se apoya. Y así, de este pasaje podemos aprender la relación mutua entre la fe de los hombres y la promesa de Dios; pues a menos que Dios prometa, nadie puede creer.",
+  "lemas_es": [
+   "Retengamos firme"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c35c2eb42517",
+  "corregido_por_juez": "Invierte la relación: 'la cual contiene su palabra' hace que la promesa contenga la palabra, cuando el original dice que su palabra contiene la promesa.",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.10.23"
+   }
+  ]
+ },
+ "calvino:HEB.10.24#157": {
+  "text_es": "24. ⸢Y considerémonos unos a otros, etc.⸣ No dudo que se dirige especialmente a los judíos en esta exhortación. Bien conocido es cuán grande era la arrogancia de aquella nación; siendo descendencia de Abraham, se jactaban de que solo ellos, con exclusión de todos los demás, habían sido elegidos por el Señor para heredar el pacto de la vida eterna. Inflados por tal privilegio, despreciaban a las demás naciones y querían ser tenidos como los únicos en la Iglesia de Dios; más aún, se arrogaban altivamente el nombre de ser La Iglesia. Fue necesario que los Apóstoles trabajaran mucho para corregir esta soberbia; y esto, a mi juicio, es lo que el Apóstol hace aquí, para que los judíos no llevaran a mal que los gentiles fueran asociados con ellos y unidos como un solo cuerpo en la Iglesia.\n\nY en primer lugar, ciertamente dice: ⸢Considerémonos unos a otros⸣; pues Dios estaba entonces reuniendo una Iglesia tanto de los judíos como de los gentiles, entre quienes siempre había habido una gran discordia, de modo que su unión era como la combinación del fuego y el agua. De ahí que los judíos rehuyeran esto, pues consideraban una gran indignidad que los gentiles fueran hechos iguales a ellos. A este aguijón de la malvada emulación que los punzaba, el Apóstol opone otro, el del ⸢amor⸣; o la palabra παροξυσμὸς, que usa, significa el ardor de la contienda. Entonces, para que los judíos no se inflamaran de envidia y fueran llevados a la contienda, el Apóstol los exhorta a una emulación piadosa, esto es, a estimularse unos a otros al amor.",
+  "lemas_es": [
+   "Y considerémonos unos a otros"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c9c20b3383c7",
+  "lemas_rv1909": [
+   {
+    "lema": "Y considerémonos los unos a los otros",
+    "ref": "HEB.10.24"
+   }
+  ]
+ },
+ "calvino:HEB.10.25#158": {
+  "text_es": "25. ⸢No dejando de congregarnos, etc.⸣ Esto confirma la opinión que se ha dado. Debe notarse la composición de la palabra griega; pues ἐπὶ significa una adición; luego ἐπισυναγωγὴ, congregación, significa una asamblea aumentada por adiciones. Derribado el muro de separación, Dios estaba entonces reuniendo como hijos suyos a los que habían sido ajenos a la Iglesia; así los gentiles eran una adición nueva e insólita a la Iglesia. Esto los judíos lo consideraban como un reproche para ellos, de modo que muchos se separaron de la Iglesia, pensando que tal mezcla les ofrecía una excusa justa; ni se les podía inducir fácilmente a renunciar a su propio derecho; y además, consideraban el derecho de adopción como peculiar y como perteneciente exclusivamente a ellos. El Apóstol, por tanto, les advierte, no sea que esta igualdad los provoque a abandonar la Iglesia; y para que no pareciera que les advertía sin motivo, menciona que esta negligencia era común a muchos.\n\nAhora entendemos el designio del apóstol, y cuál fue la necesidad que le obligó a dar esta exhortación. Podemos al mismo tiempo extraer de este pasaje una doctrina general:\n\nEs un mal que prevalece en todas partes entre los hombres, que cada uno se pone por encima de los demás, y especialmente que los que parecen sobresalir en algo no pueden soportar bien que sus inferiores estén en igualdad con ellos. Y luego hay tanta morosidad casi en todos, que los individuos con gusto se harían iglesias para sí mismos si pudieran; pues les resulta tan difícil acomodarse a las maneras y costumbres de otros. Los ricos se envidian unos a otros; y apenas uno entre cien puede hallarse entre los ricos que conceda a los pobres el nombre y el rango de hermanos. A menos que la semejanza de costumbres o algunos atractivos o ventajas nos unan, es muy difícil incluso mantener una concordia continua entre nosotros. Sumamente necesaria, por tanto, para todos nosotros es la amonestación de ser estimulados a amar y no a envidiar, y a no separarnos de aquellos a quienes Dios ha unido a nosotros, sino a abrazar con afecto fraternal a todos los que están unidos a nosotros en la fe. Y ciertamente nos corresponde cultivar la unidad con tanto más ardor, cuanto más ansiosamente vigilante está Satanás, ya sea para arrancarnos por cualquier medio de la Iglesia, ya para seducirnos furtivamente de ella. Y tal sería el feliz efecto, si nadie se agradara demasiado a sí mismo, y si todos conserváramos este único objetivo, provocarnos mutuamente al amor, y no permitir entre nosotros ninguna emulación, sino la de hacer «buenas obras». Pues sin duda el desprecio de los hermanos, la morosidad, la envidia, la estima inmoderada de nosotros mismos y otros impulsos pecaminosos, muestran claramente que nuestro amor o es muy frío, o no existe en absoluto.\n\nHabiendo dicho: «No dejando de congregarnos», añade: ⸢sino exhortándonos⸣ unos a otros; con lo cual da a entender que todos los piadosos deben por todos los medios posibles esforzarse en la obra de reunir a la Iglesia por todos lados; pues somos llamados por el Señor con esta condición, que cada uno después procure llevar a otros a la verdad, restaurar al extraviado al camino recto, extender una mano de ayuda al caído, ganar a los que están fuera. Pero si debemos emplear tanto trabajo con los que aún son ajenos al rebaño de Cristo, ¿cuánta más diligencia se requiere para exhortar a los hermanos que Dios ya ha unido a nosotros?\n\n⸢Como es costumbre de algunos, etc.⸣ De aquí aparece que el origen de todos los cismas fue que hombres soberbios, despreciando a otros, se agradaban demasiado a sí mismos. Pero cuando oímos que había hombres infieles incluso en la edad de los Apóstoles, que se apartaron de la Iglesia, debemos estar menos sorprendidos y perturbados por casos similares de defección que podamos ver en el día presente. En verdad no es una ofensa leve cuando hombres que habían dado alguna evidencia de piedad y profesado la misma fe que nosotros, caen del Dios vivo; pero como no es cosa nueva, debemos, como ya he dicho, estar menos perturbados por tal acontecimiento. Pero el Apóstol introdujo esta cláusula para mostrar que no hablaba sin causa, sino para aplicar un remedio a una enfermedad que iba progresando.\n\n⸢Y tanto más, etc.⸣ Algunos piensan que este pasaje tiene el mismo sentido que el de Pablo:\n\n«Es ya hora de levantarnos del sueño; porque ahora está más cerca de nosotros nuestra salvación que cuando creímos.» (Romanos 13:11.)\n\nPero más bien pienso que aquí se hace referencia a la última venida de Cristo, cuya expectación debe sobre todo despertarnos a la práctica de una vida santa, así como a esfuerzos cuidadosos y diligentes en la obra de reunir a la Iglesia. Pues ¿con qué fin vino Cristo sino para reunirnos a todos en un solo cuerpo desde aquella dispersión en que ahora andamos errantes? Por tanto, cuanto más cerca está su venida, tanto más debemos trabajar para que los dispersos sean reunidos y unidos, para que haya un solo rebaño y un solo pastor (Juan 10:16.)\n\nSi alguien preguntara cómo pudo el Apóstol decir que aquellos que aún estaban lejos de la manifestación de Cristo veían el día cercano y a punto de llegar, respondería que desde el comienzo del reino de Cristo la Iglesia fue constituida de tal manera que los fieles debían haber considerado al Juez como quien viene pronto; ni en verdad fueron engañados por una falsa noción, cuando estaban preparados para recibir a Cristo casi en cada momento; pues tal era la condición de la Iglesia desde el tiempo en que el Evangelio fue promulgado, que todo aquel período podía verdadera y propiamente llamarse el último. Aquellos, pues, que murieron hace muchas edades vivieron en los últimos días no menos que nosotros. Nuestra simplicidad a este respecto es ridiculizada por los sabios del mundo y los burladores, que consideran fabuloso todo lo que creemos respecto a la resurrección de la carne y el juicio final; pero para que nuestra fe no desfallezca por su burla, el Espíritu Santo nos recuerda que mil años son ante Dios como un día (2 Pedro 3:8;) de modo que siempre que pensemos en la eternidad del reino celestial, ningún tiempo debe parecernos largo. Y además, puesto que Cristo, después de haber completado todas las cosas necesarias para nuestra salvación, ha ascendido al cielo, es razonable que nosotros, que esperamos continuamente su segunda manifestación, consideremos cada día como si fuera el último.",
+  "lemas_es": [
+   "No dejando de congregarnos",
+   "Como es costumbre de algunos",
+   "Y tanto más"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e8582138b2fe",
+  "lemas_rv1909": [
+   {
+    "lema": "No dejando nuestra congregación",
+    "ref": "HEB.10.25"
+   },
+   {
+    "lema": "como algunos tienen por costumbre",
+    "ref": "HEB.10.25"
+   },
+   {
+    "lema": "y tanto más",
+    "ref": "HEB.10.25"
+   }
+  ]
+ },
+ "calvino:HEB.10.26#159": {
+  "text_es": "26.⸢Porque si pecáremos voluntariamente,⸣ o ⸢voluntariamente, etc.⸣ Muestra cuán severa venganza de Dios aguarda a todos los que se apartan de la gracia de Cristo; pues al carecer de aquella única y verdadera salvación, quedan ahora como entregados a una destrucción inevitable. Con este testimonio se armaron antiguamente ⸢Novato⸣ y su secta, para quitar la esperanza del perdón a todos sin distinción los que habían caído después del bautismo. Quienes no pudieron refutar su calumnia prefirieron negar la autoridad de esta Epístola antes que suscribir tan gran absurdo. Pero el verdadero sentido del pasaje, sin ayuda de ninguna otra parte, es de por sí bastante para poner al descubierto la desfachatez de ⸢Novato⸣\n\nLos que ⸢pecan,⸣ mencionados por el Apóstol, no son tales que ofenden de cualquier manera, sino tales que abandonan la Iglesia y se alejan por completo de Cristo. Pues no habla aquí de este o de aquel pecado, sino que condena por nombre a quienes renunciaron voluntariamente a la comunión con la Iglesia. Pero hay una vastísima diferencia entre caídas particulares y una defección completa de esta clase, por la cual nos apartamos enteramente de la gracia de Cristo. Y como esto no puede sucederle a nadie sino al que ya ha sido iluminado, dice: ⸢Si pecáremos voluntariamente, después de haber recibido el conocimiento de la verdad;⸣ como si hubiera dicho: «Si con conocimiento y voluntad renunciamos a la gracia que habíamos obtenido». Ahora es evidente cuán lejos está esta doctrina del error de ⸢Novato⸣\n\nY que el Apóstol se refiere aquí solo a los apóstatas, se ve claro por todo el pasaje; pues de lo que trata es de esto: que quienes una vez fueron recibidos en la Iglesia no deben abandonarla, como algunos solían hacer. Ahora declara que para tales no quedaba ya ningún sacrificio por el pecado, porque habían pecado voluntariamente después de haber recibido el conocimiento de la verdad. Pero en cuanto a los pecadores que caen de cualquier otra manera, Cristo se les ofrece diariamente, de modo que no han de buscar ningún otro sacrificio para expiar sus pecados. Niega, pues, que quede algún sacrificio para quienes renuncian a la muerte de Cristo, lo cual no se hace por ninguna ofensa sino por una renuncia total de la fe.\n\nEsta severidad de Dios es ciertamente terrible, pero se expone con el propósito de inspirar temor. No puede, sin embargo, ser acusado de crueldad; pues como la muerte de Cristo es el único remedio por el cual podemos ser librados de la muerte eterna, ¿no son acaso dignos de ser abandonados a la desesperación quienes destruyen en cuanto pueden su virtud y beneficio? Dios invita a la reconciliación diaria a los que permanecen en Cristo; son lavados diariamente por la sangre de Cristo, sus pecados son expiados diariamente por su perpetuo sacrificio. Como la salvación no ha de buscarse sino en él, no hay por qué maravillarse de que todos los que voluntariamente lo abandonan queden privados de toda esperanza de perdón: este es el sentido del adverbio ἔτι, más. Pero el sacrificio de Cristo es eficaz para los piadosos hasta la muerte, aunque pequen a menudo; más aún, conserva siempre su eficacia, precisamente por esta razón, porque no pueden estar libres de pecado mientras habitan en la carne. El Apóstol se refiere, pues, solo a aquellos que maliciosamente abandonan a Cristo y así se privan a sí mismos del beneficio de su muerte.\n\nLa cláusula «después de haber recibido el conocimiento de la verdad» fue añadida con el propósito de agravar su ingratitud; pues quien voluntariamente y con deliberada impiedad extingue la luz de Dios encendida en su corazón no tiene nada que alegar como excusa ante Dios. Aprendamos, pues, no solo a recibir con reverencia y pronta docilidad de ánimo la verdad que se nos ofrece, sino también a perseverar firmemente en su conocimiento, para que no suframos el terrible castigo de quienes la desprecian.",
+  "lemas_es": [
+   "Porque si pecáremos voluntariamente"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "760a1c089b62",
+  "text_es_2": "26.⸢ Porque si pecáremos voluntariamente,⸣ o ⸢voluntariamente etc.⸣ Muestra cuán severa venganza de Dios aguarda a todos los que se apartan de la gracia de Cristo; pues, al carecer de aquella única y verdadera salvación, quedan ahora como entregados a una destrucción inevitable. Con este testimonio se armaron antiguamente ⸢Novatus⸣ y su secta, para quitar a todos indiscriminadamente la esperanza de perdón a los que habían caído después del bautismo. Quienes no podían refutar su calumnia prefirieron negar la autoridad de esta Epístola antes que suscribir tan gran absurdidad. Pero el verdadero sentido del pasaje, sin ayuda de ninguna otra parte, es de por sí bastante para poner al descubierto la desfachatez de ⸢Novatus⸣\n\nLos que ⸢pecan,⸣ mencionados por el Apóstol, no son tales que ofenden de cualquier manera, sino tales que abandonan la Iglesia y se alejan por completo de Cristo. Pues no habla aquí de este o de aquel pecado, sino que condena por nombre a quienes renunciaron voluntariamente a la comunión con la Iglesia. Pero hay una enorme diferencia entre caídas particulares y una defección completa de esta clase, por la cual nos apartamos por entero de la gracia de Cristo. Y como esto no puede suceder a nadie sino al que ya ha sido iluminado, dice: ⸢Si pecáremos voluntariamente después de haber recibido el conocimiento de la verdad;⸣ como si hubiera dicho: «Si renunciamos a sabiendas y voluntariamente a la gracia que habíamos alcanzado». Ahora es evidente cuán lejos está esta doctrina del error de ⸢Novatus⸣\n\nY que el Apóstol se refiere aquí solo a los apóstatas, se ve claro por todo el pasaje; pues de lo que trata es de esto: que quienes una vez fueron recibidos en la Iglesia no deben abandonarla, como algunos solían hacer. Declara ahora que para tales no queda ningún sacrificio por el pecado, porque habían pecado voluntariamente después de haber recibido el conocimiento de la verdad. Pero en cuanto a los pecadores que caen de cualquier otra manera, Cristo se ofrece diariamente a ellos, de modo que no deben buscar otro sacrificio para expiar sus pecados. Niega, pues, que quede sacrificio alguno para quienes renuncian a la muerte de Cristo, lo cual no se hace por ninguna ofensa sino por una renuncia total de la fe.\n\nEsta severidad de Dios es ciertamente terrible, pero se expone con el propósito de inspirar temor. Sin embargo, no se le puede acusar de crueldad; pues, siendo la muerte de Cristo el único remedio por el cual podemos ser librados de la muerte eterna, ¿no son dignos de ser dejados a la desesperación quienes destruyen, en cuanto pueden, su virtud y beneficio? Dios invita a la reconciliación diaria a quienes permanecen en Cristo; son lavados diariamente por la sangre de Cristo, sus pecados son expiados diariamente por su perpetuo sacrificio. Puesto que la salvación no ha de buscarse sino en él, no hay que maravillarse de que todos los que voluntariamente le abandonan sean privados de toda esperanza de perdón: este es el sentido del adverbio ἔτι, más. Pero el sacrificio de Cristo es eficaz para los piadosos aun hasta la muerte, aunque pequen con frecuencia; más aún, conserva siempre su eficacia, precisamente por esta razón: porque no pueden estar libres de pecado mientras habitan en la carne. El Apóstol, pues, se refiere únicamente a aquellos que malvadamente abandonan a Cristo y así se privan a sí mismos del beneficio de su muerte.\n\nLa cláusula «después de haber recibido el conocimiento de la verdad» fue añadida para agravar su ingratitud; pues quien voluntariamente y con impiedad deliberada apaga la luz de Dios encendida en su corazón no tiene nada que alegar como excusa ante Dios. Aprendamos, pues, no solo a recibir con reverencia y pronta docilidad de ánimo la verdad que se nos ofrece, sino también a perseverar firmemente en su conocimiento, para que no suframos el terrible castigo de quienes la desprecian.",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "Porque si pecáremos voluntariamente",
+    "ref": "HEB.10.26"
+   }
+  ]
+ },
+ "calvino:HEB.10.27#160": {
+  "text_es": "27. ⸢Sino una cierta expectación terrible, etc.⸣ Se refiere al tormento de una mala conciencia que sienten los impíos, quienes no solo carecen de gracia, sino que además saben que, habiendo gustado la gracia, la han perdido para siempre por su propia culpa; tales no solo deben ser punzados y mordidos, sino también atormentados y desgarrados de manera terrible. De ahí que luchen rebeldes contra Dios, pues no pueden soportar a un Juez tan estricto. En verdad intentan por todos los medios quitar de sí el sentimiento de la ira de Dios, pero todo en vano; pues cuando Dios les concede un breve respiro, pronto los lleva ante su tribunal y los acosa con los tormentos que precisamente evitan.\n\nAñade ⸢ira de fuego,⸣ o el ardor del fuego; con lo cual significa, según creo, un impulso vehemente o un ardor violento. La palabra ⸢fuego⸣ es una metáfora común; pues así como los impíos están ahora en un ardor por el temor de la ira divina, así entonces arderán por ese mismo sentimiento. Tampoco ignoro que los sofistas han especulado sutilmente sobre este fuego; pero no hago caso de sus glosas, ya que es evidente que se trata del mismo modo de hablar que cuando la Escritura une el fuego con el gusano. (Isaías 66:24.) Pero nadie duda de que el gusano se usa metafóricamente para designar aquel terrible tormento de la conciencia por el cual los impíos son roídos.\n\n⸢Que ha de devorar a los adversarios.⸣ Los devorará de tal modo que los destruya, pero no los consuma; pues será inextinguible. Y así nos recuerda que todos han de ser contados como enemigos de Cristo quienes se negaron a mantener el lugar que les fue concedido entre los fieles; pues no hay estado intermedio, ya que quienes se apartan de la Iglesia se entregan a Satanás.",
+  "lemas_es": [
+   "Sino una cierta expectación terrible",
+   "Que ha de devorar a los adversarios"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6ee93d912ae7",
+  "text_es_2": "27. ⸢Sino una horrenda expectación, etc.⸣ Quiere decir el tormento de una mala conciencia que sienten los impíos, quienes no solo no tienen gracia, sino que además saben que, habiendo gustado la gracia, la han perdido para siempre por su propia culpa; tales no solo deben ser punzados y mordidos, sino también atormentados y lacerados de manera terrible. De ahí que luchen rebeldes contra Dios, pues no pueden soportar un Juez tan estricto. En verdad intentan de todas las maneras quitar de sí el sentido de la ira de Dios, pero todo en vano; pues cuando Dios les concede un breve respiro, pronto los lleva ante su tribunal y los acosa con los tormentos que especialmente evitan.\n\nAñade, ⸢hervor de fuego,⸣ o el calor del fuego; con lo cual quiere decir, según pienso, un impulso vehemente o un ardor violento. La palabra ⸢fuego⸣ es una metáfora común; pues así como los impíos ahora están ardientes por el temor de la ira divina, así entonces arderán por el mismo sentimiento. Tampoco me es desconocido que los sofistas han especulado sutilmente acerca de este fuego; pero no hago caso de sus glosas, ya que es evidente que es el mismo modo de hablar que cuando la Escritura une el fuego con el gusano. (Isaías 66:24.) Pero nadie duda de que el gusano se usa metafóricamente para designar aquel terrible tormento de conciencia por el cual los impíos son roídos.\n\n⸢Que ha de devorar a los adversarios.⸣ Los devorará de tal modo que los destruya, pero no los consuma; pues será inextinguible. Y así nos recuerda que todos los que se han negado a mantener el lugar que se les concedió entre los fieles deben ser contados como enemigos de Cristo; pues no hay estado intermedio, ya que quienes se apartan de la Iglesia se entregan a Satanás.",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.10.27"
+   },
+   {
+    "lema": "ha de devorar a los adversarios",
+    "ref": "HEB.10.27"
+   }
+  ]
+ },
+ "calvino:HEB.10.28#161": {
+  "text_es": "28. ⸢El que menospreció, etc.⸣ Este es un argumento de lo menor a lo mayor; pues si era delito capital violar la ley de Moisés, cuánto más grave castigo merece el rechazo del Evangelio, pecado que implica tantas y tan atroces impiedades. Este razonamiento estaba ciertamente muy a propósito para impresionar a los judíos; pues tan severo castigo sobre los apóstatas bajo la Ley no era nuevo para ellos, ni podía parecer injustamente riguroso. Debían, pues, haber reconocido como justa aquella venganza, por severa que fuera, con la cual Dios sanciona ahora la majestad de su Evangelio\n\nCon esto se confirma también lo que ya he dicho: que el Apóstol no habla de pecados particulares, sino de la negación total de Cristo; pues la Ley no castigaba con la muerte todo tipo de transgresiones, sino la apostasía, es decir, cuando alguno renunciaba por completo a la religión; pues el Apóstol se refería a un pasaje de Deuteronomio 17:2-7, donde hallamos que si alguno violaba el pacto de Dios adorando dioses ajenos, había de ser llevado fuera de la puerta y apedreado hasta morir.\n\nAhora bien, aunque la Ley procedía de Dios, y Moisés no era su autor, sino su ministro, el Apóstol la llama ley de Moisés, porque había sido dada por medio de él: esto se dijo para amplificar más la dignidad del Evangelio, que nos ha sido entregado por el Hijo de Dios.\n\n⸢Bajo dos o tres testigos, etc.⸣ Esto no atañe al tema presente; pero era parte de la ley civil de Moisés que se requirieran dos o tres testigos para probar culpable al acusado. Sin embargo, de aquí aprendemos qué clase de crimen quería decir el Apóstol; pues de no haberse añadido esto, se habría dejado abierta la puerta a muchas falsas conjeturas. Pero ahora está fuera de toda disputa que habla de la apostasía. Al mismo tiempo, debía observarse aquella equidad que casi todos los estadistas han adoptado: que nadie sea condenado sin que se le pruebe culpable por el testimonio de dos testigos.",
+  "lemas_es": [
+   "El que menospreció",
+   "Bajo dos o tres testigos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6035d8e6fc79",
+  "text_es_2": "28. ⸢El que menospreciare, etc.⸣ Este es un argumento de lo menor a lo mayor; pues si era delito capital violar la ley de Moisés, ¡cuánto más grave castigo merece el rechazo del Evangelio, pecado que implica tantas y tan atroces impiedades! Este razonamiento era en verdad muy apto para impresionar a los judíos; pues un castigo tan severo sobre los apóstatas bajo la Ley no era nuevo para ellos, ni podía parecer injustamente riguroso. Debían, entonces, haber reconocido como justa aquella venganza, por severa que fuera, con la cual Dios sanciona ahora la majestad de su Evangelio.\n\nPor esto se confirma también lo que ya he dicho: que el Apóstol no habla de pecados particulares, sino de la negación entera de Cristo; pues la Ley no castigaba con muerte toda clase de transgresiones, sino la apostasía, es decir, cuando alguno renunciaba por completo a la religión; pues el Apóstol se refería a un pasaje de Deuteronomio 17:2-7, donde hallamos que, si alguno violaba el pacto de Dios adorando dioses extranjeros, había de ser llevado fuera de la puerta y apedreado hasta morir.\n\nAhora bien, aunque la Ley procedía de Dios, y Moisés no era su autor, sino su ministro, el Apóstol la llama ley de Moisés, porque había sido dada por medio de él; esto se dijo para realzar aún más la dignidad del Evangelio, que nos ha sido entregado por el Hijo de Dios.\n\n⸢Por el testimonio de dos o de tres testigos, etc.⸣ Esto no pertenece al tema presente; pero era parte de la ley civil de Moisés que se requirieran dos o tres testigos para probar culpable al acusado. Sin embargo, de aquí aprendemos qué clase de crimen quería decir el Apóstol; pues si no se hubiera añadido esto, se habría dejado abierta la puerta a muchas conjeturas falsas. Pero ahora está fuera de toda disputa que habla de apostasía. Al mismo tiempo, debe observarse aquella equidad que casi todos los legisladores han adoptado: que nadie sea condenado sin que se le pruebe culpable por el testimonio de dos testigos.",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "El que menospreciare",
+    "ref": "HEB.10.28"
+   },
+   {
+    "lema": "dos o de tres testigos",
+    "ref": "HEB.10.28"
+   }
+  ]
+ },
+ "calvino:HEB.10.29#162": {
+  "text_es": "29. ⸢Quién ha pisoteado al Hijo de Dios, etc.⸣ Hay esta semejanza entre los apóstatas bajo la Ley y bajo el Evangelio: que ambos perecen sin misericordia; pero el género de muerte es distinto; pues el Apóstol denuncia sobre los despreciadores de Cristo no solo las muertes del cuerpo, sino la perdición eterna. Y por eso dice que les espera un castigo más severo. Y designa la deserción del cristianismo por tres cosas; pues dice que así el Hijo de Dios es pisoteado, que su sangre es tenida por cosa inmunda, y que se hace afrenta al Espíritu de gracia. Ahora bien, es cosa más atroz pisotear que despreciar o rechazar; y la dignidad de Cristo es muy distinta de la de Moisés; y además, no opone simplemente el Evangelio a la Ley, sino la persona de Cristo y del Espíritu Santo a la persona de Moisés.\n\n⸢La sangre del pacto, etc.⸣ Realza la ingratitud mediante una comparación con los beneficios. Es la mayor indignidad tener por inmunda la sangre de Cristo, por la cual se efectúa nuestra santidad; esto lo hacen quienes se apartan de la fe. Pues nuestra fe no mira la doctrina desnuda, sino la sangre por la cual ha sido ratificada nuestra salvación. La llama la sangre del ⸢pacto⸣, porque solo entonces nos fueron aseguradas las promesas cuando se añadió esta prenda. Pero señala el modo de esta confirmación al decir que somos ⸢santificados⸣; pues la sangre derramada de nada nos serviría, si no fuéramos rociados con ella por el Espíritu Santo; y de ahí vienen nuestra expiación y santificación. El apóstol alude al mismo tiempo al antiguo rito de la aspersión, que no servía para la santificación real, sino que era solo su sombra o imagen.\n\n⸢El Espíritu de gracia.⸣ Lo llama el Espíritu de gracia por los efectos producidos; pues es por el Espíritu y mediante su influencia que recibimos la gracia ofrecida en Cristo. Pues él es quien ilumina nuestras mentes por la fe, quien sella la adopción de Dios en nuestros corazones, quien nos regenera para novedad de vida, quien nos injerta en el cuerpo de Cristo, para que él viva en nosotros y nosotros en él. Es, por tanto, llamado con razón el Espíritu de gracia, por quien Cristo llega a ser nuestro con todas sus bendiciones. Pero hacer afrenta a él, o tratarlo con desprecio, a quien debemos tantos beneficios, es una impiedad sumamente malvada. De ahí aprende que todos los que voluntariamente hacen inútil su gracia, por la cual habían sido favorecidos, actúan con desdén hacia el Espíritu de Dios.\n\nNo es, pues, de extrañar que Dios castigue tan severamente blasfemias de este género; no es de extrañar que se muestre inexorable con quienes pisotean a Cristo el Mediador, que solo nos reconcilia consigo; no es de extrañar que cierre el camino de la salvación a quienes rechazan al Espíritu Santo, el único guía verdadero.",
+  "lemas_es": [
+   "Quién ha pisoteado al Hijo de Dios",
+   "La sangre del pacto",
+   "El Espíritu de gracia"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "df1978e2c927",
+  "text_es_2": "29. ⸢El que hollare al Hijo de Dios, etc.⸣ Hay esta semejanza entre los apóstatas bajo la Ley y bajo el Evangelio: que ambos perecen sin misericordia; pero la clase de muerte es diferente; pues el Apóstol denuncia contra los despreciadores de Cristo no solo la muerte del cuerpo, sino la perdición eterna. Y por tanto dice que les espera un castigo más severo. Y señala la deserción del cristianismo por tres cosas; pues dice que así el Hijo de Dios es hollado, que su sangre es tenida por inmunda, y que se hace afrenta al Espíritu de gracia. Ahora bien, es cosa más atroz hollar que despreciar o rechazar; y la dignidad de Cristo es muy diferente de la de Moisés; y además, no pone simplemente el Evangelio en oposición a la Ley, sino la persona de Cristo y del Espíritu Santo a la persona de Moisés.\n\n⸢La sangre del testamento, etc.⸣ Realza la ingratitud mediante una comparación con los beneficios. Es la mayor indignidad tener por inmunda la sangre de Cristo, por la cual se efectúa nuestra santidad; esto lo hacen quienes se apartan de la fe. Pues nuestra fe no mira la doctrina desnuda, sino la sangre por la cual ha sido ratificada nuestra salvación. La llama la sangre del ⸢testamento⸣, porque solo entonces nos fueron aseguradas las promesas cuando se añadió esta prenda. Pero señala la manera de esta confirmación al decir que somos ⸢santificados⸣; pues la sangre derramada de nada nos serviría, a menos que fuésemos rociados con ella por el Espíritu Santo; y de ahí provienen nuestra expiación y santificación. El Apóstol al mismo tiempo alude al antiguo rito de aspersión, que no servía para la verdadera santificación, sino que era solo su sombra o imagen.\n\n⸢El Espíritu de gracia.⸣ Lo llama Espíritu de gracia por los efectos producidos; pues es por el Espíritu y mediante su influencia que recibimos la gracia que se nos ofrece en Cristo. Pues él es quien ilumina nuestras mentes por la fe, quien sella en nuestros corazones la adopción de Dios, quien nos regenera para novedad de vida, quien nos injerta en el cuerpo de Cristo, para que él viva en nosotros y nosotros en él. Por eso es llamado con razón el Espíritu de gracia, por quien Cristo llega a ser nuestro con todas sus bendiciones. Pero hacerle afrenta, o tratarlo con desprecio, a aquel por quien somos dotados de tantos beneficios, es una impiedad sumamente malvada. De aquí aprende que todos los que voluntariamente hacen inútil su gracia, de la cual habían sido favorecidos, actúan con desdén hacia el Espíritu de Dios.\n\nNo es, por tanto, de extrañar que Dios castigue tan severamente blasfemias de esta clase; no es de extrañar que se muestre inexorable con quienes hollan a Cristo el Mediador, que solo él nos reconcilia consigo; no es de extrañar que cierre el camino de la salvación a quienes desprecian al Espíritu Santo, el único guía verdadero.",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.10.29"
+   },
+   {
+    "lema": null,
+    "ref": "HEB.10.29"
+   },
+   {
+    "lema": "Espíritu de gracia",
+    "ref": "HEB.10.29"
+   }
+  ]
+ },
+ "calvino:HEB.10.30#163": {
+  "text_es": "30. ⸢Pues conocemos al que ha dicho, etc.⸣ Ambos pasajes están tomados de Deuteronomio 32:35, 36. Pero como Moisés allí promete que Dios vengaría los agravios hechos a su pueblo, parece que las palabras se aplican de manera impropia y forzada a la venganza a que aquí se refiere; pues ¿de qué habla el Apóstol? De que la impiedad de quienes despreciaron a Dios no quedaría sin castigo. Pablo también en Romanos 12:19, conociendo el verdadero sentido del pasaje, lo acomoda a otro propósito; pues teniendo en vista exhortarnos a la paciencia, nos manda dar lugar a que Dios tome venganza, porque este oficio le pertenece; y esto lo prueba con el testimonio de Moisés. Pero no hay razón para que no convirtamos una declaración particular en una verdad universal. Aunque entonces el designio de Moisés era consolar a los fieles, ya que tendrían a Dios como vengador de los agravios hechos contra ellos; sin embargo, siempre podemos concluir de sus palabras que es oficio peculiar de Dios tomar venganza de los impíos. Ni pervierte su testimonio quien de ahí prueba que el desprecio de Dios no quedará sin castigo; pues es juez justo quien se atribuye a sí mismo el oficio de tomar venganza.\n\nAl mismo tiempo el Apóstol podría aquí también razonar de lo menor a lo mayor, y de esta manera: «Dios dice que no permitirá que su pueblo sea dañado impunemente, y declara que ciertamente será su vengador: Si no deja sin castigo los agravios hechos a los hombres, ¿no vengará los suyos? ¿Tiene tan poco o ningún cuidado y preocupación por su propia gloria, como para tolerar y pasar por alto las indignidades que se le ofrecen?» Pero la primera opinión es más simple y natural: que el Apóstol solo muestra que Dios no será burlado impunemente, ya que es oficio peculiar suyo dar a los impíos lo que han merecido.\n\n⸢El Señor juzgará a su pueblo.⸣ Aquí surge otra dificultad mayor; pues el sentido de Moisés no parece concordar con lo que aquí se pretende. El Apóstol parece haber citado este pasaje como si Moisés hubiera usado la palabra castigar, y no juzgar; pero como inmediatamente sigue a modo de explicación: «Será misericordioso con sus santos», resulta evidente que juzgar aquí es actuar como gobernante, según su frecuente sentido en hebreo; pero esto parece tener poco que ver con el tema presente. Sin embargo, quien pese bien todas las cosas hallará que este pasaje es traído aquí de manera oportuna y adecuada; pues Dios no puede gobernar la Iglesia sin purificarla, y sin poner en orden la confusión que pueda haber en ella. Por tanto, este gobierno debe ser justamente temido por los hipócritas, quienes entonces serán castigados por usurpar un lugar entre los fieles, y por usar pérfidamente el nombre sagrado de Dios, cuando el padre de familia emprende él mismo el cuidado de poner en orden su propia casa. En este sentido se dice que Dios se levanta para juzgar a su pueblo, es decir, cuando separa a los verdaderamente piadosos de los hipócritas, (Salmos 1:4;) y en Salmos 125:5, donde el Profeta habla de exterminar a los hipócritas, para que no se atrevan más a jactarse de ser de la Iglesia, porque Dios los toleraba; promete paz a Israel después de haber ejecutado su juicio.\n\nNo fue, pues, sin razón que el apóstol les recordara que Dios presidía su Iglesia y no omitía nada necesario para su recto gobierno, a fin de que todos aprendieran a guardarse cuidadosamente bajo su poder, y recordaran que tenían que rendir cuentas a su juez.\n\nDe ahí concluye que ⸢es cosa terrible caer en las manos del Dios vivo.⸣ Un hombre mortal, por muy encendido que esté, no puede llevar su venganza más allá de la muerte; pero el poder de Dios no está limitado por límites tan estrechos; además, a menudo escapamos de los hombres, pero no podemos escapar del juicio de Dios. Quienquiera, pues, considere que tiene que habérselas con Dios, debe (a menos que sea extremadamente necio) temblar y estremecerse de verdad; más aún, tal aprehensión de Dios debe necesariamente absorber al hombre entero, de modo que ninguna tristeza ni tormento pueda compararse con ella. En resumen, siempre que nuestra carne nos seduzca o de algún modo nos halaguemos en nuestros pecados, esta sola amonestación debería bastar para despertarnos: que «es cosa terrible caer en las manos del Dios vivo»; pues su ira está provista de castigos terribles que han de ser para siempre.\n\nSin embargo, la frase de David, cuando exclamó que era mejor caer en las manos de Dios que en las manos de los hombres, (2 Samuel 24:14,) parece ser incompatible con lo que aquí se dice. Pero esta aparente incompatibilidad desaparece cuando consideramos que David, confiando con seguridad en la misericordia de Dios, lo eligió a él como su Juez antes que a los hombres; pues aunque sabía que Dios estaba disgustado con él, sin embargo confiaba en que se reconciliaría con él; en sí mismo, ciertamente, estaba postrado en el suelo, pero aun así fue levantado por la promesa de gracia. Como entonces creía que Dios no era inexorable, no es de extrañar que temiera menos su ira que la de los hombres; pero el Apóstol aquí habla de la ira de Dios como terrible para los réprobos, quienes, carentes de la esperanza del perdón, no esperan sino extrema severidad, pues ya han cerrado contra sí mismos la puerta de la gracia. Y sabemos que Dios es presentado de diversas maneras según el carácter de aquellos a quienes se dirige; y esto es lo que David quiere decir cuando afirma: «Con el misericordioso te mostrarás misericordioso, y con el perverso te mostrarás perverso». (Salmos 18:25-27.)",
+  "lemas_es": [
+   "Pues conocemos al que ha dicho",
+   "El Señor juzgará a su pueblo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "870d3f139cbe",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.10.30"
+   },
+   {
+    "lema": "El Señor juzgará su pueblo",
+    "ref": "HEB.10.30"
+   }
+  ]
+ },
+ "calvino:HEB.10.32#164": {
+  "text_es": "32. ⸢Mas traed a la memoria, etc.⸣ Para estimularlos y despertar su prontitud a seguir adelante, les recuerda las evidencias de piedad que antes habían manifestado; pues es cosa vergonzosa comenzar bien y desmayar en medio de nuestra carrera, y aún más vergonzoso retroceder después de haber hecho grandes progresos. El recuerdo, pues, de la guerra pasada, si se llevó a cabo fiel y diligentemente bajo la bandera de Cristo, nos es al fin útil, no como pretexto para la pereza, como si ya hubiéramos cumplido nuestro tiempo, sino para hacernos más activos en terminar la parte restante de nuestra carrera. Porque Cristo no nos alistó con esta condición, de que después de unos pocos años pidamos la licencia como soldados que han cumplido su tiempo, sino que prosigamos nuestra guerra hasta el fin.\n\nRefuerza además su exhortación diciendo que ya habían realizado grandes proezas en un tiempo en que aún eran nuevos reclutas: tanto mayor vergüenza sería entonces para ellos, si ahora desmayaran después de haber sido probados por largo tiempo; pues la palabra ⸢iluminados⸣ debe limitarse al tiempo en que por primera vez se alistaron bajo Cristo, como si hubiera dicho: «Tan pronto como fuisteis iniciados en la fe de Cristo, soportasteis combates duros y arduos; ahora la práctica debía haberos hecho más fuertes, para ser más valerosos». Al mismo tiempo, sin embargo, les recuerda que fue por favor de Dios que creyeron, y no por su propia fuerza; fueron iluminados cuando estaban sumidos en tinieblas y sin ojos para ver, a menos que la luz de lo alto hubiera brillado sobre ellos. Siempre, pues, que vengan a nuestra mente las cosas que hemos hecho o sufrido por Cristo, séannos otros tantos aguijones que nos inciten a mayores logros.",
+  "lemas_es": [
+   "Mas traed a la memoria"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "de32aa714420",
+  "lemas_rv1909": [
+   {
+    "lema": "traed a la memoria",
+    "ref": "HEB.10.32"
+   }
+  ]
+ },
+ "calvino:HEB.10.33#165": {
+  "text_es": "33. ⸢En parte, siendo hechos, etc.⸣ Vemos quiénes eran aquellos a quienes se dirige, a saber, aquellos cuya fe había sido probada por pruebas nada comunes, y sin embargo no deja de exhortarlos a cosas mayores. Que nadie, pues, se engañe a sí mismo con adulación propia, como si hubiera alcanzado la meta, o no tuviera necesidad de incentivos de otros.\n\nAhora dice que habían sido ⸢hechos espectáculo con reproches y aflicciones⸣, o expuestos a la vergüenza pública por reproches y angustias, como si estuvieran expuestos en un teatro público. De aquí aprendemos que las persecuciones que habían soportado fueron notablemente severas. Pero debemos observar especialmente la cláusula posterior, cuando dice que se hicieron ⸢compañeros⸣, o asociados de los piadosos en sus persecuciones; pues como es la causa de Cristo por la que todos los piadosos contienden, y es aquello por lo que contienden en común, cualquier cosa que uno de ellos sufra, todos los demás deben transferírsela, por así decirlo, a sí mismos; y esto es lo que de todos modos debemos hacer nosotros, a menos que queramos separarnos de Cristo mismo.",
+  "lemas_es": [
+   "En parte, siendo hechos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "052a2458a7f6",
+  "lemas_rv1909": [
+   {
+    "lema": "parte hechos",
+    "ref": "HEB.10.33"
+   }
+  ]
+ },
+ "calvino:HEB.10.34#166": {
+  "text_es": "34. ⸢Y tomasteis con gozo, etc.⸣ No hay duda de que, como eran hombres con sentimientos, la pérdida de sus bienes les causaba dolor; pero su tristeza era tal que no impedía el gozo del que habla el Apóstol. Como la pobreza es considerada un mal, el despojo de sus bienes, considerado en sí mismo, los tocaba con dolor; pero como miraban más alto, hallaban una causa de gozo que calmaba cualquier dolor que sintieran. Así, en efecto, es necesario que nuestros pensamientos sean apartados del mundo, mirando la recompensa celestial; ni digo otra cosa sino lo que todos los piadosos comprueban por experiencia. Y sin duda abrazamos con gozo lo que estamos persuadidos de que terminará en nuestra salvación; y esta persuasión la tienen sin duda los hijos de Dios respecto a los conflictos que emprenden para la gloria de Cristo. Por eso los sentimientos carnales nunca prevalecen de tal modo que los abrumen de tristeza, sino que, con sus mentes elevadas al cielo, emergen en gozo espiritual.\n\nY esto se prueba por lo que añade: ⸢sabiendo que tenéis en el cielo una mejor y permanente sustancia⸣. Con gozo, pues, soportaron el despojo de sus bienes, no porque se alegraran de verse despojados; sino que, como sus mentes estaban fijas en la recompensa, olvidaban fácilmente el dolor ocasionado por su calamidad presente. Y en verdad, dondequiera que hay una viva percepción de las cosas celestiales, el mundo con todos sus atractivos no se saborea de tal modo que la pobreza o la vergüenza puedan abrumar nuestras mentes con tristeza. Si, pues, deseamos soportar algo por Cristo con paciencia y ánimo resignado, acostumbrémonos a una frecuente meditación de aquella felicidad, en comparación con la cual todas las cosas buenas del mundo no son sino basura. Ni hemos de pasar por alto estas palabras: «sabiendo que tenéis»; pues a menos que uno esté plenamente persuadido de que la herencia que Dios ha prometido a sus hijos le pertenece, todo su conocimiento será frío e inútil.",
+  "lemas_es": [
+   "Y tomasteis con gozo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4c49b849d2dd",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.10.34"
+   }
+  ]
+ },
+ "calvino:HEB.10.35#167": {
+  "text_es": "35. ⸢No perdáis, pues, etc.⸣ Muestra lo que especialmente nos hace fuertes para perseverar, a saber, el retener la confianza; pues cuando esta se pierde, perdemos la recompensa puesta delante de nosotros. De aquí aparece que la confianza es el fundamento de una vida piadosa y santa. Al mencionar ⸢recompensa⸣, no disminuye nada de la promesa gratuita de la salvación; pues los fieles saben que su trabajo no es vano en el Señor de tal manera que aún descansan solo en la misericordia de Dios. Pero ya se ha dicho a menudo en otros lugares cómo la recompensa no es incompatible con la imputación gratuita de la justicia.",
+  "lemas_es": [
+   "No perdáis, pues"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2cf5a5e237fa",
+  "lemas_rv1909": [
+   {
+    "lema": "No perdáis pues",
+    "ref": "HEB.10.35"
+   }
+  ]
+ },
+ "calvino:HEB.10.36#168": {
+  "text_es": "36. ⸢Porque tenéis necesidad de paciencia, etc.⸣ Dice que la paciencia es necesaria, no solo porque hemos de soportar hasta el fin, sino porque Satanás tiene innumerables artes con las que nos hostiga; y por eso, a menos que poseamos una paciencia extraordinaria, seremos quebrantados mil veces antes de llegar a la mitad de nuestra carrera. La herencia de la vida eterna nos es ciertamente segura, pero como la vida es como una carrera, debemos avanzar hacia la meta. Pero en nuestro camino hay muchos obstáculos y dificultades, que no solo nos retrasan, sino que también detendrían por completo nuestra carrera, a menos que tuviéramos gran firmeza de ánimo para atravesarlos. Satanás sugiere astutamente toda clase de problemas para desanimarnos. En resumen, los cristianos nunca avanzarán dos pasos sin desmayar, a menos que sean sostenidos por la paciencia. Este es, pues, el único camino o medio por el cual podemos avanzar firme y constantemente; de otro modo no obedeceremos a Dios, ni siquiera gozaremos de la herencia prometida, que aquí por metonimia se llama la «promesa».",
+  "lemas_es": [
+   "Porque tenéis necesidad de paciencia"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ef39581d6171",
+  "lemas_rv1909": [
+   {
+    "lema": "Porque la paciencia os es necesaria",
+    "ref": "HEB.10.36"
+   }
+  ]
+ },
+ "calvino:HEB.10.37#169": {
+  "text_es": "37. ⸢Porque aún un poquito,⸣ o, ⸢porque aún un muy poquito de tiempo, etc.⸣ Para que no nos sea penoso soportar, nos recuerda que el tiempo no será largo. En verdad, nada aprovecha más para sostener nuestras mentes, si en algún momento desfallecen, que la esperanza de un término pronto y cercano. Como un general presenta a sus soldados la perspectiva de que la guerra terminará pronto, con tal que resistan un poco más; así el Apóstol nos recuerda que el Señor vendrá en breve a librarnos de todos los males, con tal que nuestras mentes no desfallezcan por falta de firmeza.\n\nY para que este consuelo tuviera más seguridad y autoridad, aduce el testimonio del profeta Habacuc. (Habacuc 2:4.) Pero como sigue la versión griega, se aparta algo de las palabras del Profeta. Explicaré primero brevemente lo que dice el Profeta, y luego lo compararemos con lo que el Apóstol relata aquí.\n\nCuando el Profeta había hablado de la terrible destrucción de su propia nación, aterrado por su profecía, no tenía otra cosa que hacer sino abandonar, por así decirlo, el mundo, y retirarse a su torre de vigilancia; y su torre de vigilancia era la Palabra de Dios, por la cual fue elevado como al cielo. Estando así colocado en este puesto, se le mandó escribir una nueva profecía, que traía a los piadosos la esperanza de salvación. Sin embargo, como los hombres son naturalmente irracionales, y tan precipitados en sus deseos que siempre piensan que Dios es tardío, por más prisa que se dé, les dijo que la promesa vendría sin demora; al mismo tiempo añadió: «Si tardare, espérala». Con lo cual quería decir que lo que Dios promete nunca vendrá tan pronto, sino que a nosotros nos parece que tarda, según un antiguo proverbio: «Incluso la rapidez es tardanza para el deseo». Luego siguen estas palabras: «He aquí, su alma que se ensoberbece no es recta en él; mas el justo por su fe vivirá». Con estas palabras da a entender que los impíos, por más que estén fortificados con defensas, no podrán mantenerse, pues no hay vida de seguridad sino por la fe. Fortifíquense, pues, los incrédulos como quieran, no pueden hallar en todo el mundo sino lo que se desvanece, de modo que han de estar siempre sujetos al temblor; pero su fe nunca defraudará a los piadosos, porque descansa en Dios. Este es el sentido del Profeta.\n\nAhora el Apóstol aplica a Dios lo que Habacuc dijo de la promesa; pero como Dios, al cumplir sus promesas de cierta manera, muestra lo que es, en cuanto al asunto mismo no hay mucha diferencia; más aún, el Señor viene siempre que extiende su mano para ayudarnos. El Apóstol sigue al Profeta al decir que sería en breve; porque Dios no difiere su ayuda más de lo que es conveniente; pues no nos engaña dilatando el tiempo como suelen hacer los hombres; sino que conoce su propio tiempo, que no deja pasar sin venir en nuestro auxilio en el momento requerido. Ahora dice: ⸢El que ha de venir vendrá, y no tardará⸣. Aquí hay dos cláusulas: por la primera se nos enseña que Dios vendrá en nuestro auxilio, pues lo ha prometido; y por la segunda, que lo hará en el tiempo debido, no más tarde de lo que debe.",
+  "lemas_es": [
+   "Porque aún un poquito"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a3747f064f10",
+  "lemas_rv1909": [
+   {
+    "lema": "Porque aun un poquito",
+    "ref": "HEB.10.37"
+   }
+  ]
+ },
+ "calvino:HEB.10.38#170": {
+  "text_es": "38. ⸢Mas el justo, etc.⸣ Quiere decir que la paciencia nace de la fe; y esto es verdad, pues nunca podremos sostener nuestros combates a menos que seamos sustentados por la fe, así como, por otra parte, Juan declara con verdad que nuestra victoria sobre el mundo es por la fe. (1 Juan 5:4.) Es por la fe que ascendemos a lo alto; que saltamos por encima de todos los peligros de esta vida presente, y de todas sus miserias y aflicciones; que tenemos una morada tranquila en medio de las tormentas y tempestades. Así pues, el Apóstol anunció esta verdad: que todos los que son tenidos por justos delante de Dios no viven de otra manera que por la fe. Y el tiempo futuro del verbo ⸢vivir⸣ denota la perpetuidad de esta vida. Sobre este tema, consúltense Romanos 1:17 y Gálatas 3:11, donde se cita este pasaje.\n\n⸢Pero si alguno se retirare, etc.⸣ Esta es la traducción de עפלה elation, tal como la usa el Profeta, pues las palabras son: «Donde habrá elation o fortificación, el alma de aquel hombre no permanecerá recta en él». El Apóstol da aquí la versión griega, que en parte concuerda con las palabras del Profeta y en parte difiere de ellas. Pues este retirarse difiere poco, si es que difiere en algo, de aquella elation o soberbia con que se hinchan los impíos, ya que su oposición rebelde a Dios procede de aquella falsa confianza con que están embriagados; pues de ahí viene que renuncien a su autoridad y se prometan un estado tranquilo, libre de todo mal. Se puede decir, entonces, que se retiran cuando levantan defensas de esta clase, con las cuales ahuyentan todo temor de Dios y reverencia por su nombre. Y así, con esta expresión se da a entender el poder de la fe no menos que el carácter de la impiedad; pues la soberbia es impiedad, porque no rinde a Dios el honor que le es debido, al rendir al hombre obediente a él. De la autosuficiencia, la insolencia y el desprecio viene que, mientras les va bien a los malvados, se atrevan, como alguien ha dicho, a insultar las nubes. Pero como nada es más contrario a la fe que este retirarse, pues el verdadero carácter de la fe es que atrae al hombre a la sumisión a Dios cuando es retirado por su propia naturaleza pecaminosa.\n\nLa otra cláusula, «No agradará mi alma», o como la he traducido más plenamente, «Mi alma no se complacerá en él», ha de tomarse como expresión del sentimiento del Apóstol; pues no era su propósito citar exactamente las palabras del Profeta, sino solo referirse al pasaje para invitar a los lectores a examinarlo más de cerca.",
+  "lemas_es": [
+   "Mas el justo",
+   "Pero si alguno se retirare"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ca904c785c5a",
+  "corregido_por_juez": "Añade una negación en «al no rendir al hombre obediente a él»; el inglés dice «by rendering man obedient to him».",
+  "lemas_rv1909": [
+   {
+    "lema": "el justo",
+    "ref": "HEB.10.38"
+   },
+   {
+    "lema": "si se retirare",
+    "ref": "HEB.10.38"
+   }
+  ]
+ },
+ "calvino:HEB.10.39#171": {
+  "text_es": "39. ⸢Pero nosotros no somos de los que se retiran, etc.⸣ El Apóstol hizo un uso libre de la versión griega, que era la más adecuada a la doctrina que estaba tratando; y ahora la aplica sabiamente. Antes les había advertido que no se alienaran de la fe y de la gracia de Cristo abandonando la Iglesia; ahora les enseña que habían sido llamados para este fin: para que no se retiraran. Y de nuevo pone la fe y el retirarse en oposición la una al otro, y también la preservación del alma a su perdición.\n\nAhora bien, nótese que esta verdad nos pertenece también a nosotros, pues nosotros, a quienes Dios ha favorecido con la luz del Evangelio, debemos reconocer que hemos sido llamados para que avancemos más y más en nuestra obediencia a Dios, y nos esforcemos constantemente por acercarnos a él. Esta es la verdadera preservación del alma, pues obrando así escaparemos de la perdición eterna.",
+  "lemas_es": [
+   "Pero nosotros no somos de los que se retiran"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b79c9eedf1a0",
+  "lemas_rv1909": [
+   {
+    "lema": "Pero nosotros no somos tales que nos retiremos",
+    "ref": "HEB.10.39"
+   }
+  ]
  }
 }

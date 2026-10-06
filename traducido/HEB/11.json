@@ -881,5 +881,559 @@
   "huella": "904116644406",
   "text_es_2": "¿Cuál es, pues, el oficio administrativo del Consolador, sino este: la dirección de la disciplina, la revelación de las Escrituras, la reforma del intelecto, el avance hacia «las cosas mejores»? Nada está sin etapas de crecimiento: todas las cosas esperan su tiempo.",
   "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "calvino:HEB.11.1#172": {
+  "text_es": "1. ⸢Ahora bien, la fe, etc.⸣ Quienquiera que haya puesto esto como principio del capítulo once, ha desmembrado neciamente el contexto; pues el propósito del Apóstol era probar lo que ya había dicho: que hay necesidad de paciencia. Había citado el testimonio de Habacuc, quien dice que el justo vive por la fe; ahora muestra lo que quedaba por probar: que la fe no puede separarse de la paciencia más de lo que puede separarse de sí misma. El orden, pues, de lo que dice es este: «No alcanzaremos la meta de la salvación a menos que tengamos paciencia, pues el Profeta declara que el justo vive por la fe; pero la fe nos dirige a cosas lejanas que aún no disfrutamos; por tanto, necesariamente incluye la paciencia». Así, pues, la proposición menor del argumento es esta: ⸢La fe es la sustancia de las cosas que se esperan, etc.⸣ De aquí también se evidencia que están muy equivocados quienes piensan que aquí se da una definición exacta de la fe; pues el Apóstol no habla aquí de todo lo que la fe es, sino que selecciona aquella parte de ella que era adecuada a su propósito, a saber, que tiene siempre la paciencia unida a ella. Consideremos ahora las palabras.\n\nLlama a la fe la ⸢hypostasis,⸣ la sustancia de las cosas que se esperan. Sabemos ciertamente que lo que esperamos no es lo que tenemos como si lo tuviéramos en la mano, sino lo que aún está oculto para nosotros, o al menos cuyo disfrute se difiere a otro tiempo. El Apóstol ahora nos enseña lo mismo que hallamos en Romanos 8:24, donde se dice que lo que se espera no se ve, y de ahí se saca la inferencia de que ha de esperarse con paciencia. Así el Apóstol aquí nos recuerda que la fe no mira a las cosas presentes, sino a las que se esperan. Ni carece de fuerza y belleza esta especie de contradicción: la fe, dice, es la hypostasis, el apoyo o el fundamento sobre el cual plantamos nuestro pie, ¿el apoyo de qué? De las cosas ausentes, las cuales están tan lejos de ser realmente poseídas por nosotros, que están mucho más allá del alcance de nuestro entendimiento.\n\nLa misma consideración debe hacerse de la segunda cláusula, cuando llama a la fe la ⸢evidencia⸣ o demostración de las cosas ⸢que no se ven;⸣ pues la demostración hace que las cosas aparezcan o sean vistas; y comúnmente se aplica a lo que está sujeto a nuestros sentidos.\n\nEntonces estas dos cosas, aunque aparentemente inconsecuentes, armonizan perfectamente cuando hablamos de la fe; pues el Espíritu de Dios nos muestra cosas ocultas, cuyo conocimiento no puede alcanzar nuestros sentidos: se nos promete la vida eterna, pero se promete a los muertos; se nos asegura una resurrección feliz, pero aún estamos envueltos en la corrupción; somos declarados justos, pero aún el pecado mora en nosotros; oímos que somos bienaventurados, pero aún estamos en medio de muchas miserias; se nos promete abundancia de todos los bienes, pero todavía a menudo tenemos hambre y sed; Dios proclama que vendrá pronto, pero parece sordo cuando le clamamos. ¿Qué sería de nosotros si no fuéramos sostenidos por la esperanza, y si nuestras mentes no emergieran de en medio de las tinieblas por encima del mundo mediante la luz de la palabra de Dios y de su Espíritu? La fe, pues, es llamada con razón la subsistencia o sustancia de las cosas que aún son objeto de esperanza y la evidencia de las cosas que no se ven. ⸢San Agustín⸣ a veces traduce evidencia como «convicción», lo cual no desapruebo, pues expresa fielmente el sentido del Apóstol; pero prefiero «demostración», por ser más literal.",
+  "lemas_es": [
+   "Ahora bien, la fe"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6f9b2d449a78",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.1"
+   }
+  ]
+ },
+ "calvino:HEB.11.2#173": {
+  "text_es": "2. ⸢Porque por ella los ancianos, etc.⸣ Trata este tema hasta el final del capítulo: que los padres obtuvieron la salvación y fueron aceptados por Dios de ninguna otra manera que por la fe.\n\nLos judíos ciertamente tenían algunas razones para prestar gran deferencia a los padres; pero una necia admiración por los padres había prevalecido tanto entre ellos, que resultó un gran obstáculo para entregarse por completo a Cristo y a su gobierno. Fue ocasionada por la ambición o la superstición, o por ambas. Pues cuando oían que eran la bendita y santa descendencia de Abraham, inflados por esta distinción fijaban sus ojos en los hombres más que en Dios. Luego se añadía a esto una falsa emulación; pues no consideraban lo que principalmente era digno de imitación en sus padres. Así sucedió que se aferraron a las antiguas ceremonias, como si toda la religión y la perfecta santidad consistieran en ellas. Este error el Apóstol lo expone y condena; y muestra cuál era la principal excelencia de los padres, para que su posteridad entendiera cómo podían llegar a ser realmente semejantes a ellos.\n\nTengamos, pues, presente que el punto principal y la misma bisagra sobre la que gira el argumento del Apóstol es este: que todos los padres desde el principio del mundo fueron aprobados por Dios de ninguna otra manera que por estar unidos a él por la fe; y esto lo muestra para que los judíos supieran que solo por la fe podían estar ligados en santa unidad con los padres, y que tan pronto como renunciaran a la fe, quedaban desterrados de la Iglesia, y que entonces ya no eran los hijos legítimos de Abraham, sino una raza degenerada y bastardos.",
+  "lemas_es": [
+   "Porque por ella los ancianos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "57aa8bc68a41",
+  "lemas_rv1909": [
+   {
+    "lema": "Porque por ella",
+    "ref": "HEB.11.2"
+   }
+  ]
+ },
+ "calvino:HEB.11.3#174": {
+  "text_es": "3. ⸢Por⸣ o mediante ⸢la fe entendemos, etc.⸣ Esta es una prueba muy contundente del versículo anterior; pues en nada diferimos de la creación bruta si no entendemos que el mundo ha sido creado por Dios. ¿Con qué fin han sido dotados los hombres de entendimiento y razón, sino para que reconozcan a su Creador? Pero solo por la fe sabemos que fue Dios quien creó el mundo. No es de extrañar, entonces, que la fe brillara en los padres por encima de todas las demás virtudes.\n\nPero podría preguntarse aquí: ¿por qué el Apóstol afirma que lo que incluso los infieles reconocen solo se entiende por fe? Pues la misma apariencia del cielo y de la tierra obliga incluso a los impíos a reconocer algún Hacedor; y de ahí que Pablo condene a todos por ingratitud, porque no dieron a Dios, después de haberle conocido, la honra debida a él. (Romanos 1:25.) Y sin duda la religión no habría prevalecido tanto entre todas las naciones si las mentes de los hombres no hubieran sido impresionadas con la convicción de que Dios es el Creador del mundo. Así, pues, parece que este conocimiento que el Apóstol atribuye a la fe existe sin la fe.\n\nA esto respondo: que aunque entre los paganos ha existido una opinión de este tipo, que el mundo fue hecho por Dios, sin embargo fue muy evanescente, pues tan pronto como formaron una noción de algún Dios, al instante se hicieron vanos en sus imaginaciones, de modo que anduvieron a tientas en la oscuridad, teniendo en sus pensamientos una mera sombra de alguna deidad incierta, y no el conocimiento del Dios verdadero. Además, como era solo una opinión transitoria que revoloteaba en sus mentes, estaba lejos de ser algo semejante al conocimiento. Podemos añadir además que atribuyeron a la fortuna o al azar la supremacía en el gobierno del mundo, y no hicieron mención de la providencia de Dios, que es la única que rige todo. Las mentes de los hombres, por tanto, están completamente ciegas, de modo que no ven la luz de la naturaleza que resplandece en las cosas creadas, hasta que, siendo iluminadas por el Espíritu de Dios, comienzan a entender por la fe lo que de otro modo no pueden comprender. De ahí que con suma razón el Apóstol atribuya tal entendimiento a la fe; pues los que tienen fe no sostienen una ligera opinión en cuanto a que Dios es el Creador del mundo, sino que tienen una profunda convicción fijada en sus mentes y contemplan al Dios verdadero. Y además, entienden el poder de su palabra, no solo como manifestado instantáneamente en la creación del mundo, sino también como desplegado continuamente en su preservación; ni es solo su poder lo que entienden, sino también su bondad, sabiduría y justicia. Y de ahí son llevados a adorarle, amarle y honrarle.\n\n⸢No hecho de cosas que se ven.⸣ En cuanto a esta cláusula, me parece que todos los intérpretes se han equivocado; y el error ha surgido de separar la preposición del participio φαὶνομένων. Dan esta traducción: «De modo que las cosas visibles fueron hechas de cosas que no aparecen». Pero de tales palabras difícilmente puede extraerse algún sentido, o al menos un sentido muy insulso; y además, el texto no admite tal significado, pues entonces las palabras habrían sido ἐκ μὴ φαινομένων; pero el orden adoptado por el Apóstol es diferente. Si, pues, las palabras se tradujeran literalmente, el sentido sería el siguiente: «De modo que llegaron a ser lo visible de las cosas no visibles», o no aparentes. Así la preposición se uniría al participio al que pertenece. Además, las palabras contendrían entonces una verdad muy importante: que tenemos en este mundo visible una imagen conspicua de Dios; y así se enseña aquí la misma verdad que en Romanos 1:20, donde se dice que las cosas invisibles de Dios nos son dadas a conocer por la creación del mundo, siendo vistas en sus obras. Dios nos ha dado, a través de todo el entramado de este mundo, claras evidencias de su eterna sabiduría, bondad y poder; y aunque él es en sí mismo invisible, de alguna manera se hace visible para nosotros en sus obras.\n\nCon razón, pues, se llama a este mundo el espejo de la divinidad; no porque haya suficiente claridad para que el hombre obtenga un conocimiento pleno de Dios contemplando el mundo, sino porque él se ha revelado hasta tal punto, que la ignorancia de los impíos queda sin excusa. Ahora bien, los fieles, a quienes él ha dado ojos, ven destellos de su gloria, por así decirlo, resplandeciendo en cada cosa creada. El mundo fue sin duda hecho para que fuera el teatro de la gloria divina.",
+  "lemas_es": [
+   "Por",
+   "No hecho de cosas que se ven"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "874a3878de5f",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.3"
+   },
+   {
+    "lema": null,
+    "ref": "HEB.11.3"
+   }
+  ]
+ },
+ "calvino:HEB.11.4#175": {
+  "text_es": "4. ⸢Por la fe Abel ofreció, etc.⸣ El propósito del Apóstol en este capítulo es mostrar que, por excelentes que fueran las obras de los santos, de la fe derivaban su valor, su mérito y todas sus excelencias; y de aquí se sigue lo que ya ha insinuado, que los padres agradaron a Dios solo por la fe.\n\nAhora bien, aquí recomienda la fe por dos razones: rinde obediencia a Dios, pues no intenta ni emprende nada que no sea conforme a la regla de la palabra de Dios; y se apoya en las promesas de Dios, y así obtiene el valor y el mérito que corresponde a las obras solo por su gracia. Por tanto, dondequiera que se halle la palabra fe en este capítulo, debemos tener presente que el Apóstol habla de ella para que los judíos no consideraran otra regla que la palabra de Dios, y también dependieran únicamente de sus promesas.\n\nDice, en primer lugar, que el ⸢sacrificio⸣ de Abel no fue preferible al de su hermano por ninguna otra razón, sino porque fue santificado por la fe; pues ciertamente la grosura de animales brutos no olía tan dulcemente que pudiera, por su olor, aplacar a Dios. La Escritura muestra ciertamente con claridad por qué Dios aceptó su sacrificio, pues las palabras de Moisés son estas: «Dios tuvo respeto a Abel y a sus dones». De aquí es fácil concluir que su sacrificio fue aceptado porque él mismo fue recibido en gracia. Pero ¿cómo obtuvo este favor, sino porque su corazón fue purificado por la fe?\n\n⸢Dios dando testimonio,⸣ etc. Confirma lo que ya he dicho: que ninguna obra que proceda de nosotros puede agradar a Dios hasta que nosotros mismos seamos recibidos en favor; o, para decirlo más brevemente, que ninguna obra es tenida por justa delante de Dios, sino la del hombre justo; pues razona así: Dios dio testimonio a los dones de Abel; luego había obtenido la alabanza de ser justo delante de Dios.\n\nEsta doctrina es útil, y debe ser especialmente notada, pues no nos convencemos fácilmente de su verdad; porque cuando en alguna obra aparece algo espléndido, al instante quedamos arrebatados en admiración, y pensamos que no puede ser desaprobada por Dios; pero Dios, que solo mira la pureza interior del corazón, no atiende a las máscaras externas de las obras. Aprendamos, pues, que ninguna obra recta o buena puede proceder de nosotros hasta que seamos justificados delante de Dios.\n\n⸢Por ella, estando muerto, etc.⸣ También atribuye esto a la fe: que Dios testificó que Abel no fue menos objeto de su cuidado después de su muerte que durante su vida; pues cuando dice que, aunque muerto, aún habla, quiere decir, como nos dice Moisés, que Dios fue movido por su muerte violenta a tomar venganza. Cuando, por tanto, se dice que Abel o su sangre habla, las palabras deben entenderse figuradamente. Fue, sin embargo, una singular evidencia del amor de Dios hacia él, que se cuidara de él cuando estaba muerto; y de aquí aparece que era uno de los santos de Dios, cuya muerte le es preciosa.",
+  "lemas_es": [
+   "Por la fe Abel ofreció",
+   "Dios dando testimonio",
+   "Por ella, estando muerto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5d5959fa51d1",
+  "lemas_rv1909": [
+   {
+    "lema": "Por la fe Abel ofreció",
+    "ref": "HEB.11.4"
+   },
+   {
+    "lema": "dando Dios testimonio",
+    "ref": "HEB.11.4"
+   },
+   {
+    "lema": null,
+    "ref": "HEB.11.4"
+   }
+  ]
+ },
+ "calvino:HEB.11.5#176": {
+  "text_es": "5. ⸢Por la fe Enoc, etc.⸣ Escogió a unos pocos de los más antiguos, para hacer una transición a Abraham y su posteridad. Nos enseña que fue por la fe que Enoc fue trasladado.\n\nPero debemos considerar especialmente la razón por la que Dios lo quitó de la tierra de manera tan insólita. El hecho fue notable, y por ello todos pueden saber cuán querido era a Dios. Entonces prevalecían por doquier la impiedad y toda clase de corrupciones. Si hubiera muerto como los demás hombres, a nadie se le habría ocurrido que fue así preservado del contagio reinante por la providencia de Dios; pero, al ser llevado sin morir, se manifestó abiertamente la mano de Dios desde el cielo, apartándolo como del fuego. No fue, pues, un honor ordinario el que Dios le había concedido. Moisés ciertamente nos dice que fue un hombre justo, y que caminó con Dios; pero como la justicia comienza con la fe, justamente se atribuye a su fe que agradara a Dios.\n\nEn cuanto a las sutiles cuestiones que los curiosos suelen plantear, es mejor pasarlas por alto, sin prestarles mucha atención. Preguntan qué fue de estos dos hombres, Enoc y Elías. Y luego, para no parecer que solo hacen preguntas, imaginan que están reservados para los últimos días de la Iglesia, para que entonces salgan al mundo; y con este propósito se refieren al Apocalipsis de Juan. Dejemos esta filosofía vana a esas mentes ligeras y vanas, que no pueden satisfacerse con lo sólido. Bástenos saber que su traslación fue una especie de muerte extraordinaria; ni dudemos que fueron despojados de su carne mortal y corruptible, para que, con los demás miembros de Cristo, fueran renovados a una inmortalidad bienaventurada.",
+  "lemas_es": [
+   "Por la fe Enoc"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c4fb1d5982b9",
+  "lemas_rv1909": [
+   {
+    "lema": "Por la fe Enoc",
+    "ref": "HEB.11.5"
+   }
+  ]
+ },
+ "calvino:HEB.11.6#177": {
+  "text_es": "6. ⸢Pero sin fe, etc.⸣ Lo que aquí se dice pertenece a todos los ejemplos que el Apóstol registra en este capítulo; pero como en el pasaje hay cierta oscuridad, es necesario examinar su significado más de cerca.\n\nPero no hay mejor intérprete que el propio Apóstol. La prueba, pues, que inmediatamente añade, puede servir de explicación. La razón que asigna de por qué nadie puede agradar a Dios sin fe es esta: porque nadie se acercará jamás a Dios, a menos que crea que Dios existe, y esté también convencido de que es remunerador de todos los que le buscan. Si, pues, el acceso a Dios no se abre sino por la fe, se sigue que todos los que carecen de ella son objeto del desagrado de Dios. De ahí que el Apóstol muestre cómo la fe nos obtiene favor, precisamente porque la fe es nuestra maestra en cuanto al verdadero culto de Dios, y nos hace estar seguros de su buena voluntad, para que no pensemos que le buscamos en vano. Estas dos cláusulas no deben pasarse por alto a la ligera: que debemos creer que Dios existe, y que debemos estar seguros de que no es buscado en vano.\n\nNo parece ciertamente un gran asunto cuando el Apóstol nos exige creer que Dios existe; pero cuando lo consideras más de cerca, hallarás que aquí hay una verdad rica, profunda y sublime; pues aunque casi todos admiten sin disputa que Dios existe, sin embargo es evidente que, a menos que el Señor nos retenga en el verdadero y cierto conocimiento de sí mismo, diversas dudas se irán introduciendo y borrarán todo pensamiento de un Ser Divino. A esta vanidad es sin duda propensa la disposición del hombre, de modo que olvidar a Dios se vuelve cosa fácil. Al mismo tiempo, el Apóstol no quiere decir que los hombres deban estar seguros de que hay algún dios, pues habla solo del Dios verdadero; más aún, no te bastará formar una noción de cualquier dios que te plazca, sino que debes entender qué clase de Ser es el Dios verdadero; pues ¿de qué nos aprovechará idear y formar un ídolo, y atribuirle la gloria debida a Dios?\n\nVemos ahora, pues, lo que el Apóstol quiere decir en la primera cláusula; niega que podamos tener acceso a Dios, a menos que tengamos la verdad de que Dios está profundamente fijado en nuestros corazones, de modo que no seamos llevados de acá para allá por diversas opiniones.\n\nDe aquí es evidente que los hombres en vano se cansan sirviendo a Dios, a menos que observen el camino recto, y que todas las religiones no solo son vanas, sino también perniciosas, con las que no está conectado el verdadero y cierto conocimiento de Dios; pues a todos se les prohíbe tener algún acceso a Dios, a quienes no lo distinguen y separan de todos los ídolos; en resumen, no hay religión sino donde reina dominante esta verdad. Pero si el verdadero conocimiento de Dios tiene su asiento en nuestros corazones, no dejará de llevarnos a honrarle y temerle; pues Dios, sin su majestad, no es realmente conocido. De ahí surge el deseo de servirle, de ahí viene que toda la vida se forme de tal manera que él sea considerado como el fin en todas las cosas.\n\nLa segunda cláusula es que debemos estar plenamente persuadidos de que Dios no es buscado en vano; y esta persuasión incluye la esperanza de salvación y vida eterna, pues nadie estará en un estado de corazón adecuado para buscar a Dios, a menos que sienta profundamente un sentido de la bondad divina, de modo que espere salvación de él. En verdad huimos de Dios, o lo desatendemos por completo, cuando no hay esperanza de salvación. Pero tengamos presente que esto es lo que debe creerse realmente, y no tenerse meramente como cuestión de opiniones; pues incluso los impíos pueden a veces albergar tal noción, y sin embargo no se acercan a Dios; y por esta razón, porque no tienen una fe firme y fija. Esta es, pues, la otra parte de la fe por la cual obtenemos favor con Dios, a saber, cuando estamos seguros de que la salvación nos está reservada en él.\n\nPero muchos pervierten vergonzosamente esta cláusula; pues de ella sacan los méritos de las obras y la presunción acerca del merecimiento. Y razonan así: «Agradamos a Dios por la fe, porque creemos que él es remunerador; entonces la fe tiene respeto a los méritos de las obras». Este error no puede exponerse mejor que considerando cómo ha de buscarse a Dios; mientras alguien anda errante del camino recto de buscarle, no puede decirse que esté ocupado en la obra. Ahora bien, la Escritura señala esto como el camino recto: que el hombre, postrado en sí mismo y herido por la convicción de que merece la muerte eterna, y en desesperación de sí mismo, huya a Cristo como el único asilo de salvación. Ciertamente en ninguna parte podemos hallar que debamos traer a Dios méritos de obras que nos pongan en estado de favor con él. Entonces, quien entiende que este es el único camino recto de buscar a Dios, quedará libre de toda dificultad en el asunto; pues la recompensa no se refiere al mérito o valor de las obras, sino a la fe.\n\nAsí, estas frías glosas de los Sofistas, como «por la fe agradamos a Dios, pues merecemos cuando nos proponemos agradar», caen por completo por tierra. El propósito del Apóstol era llevarnos mucho más alto, a saber, que la conciencia pudiera estar segura de que no es cosa vana buscar a Dios; y esta certeza o seguridad supera con creces lo que podemos alcanzar por nosotros mismos, especialmente cuando alguien se considera a sí mismo. Pues no ha de establecerse como principio abstracto que Dios es remunerador de los que le buscan; sino que cada uno de nosotros debe aplicar individualmente esta doctrina a sí mismo, para que sepamos que somos tenidos en cuenta por Dios, que él tiene tal cuidado de nuestra salvación que nunca nos faltará, que nuestras oraciones son oídas por él, que será para nosotros un libertador perpetuo. Pero como ninguna de estas cosas nos llega sino por Cristo, nuestra fe debe mirarle siempre y adherirse a él solo.\n\nDe estas dos cláusulas podemos aprender cómo y por qué le es imposible al hombre agradar a Dios sin fe; Dios justamente nos considera a todos como objetos de su desagrado, ya que todos somos por naturaleza malditos bajo él; y no tenemos remedio en nuestro propio poder. De aquí es necesario que Dios nos anticipe con su gracia; y de ahí viene que seamos llevados a saber que Dios existe, y de tal manera que ninguna superstición corrupta pueda seducirnos, y también que lleguemos a estar seguros de una cierta salvación de parte de él.\n\nSi alguno deseara una visión más completa de este tema, debería comenzar aquí: que en vano intentamos probar cualquier cosa, a menos que miremos a Dios; pues el único fin verdadero de la vida es promover su gloria; pero esto nunca puede hacerse, a menos que haya primero el verdadero conocimiento de él. Sin embargo, esto es aún solo la mitad de la fe, y de poco nos aprovechará, a menos que se añada la confianza. Por lo tanto, la fe solo entonces será completa y nos asegurará el favor de Dios, cuando sintamos la confianza de que no le buscaremos en vano, y así alberguemos la certeza de obtener salvación de él. Pero nadie, a menos que esté cegado por la presunción y fascinado por el amor propio, puede estar seguro de que Dios será remunerador de sus méritos. De ahí que esta confianza de la que hablamos no recae sobre las obras, ni sobre la propia dignidad del hombre, sino sobre la gracia de Dios sola; y como la gracia no se halla en ninguna parte sino en Cristo, es en él solo en quien la fe debe estar fijada.",
+  "lemas_es": [
+   "Pero sin fe"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c26a9d9db887",
+  "lemas_rv1909": [
+   {
+    "lema": "sin fe",
+    "ref": "HEB.11.6"
+   }
+  ]
+ },
+ "calvino:HEB.11.7#178": {
+  "text_es": "7. ⸢Por la fe Noé, etc.⸣ Fue un ejemplo admirable de magnanimidad que, cuando todo el mundo se prometía impunidad y se entregaba con seguridad y sin freno a placeres pecaminosos, Noé solo prestara atención a la venganza de Dios, aunque diferida por largo tiempo; que se fatigara grandemente durante ciento veinte años construyendo el arca; que permaneciera inquebrantable entre las burlas de tantos hombres impíos; que no dudara de que estaría seguro en medio de la ruina de todo el mundo; más aún, que se sintiera seguro de la vida como en el sepulcro, incluso en el arca. Trataré el tema brevemente; cada uno puede sopesar mejor por sí mismo todas las circunstancias.\n\nEl Apóstol atribuye a la fe el mérito de tan notable fortaleza. Hasta aquí ha hablado de los padres que vivieron en la primera edad del mundo; pero fue una especie de regeneración cuando Noé y su familia emergieron del diluvio. De aquí es evidente que en todas las edades los hombres no han sido aprobados por Dios, ni han hecho nada digno de alabanza, sino por la fe.\n\nVeamos ahora, pues, qué cosas presenta a nuestra consideración en el caso de Noé. Son las siguientes: que, habiendo sido advertido de cosas por venir, pero aún no visibles, temió; que construyó un arca; que por construirla condenó al mundo; y que se hizo heredero de aquella justicia que es por la fe.\n\nLo que acabo de mencionar es lo que especialmente pone de manifiesto el poder de la fe; pues el Apóstol nos recuerda siempre esta verdad: que la fe es la evidencia de las cosas que no se ven; y sin duda es su oficio peculiar contemplar en la palabra de Dios las cosas que están ocultas y muy lejos de nuestros sentidos. Cuando se le declaró a Noé que habría un diluvio después de ciento veinte años, primero, la duración del tiempo podría haber eliminado todo temor; segundo, la cosa en sí misma parecía increíble; tercero, veía a los impíos entregarse despreocupadamente a placeres pecaminosos; y por último, el terrible anuncio de un diluvio podría haberle parecido destinado solo a aterrar a los hombres. Pero Noé atendió tanto a la palabra de Dios que, apartando sus ojos de la apariencia de las cosas de aquel tiempo, temió la destrucción que Dios había amenazado, como si estuviera presente. De ahí que la fe que tenía en la palabra de Dios lo preparó para rendir obediencia a Dios; y de esto dio después prueba al construir el arca.\n\nPero aquí se plantea una cuestión. ¿Por qué el Apóstol hace de la fe la causa del temor, ya que esta mira más bien a las promesas de gracia que a las amenazas? Pues Pablo por esta razón llama al Evangelio, en el cual la justicia de Dios nos es ofrecida para salvación, la palabra de fe. Parece entonces que se ha dicho impropiamente que Noé fue llevado por la fe a temer. A esto respondo que la fe ciertamente brota propiamente de las promesas; en ellas se funda, en ellas descansa. Por eso decimos que Cristo es el verdadero objeto de la fe, pues por medio de él nuestro Padre celestial se reconcilia con nosotros, y por él todas las promesas de salvación son selladas y confirmadas. Sin embargo, no hay razón para que la fe no mire a Dios y reciba con reverencia todo lo que él diga; o, si se prefiere otra manera de exponer el tema, pertenece con derecho a la fe oír a Dios siempre que habla, y abrazar sin vacilar todo lo que proceda de su boca sagrada. Hasta aquí tiene que ver con mandamientos y amenazas, así como con promesas gratuitas. Pero como ningún hombre es movido como debe y cuanto es necesario para obedecer los mandamientos de Dios, ni es suficientemente impulsado a deprecar su ira, a menos que ya haya echado mano de las promesas de gracia, de modo que lo reconozca como un Padre bondadoso y autor de salvación, por eso el Evangelio es llamado la palabra de fe, mencionándose la parte principal por el todo; y así se expone la relación mutua que hay entre ambas. La fe, entonces, aunque su mira más directa son las promesas de Dios, sin embargo considera sus amenazas en cuanto le es necesario ser enseñada a temer y obedecer a Dios.\n\n⸢Preparó un arca, etc.⸣ Aquí se señala la obediencia que fluye de la fe como el agua de una fuente. La obra de construir el arca fue larga y laboriosa. Podría haber sido detenida por las burlas de los impíos, y así suspendida mil veces; ni hay duda de que se mofaban y ridiculizaban al santo hombre por todos lados. Que entonces soportara sus insolentes ultrajes con espíritu inquebrantable es prueba de que su resolución de obedecer no era de un tipo ordinario. Pero ¿cómo fue que obedeció a Dios tan perseverantemente, sino porque previamente se había apoyado en la promesa que le daba esperanza de liberación?; y en esta confianza perseveró hasta el final; pues no habría tenido el valor de someterse voluntariamente a tantas fatigas, ni habría podido superar tantos obstáculos, ni habría permanecido tan firme en su propósito por tanto tiempo, si de antemano no hubiera poseído esta confianza.\n\nDe aquí aparece que solo la fe es maestra de la obediencia; y podemos, por el contrario, sacar esta conclusión: que es la incredulidad la que nos impide obedecer a Dios. Y en este día la incredulidad del mundo se manifiesta terriblemente de esta manera, pues son muy pocos los que obedecen a Dios.\n\n⸢Por la cual condenó al mundo, etc.⸣ Sería extraño decir que la liberación de Noé condenó al mundo, y el contexto difícilmente permitirá que se entienda la fe; debemos entonces entender esto del arca. Y se dice que por el arca condenó al mundo por dos razones; pues al estar ocupado tanto tiempo en construirla, quitó toda excusa a los malvados; y el evento que siguió probó cuán justa fue la destrucción del mundo; pues ¿por qué el arca fue hecha medio de liberación para una familia, sino porque el Señor así perdonó a un hombre justo para que no pereciera con los impíos? Si entonces no hubiera sido preservado, la condenación del mundo no habría sido tan manifiesta. Noé, pues, al obedecer el mandamiento de Dios, condenó con su ejemplo la obstinada desobediencia del mundo: su maravillosa liberación de en medio de la muerte fue evidencia de que el mundo pereció justamente; pues Dios sin duda lo habría salvado, si no hubiera sido indigno de salvación.\n\n⸢De la justicia que es por la fe.⸣ Esta es la última cosa en el carácter de Noé que el Apóstol nos recuerda observar. Moisés registra que fue un hombre justo: la historia no dice expresamente que la causa y raíz de su justicia fuera la fe, pero el Apóstol declara que así surge de los hechos del caso. Y esto no solo es verdad porque nadie se dedica real y sinceramente al servicio de Dios, sino aquel que confía en las promesas de su bondad paternal y se siente seguro de que su vida es aprobada por él; sino también por esta razón: porque la vida de nadie, por santa que sea, cuando es examinada por la regla de la ley de Dios, puede agradarle sin que se le conceda perdón. Entonces la justicia necesariamente debe apoyarse en la fe.",
+  "lemas_es": [
+   "Por la fe Noé",
+   "Preparó un arca",
+   "Por la cual condenó al mundo",
+   "De la justicia que es por la fe"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "198ba8f199e5",
+  "lemas_rv1909": [
+   {
+    "lema": "Por la fe Noé",
+    "ref": "HEB.11.7"
+   },
+   {
+    "lema": null,
+    "ref": "HEB.11.7"
+   },
+   {
+    "lema": "por la cual ⸢fe⸣ condenó al mundo",
+    "ref": "HEB.11.7"
+   },
+   {
+    "lema": "de la justicia que es por la fe",
+    "ref": "HEB.11.7"
+   }
+  ]
+ },
+ "calvino:HEB.11.8#179": {
+  "text_es": "8. ⸢Por la fe Abraham, etc.⸣ Viene ahora a Abraham, que es el principal padre de la Iglesia de Dios en la tierra, y en cuyo nombre los judíos se gloriaban, como si por la distinción de ser la raza santa de Abraham solo, estuvieran apartados del orden común de los hombres. Pero ahora les recuerda lo que debían poseer como lo principal, para que pudieran ser contados entre sus hijos. Por lo tanto, llama su atención a la fe, pues Abraham mismo no tuvo ninguna excelencia que no procediera de la fe.\n\nPrimero nos enseña que la fe fue la causa por la que obedeció inmediatamente a Dios cuando se le mandó salir de su propia tierra; y luego que fue por la misma fe que continuó sin vacilar, conforme a lo que fue llamado a hacer hasta el final. Por estas dos cosas —su prontitud en obedecer y su perseverancia— la fe de Abraham quedó demostrada con suma claridad.\n\n⸢Cuando fue llamado, etc.⸣ El antiguo traductor latino y Erasmo aplican esto a su nombre, lo cual es extremadamente insulso y frío. Por el contrario, yo lo refiero al oráculo por el cual fue llamado de su propia tierra. Ciertamente de este modo se sometió a un exilio voluntario, aunque no hizo nada sino por mandato de Dios; y sin duda es una de las cosas principales que pertenecen a la fe no dar un paso excepto cuando la palabra de Dios nos muestra el camino y, como una linterna, nos da luz, según lo que dice David. (Salmos 119:105.) Aprendamos, pues, que es cosa que debe observarse durante toda la vida: que no hemos de emprender nada a lo que Dios no nos llame.\n\n⸢Para salir al lugar, etc.⸣ Al mandato se añadió una promesa: que Dios le daría una tierra por heredad. Esta promesa la abrazó inmediatamente, y se apresuró como si fuera enviado a tomar posesión de esta tierra. No es una prueba ordinaria de fe renunciar a lo que tenemos en mano para buscar lo que está lejos y nos es desconocido. Pues cuando Dios le mandó dejar su propia tierra, no le señaló el lugar donde pretendía que viviera, sino que lo dejó en suspenso y perplejidad de ánimo: «ve», dijo, «a la tierra que te mostraré». (Génesis 12:1.) ¿Por qué difirió señalar el lugar, sino para que su fe fuera cada vez más ejercitada? Además, el amor a su tierra natal no solo podría haber retardado la prontitud de Abraham, sino también haberlo retenido tan atado a ella como para no abandonar su hogar. Su fe entonces no fue de un tipo ordinario, pues así rompió todos los obstáculos y lo llevó adonde el Señor lo llamaba a ir.",
+  "lemas_es": [
+   "Por la fe Abraham",
+   "Cuando fue llamado",
+   "Para salir al lugar"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e19429b9cf94",
+  "lemas_rv1909": [
+   {
+    "lema": "Por la fe Abraham",
+    "ref": "HEB.11.8"
+   },
+   {
+    "lema": null,
+    "ref": "HEB.11.8"
+   },
+   {
+    "lema": "para salir al lugar",
+    "ref": "HEB.11.8"
+   }
+  ]
+ },
+ "calvino:HEB.11.9#180": {
+  "text_es": "9. ⸢Por la fe habitó como extranjero, etc.⸣ El segundo particular es que, habiendo entrado en la tierra, apenas fue recibido como extranjero y peregrino. ¿Dónde estaba la heredad que había esperado? Podría ciertamente haberle venido al instante a la mente que había sido engañado por Dios. Aún mayor fue la decepción, que el Apóstol no menciona, cuando poco después un hambre lo echó del país, cuando se vio obligado a huir a la tierra de Gerar; pero el Apóstol consideró suficiente decir, como elogio de su fe, que se hizo peregrino en la tierra de promesa; pues ser peregrino parecía contrario a lo que había sido prometido. Que Abraham entonces sostuviera valerosamente esta prueba fue un ejemplo de gran fortaleza; pero procedió solo de la fe.\n\n⸢Con Isaac y Jacob, etc.⸣ No quiere decir que habitaran en la misma tienda, o vivieran al mismo tiempo; sino que hace compañeros suyos al hijo y al nieto de Abraham, porque peregrinaron igualmente en la heredad prometida a ellos, y sin embargo no fallaron en su fe, por largo que fuera el tiempo que Dios demorara; pues cuanto más larga la demora, mayor era la prueba; pero al levantar el escudo de la fe repelieron todos los asaltos de la duda y la incredulidad.",
+  "lemas_es": [
+   "Por la fe habitó como extranjero",
+   "Con Isaac y Jacob"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a3e6823e613e",
+  "lemas_rv1909": [
+   {
+    "lema": "Por fe habitó",
+    "ref": "HEB.11.9"
+   },
+   {
+    "lema": "con Isaac y Jacob",
+    "ref": "HEB.11.9"
+   }
+  ]
+ },
+ "calvino:HEB.11.10#181": {
+  "text_es": "10. ⸢Porque esperaba, etc.⸣ Da una razón por la que atribuye su paciencia a la fe, a saber, porque esperaban el cielo. Esto era en verdad ver cosas invisibles. Sin duda fue algo grande abrigar en sus corazones la seguridad dada por Dios respecto a la posesión de la tierra hasta que, después de algunas edades, se realizara; pero como no limitaron sus pensamientos, ni siquiera a aquella tierra, sino que penetraron hasta el cielo mismo, era aún una evidencia más clara de su fe.\n\nLlama al cielo una ⸢ciudad que tiene fundamentos⸣, por su perpetuidad; pues en el mundo no hay nada sino lo que es transitorio y pasajero. Podría en verdad parecer extraño que haga a Dios Hacedor de los cielos como si no hubiera creado también la tierra; a esto respondo que, así como en los edificios terrenales las manos de los hombres se sirven de materiales, la obra de Dios no se opone a ellos de manera impropia. Ahora bien, todo lo que es formado por los hombres es como sus autores en inestabilidad; así también la perpetuidad de la vida celestial corresponde a la naturaleza de Dios, su fundador. Además, el Apóstol nos enseña que toda fatiga se alivia con la esperanza, de modo que nunca debemos cansarnos de seguir a Dios.",
+  "lemas_es": [
+   "Porque esperaba"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f69f4cef1782",
+  "lemas_rv1909": [
+   {
+    "lema": "Porque esperaba",
+    "ref": "HEB.11.10"
+   }
+  ]
+ },
+ "calvino:HEB.11.11#182": {
+  "text_es": "11. ⸢Por la fe también la misma Sara, etc.⸣ Para que las mujeres sepan que esta verdad les pertenece tanto como a los hombres, aduce el ejemplo de Sara; el cual menciona con preferencia al de otras, porque ella fue la madre de todos los fieles.\n\nPero puede parecer extraño que se elogie su fe, a quien se acusó abiertamente de incredulidad; pues se rió de la palabra del ángel como si fuera una fábula; y no fue la risa de asombro y admiración, pues de otro modo no habría sido reprendida tan severamente por el ángel. Debe en verdad confesarse que su fe estaba mezclada con incredulidad; pero como dejó a un lado su incredulidad cuando fue reprendida, su fe es reconocida por Dios y elogiada. Lo que entonces rechazó al principio por increíble, después, tan pronto como oyó que venía de Dios, lo recibió obedientemente.\n\nY de aquí deducimos una doctrina útil: que cuando nuestra fe en algunas cosas vacila o se detiene, no deja por eso de ser aprobada por Dios, con tal que no alimentemos el espíritu de incredulidad. El sentido entonces es que el milagro que Dios realizó cuando nació Isaac fue fruto de la fe de Abraham y de su esposa, por la cual se aferraron al poder de Dios.\n\n⸢Porque juzgó fiel al que había prometido, etc.⸣ Estas razones, por las que se exponen el poder y el carácter de la fe, deben ser cuidadosamente notadas. Si alguien solo oyera que Sara dio a luz un hijo por la fe, no se le comunicaría todo lo que esto significa, pero la explicación que el Apóstol añade elimina toda oscuridad; pues declara que la fe de Sara era esta: que consideró a Dios veraz en su palabra, es decir, en lo que había prometido.\n\nHay dos cláusulas en esta declaración; pues de aquí aprendemos primero que no hay fe sin la palabra de Dios, pues de su fidelidad no podemos estar convencidos hasta que él ha hablado. Y esto de por sí es abundantemente suficiente para refutar la ficción de los sofistas respecto a la fe implícita; pues debemos sostener siempre que hay una relación mutua entre la palabra de Dios y nuestra fe. Pero como la fe se funda principalmente, según lo ya dicho, en la benevolencia o bondad de Dios, no toda palabra, aunque venga de su boca, es suficiente; sino que se requiere una promesa como evidencia de su favor. Por eso se dice que Sara consideró fiel a Dios que había prometido. La fe verdadera entonces es la que oye a Dios hablar y descansa en su promesa.",
+  "lemas_es": [
+   "Por la fe también la misma Sara",
+   "Porque juzgó fiel al que había prometido"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c59c885c5be0",
+  "lemas_rv1909": [
+   {
+    "lema": "Por la fe también la misma Sara",
+    "ref": "HEB.11.11"
+   },
+   {
+    "lema": "porque creyó ser fiel el que ⸢lo⸣ había prometido",
+    "ref": "HEB.11.11"
+   }
+  ]
+ },
+ "calvino:HEB.11.12#183": {
+  "text_es": "12. ⸢Por lo cual también de uno, etc.⸣ Ahora también recuerda a los judíos que fue por la fe que fueron descendientes de Abraham; pues él estaba como medio muerto, y Sara su esposa, que había sido estéril en la flor de su edad, era ahora estéril, estando muy avanzada en años. Más pronto entonces podría esperarse que fluyera aceite de una piedra, que una nación procediera de ellos; y sin embargo brotó de ellos una multitud innumerable. Si ahora los judíos se enorgullecen de su origen, consideren lo que era. Cualquiera que sea lo que son, todo debe sin duda atribuirse a la fe de Abraham y Sara. De aquí se sigue que no pueden retener y defender la posición que han adquirido de ninguna otra manera que por la fe.",
+  "lemas_es": [
+   "Por lo cual también de uno"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7bf16a804300",
+  "lemas_rv1909": [
+   {
+    "lema": "Por lo cual también, de uno",
+    "ref": "HEB.11.12"
+   }
+  ]
+ },
+ "calvino:HEB.11.13#184": {
+  "text_es": "13. ⸢Todos estos murieron en fe, etc.⸣ Realza por comparación la fe de los patriarcas: pues cuando apenas habían gustado las promesas, como plenamente satisfechos con su dulzura, despreciaron todo lo que había en el mundo; y nunca olvidaron su sabor, por pequeño que fuera, ni en la vida ni en la muerte.\n\nAl mismo tiempo la expresión ⸢en fe⸣ se explica de diversas maneras. Algunos entienden simplemente esto: que murieron en fe, porque en esta vida nunca disfrutaron las bendiciones prometidas, como también hoy la salvación nos está oculta, siendo esperada. Pero me inclino más bien por los que piensan que aquí se expresa una diferencia entre nosotros y los padres; y doy esta explicación: «Aunque Dios dio a los padres solo un gusto de aquella gracia que abundantemente se derrama sobre nosotros, aunque les mostró a distancia solo una representación oscura de Cristo, que ahora se nos presenta claramente ante nuestros ojos, sin embargo quedaron satisfechos y nunca se apartaron de su fe: cuánta mayor razón tenemos entonces hoy para perseverar? Si desfallecemos, somos doblemente inexcusables». Es entonces una circunstancia que realza, que los padres tuvieran una visión distante del reino espiritual de Cristo, mientras que nosotros hoy tenemos una visión tan cercana de él, y que ellos saludaran las promesas desde lejos, mientras que nosotros las tenemos como muy cerca; pues si ellos sin embargo perseveraron hasta la muerte, qué pereza será cansarse en la fe, cuando el Señor nos sostiene con tantos auxilios. Si alguien objetara y dijera que no podrían haber creído sin recibir las promesas en las que la fe necesariamente se funda: a esto la respuesta es que la expresión debe entenderse comparativamente; pues estaban lejos de aquella alta posición a la que Dios nos ha elevado. De ahí que, aunque tuvieran la misma salvación prometida, no tenían las promesas tan claramente reveladas como lo están para nosotros bajo el reino de Cristo; pero se contentaban con contemplarlas desde lejos.\n\n⸢Y confesaron que eran extranjeros, etc.⸣ Esta confesión fue hecha por Jacob, cuando respondió a Faraón que el tiempo de su peregrinación era corto comparado con el de sus padres, y lleno de muchas tristezas. (Génesis 47:9.) Puesto que Jacob se confesó peregrino en la tierra que le había sido prometida como heredad perpetua, es bastante evidente que su mente de ningún modo estaba fijada en este mundo, sino que la elevaba por encima de los cielos. De aquí concluye el Apóstol que los padres, al hablar así, mostraron abiertamente que tenían una patria mejor en el cielo; pues como eran peregrinos aquí, tenían una patria y una morada permanente en otra parte.\n\nPero si ellos en espíritu, en medio de nubes oscuras, tomaron vuelo hacia la patria celestial, ¿qué deberíamos hacer nosotros hoy? Pues Cristo nos tiende su mano, por así decirlo abiertamente, desde el cielo, para elevarnos a sí mismo. Si la tierra de Canaán no acaparó su atención, cuánto más desprendidos de las cosas de abajo deberíamos estar nosotros, que no tenemos morada prometida en este mundo?",
+  "lemas_es": [
+   "Todos estos murieron en fe",
+   "Y confesaron que eran extranjeros"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "34577045fe11",
+  "lemas_rv1909": [
+   {
+    "lema": "fe murieron todos estos",
+    "ref": "HEB.11.13"
+   },
+   {
+    "lema": "y confesando que eran",
+    "ref": "HEB.11.13"
+   }
+  ]
+ },
+ "calvino:HEB.11.15#185": {
+  "text_es": "15. ⸢Y ciertamente si se hubieran acordado, etc.⸣ Anticipa una objeción que podría haberse hecho: que eran extranjeros porque habían dejado su propio país. El apóstol responde a esta objeción y dice que, aunque se llamaban extranjeros, no pensaban en Mesopotamia; pues si hubieran deseado volver, podrían haberlo hecho; pero se habían desterrado voluntariamente de ella, más aún, la habían repudiado, como si no les perteneciera. Por otra patria, entonces, entendían la que está más allá de este mundo.",
+  "lemas_es": [
+   "Y ciertamente si se hubieran acordado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6bfdc7cca7be",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.15"
+   }
+  ]
+ },
+ "calvino:HEB.11.16#186": {
+  "text_es": "16. ⸢Por lo cual Dios no se avergüenza, etc.⸣ Se refiere a aquel pasaje: «Yo soy el Dios de Abraham, el Dios de Isaac y el Dios de Jacob» (Éxodo 3:6). Es un honor singular cuando Dios hace ilustres a los hombres, uniendo su nombre a ellos; y se propone así ser distinguido de los ídolos. Este privilegio, como nos enseña el Apóstol, depende también de la fe; pues cuando los santos padres aspiraban a una patria celestial, Dios, por su parte, los contaba como ciudadanos. De aquí hemos de concluir que no hay lugar para nosotros entre los hijos de Dios, a menos que renunciemos al mundo, y que no tendremos herencia en el cielo, a menos que seamos peregrinos en la tierra. Además, el Apóstol concluye justamente de estas palabras —«Yo soy el Dios de Abraham, de Isaac y de Jacob»— que ellos eran herederos del cielo, puesto que quien así habla no es el Dios de los muertos, sino de los vivos.",
+  "lemas_es": [
+   "Por lo cual Dios no se avergüenza"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2cb05b3283e9",
+  "lemas_rv1909": [
+   {
+    "lema": "por lo cual Dios no se avergüenza",
+    "ref": "HEB.11.16"
+   }
+  ]
+ },
+ "calvino:HEB.11.17#187": {
+  "text_es": "17. ⸢Por la fe Abraham, etc.⸣ Prosigue con la historia de Abraham y relata la ofrenda de su hijo; y fue un caso singular de firmeza, de modo que apenas se hallará otro semejante. Por eso, para realzarlo, añade, ⸢cuando fue tentado⸣, o probado. Abraham había ya demostrado ciertamente lo que era mediante muchas pruebas; pero como esta prueba superó a todas las demás, así el Apóstol quiere que sea considerada por encima de todas sus pruebas. Es, pues, como si hubiera dicho: «La más alta excelencia de Abraham fue el sacrificar a su hijo»; pues se dice que Dios lo probó entonces de manera especial. Y sin embargo, este acto procedió de la fe; luego Abraham no tenía nada más excelente que la fe, que produjo tan extraordinario fruto.\n\nLa palabra ⸢tentado⸣ o ⸢probado⸣ no significa otra cosa que puesto a prueba. Lo que Santiago dice, que no somos tentados por Dios, ha de entenderse de otro modo (Stg. 1:13); quiere decir que Dios no nos tienta a hacer el mal; pues testifica que esto lo hace realmente la propia concupiscencia de cada hombre. Al mismo tiempo no dice que Dios no pruebe nuestra integridad y obediencia, aunque Dios no nos escudriña así, como si no supiera de otro modo lo que está oculto en nuestros corazones; antes bien, Dios no necesita probación para conocernos; pero cuando nos saca a la luz, para que por nuestras obras mostremos lo que antes estaba oculto, se dice que nos prueba o pone a prueba; y entonces lo que se manifiesta abiertamente, se dice que es dado a conocer a Dios. Pues es un modo de hablar muy usual y frecuente en la Escritura que lo que es propio de los hombres se atribuya a Dios.\n\nEl sacrificio de Isaac ha de estimarse según el propósito del corazón; pues no fue por culpa de Abraham que no ejecutara realmente lo que se le mandó hacer. Su resolución de obedecer fue entonces la misma que si hubiera sacrificado realmente a su hijo.\n\n⸢Y ofreció a su hijo unigénito, etc.⸣ Con estas diversas circunstancias el Apóstol quiso mostrar cuán grande y cuán severa fue la prueba de Abraham; y hay aún otras cosas relatadas por Moisés que tendían a lo mismo. Se mandó a Abraham tomar a su propio hijo, su hijo unigénito y amado, Isaac, llevarlo al lugar que después le sería mostrado, y allí sacrificarlo con sus propias manos. Estas tiernas palabras parece que Dios las acumuló deliberadamente, para traspasar lo más íntimo del corazón del santo varón como con otras tantas heridas; y luego, para probarlo más severamente, le mandó emprender un viaje de tres días. ¡Cuán aguda debemos pensar que fue su angustia al tener continuamente ante sus ojos a su propio hijo, a quien ya había resuelto dar muerte sangrienta! Cuando llegaban al lugar, Isaac le traspasó el pecho con una nueva herida al preguntarle: «¿Dónde está la víctima?». La muerte de un hijo, en cualquier circunstancia, debía haber sido muy dolorosa; una muerte sangrienta habría causado aún mayor dolor; pero cuando se le ordenó matar a su propio hijo, eso ciertamente debió de ser demasiado terrible para que lo soportara el corazón de un padre; y habría estado mil veces incapacitado, si la fe no hubiera elevado su corazón por encima del mundo. No es, pues, sin razón que el Apóstol registra que entonces fue ⸢probado⸣.\n\nPuede, sin embargo, preguntarse por qué Isaac es llamado unigénito, pues Ismael nació antes que él y aún vivía. A esto se responde que por mandato expreso de Dios fue expulsado de la familia, de modo que fue tenido por muerto, o al menos no ocupaba lugar alguno entre los hijos de Abraham.\n\n⸢Y el que había recibido las promesas, etc.⸣ Todas las cosas que hasta aquí hemos relatado, por mucho que debieran haber herido el corazón de Abraham, eran sin embargo heridas leves comparadas con esta prueba, cuando se le mandó, después de haber recibido las promesas, matar a su hijo Isaac; pues todas las promesas se fundaban en esta declaración: «En Isaac te será llamada descendencia» (Génesis 21:12); pues cuando se quitaba este fundamento, ninguna esperanza de bendición o de gracia permanecía. Aquí no estaba en juego nada terrenal, sino la salvación eterna de Abraham, sí, de todo el mundo. ¡En qué aprietos debió de verse el santo varón cuando le vino a la mente que la esperanza de la vida eterna había de extinguirse en la persona de su hijo! Y sin embargo, por la fe se elevó por encima de todos estos pensamientos, hasta ejecutar lo que se le mandaba. Puesto que fue una fortaleza maravillosa abrirse paso a través de tantos y tan grandes obstáculos, con justicia se concede la más alta alabanza a la fe, pues solo por la fe Abraham permaneció invencible.\n\nPero aquí surge no pequeña dificultad: ¿cómo es que se alaba la fe de Abraham cuando se aparta de la promesa? Pues así como la obediencia procede de la fe, así la fe procede de la promesa; entonces, cuando Abraham estaba sin la promesa, su fe necesariamente debía haber caído por tierra. Pero la muerte de Isaac, como ya se ha dicho, debía haber sido como la muerte de todas las promesas; pues Isaac no ha de ser considerado como un hombre común, sino como uno en quien estaba incluido Cristo. Esta cuestión, que de otro modo habría sido difícil de resolver, el Apóstol la explica añadiendo inmediatamente que Abraham atribuyó a Dios este honor: que era poderoso para levantar a su hijo de nuevo de entre los muertos. No renunció, pues, a la promesa que se le había dado, sino que extendió su poder y su verdad más allá de la vida de su hijo; pues no limitó el poder de Dios a límites tan estrechos como para atarlo a Isaac muerto, o para extinguirlo. Así retuvo la promesa, porque no ató el poder de Dios a la vida de Isaac, sino que estaba persuadido de que sería eficaz en sus cenizas muertas no menos que en él mientras vivía y respiraba.",
+  "lemas_es": [
+   "Por la fe Abraham",
+   "Y ofreció a su hijo unigénito",
+   "Y el que había recibido las promesas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "12affd73aa80",
+  "lemas_rv1909": [
+   {
+    "lema": "Por fe ofreció Abraham",
+    "ref": "HEB.11.17"
+   },
+   {
+    "lema": "y ofrecía al unigénito",
+    "ref": "HEB.11.17"
+   },
+   {
+    "lema": "el que había recibido las promesas",
+    "ref": "HEB.11.17"
+   }
+  ]
+ },
+ "calvino:HEB.11.19#188": {
+  "text_es": "19. ⸢De donde también, etc.⸣ Como si dijera: «Ni defraudó la esperanza a Abraham, pues fue una especie de resurrección cuando su hijo fue librado tan de repente de en medio de la muerte». La palabra ⸢figura⸣, que aquí se usa, se explica de diversas maneras. Yo la tomo simplemente como que significa semejanza; pues aunque Isaac no resucitó realmente de entre los muertos, sin embargo pareció haber resucitado en cierto modo, cuando fue rescatado de repente y maravillosamente por el favor inesperado de Dios. Sin embargo, no me desagrada lo que algunos dicen, quienes piensan que nuestra carne, sujeta a la muerte, está representada en el carnero que fue sustituido por Isaac. También admito que es verdad lo que algunos han enseñado: que este sacrificio fue una representación de Cristo. Pero ahora he de exponer lo que el Apóstol quiso decir, no lo que pueda decirse con verdad; y el sentido real aquí, según creo, es que Abraham no recibió a su hijo de otro modo que si hubiera sido restaurado de la muerte a nueva vida.",
+  "lemas_es": [
+   "De donde también"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4022c5a40919",
+  "lemas_rv1909": [
+   {
+    "lema": "de donde también",
+    "ref": "HEB.11.19"
+   }
+  ]
+ },
+ "calvino:HEB.11.20#189": {
+  "text_es": "20. ⸢Por la fe Isaac, etc.⸣ También fue obra de fe bendecir en cuanto a cosas futuras; pues cuando la cosa misma no existe y solo aparece la palabra, la fe necesariamente ha de tener el dominio. Pero primero hemos de advertir de qué valor es la bendición de la que habla. Pues ⸢bendecir⸣ a menudo significa pedir una bendición. Pero la bendición de Isaac fue muy distinta; pues fue como una introducción a la posesión de la tierra que Dios había prometido a él y a su posteridad. Y sin embargo, no tenía en aquella tierra nada más que el derecho de sepultura. Extraños parecían entonces estos altos títulos: «Sírvante pueblos, y póstrense ante ti naciones» (Génesis 27:29); pues ¿qué dominio podía dar quien apenas era libre? Vemos, pues, que esta bendición dependía de la fe; pues Isaac no tenía nada que pudiera otorgar a sus hijos sino la palabra de Dios.\n\nPuede, sin embargo, dudarse si hubo alguna fe en la bendición dada a Esaú, ya que era réprobo y rechazado por Dios. La respuesta es fácil, pues la fe brilló principalmente cuando distinguió entre los dos gemelos que le habían nacido, de modo que dio el primer lugar al menor; pues siguiendo el oráculo de Dios, quitó al primogénito el derecho ordinario de la naturaleza. Y de esto dependía la condición de toda la nación: que Jacob fue elegido por Dios, y que esta elección fue sancionada por la bendición del padre.",
+  "lemas_es": [
+   "Por la fe Isaac"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bf272337a67e",
+  "lemas_rv1909": [
+   {
+    "lema": "Por fe bendijo Isaac",
+    "ref": "HEB.11.20"
+   }
+  ]
+ },
+ "calvino:HEB.11.21#190": {
+  "text_es": "21. ⸢Por la fe Jacob, etc.⸣ El objeto del Apóstol era atribuir a la fe todo lo que era digno de memoria en la historia del pueblo; sin embargo, como habría sido tedioso recountar todo, seleccionó algunas cosas de muchas, como esta. Pues la tribu de Efraín era tan superior a las demás, que de cierto modo yacían bajo su sombra; pues la Escritura a menudo incluye las diez tribus bajo este nombre. Y sin embargo Efraín era el menor de los dos hijos de José, y cuando Jacob bendijo a él y a su hermano, ambos eran jóvenes. ¿Qué observó Jacob en el menor, para preferirlo al primogénito? Más aún, cuando lo hizo, sus ojos estaban oscurecidos por la edad, de modo que no podía ver. Ni puso su mano derecha por casualidad sobre la cabeza de Efraín, sino que cruzó sus manos, de modo que movió su mano derecha al lado izquierdo. Además, les asignó dos porciones, como si ya fuera el señor de aquella tierra, de la cual el hambre lo había expulsado. No había aquí nada conforme a la razón; pero la fe reinaba suprema. Si, pues, los judíos desean ser algo, no deberían gloriarse en otra cosa, sino en la fe.\n\n⸢Y adoró sobre la punta, etc.⸣ Este es uno de aquellos lugares de los cuales podemos concluir que los puntos no eran usados antiguamente por los hebreos; pues los traductores griegos no podrían haber cometido tal error como poner bastón aquí por cama, si el modo de escribir fuera entonces el mismo que ahora. Sin duda Moisés habló de la cabecera de su lecho, cuando dijo על ראש המטה pero los traductores griegos tradujeron las palabras, «Sobre la punta de su bastón» como si la última palabra estuviera escrita, ⸢mathaeh.⸣ El Apóstol no dudó en aplicar a su propósito lo que era comúnmente recibido: ciertamente escribía a los judíos; pero los que estaban dispersos en diversas naciones, habían cambiado su propia lengua por el griego. Y sabemos que los Apóstoles no eran tan escrupulosos en este respecto, como para no acomodarse a los indoctos, que aún tenían necesidad de leche; y en esto no hay peligro, con tal que los lectores sean siempre llevados de vuelta al texto puro y original de la Escritura. Pero, en realidad, la diferencia es poca; pues lo principal era que Jacob adoró, lo cual era evidencia de su gratitud. Fue, por tanto, guiado por la fe a someterse a su hijo.",
+  "lemas_es": [
+   "Por la fe Jacob",
+   "Y adoró sobre la punta"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "390efaaeb283",
+  "lemas_rv1909": [
+   {
+    "lema": "Por fe Jacob",
+    "ref": "HEB.11.21"
+   },
+   {
+    "lema": "y adoró ⸢estribando⸣ sobre la punta",
+    "ref": "HEB.11.21"
+   }
+  ]
+ },
+ "calvino:HEB.11.22#191": {
+  "text_es": "22. ⸢Por la fe José, etc.⸣ Esta es la última cosa que Moisés registra respecto a los patriarcas, y merece ser particularmente notada; pues las riquezas, los lujos y los honores no hicieron que el santo varón olvidara la promesa, ni lo detuvieron en Egipto; y esto era evidencia de no poca fe. Pues ¿de dónde tuvo tanta grandeza de ánimo, como para despreciar todo lo que era elevado en el mundo, y estimar como nada todo lo que en él era precioso, sino porque había ascendido al cielo? Al ordenar que sus huesos fueran sacados, no tenía consideración a sí mismo, como si su sepulcro en la tierra de Canaán fuera más dulce o mejor que en Egipto; sino que su único objeto era agudizar el deseo de su propia nación, para que aspiraran más ardientemente a la redención; deseaba también fortalecer su fe, para que pudieran esperar confiadamente que al fin serían liberados.",
+  "lemas_es": [
+   "Por la fe José"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b63eca2853a7",
+  "lemas_rv1909": [
+   {
+    "lema": "Por fe José",
+    "ref": "HEB.11.22"
+   }
+  ]
+ },
+ "calvino:HEB.11.23#192": {
+  "text_es": "23. ⸢Por la fe Moisés, etc.⸣ Ha habido otros, y aquellos paganos, que no por temor de Dios, sino solo por deseo de propagar descendencia, preservaron a sus propios hijos a riesgo de la vida; pero el Apóstol muestra que los padres de Moisés fueron inducidos a salvarlo por otra razón, a saber, porque como Dios les había prometido, bajo su opresión, que vendría algún tiempo un libertador, confiaron en esa promesa, y prefirieron la seguridad del infante a la suya propia.\n\nPero parece decir lo contrario al carácter de la fe, cuando dice que fueron inducidos a hacer esto por la belleza del niño; pues sabemos que Isaí fue reprendido, cuando trajo a sus hijos a Samuel según cada uno sobresalía en apariencia personal; y sin duda Dios no querría que consideráramos lo que es externamente atractivo. A esto respondo, que los padres de Moisés no fueron cautivados por la belleza, de modo que fueran inducidos por piedad a salvarlo, como suele suceder con los hombres; sino que había alguna marca, por así decirlo, de excelencia futura impresa en el niño, que prometía algo extraordinario. No hay duda, entonces, sino que por su misma apariencia fueron inspirados con la esperanza de una liberación cercana; pues consideraron que el niño estaba destinado a la realización de grandes cosas.\n\nAdemás, debería haber tenido gran peso para los judíos, oír que Moisés, el ministro de su redención, había sido de manera extraordinaria rescatado de la muerte por medio de la fe. Debemos, sin embargo, observar, que la fe aquí alabada era muy débil; pues después de haber despreciado el temor de la muerte, deberían haber criado a Moisés; en lugar de hacerlo, lo expusieron. De aquí es evidente que su fe en poco tiempo no solo vaciló, sino que falló por completo; al menos descuidaron su deber cuando arrojaron al infante a la orilla del río. Pero nos conviene estar más animados cuando oímos que su fe, aunque débil, fue sin embargo tan aprobada por Dios como para asegurar aquella vida a Moisés, de la cual dependía la liberación de la Iglesia.",
+  "lemas_es": [
+   "Por la fe Moisés"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4eda167f5758",
+  "lemas_rv1909": [
+   {
+    "lema": "Por fe Moisés",
+    "ref": "HEB.11.23"
+   }
+  ]
+ },
+ "calvino:HEB.11.24#193": {
+  "text_es": "24. ⸢Por la fe Moisés, cuando llegó a ser mayor, etc.⸣ El ejemplo de Moisés debería haber sido recordado por los judíos, más que el de cualquier otro; pues por medio de él fueron liberados de la servidumbre, y el pacto de Dios fue renovado con ellos, y la constitución de la Iglesia establecida por la publicación de la Ley. Pero si la fe ha de ser considerada como lo principal en Moisés, sería muy extraño e irrazonable que los apartara a cualquier otra cosa. De aquí se sigue que todos hacen un pobre progreso en la Ley quienes no son guiados por ella a la fe.\n\nVeamos ahora cuáles son las cosas por las que elogia la fe de Moisés. La primera excelencia que menciona es que, cuando ya era mayor, despreció la adopción de la hija de Faraón. Se refiere a su edad, pues si hubiera hecho esto cuando era niño, podría haberse atribuido a su ligereza, o a su ignorancia; pues como el entendimiento y la razón no son fuertes en los niños, se precipitan sin cuidado en cualquier curso de vida; los jóvenes también son a menudo llevados de aquí para allá por ardor irreflexivo. Para que sepamos entonces que nada se hizo irreflexivamente, y sin larga deliberación, el Apóstol dice que era de edad madura, lo cual también es evidente por la historia.\n\nPero se dice que despreció su adopción; pues cuando visitó a sus hermanos, cuando trató de aliviarlos, cuando vengó sus agravios, probó plenamente que prefería volver a su propia nación, antes que permanecer en la corte del rey: fue entonces lo mismo que un rechazo voluntario de ella. El Apóstol atribuye esto a la fe; pues le habría sido mucho mejor permanecer en Egipto, si no hubiera estado persuadido de la bendición prometida a la raza de Abraham; y de esta bendición, el único testigo era la promesa de Dios; pues no podía ver nada de ese tipo con sus ojos. De aquí aparece que contemplaba por la fe lo que estaba muy lejos de su vista.",
+  "lemas_es": [
+   "Por la fe Moisés, cuando llegó a ser mayor"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b79993a03959",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.24"
+   }
+  ]
+ },
+ "calvino:HEB.11.26#194": {
+  "text_es": "26 ⸢Teniendo por mayores riquezas el vituperio de Cristo, etc.⸣ Esta cláusula debe ser cuidadosamente notada; pues aquí aprendemos que debemos evitar como veneno mortal todo aquello que no puede disfrutarse sin ofender a Dios; pues llama ⸢deleites del pecado⸣ a todos los halagos del mundo que nos apartan de Dios y de nuestra vocación. Pero los consuelos de nuestra vida terrenal, que nos es lícito disfrutar con limpia conciencia y con permiso de Dios, no se incluyen aquí. Recordemos, pues, siempre que debemos saber y entender lo que Dios nos permite. Hay ciertamente algunas cosas lícitas en sí mismas, pero cuyo uso nos está prohibido por circunstancias de tiempo, lugar u otras cosas. Por tanto, en cuanto a todos los bienes relacionados con la vida presente, lo que siempre ha de tenerse en cuenta es que nos sean ayudas y auxilios para seguir a Dios, y no impedimentos. Y llama a estos deleites del pecado temporales o por ⸢un tiempo,⸣ porque pronto se desvanecen junto con la vida misma.\n\nEn oposición a estos pone el ⸢vituperio de Cristo,⸣ que todos los piadosos deben soportar de buena gana. Pues a los que Dios ha escogido, también los predestinó a ser conformes a la imagen de su propio Hijo; no que a todos los ejercite con el mismo tipo de vituperios o con la misma cruz, sino que todos han de estar dispuestos de tal manera que no rehúsen tomar la cruz en común con Cristo. Tenga, pues, presente cada uno que, así como es llamado a esta comunión, ha de desechar todos los impedimentos. Ni debemos omitir decir que él cuenta entre los vituperios de Cristo todas las ignominiosas pruebas que los fieles han tenido que soportar desde el principio del mundo; pues como eran miembros del mismo cuerpo, nada tuvieron diferente de lo que nosotros tenemos. Así como todas las tristezas son ciertamente recompensas del pecado, también son frutos de la maldición pronunciada sobre el primer hombre; pero cualesquiera injusticias que suframos de los impíos por causa de Cristo, él las considera como propias. De ahí que Pablo se gloriara de que completaba lo que faltaba a los padecimientos de Cristo. Si consideráramos esto rectamente, no nos sería tan penoso y amargo sufrir por Cristo.\n\nExplica también más plenamente lo que quiere decir en esta cláusula con el ⸢vituperio de Cristo,⸣ por lo que antes había declarado cuando dijo que Moisés escogió ⸢ser maltratado con el pueblo de Dios.⸣ No habría podido de otro modo declararse como uno del pueblo de Dios, a menos que se hubiera hecho compañero de su propia nación en sus miserias. Siendo, pues, este el fin, no nos separemos del cuerpo de la Iglesia: cualquier cosa que suframos, sepamos que es consagrada por causa de la cabeza. Así, por otro lado, llama a aquellas cosas los ⸢tesoros de Egipto,⸣ que nadie puede poseer de otro modo que renunciando y abandonando la Iglesia.\n\n⸢Porque tenía puesta la mirada en el galardón,⸣ o porque miraba a la remuneración. Prueba, por la descripción que da, que la magnanimidad de la mente de Moisés se debía a la fe; pues tenía los ojos fijos en la promesa de Dios. Porque no habría podido esperar que le fuera mejor estar con el pueblo de Israel que con los egipcios, si no hubiera confiado en la promesa y en nada más.\n\nPero si alguno de aquí concluye que su fe no descansaba solo en la misericordia de Dios, porque tenía puesta la mirada en el galardón; a esto respondo que la cuestión aquí no es respecto a la justicia o a la causa de la salvación, sino que el Apóstol incluye generalmente lo que pertenece a la fe. Entonces la fe, en cuanto a la justicia delante de Dios, no mira al galardón, sino a la bondad gratuita de Dios, no a nuestras obras sino a Cristo solo; pero la fe, aparte de la justificación, puesto que se extiende generalmente a toda palabra de Dios, tiene respeto al galardón que se promete; sí, por la fe abrazamos todo lo que Dios promete; pero él promete galardón a las obras; entonces la fe se aferra a esto. Pero todo esto no tiene lugar en la justificación gratuita, pues no puede esperarse galardón alguno por las obras, a menos que preceda la imputación de la justificación gratuita",
+  "lemas_es": [
+   "Porque tenía puesta la mirada en el galardón"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6aab865883ae",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.26"
+   }
+  ]
+ },
+ "calvino:HEB.11.27#195": {
+  "text_es": "27. ⸢Por fe dejó a Egipto, etc.⸣ Esto puede decirse tanto de su primera como de su segunda salida, es decir, cuando sacó consigo al pueblo. Ciertamente dejó Egipto cuando huyó de la casa de Faraón. Añádase a esto que su salida es registrada por el Apóstol antes de que mencione la celebración de la Pascua. Parece entonces hablar de la huida de Moisés; ni lo que añade, que ⸢no temió la ira del rey,⸣ es objeción a esto, aunque Moisés mismo relata que se vio obligado a hacerlo por temor. Pues si miramos el comienzo de su carrera, no temió, esto es, cuando se declaró vengador de su pueblo. Sin embargo, cuando considero todas las circunstancias, me inclino a considerar esto como su segunda salida; pues fue entonces cuando desatendió valientemente la feroz ira del rey, armado con tal poder por el Espíritu de Dios, que a menudo por su propia voluntad desafió la furia de aquella bestia salvaje. Fue sin duda un ejemplo de la maravillosa fuerza de la fe, que sacara una multitud no entrenada para la guerra y cargada con muchos estorbos, y sin embargo esperara que Dios le abriría un camino a través de innumerables dificultades. Veía a un rey poderosísimo en furiosa ira, y sabía que no cesaría hasta haber intentado lo máximo. Pero como sabía que Dios le había mandado partir, le encomendó el resultado, ni dudó que a su debido tiempo refrenaría todos los asaltos de los egipcios.\n\n⸢Como viendo al Invisible.⸣ No, pero había visto a Dios en medio de la zarza ardiente: esto entonces parece haberse dicho impropiamente, y no muy adecuado al tema presente. Concedo ciertamente que Moisés fue fortalecido en su fe por aquella visión, antes de emprender la gloriosa obra de librar al pueblo; pero no admito que fuera tal visión de Dios la que lo despojara de sus sentidos corporales y lo trasladara más allá de las pruebas de este mundo. Dios en aquel tiempo solo le mostró cierto símbolo de su presencia; pero estaba lejos de ver a Dios tal como es. Ahora bien, el Apóstol quiere decir que Moisés soportó como si hubiera sido llevado al cielo, y tuviera solo a Dios delante de sus ojos; y como si no tuviera nada que ver con los hombres, no estuviera expuesto a los peligros de este mundo ni tuviera contiendas con Faraón. Y sin embargo, es cierto que estaba rodeado de tantas dificultades que no podía sino pensar a veces que Dios estaba lejos de él, o al menos que la obstinación del rey, provista como estaba de tantos medios de resistencia, acabaría por vencerlo.\n\nEn resumen, Dios se apareció a Moisés de tal manera que aún dejaba lugar para la fe; y Moisés, asediado por terrores por todos lados, volvía todos sus pensamientos a Dios. Fue ciertamente ayudado a hacer esto por la visión que hemos mencionado; pero sin embargo veía en Dios más de lo que aquel símbolo indicaba: pues entendía su poder, y eso absorbió todos sus temores y peligros. Confiando en la promesa de Dios, estaba seguro de que el pueblo, aunque entonces oprimido por la tiranía de los egipcios, era ya, por así decirlo, señor de la tierra prometida.\n\nDe aquí aprendemos que el verdadero carácter de la fe es poner siempre a Dios delante de nuestros ojos; en segundo lugar, que la fe contempla en Dios cosas más altas y más ocultas de lo que nuestros sentidos pueden percibir; y en tercer lugar, que la sola vista de Dios es suficiente para fortalecer nuestra debilidad, de modo que lleguemos a ser más firmes que las rocas para resistir todos los asaltos de Satanás. De aquí se sigue que cuanto más débil y menos resuelto es alguien, menos fe tiene.",
+  "lemas_es": [
+   "Por fe dejó a Egipto",
+   "Como viendo al Invisible"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8b5e261ae98e",
+  "lemas_rv1909": [
+   {
+    "lema": "Por fe dejó a Egipto",
+    "ref": "HEB.11.27"
+   },
+   {
+    "lema": "como viendo al Invisible",
+    "ref": "HEB.11.27"
+   }
+  ]
+ },
+ "calvino:HEB.11.28#196": {
+  "text_es": "28. ⸢Por fe celebró la Pascua, etc.⸣ Esto debió haber servido mucho para recomendar la fe a los judíos; pues tenían en la más alta estima este primer sacrificio de la Pascua. Pero, dice, que fue celebrada por fe, no porque el cordero pascual fuera un tipo de Cristo, sino porque su beneficio no aparecía cuando rociaba los postes con sangre: cuando, por tanto, el efecto estaba aún oculto, era necesario esperarlo por fe. Es más, podría haber parecido extraño que Moisés pusiera unas pocas gotas de sangre, como remedio, en oposición a la venganza de Dios; pero satisfecho solo con la palabra de Dios, de que el pueblo quedaría exento del azote que venía sobre los egipcios, no vaciló. De ahí que el Apóstol justamente alabe su fe en este respecto.\n\nLos que explican que la Pascua fue celebrada por Moisés por fe, porque tenía respeto a Cristo, dicen ciertamente lo que es verdad; pero el Apóstol aquí registra simplemente su fe, porque se conformó solo con la palabra de Dios, cuando el efecto no aparecía: por tanto, están fuera de lugar aquí los refinamientos filosóficos. Y la razón por la que menciona solo a Moisés como celebrando la Pascua parece ser esta: que Dios por medio de él instituyó la Pascua.",
+  "lemas_es": [
+   "Por fe celebró la Pascua"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5101ef5e1a33",
+  "lemas_rv1909": [
+   {
+    "lema": "Por fe celebró la pascua",
+    "ref": "HEB.11.28"
+   }
+  ]
+ },
+ "calvino:HEB.11.29#197": {
+  "text_es": "29. ⸢Por fe pasaron, etc.⸣ Es cierto que muchos en aquella multitud eran incrédulos; pero el Señor concedió a la fe de unos pocos que toda la multitud pasara por el Mar Rojo en seco. Pero al hacer lo mismo, hubo una gran diferencia entre los israelitas y los egipcios; mientras los primeros pasaron a salvo, los segundos, viniendo tras ellos, se ahogaron. ¿De dónde venía esta diferencia, sino de que los israelitas tenían la palabra de Dios, y los egipcios carecían de ella? El argumento entonces deriva su fuerza de lo que sucedió de manera contraria; de ahí, dice, que los ⸢egipcios se ahogaron.⸣ Aquel desastroso acontecimiento fue el castigo de su temeridad, así como, por otro lado, los israelitas fueron preservados a salvo, porque confiaron en la palabra de Dios y no rehusaron marchar por en medio de las aguas.",
+  "lemas_es": [
+   "Por fe pasaron"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "70ce8a1eba3d",
+  "lemas_rv1909": [
+   {
+    "lema": "Por fe pasaron",
+    "ref": "HEB.11.29"
+   }
+  ]
+ },
+ "calvino:HEB.11.30#198": {
+  "text_es": "30. ⸢Por la fe cayeron los muros de Jericó, etc.⸣ Así como antes nos enseñó que el yugo de la servidumbre fue quebrantado por la fe, ahora nos dice que por esa misma fe el pueblo tomó posesión de la tierra prometida. Pues a su primera entrada, la ciudad de Jericó se les oponía; estando fortificada y casi inexpugnable, impedía todo avance ulterior, y no tenían medios para asaltarla. El Señor mandó a todos los hombres de guerra rodearla una vez cada día, y el séptimo día siete veces. Parecía una obra pueril y ridícula; y sin embargo, obedecieron el mandato divino; ni lo hicieron en vano, pues el éxito conforme a la promesa siguió. Es evidente que los muros no cayeron por el grito de los hombres, ni por el sonido de las trompetas, sino porque el pueblo creyó que el Señor haría lo que había prometido.\n\nTambién podemos aplicar este acontecimiento para nuestro provecho e instrucción: pues no es de otra manera, sino por la fe, que podemos ser librados de la tiranía del Diablo y ser llevados a la libertad; y por esa misma fe es que podemos poner en fuga a nuestros enemigos, y que todas las fortalezas del infierno pueden ser derribadas.",
+  "lemas_es": [
+   "Por la fe cayeron los muros de Jericó"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b14b2e82f8c4",
+  "lemas_rv1909": [
+   {
+    "lema": "Por fe cayeron los muros de Jericó",
+    "ref": "HEB.11.30"
+   }
+  ]
+ },
+ "calvino:HEB.11.31#199": {
+  "text_es": "31. ⸢Por la fe Rahab la ramera, etc.⸣ Aunque a primera vista este ejemplo puede parecer, por la bajeza de la persona, apenas digno de atención, e incluso indigno de ser registrado, sin embargo no fue inoportunamente, ni sin razón, aducido por el Apóstol. Hasta aquí ha mostrado que los Patriarcas, a quienes los judíos más honraban y veneraban, no hicieron nada digno de alabanza sino por la fe; y que todos los beneficios que Dios nos concede, incluso los más notables, han sido frutos de esa misma fe; pero ahora nos enseña que una mujer extranjera, no solo de humilde condición entre su propio pueblo, sino también ramera, había sido adoptada en el cuerpo de la Iglesia por la fe.\n\nDe aquí se sigue que los más encumbrados nada son ante Dios, a menos que tengan fe; y que, por otra parte, quienes apenas son admitidos entre los profanos y los réprobos, son por la fe introducidos en la compañía de los ángeles.\n\nAdemás, Santiago también da testimonio de la fe de Rahab (Santiago 2:25), y fácilmente puede concluirse de la historia sagrada que estaba dotada de verdadera fe; pues profesó su plena persuasión de lo que Dios había prometido a los israelitas; y de aquellos a quienes el temor impedía entrar en la tierra, pidió perdón para sí y para los suyos, como si ya fueran conquistadores; y en todo esto no consideró a los hombres, sino a Dios mismo. La evidencia de su fe fue que recibió a los espías con peligro de su vida; luego, por medio de la fe, escapó sana de la ruina de su propia ciudad. Se la menciona como ⸢ramera⸣ para engrandecer la gracia de Dios.\n\nAlgunos, en efecto, traducen זונה como hospedera, como si tuviera una casa pública o una posada; pero como la palabra significa ramera en todas partes de la Escritura, no hay razón para que la expliquemos de otro modo en este lugar. Los rabinos, juzgando extraño y vergonzoso para su nación que se dijera que los espías entraron en la casa de una ramera, inventaron este sentido forzado. Pero tal temor era infundado; pues en la historia de Josué, esta palabra, ramera, se añade expresamente, para que sepamos que los espías llegaron a la ciudad de Jericó clandestinamente y se ocultaron en casa de una ramera. Al mismo tiempo esto debe entenderse de su vida pasada; pues la fe es una evidencia de arrepentimiento.",
+  "lemas_es": [
+   "Por la fe Rahab la ramera"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b47b8d0e135c",
+  "lemas_rv1909": [
+   {
+    "lema": "Por fe Rahab la ramera",
+    "ref": "HEB.11.31"
+   }
+  ]
+ },
+ "calvino:HEB.11.32#200": {
+  "text_es": "32. ⸢¿Y qué más diré? etc.⸣ Como era de temer que, al referirse a unos pocos ejemplos, pareciera confinar las alabanzas de la fe a unos pocos hombres, lo anticipa y dice que no habría fin si se detuviera en cada caso; pues lo que había dicho de unos pocos se extendía a toda la Iglesia de Dios.\n\nSe refiere primero al tiempo que medió entre Josué y David, cuando el Señor levantó jueces para gobernar al pueblo; y tales fueron los cuatro que ahora menciona, ⸢Gedeón, Barac, Sansón⸣ y ⸢Jefté.⸣\n\nCiertamente parecía extraño en ⸢Gedeón⸣, con trescientos hombres, atacar a un inmenso ejército de enemigos, y agitar cántaros parecía una falsa alarma. ⸢Barac⸣ era muy inferior a sus enemigos, y se guiaba solo por el consejo de una mujer. ⸢Sansón⸣ era un simple campesino, y nunca había usado otras armas que los implementos de labranza: ¿qué podía hacer contra conquistadores tan probados, por cuyo poder todo el pueblo había sido subyugado? ¿Quién no habría condenado al principio la temeridad de ⸢Jefté⸣, que se declaró vengador de un pueblo ya sin esperanza? Pero como todos siguieron la guía de Dios, y animados por su promesa emprendieron lo que les fue mandado, han sido honrados con el testimonio del Espíritu Santo.\n\nLuego el Apóstol atribuye a la fe todo lo que en ellos era digno de alabanza; aunque no hubo uno de ellos cuya fe no cojeara. ⸢Gedeón⸣ fue más lento en tomar las armas de lo que debía haber sido; ni se aventuró sin alguna vacilación a encomendarse a Dios. ⸢Barac⸣ al principio tembló, de modo que fue casi forzado por las reprensiones de Débora. ⸢Sansón⸣, vencido por las caricias de una concubina, traicionó inconsideradamente la seguridad de todo el pueblo. ⸢Jefté⸣, precipitado en hacer un voto necio, y demasiado obstinado en cumplirlo, echó a perder la más brillante victoria con la muerte cruel de su propia hija. Así, en todos los santos siempre se halla algo reprensible; sin embargo la fe, aunque coja e imperfecta, sigue siendo aprobada por Dios. No hay, por tanto, razón para que las faltas que padecemos nos abatan o nos desanimen, con tal que por la fe sigamos adelante en la carrera de nuestra vocación.\n\n⸢De David, etc.⸣ Bajo el nombre de David incluye a todos los reyes piadosos, y a ellos añade a ⸢Samuel⸣ y a los ⸢Profetas.⸣ Quiere, pues, en suma, enseñarnos que el reino de Judá fue fundado en la fe; y que se mantuvo hasta el fin por la fe. Las muchas victorias de David, que había ganado sobre sus enemigos, eran comúnmente conocidas. Conocida era también la rectitud de Samuel, y su consumada sabiduría en gobernar al pueblo. Conocidos eran también los grandes favores concedidos por Dios a profetas y reyes. El Apóstol declara que no hay ninguna de estas cosas que no deba atribuirse a la fe.\n\nPero solo a algunos de estos innumerables beneficios de Dios se refiere, para que los judíos sacaran de ellos una conclusión general: que así como la Iglesia siempre ha sido preservada por la mano de Dios mediante la fe, así en este día no hay otro camino por el cual podamos conocer su bondad hacia nosotros.\n\nFue por la fe que David tantas veces volvió a casa como conquistador; que Ezequías se recuperó de su enfermedad; que Daniel salió sano e intacto del foso de los leones, y que sus amigos caminaron en un horno ardiente tan alegremente como en un prado agradable. Puesto que todas estas cosas fueron hechas por la fe, debemos estar convencidos de que de ninguna otra manera que por la fe ha de comunicársenos la bondad y la generosidad de Dios. Y aquella cláusula debe ser especialmente notada por nosotros, donde se dice que ⸢alcanzaron las promesas⸣ por la fe; pues aunque Dios permanece fiel, si todos fuéramos incrédulos, sin embargo nuestra incredulidad hace vanas las promesas, esto es, ineficaces para nosotros.",
+  "lemas_es": [
+   "¿Y qué más diré?",
+   "De David"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ddca9bff53e5",
+  "lemas_rv1909": [
+   {
+    "lema": "Y qué más",
+    "ref": "HEB.11.32"
+   },
+   {
+    "lema": "de David",
+    "ref": "HEB.11.32"
+   }
+  ]
+ },
+ "calvino:HEB.11.34#201": {
+  "text_es": "34. ⸢De débiles fueron hechos fuertes, etc.⸣ San Juan Crisóstomo refiere esto a la restauración de los judíos del exilio, en la cual eran como hombres sin esperanza; no desapruebo su aplicación a Ezequías. Podríamos al mismo tiempo extenderlo más ampliamente: que el Señor, por su mano, levantó en alto a sus santos siempre que fueron derribados; y trajo ayuda a su debilidad, para dotarlos de plena fuerza.",
+  "lemas_es": [
+   "De débiles fueron hechos fuertes"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2bf02dd46134",
+  "lemas_rv1909": [
+   {
+    "lema": "fueron hechos fuertes",
+    "ref": "HEB.11.34"
+   }
+  ]
+ },
+ "calvino:HEB.11.35#202": {
+  "text_es": "35. ⸢Mujeres recibieron, etc.⸣ Ya había mencionado casos en que Dios había remunerado la fe de sus siervos; ahora se refiere a ejemplos de otro género: que los santos, reducidos a extremas miserias, lucharon por la fe de modo que perseveraron invencibles hasta la muerte. Estos ejemplos, a primera vista, difieren mucho: unos triunfaron gloriosamente sobre enemigos vencidos, fueron preservados por el Señor mediante diversos milagros y fueron rescatados por medios nuevos e insólitos de en medio de la muerte; mientras que otros fueron tratados vergonzosamente, despreciados por casi todo el mundo, consumidos por la necesidad, tan odiados por todos que se vieron obligados a esconderse en las guaridas de las fieras y, por último, fueron arrastrados para soportar torturas salvajes y crueles; y estos últimos parecían completamente privados del auxilio de Dios, cuando él así los exponía a la soberbia y la crueldad de los impíos. Parece, pues, que fueron tratados de manera muy distinta que los primeros; y sin embargo, la fe reinaba en ambos, y era igualmente poderosa en ambos; más aún, en los últimos su poder resplandeció con una luz mucho más clara. Pues la victoria de la fe aparece más espléndida en el desprecio de la muerte que si la vida se prolongara hasta la quinta generación. Es una evidencia más gloriosa de la fe, y digna de mayor alabanza, cuando los oprobios, la necesidad y las aflicciones extremas se soportan con resignación y firmeza, que cuando se obtiene milagrosamente la recuperación de una enfermedad, o cualquier otro beneficio de Dios.\n\nEl resumen de todo es que la fortaleza de los santos, que ha resplandecido en todas las épocas, fue obra de la fe; pues nuestra debilidad es tal que no somos capaces de vencer los males, a menos que la fe nos sostenga. Pero de aquí aprendemos que todos los que realmente confían en Dios están dotados de poder suficiente para resistir a Satanás, de cualquier manera que los asalte, y especialmente que la paciencia para soportar los males nunca nos faltará, si poseemos la fe; y que, por tanto, somos hallados culpables de incredulidad cuando desfallecemos bajo las persecuciones y la cruz. Pues la naturaleza de la fe es la misma ahora que en los días de los santos padres que el Apóstol menciona. Si, pues, imitamos su fe, nunca nos derrumbaremos vilmente por la pereza o la indolencia.\n\n⸢Otros fueron atormentados, etc.⸣ En cuanto a este verbo, ἐτυμπανίσθησαν, he seguido a Erasmo, aunque otros lo traducen «encarcelados». Pero el sentido simple es, según creo, que fueron estirados en un potro, como la piel de un tambor, que se distiende. Al decir que fueron ⸢tentados⸣, parece haber dicho algo superfluo; y no dudo que la semejanza de las palabras, ἐπρίσθησαν y ἐπειρὰσθησαν, fue la razón de que la palabra fuera añadida por algún copista inexperto, y así se introdujera en el texto, como también ha conjeturado Erasmo. Por ⸢pieles de oveja⸣ y ⸢pieles de cabra⸣ no creo que se designen tiendas hechas de pieles, sino el vestido pobre y tosco de los santos, que se ponían cuando andaban errantes por los desiertos.\n\nAhora bien, aunque dicen que Jeremías fue apedreado, que Isaías fue aserrado, y aunque la historia sagrada relata que Elías, Eliseo y otros profetas anduvieron errantes por montes y cuevas; sin embargo, no dudo que aquí señala aquellas persecuciones que Antíoco llevó a cabo contra el pueblo de Dios, y las que siguieron después.\n\n⸢No aceptando la liberación, etc.⸣ Muy oportunamente habla aquí; pues debían haber comprado un breve plazo de vida negando a Dios; pero esto habría sido un precio extremadamente vergonzoso. Para poder vivir para siempre en el cielo, rechazaron una vida en la tierra, que les habría costado, como hemos dicho, tanto como la negación de Dios y también la repudiación de su propio llamamiento. Pero oímos lo que dice Cristo: que si buscamos salvar nuestra vida en este mundo, la perderemos para siempre. Si, pues, el amor verdadero de una resurrección futura habita en nuestros corazones, fácilmente nos llevará al desprecio de la muerte. Y sin duda deberíamos vivir solo para vivir para Dios: tan pronto como no se nos permita vivir para Dios, debemos salir al encuentro de la muerte de buena gana y no a regañadientes. Además, con este versículo el Apóstol confirma lo que había dicho: que los santos vencen todos los sufrimientos por la fe; pues si sus mentes no hubieran sido sostenidas por la esperanza de una resurrección bienaventurada, habrían desfallecido de inmediato.\n\nDe aquí podemos también derivar un aliento necesario, con el cual fortalecernos en las adversidades. Pues no debemos rechazar el favor del Señor de estar unidos a tantos hombres santos, que sabemos que fueron ejercitados y probados por muchos sufrimientos. Aquí, en efecto, se registran, no los sufrimientos de unos pocos individuos, sino las persecuciones comunes de la Iglesia, y no por uno o dos años, sino tales como continuaron a veces desde los abuelos hasta los nietos. No es de extrañar, entonces, que le plazca a Dios probar nuestra fe en este día con pruebas semejantes; ni debemos pensar que somos abandonados por él, quien, sabemos, cuidó de los santos padres que sufrieron lo mismo antes que nosotros.",
+  "lemas_es": [
+   "Mujeres recibieron",
+   "Otros fueron atormentados",
+   "No aceptando la liberación"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e3153c38a2a2",
+  "lemas_rv1909": [
+   {
+    "lema": "mujeres recibieron",
+    "ref": "HEB.11.35"
+   },
+   {
+    "lema": null,
+    "ref": "HEB.11.35"
+   },
+   {
+    "lema": null,
+    "ref": "HEB.11.35"
+   }
+  ]
+ },
+ "calvino:HEB.11.38#203": {
+  "text_es": "38. ⸢De los cuales el mundo no era digno, etc.⸣ Como los santos profetas andaban errantes como fugitivos entre las fieras, podrían haber parecido indignos de ser sostenidos sobre la tierra; pues ¿cómo era que no podían hallar lugar entre los hombres? Pero el Apóstol invierte este sentimiento y dice que el mundo no era digno de ellos; pues dondequiera que llegan los siervos de Dios, traen consigo su bendición como la fragancia de un dulce aroma. Así la casa de Potifar fue bendecida por causa de José (Génesis 39:5), y Sodoma habría sido perdonada si en ella se hubieran hallado diez justos (Génesis 18:32). Aunque, pues, el mundo arroje a los siervos de Dios como desecho, ha de considerarse como uno de sus juicios el que no pueda soportarlos; pues siempre los acompaña alguna bendición de Dios. Siempre que los justos nos sean quitados, sepamos que tales acontecimientos son presagios de mal para nosotros; pues somos indignos de tenerlos con nosotros, no sea que perezcan juntamente con nosotros.\n\nAl mismo tiempo, los piadosos tienen abundantes razones de consuelo, aunque el mundo los arroje como desecho; pues ven que lo mismo sucedió a los profetas, que hallaron más clemencia en las fieras que en los hombres. Con este pensamiento se consoló san Hilario cuando vio la Iglesia tomada por tiranos sanguinarios, que entonces empleaban al emperador romano como su verdugo; sí, aquel santo varón trajo entonces a la memoria lo que el Apóstol dice aquí de los profetas: «Los montes y los bosques», decía, «y las mazmorras y las prisiones, son más seguros para mí que los templos espléndidos; pues los profetas, mientras moraban o estaban sepultados en ellos, aún profetizaban por el Espíritu de Dios». Así también nosotros debemos estar animados para despreciar el mundo con audacia; y si llegara a arrojarnos, sepamos que salimos de un abismo fatal, y que Dios así provee para nuestra seguridad, para que no nos hundamos en la misma destrucción.",
+  "lemas_es": [
+   "De los cuales el mundo no era digno"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "22b4e2bb8ada",
+  "lemas_rv1909": [
+   {
+    "lema": "De los cuales el mundo no era digno",
+    "ref": "HEB.11.38"
+   }
+  ]
+ },
+ "calvino:HEB.11.39#204": {
+  "text_es": "39. ⸢Y todos estos, etc.⸣ Este es un argumento de lo menor a lo mayor; pues si aquellos sobre quienes la luz de la gracia aún no había brillado tan intensamente mostraron tan grande constancia en soportar los males, ¿qué debería producir en nosotros el pleno resplandor del Evangelio? Una pequeña chispa de luz los llevó al cielo; cuando el sol de justicia resplandece sobre nosotros, ¿con qué pretexto podemos excusarnos si todavía nos adherimos a la tierra? Este es el verdadero sentido del Apóstol.\n\nSé que san Juan Crisóstomo y otros han dado una explicación diferente, pero el contexto muestra claramente que lo que aquí se pretende es la diferencia entre la gracia que Dios concedió a los fieles bajo la Ley y la que nos concede ahora. Pues, ya que sobre nosotros se derrama una gracia más abundante, sería muy extraño que hubiera en nosotros menos fe. Dice, pues, que aquellos padres que fueron dotados de una fe tan notable aún no tenían razones tan fuertes para creer como las que tenemos nosotros. Inmediatamente después expone la razón: porque Dios se propuso unirnos a todos en un solo cuerpo, y distribuyó a ellos una pequeña porción de gracia, para diferir su plena perfección hasta nuestro tiempo, hasta la venida de Cristo.\n\nY es una singular evidencia de la benevolencia de Dios hacia nosotros que, aunque se ha mostrado generoso con sus hijos desde el principio del mundo, haya distribuido su gracia de tal modo que proveyera para el bienestar de todo el cuerpo. ¿Qué más podría desear cualquiera de nosotros, sino que en todas las bendiciones que Dios concedió a Abraham, Moisés, David y todos los patriarcas, a los profetas y a los reyes piadosos, tuviera consideración hacia nosotros, para que fuéramos unidos juntamente con ellos en el cuerpo de Cristo? Sepamos, pues, que somos doble y triplemente ingratos a Dios si en nosotros aparece menos fe bajo el reino de Cristo que la que los padres tuvieron bajo la Ley, como lo prueban tantos notables ejemplos de paciencia. Con las palabras de que no recibieron la promesa ha de entenderse su cumplimiento último, que tuvo lugar en Cristo, sobre lo cual ya se ha dicho algo.",
+  "lemas_es": [
+   "Y todos estos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d4d1e7a1ed1b",
+  "text_es_2": "39. ⸢Y todos éstos, etc.⸣ Este es un argumento de lo menor a lo mayor; pues si aquellos sobre quienes la luz de la gracia aún no había brillado con tanta claridad mostraron tan gran constancia al soportar males, ¿qué debería producir en nosotros el pleno resplandor del Evangelio? Una pequeña chispa de luz los condujo al cielo; cuando el Sol de justicia brilla sobre nosotros, ¿con qué pretexto podemos excusarnos si todavía nos adherimos a la tierra? Este es el verdadero sentido del Apóstol.\n\nSé que san Juan Crisóstomo y otros han dado una explicación diferente, pero el contexto muestra claramente que lo que aquí se pretende es la diferencia entre la gracia que Dios concedió a los fieles bajo la Ley y la que nos concede ahora. Pues, ya que se derrama sobre nosotros una gracia más abundante, sería muy extraño que tuviéramos menos fe. Dice luego que aquellos padres, dotados de una fe tan notable, aún no tenían razones para creer tan fuertes como las que tenemos nosotros. Inmediatamente después expone la razón: porque Dios se proponía unirnos a todos en un solo cuerpo, y que distribuyó a ellos una pequeña porción de gracia, para diferir su plena perfección a nuestro tiempo, incluso hasta la venida de Cristo.\n\nY es una evidencia singular de la benevolencia de Dios hacia nosotros, que aunque se ha mostrado generoso con sus hijos desde el principio del mundo, sin embargo, ha distribuido su gracia de tal manera que proveyera para el bienestar de todo el cuerpo. ¿Qué más podría desear cualquiera de nosotros, sino que en todas las bendiciones que Dios concedió a Abraham, Moisés, David y todos los patriarcas, a los profetas y a los reyes piadosos, él tuviera consideración de nosotros, de modo que fuéramos unidos junto con ellos en el cuerpo de Cristo? Sepamos, pues, que somos doble y triplemente ingratos a Dios, si en nosotros aparece menos fe bajo el reino de Cristo que la que los padres tuvieron bajo la Ley, como lo prueban tantos notables ejemplos de paciencia. Por las palabras: que no recibieron la promesa, debe entenderse su cumplimiento último, que tuvo lugar en Cristo, sobre lo cual ya se ha dicho algo.",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "Y todos estos",
+    "ref": "HEB.11.39"
+   }
+  ]
  }
 }

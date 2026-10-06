@@ -384,9 +384,9 @@
  },
  "hcf:Tertullian/Hebrews 9_14#0": {
   "ok": false,
-  "motivo": "Omite la expresión \"of course\" (\"por supuesto/ciertamente\").",
+  "motivo": "Traduce 'the very Lord Himself of all might' como 'el mismo Señor de todos', omitiendo 'de todo poder'; también omite 'of course'.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "9cfe25c651db"
+  "huella": "aebd6d92200e"
  },
  "hcf:Tertullian/Hebrews 9_19#0": {
   "ok": true,
@@ -405,5 +405,137 @@
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
   "huella": "7ecce9e6bb31"
+ },
+ "calvino:HEB.9.1#121": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "6ede011b9c34"
+ },
+ "calvino:HEB.9.2#122": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "657c360a6be2"
+ },
+ "calvino:HEB.9.5#123": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e6bbd5aab351"
+ },
+ "calvino:HEB.9.6#124": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "9628e377aa10"
+ },
+ "calvino:HEB.9.7#125": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "2ae6ac0e20bf"
+ },
+ "calvino:HEB.9.9#126": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "c46ce142eb30"
+ },
+ "calvino:HEB.9.10#127": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b1cce547ffd5"
+ },
+ "calvino:HEB.9.11#128": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "ca7c1710a4a6"
+ },
+ "calvino:HEB.9.12#129": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "519fff2a100a"
+ },
+ "calvino:HEB.9.13#130": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b17bc842b603"
+ },
+ "calvino:HEB.9.14#131": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "2f4a3470b68e"
+ },
+ "calvino:HEB.9.15#132": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "816838a04a1f"
+ },
+ "calvino:HEB.9.16#133": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "cef3a7a44d7f"
+ },
+ "calvino:HEB.9.18#134": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "6122d8f98974"
+ },
+ "calvino:HEB.9.20#135": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a45747d4258e"
+ },
+ "calvino:HEB.9.22#136": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "c039c29d1ea5"
+ },
+ "calvino:HEB.9.23#137": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e7b0caaf66e6"
+ },
+ "calvino:HEB.9.24#138": {
+  "ok": false,
+  "motivo": "Traduce 'The holy places' como 'El lugar santísimo' (cambia el referente) y cambia 'has he not always appeared' por '¿no había aparecido...?'.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "8504f067b6f1"
+ },
+ "calvino:HEB.9.25#139": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "bdd63b8a272f"
+ },
+ "calvino:HEB.9.26#140": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "6bfa4dc5fcea"
+ },
+ "calvino:HEB.9.27#141": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "8f19cf705ae1"
+ },
+ "calvino:HEB.9.28#142": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "11f8640b8982"
  }
 }

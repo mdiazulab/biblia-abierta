@@ -250,13 +250,13 @@
   "modelo_2": "deepseek:deepseek-reasoner"
  },
  "hcf:Tertullian/Hebrews 9_14#0": {
-  "text_es": "Pues bien, yo por mi parte explicaré primero la razón de su ofensa, para que pueda desbaratar más fácilmente el escándalo de nuestro hereje. Ahora bien, que el mismo Señor de todo poder, el Verbo y Espíritu del Padre, estaba obrando y predicando en la tierra, era necesario que la porción del Espíritu Santo que, en forma de don profético, había estado por medio de Juan preparando los caminos del Señor, se apartara ahora de Juan y volviera de nuevo al Señor, como a su origen que todo lo abarca.",
+  "text_es": "Pues bien, yo por mi parte explicaré primero la razón de su ofensa, para poder así desbaratar más fácilmente el escándalo de nuestro hereje. Ahora bien, que el mismo Señor de todos, el Verbo y Espíritu del Padre, estaba obrando y predicando en la tierra, era necesario que la porción del Espíritu Santo que, en forma de don profético, había estado por medio de Juan preparando los caminos del Señor, se apartara ahora de Juan y volviera de nuevo al Señor, como a su origen que todo lo abarca.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
   "huella": "7510468576e6",
   "text_es_2": "Pues bien, yo por mi parte explicaré primero la razón de su ofensa, para poder desbaratar más fácilmente el escándalo de nuestro hereje. Ahora bien, dado que el mismo Señor de todo poder, el Verbo y Espíritu del Padre, estaba obrando y predicando en la tierra, era necesario que la porción del Espíritu Santo que, en forma de don profético, había estado por medio de Juan preparando los caminos del Señor, se apartara ahora de Juan y volviera de nuevo al Señor, como a su origen que todo lo abarca.",
   "modelo_2": "deepseek:deepseek-reasoner",
-  "corregido_por_juez": "Omite 'of course' ('por supuesto/ciertamente')."
+  "corregido_por_juez": "Omite la expresión \"of course\" (\"por supuesto/ciertamente\")."
  },
  "aquifer:13340": {
   "text_es": "⸢el mediador⸣: Este término describe a una persona que ayuda a resolver un desacuerdo legal o político difícil. En el antiguo pacto, la gente veía a Moisés y a los ángeles como intermediarios entre Dios y el pueblo (Gálatas 3:19–20). En el nuevo pacto, Cristo conecta a Dios y a las personas mediante su muerte sacrificial (Hebreos 8:6; 12:24; Romanos 6:23; 1 Timoteo 2:5; 1 Pedro 3:18) y su intercesión continua (oración en favor de otros) (Hebreos 7:25).",
@@ -469,5 +469,360 @@
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
   "huella": "229dc31862cd"
+ },
+ "calvino:HEB.9.1#121": {
+  "text_es": "1 ⸢Entonces ciertamente el primero, etc.⸣ Después de haber hablado en general de la abrogación del antiguo pacto, ahora se refiere especialmente a las ceremonias. Su propósito es mostrar que nada se practicaba entonces a lo que la venida de Cristo no haya puesto fin. Dice en primer lugar que bajo el antiguo pacto había una forma específica de culto divino, y que estaba peculiarmente adaptada a aquel tiempo. Después aparecerá por la comparación qué clase de cosas eran aquellos ritos prescritos bajo la Ley.\n\nAlgunos ejemplares leen πρώτη σκηνὴ el primer tabernáculo; pero sospecho que hay un error en cuanto a la palabra «tabernáculo»; ni dudo que algún lector indocto, al no encontrar un sustantivo para el adjetivo, y aplicando por ignorancia al tabernáculo lo que se había dicho del pacto, añadió neciamente la palabra σκηνὴ tabernáculo. En verdad me asombra mucho que el error haya prevalecido tanto, que se halla en los ejemplares griegos casi universalmente. Pero la necesidad me obliga a seguir la lectura antigua. Pues el Apóstol, como he dicho, había estado hablando del antiguo pacto; ahora pasa a las ceremonias, que eran como añadiduras de él. Insinúa, pues, que todos los ritos de la Ley mosaica eran parte del antiguo pacto, y que participaban de la misma antigüedad, y que por tanto habían de perecer.\n\nMuchos toman la palabra λατρείας como acusativo plural. Estoy de acuerdo con quienes unen las dos palabras, δικαιώματα λατρείας, por institutos o ritos, que los hebreos llaman חוקים, y los griegos han traducido por la palabra δικαιώματα ordenanzas. El sentido es que toda la forma o manera de adorar a Dios estaba anexa al antiguo pacto, y que consistía en sacrificios, abluciones y otros símbolos, junto con el santuario. Y lo llama un ⸢santuario mundano⸣, porque no había verdad ni realidad celestial en aquellos ritos; pues aunque el santuario era la efigie del modelo original que había sido mostrado a Moisés, sin embargo una efigie o imagen es cosa distinta de la realidad, y especialmente cuando se comparan, como aquí, como cosas opuestas entre sí. Por tanto, el santuario en sí era ciertamente terrenal, y se cuenta con razón entre los elementos del mundo; pero era celestial en cuanto a lo que significaba.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5db5c657d2d1"
+ },
+ "calvino:HEB.9.2#122": {
+  "text_es": "2. ⸢Porque había un tabernáculo, etc.⸣ Así como el Apóstol aquí toca solo ligeramente la estructura del tabernáculo, para no detenerse más de lo que su tema requería, así también yo me abstendré deliberadamente de cualquier explicación refinada de él. Basta, pues, para nuestro propósito presente considerar el tabernáculo en sus tres partes: la primera era el atrio del pueblo; la del medio se llamaba comúnmente el santuario; y la última era el santuario interior, que llamaban, por excelencia, ⸢el lugar santísimo⸣.\n\nEn cuanto al primer santuario, que era contiguo al atrio del pueblo, dice que allí estaban el ⸢candelero⸣ y ⸢la mesa⸣ sobre la cual se ponían los ⸢panes de la proposición⸣; llama a este lugar, en número plural, los santos. Luego, después de mencionar esto, el lugar más secreto, que llamaban el lugar santísimo, aún más apartado de la vista del pueblo, y que estaba incluso oculto para los sacerdotes que ministraban en el primer santuario; pues así como por un velo el santuario estaba cerrado al pueblo, así otro velo apartaba a los sacerdotes del lugar santísimo. Allí, dice el Apóstol, estaba el θυμιατήριον, nombre por el que entiendo el altar del incienso, o de la fumigación, más bien que el incensario; luego ⸢el arca del pacto⸣, con su propiciatorio, ⸢los dos querubines, el vaso de oro⸣ lleno de ⸢maná, la vara de Aarón y las dos tablas⸣. Hasta aquí el Apóstol procede describiendo el tabernáculo.\n\nPero dice que el vaso en que Moisés había depositado el maná, y la vara de Aarón que había florecido, estaban en el arca con las dos tablas; pero esto parece ser inconsistente con la historia sagrada, que en 1 Reyes 8:9 relata que no había nada en el arca sino las dos tablas. Pero es fácil reconciliar estos dos pasajes: Dios había mandado que el vaso y la vara de Aarón se pusieran delante del testimonio; de ahí es probable que fueran depositados en el arca, junto con las tablas. Pero cuando se edificó el Templo, estas cosas fueron dispuestas en un orden diferente, y cierta historia lo relata como cosa nueva, que el arca no tenía otra cosa sino las dos tablas.",
+  "lemas_es": [
+   "Porque había un tabernáculo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c437d6da4078",
+  "lemas_rv1909": [
+   {
+    "lema": "Porque el tabernáculo",
+    "ref": "HEB.9.2"
+   }
+  ]
+ },
+ "calvino:HEB.9.5#123": {
+  "text_es": "5. ⸢De lo cual no podemos ahora, etc.⸣ Como nada puede satisfacer a los hombres curiosos, el apóstol corta toda ocasión para refinamientos inadecuados a su propósito presente, y para que una discusión más larga de estas cosas no rompa el hilo de su argumento. Si, pues, alguno desatendiera el ejemplo del Apóstol y se detuviera más minuciosamente en el tema, obraría muy irracionalmente. Podría haber, en verdad, ocasión de hacerlo en otro lugar; pero ahora es mejor atender al tema que trata; puede decirse además que filosofar más allá de los justos límites, como algunos hacen, no solo es inútil, sino también peligroso. Hay algunas cosas que no son oscuras y que sirven para la edificación de la fe; pero deben observarse la discreción y la sobriedad, para que no pretendamos ser sabios más allá de lo que Dios se ha complacido en revelar.",
+  "lemas_es": [
+   "De lo cual no podemos ahora"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "387f420ddd7b",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.5"
+   }
+  ]
+ },
+ "calvino:HEB.9.6#124": {
+  "text_es": "6. ⸢Y así dispuestas estas cosas, etc.⸣ Omitiendo otras cosas, emprende el tratamiento del punto principal en disputa: dice que los sacerdotes que realizaban los ritos sagrados solían entrar en el primer tabernáculo cada día, pero que el pontífice entraba en el lugar santísimo solo una vez al año con el sacrificio señalado. De ahí concluye que, mientras el tabernáculo bajo la Ley estaba en pie, el santuario estaba cerrado, y que solo al ser removido aquel podía abrirse para nosotros el camino al reino de Dios. Vemos que la misma forma del antiguo tabernáculo recordaba a los judíos que debían esperar otra cosa. Neciamente, pues, obraban quienes, reteniendo las sombras de la Ley, obstruían voluntariamente su propio camino.\n\nMenciona πρώτην σκηνὴν el primer tabernáculo, en el ver. 2, en un sentido distinto del que tiene aquí, pues aquí significa el primer santuario, pero allí el tabernáculo entero; pues lo pone en oposición al santuario espiritual de Cristo, que menciona en seguida. Sostiene que este había caído para nuestro gran beneficio, pues mediante su caída se nos ha obtenido un acceso más familiar a Dios.",
+  "lemas_es": [
+   "Y así dispuestas estas cosas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9c3a5fd2c165",
+  "lemas_rv1909": [
+   {
+    "lema": "Y estas cosas así",
+    "ref": "HEB.9.6"
+   }
+  ]
+ },
+ "calvino:HEB.9.7#125": {
+  "text_es": "7. ⸢Por sí mismo y por los errores del pueblo⸣, o por lo suyo y las ignorancias del pueblo. Así como el verbo |shagag| significa en hebreo errar, equivocarse, así |shgagah|, derivado de él, denota propiamente error o equivocación; pero sin embargo se toma generalmente por cualquier clase de pecado; y sin duda nunca pecamos sino cuando somos engañados por los halagos de Satanás. El Apóstol no entiende por ello la mera ignorancia, como dicen, sino que, por el contrario, incluye también los pecados voluntarios; pero como ya he dicho, ningún pecado está libre de error o ignorancia; pues por mucho que alguno peque a sabiendas y voluntariamente, ha de estar cegado por su concupiscencia, de modo que no juzga rectamente, o más bien se olvida de sí mismo y de Dios; pues los hombres nunca se precipitan deliberadamente a la ruina, sino que, enredados en los engaños de Satanás, pierden la capacidad de juzgar rectamente.",
+  "lemas_es": [
+   "Por sí mismo y por los errores del pueblo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ed3cead68298",
+  "lemas_rv1909": [
+   {
+    "lema": "por sí mismo, y por los pecados de ignorancia del pueblo",
+    "ref": "HEB.9.7"
+   }
+  ]
+ },
+ "calvino:HEB.9.9#126": {
+  "text_es": "9. ⸢Lo cual era figura, etc.⸣ La palabra παραθολὴ, usada aquí, significa, según creo, lo mismo que ἀντίτυπος, antitipo; pues quiere decir que aquel tabernáculo era un segundo modelo que correspondía al primero. Pues el retrato de un hombre debe ser tan semejante al hombre mismo, que al ser visto nos recuerde inmediatamente a quien representa. Dice además que era una ⸢figura⸣, o semejanza, ⸢para el tiempo entonces presente⸣, es decir, mientras la observancia externa estaba en vigor; y dice esto para limitar su uso y duración al tiempo de la Ley; pues significa lo mismo que añade después, que todas las ceremonias fueron impuestas hasta el tiempo de la reforma; ni es objeción que use el tiempo presente al decir ⸢se ofrecen dones⸣; pues como tenía que ver con los judíos, habla por vía de concesión, como si fuera uno de los que sacrificaban. ⸢Dones⸣ y ⸢sacrificios⸣ difieren, pues el primero es término general, y el otro particular.\n\n⸢Que no podían hacer perfecto al que servía en cuanto a la conciencia⸣, es decir, no llegaban al alma de modo que confirieran verdadera santidad. No rechazo las palabras ⸢hacer perfecto⸣, y sin embargo prefiero el término ⸢santificar⸣, por ser más adecuado al contexto. Pero para que los lectores entiendan mejor el sentido del Apóstol, nótese el contraste entre la carne y la conciencia; niega que los adoradores pudieran ser limpiados espiritual e interiormente por los sacrificios de la Ley. Se añade como razón que todos estos ritos eran de la carne o carnales. ¿Qué concede entonces que fueran? Comúnmente se supone que eran útiles solo como medios de instrucción para los hombres, conducentes a la virtud y al decoro. Pero quienes así piensan no consideran suficientemente las promesas que se añaden. Esta glosa, por tanto, debe ser totalmente repudiada. Absurda e ignorantemente también interpretan ⸢las ordenanzas de la carne⸣ como si limpiaran o santificaran solo el cuerpo; pues el Apóstol entiende por estas palabras que eran símbolos terrenales, que no llegaban al alma; pues aunque eran verdaderos testimonios de perfecta santidad, de ningún modo la contenían en sí mismos, ni podían comunicarla a los hombres; pues los fieles eran guiados por tales ayudas, como de la mano, a Cristo, para que obtuvieran de él lo que faltaba en los símbolos.\n\nSi alguien preguntara por qué el Apóstol habla con tan poco respeto e incluso con desprecio de Sacramentos divinamente instituidos, y menosprecia su eficacia, lo hace porque los separa de Cristo; y sabemos que, considerados en sí mismos, no son sino elementos pobres, como Pablo los llama. (Gálatas 4:9.)",
+  "lemas_es": [
+   "Lo cual era figura",
+   "Que no podían hacer perfecto al que servía en cuanto a la conciencia"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e633427977a9",
+  "lemas_rv1909": [
+   {
+    "lema": "Lo cual ⸢era⸣ figura",
+    "ref": "HEB.9.9"
+   },
+   {
+    "lema": "que no podían hacer perfecto, cuanto a la conciencia, al que servía",
+    "ref": "HEB.9.9"
+   }
+  ]
+ },
+ "calvino:HEB.9.10#127": {
+  "text_es": "10. ⸢Hasta el tiempo de la reforma, etc.⸣ Aquí alude a la profecía de Jeremías. (Jeremías 31:31.) El nuevo pacto sucedió al antiguo como una reforma. Menciona expresamente ⸢las viandas⸣ y ⸢las bebidas⸣, y otras cosas de menor importancia, porque por estas observancias triviales puede formarse una opinión más cierta de cuánto le faltaba a la Ley para la perfección del Evangelio.",
+  "lemas_es": [
+   "Hasta el tiempo de la reforma"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7484e45d68eb",
+  "lemas_rv1909": [
+   {
+    "lema": "hasta el tiempo",
+    "ref": "HEB.9.10"
+   }
+  ]
+ },
+ "calvino:HEB.9.11#128": {
+  "text_es": "11. ⸢Pero Cristo, habiendo venido, etc.⸣ Ahora nos pone delante la realidad de las cosas que estaban bajo la Ley, para que apartemos de ellas los ojos y los volvamos a él; pues quien cree que las cosas entonces prefiguradas bajo la Ley han sido realmente halladas en Cristo, ya no se adherirá a las sombras, sino que abrazará la sustancia y la genuina realidad.\n\nPero los detalles de la comparación entre Cristo y el antiguo pontífice deben ser cuidadosamente notados. Había dicho que el pontífice solo entraba en el santuario una vez al año con sangre para expiar los pecados. Cristo es en esta vida el antiguo pontífice, pues él solo posee la dignidad y el oficio de pontífice; pero difiere de él en este respecto, que trae consigo bendiciones eternas que aseguran una perpetuidad a su sacerdocio. En segundo lugar, hay esta semejanza entre el antiguo pontífice y el nuestro, que ambos entraban en el Lugar Santísimo a través del santuario; pero difieren en esto, que Cristo solo entró en el cielo a través del templo de su propio cuerpo. Que el Lugar Santísimo se abriera una vez cada año al pontífice para hacer la expiación señalada — esto prefiguraba oscuramente el único y verdadero sacrificio de Cristo. Entrar una vez, entonces, era común a ambos, pero para el terrenal era cada año, mientras que para el celestial era para siempre, hasta el fin del mundo. La ofrenda de sangre era común a ambos; pero había una gran diferencia en cuanto a la sangre; pues Cristo ofreció, no la sangre de bestias, sino su propia sangre. La expiación era común a ambos; pero la que era según la Ley, como era ineficaz, se repetía cada año; pero la expiación hecha por Cristo es siempre eficaz y es causa de salvación eterna para nosotros. Así, hay gran importancia casi en cada palabra. Algunos traducen las palabras: «Pero Cristo estando presente», o asistiendo; pero el significado del Apóstol no se expresa así; pues da a entender que cuando los sacerdotes levíticos habían desempeñado su oficio por el tiempo prefijado, Cristo vino en su lugar, conforme a lo que hallamos en el capítulo séptimo.\n\n⸢De los bienes venideros, etc.⸣ Toma estos por cosas eternas; pues así como μέλλων καιρὸς, tiempo venidero, se opone al presente τῷ ἐνεστηκότι; así las bendiciones futuras se oponen a las presentes. El significado es que somos guiados por el sacerdocio de Cristo al reino celestial de Dios, y que somos hechos partícipes de la justicia espiritual y de la vida eterna, de modo que no es correcto desear nada mejor. Cristo solo, entonces, tiene aquello por lo que puede retenernos y satisfacernos en sí mismo.\n\n⸢Por un tabernáculo mayor y más perfecto,⸣ etc. Aunque este pasaje se explica de diversas maneras, no dudo que se refiere al cuerpo de Cristo; pues así como antiguamente había un acceso para el pontífice levítico al Lugar Santísimo a través del santuario, así Cristo por su propio cuerpo entró en la gloria del cielo; pues como había vestido nuestra carne y en ella sufrió, obtuvo para sí este privilegio, que se presentara ante Dios como Mediador por nosotros. En primer lugar, la palabra santuario se aplica de manera adecuada y conveniente al cuerpo de Cristo, pues es el templo en el que habita toda la majestad de Dios. Se dice además que hizo un camino para nosotros por su cuerpo para ascender al cielo, porque en ese cuerpo se consagró a Dios, se hizo en él santificado para ser nuestra verdadera justicia, se preparó en él para ofrecer un sacrificio; en una palabra, se hizo en él de ninguna reputación, y sufrió la muerte de cruz; por tanto, el Padre lo exaltó grandemente y le dio un nombre sobre todo nombre, para que toda rodilla se doble ante él. (Filipenses 2:8-10.) Entró entonces en el cielo a través de su propio cuerpo, porque por esta causa es que ahora se sienta a la diestra del Padre; por esta razón intercede por nosotros en el cielo, porque había vestido nuestra carne, y la consagró como templo a Dios el Padre, y en ella se santificó para obtener para nosotros una justicia eterna, habiendo hecho expiación por nuestros pecados.\n\nPuede, sin embargo, parecer extraño que niegue que el cuerpo de Cristo sea ⸢de este edificio⸣; pues sin duda procedió de la descendencia de Abraham, y estaba sujeto a sufrimientos y a la muerte. A esto respondo que no habla aquí de su cuerpo material, ni de lo que pertenece al cuerpo como tal, sino de la eficacia espiritual que de él emana hacia nosotros. Pues en cuanto la carne de Cristo vivifica, y es alimento celestial para nutrir las almas, en cuanto su sangre es bebida espiritual y tiene poder purificador, no hemos de imaginar nada terrenal o material como estando en ellas. Y además debemos recordar que esto se dice en alusión al antiguo tabernáculo, que estaba hecho de madera, bronce, pieles, plata y oro, que eran todas cosas muertas; pero el poder de Dios hizo que la carne de Cristo fuera un templo vivo y espiritual.",
+  "lemas_es": [
+   "Pero Cristo, habiendo venido",
+   "De los bienes venideros",
+   "Por un tabernáculo mayor y más perfecto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "17b36b840b7c",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.11"
+   },
+   {
+    "lema": null,
+    "ref": "HEB.9.11"
+   },
+   {
+    "lema": "más amplio y más perfecto tabernáculo",
+    "ref": "HEB.9.11"
+   }
+  ]
+ },
+ "calvino:HEB.9.12#129": {
+  "text_es": "12. ⸢Ni por la sangre de machos cabríos, etc.⸣ Todas estas cosas tienden a mostrar que las cosas de Cristo superan tanto a las sombras de la Ley, que justamente las reducen todas a nada. Pues ¿cuál es el valor de la sangre de Cristo, si se la considera no mejor que la sangre de bestias? ¿Qué clase de expiación hizo su muerte, si las purgaciones según la Ley se retienen todavía? Tan pronto, entonces, como Cristo se presentó con la influencia eficaz de su muerte, todas las observancias típicas debieron necesariamente cesar.",
+  "lemas_es": [
+   "Ni por la sangre de machos cabríos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "048a428e256f",
+  "lemas_rv1909": [
+   {
+    "lema": "por sangre de machos cabríos",
+    "ref": "HEB.9.12"
+   }
+  ]
+ },
+ "calvino:HEB.9.13#130": {
+  "text_es": "13. ⸢Porque si la sangre de los toros, etc.⸣ Este pasaje ha dado a muchos toda ocasión de extraviarse, porque no consideraron que se habla de sacramentos, que tenían un significado espiritual. La limpieza de la carne la dejan explicada como lo que vale entre los hombres, así como los paganos tenían sus expiaciones para borrar la infamia de los crímenes. Pero esta explicación es en verdad muy pagana; pues se hace injusticia a las promesas de Dios, si restringimos el efecto solo a asuntos civiles. A menudo ocurre esta declaración en los escritos de Moisés, que la iniquidad era expiada cuando se ofrecía debidamente un sacrificio. Esta es sin duda la enseñanza espiritual de la fe. Además, todos los sacrificios estaban destinados a este fin, que condujeran a los hombres a Cristo; así como la salvación eterna del alma es por Cristo, así estos eran verdaderos testigos de esta salvación.\n\n¿Qué quiere decir entonces el Apóstol cuando habla de las purgaciones de la carne? Quiere decir lo que es simbólico o sacramental, como sigue: Si la sangre de las bestias era un verdadero símbolo de purgación, de modo que limpiaba de manera sacramental, ¿cuánto más Cristo, que es él mismo la verdad, no solo dará testimonio de una purgación por un rito externo, sino que también la realizará realmente para las conciencias? El argumento entonces es de los signos a la cosa significada; pues el efecto precedió por largo tiempo a la realidad de los signos.",
+  "lemas_es": [
+   "Porque si la sangre de los toros"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4dc1ab525e2a",
+  "lemas_rv1909": [
+   {
+    "lema": "Porque si la sangre de los toros",
+    "ref": "HEB.9.13"
+   }
+  ]
+ },
+ "calvino:HEB.9.14#131": {
+  "text_es": "14. ⸢Quien por el Espíritu eterno, etc.⸣ Ahora muestra claramente cómo ha de estimarse la muerte de Cristo, no por el acto externo, sino por el poder del Espíritu. Pues Cristo sufrió como hombre; pero esa muerte se vuelve salvadora para nosotros mediante el poder eficaz del Espíritu; pues un sacrificio, que había de ser una expiación eterna, fue una obra más que humana. Y llama al Espíritu ⸢eterno⸣ por esta razón, para que sepamos que la reconciliación, de la cual él es el obrero o efectuador, es eterna. Al decir ⸢sin mancha⸣, o irreprensible, aunque alude a las víctimas bajo la Ley, que no debían tener defecto ni tacha, sin embargo quiere decir que Cristo solo fue la víctima legítima y capaz de aplacar a Dios; pues siempre había en los otros algo que podía justamente considerarse faltante; y de ahí que dijera antes que el pacto de la Ley no era ἀμεμπτον, irreprensible.\n\n⸢De las obras muertas, etc.⸣ Entiende por estas, o bien las obras que producen muerte, o bien las que son frutos o efectos de la muerte; pues así como la vida del alma es nuestra unión con Dios, así los que están alienados de él por el pecado pueden justamente ser considerados muertos.\n\n⸢Para servir al Dios vivo.⸣ Esto, debemos observar, es el fin de nuestra purgación; pues no somos lavados por Cristo para que nos sumerjamos de nuevo en nueva inmundicia, sino para que nuestra pureza sirva para glorificar a Dios. Además, nos enseña que nada puede proceder de nosotros que pueda agradar a Dios hasta que seamos purificados por la sangre de Cristo; pues como todos somos enemigos de Dios antes de nuestra reconciliación, así él considera abominables todas nuestras obras; de ahí que el comienzo del servicio aceptable es la reconciliación. Y además, como ninguna obra es tan pura y tan libre de manchas que pueda por sí misma agradar a Dios, es necesario que intervenga la purgación por la sangre de Cristo, que sola puede borrar todas las manchas. Y hay un contraste llamativo entre el Dios vivo y las obras muertas.",
+  "lemas_es": [
+   "Quien por el Espíritu eterno",
+   "De las obras muertas",
+   "Para servir al Dios vivo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ac4e8b8b5384",
+  "text_es_2": "14. ⸢El cual por el Espíritu eterno, etc.⸣ Ahora muestra claramente cómo ha de estimarse la muerte de Cristo, no por el acto externo, sino por el poder del Espíritu. Pues Cristo padeció como hombre; pero esa muerte nos llega a ser salvadora mediante el poder eficaz del Espíritu; porque un sacrificio, que había de ser una expiación eterna, era una obra más que humana. Y llama al Espíritu ⸢eterno⸣ por esta razón: para que sepamos que la reconciliación, de la cual él es obrador o efectuador, es eterna. Al decir ⸢sin mancha⸣, o irreprensible, aunque alude a las víctimas bajo la Ley, que no habían de tener mancha ni defecto, sin embargo quiere decir que Cristo solo fue la víctima legítima y capaz de aplacar a Dios; pues siempre había en los demás algo que con justicia podía considerarse deficiente; y de ahí que antes dijera que el pacto de la Ley no era ἀμεμπτον, irreprensible.\n\n⸢De las obras de muerte, etc.⸣ Entiende por estas, o las obras que producen muerte, o las que son frutos o efectos de la muerte; pues así como la vida del alma es nuestra unión con Dios, así los que están alejados de él por el pecado pueden con justicia ser considerados muertos.\n\n⸢Para que sirváis al Dios vivo.⸣ Esto, debemos observar, es el fin de nuestra purificación; pues no somos lavados por Cristo para que nos sumerjamos de nuevo en nueva inmundicia, sino para que nuestra pureza sirva para glorificar a Dios. Además, nos enseña que nada puede proceder de nosotros que pueda agradar a Dios hasta que seamos purificados por la sangre de Cristo; pues así como todos somos enemigos de Dios antes de nuestra reconciliación, así él considera abominables todas nuestras obras; de ahí que el principio del servicio aceptable sea la reconciliación. Y luego, como ninguna obra es tan pura y tan libre de manchas que pueda por sí misma agradar a Dios, es necesario que intervenga la purificación por la sangre de Cristo, la cual sola puede borrar todas las manchas. Y hay un contraste notable entre el Dios vivo y las obras de muerte.",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "por el Espíritu eterno",
+    "ref": "HEB.9.14"
+   },
+   {
+    "lema": "de las obras de muerte",
+    "ref": "HEB.9.14"
+   },
+   {
+    "lema": "al Dios vivo",
+    "ref": "HEB.9.14"
+   }
+  ]
+ },
+ "calvino:HEB.9.15#132": {
+  "text_es": "15. ⸢Y por esta causa es Mediador del Nuevo Testamento, etc.⸣ Concluye que ya no hay necesidad de otro sacerdote, pues Cristo cumple el oficio bajo el Nuevo Testamento; porque no reclama para Cristo el honor de ser Mediador de modo que otros puedan al mismo tiempo permanecer como tales junto con él, sino que sostiene que todos los demás fueron repudiados cuando Cristo asumió el oficio. Pero para confirmar más plenamente este hecho, menciona cómo comenzó a desempeñar su oficio de Mediador; a saber, mediante la muerte que intervino. Puesto que esto se halla solo en Cristo, y falta en todos los demás, se sigue que solo él puede ser justamente considerado Mediador.\n\nAdemás, registra la virtud y eficacia de su muerte al decir que pagó el precio por los pecados bajo el ⸢primer pacto⸣ o testamento, los cuales no podían ser borrados por la sangre de bestias; con cuyas palabras procuraba apartar a los judíos de la Ley para llevarlos a Cristo. Pues, si la Ley era tan débil que todos los remedios que aplicaba para expiar los pecados de ningún modo lograban lo que representaban, ¿quién podría descansar en ella como en un puerto seguro? Esto solo, entonces, debería haber bastado para estimularlos a buscar algo mejor que la ley; pues no podían sino estar en perpetua ansiedad. Por otro lado, cuando venimos a Cristo, como obtenemos en él una redención plena, no hay nada que pueda afligirnos más. Así, en estas palabras muestra que la Ley es débil, para que los judíos no se apoyaran más en ella; y les enseña a confiar en Cristo, pues en él se halla cuanto puede desearse para pacificar las conciencias.\n\nAhora bien, si alguien pregunta si los pecados bajo la Ley eran remitidos a los padres, debemos tener presente la solución ya expuesta: que eran remitidos, pero remitidos por medio de Cristo. Entonces, a pesar de sus expiaciones externas, siempre eran tenidos por culpables. Por esta razón Pablo dice que la Ley era un escrito de deuda contra nosotros. (Colosenses 2:14.) Pues cuando el pecador se presentaba y confesaba abiertamente que era culpable ante Dios, y reconocía al sacrificar un animal inocente que era digno de muerte eterna, ¿qué obtenía con su víctima, sino que sellaba su propia muerte, por así decirlo, con este escrito? En resumen, aun entonces solo reposaban en la remisión de los pecados cuando miraban a Cristo. Pero si solo la consideración de Cristo quitaba los pecados, nunca habrían podido ser librados de ellos si hubieran seguido descansando en la Ley. David ciertamente declara que bienaventurado es el hombre a quien no se le imputan los pecados, (Salmos 32:2;) pero para ser partícipe de esta bienaventuranza, le era necesario dejar la Ley y tener los ojos fijos en Cristo; pues si descansaba en la Ley, nunca habría podido ser librado de la culpa.\n\n⸢Los que son llamados, etc.⸣ El objeto del pacto divino es que, habiendo sido adoptados como hijos, seamos finalmente hechos herederos de la vida eterna. El Apóstol nos enseña que obtenemos esto por Cristo. De aquí es evidente que en él está el cumplimiento del pacto. Pero la ⸢promesa de la herencia⸣ debe tomarse por la herencia prometida, como si hubiera dicho: «La promesa de la vida eterna no se nos da de otro modo para que la recibamos, sino mediante la muerte de Cristo». La vida, en verdad, fue prometida antiguamente a los padres, y la misma ha sido la herencia de los hijos de Dios desde el principio, pero no entramos de otro modo en posesión de ella sino mediante la sangre de Cristo previamente derramada.\n\nPero habla de los ⸢llamados⸣, para influir más en los judíos que fueron hechos partícipes de este llamamiento; pues es un favor singular cuando se nos concede el don del conocimiento de Cristo. Debemos, entonces, prestar mayor atención, no sea que descuidemos un tesoro tan valioso y nuestros pensamientos divaguen en otra dirección. Algunos consideran que los ⸢llamados⸣ son los elegidos, pero incorrectamente, a mi juicio; pues el Apóstol enseña aquí lo mismo que hallamos en Romanos 3:25, que la justicia y la salvación han sido procuradas por la sangre de Cristo, pero que llegamos a ser partícipes de ellas por la fe.",
+  "lemas_es": [
+   "Y por esta causa es Mediador del Nuevo Testamento",
+   "Los que son llamados"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4b1a879fb88a",
+  "lemas_rv1909": [
+   {
+    "lema": "es mediador del nuevo testamento",
+    "ref": "HEB.9.15"
+   },
+   {
+    "lema": "los que son llamados",
+    "ref": "HEB.9.15"
+   }
+  ]
+ },
+ "calvino:HEB.9.16#133": {
+  "text_es": "16. ⸢Porque donde hay testamento, etc.⸣ Aun este solo pasaje es prueba suficiente de que esta Epístola no fue escrita en hebreo; pues ברית significa en hebreo un pacto, pero no un testamento; mientras que en griego, διαθήκη, incluye ambas ideas; y el Apóstol, aludiendo a su significado secundario, sostiene que las promesas no habrían sido de otro modo ratificadas y válidas, si no hubieran sido selladas por la muerte de Cristo. Y esto lo prueba remitiéndose a lo que suele ocurrir con los testamentos o voluntades, cuyo efecto queda suspendido hasta la muerte de aquellos cuyas voluntades son.\n\nSin embargo, el Apóstol puede parecer que se apoya en un argumento demasiado débil, de modo que lo que dice podría refutarse fácilmente. Pues podría decirse que Dios no hizo ningún testamento o voluntad bajo la Ley, sino que fue un pacto el que hizo con el pueblo antiguo. Así, ni por el hecho ni por el nombre puede concluirse que la muerte de Cristo era necesaria. Pues si infiere del hecho que Cristo debía morir, porque un testamento no se ratifica sino por la muerte del testador, la respuesta podría ser esta: que |berit|, la palabra usada siempre por Moisés, es un pacto hecho entre los que están vivos, y no podemos pensar de otro modo respecto al hecho mismo. Ahora bien, en cuanto a la palabra usada, simplemente aludió, como ya he dicho, a los dos significados que tiene en griego; por lo tanto, se detiene principalmente en la cosa en sí. Ni es objeción decir que fue un pacto el que Dios hizo con su pueblo; pues ese mismo pacto tenía cierta semejanza con un testamento, ya que fue ratificado por sangre.\n\nDebemos sostener siempre esta verdad: que ningún símbolo ha sido adoptado por Dios innecesaria o inadecuadamente. Y Dios, al establecer el pacto de la ley, hizo uso de sangre. Entonces no fue un contrato, como dicen, entre los vivos, que no requiriera muerte. Además, lo que propiamente corresponde a un testamento es que comienza a tener efecto después de la muerte. Si consideramos que el Apóstol razona desde la cosa misma, y no desde la palabra, y si tenemos presente que asume abiertamente como concedido lo que ya he dicho, que nada ha sido instituido en vano por Dios, no habrá gran dificultad.\n\nSi alguien objeta y dice que los paganos ratificaban pactos según el otro significado mediante sacrificios; esto ciertamente admito que es verdad; pero Dios no tomó prestado el rito del sacrificio de la práctica de los paganos; al contrario, todos los sacrificios paganos eran corrupciones que habían derivado su origen de las instituciones de Dios. Debemos, entonces, volver al mismo punto: que el pacto de Dios, que fue hecho con sangre, puede compararse adecuadamente con un testamento, ya que es del mismo género y carácter.",
+  "lemas_es": [
+   "Porque donde hay testamento"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fe81510fc945",
+  "lemas_rv1909": [
+   {
+    "lema": "Porque donde hay testamento",
+    "ref": "HEB.9.16"
+   }
+  ]
+ },
+ "calvino:HEB.9.18#134": {
+  "text_es": "18. ⸢De donde ni aun el primero, etc.⸣ De aquí aparece que lo que principalmente se urge es el hecho, y que no se trata de una cuestión sobre la palabra, aunque el Apóstol torció a su propio propósito una palabra que se le presentaba en aquella lengua en que escribía, como si uno, hablando del pacto de Dios, que muchas veces se llama en griego μαρτυρία, testimonio, lo recomendara entre otras cosas bajo ese título. Y sin duda es un testimonio, μαρτυρία, al cual los ángeles del cielo han dado testimonio, y del cual ha habido tantos testigos ilustres en la tierra, a saber, todos los santos Profetas, Apóstoles y una vasta multitud de mártires, y del cual al fin el mismo Hijo de Dios se hizo fiador. Nadie en un discurso semejante juzgaría cosa semejante como irrazonable. Y sin embargo la palabra hebrea, תעודה, no admitirá ningún significado tal como pacto; pero como no se adelanta nada sino lo que es consistente con la cosa misma, no se ha de prestar escrupulosa atención al significado de una palabra.\n\nDice entonces el Apóstol que el antiguo testamento o pacto fue ⸢dedicado con sangre.⸣ De aquí concluye que ya entonces se recordaba a los hombres que no podía ser válido y eficaz a menos que interviniera la muerte. Pues aunque la sangre de las bestias era entonces derramada, sin embargo niega que sirviera para confirmar un pacto eterno. Para que esto aparezca más claramente, debemos notar la costumbre de la aspersión que cita de Moisés. Primero nos enseña que el pacto fue dedicado o consagrado, no porque tuviera en sí mismo algo profano; sino que como no hay nada tan santo que los hombres con su inmundicia no profanen, a menos que Dios lo impida haciendo una renovación de todas las cosas, por eso la dedicación se hizo a causa de los hombres, que solos la necesitaban.\n\nAñade después que el ⸢tabernáculo y todos los vasos,⸣ y también el mismo ⸢libro⸣ de la ley, fueron ⸢rociados;⸣ con cuyo rito se enseñaba entonces al pueblo que Dios no podía ser buscado ni mirado para salvación, ni rectamente adorado, a menos que la fe en todo caso mirara a una sangre interviniente. Pues la majestad de Dios justamente ha de ser temida por nosotros, y el camino a su presencia no es para nosotros sino un laberinto peligroso, hasta que sepamos que él está pacificado hacia nosotros por la sangre de Cristo, y que esta sangre nos concede un libre acceso. Toda clase de culto es entonces defectuoso e impuro hasta que Cristo lo limpie con la aspersión de su sangre.\n\nPues el tabernáculo era una especie de imagen visible de Dios; y como los ⸢vasos⸣ para ministrar estaban destinados a su servicio, así eran símbolos del verdadero culto. Pero como ninguno de estos era para salvación del pueblo, de aquí razonablemente concluimos que donde Cristo no aparece con su sangre, nada tenemos que ver con Dios. Así la doctrina misma, por inmutable que sea la voluntad de Dios, no puede ser eficaz para nuestro beneficio, a menos que sea dedicada por sangre, como se expone claramente en este versículo.\n\nSé que otros dan una interpretación diferente; pues consideran que el tabernáculo es el cuerpo de la Iglesia, y los vasos los fieles, cuyo ministerio Dios emplea; pero lo que he expuesto es mucho más apropiado. Pues siempre que se había de invocar a Dios, se volvían al santuario; y era una manera común de hablar decir que estaban delante del Señor cuando aparecían en el templo.",
+  "lemas_es": [
+   "De donde ni aun el primero"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4f7f2fea980f",
+  "lemas_rv1909": [
+   {
+    "lema": "De donde ⸢vino⸣ que ni aun el primero",
+    "ref": "HEB.9.18"
+   }
+  ]
+ },
+ "calvino:HEB.9.20#135": {
+  "text_es": "20. ⸢Diciendo: Esta es la sangre del testamento, etc.⸣ Si aquella era la sangre del testamento, entonces ni el testamento fue ratificado sin sangre, ni la sangre sin el testamento aprovechaba para expiación. De aquí es necesario que ambos se unan; y vemos que antes de la explicación de la Ley no se añadió ningún símbolo, pues ¿qué sería un sacramento si no precediera la palabra? De aquí que un símbolo es una especie de apéndice de la palabra. Y adviértase que esta palabra no fue susurrada como una mágica incantación, sino pronunciada con voz clara, como estaba destinada al pueblo, conforme a lo que expresan las palabras del pacto, ⸢que Dios os ha mandado.⸣ Pervetidos, pues, están los sacramentos, y es una corrupción impía cuando no se da explicación del mandamiento, que es como el alma misma del sacramento. De aquí que los papistas, que quitan la verdadera inteligencia de las cosas de los signos, retienen solo elementos muertos.\n\nEste pasaje nos recuerda que las promesas de Dios solo nos son provechosas cuando son confirmadas por la sangre de Cristo. Pues lo que Pablo testifica en 2 Corintios 1:20, que todas las promesas de Dios son sí y amén en Cristo — esto sucede cuando su sangre como un sello es grabada en nuestros corazones, o cuando no solo oímos a Dios hablar, sino que también vemos a Cristo ofreciéndose como prenda de aquellas cosas que son dichas. Si este pensamiento solo viniera a nuestras mentes, que lo que leemos no está escrito tanto con tinta como con la sangre de Cristo, que cuando el Evangelio es predicado, su sangre sagrada destila junto con la voz, habría mucha mayor atención así como reverencia de nuestra parte. ¡Un símbolo de esto era la aspersión mencionada por Moisés!\n\nAl mismo tiempo aquí se declara más de lo que expresa Moisés; pues él no menciona que el libro y el pueblo fueron rociados, ni nombra los ⸢machos cabríos⸣, ni la ⸢lana escarlata⸣, ni el ⸢hisopo⸣. En cuanto al libro, que fuera rociado no puede mostrarse claramente, sin embargo la probabilidad es que lo fue, pues se dice que Moisés lo produjo después de haber sacrificado; y esto lo hizo cuando ligó al pueblo a Dios por un pacto solemne. En cuanto a lo demás, el Apóstol parece haber mezclado juntos varios tipos de expiaciones, cuya razón era la misma. Ni en verdad había nada inadecuado en esto, ya que hablaba del tema general de la purgación bajo el Antiguo Testamento, que se hacía por medio de sangre. Ahora bien, en cuanto a la aspersión hecha con hisopo y lana escarlata, es evidente que representaba la aspersión mística hecha por el Espíritu. Sabemos que el hisopo posee un singular poder para limpiar y purificar; así Cristo emplea su Espíritu para rociarnos a fin de lavarnos con su propia sangre cuando nos lleva al verdadero arrepentimiento, cuando nos purifica de los depravados deseos de nuestra carne, cuando nos imbuye con el precioso don de su propia justicia. Pues no en vano Dios había instituido este rito. David también aludió a esto cuando dijo:\n\n«Me rociarás, oh Señor, con hisopo, y seré limpio.» (Salmo 51:7.)\n\nEstas observaciones serán suficientes para quienes desean ser sobrios en sus especulaciones.",
+  "lemas_es": [
+   "Diciendo: Esta es la sangre del testamento"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "272a6a1f0251",
+  "lemas_rv1909": [
+   {
+    "lema": "Diciendo: Esta es la sangre del testamento",
+    "ref": "HEB.9.20"
+   }
+  ]
+ },
+ "calvino:HEB.9.22#136": {
+  "text_es": "22. ⸢Y casi todas las cosas, etc.⸣ Al decir ⸢casi⸣ parece implicar que algunas cosas eran purificadas de otra manera. Y sin duda muchas veces se lavaban a sí mismos y otras cosas inmundas con agua. Pero aun el agua misma derivaba su poder de limpiar de los sacrificios; de modo que el Apóstol al fin declara verdaderamente que sin sangre no había remisión. Entonces la inmundicia era imputada hasta que fuera expiada por un sacrificio. Y como sin Cristo no hay pureza ni salvación, así nada sin sangre puede ser puro ni salvador; pues Cristo nunca ha de ser separado del sacrificio de su muerte. Pero el Apóstol solo quiso decir que este símbolo era casi siempre empleado. Pero si en algún momento la purgación no se hacía así, era sin embargo por medio de sangre, ya que todos los ritos derivaban su eficacia en cierto modo de la expiación general. Pues el pueblo no era cada uno de ellos rociado, (pues ¿cómo podría tan pequeña porción de sangre ser suficiente para tan gran multitud?) sin embargo la purgación se extendía a todos. De aquí que la partícula ⸢casi⸣ signifique lo mismo que si hubiera dicho que el uso de este rito era tan común que rara vez lo omitían en las purgaciones. Pues lo que dice san Juan Crisóstomo, que así se denota la imperfección, porque estas eran solo figuras bajo la Ley, es inconsistente con el designio del Apóstol.\n\n⸢Sin derramamiento de sangre no hay remisión, etc.⸣ Así se impide a los hombres aparecer ante Dios; pues como él está justamente desagradado con todos ellos, no tienen motivo para prometerse favor alguno hasta que él sea pacificado. Pero hay un solo camino de pacificación, y es por una expiación hecha por sangre: de aquí que no se pueda esperar perdón de pecados a menos que traigamos sangre, y esto se hace cuando huimos por la fe a la muerte de Cristo.",
+  "lemas_es": [
+   "Y casi todas las cosas",
+   "Sin derramamiento de sangre no hay remisión"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "70c208096c26",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.22"
+   },
+   {
+    "lema": "sin derramamiento de sangre no se hace remisión",
+    "ref": "HEB.9.22"
+   }
+  ]
+ },
+ "calvino:HEB.9.23#137": {
+  "text_es": "23. ⸢Las figuras,⸣ o ⸢ejemplares, etc.⸣ Para que nadie objetara y dijera que la sangre con que fue dedicado el antiguo testamento era diferente de la de un testador, el Apóstol responde a esta objeción, y dice que no era de extrañar que el tabernáculo, que era terrenal, fuera consagrado por el sacrificio de bestias; pues había una analogía y una semejanza entre la purificación y las cosas purificadas. Pero el modelo o ejemplar celestial de que ahora habla había de ser consagrado de manera muy diferente; aquí no había necesidad de machos cabríos ni de becerros. De aquí se sigue que la muerte del testador era necesaria.\n\nEl sentido entonces es este: — así como bajo la Ley había solo imágenes terrenales de las cosas espirituales, así también el rito de la expiación era, por así decirlo, carnal y figurativo; pero como el modelo celestial no admite nada terrenal, así requiere otra sangre que la de las bestias, tal que corresponda con su excelencia. Así la muerte del testador es necesaria, a fin de que el testamento sea realmente consagrado.\n\nLlama al reino de Cristo ⸢cosas celestiales,⸣ pues es espiritual y posee una plena revelación de la verdad. ⸢Mejores sacrificios⸣ menciona en lugar de «un mejor sacrificio», pues era solo uno; pero usa el número plural a causa de la antítesis o contraste.",
+  "lemas_es": [
+   "Las figuras"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "221590ae0b3c",
+  "lemas_rv1909": [
+   {
+    "lema": "las figuras",
+    "ref": "HEB.9.23"
+   }
+  ]
+ },
+ "calvino:HEB.9.24#138": {
+  "text_es": "24. ⸢Porque no entró Cristo, etc.⸣ Esto es una confirmación del versículo anterior. Había hablado del verdadero santuario, a saber, el celestial; ahora añade que Cristo entró allí. De aquí se sigue que se requiere una confirmación adecuada. ⸢El lugar santísimo⸣ lo toma por el santuario; dice que ⸢no es hecho de manos⸣, porque no debe ser clasificado entre las cosas creadas que están sujetas a corrupción; pues no se refiere aquí al ⸢cielo⸣ que vemos, y en el cual brillan las estrellas, sino al glorioso reino de Dios que está sobre todos los cielos. Llama al antiguo santuario el ἀντίτυπον, el antitipo del verdadero, es decir, del espiritual; pues todas las figuras externas representaban como en un espejo lo que de otro modo habría estado por encima de nuestros sentidos corporales. Los escritores griegos usan a veces la misma palabra al hablar de nuestros sacramentos, y con sabiduría y propiedad también, pues todo sacramento es una imagen visible de lo que es invisible.\n\n⸢Ahora para aparecer, etc.⸣ Así también antiguamente el sacerdote levítico estaba delante de Dios en nombre del pueblo, pero de manera típica; pues en Cristo se halla la realidad y el pleno cumplimiento de lo que fue tipificado. El arca era en verdad un símbolo de la presencia divina; pero es Cristo quien realmente se presenta delante de Dios, y está allí para obtener favor para nosotros, de modo que ahora no hay razón para que huyamos del tribunal de Dios, ya que tenemos un abogado tan bondadoso, por cuya fidelidad y protección somos hechos seguros y salvos. Cristo fue en verdad nuestro abogado cuando estaba en la tierra; pero fue una concesión adicional hecha a nuestra debilidad que ascendiera al cielo para asumir allí el oficio de abogado. De modo que siempre que se haga mención de su ascensión al cielo, este beneficio debe venir siempre a nuestra mente, que él aparece allí delante de Dios para defendernos con su abogacía. Neciamente, pues, e irracionalmente algunos preguntan: ¿no había aparecido siempre allí? Pues el Apóstol habla aquí solo de su intercesión, por causa de la cual entró en el santuario celestial.",
+  "lemas_es": [
+   "Porque no entró Cristo",
+   "Ahora para aparecer"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8b96ca51c753",
+  "text_es_2": "24. ⸢Porque no entró Cristo, etc.⸣ Esta es una confirmación del versículo anterior. Había hablado del verdadero santuario, a saber, el celestial; ahora añade que Cristo entró allí. De ahí se sigue que se requiere una confirmación adecuada. ⸢Los lugares santos⸣ los toma por el santuario; dice que es ⸢no hecho de manos⸣, porque no debe ser clasificado entre las cosas creadas que están sujetas a corrupción; pues no se refiere aquí al ⸢cielo⸣ que vemos, y en el cual brillan las estrellas, sino al glorioso reino de Dios que está sobre todos los cielos. Llama al antiguo santuario el ἀντίτυπον, el antitipo del verdadero, es decir, del espiritual; pues todas las figuras externas representaban como en un espejo lo que de otro modo habría estado por encima de nuestros sentidos corporales. Los escritores griegos usan a veces la misma palabra al hablar de nuestros sacramentos, y con sabiduría y propiedad también, pues todo sacramento es una imagen visible de lo invisible.\n\n⸢Para presentarse ahora, etc.⸣ Así también antiguamente el sacerdote levítico estaba delante de Dios en nombre del pueblo, pero de manera típica; pues en Cristo se halla la realidad y el pleno cumplimiento de lo que fue tipificado. El arca era en verdad un símbolo de la presencia divina; pero es Cristo quien realmente se presenta ante Dios, y está allí para obtener favor para nosotros, de modo que ahora no hay razón para que huyamos del tribunal de Dios, ya que tenemos un abogado tan bondadoso, por cuya fidelidad y protección somos hechos seguros y salvos. Cristo fue en verdad nuestro abogado cuando estaba en la tierra; pero fue una concesión adicional a nuestra debilidad que ascendiera al cielo para emprender allí el oficio de abogado. De modo que siempre que se mencione su ascensión al cielo, este beneficio debe venir siempre a nuestra mente: que él se presenta allí ante Dios para defendernos con su abogacía. Neciamente, pues, e irrazonablemente algunos preguntan: ¿no se ha presentado él siempre allí? Porque el Apóstol habla aquí solo de su intercesión, por causa de la cual entró en el santuario celestial.",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "corregido_por_juez": "Traduce mal 'The holy places he takes for the sanctuary': invierte los términos y pone 'El santuario lo toma por el lugar santísimo'.",
+  "lemas_rv1909": [
+   {
+    "lema": "Porque no entró Cristo",
+    "ref": "HEB.9.24"
+   },
+   {
+    "lema": null,
+    "ref": "HEB.9.24"
+   }
+  ]
+ },
+ "calvino:HEB.9.25#139": {
+  "text_es": "25. ⸢Ni tampoco para ofrecerse muchas veces a sí mismo, etc.⸣ ¿Cómo, pues, se dirá, es sacerdote, si no ofrece sacrificios? A esto respondo que no se requiere de un sacerdote que esté sacrificando continuamente; pues incluso bajo la Ley había días señalados para los principales sacrificios cada año; tenían también sus horas diarias, mañana y tarde. Pero como aquel único y verdadero sacrificio que Cristo ofreció una vez para siempre es siempre eficaz, y así perpetuo en sus efectos, no es de extrañar que el eterno sacerdocio de Cristo se sustente sobre su virtud, que nunca falla. Y aquí de nuevo muestra cómo y en qué cosas Cristo difiere del sacerdote levítico. Del santuario había hablado antes; pero señala una diferencia en cuanto al tipo de sacrificio, pues Cristo se ofreció a sí mismo y no un animal; y añade otra: que no repitió su sacrificio, como bajo la Ley, pues allí la repetición era frecuente e incluso incesante.",
+  "lemas_es": [
+   "Ni tampoco para ofrecerse muchas veces a sí mismo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "60d4e4f9cfbc",
+  "lemas_rv1909": [
+   {
+    "lema": "para ofrecerse muchas veces a sí mismo",
+    "ref": "HEB.9.25"
+   }
+  ]
+ },
+ "calvino:HEB.9.26#140": {
+  "text_es": "26. ⸢De otra manera le hubiera sido necesario padecer muchas veces, etc.⸣ Muestra cuán grande absurdo se sigue, si no consideramos suficiente que se haya hecho expiación por el único sacrificio de Cristo. Pues de aquí concluye que habría tenido que morir muchas veces; porque la muerte está unida a los sacrificios. Cuán irracional es esta última suposición; se sigue entonces que la virtud del único sacrificio es eterna y se extiende a todas las edades. Y dice ⸢desde el principio del mundo⸣, o desde el comienzo del mundo, pues en todas las edades desde el principio hubo pecados que necesitaban expiación. A menos, pues, que el sacrificio de Cristo fuera eficaz, ninguno de los padres habría obtenido salvación; pues como estaban expuestos a la ira de Dios, les habría faltado un remedio de liberación, si Cristo, padeciendo una vez, no hubiera padecido tanto como era necesario para reconciliar a los hombres con Dios desde el principio del mundo hasta el fin. A menos, pues, que esperemos muchas muertes, debemos contentarnos con el único y verdadero sacrificio.\n\nY de aquí es evidente cuán frívola es la distinción en cuya agudeza tanto se deleitan los papistas; pues dicen que el sacrificio de Cristo en la cruz fue cruento, pero que el sacrificio de la misa que pretenden ofrecer diariamente a Dios es incruento. Si se adoptara esta sutil evasión, entonces el Espíritu de Dios sería acusado de inadvertencia, por no haber pensado en tal cosa; pues el Apóstol asume aquí como verdad admitida que no hay sacrificio sin muerte. No me importa que los escritores antiguos hayan hablado así; pues no está en el poder de los hombres inventar sacrificios a su antojo. Aquí está una verdad declarada por el Espíritu Santo: que los pecados no son expiados por un sacrificio a menos que se derrame sangre. Por lo tanto, la noción de que Cristo es ofrecido muchas veces es un artificio del diablo.\n\n⸢Pero ahora una vez en la consumación de los siglos, etc.⸣ Llama a esto el fin del mundo o la consumación de los siglos, lo que Pablo llama «el cumplimiento del tiempo» (Gálatas 4:4); pues era la madurez de aquel tiempo que Dios había determinado en su propósito eterno; y así queda cortada toda ocasión para la curiosidad de los hombres, para que no se atrevan a preguntar por qué no fue antes, o por qué en aquella edad y no en otra. Pues nos corresponde aquietarnos en el propósito secreto de Dios, cuya razón le aparece clara a él, aunque no nos sea evidente a nosotros. En resumen, el Apóstol da a entender que la muerte de Cristo fue en el tiempo debido, ya que fue enviado al mundo para este fin por el Padre, en cuyo poder está el derecho legítimo de regular todas las cosas así como el tiempo, y que ordena su sucesión con consumada sabiduría, aunque a menudo oculta para nosotros.\n\nEsta consumación también se opone a la imperfección del tiempo pasado; pues Dios mantuvo a su antiguo pueblo en suspenso, de modo que fácilmente se podría haber concluido que las cosas aún no habían alcanzado un estado fijo. Por eso Pablo declara que el fin de los siglos ha venido sobre nosotros (1 Corintios 10:11); con lo cual quiere decir que el reino de Cristo contenía el cumplimiento de todas las cosas. Pero puesto que era el cumplimiento del tiempo cuando Cristo apareció para expiar los pecados, son culpables de ofrecerle un atroz insulto quienes procuran renovar su sacrificio, como si todas las cosas no hubieran sido completadas por su muerte. Él apareció entonces una vez para siempre; pues si lo hubiera hecho una o dos veces, habría habido algo defectuoso en la primera oblación; pero esto es incompatible con la plenitud.\n\n⸢Para quitar⸣, o ⸢para destruir el pecado⸣, ⸢etc.⸣ Esto concuerda con la profecía de Daniel, en la cual se promete el sellamiento y la abolición de los pecados, y en la cual también se declara que habría un fin a los sacrificios (Daniel 9:24-27); pues ¿para qué sirven las expiaciones cuando los pecados son destruidos? Pero esta destrucción solo se efectúa cuando los pecados no son imputados a quienes acuden al sacrificio de Cristo; pues aunque el perdón debe buscarse diariamente, ya que diariamente provocamos la ira de Dios; sin embargo, como no somos reconciliados con Dios de otra manera que por la única muerte de Cristo, con razón se dice que el pecado es quitado o destruido por ella.",
+  "lemas_es": [
+   "De otra manera le hubiera sido necesario padecer muchas veces",
+   "Pero ahora una vez en la consumación de los siglos",
+   "Para quitar"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9efb5e69fde6",
+  "lemas_rv1909": [
+   {
+    "lema": "De otra manera fuera necesario que hubiera padecido muchas veces",
+    "ref": "HEB.9.26"
+   },
+   {
+    "lema": "ahora una vez en la consumación de los siglos",
+    "ref": "HEB.9.26"
+   },
+   {
+    "lema": null,
+    "ref": "HEB.9.26"
+   }
+  ]
+ },
+ "calvino:HEB.9.27#141": {
+  "text_es": "27. ⸢Y de la manera que está establecido, etc.⸣ El sentido es este: puesto que esperamos pacientemente después de la muerte el día del juicio, siendo esta la suerte común de la naturaleza contra la cual no es justo luchar; ¿por qué habría de haber menos paciencia en esperar la segunda venida de Cristo? Pues si un largo intervalo de tiempo no disminuye, en cuanto a los hombres, la esperanza de una resurrección feliz, cuán irracional sería rendir menos honor a Cristo? Pero menor sería, si le pidiéramos que sufriera una segunda muerte, cuando ya había muerto una vez. Si alguien objetara y dijera que algunos han muerto dos veces, como Lázaro, y no ⸢una vez⸣; la respuesta sería esta: que el Apóstol habla aquí de la suerte ordinaria de los hombres; pero deben ser exceptuados de esta condición quienes por un cambio instantáneo se despojarán de la corrupción (1 Corintios 15:51); pues no incluye sino a aquellos que esperan largo tiempo en el polvo la redención de sus cuerpos.",
+  "lemas_es": [
+   "Y de la manera que está establecido"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "09a342e3dabd",
+  "lemas_rv1909": [
+   {
+    "lema": "de la manera que está establecido",
+    "ref": "HEB.9.27"
+   }
+  ]
+ },
+ "calvino:HEB.9.28#142": {
+  "text_es": "28. ⸢La segunda vez sin pecado, etc.⸣ El Apóstol insiste en esto: que no debemos inquietarnos por vanos e impuros deseos de nuevas clases de expiaciones, pues la muerte de Cristo nos es abundantemente suficiente. Por eso dice que una vez apareció y ofreció un sacrificio para abolir los pecados, y que en su segunda venida manifestará abiertamente la eficacia de su muerte, de modo que el pecado no tendrá ya poder para dañarnos.\n\n⸢Llevar,⸣ o quitar los pecados, es librar de la culpa, mediante su satisfacción, a los que han pecado. Dice los pecados de ⸢muchos,⸣ esto es, de todos, como en Romanos 5:15. Sin embargo, es cierto que todos no reciben beneficio de la muerte de Cristo; pero esto sucede porque su incredulidad se lo impide. Al mismo tiempo, esta cuestión no ha de discutirse aquí, pues el Apóstol no habla de los pocos ni de los muchos a quienes la muerte de Cristo pueda aprovechar; sino que simplemente quiere decir que murió por otros y no por sí mismo; y por eso opone muchos a uno.\n\nPero ¿qué quiere decir al afirmar que Cristo ⸢aparecerá sin pecado?⸣ Algunos dicen: sin propiciación ni sacrificio expiatorio por el pecado, como se toma la palabra pecado en Romanos 8:3; 2 Corintios 5:21; y en muchos lugares de los escritos de Moisés; pero, a mi juicio, quiso expresar algo más adecuado a su propósito presente, a saber, que Cristo en su venida dará a conocer cuán verdadera y realmente había quitado los pecados, de modo que no habría necesidad de ningún otro sacrificio para aplacar a Dios; como si hubiera dicho: «Cuando lleguemos al tribunal de Cristo, hallaremos que nada faltó en su muerte».\n\nY al mismo efecto se dirige lo que añade enseguida: ⸢para salvación a los que le esperan,⸣ o aguardan ⸢le.⸣ Otros traducen la frase de otro modo: «A los que le esperan para salvación»; pero el otro sentido es el más apropiado; pues quiere decir que alcanzarán completa salvación quienes descansan con ánimo tranquilo en la muerte de Cristo; porque este esperar o aguardar tiene referencia al tema tratado. La Escritura, en efecto, atribuye en otros lugares esto en común a los creyentes: que esperan la venida del Señor, para distinguirlos de los impíos, a quienes su venida aterra (1 Tesalonicenses 1:10); pero como el Apóstol ahora sostiene que debemos aquietarnos en el único y verdadero sacrificio de Cristo, llama esperar a Cristo al hecho de estar satisfechos con su redención sola y no buscar otros remedios ni ayudas.",
+  "lemas_es": [
+   "La segunda vez sin pecado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9611a99d41bf",
+  "lemas_rv1909": [
+   {
+    "lema": "la segunda vez, sin pecado",
+    "ref": "HEB.9.28"
+   }
+  ]
  }
 }

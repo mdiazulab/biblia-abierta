@@ -144,10 +144,10 @@
   "huella": "4649bf71d535"
  },
  "hcf:John Chrysostom/Hebrews 4_1-2#1": {
-  "ok": false,
-  "motivo": "Omite «at any time» y traduce «come short of it» como «haberse apartado», cambiando el sentido.",
+  "ok": true,
+  "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "7ec61436d452"
+  "huella": "518d846fe6b5"
  },
  "hcf:John Chrysostom/Hebrews 4_10#0": {
   "ok": true,
@@ -273,5 +273,77 @@
   "detect": 16,
   "total": 16,
   "modelo": "deepseek:deepseek-reasoner"
+ },
+ "calvino:HEB.4.1#47": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "3bd54d764c1d"
+ },
+ "calvino:HEB.4.2#48": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "39822cbad321"
+ },
+ "calvino:HEB.4.3#49": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "3fe75e4ab7e4"
+ },
+ "calvino:HEB.4.7#50": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "40c474a14910"
+ },
+ "calvino:HEB.4.8#51": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "2bb3e2f166cb"
+ },
+ "calvino:HEB.4.10#52": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "1aebfbd8ac15"
+ },
+ "calvino:HEB.4.11#53": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "76df94968822"
+ },
+ "calvino:HEB.4.12#54": {
+  "ok": false,
+  "motivo": "Deja 'discerning' en inglés en lugar de traducirlo (p. ej. 'discernidor'), por lo que no es fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "6d4c3e3ee362"
+ },
+ "calvino:HEB.4.13#55": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "5f27dea51bb8"
+ },
+ "calvino:HEB.4.14#56": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "74f5256ddaa1"
+ },
+ "calvino:HEB.4.15#57": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "20643e81cc47"
+ },
+ "calvino:HEB.4.16#58": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b1950cfdbbe7"
  }
 }

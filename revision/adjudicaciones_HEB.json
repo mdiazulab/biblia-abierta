@@ -4,10 +4,14 @@
    [
     "No oigas, pues, la Palabra con ligereza.",
     "Cuando oyes nombrar al Verbo, pues, no lo tengas en poco."
+   ],
+   [
+    "«Porque la palabra de Dios es viva y eficaz, y más cortante que toda espada de dos filos; y penetra hasta partir el alma y el espíritu, y las coyunturas y los tuétanos, y es discernidor de los pensamientos y las intenciones del corazón»",
+    "«Porque la palabra de Dios es viva y eficaz, y más penetrante que toda espada de dos filos: y que alcanza hasta partir el alma, y aun el espíritu, y las coyunturas y tuétanos, y discierne los pensamientos y las intenciones del corazón»"
    ]
   ],
-  "motivo": "Crisóstomo lee «the Word of God» de Hebreos 4:12 como el Hijo («Él es más cortante»; «He, the Word of God, wrought the former things»): «Verbo», no «Palabra» con mayúscula; la cita del versículo conserva el texto de la RV1909 («la palabra de Dios»)",
-  "evidencia": "Do not then when hearing the Word, think of it lightly. For \"He is sharper,\" he says, \"than a sword.\""
+  "motivo": "Crisóstomo lee «the Word of God» de Hebreos 4:12 como el Hijo («Él es más cortante»; «He, the Word of God, wrought the former things»): «Verbo», no «Palabra» con mayúscula; la cita del versículo conserva el texto de la RV1909 («la palabra de Dios»); cita de Hebreos 4:12 con el texto de la RV1909",
+  "evidencia": "Do not then when hearing the Word, think of it lightly. For \"He is sharper,\" he says, \"than a sword.\" | \"For the Word of God is quick and powerful, and sharper than any two-edged sword, and pierceth even to the dividing asunder of soul and spirit…\""
  },
  "hcf:John Chrysostom/Hebrews 4_1-2#0": {
   "reemplazos": [
@@ -22,11 +26,11 @@
  "hcf:John Chrysostom/Hebrews 5_1-3#0": {
   "reemplazos": [
    [
-    "«es constituido a favor de los hombres en lo que a Dios se refiere»",
+    "«es constituido por los hombres en las cosas que tocan a Dios»",
     "«es constituido a favor de los hombres en lo que a Dios toca»"
    ]
   ],
-  "motivo": "cita de Hebreos 5:1 con el texto de la RV1909 (cola del juez)",
+  "motivo": "cita de Hebreos 5:1 con el texto de la RV1909 (la retraducción del corrector cambió la frase; adjudicación renovada)",
   "evidencia": "is ordained for men in things pertaining to God"
  },
  "hcf:Tertullian/Hebrews 9_14#0": {
@@ -34,10 +38,14 @@
    [
     "y volviera de nuevo al Señor",
     "y volviera de nuevo, como es natural, al Señor"
+   ],
+   [
+    "el mismo Señor de todos, el Verbo",
+    "el mismo Señor de todo poder, el Verbo"
    ]
   ],
-  "motivo": "omisión de «of course» (cola del juez)",
-  "evidencia": "and return back again of course to the Lord"
+  "motivo": "omisión de «of course» (cola del juez); omitía «of all might» (cola del juez)",
+  "evidencia": "and return back again of course to the Lord | the very Lord Himself of all might, the Word and Spirit of the Father"
  },
  "hcf:Cosmas Indicopleustes/Hebrews 10_19-21#0": {
   "reemplazos": [
@@ -114,5 +122,161 @@
   ],
   "motivo": "lemas de Hebreos 10:8-9 con el texto de la RV1909; el formato de cursivas y comillas de la fuente estaba roto",
   "evidencia": "In the passage above He says, \"Sacrifices and offerings, burnt offerings and sin offerings You did not desire…\" … Then He adds, “Here I am, I have come to do Your will.”"
+ },
+ "calvino:HEB.3.7#36": {
+  "reemplazos": [
+   [
+    "cuando David llamó al pueblo de Dios pueblo suyo",
+    "cuando David llamó a los judíos pueblo de Dios"
+   ]
+  ],
+  "motivo": "omitía «los judíos» y cambiaba el sentido (cola del juez)",
+  "evidencia": "when David called the Jews God’s people"
+ },
+ "calvino:HEB.4.12#54": {
+  "reemplazos": [
+   [
+    "sea ⸢discerning,⸣ (κριτικὸς",
+    "sea ⸢discernidora⸣ (κριτικὸς"
+   ]
+  ],
+  "motivo": "palabra inglesa sin traducir (cola del juez); RV1909 4:12 «discierne»",
+  "evidencia": "Hence the word of God is ⸢discerning,⸣ (κριτικὸς, one that has power to discern)"
+ },
+ "calvino:HEB.5.8#65": {
+  "reemplazos": [
+   [
+    "⸢Aunque era Hijo, aprendió la obediencia, etc.⸣",
+    "⸢Aprendió la obediencia, etc.⸣"
+   ]
+  ],
+  "motivo": "el lema de Owen no incluye «aunque era Hijo» (cola del juez)",
+  "evidencia": "8. ⸢Yet learned he obedience, etc.⸣"
+ },
+ "calvino:HEB.5.14#71": {
+  "reemplazos": [
+   [
+    "«Para que ya no seamos niños fluctuantes, llevados por doquiera de todo viento de doctrina.»",
+    "«Que ya no seamos… llevados por doquiera de todo viento de doctrina.»"
+   ]
+  ],
+  "motivo": "Owen cita solo parte de Efesios 4:14: se deja esa parte con el texto de la RV1909 (cola del juez)",
+  "evidencia": "“That we may not be carried about by every wind of doctrine.” (Ephesians 4:14.)"
+ },
+ "calvino:HEB.6.13#82": {
+  "reemplazos": [
+   [
+    "confiaba en el Verbo de Dios",
+    "confiaba en la palabra de Dios"
+   ]
+  ],
+  "motivo": "«Word of God» es aquí la promesa de Dios, no el Hijo (cola del juez; clase «Word of God» = Escritura)",
+  "evidencia": "because he relied on the Word of God"
+ },
+ "calvino:HEB.9.24#138": {
+  "reemplazos": [
+   [
+    "⸢El lugar santísimo⸣ lo toma por el santuario",
+    "⸢Los lugares santos⸣ los toma por el santuario"
+   ],
+   [
+    "¿no había aparecido siempre allí?",
+    "¿no ha aparecido siempre allí?"
+   ]
+  ],
+  "motivo": "cambiaba el referente y el tiempo verbal (cola del juez)",
+  "evidencia": "⸢The holy places⸣ he takes for the sanctuary … has he not always appeared there?"
+ },
+ "calvino:HEB.10.23#156": {
+  "reemplazos": [
+   [
+    "fiel a su promesa, la cual contiene su palabra",
+    "fiel a su promesa, contenida en su palabra"
+   ]
+  ],
+  "motivo": "invertía la relación: la palabra contiene la promesa (cola del juez)",
+  "evidencia": "true to his promise, which his word contains"
+ },
+ "calvino:HEB.10.38#170": {
+  "reemplazos": [
+   [
+    "עפלה elation, tal como",
+    "עפלה, altivez, tal como"
+   ],
+   [
+    "«Donde habrá elation o fortificación",
+    "«Donde habrá altivez o fortificación"
+   ],
+   [
+    "de aquella elation o soberbia",
+    "de aquella altivez o soberbia"
+   ],
+   [
+    "«No agradará mi alma»",
+    "«No agradará a mi alma»"
+   ]
+  ],
+  "motivo": "«elation» sin traducir y sujeto invertido en «He will not please my soul» (cola del juez)",
+  "evidencia": "This is the rendering of עפלה elation … “He will not please my soul”"
+ },
+ "calvino:HEB.13.20#246": {
+  "reemplazos": [
+   [
+    "como no pocos dones nada comunes",
+    "como dones nada comunes"
+   ]
+  ],
+  "motivo": "añadía «no pocos» (cola del juez)",
+  "evidencia": "as no common gifts of the Spirit had already, as it seems, appeared in them"
+ },
+ "calvino:HEB.2.13#24": {
+  "reemplazos": [
+   [
+    "seguimos la Palabra de Dios",
+    "seguimos la palabra de Dios"
+   ]
+  ],
+  "motivo": "«Word of God» = la Escritura: minúscula (verificación 4; clase «Word of God» = Escritura)",
+  "evidencia": "If then we follow the Word of God … who turn aside from his word"
+ },
+ "calvino:HEB.7.3#88": {
+  "reemplazos": [
+   [
+    "escrito en la Palabra del Señor",
+    "escrito en la palabra del Señor"
+   ]
+  ],
+  "motivo": "«Word of the Lord» = la Escritura: minúscula (verificación 4)",
+  "evidencia": "not to know anything but what is written in the Word of the Lord"
+ },
+ "calvino:HEB.10.37#169": {
+  "reemplazos": [
+   [
+    "era la Palabra de Dios, por la cual",
+    "era la palabra de Dios, por la cual"
+   ]
+  ],
+  "motivo": "«Word of God» = la Escritura (la atalaya del profeta): minúscula (verificación 4)",
+  "evidencia": "his watchtower was the Word of God, by which he was raised"
+ },
+ "hcf:Augustine of Hippo/Hebrews 4_12#0": {
+  "reemplazos": [
+   [
+    "la Escritura llama al Verbo de Dios",
+    "la Escritura llama a la palabra de Dios"
+   ]
+  ],
+  "motivo": "«Word of God» = la Escritura (los dos Testamentos), no el Hijo (barrido de la clase)",
+  "evidencia": "Scripture calls the Word of God a \"two-edged sword\" because of the two Testaments"
+ },
+ "hcf:John Chrysostom/Hebrews 4_11#1": {
+  "reemplazos": [
+   [
+    "«Porque el Verbo de Dios es vivo y eficaz y más penetrante que toda espada de dos filos»",
+    "«Porque la palabra de Dios es viva y eficaz, y más penetrante que toda espada de dos filos»"
+   ]
+  ],
+  "motivo": "cita de Hebreos 4:12 con el texto de la RV1909 (barrido de la clase); la lectura cristológica de Crisóstomo queda en su comentario",
+  "evidencia": "\"For the Word of God is quick and powerful and sharper than any two-edged sword.\""
  }
 }

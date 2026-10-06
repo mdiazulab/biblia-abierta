@@ -321,5 +321,11 @@
   "detect": 18,
   "total": 18,
   "modelo": "deepseek:deepseek-reasoner"
+ },
+ "calvino:HEB.1.14#12": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "211599d9149c"
  }
 }

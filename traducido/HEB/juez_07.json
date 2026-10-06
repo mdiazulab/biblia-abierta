@@ -357,5 +357,137 @@
   "detect": 18,
   "total": 18,
   "modelo": "deepseek:deepseek-reasoner"
+ },
+ "calvino:HEB.7.1#87": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "5630609f18b0"
+ },
+ "calvino:HEB.7.3#88": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "65d012a8306e"
+ },
+ "calvino:HEB.7.4#89": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "3005cb062672"
+ },
+ "calvino:HEB.7.5#90": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a6e650266f49"
+ },
+ "calvino:HEB.7.6#91": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "699f15c8cfd6"
+ },
+ "calvino:HEB.7.7#92": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "bf73bed064d5"
+ },
+ "calvino:HEB.7.8#93": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "cb1c6ea737d8"
+ },
+ "calvino:HEB.7.9#94": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "c62984eb8984"
+ },
+ "calvino:HEB.7.11#95": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "6bb9246c76eb"
+ },
+ "calvino:HEB.7.12#96": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "98a07291f79c"
+ },
+ "calvino:HEB.7.13#97": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "d806f16e5d77"
+ },
+ "calvino:HEB.7.15#98": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "6c437a40b58a"
+ },
+ "calvino:HEB.7.16#99": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "7406c9c46a5e"
+ },
+ "calvino:HEB.7.17#100": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "9fb609872c73"
+ },
+ "calvino:HEB.7.18#101": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "f0b515a3c5ee"
+ },
+ "calvino:HEB.7.19#102": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e735310c733f"
+ },
+ "calvino:HEB.7.20#103": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "57be23de385d"
+ },
+ "calvino:HEB.7.23#104": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "25ff10248727"
+ },
+ "calvino:HEB.7.25#105": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a12e9772338e"
+ },
+ "calvino:HEB.7.26#106": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "3d5bb23ab21e"
+ },
+ "calvino:HEB.7.27#107": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "7f6d7eb7ab03"
+ },
+ "calvino:HEB.7.28#108": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "8a5f81f74731"
  }
 }

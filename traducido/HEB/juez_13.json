@@ -417,5 +417,131 @@
   "motivo": "Fiel y completo.",
   "modelo": "deepseek:deepseek-reasoner",
   "huella": "fde67fc00e9d"
+ },
+ "calvino:HEB.13.1#230": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "3112c570d316"
+ },
+ "calvino:HEB.13.2#231": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "075211a6c4d5"
+ },
+ "calvino:HEB.13.3#232": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "4e748c448239"
+ },
+ "calvino:HEB.13.4#233": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "35c890b85da3"
+ },
+ "calvino:HEB.13.5#234": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e8f772785bb5"
+ },
+ "calvino:HEB.13.7#235": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e754781ebcf7"
+ },
+ "calvino:HEB.13.8#236": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "3d93f133f4f7"
+ },
+ "calvino:HEB.13.9#237": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "ceb79ca2dbd0"
+ },
+ "calvino:HEB.13.10#238": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "308d2aa5c4a4"
+ },
+ "calvino:HEB.13.13#239": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "723b3ca23fab"
+ },
+ "calvino:HEB.13.14#240": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "2fc3e0396689"
+ },
+ "calvino:HEB.13.15#241": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e5f17a9feda0"
+ },
+ "calvino:HEB.13.16#242": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b895aecc220e"
+ },
+ "calvino:HEB.13.17#243": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "94d4ab5d4a4f"
+ },
+ "calvino:HEB.13.18#244": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "7b849bd44e2e"
+ },
+ "calvino:HEB.13.19#245": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "fbbefe867cee"
+ },
+ "calvino:HEB.13.20#246": {
+  "ok": false,
+  "motivo": "Añade «no pocos» en «no pocos dones nada comunes»; el inglés solo dice «no common gifts» (dones no comunes), sin indicar cantidad.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "5e76ac0c3508"
+ },
+ "calvino:HEB.13.21#247": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "2a7c7e0fc96a"
+ },
+ "calvino:HEB.13.22#248": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "433f90a97ee2"
+ },
+ "calvino:HEB.13.23#249": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "1042b74ad49d"
+ },
+ "calvino:HEB.13.24#250": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "3423aaccd6df"
  }
 }

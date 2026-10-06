@@ -321,5 +321,35 @@
   "detect": 19,
   "total": 19,
   "modelo": "deepseek:deepseek-reasoner"
+ },
+ "calvino:HEB.2.14#25": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "c04b9f7f3908"
+ },
+ "calvino:HEB.2.15#26": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "15ad5b766ae8"
+ },
+ "calvino:HEB.2.16#27": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "0970da59a9be"
+ },
+ "calvino:HEB.2.17#28": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "d6a9a70978f8"
+ },
+ "calvino:HEB.2.18#29": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "2adaf06c3228"
  }
 }

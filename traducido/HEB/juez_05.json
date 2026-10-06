@@ -126,10 +126,10 @@
   "huella": "e976ceb0d334"
  },
  "hcf:John Chrysostom/Hebrews 5_1-3#0": {
-  "ok": false,
-  "motivo": "En la cita de Hebreos 5:1, el inglés dice 'for the people' pero el español traduce 'por los pecados'.",
+  "ok": true,
+  "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "4630d17bcf57"
+  "huella": "586251128a1c"
  },
  "hcf:John Chrysostom/Hebrews 5_11#0": {
   "ok": true,
@@ -237,5 +237,83 @@
   "detect": 15,
   "total": 15,
   "modelo": "deepseek:deepseek-reasoner"
+ },
+ "calvino:HEB.5.1#59": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "64196a4a8ef7"
+ },
+ "calvino:HEB.5.2#60": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "bf02d2195ad0"
+ },
+ "calvino:HEB.5.4#61": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "d3cfb1616045"
+ },
+ "calvino:HEB.5.5#62": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "28d853709245"
+ },
+ "calvino:HEB.5.6#63": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "d999ab7151cf"
+ },
+ "calvino:HEB.5.7#64": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "f86b299a9cf3"
+ },
+ "calvino:HEB.5.8#65": {
+  "ok": false,
+  "motivo": "Añade 'Aunque era Hijo' en el encabezado, ausente en el inglés.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "427ae937b862"
+ },
+ "calvino:HEB.5.9#66": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "057923d03c9f"
+ },
+ "calvino:HEB.5.10#67": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "4044178d327d"
+ },
+ "calvino:HEB.5.11#68": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "048b894ea63b"
+ },
+ "calvino:HEB.5.12#69": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "8acfb3b6f5a8"
+ },
+ "calvino:HEB.5.13#70": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "0b61351911b9"
+ },
+ "calvino:HEB.5.14#71": {
+  "ok": false,
+  "motivo": "Añade 'niños fluctuantes' y 'por doquiera' en la cita de Efesios 4:14, ausentes en el inglés.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "f88fc1151588"
  }
 }

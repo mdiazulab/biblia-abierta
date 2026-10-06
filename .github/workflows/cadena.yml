@@ -48,8 +48,8 @@ jobs:
           python3 verificar.py $L $C || true
           python3 epub.py $L $C
           python3 epub_griego.py $L || true
-          epubcheck ../epub/*.epub > ../informes/epubcheck.txt 2>&1 || true
-          tail -3 ../informes/epubcheck.txt
+          for f in ../epub/*.epub; do echo "== $f"; epubcheck "$f" 2>&1 | tail -3; done > ../informes/epubcheck.txt || true   # de a uno: con varios archivos solo muestra la ayuda
+          cat ../informes/epubcheck.txt
       - name: Guardar resultados
         if: always()
         run: |

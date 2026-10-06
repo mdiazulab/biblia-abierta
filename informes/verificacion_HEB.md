@@ -1,15 +1,210 @@
 # Verificación HEB
 
-- cap.1: OK — 53 notas; con fallos 0 
-- cap.2: OK — 53 notas; con fallos 0 
-- cap.3: OK — 39 notas; con fallos 0 
-- cap.4: OK — 45 notas; con fallos 0 
-- cap.5: OK — 39 notas; con fallos 0 
-- cap.6: OK — 47 notas; con fallos 0 
-- cap.7: OK — 59 notas; con fallos 0 
-- cap.8: OK — 36 notas; con fallos 0 
-- cap.9: OK — 67 notas; con fallos 0 
-- cap.10: OK — 84 notas; con fallos 0 
-- cap.11: OK — 131 notas; con fallos 0 
-- cap.12: OK — 73 notas; con fallos 0 
-- cap.13: OK — 69 notas; con fallos 0 
+- cap.1: FALLA — 80 notas; con fallos 14 (por punto: {'1': 14})
+- cap.2: FALLA — 95 notas; con fallos 25 (por punto: {'1': 25})
+- cap.3: FALLA — 75 notas; con fallos 19 (por punto: {'1': 19})
+- cap.4: FALLA — 87 notas; con fallos 30 (por punto: {'1': 30})
+- cap.5: FALLA — 65 notas; con fallos 13 (por punto: {'1': 13})
+- cap.6: FALLA — 96 notas; con fallos 34 (por punto: {'1': 34})
+- cap.7: FALLA — 121 notas; con fallos 40 (por punto: {'1': 40})
+- cap.8: FALLA — 67 notas; con fallos 19 (por punto: {'1': 19})
+- cap.9: FALLA — 165 notas; con fallos 76 (por punto: {'1': 76})
+- cap.10: FALLA — 167 notas; con fallos 54 (por punto: {'1': 54})
+- cap.11: FALLA — 212 notas; con fallos 48 (por punto: {'1': 48})
+- cap.12: FALLA — 151 notas; con fallos 53 (por punto: {'1': 53})
+- cap.13: FALLA — 136 notas; con fallos 46 (por punto: {'1': 46})
+
+## Primeros fallos
+
+  - uwtn:258011: 1 sin traducir
+  - uwtn:258014: 1 sin traducir
+  - uwtn:258023: 1 sin traducir
+  - uwtn:258026: 1 sin traducir
+  - uwtn:258027: 1 sin traducir
+  - uwtn:258028: 1 sin traducir
+  - uwtn:258035: 1 sin traducir
+  - uwtn:258042: 1 sin traducir
+  - uwtn:258044: 1 sin traducir
+  - uwtn:258050: 1 sin traducir
+  - uwtn:258056: 1 sin traducir
+  - uwtn:258057: 1 sin traducir
+  - uwtn:258077: 1 sin traducir
+  - uwtn:258097: 1 sin traducir
+  - uwtn:258108: 1 sin traducir
+  - uwtn:258109: 1 sin traducir
+  - uwtn:258115: 1 sin traducir
+  - uwtn:258120: 1 sin traducir
+  - uwtn:258128: 1 sin traducir
+  - uwtn:258130: 1 sin traducir
+  - uwtn:258135: 1 sin traducir
+  - uwtn:258140: 1 sin traducir
+  - uwtn:258146: 1 sin traducir
+  - uwtn:258149: 1 sin traducir
+  - uwtn:258167: 1 sin traducir
+  - uwtn:258168: 1 sin traducir
+  - uwtn:258171: 1 sin traducir
+  - uwtn:258176: 1 sin traducir
+  - uwtn:258178: 1 sin traducir
+  - uwtn:258221: 1 sin traducir
+  - uwtn:258222: 1 sin traducir
+  - uwtn:258223: 1 sin traducir
+  - uwtn:258229: 1 sin traducir
+  - uwtn:258235: 1 sin traducir
+  - uwtn:258237: 1 sin traducir
+  - uwtn:258242: 1 sin traducir
+  - uwtn:258245: 1 sin traducir
+  - uwtn:258259: 1 sin traducir
+  - uwtn:258262: 1 sin traducir
+  - uwtn:258265: 1 sin traducir
+  - uwtn:258272: 1 sin traducir
+  - uwtn:258277: 1 sin traducir
+  - uwtn:258287: 1 sin traducir
+  - uwtn:258293: 1 sin traducir
+  - uwtn:258318: 1 sin traducir
+  - uwtn:258319: 1 sin traducir
+  - uwtn:258326: 1 sin traducir
+  - uwtn:258327: 1 sin traducir
+  - uwtn:258331: 1 sin traducir
+  - uwtn:258332: 1 sin traducir
+  - uwtn:258334: 1 sin traducir
+  - uwtn:258336: 1 sin traducir
+  - uwtn:258340: 1 sin traducir
+  - uwtn:258343: 1 sin traducir
+  - uwtn:258347: 1 sin traducir
+  - uwtn:258348: 1 sin traducir
+  - uwtn:258350: 1 sin traducir
+  - uwtn:258351: 1 sin traducir
+  - uwtn:258352: 1 sin traducir
+  - uwtn:258430: 1 sin traducir
+  - uwtn:258434: 1 sin traducir
+  - uwtn:258445: 1 sin traducir
+  - uwtn:258451: 1 sin traducir
+  - uwtn:258454: 1 sin traducir
+  - uwtn:258455: 1 sin traducir
+  - uwtn:258456: 1 sin traducir
+  - uwtn:258460: 1 sin traducir
+  - uwtn:258464: 1 sin traducir
+  - uwtn:258467: 1 sin traducir
+  - uwtn:258471: 1 sin traducir
+  - uwtn:258473: 1 sin traducir
+  - uwtn:258477: 1 sin traducir
+  - uwtn:258485: 1 sin traducir
+  - uwtn:258486: 1 sin traducir
+  - uwtn:258487: 1 sin traducir
+  - uwtn:258488: 1 sin traducir
+  - uwtn:258491: 1 sin traducir
+  - uwtn:258493: 1 sin traducir
+  - uwtn:258502: 1 sin traducir
+  - uwtn:258506: 1 sin traducir
+  - uwtn:258507: 1 sin traducir
+  - uwtn:258508: 1 sin traducir
+  - uwtn:258511: 1 sin traducir
+  - uwtn:258516: 1 sin traducir
+  - uwtn:258517: 1 sin traducir
+  - uwtn:258518: 1 sin traducir
+  - uwtn:258519: 1 sin traducir
+  - uwtn:258586: 1 sin traducir
+  - uwtn:258589: 1 sin traducir
+  - uwtn:258596: 1 sin traducir
+  - uwtn:258599: 1 sin traducir
+  - uwtn:258603: 1 sin traducir
+  - uwtn:258605: 1 sin traducir
+  - uwtn:258606: 1 sin traducir
+  - uwtn:258609: 1 sin traducir
+  - uwtn:258610: 1 sin traducir
+  - uwtn:258616: 1 sin traducir
+  - uwtn:258618: 1 sin traducir
+  - uwtn:258622: 1 sin traducir
+  - uwtn:258624: 1 sin traducir
+  - uwtn:258626: 1 sin traducir
+  - uwtn:258628: 1 sin traducir
+  - uwtn:258736: 1 sin traducir
+  - uwtn:258739: 1 sin traducir
+  - uwtn:258742: 1 sin traducir
+  - uwtn:258744: 1 sin traducir
+  - uwtn:258745: 1 sin traducir
+  - uwtn:258748: 1 sin traducir
+  - uwtn:258756: 1 sin traducir
+  - uwtn:258758: 1 sin traducir
+  - uwtn:258760: 1 sin traducir
+  - uwtn:258763: 1 sin traducir
+  - uwtn:258767: 1 sin traducir
+  - uwtn:258769: 1 sin traducir
+  - uwtn:258772: 1 sin traducir
+  - uwtn:258780: 1 sin traducir
+  - uwtn:258790: 1 sin traducir
+  - uwtn:258833: 1 sin traducir
+  - uwtn:258836: 1 sin traducir
+  - uwtn:258838: 1 sin traducir
+  - uwtn:258842: 1 sin traducir
+  - uwtn:258843: 1 sin traducir
+  - uwtn:258846: 1 sin traducir
+  - uwtn:258847: 1 sin traducir
+  - uwtn:258848: 1 sin traducir
+  - uwtn:258852: 1 sin traducir
+  - uwtn:258854: 1 sin traducir
+  - uwtn:258855: 1 sin traducir
+  - uwtn:258856: 1 sin traducir
+  - uwtn:258857: 1 sin traducir
+  - uwtn:258865: 1 sin traducir
+  - uwtn:258867: 1 sin traducir
+  - uwtn:259012: 1 sin traducir
+  - uwtn:259014: 1 sin traducir
+  - uwtn:259020: 1 sin traducir
+  - uwtn:259026: 1 sin traducir
+  - uwtn:259030: 1 sin traducir
+  - uwtn:259031: 1 sin traducir
+  - uwtn:259036: 1 sin traducir
+  - uwtn:259046: 1 sin traducir
+  - uwtn:259049: 1 sin traducir
+  - uwtn:259050: 1 sin traducir
+  - uwtn:259054: 1 sin traducir
+  - uwtn:259055: 1 sin traducir
+  - uwtn:259057: 1 sin traducir
+  - uwtn:259059: 1 sin traducir
+  - uwtn:259062: 1 sin traducir
+  - uwtn:259212: 1 sin traducir
+  - uwtn:259214: 1 sin traducir
+  - uwtn:259217: 1 sin traducir
+  - uwtn:259219: 1 sin traducir
+  - uwtn:259220: 1 sin traducir
+  - uwtn:259222: 1 sin traducir
+  - uwtn:259224: 1 sin traducir
+  - uwtn:259238: 1 sin traducir
+  - uwtn:259240: 1 sin traducir
+  - uwtn:259246: 1 sin traducir
+  - uwtn:259248: 1 sin traducir
+  - uwtn:259259: 1 sin traducir
+  - uwtn:259260: 1 sin traducir
+  - uwtn:259263: 1 sin traducir
+  - uwtn:259264: 1 sin traducir
+  - uwtn:259412: 1 sin traducir
+  - uwtn:259420: 1 sin traducir
+  - uwtn:259422: 1 sin traducir
+  - uwtn:259429: 1 sin traducir
+  - uwtn:259433: 1 sin traducir
+  - uwtn:259435: 1 sin traducir
+  - uwtn:259436: 1 sin traducir
+  - uwtn:259441: 1 sin traducir
+  - uwtn:259445: 1 sin traducir
+  - uwtn:259458: 1 sin traducir
+  - uwtn:259459: 1 sin traducir
+  - uwtn:259461: 1 sin traducir
+  - uwtn:259475: 1 sin traducir
+  - uwtn:259477: 1 sin traducir
+  - uwtn:259482: 1 sin traducir
+  - uwtn:259619: 1 sin traducir
+  - uwtn:259620: 1 sin traducir
+  - uwtn:259625: 1 sin traducir
+  - uwtn:259629: 1 sin traducir
+  - uwtn:259634: 1 sin traducir
+  - uwtn:259648: 1 sin traducir
+  - uwtn:259649: 1 sin traducir
+  - uwtn:259650: 1 sin traducir
+  - uwtn:259652: 1 sin traducir
+  - uwtn:259667: 1 sin traducir
+  - uwtn:259670: 1 sin traducir
+  - uwtn:259671: 1 sin traducir
+  - uwtn:259672: 1 sin traducir
+  - uwtn:259673: 1 sin traducir
+  - uwtn:259678: 1 sin traducir

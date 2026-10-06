@@ -227,10 +227,10 @@
   "huella": "24eb7631c29d"
  },
  "hcf:John Chrysostom/Hebrews 12_11#1": {
-  "ok": false,
-  "motivo": "En la cita de Hebreos 12:11, el inglés dice «fruits» (plural); el español traduce «fruto» (singular), cambiando el número de la cita.",
+  "ok": true,
+  "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "b549f0274090"
+  "huella": "879a5b4b0b3f"
  },
  "hcf:John Chrysostom/Hebrews 12_12-13#0": {
   "ok": true,
@@ -441,5 +441,155 @@
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
   "huella": "f27dcf335eed"
+ },
+ "calvino:HEB.12.1#205": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "4e6b16f49e64"
+ },
+ "calvino:HEB.12.2#206": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "426de234eff1"
+ },
+ "calvino:HEB.12.3#207": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "2f2c583ec8c1"
+ },
+ "calvino:HEB.12.4#208": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "16a74b56ca34"
+ },
+ "calvino:HEB.12.5#209": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "bfb7a2c78262"
+ },
+ "calvino:HEB.12.6#210": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "c8fa9a7c1791"
+ },
+ "calvino:HEB.12.7#211": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "1c82e626b6e6"
+ },
+ "calvino:HEB.12.9#212": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "9401a6351843"
+ },
+ "calvino:HEB.12.10#213": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "65637a499323"
+ },
+ "calvino:HEB.12.11#214": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a7b97dc7bd9f"
+ },
+ "calvino:HEB.12.12#215": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "3decccf89163"
+ },
+ "calvino:HEB.12.13#216": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "42ef1efbb9f6"
+ },
+ "calvino:HEB.12.14#217": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "af010663e5c9"
+ },
+ "calvino:HEB.12.15#218": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "fc309548474a"
+ },
+ "calvino:HEB.12.16#219": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "52f5644fad22"
+ },
+ "calvino:HEB.12.17#220": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "99a5fbe48f10"
+ },
+ "calvino:HEB.12.18#221": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "15c8b631d34d"
+ },
+ "calvino:HEB.12.19#222": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "5a32ef2df526"
+ },
+ "calvino:HEB.12.22#223": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "39eb3e550fdb"
+ },
+ "calvino:HEB.12.23#224": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a0263bd789c1"
+ },
+ "calvino:HEB.12.24#225": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "36fee5f13b82"
+ },
+ "calvino:HEB.12.25#226": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "169133bca1d9"
+ },
+ "calvino:HEB.12.26#227": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "99eb545086df"
+ },
+ "calvino:HEB.12.27#228": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "6e093bcb1fec"
+ },
+ "calvino:HEB.12.29#229": {
+  "ok": true,
+  "motivo": "Fiel y completo; no se detectan omisiones ni cambios de sentido.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "9f3fa5ed7d34"
  }
 }

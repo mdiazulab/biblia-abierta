@@ -25,7 +25,7 @@ INGLES = set("the and of which that with from this these those would should thei
 LIBROS_ORDINAL = ("Corintios|Corinthians|Cor|Reyes|Kings|Samuel|Sam|Crónicas|Chronicles|Chron|Timoteo|Timothy|Tim|"
                   "Tesalonicenses|Thessalonians|Thess|Tes|Pedro|Peter|Pet|Ped|Juan|John|Macabeos|Maccabees|Macc|Esdras")
 # «the Word» que nombra al Hijo (no la palabra predicada: «the Word of salvation», «sanctified it by the Word»)
-CRISTO_EN = re.compile(r"\b(?:God the Word|(?:is|was) the Word\b|uttered the Word|Word of the Father|the Word (?:was|became|"
+CRISTO_EN = re.compile(r"\b(?:God the Word|(?:is|was) the Word\b(?! of (?:God|the Lord)\b)|uttered the Word|Word of the Father|the Word (?:was|became|"
                        r"made|Himself|incarnate|of God,? (?:who|which|that) (?:was|is|became)))")
 # «Palabra» con mayúscula en medio de oración: o es el Hijo («el Verbo», RV1909) o va en minúscula
 PALABRA_MAY = re.compile(r"(?<![.!?¿¡«»“”\"(\n]) (?:\w+ )?Palabra\b")

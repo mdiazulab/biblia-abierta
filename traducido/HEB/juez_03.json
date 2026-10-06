@@ -237,5 +237,107 @@
   "detect": 17,
   "total": 17,
   "modelo": "deepseek:deepseek-reasoner"
+ },
+ "calvino:HEB.3.1#30": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "7a9a74a5d7b3"
+ },
+ "calvino:HEB.3.2#31": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a6c383bef613"
+ },
+ "calvino:HEB.3.3#32": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "f1fea9923e6d"
+ },
+ "calvino:HEB.3.4#33": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "00a38f9111fe"
+ },
+ "calvino:HEB.3.5#34": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "3c625a936d4d"
+ },
+ "calvino:HEB.3.6#35": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "1a6afaf6a859"
+ },
+ "calvino:HEB.3.7#36": {
+  "ok": false,
+  "motivo": "En «when David called the Jews God’s people» el español omite «los judíos» y cambia el sentido: dice «llamó al pueblo de Dios pueblo suyo», lo que no equivale a que David llamara a los judíos pueblo de Dios.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "fdb7329ec350"
+ },
+ "calvino:HEB.3.8#37": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "9444b7d573de"
+ },
+ "calvino:HEB.3.9#38": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "9fcccc6aa191"
+ },
+ "calvino:HEB.3.10#39": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "7c1053a362d8"
+ },
+ "calvino:HEB.3.11#40": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "db0e64da04ee"
+ },
+ "calvino:HEB.3.12#41": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "882fe4029589"
+ },
+ "calvino:HEB.3.13#42": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "62b762daa7c2"
+ },
+ "calvino:HEB.3.14#43": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "0eba5fa02fa1"
+ },
+ "calvino:HEB.3.15#44": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "7fee46b7ecf9"
+ },
+ "calvino:HEB.3.16#45": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "77e71821dfec"
+ },
+ "calvino:HEB.3.17#46": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "96ba1f4d7832"
  }
 }

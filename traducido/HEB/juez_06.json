@@ -285,5 +285,95 @@
   "detect": 19,
   "total": 19,
   "modelo": "deepseek:deepseek-reasoner"
+ },
+ "calvino:HEB.6.1#72": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "3d8b3c89dbf8"
+ },
+ "calvino:HEB.6.2#73": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "cff5c0f41dcc"
+ },
+ "calvino:HEB.6.3#74": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "1e1db78bcfed"
+ },
+ "calvino:HEB.6.4#75": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "6173ddc8aa88"
+ },
+ "calvino:HEB.6.6#76": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "7db5b7367031"
+ },
+ "calvino:HEB.6.7#77": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "4e0109ab0512"
+ },
+ "calvino:HEB.6.9#78": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "24509131c915"
+ },
+ "calvino:HEB.6.10#79": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b5226d6debe6"
+ },
+ "calvino:HEB.6.11#80": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "958ae52cf586"
+ },
+ "calvino:HEB.6.12#81": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "40e1226ace7d"
+ },
+ "calvino:HEB.6.13#82": {
+  "ok": false,
+  "motivo": "Traduce 'Word of God' como 'Verbo de Dios'; en RV1909 'el Verbo' designa a Cristo, pero aquí es la palabra/promesa de Dios, lo que cambia el sentido.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "24cbf02cf3f9"
+ },
+ "calvino:HEB.6.16#83": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "4e415cc19e43"
+ },
+ "calvino:HEB.6.17#84": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "01c0209094f2"
+ },
+ "calvino:HEB.6.18#85": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "ce2247528419"
+ },
+ "calvino:HEB.6.19#86": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "eaacfa51dffe"
  }
 }

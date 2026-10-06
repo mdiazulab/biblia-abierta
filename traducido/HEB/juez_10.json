@@ -227,8 +227,8 @@
   "huella": "b305ae248cb7"
  },
  "hcf:Cosmas Indicopleustes/Hebrews 10_19-21#0": {
-  "ok": false,
-  "motivo": "Traduce 'Holy place' como 'Lugar Santísimo' y 'dedicated' como 'abrió', cambiando el sentido.",
+  "ok": true,
+  "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
   "huella": "57c91566922e"
  },
@@ -507,5 +507,179 @@
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
   "huella": "03338ad8eca1"
+ },
+ "calvino:HEB.10.1#143": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "4dc2d8951cd8"
+ },
+ "calvino:HEB.10.3#144": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "eb833aebb505"
+ },
+ "calvino:HEB.10.4#145": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "d529cd39b014"
+ },
+ "calvino:HEB.10.5#146": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "206838934952"
+ },
+ "calvino:HEB.10.7#147": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a27fc48e90d9"
+ },
+ "calvino:HEB.10.9#148": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "8c02d2607b93"
+ },
+ "calvino:HEB.10.10#149": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "da20cca1b777"
+ },
+ "calvino:HEB.10.11#150": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "02c9dc1b9330"
+ },
+ "calvino:HEB.10.15#151": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e51bbfcf0584"
+ },
+ "calvino:HEB.10.19#152": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a1179a0fb23a"
+ },
+ "calvino:HEB.10.20#153": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "f650a2a25121"
+ },
+ "calvino:HEB.10.21#154": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "5228e4eb406a"
+ },
+ "calvino:HEB.10.22#155": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "0099d89583b1"
+ },
+ "calvino:HEB.10.23#156": {
+  "ok": false,
+  "motivo": "Invierte la relación en «la cual contiene su palabra»: el inglés dice que su palabra contiene la promesa, no que la promesa contenga su palabra.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "adc314dc910c"
+ },
+ "calvino:HEB.10.24#157": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "6316b4f98487"
+ },
+ "calvino:HEB.10.25#158": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "76eec015400c"
+ },
+ "calvino:HEB.10.26#159": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e53464c319e6"
+ },
+ "calvino:HEB.10.27#160": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "dfff649b502d"
+ },
+ "calvino:HEB.10.28#161": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "bd72b6e99a54"
+ },
+ "calvino:HEB.10.29#162": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e2c5b7154a4f"
+ },
+ "calvino:HEB.10.30#163": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "9e7bd43f6003"
+ },
+ "calvino:HEB.10.32#164": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "da49d41c7e09"
+ },
+ "calvino:HEB.10.33#165": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "f471b4fa5ff8"
+ },
+ "calvino:HEB.10.34#166": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "9e9722a8074c"
+ },
+ "calvino:HEB.10.35#167": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "f293e2b9aa2d"
+ },
+ "calvino:HEB.10.36#168": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "09f503cb424c"
+ },
+ "calvino:HEB.10.37#169": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "59fc3be8c3a3"
+ },
+ "calvino:HEB.10.38#170": {
+  "ok": false,
+  "motivo": "Traduce «He will not please my soul» como «No agradará mi alma», invirtiendo el sentido; además deja «elation» sin traducir.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "7c4c2b31c00b"
+ },
+ "calvino:HEB.10.39#171": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "c9fbe1911d61"
  }
 }
