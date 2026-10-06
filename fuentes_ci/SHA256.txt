@@ -1,1 +1,8 @@
 e483306390017347de4bbe1f6f8748d2359feadd3160e5b4986c9565d068704b  ebible_translations.csv  https://ebible.org/Scriptures/translations.csv
+6f65b2648342b3257bf1cd19ed0001823f497eaddf1f67fe49aee55a5d9eb2a4  spabll_copyright.htm  https://ebible.org/spabll/copyright.htm
+b97801fe4f89e416a772ca0c94c30d382b38ccd589fd97858f1395bb4641bb17  spabll_usfm.zip  https://ebible.org/Scriptures/spabll_usfm.zip
+4cc08b1818743e1391b21f6cb2cd35239ceb61e94312dbf97bf35f2263781680  spablm_copyright.htm  https://ebible.org/spablm/copyright.htm
+7d02e00b6e7614b0767be393ea805ba9713f00c7de5948e85410c063f2c434ff  spablm_usfm.zip  https://ebible.org/Scriptures/spablm_usfm.zip
+0d3b36faa218aa8ada2c9060d91bce405a1a3f54bd1c3de4c51bc377219093e1  grcbrent_copyright.htm  https://ebible.org/grcbrent/copyright.htm
+cc6591b067fa69e0a922c82fc67a458462af6106af4bc4fea53307a5be2288e5  grcbrent_usfm.zip  https://ebible.org/Scriptures/grcbrent_usfm.zip
+2575b030b4242ead2ee4ac041ad1e107c7fac94ae1f21969b2b4b1479be49c3a  grclxx_copyright.htm  https://ebible.org/grclxx/copyright.htm
