@@ -1162,7 +1162,7 @@
   "modelo_2": "gemini-3.6-flash"
  },
  "hcf:Augustine of Hippo/John 6_58#0": {
-  "text_es": "«Este es el pan que desciende del cielo;» para que comiéndolo vivamos, ya que no podemos tener la vida eterna de nosotros mismos. «No,» dice, «como vuestros padres comieron el maná, y murieron: el que come este pan vivirá para siempre.» Que aquellos padres murieron, ha de entenderse como que no viven para siempre. Pues incluso los que comen a Cristo ciertamente morirán temporalmente; pero viven para siempre, porque Cristo es la vida eterna.",
+  "text_es": "«Este es el pan que desciende del cielo;» para que comiéndolo vivamos, ya que no podemos tener la vida eterna de nosotros mismos. «No», dice, «como vuestros padres comieron el maná, y murieron: el que come este pan vivirá para siempre.» Que aquellos padres murieron, ha de entenderse como que no viven para siempre. Pues incluso los que comen a Cristo ciertamente morirán temporalmente; pero viven para siempre, porque Cristo es la vida eterna.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
   "huella": "dcb8866bae85",

@@ -81,12 +81,15 @@ def revisar(n, t, rv):
     pal = re.findall(r"[a-záéíóúñ]+", es.lower())
     if pal and sum(w in INGLES for w in pal) / len(pal) > 0.03:
         fallos.append("5 inglés residual")
-    if re.search(r"&\w+;|<[a-z/]", es) or COMENTARIO.search(es):
+    if re.search(r"&\w+;|<[a-z/]|rc://", es) or COMENTARIO.search(es):
         fallos.append("5 HTML, marca de prueba o comentario del modelo")
     # las traducciones inglesas del s. XIX (NPNF, Newman, Pusey: «saith», «thou hast») son más largas: mediana 0,97 y p5 0,88 en Juan,
     # 26 pares entre 0,79 y 0,89 leídos completos el 02-10-2026 -> mínimo 0,78; la omisión la mide el conteo de oraciones
     r = len(es) / max(1, len(src))
-    minimo = 0.78 if n["layer"] in ("padres", "reforma") or ARCAICO.search(src) else 0.9
+    # notas de unfoldingWord: el español queda más compacto («If it would be helpful in your language, you could» ->
+    # «Si en su idioma sería útil, podría»); 40 pares entre 0,81 y 0,90 leídos el 06-10-2026, completos -> 0,8
+    minimo = (0.78 if n["layer"] in ("padres", "reforma") or ARCAICO.search(src)
+              else 0.8 if n["layer"] in ("griego", "griego_c", "griego_intro", "glosario_g") else 0.9)
     if len(src) > 300 and not minimo <= r <= 1.5:
         fallos.append(f"6 razón de longitud {r:.2f}")
     o_en, o_es = (oraciones(x) for x in (src, es))

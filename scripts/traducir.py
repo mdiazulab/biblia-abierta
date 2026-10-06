@@ -50,6 +50,14 @@ def comillas(t):
             pila.append("«")
         elif ch == "»" and pila:
             pila.pop()
+        elif ch == "“":                                 # comillas curvas inglesas (06-10-2026: 288 notas, sobre todo
+            out.append("“" if pila else "«")            # unfoldingWord): «…» afuera, “…” solo adentro de «…»
+            pila.append("“" if pila else "«")
+            continue
+        elif ch == "”":
+            cierre = pila.pop() if pila else "«"
+            out.append("”" if cierre == "“" else "»")
+            continue
         if ch != '"':
             out.append(ch)
             continue
@@ -64,11 +72,16 @@ def comillas(t):
         else:
             cierre = pila.pop() if pila else "«"
             out.append("”" if cierre == "“" else "»")
-    return "".join(out)
+    # coma de cierre a la inglesa («perfección,») -> después de las comillas
+    return re.sub(r",([»”])", r"\1,", "".join(out))
+
+
+# remisiones internas de unfoldingWord que no son texto («(See: [[rc://*/tw/dict/bible/other/perfect]])»)
+RC = re.compile(r"\s*\((?:See|Ver|Véase|véase)[^()]*?\[\[rc://[^\]]*\]\]\)|\s*\[\[rc://[^\]]*\]\]")
 
 
 def limpiar(es):
-    es = comillas(re.sub(NOTA_PEGADA, "", es.strip()))
+    es = comillas(RC.sub("", re.sub(NOTA_PEGADA, "", es.strip())))
     for mal, bien in VOCABULARIO:
         es = re.sub(mal, bien, es)
     return es

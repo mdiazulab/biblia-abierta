@@ -351,5 +351,935 @@
   "motivo": "Fiel y completo.",
   "modelo": "deepseek:deepseek-reasoner",
   "huella": "2adaf06c3228"
+ },
+ "calvino:HEB.2.1#13": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a7a98f3981e9"
+ },
+ "calvino:HEB.2.2#14": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "88d61fc5d938"
+ },
+ "calvino:HEB.2.3#15": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "5e95ba28cd00"
+ },
+ "calvino:HEB.2.4#16": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "090d44169f1f"
+ },
+ "calvino:HEB.2.5#17": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "037435de0f58"
+ },
+ "calvino:HEB.2.7#18": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "f3567a36da81"
+ },
+ "calvino:HEB.2.8#19": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "bd2f398810f1"
+ },
+ "calvino:HEB.2.9#20": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "ff9bf1ac5667"
+ },
+ "calvino:HEB.2.10#21": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a39603cb9aaf"
+ },
+ "calvino:HEB.2.11#22": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "18b7256c901b"
+ },
+ "calvino:HEB.2.12#23": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a3d134413338"
+ },
+ "calvino:HEB.2.13#24": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "ae0a75129363"
+ },
+ "uwtn:258108": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "9c2ad3c74a40"
+ },
+ "uwtn:258109": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b855c2e5a455"
+ },
+ "uwtn:258115": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "0eb43ebfe5e2"
+ },
+ "uwtn:258120": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "ed11c7637d7f"
+ },
+ "uwtn:258128": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "ee8222a03dd8"
+ },
+ "uwtn:258130": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "ce5217b4348b"
+ },
+ "uwtn:258135": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "43f61bed688c"
+ },
+ "uwtn:258140": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "9510e0702bed"
+ },
+ "uwtn:258146": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "2aca5a4aac78"
+ },
+ "uwtn:258149": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "67c075990be6"
+ },
+ "uwtn:258167": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "8f2b24540667"
+ },
+ "uwtn:258168": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "7baa3770fcc4"
+ },
+ "uwtn:258171": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "fff6ec8fea0d"
+ },
+ "uwtn:258176": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a88a86f6a1fc"
+ },
+ "uwtn:258178": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "46360db17f82"
+ },
+ "uwtn:258183": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "df3373fa4f88"
+ },
+ "uwtn:258189": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "6a80ce7d1b27"
+ },
+ "uwtn:258193": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e09f2c60bb68"
+ },
+ "uwtn:258195": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "3e355418bd40"
+ },
+ "uwtn:258207": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "054f6fce5650"
+ },
+ "uwtn:258208": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "eb610a4731df"
+ },
+ "uwtn:258209": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "4301c7ba18fb"
+ },
+ "uwtn:258211": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "331a59c6c186"
+ },
+ "uwtn:258213": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "7f39b43b1b91"
+ },
+ "uwtn:258218": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "efaeabed9bfa"
+ },
+ "uwtn-c:en_tn_HEB_s2gd#0": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "c1106d148f7e"
+ },
+ "uwtn-c:en_tn_HEB_s2gd#1": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "53bf6b6663fd"
+ },
+ "uwtn-c:en_tn_HEB_s2gd#2": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "5d183d1d3207"
+ },
+ "uwtn-c:en_tn_HEB_s2gd#3": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "d0d7d924942c"
+ },
+ "uwtn-c:en_tn_HEB_s2gd#4": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "bc170279dd61"
+ },
+ "uwtn-c:258109": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "94373c7c43f5"
+ },
+ "uwtn-c:258108": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "bdd1dd6852bf"
+ },
+ "uwtn-c:258110": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "d2b56cd4aac0"
+ },
+ "uwtn-c:258112": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "3ab7b559644b"
+ },
+ "uwtn-c:258111": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "08ecba4eb8a7"
+ },
+ "uwtn-c:258106": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "ca837ad6463e"
+ },
+ "uwtn-c:258107": {
+  "ok": true,
+  "motivo": "Sin omisiones ni cambios de sentido.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "26d53b802b05"
+ },
+ "uwtn-c:258115": {
+  "ok": true,
+  "motivo": "Sin omisiones ni cambios de sentido.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b5ee27cb43c1"
+ },
+ "uwtn-c:258116": {
+  "ok": true,
+  "motivo": "Sin omisiones ni cambios de sentido.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "7b0df6b34339"
+ },
+ "uwtn-c:258113": {
+  "ok": true,
+  "motivo": "Sin omisiones ni cambios de sentido.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "58dfb76efd49"
+ },
+ "uwtn-c:258117": {
+  "ok": true,
+  "motivo": "Sin omisiones ni cambios de sentido.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "efd5f580d48c"
+ },
+ "uwtn-c:258118": {
+  "ok": true,
+  "motivo": "Sin omisiones ni cambios de sentido.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "98fe073c3d2a"
+ },
+ "uwtn-c:258114": {
+  "ok": true,
+  "motivo": "Sin omisiones ni cambios de sentido.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "1735bc325577"
+ },
+ "uwtn-c:258124": {
+  "ok": true,
+  "motivo": "Sin omisiones ni cambios de sentido.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "1f3b913fc005"
+ },
+ "uwtn-c:258119": {
+  "ok": true,
+  "motivo": "Sin omisiones ni cambios de sentido.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "c150a4107dc0"
+ },
+ "uwtn-c:258120": {
+  "ok": true,
+  "motivo": "Sin omisiones ni cambios de sentido.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "727e54c75e0f"
+ },
+ "uwtn-c:258125": {
+  "ok": true,
+  "motivo": "Sin omisiones ni cambios de sentido.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "2d1d249f1601"
+ },
+ "uwtn-c:258123": {
+  "ok": true,
+  "motivo": "Sin omisiones ni cambios de sentido.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "d4ff906bf74a"
+ },
+ "uwtn-c:258122": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "c8042777fd66"
+ },
+ "uwtn-c:258121": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "95d167d5b075"
+ },
+ "uwtn-c:258128": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "ed39b4bc41d2"
+ },
+ "uwtn-c:258126": {
+  "ok": false,
+  "motivo": "En la primera traducción alternativa, «miracles» se vierte como «maravillas» en vez de «milagros», término que el mismo texto distingue de «wonders»/«prodigios».",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "3a898f696ac8"
+ },
+ "uwtn-c:258127": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "6907a980b9b9"
+ },
+ "uwtn-c:258129": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "cae6bfa3ac73"
+ },
+ "uwtn-c:258130": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "363253d2faae"
+ },
+ "uwtn-c:258131": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b3f6b11ae0ea"
+ },
+ "uwtn-c:258135": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "facc7dc7e0ba"
+ },
+ "uwtn-c:258132": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "6647cabed747"
+ },
+ "uwtn-c:258138": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "31002afde7bf"
+ },
+ "uwtn-c:258137": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "426f11db5a2e"
+ },
+ "uwtn-c:258133": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "620c6aacc73e"
+ },
+ "uwtn-c:258136": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "ad6dce4c4fe7"
+ },
+ "uwtn-c:258134": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "7e66420dbb6b"
+ },
+ "uwtn-c:258146": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "41e5d0fc1727"
+ },
+ "uwtn-c:258141": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "6c81a9ee67b7"
+ },
+ "uwtn-c:258142": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "33bc1aced38e"
+ },
+ "uwtn-c:258140": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "1bf2c739da40"
+ },
+ "uwtn-c:258145": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "9926e2560a50"
+ },
+ "uwtn-c:258139": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "ad6dce4c4fe7"
+ },
+ "uwtn-c:258144": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "88031d400f11"
+ },
+ "uwtn-c:258143": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e8d17241d16f"
+ },
+ "uwtn-c:258150": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "8c6cb87b879f"
+ },
+ "uwtn-c:258153": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "31ddfac627d3"
+ },
+ "uwtn-c:258152": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "29f4b737cbd7"
+ },
+ "uwtn-c:258151": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "02fc53b66fec"
+ },
+ "uwtn-c:258147": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "9dea53290b2e"
+ },
+ "uwtn-c:258148": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "ccdd2ff553e9"
+ },
+ "uwtn-c:258149": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "f53b00336f2f"
+ },
+ "uwtn-c:258162": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "bf78d7e159de"
+ },
+ "uwtn-c:258155": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "fba6ac1b2b6a"
+ },
+ "uwtn-c:258161": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b70da54ffdc4"
+ },
+ "uwtn-c:258158": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "8727bc17b4ed"
+ },
+ "uwtn-c:258156": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a65feee1db02"
+ },
+ "uwtn-c:258163": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "3e1def97c965"
+ },
+ "uwtn-c:258157": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a2abf3f1baff"
+ },
+ "uwtn-c:258154": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "122d1f3bd34a"
+ },
+ "uwtn-c:258164": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "0acad0ee7535"
+ },
+ "uwtn-c:258160": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "f57b8517c9e7"
+ },
+ "uwtn-c:258159": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "88031d400f11"
+ },
+ "uwtn-c:258173": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "7e7e03f5436e"
+ },
+ "uwtn-c:258166": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "45c483976dc3"
+ },
+ "uwtn-c:258167": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b00f55eff012"
+ },
+ "uwtn-c:258168": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "d9bec1491402"
+ },
+ "uwtn-c:258171": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "f22782dc3bb8"
+ },
+ "uwtn-c:258172": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "598e85a3bbea"
+ },
+ "uwtn-c:258169": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "0d1492eb68d8"
+ },
+ "uwtn-c:258165": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "f820cb69f3dd"
+ },
+ "uwtn-c:258170": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e40f2d036142"
+ },
+ "uwtn-c:258174": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "ca9717c2ef6e"
+ },
+ "uwtn-c:258182": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e8b95f6cc955"
+ },
+ "uwtn-c:258183": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "c3eb2b591294"
+ },
+ "uwtn-c:258177": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "9668e912c695"
+ },
+ "uwtn-c:258175": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "559289dff36e"
+ },
+ "uwtn-c:258181": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "76d3ed65cea6"
+ },
+ "uwtn-c:258178": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "1f8feafa368f"
+ },
+ "uwtn-c:258179": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "0a4ee987e0d5"
+ },
+ "uwtn-c:258180": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a0ede6af4b1c"
+ },
+ "uwtn-c:258176": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "572e557cf618"
+ },
+ "uwtn-c:258184": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a117ec5fb894"
+ },
+ "uwtn-c:258189": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "2be6195a9abc"
+ },
+ "uwtn-c:258188": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "87c6e8b74a23"
+ },
+ "uwtn-c:258186": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "c54bb2071d72"
+ },
+ "uwtn-c:258185": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "98683ea15b6c"
+ },
+ "uwtn-c:258187": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "f3546d709508"
+ },
+ "uwtn-c:258193": {
+  "ok": false,
+  "motivo": "Omite «little» en «little children»: traduce solo «niños», y en la alternativa «God’s little children» queda «los niños de Dios».",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a57be99928c2"
+ },
+ "uwtn-c:258191": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "30b96756257f"
+ },
+ "uwtn-c:258190": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "83b95e8de056"
+ },
+ "uwtn-c:258192": {
+  "ok": false,
+  "motivo": "Omite «little» en «I and the little children»: traduce «yo y los niños».",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "8e9f250a3ec8"
+ },
+ "uwtn-c:258194": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "aa04005db58b"
+ },
+ "uwtn-c:258200": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "4c621fe2fb29"
+ },
+ "uwtn-c:258198": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a4c6e221d377"
+ },
+ "uwtn-c:258199": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "202a3202e242"
+ },
+ "uwtn-c:258196": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "81a3815a74e5"
+ },
+ "uwtn-c:258195": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "321af6af24bd"
+ },
+ "uwtn-c:258197": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "1667732f890d"
+ },
+ "uwtn-c:258201": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "53920919f894"
+ },
+ "uwtn-c:258202": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "0b785de65fa2"
+ },
+ "uwtn-c:258203": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "20999f15228e"
+ },
+ "uwtn-c:258204": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "2023e35bdb74"
+ },
+ "uwtn-c:258208": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "79562294a45e"
+ },
+ "uwtn-c:258205": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "2e77f32d800a"
+ },
+ "uwtn-c:258207": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "80737e468bc1"
+ },
+ "uwtn-c:258206": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "3cd698eed469"
+ },
+ "uwtn-c:258209": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e95046405329"
+ },
+ "uwtn-c:258214": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "731dbead7d67"
+ },
+ "uwtn-c:258213": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "0df3216ce982"
+ },
+ "uwtn-c:258210": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e2ee48138a1c"
+ },
+ "uwtn-c:258211": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "84b95e7c0e65"
+ },
+ "uwtn-c:258212": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "37ec78ed324e"
+ },
+ "uwtn-c:258217": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e59adbf0ba0c"
+ },
+ "uwtn-c:258215": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "4012ac4d2900"
+ },
+ "uwtn-c:258216": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "83bce0c7459e"
+ },
+ "uwtn-c:258218": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b0cc61ba41d9"
  }
 }

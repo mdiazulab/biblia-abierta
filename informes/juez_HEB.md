@@ -1,17 +1,64 @@
-  lote sin veredicto (12 pares): ningún modelo respondió: {'gemini-3.6-flash': '429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-f
-cap.1: 66 notas; juez deepseek:deepseek-reasoner; sensibilidad 18/18 = 100%; marcadas 0, quedan 0; extremo superior ajustado 5.5% -> REVISAR (sin juzgar 12)
-  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': 'respuesta sin objeto JSON'}
-cap.2: 70 notas; juez deepseek:deepseek-reasoner; sensibilidad 19/19 = 100%; marcadas 0, quedan 0; extremo superior ajustado 5.2% -> REVISAR (sin juzgar 12)
-cap.3: 56 notas; juez deepseek:deepseek-reasoner; sensibilidad 17/17 = 100%; marcadas 1, quedan 1; extremo superior ajustado 9.4% -> REVISAR
-cap.4: 57 notas; juez deepseek:deepseek-reasoner; sensibilidad 16/16 = 100%; marcadas 2, quedan 1; extremo superior ajustado 9.3% -> REVISAR
-cap.5: 52 notas; juez deepseek:deepseek-reasoner; sensibilidad 15/15 = 100%; marcadas 3, quedan 2; extremo superior ajustado 13.0% -> REVISAR
-cap.6: 62 notas; juez deepseek:deepseek-reasoner; sensibilidad 19/19 = 100%; marcadas 2, quedan 1; extremo superior ajustado 8.6% -> REVISAR
-cap.7: 81 notas; juez deepseek:deepseek-reasoner; sensibilidad 18/18 = 100%; marcadas 2, quedan 0; extremo superior ajustado 4.5% -> REVISAR
-cap.8: 48 notas; juez deepseek:deepseek-reasoner; sensibilidad 17/17 = 100%; marcadas 0, quedan 0; extremo superior ajustado 7.4% -> REVISAR
-cap.9: 89 notas; juez deepseek:deepseek-reasoner; sensibilidad 17/17 = 100%; marcadas 2, quedan 2; extremo superior ajustado 7.8% -> REVISAR
-cap.10: 113 notas; juez deepseek:deepseek-reasoner; sensibilidad 19/19 = 100%; marcadas 4, quedan 2; extremo superior ajustado 6.2% -> REVISAR
-  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': 'respuesta sin objeto JSON'}
-cap.11: 164 notas; juez deepseek:deepseek-reasoner; sensibilidad 17/17 = 100%; marcadas 0, quedan 0; extremo superior ajustado 2.3% -> REVISAR (sin juzgar 12)
-cap.12: 98 notas; juez deepseek:deepseek-reasoner; sensibilidad 18/18 = 100%; marcadas 4, quedan 0; extremo superior ajustado 3.8% -> REVISAR
-cap.13: 90 notas; juez deepseek:deepseek-reasoner; sensibilidad 19/19 = 100%; marcadas 1, quedan 1; extremo superior ajustado 6.0% -> REVISAR
-libro HEB: 1046 notas; sensibilidad 229/229 = 100%; pendientes 9; extremo superior ajustado 1.63% -> REVISAR (sin juzgar 36)
+cap.1: 271 notas; juez deepseek:deepseek-reasoner; sensibilidad 18/18 = 100%; marcadas 21, quedan 7; extremo superior ajustado 5.2% -> REVISAR
+cap.2: 213 notas; juez deepseek:deepseek-reasoner; sensibilidad 19/19 = 100%; marcadas 9, quedan 3; extremo superior ajustado 4.1% -> REVISAR
+cap.3: 179 notas; juez deepseek:deepseek-reasoner; sensibilidad 17/17 = 100%; marcadas 6, quedan 4; extremo superior ajustado 5.6% -> REVISAR
+cap.4: 196 notas; juez deepseek:deepseek-reasoner; sensibilidad 16/16 = 100%; marcadas 9, quedan 1; extremo superior ajustado 2.8% -> APROBADO
+cap.5: 130 notas; juez deepseek:deepseek-reasoner; sensibilidad 15/15 = 100%; marcadas 4, quedan 2; extremo superior ajustado 5.4% -> REVISAR
+cap.6: 207 notas; juez deepseek:deepseek-reasoner; sensibilidad 19/19 = 100%; marcadas 4, quedan 1; extremo superior ajustado 2.7% -> APROBADO
+cap.7: 280 notas; juez deepseek:deepseek-reasoner; sensibilidad 18/18 = 100%; marcadas 5, quedan 1; extremo superior ajustado 2.0% -> APROBADO
+cap.8: 167 notas; juez deepseek:deepseek-reasoner; sensibilidad 17/17 = 100%; marcadas 1, quedan 1; extremo superior ajustado 3.3% -> REVISAR
+cap.9: 354 notas; juez deepseek:deepseek-reasoner; sensibilidad 17/17 = 100%; marcadas 15, quedan 3; extremo superior ajustado 2.5% -> APROBADO
+cap.10: 371 notas; juez deepseek:deepseek-reasoner; sensibilidad 19/19 = 100%; marcadas 12, quedan 3; extremo superior ajustado 2.4% -> REVISAR (sin juzgar 1)
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (11 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+cap.11: JUEZ INCOMPLETO (ningún modelo respondió: {'deepseek:deepseek-chat': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'})
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (7 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+cap.12: 369 notas; juez deepseek:deepseek-reasoner; sensibilidad 18/18 = 100%; marcadas 0, quedan 0; extremo superior ajustado 1.0% -> REVISAR (sin juzgar 271)
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (3 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+  lote sin veredicto (12 pares): ningún modelo respondió: {'deepseek:deepseek-reasoner': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'}
+cap.13: JUEZ INCOMPLETO (ningún modelo respondió: {'deepseek:deepseek-chat': '402 Client Error: Payment Required for url: https://api.deepseek.com/chat/completions'})
+libro HEB: 3485 notas; sensibilidad 229/229 = 100%; pendientes 27; extremo superior ajustado 1.12% -> REVISAR (sin juzgar 586)

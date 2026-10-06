@@ -40,5 +40,61 @@
   ],
   "motivo": "cita de Hebreos 10:19-20 repuesta con el texto de la RV1909 por adjudicación («santuario», «consagró»)",
   "evidencia": "boldness to enter into the Holy place by the blood of Jesus, by the way which he dedicated for us"
+ },
+ "uwtm:33326": {
+  "puntos": [
+   "5 inglés residual"
+  ],
+  "motivo": "el glosario explica condiciones en inglés con sus propias palabras inglesas («even though», «since»): son ejemplos, no restos sin traducir",
+  "evidencia": "In English, a sentence containing a Factual Condition can use the words “even though,” “since,” or “this being the case”"
+ },
+ "uwtm:33256": {
+  "puntos": [
+   "5 inglés residual"
+  ],
+  "motivo": "el glosario enumera los pronombres ingleses como ejemplos (I, we, you, he…)",
+  "evidencia": "English uses the pronouns “I” and “we.” (Also: me, my, mine; us, our, ours)"
+ },
+ "uwtm:33272": {
+  "puntos": [
+   "3 cursivas"
+  ],
+  "motivo": "dos cursivas de énfasis (Image/Idea) quedaron en redonda; texto completo y fiel (leído)",
+  "evidencia": "uses a vineyard (the ⸢Image⸣) to express God’s disappointment (the ⸢Idea⸣)"
+ },
+ "uwtn:259012": {
+  "puntos": [
+   "3 cursivas"
+  ],
+  "motivo": "«coming» (palabra de la ULT) traducido en redonda como verbo («vienen», «venían»); sentido y opciones completos (leído)",
+  "evidencia": "(1) are ⸢coming⸣ for believers … (2) were ⸢coming⸣ from the perspective of those who received the law"
+ },
+ "uwtn-c:259012": {
+  "puntos": [
+   "3 cursivas"
+  ],
+  "motivo": "igual que uwtn:259012: «coming» en redonda, sentido completo (leído)",
+  "evidencia": "(1) are ⸢coming⸣ for believers … (2) were ⸢coming⸣ from the perspective of those who received the law"
+ },
+ "uwtn-c:258193": {
+  "puntos": [
+   "2 números"
+  ],
+  "motivo": "la adjudicación de Claude agrega la referencia a la RV1909 del versículo comentado (2:13 / 9:16) para el lector",
+  "evidencia": "ver revision/adjudicaciones_HEB.json"
+ },
+ "uwtn:258939": {
+  "puntos": [
+   "2 números"
+  ],
+  "motivo": "la adjudicación de Claude agrega la referencia a la RV1909 del versículo comentado (2:13 / 9:16) para el lector",
+  "evidencia": "ver revision/adjudicaciones_HEB.json"
+ },
+ "uwtn-c:258939": {
+  "puntos": [
+   "2 números"
+  ],
+  "motivo": "la adjudicación de Claude agrega la referencia a la RV1909 del versículo comentado (2:13 / 9:16) para el lector",
+  "evidencia": "ver revision/adjudicaciones_HEB.json"
  }
 }

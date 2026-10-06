@@ -36,16 +36,12 @@
  "hcf:Tertullian/Hebrews 9_14#0": {
   "reemplazos": [
    [
-    "y volviera de nuevo al Señor",
-    "y volviera de nuevo, como es natural, al Señor"
-   ],
-   [
     "el mismo Señor de todos, el Verbo",
     "el mismo Señor de todo poder, el Verbo"
    ]
   ],
-  "motivo": "omisión de «of course» (cola del juez); omitía «of all might» (cola del juez)",
-  "evidencia": "and return back again of course to the Lord | the very Lord Himself of all might, the Word and Spirit of the Father"
+  "motivo": "omitía «of all might» (cola del juez); «of course» ya traducido («por supuesto») en la retraducción del corrector",
+  "evidencia": "the very Lord Himself of all might, the Word and Spirit of the Father … return back again of course to the Lord"
  },
  "hcf:Cosmas Indicopleustes/Hebrews 10_19-21#0": {
   "reemplazos": [
@@ -278,5 +274,245 @@
   ],
   "motivo": "cita de Hebreos 4:12 con el texto de la RV1909 (barrido de la clase); la lectura cristológica de Crisóstomo queda en su comentario",
   "evidencia": "\"For the Word of God is quick and powerful and sharper than any two-edged sword.\""
+ },
+ "uwtn-c:258047": {
+  "reemplazos": [
+   [
+    "«El que hace a sus ángeles espíritus, y a sus siervos llama de fuego»",
+    "«El que hace que sus ángeles servidores sean espíritus y llamas de fuego»"
+   ]
+  ],
+  "motivo": "la traducción alternativa combina las dos frases en una sola (cola del juez)",
+  "evidencia": "Alternate translation: «The one who makes his servant angels to be spirits and flames of fire»"
+ },
+ "uwtn-c:258086": {
+  "reemplazos": [
+   [
+    "las palabras ⸢ellos⸣ y ⸢ellos⸣ aquí",
+    "las palabras ⸢los⸣ (complemento) y el sujeto de ⸢serán mudados⸣ aquí"
+   ],
+   [
+    "a qué se refieren ⸢ellos⸣ y ⸢ellos⸣",
+    "a qué se refieren ⸢los⸣ y el sujeto de ⸢serán mudados⸣"
+   ]
+  ],
+  "motivo": "«them» y «they» son dos pronombres distintos; en la RV1909 de 1:12, «los envolverás, y serán mudados» (cola del juez)",
+  "evidencia": "the words ⸢them⸣ and ⸢they⸣ here refer to the “earth” and the “heavens”"
+ },
+ "uwtn-c:258126": {
+  "reemplazos": [
+   [
+    "«por muchas y diversas maravillas»",
+    "«por muchos y diversos milagros»"
+   ]
+  ],
+  "motivo": "«miracles» = «milagros», distinto de «wonders» = «prodigios» en la misma nota (cola del juez)",
+  "evidencia": "Alternate translation: «by many and various miracles»"
+ },
+ "uwtn-c:258193": {
+  "reemplazos": [
+   [
+    "La frase ⸢niños⸣ se refiere",
+    "La frase ⸢hijitos⸣ (RV1909: «los hijos») se refiere"
+   ],
+   [
+    "Ser ⸢niños⸣ que pertenecen",
+    "Ser ⸢hijitos⸣ que pertenecen"
+   ],
+   [
+    "«las personas que son como los niños de Dios»",
+    "«las personas que son como los hijitos de Dios»"
+   ]
+  ],
+  "motivo": "omitía «little» (cola del juez); la RV1909 de 2:13 dice «los hijos»",
+  "evidencia": "The phrase ⸢little children⸣ refers here to everyone who believes … «the people who are like God’s little children»"
+ },
+ "uwtn-c:258192": {
+  "reemplazos": [
+   [
+    "⸢yo y los niños⸣",
+    "⸢yo y los hijitos⸣"
+   ]
+  ],
+  "motivo": "omitía «little» (cola del juez)",
+  "evidencia": "The word ⸢Behold⸣ draws attention to ⸢I and the little children⸣"
+ },
+ "uwtn-c:258219": {
+  "reemplazos": [
+   [
+    "«Como resultado de todo lo que»",
+    "«Como resultado de todo eso»"
+   ]
+  ],
+  "motivo": "traducción alternativa incompleta (cola del juez)",
+  "evidencia": "Alternate translation: «As a result of all that»"
+ },
+ "uwtn-c:258224": {
+  "reemplazos": [
+   [
+    "que son el contenido principal",
+    "que es el contenido principal"
+   ]
+  ],
+  "motivo": "«who is» en singular: el apóstol y pontífice es uno, Jesús (cola del juez)",
+  "evidencia": "the ⸢apostle⸣ and the ⸢high priest⸣ who is the main content of ⸢our confession⸣"
+ },
+ "uwtn-c:258305": {
+  "reemplazos": [
+   [
+    "«oíd su voz» en 3:7",
+    "«si oyereis su voz» en 3:7"
+   ]
+  ],
+  "motivo": "en 3:7 es condicional; texto de la RV1909 (cola del juez)",
+  "evidencia": "See how you translated “hear his voice” in 3:7"
+ },
+ "uwtn-c:258306": {
+  "reemplazos": [
+   [
+    "podría decir «salieron» en lugar de ⸢salgan⸣. Traducción alternativa: «los que han salido»",
+    "podría decir «se fueron» en lugar de ⸢salieron⸣. Traducción alternativa: «los que se fueron»"
+   ]
+  ],
+  "motivo": "la nota opone «gone out» (irse) a «come out» (salir hacia acá) (cola del juez)",
+  "evidencia": "your language might say “gone out” instead of ⸢come out⸣. Alternate translation: «the ones having gone out»"
+ },
+ "uwtn-c:258568": {
+  "reemplazos": [
+   [
+    "«quienes han huido para ser protegidos podamos ser fuertemente animados»",
+    "«nosotros, que hemos huido para ser protegidos, seamos fuertemente animados»"
+   ]
+  ],
+  "motivo": "concordancia de persona (cola del juez); el lema es «we, the ones having fled»",
+  "evidencia": "Alternate translation: «who have fled to be protected might be strongly encouraged»"
+ },
+ "uwtn-c:258626": {
+  "reemplazos": [
+   [
+    "describe el carácter de «Melchisedec»",
+    "describe al personaje «Melchisedec»"
+   ]
+  ],
+  "motivo": "«character» = personaje del relato, no su carácter (cola del juez)",
+  "evidencia": "the author is describing the character “Melchizedek” as he appears in Genesis 14:18–20"
+ },
+ "uwtn-c:258813": {
+  "reemplazos": [
+   [
+    "Aunque ⸢su⸣ y ⸢hermano⸣ son masculinos,",
+    "Aunque ⸢hermano⸣ es masculino (y en griego también ⸢su⸣),"
+   ]
+  ],
+  "motivo": "en español «su» no tiene género (cola del juez)",
+  "evidencia": "Although ⸢his⸣ and ⸢brother⸣ are masculine, they refer to anyone"
+ },
+ "uwtn:258939": {
+  "reemplazos": [
+   [
+    "depende del significado de la palabra ⸢pacto⸣ aquí",
+    "depende del significado de la palabra ⸢testamento⸣ (διαθήκη: «pacto» o «testamento»; la RV1909 de 9:16 dice «testamento») aquí"
+   ]
+  ],
+  "motivo": "la RV1909 de 9:16 traduce διαθήκη «testamento»; la nota discute justamente los dos sentidos (cola del juez)",
+  "evidencia": "depends on the meaning of the word ⸢covenant⸣ here: (1) If the word ⸢covenant⸣ refers to a will or last testament"
+ },
+ "uwtn-c:258939": {
+  "reemplazos": [
+   [
+    "depende del significado de la palabra ⸢pacto⸣ aquí",
+    "depende del significado de la palabra ⸢testamento⸣ (διαθήκη: «pacto» o «testamento»; la RV1909 de 9:16 dice «testamento») aquí"
+   ]
+  ],
+  "motivo": "igual que uwtn:258939 (barrido de la clase en el volumen complementario)",
+  "evidencia": "depends on the meaning of the word ⸢covenant⸣ here"
+ },
+ "uwtn-c:258843": {
+  "reemplazos": [
+   [
+    "El ⸢tabernáculo⸣ aquí debe ser",
+    "La ⸢tienda⸣ aquí debe ser"
+   ]
+  ],
+  "motivo": "«tent» = tienda; el texto decía «el tabernáculo… parte interior del tabernáculo» (cola del juez)",
+  "evidencia": "The ⸢tent⸣ here must therefore be the ⸢second⸣ or inner part of the tabernacle"
+ },
+ "uwtn-c:259097": {
+  "reemplazos": [
+   [
+    "«qué entrada»",
+    "«la cual entrada»"
+   ]
+  ],
+  "motivo": "«which» relativo, no interrogativo (cola del juez)",
+  "evidencia": "Alternate translation: «which entrance»"
+ },
+ "uwtm:33265": {
+  "reemplazos": [
+   [
+    "«útil⸢mente⸣ no»",
+    "«⸢in⸣útil»"
+   ],
+   [
+    "Esto lo hicimos ⸢no⸣ porque tengamos ⸢ninguna⸣ autoridad",
+    "Esto lo hicimos ⸢no⸣ porque ⸢no⸣ tuviésemos autoridad"
+   ],
+   [
+    "¡Y esto fue ⸢no⸣ hecho ⸢sin⸣ juramento!",
+    "¡Y esto ⸢no⸣ se hizo ⸢sin⸣ juramento!"
+   ]
+  ],
+  "motivo": "sufijo negativo mal traducido y doble negación perdida (cola del juez); los ejemplos de palabras negativas se adaptaron al español a propósito",
+  "evidencia": "“use⸢less⸣” … We did this ⸢not⸣ because we have ⸢no⸣ authority … And this was ⸢not⸣ done ⸢without⸣ an oath!"
+ },
+ "uwtm:33267": {
+  "reemplazos": [
+   [
+    "ni ⸢se levantarán⸣ los pecadores ⸢en⸣ la congregación",
+    "ni ⸢se levantarán⸣ los pecadores en la congregación"
+   ]
+  ],
+  "motivo": "«en» no es palabra suplida; en español un solo verbo suple «will … stand» (cola del juez)",
+  "evidencia": "nor ⸢will⸣ sinners ⸢stand⸣ in the assembly of the righteous"
+ },
+ "uwtm:33270": {
+  "reemplazos": [
+   [
+    "Y echado fuera el demonio, el mudo habló; y las gentes se maravillaron, diciendo: Nunca ha sido visto esto de tal manera en Israel.",
+    "Cuando el demonio fue expulsado, el mudo habló. Las multitudes se asombraron y dijeron: «¡Nunca se ha visto esto en Israel!»"
+   ]
+  ],
+  "motivo": "el ejemplo ilustra una exclamación de la ULT: se traduce del inglés, no se reemplaza por la RV1909, que no la tiene (cola del juez; clase «ejemplo ULT reemplazado por la RV1909»)",
+  "evidencia": "The crowds were astonished and said, “This has never been seen before in Israel!” (Matthew 9:33 ULT)"
+ },
+ "uwtm:33291": {
+  "reemplazos": [
+   [
+    "Bendecirá a los que le temen, tanto ⸢a pequeños como a grandes⸣.",
+    "Bendecirá a los que le honran, tanto ⸢a jóvenes como a ancianos⸣."
+   ]
+  ],
+  "motivo": "ejemplo de merismo traducido del inglés; la RV1909 («a los que le temen… pequeños y grandes») no coincide con la explicación (cola del juez; misma clase)",
+  "evidencia": "He will bless those who honor him, both ⸢young and old⸣. (Psalm 115:13)"
+ },
+ "uwtm:33314": {
+  "reemplazos": [
+   [
+    "porque estaban derramadas y esparcidas",
+    "porque estaban angustiadas y desanimadas"
+   ]
+  ],
+  "motivo": "ejemplo traducido del inglés (troubled and discouraged), no reemplazado por la RV1909 (cola del juez; misma clase)",
+  "evidencia": "because they were troubled and discouraged, ⸢like sheep not having a shepherd⸣. (Matthew 9:36)"
+ },
+ "uwtn:259412": {
+  "reemplazos": [
+   [
+    "mirar ⸢nosotros⸣",
+    "mirar⸢nos⸣"
+   ]
+  ],
+  "motivo": "pronombre de objeto: «watch us» = «mirarnos» (revisión en pantalla)",
+  "evidencia": "the ⸢witnesses⸣ could “witness” or watch ⸢us⸣ as we ⸢run⸣ the ⸢race⸣"
  }
 }

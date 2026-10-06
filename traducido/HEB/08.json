@@ -403,5 +403,1624 @@
     "ref": "HEB.8.13"
    }
   ]
+ },
+ "uwtn-c:258735": {
+  "text_es": "La palabra ⸢Ahora⸣ introduce una nueva sección en el argumento del autor. Si fuera útil en su idioma, podría usar una palabra o frase que introduzca una nueva sección, o podría dejar ⸢Ahora⸣ sin traducir. Traducción alternativa: «A continuación»,",
+  "lemas_es": [
+   "Ahora"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a11240fd8d75",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.1"
+   }
+  ]
+ },
+ "uwtn-c:258736": {
+  "text_es": "El autor podría estar refiriéndose implícitamente al ⸢punto⸣ o a la idea más importante en: (1) todo lo que está escribiendo, incluido lo que sigue. Traducción alternativa: «lo más importante de lo que estoy diciendo es esto»; (2) lo que ya ha dicho, sin incluir lo que sigue. Traducción alternativa: «lo más importante de lo que he dicho es esto»",
+  "lemas_es": [
+   "el punto acerca de las cosas que se dicen es esto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8436d74f4b7d",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.1"
+   }
+  ]
+ },
+ "uwtn-c:258737": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en lo que ⸢se dice⸣ y no en la persona que lo dice. Si debe indicar quién realizó la acción, el autor implica que él mismo la realizó. Traducción alternativa: «las cosas que estoy diciendo son estas» o «las cosas que he dicho son estas»",
+  "lemas_es": [
+   "las cosas que se dicen son estas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6380b59cb901",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.1"
+   }
+  ]
+ },
+ "uwtn-c:258738": {
+  "text_es": "La palabra ⸢tal⸣ remite a lo que el autor ya ha dicho acerca de cómo Jesús es sacerdote, en particular las palabras de 7:26–28. Si fuera útil en su idioma, podría hacer más explícita la referencia de ⸢tal⸣. Traducción alternativa: «el tipo de pontífice que he descrito, uno»",
+  "lemas_es": [
+   "tal sumo sacerdote"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "304d90508b33",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.1"
+   }
+  ]
+ },
+ "uwtn-c:258739": {
+  "text_es": "Cuando alguien se sienta ⸢a la diestra⸣ de Dios (⸢la Majestad⸣), esto simboliza el honor, la autoridad y la capacidad de gobernar de esa persona. Si fuera útil en su idioma, podría expresar la idea de manera explícita. Traducción alternativa: «se sentó para reinar a la diestra» o «tomó el lugar de honor y autoridad a la diestra»",
+  "lemas_es": [
+   "se sentó a la diestra"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f0416d08077c",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.1"
+   }
+  ]
+ },
+ "uwtn-c:258740": {
+  "text_es": "La frase ⸢a la diestra⸣ se refiere al lugar junto a la mano derecha de una persona, es decir, el «lado derecho». En la cultura del autor, este lado se asociaba con el honor o la autoridad. Si fuera útil en su idioma, podría referirse al «lado derecho». Asegúrese de que sus lectores entiendan que este lado indica que Jesús tiene honor y autoridad cuando se sienta allí. Traducción alternativa: «al lado derecho del trono» o «en el lugar de honor junto al trono»",
+  "lemas_es": [
+   "a la diestra del trono"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2f2c307d0cf0",
+  "lemas_rv1909": [
+   {
+    "lema": "a la diestra del trono",
+    "ref": "HEB.8.1"
+   }
+  ]
+ },
+ "uwtn-c:258741": {
+  "text_es": "En la cultura del autor, se consideraba reverente evitar decir el nombre de Dios. Aquí el autor usa ⸢Majestad⸣ en lugar del nombre de Dios para seguir esta costumbre e indicar que Dios es poderoso y glorioso. Si fuera útil en su idioma, podría usar una manera reverente de referirse a Dios en su cultura, especialmente si esa manera enfatiza cuán poderoso y glorioso es Dios. Traducción alternativa: «de la gran deidad» o «del Dios glorioso»",
+  "lemas_es": [
+   "de la Majestad"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5f998f7b1a28",
+  "lemas_rv1909": [
+   {
+    "lema": "de la Majestad",
+    "ref": "HEB.8.1"
+   }
+  ]
+ },
+ "uwtn-c:258742": {
+  "text_es": "Muchas personas en la cultura del autor creían que el espacio que llamaban «cielo» contenía múltiples capas o esferas de cielos individuales. Aquí, el autor se refiere a cómo el trono de Dios se puede encontrar ⸢en los cielos⸣. Dado que el autor no incluye detalles acerca de ⸢los cielos⸣, traduzca ⸢cielos⸣ con una palabra o frase que se refiera a todo el espacio celestial, incluida la idea de múltiples cielos si es posible. Traducción alternativa: «en la esfera celestial» o «en los espacios celestiales»",
+  "lemas_es": [
+   "en los cielos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "859bd80804ed",
+  "lemas_rv1909": [
+   {
+    "lema": "en los cielos",
+    "ref": "HEB.8.1"
+   }
+  ]
+ },
+ "uwtn-c:en_tn_HEB_ks94#0": {
+  "text_es": "Estructura y formato\n\n• El Hijo como pontífice (5:1–10:18)\n\n◦ Enseñanza: El ministerio del Hijo (8:1–6)\n\n◦ Enseñanza: El nuevo pacto (8:7–13)\n\nAlgunas traducciones colocan cada línea de poesía más a la derecha que el resto del texto para que sea más fácil de leer. La ULT hace esto con la poesía de 8:8–12, que el autor cita del Antiguo Testamento.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "18b757578a62"
+ },
+ "uwtn-c:en_tn_HEB_ks94#1": {
+  "text_es": "Conceptos religiosos y culturales en este capítulo\n\nNuevo pacto\n\nEn 8:6–13, el autor se refiere a un pacto «segundo», «mejor» y «nuevo». Todas estas frases se refieren al mismo pacto, el que Dios prometió en las palabras que el autor cita de Jeremías 31:31–34. Este nuevo pacto es «mediado» por Jesús el Hijo (8:6), y cuando Dios inició este pacto, el «primer pacto» (el que Dios hizo con los israelitas por medio de Moisés) se volvió «antiguo» u «obsoleto» (8:13). En su traducción, use palabras o frases que se refieran a un acuerdo o contrato formal entre personas o grupos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "13fdcff6fc41"
+ },
+ "uwtn-c:en_tn_HEB_ks94#2": {
+  "text_es": "El santuario celestial\n\nEn 8:1–2, el autor se refiere a cómo Jesús se sentó a la diestra del trono de Dios y es «servidor del lugar santo y del verdadero tabernáculo». Lo más probable es que el autor considere que el trono donde Jesús se sentó está dentro de este santuario celestial. Los eruditos debaten si «lugar santo» y «verdadero tabernáculo» son dos nombres diferentes para la misma cosa o si el «lugar santo» es el área más sagrada dentro del «verdadero tabernáculo». De cualquier manera, estos nombres se refieren al santuario en el cielo donde Jesús actúa como pontífice. Debe referirse al santuario celestial con las mismas palabras que usa para referirse al santuario terrenal.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2a9b9ec8182c"
+ },
+ "uwtn-c:en_tn_HEB_ks94#3": {
+  "text_es": "Cuestiones de traducción en este capítulo\n\nLa «casa» de Israel o de Judá\n\nEn 8:8 y 8:10, la cita se refiere a la «casa» de Israel o de Judá. En este contexto, «casa» se refiere figuradamente a un grupo de personas que están conectadas porque todas descienden de la misma persona o porque todas son gobernadas por el mismo líder. En este caso, ambas cosas son ciertas: la «casa» se refiere a las personas que descienden de Abraham y son gobernadas por un rey. En 8:10, la «casa de Israel» se refiere a todos los israelitas. En 8:8, la «casa de Israel» y la «casa de Judá» se refieren a los dos reinos diferentes en que se dividió el reino original de Israel. En ambos casos, la cita se refiere a todos los israelitas. Considere usar una manera natural de referirse a un grupo de personas que pertenecen juntas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ba27cfe23239"
+ },
+ "uwtn-c:en_tn_HEB_ks94#4": {
+  "text_es": "¿Fue Jesús sacerdote cuando vivió y murió en la tierra?\n\nEn 8:4, el autor argumenta que Jesús no sería sacerdote si estuviera en la tierra. Su base para esta afirmación parece ser que Dios ya ha designado sacerdotes para ofrecer sacrificios en la tierra. Los eruditos debaten con frecuencia si el autor de Hebreos afirma que Jesús sirvió como sacerdote cuando obedeció a Dios durante su vida terrenal y cuando murió en la cruz, o si solo sirvió como sacerdote después de resucitar y ascender al cielo. De cualquier manera, el punto del autor en este versículo es que Jesús no sería sacerdote si estuviera en la tierra ahora mismo. Vea las notas sobre este versículo para maneras de traducir la condición contraria a los hechos. (Ver: Conexión — Condiciones contrarias a los hechos)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "eecf0794d218"
+ },
+ "uwtn-c:en_tn_HEB_ks94#5": {
+  "text_es": "¿Cuál es la «falta» en el primer pacto?\n\nEn 8:7, el autor implica que el «primer pacto» no era «sin falta». Sin embargo, en 8:8, afirma que Dios encuentra «falta» en «ellos», es decir, en los israelitas que recibieron ese pacto. Lo más probable es que la «falta» en el primer pacto fuera que no permitió a los israelitas guardar el pacto y, por lo tanto, fallaron. Esto contrasta con el «nuevo pacto», en el cual Dios pondrá sus leyes en la mente y el corazón de su pueblo. Dado que el pueblo es la «falta» en el primer pacto, no hay necesidad de armonizar estos dos versículos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9573134ee396"
+ },
+ "uwtn:258736": {
+  "text_es": "El autor podría estar refiriéndose implícitamente al ⸢punto⸣ o a la idea más importante en: (1) todo lo que está escribiendo, incluido lo que sigue. («lo más importante de lo que estoy diciendo es esto»); (2) lo que ya ha dicho, sin incluir lo que sigue. («lo más importante de lo que he dicho es esto»)",
+  "lemas_es": [
+   "el punto acerca de las cosas que se dicen es esto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a0bb1bca1a97",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.1"
+   }
+  ]
+ },
+ "uwtn:258739": {
+  "text_es": "Cuando alguien se sienta ⸢a la diestra⸣ de Dios (⸢la Majestad⸣), esto simboliza el honor, la autoridad y la capacidad de gobernar de esa persona.",
+  "lemas_es": [
+   "se sentó a la diestra"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cee87de1ef2d",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.1"
+   }
+  ]
+ },
+ "uwtn:258742": {
+  "text_es": "Muchas personas en la cultura del autor creían que el espacio que llamaban «cielo» contenía múltiples capas o esferas de cielos individuales. Aquí, el autor se refiere a cómo el trono de Dios se puede encontrar ⸢en los cielos⸣.",
+  "lemas_es": [
+   "en los cielos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ba0224c8168d",
+  "lemas_rv1909": [
+   {
+    "lema": "en los cielos",
+    "ref": "HEB.8.1"
+   }
+  ]
+ },
+ "uwtn-c:258743": {
+  "text_es": "El autor usa la forma posesiva para referirse a ⸢un servidor⸣ que sirve en ⸢el lugar santo y el verdadero tabernáculo⸣. Si fuera útil en su idioma, podría expresar la idea sin usar una forma posesiva. Traducción alternativa: «un servidor que pertenece al lugar santo y al verdadero tabernáculo» o «un servidor en el lugar santo y el verdadero tabernáculo»",
+  "lemas_es": [
+   "un servidor del lugar santo y del verdadero tabernáculo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e69f69ae2efd",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.2"
+   }
+  ]
+ },
+ "uwtn-c:258744": {
+  "text_es": "Las frases ⸢lugar santo⸣ y ⸢verdadero tabernáculo⸣ podrían describir: (1) la sala interior del santuario (⸢lugar santo⸣) y todo el santuario (⸢verdadero tabernáculo⸣). Traducción alternativa: «del lugar santo en el verdadero tabernáculo»; (2) todo el santuario desde dos perspectivas diferentes. Traducción alternativa: «del lugar santo, es decir, el verdadero tabernáculo»",
+  "lemas_es": [
+   "del lugar santo y del verdadero tabernáculo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "894719ec07b6",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.2"
+   }
+  ]
+ },
+ "uwtn-c:258745": {
+  "text_es": "La palabra ⸢verdadero⸣ contrasta este ⸢tabernáculo⸣ con el tabernáculo que Dios mandó construir a Moisés. El autor no quiere decir que el tabernáculo de Moisés fuera «falso» o incorrecto. Más bien, quiere decir que este ⸢tabernáculo⸣ (celestial) es más real y eficaz que el tabernáculo de Moisés. Si fuera útil en su idioma, podría usar una palabra o frase que identifique este ⸢tabernáculo⸣ como el más real o eficaz. Traducción alternativa: «tabernáculo más eficaz» o «el tabernáculo que está más cerca de Dios»",
+  "lemas_es": [
+   "el verdadero tabernáculo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "76da2a1611ff",
+  "lemas_rv1909": [
+   {
+    "lema": "verdadero tabernáculo",
+    "ref": "HEB.8.2"
+   }
+  ]
+ },
+ "uwtn-c:258746": {
+  "text_es": "Aunque la palabra ⸢hombre⸣ es masculina, el autor la usa para referirse a cualquier ser humano, sea varón o mujer. Si fuera útil en su idioma, podría usar una palabra que se aplique tanto a hombres como a mujeres, o podría referirse a ambos géneros. Traducción alternativa: «un hombre o una mujer»",
+  "lemas_es": [
+   "un hombre"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "35d4331a4fe2",
+  "lemas_rv1909": [
+   {
+    "lema": "hombre",
+    "ref": "HEB.8.2"
+   }
+  ]
+ },
+ "uwtn:258744": {
+  "text_es": "Las frases ⸢lugar santo⸣ y ⸢verdadero tabernáculo⸣ podrían describir: (1) la sala interior del santuario (⸢lugar santo⸣) y todo el santuario (⸢verdadero tabernáculo⸣). («del lugar santo en el verdadero tabernáculo»); (2) todo el santuario desde dos perspectivas diferentes. («del lugar santo, es decir, el verdadero tabernáculo»)",
+  "lemas_es": [
+   "del lugar santo y del verdadero tabernáculo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "13066fbc3b70",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.2"
+   }
+  ]
+ },
+ "uwtn:258745": {
+  "text_es": "La palabra ⸢verdadero⸣ contrasta este ⸢tabernáculo⸣ con el tabernáculo que Dios mandó construir a Moisés. El autor no quiere decir que el tabernáculo de Moisés fuera «falso» o incorrecto. Más bien, quiere decir que este ⸢tabernáculo⸣ (celestial) es más real y eficaz que el tabernáculo de Moisés.",
+  "lemas_es": [
+   "el verdadero tabernáculo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e99766c6f535",
+  "lemas_rv1909": [
+   {
+    "lema": "verdadero tabernáculo",
+    "ref": "HEB.8.2"
+   }
+  ]
+ },
+ "uwtn-c:258747": {
+  "text_es": "La palabra ⸢Porque⸣ introduce una explicación de lo que el autor ha dicho en 8:1–2 acerca de cómo Cristo es pontífice. Esta explicación continúa en los versículos siguientes y compara y contrasta a Cristo con los sacerdotes levíticos. Si fuera útil en su idioma, podría usar una palabra o frase que introduzca una explicación, o podría dejar ⸢Porque⸣ sin traducir. Traducción alternativa: «Además, todo» o «Ahora diré más acerca de los pontífices: Todo»",
+  "lemas_es": [
+   "Porque todo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3f5e15a8b305",
+  "lemas_rv1909": [
+   {
+    "lema": "Porque todo",
+    "ref": "HEB.8.3"
+   }
+  ]
+ },
+ "uwtn-c:258748": {
+  "text_es": "La frase ⸢todo pontífice⸣ se refiere a todos los descendientes de Leví y Aarón que sirvieron como pontífices. No se refiere a todo pontífice de toda cultura. Si fuera útil en su idioma, podría hacer esta idea más explícita. Traducción alternativa: «todo pontífice israelita»",
+  "lemas_es": [
+   "todo sumo sacerdote"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3b16dde97ae9",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.3"
+   }
+  ]
+ },
+ "uwtn-c:258749": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en aquellos que son ⸢designados⸣ y no en la persona que los designa. Si debe indicar quién realizó la acción, el autor implica que Dios lo hizo. Traducción alternativa: «Dios designa a todo pontífice»",
+  "lemas_es": [
+   "todo sumo sacerdote es designado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ccadff9ec166",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.3"
+   }
+  ]
+ },
+ "uwtn-c:258750": {
+  "text_es": "Las palabras ⸢ofrendas⸣ y ⸢sacrificios⸣ funcionan juntas para referirse a cualquier cosa que un israelita habría ofrecido a Dios. Es probable que ⸢sacrificios⸣ se refiera a animales que se mataban y se ofrecían a Dios, mientras que ⸢ofrendas⸣ identifica cualquier otra cosa que una persona diera a Dios. Si no tiene dos palabras para estas categorías, podría usar una sola palabra o frase para referirse a lo que un israelita ofrecería a Dios. Vea cómo tradujo la misma frase en 5:1. Traducción alternativa: «sacrificios» o «cosas presentadas a Dios»",
+  "lemas_es": [
+   "tanto ofrendas como sacrificios"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "714d5f631309",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.3"
+   }
+  ]
+ },
+ "uwtn-c:258751": {
+  "text_es": "Traducción alternativa: «este también debe tener» o «Dios requiere que este también tenga»",
+  "lemas_es": [
+   "es necesario también que este tenga"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2a55e69f6915",
+  "lemas_rv1909": [
+   {
+    "lema": "es necesario que también este",
+    "ref": "HEB.8.3"
+   }
+  ]
+ },
+ "uwtn-c:258752": {
+  "text_es": "La frase ⸢este⸣ se refiere a Jesús, a quien el autor describió en 8:1–2. Si fuera útil en su idioma, podría aclarar que el pronombre se refiere a Jesús. Traducción alternativa: «este pontífice» o «Jesús, nuestro pontífice»,",
+  "lemas_es": [
+   "este"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "401ef9c6dedf",
+  "lemas_rv1909": [
+   {
+    "lema": "este",
+    "ref": "HEB.8.3"
+   }
+  ]
+ },
+ "uwtn:258748": {
+  "text_es": "La frase ⸢todo pontífice⸣ se refiere a todos los descendientes de Leví y Aarón que sirvieron como pontífices. No se refiere a todo pontífice en toda cultura.",
+  "lemas_es": [
+   "todo sumo sacerdote"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9d416a68abe7",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.3"
+   }
+  ]
+ },
+ "uwtn-c:258753": {
+  "text_es": "La palabra ⸢Ahora⸣ introduce una inferencia basada en la afirmación de que los sacerdotes ofrecen ⸢ofrendas y sacrificios⸣ (8:3). El punto del autor es que Dios ya ha establecido un sacerdocio ⸢en la tierra⸣ que ofrece las ⸢ofrendas⸣ necesarias. Puesto que Jesús no pertenece a ese sacerdocio (ya que no desciende de Leví), no es ⸢sacerdote⸣ en la tierra, sino solo en el cielo. Si fuera útil en su idioma, podría usar una palabra o frase que introduzca una inferencia o un desarrollo. Traducción alternativa: «Como puede ver», o «Por lo tanto»,",
+  "lemas_es": [
+   "Ahora"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1e04db9acf0a",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.4"
+   }
+  ]
+ },
+ "uwtn-c:258754": {
+  "text_es": "El pronombre ⸢él⸣ se refiere a Jesús. Si fuera útil en su idioma, podría usar el nombre Jesús en lugar de ese pronombre. Traducción alternativa: «Jesús estuviera … no sería sacerdote en absoluto»",
+  "lemas_es": [
+   "él estuviera & él no sería sacerdote en absoluto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "04acdc3e14fc",
+  "lemas_rv1909": [
+   {
+    "lema": "estuviese sobre la tierra, ni aun sería sacerdote",
+    "ref": "HEB.8.4"
+   }
+  ]
+ },
+ "uwtn-c:258755": {
+  "text_es": "El autor hace una declaración condicional que suena hipotética, pero ya está convencido de que la condición no es verdadera. Sabe que Jesús no está realmente ⸢en la tierra⸣ en este momento. Usa la declaración que sabe que no es verdadera para mostrar que Jesús solo puede ser pontífice en el cielo y no en la tierra. Use una forma natural en su idioma para introducir una condición que el hablante cree que no es verdadera. Traducción alternativa: «si en verdad él estuviera realmente en la tierra»",
+  "lemas_es": [
+   "si en verdad él estuviera en la tierra"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ff5713d4740c",
+  "lemas_rv1909": [
+   {
+    "lema": "si estuviese sobre la tierra",
+    "ref": "HEB.8.4"
+   }
+  ]
+ },
+ "uwtn-c:258756": {
+  "text_es": "El autor no quiere decir que Jesús nunca estuvo ⸢en la tierra⸣ ni que nunca estará ⸢en la tierra⸣. Más bien, quiere decir que Jesús no está ⸢en la tierra⸣ en este momento, porque ha ascendido al cielo (véase 8:1). Si fuera útil en su idioma, podría expresar esta idea con más claridad. Traducción alternativa: «él estuviera actualmente en la tierra» o «él estuviera ahora en la tierra en lugar de en el cielo»",
+  "lemas_es": [
+   "él estuviera en la tierra"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "126936d2f02b",
+  "lemas_rv1909": [
+   {
+    "lema": "estuviese sobre la tierra",
+    "ref": "HEB.8.4"
+   }
+  ]
+ },
+ "uwtn-c:258757": {
+  "text_es": "La frase ⸢puesto que hay⸣ introduce la razón por la que Jesús ⸢no sería sacerdote en absoluto⸣ si estuviera ⸢en la tierra⸣ en este momento. El punto del autor es que Dios ya ha designado sacerdotes que sirven en la tierra y Jesús no es uno de ellos. Por lo tanto, no es sacerdote ⸢en la tierra⸣. Si fuera útil en su idioma, podría aclarar mejor que la frase ⸢puesto que hay los que ofrecen⸣ da la razón de la afirmación del autor. Traducción alternativa: «porque los que ofrecen las ofrendas según la ley ya existen»",
+  "lemas_es": [
+   "puesto que hay los que ofrecen las ofrendas según la ley"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f6f0e3977aff",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.4"
+   }
+  ]
+ },
+ "uwtn-c:258758": {
+  "text_es": "El autor se refiere a los sacerdotes que descienden de Leví, quienes ofrecen ⸢ofrendas⸣ y «sacrificios» como Dios les mandó hacer por medio de Moisés. Si fuera útil en su idioma, podría expresar esta idea con más claridad. Traducción alternativa: «puesto que los sacerdotes levíticos ofrecen las ofrendas según la ley de Moisés»",
+  "lemas_es": [
+   "puesto que hay los que ofrecen las ofrendas según la ley"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d38076529685",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.4"
+   }
+  ]
+ },
+ "uwtn:258756": {
+  "text_es": "El autor no quiere decir que Jesús nunca estuvo ⸢en la tierra⸣ ni que nunca estará ⸢en la tierra⸣. Más bien, quiere decir que Jesús no está ⸢en la tierra⸣ en este momento, porque ha ascendido al cielo (véase 8:1).",
+  "lemas_es": [
+   "él estuviera en la tierra"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "747ec38dcd1d",
+  "lemas_rv1909": [
+   {
+    "lema": "estuviese sobre la tierra",
+    "ref": "HEB.8.4"
+   }
+  ]
+ },
+ "uwtn:258758": {
+  "text_es": "El autor se refiere a los sacerdotes que descienden de Leví, quienes ofrecen ⸢ofrendas⸣ y «sacrificios» como Dios les mandó hacer por medio de Moisés.",
+  "lemas_es": [
+   "puesto que hay los que ofrecen las ofrendas según la ley"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a198ef88d773",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.4"
+   }
+  ]
+ },
+ "uwtn-c:258759": {
+  "text_es": "Las palabras ⸢ejemplo⸣ y ⸢sombra⸣ funcionan juntas para describir algo que se basa en otra cosa. Es probable que ⸢ejemplo⸣ enfatice la manera en que la «copia» ilustra cómo es el «original», mientras que ⸢sombra⸣ enfatiza cómo la «copia» no es tan real o buena como el «original». Si no tiene dos palabras para estas categorías, podría usar una sola palabra o frase para referirse a algo que se basa en otra cosa. Traducción alternativa: «una copia» o «una versión imperfecta»",
+  "lemas_es": [
+   "un ejemplo y una sombra"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "61b9fe4416c3",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.5"
+   }
+  ]
+ },
+ "uwtn-c:258760": {
+  "text_es": "La frase ⸢cosas celestiales⸣ se refiere específicamente al santuario celestial, «el verdadero tabernáculo» al que el autor se refirió en 8:2. Si fuera útil en su idioma, podría expresar esta idea con más claridad. Traducción alternativa: «del tabernáculo celestial»",
+  "lemas_es": [
+   "de las cosas celestiales"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0ac78b69c417",
+  "lemas_rv1909": [
+   {
+    "lema": "de las cosas celestiales",
+    "ref": "HEB.8.5"
+   }
+  ]
+ },
+ "uwtn-c:258761": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en ⸢Moisés⸣, quien fue ⸢advertido⸣, y no en la persona que advirtió. Si debe indicar quién realizó la acción, el autor implica que Dios lo hizo. Traducción alternativa: «Dios advirtió a Moisés cuando estaba a punto»",
+  "lemas_es": [
+   "Moisés había sido advertido, estando a punto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "528fa8e28b80",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.5"
+   }
+  ]
+ },
+ "uwtn-c:258762": {
+  "text_es": "La frase ⸢estando a punto⸣ introduce algo que sucedió al mismo tiempo que ⸢Moisés⸣ fue ⸢advertido⸣. Si fuera útil en su idioma, podría aclarar mejor esta relación. Traducción alternativa: «en el momento en que estaba a punto»",
+  "lemas_es": [
+   "estando a punto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c4693e617018",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.5"
+   }
+  ]
+ },
+ "uwtn-c:258763": {
+  "text_es": "El autor se refiere a cómo Dios reveló a Moisés cómo debía ser el ⸢tabernáculo⸣, el santuario que los israelitas usaban cuando estaban en el desierto. Moisés luego dijo a los israelitas cómo ⸢completar el tabernáculo⸣. Puede leer las instrucciones que Dios dio a Moisés acerca del tabernáculo y su servicio en Éxodo 25–30. Si fuera útil en su idioma, podría expresar esta idea con más claridad. Traducción alternativa: «cuando él y los israelitas iban a construir el tabernáculo»",
+  "lemas_es": [
+   "estando a punto de completar el tabernáculo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7801c16dfe4b",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.5"
+   }
+  ]
+ },
+ "uwtn-c:258764": {
+  "text_es": "El autor cita de la Escritura del Antiguo Testamento. No introduce las palabras como una cita, sino como algo que Dios dijo a Moisés. Sin embargo, la audiencia habría entendido que estas eran palabras del Antiguo Testamento, específicamente de Éxodo 25:40. Si sus lectores no supieran que esta cita es del Antiguo Testamento, podría incluir una nota al pie o usar alguna otra forma de identificarla. Traducción alternativa: «como Dios dice»",
+  "lemas_es": [
+   "porque él dice"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e09862d8644c",
+  "lemas_rv1909": [
+   {
+    "lema": "el tabernáculo: Mira, dice",
+    "ref": "HEB.8.5"
+   }
+  ]
+ },
+ "uwtn-c:258765": {
+  "text_es": "Puesto que Dios habla a una sola persona (Moisés), ⸢tú⸣ es singular aquí.",
+  "lemas_es": [
+   "Mira que harás & a ti"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "61b271c42665",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.5"
+   }
+  ]
+ },
+ "uwtn-c:258766": {
+  "text_es": "Dios usaba la frase ⸢Mira que⸣ para llamar la atención sobre el mandato que seguía. Dios no quería decir que Moisés debía literalmente ⸢mirar⸣ con sus ojos. Si fuera útil en su idioma, podría usar una frase comparable que llame la atención sobre un mandato. Traducción alternativa: «Asegúrate de que»",
+  "lemas_es": [
+   "Mira que"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "af327c97a4a7",
+  "lemas_rv1909": [
+   {
+    "lema": "Mira",
+    "ref": "HEB.8.5"
+   }
+  ]
+ },
+ "uwtn-c:258767": {
+  "text_es": "La palabra ⸢todo⸣ identifica todas las características del tabernáculo. No se refiere a ⸢todo⸣ lo que existe ni a ⸢todo⸣ lo que Moisés hizo. Si fuera útil en su idioma, podría aclarar que la palabra ⸢todo⸣ se refiere a ⸢todo⸣ lo relacionado con el tabernáculo. Traducción alternativa: «todo el tabernáculo»",
+  "lemas_es": [
+   "todo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c002bf34081b",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.5"
+   }
+  ]
+ },
+ "uwtn-c:258768": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en el ⸢modelo⸣ que fue ⸢mostrado⸣ y no en la persona que lo mostró. Si debe indicar quién realizó la acción, el autor implica que Dios lo hizo. Traducción alternativa: «que yo mostré»",
+  "lemas_es": [
+   "que fue mostrado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2b02eac6f9f4",
+  "lemas_rv1909": [
+   {
+    "lema": "mostrado",
+    "ref": "HEB.8.5"
+   }
+  ]
+ },
+ "uwtn-c:258769": {
+  "text_es": "La palabra ⸢monte⸣ se refiere al monte Sinaí. Moisés subió a este monte para encontrarse con Dios y recibir las promesas y los mandatos de Dios para los israelitas. Puede leer acerca de Moisés subiendo al monte Sinaí en Éxodo 19 y Éxodo 24. Si fuera útil en su idioma, podría hacer esta idea más explícita. Traducción alternativa: «en el monte Sinaí» o «cuando te hablé en el monte Sinaí»",
+  "lemas_es": [
+   "en el monte"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1aa49cc8b80b",
+  "lemas_rv1909": [
+   {
+    "lema": "en el monte",
+    "ref": "HEB.8.5"
+   }
+  ]
+ },
+ "uwtn:258760": {
+  "text_es": "La frase ⸢cosas celestiales⸣ se refiere específicamente al santuario celestial, «el verdadero tabernáculo» al que el autor se refirió en 8:2.",
+  "lemas_es": [
+   "de las cosas celestiales"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "89d01cfe5b88",
+  "lemas_rv1909": [
+   {
+    "lema": "de las cosas celestiales",
+    "ref": "HEB.8.5"
+   }
+  ]
+ },
+ "uwtn:258763": {
+  "text_es": "El autor se refiere a cómo Dios reveló a Moisés cómo debía ser el ⸢tabernáculo⸣, el santuario que los israelitas usaban cuando estaban en el desierto. Moisés luego dijo a los israelitas cómo ⸢completar el tabernáculo⸣.",
+  "lemas_es": [
+   "estando a punto de completar el tabernáculo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ab496219fafd",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.5"
+   }
+  ]
+ },
+ "uwtn:258767": {
+  "text_es": "La palabra ⸢todo⸣ identifica todas las características del tabernáculo. No se refiere a ⸢todo⸣ lo que existe ni a ⸢todo⸣ lo que Moisés hizo.",
+  "lemas_es": [
+   "todo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a327e7d22655",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.5"
+   }
+  ]
+ },
+ "uwtn:258769": {
+  "text_es": "La palabra ⸢monte⸣ se refiere al monte Sinaí. Moisés subió a este monte para encontrarse con Dios y recibir las promesas y los mandatos de Dios para los israelitas.",
+  "lemas_es": [
+   "en el monte"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "baa3694b43d1",
+  "lemas_rv1909": [
+   {
+    "lema": "en el monte",
+    "ref": "HEB.8.5"
+   }
+  ]
+ },
+ "uwtn-c:258770": {
+  "text_es": "La frase ⸢Pero ahora⸣ introduce lo que es verdadero, en contraste con la situación hipotética que el autor presentó en 8:4. La palabra ⸢ahora⸣ no se refiere al tiempo aquí. Si fuera útil en su idioma, podría usar una palabra o frase que introduzca la realidad en contraste con una situación hipotética. Traducción alternativa: «En realidad, sin embargo», o «Como realmente es»,",
+  "lemas_es": [
+   "Pero ahora"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a3a79d849bab",
+  "lemas_rv1909": [
+   {
+    "lema": "ahora",
+    "ref": "HEB.8.6"
+   }
+  ]
+ },
+ "uwtn-c:258771": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea detrás de ⸢ministerio⸣, podría expresar la idea usando un verbo como «ministrar» o «servir». Traducción alternativa: «cómo ministra de una manera muy superior»",
+  "lemas_es": [
+   "un ministerio muy superior"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7b5c53cb4548",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.6"
+   }
+  ]
+ },
+ "uwtn-c:258772": {
+  "text_es": "La audiencia habría inferido que el ⸢ministerio⸣, el ⸢pacto⸣ y las ⸢promesas⸣ son ⸢superiores⸣ o ⸢mejores⸣ que el antiguo ministerio, pacto y promesas, los que Dios dio por medio de Moisés a los israelitas. Si fuera útil en su idioma, podría hacer esta idea más explícita. Traducción alternativa: «un ministerio muy superior al ministerio de los levitas … de un pacto que es mejor que el que Dios hizo con los israelitas … promesas que son mejores que las que Dios hizo por medio de Moisés»",
+  "lemas_es": [
+   "un ministerio muy superior & de un mejor pacto & mejores promesas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "99d0c8feaa16",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.6"
+   }
+  ]
+ },
+ "uwtn-c:258773": {
+  "text_es": "La frase ⸢en tanto que⸣ indica que la diferencia entre el ⸢ministerio muy superior⸣ de Jesús y el ministerio de los sacerdotes levíticos es la misma que la diferencia entre el ⸢mejor pacto⸣ y el pacto que Dios hizo con Israel. Si fuera útil en su idioma, podría usar una palabra o frase que introduzca una comparación. Traducción alternativa: «tan superior como el pacto del cual él es mediador es mejor»",
+  "lemas_es": [
+   "en tanto que él es también el mediador de un mejor pacto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8ecd23be1ab3",
+  "lemas_rv1909": [
+   {
+    "lema": "tanto mejor ministerio es el suyo, cuanto es mediador de un mejor pacto",
+    "ref": "HEB.8.6"
+   }
+  ]
+ },
+ "uwtn-c:258774": {
+  "text_es": "El autor usa la forma posesiva para describir cómo Jesús funciona como el ⸢mediador⸣ del ⸢mejor pacto⸣. Si fuera útil en su idioma, podría expresar la idea sin usar una forma posesiva. Traducción alternativa: «el que media un mejor pacto»",
+  "lemas_es": [
+   "el mediador de un mejor pacto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "38a4342bc8f7",
+  "lemas_rv1909": [
+   {
+    "lema": "mediador de un mejor pacto",
+    "ref": "HEB.8.6"
+   }
+  ]
+ },
+ "uwtn-c:258775": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en el ⸢pacto⸣ que ⸢ha sido legislado⸣ en lugar de en la persona que legisla. Si debe indicar quién realizó la acción, el autor implica que Dios lo hizo. Traducción alternativa: «el cual Dios ha legislado»",
+  "lemas_es": [
+   "el cual ha sido legislado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8702608cb427",
+  "lemas_rv1909": [
+   {
+    "lema": "el cual ha sido",
+    "ref": "HEB.8.6"
+   }
+  ]
+ },
+ "uwtn-c:258776": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea detrás de ⸢promesas⸣, podría expresar la idea usando un verbo como «prometer» o «comprometer». Traducción alternativa: «sobre las cosas mejores que Dios ha prometido»",
+  "lemas_es": [
+   "sobre mejores promesas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "56c5c52c26fc",
+  "lemas_rv1909": [
+   {
+    "lema": "sobre mejores promesas",
+    "ref": "HEB.8.6"
+   }
+  ]
+ },
+ "uwtn:258772": {
+  "text_es": "La audiencia habría inferido que el ⸢ministerio⸣, el ⸢pacto⸣ y las ⸢promesas⸣ son ⸢superiores⸣ o ⸢mejores⸣ que el antiguo ministerio, pacto y promesas, los que Dios dio por medio de Moisés a los israelitas.",
+  "lemas_es": [
+   "un ministerio mucho más excelente y de un mejor pacto y mejores promesas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0bd085e4dce1",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.6"
+   }
+  ]
+ },
+ "uwtn-c:258777": {
+  "text_es": "La palabra ⸢Porque⸣ introduce apoyo para lo que el autor ha afirmado acerca de cómo el pacto que Jesús media es «mejor» (Ver: 8:6). Si fuera útil en su idioma, podría usar una palabra o frase comparable que introduzca apoyo para una afirmación. Traducción alternativa: «Puede saber que el segundo pacto es mayor porque»",
+  "lemas_es": [
+   "Porque"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5f276a0aacfd",
+  "lemas_rv1909": [
+   {
+    "lema": "Porque",
+    "ref": "HEB.8.7"
+   }
+  ]
+ },
+ "uwtn-c:258778": {
+  "text_es": "El autor hace una declaración condicional que suena hipotética, pero ya está convencido de que la condición no es verdadera. Sabe que el ⸢primer pacto⸣ no era ⸢irreprensible⸣. Demuestra que la declaración condicional no es verdadera al señalar que Dios estableció un ⸢segundo⸣ pacto. Use una forma natural en su idioma para introducir una condición que el hablante cree que no es verdadera. Traducción alternativa: «si aquel primer pacto hubiera sido realmente irreprensible»",
+  "lemas_es": [
+   "si aquel primer pacto hubiera sido irreprensible"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "62d26a9ccbfa",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.7"
+   }
+  ]
+ },
+ "uwtn-c:258779": {
+  "text_es": "Si su idioma no usa números ordinales, puede usar números cardinales aquí. Traducción alternativa: «pacto uno … para un pacto dos» o «pacto anterior … para un pacto posterior»",
+  "lemas_es": [
+   "primer pacto y para un segundo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ac45ae024fbf",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.7"
+   }
+  ]
+ },
+ "uwtn-c:258780": {
+  "text_es": "Las palabras ⸢primero⸣ y ⸢segundo⸣ se refieren a dos pactos que Dios hizo. El ⸢primer⸣ pacto es el que Dios hizo con los israelitas por medio de Moisés. Fue hecho antes del ⸢segundo⸣ pacto, que es el que Dios hace con su pueblo por medio de Jesús. Si fuera útil en su idioma, podría hacer esta idea más explícita. Traducción alternativa: «el pacto que Dios hizo con su pueblo al principio … para otro pacto posterior»",
+  "lemas_es": [
+   "aquel primer pacto y para un segundo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6c803b6a78f0",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.7"
+   }
+  ]
+ },
+ "uwtn-c:258781": {
+  "text_es": "El autor habla como si Dios hubiera buscado literalmente un ⸢lugar⸣ para poner un ⸢segundo⸣ pacto. Quiere decir que Dios no habría hecho un segundo pacto. Si fuera más claro en su idioma, podría expresar el significado de forma sencilla. Traducción alternativa: «Dios no habría hecho un segundo»",
+  "lemas_es": [
+   "no se habría buscado lugar para un segundo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f474ffb7ef69",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.7"
+   }
+  ]
+ },
+ "uwtn-c:258782": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en el ⸢lugar⸣ que es ⸢buscado⸣ en lugar de en la persona que busca. Si debe indicar quién realizó la acción, podría usar un sujeto indefinido. Traducción alternativa: «nadie habría buscado un lugar»",
+  "lemas_es": [
+   "no se habría buscado lugar"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ff2adc5aa95a",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.7"
+   }
+  ]
+ },
+ "uwtn:258780": {
+  "text_es": "Las palabras ⸢primero⸣ y ⸢segundo⸣ se refieren a dos pactos que Dios hizo. El ⸢primer⸣ pacto es el que Dios hizo con los israelitas por medio de Moisés. Fue hecho antes del ⸢segundo⸣ pacto, que es el que Dios hace con su pueblo por medio de Jesús.",
+  "lemas_es": [
+   "aquel primer pacto y para un segundo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1af4dc304689",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.7"
+   }
+  ]
+ },
+ "uwtn-c:258783": {
+  "text_es": "La palabra ⸢Porque⸣ introduce apoyo para lo que el autor ha afirmado acerca de cómo el primer pacto no era «irreprensible» (Ver: 8:7). Si fuera útil en su idioma, podría usar una palabra o frase comparable que introduzca apoyo para una afirmación. Traducción alternativa: «Sabemos que el primer pacto no era irreprensible porque»",
+  "lemas_es": [
+   "Porque"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5c814ade4ab2",
+  "lemas_rv1909": [
+   {
+    "lema": "Porque",
+    "ref": "HEB.8.8"
+   }
+  ]
+ },
+ "uwtn-c:258784": {
+  "text_es": "La palabra ⸢ellos⸣ se refiere a las personas con quienes Dios hizo el «primer pacto»: el pueblo de Israel. El autor puede referirse específicamente a las personas que Dios sacó de Egipto, o puede referirse a todo el pueblo que vivió bajo el «primer pacto». Si fuera útil en su idioma, podría aclarar a quiénes se refiere ⸢ellos⸣. Traducción alternativa: «con los antepasados israelitas» o «con el pueblo de Israel»",
+  "lemas_es": [
+   "con ellos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "487072b47e13",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.8"
+   }
+  ]
+ },
+ "uwtn-c:258785": {
+  "text_es": "Aquí y en los siguientes cuatro versículos, el autor cita de las Escrituras del Antiguo Testamento. No introduce las palabras como una cita, sino que las introduce como palabras que Dios ha hablado. Sin embargo, la audiencia habría entendido que esto era una cita del Antiguo Testamento, específicamente de Jeremías 31:31–34. Si sus lectores no supieran que la cita es del Antiguo Testamento, podría incluir una nota al pie o usar alguna otra forma para identificarla. Traducción alternativa: «Dios dijo»",
+  "lemas_es": [
+   "dice"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "276cc9f9f68f",
+  "lemas_rv1909": [
+   {
+    "lema": "dice",
+    "ref": "HEB.8.8"
+   }
+  ]
+ },
+ "uwtn-c:258786": {
+  "text_es": "El ⸢Señor⸣ usa el término ⸢He aquí⸣ para centrar la atención de la audiencia en lo que está a punto de decir. Su idioma puede tener una expresión comparable que pueda usar en su traducción. Traducción alternativa: «¡Escuchen! Días»",
+  "lemas_es": [
+   "He aquí, días"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4c80a0498f0c",
+  "lemas_rv1909": [
+   {
+    "lema": "He aquí vienen días",
+    "ref": "HEB.8.8"
+   }
+  ]
+ },
+ "uwtn-c:258787": {
+  "text_es": "La cláusula ⸢días vienen⸣ indica que algún acontecimiento va a suceder pronto. Si fuera útil en su idioma, podría usar una palabra o frase que anticipe que algo está a punto de suceder. Traducción alternativa: «el tiempo pronto estará aquí» o «es casi el momento»",
+  "lemas_es": [
+   "días vienen"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9775d17ffb92",
+  "lemas_rv1909": [
+   {
+    "lema": "vienen días",
+    "ref": "HEB.8.8"
+   }
+  ]
+ },
+ "uwtn-c:258788": {
+  "text_es": "El autor hace que Dios hable de sí mismo en tercera persona. Usa esta forma porque la cita usa la tercera persona para hablar de Dios y el autor afirma que Dios pronuncia la cita. Si fuera útil en su idioma, podría aclarar que Dios está hablando de sí mismo. Traducción alternativa: «Yo, el Señor, digo»",
+  "lemas_es": [
+   "dice el Señor"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "01a2713916b6",
+  "lemas_rv1909": [
+   {
+    "lema": "dice el Señor",
+    "ref": "HEB.8.8"
+   }
+  ]
+ },
+ "uwtn-c:258789": {
+  "text_es": "La palabra ⸢casa⸣ se refiere a un grupo de personas. La ⸢casa de Israel⸣ se refiere al grupo de personas que vivían en el país de Israel, y la ⸢casa de Judá⸣ se refiere al grupo de personas que vivían en el país de Judá. Si fuera útil en su idioma, podría expresar el significado de forma sencilla. Traducción alternativa: «el pueblo de Israel y con el pueblo de Judá»",
+  "lemas_es": [
+   "la casa de Israel y con la casa de Judá"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "744f84c29095",
+  "lemas_rv1909": [
+   {
+    "lema": "casa de Israel y para con la casa de Judá",
+    "ref": "HEB.8.8"
+   }
+  ]
+ },
+ "uwtn-c:258790": {
+  "text_es": "Dios se refiere a los dos reinos en los que vivían los israelitas. La zona del norte se llamaba ⸢Israel⸣ y la zona del sur se llamaba ⸢Judá⸣. Cuando David y Salomón reinaron como reyes, estas dos zonas juntas formaban un solo reino. Después de que Salomón murió, la zona del norte se rebeló y creó su propio reino. Dios se refiere a ambos reinos porque quiere que la audiencia sepa que está haciendo este ⸢nuevo pacto⸣ con todo su pueblo. Si fuera útil en su idioma, podría hacer esta idea más explícita. Traducción alternativa: «las casas tanto de Israel como de Judá» o «con todo mi pueblo, incluida la casa de Israel y la casa de Judá»",
+  "lemas_es": [
+   "la casa de Israel y con la casa de Judá"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "daa3dd43b216",
+  "lemas_rv1909": [
+   {
+    "lema": "casa de Israel y para con la casa de Judá",
+    "ref": "HEB.8.8"
+   }
+  ]
+ },
+ "uwtn:258790": {
+  "text_es": "Dios se refiere a los dos reinos en los que vivían los israelitas. La zona del norte se llamaba ⸢Israel⸣ y la zona del sur se llamaba ⸢Judá⸣. Cuando David y Salomón reinaron como reyes, estas dos zonas juntas formaban un solo reino. Después de que Salomón murió, la zona del norte se rebeló y creó su propio reino. Dios se refiere a ambos reinos porque quiere que la audiencia sepa que está haciendo este ⸢nuevo pacto⸣ con todo su pueblo.",
+  "lemas_es": [
+   "la casa de Israel y con la casa de Judá"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c1113511bc5f",
+  "lemas_rv1909": [
+   {
+    "lema": "casa de Israel y para con la casa de Judá",
+    "ref": "HEB.8.8"
+   }
+  ]
+ },
+ "uwtn-c:258791": {
+  "text_es": "La frase ⸢sus padres⸣ se refiere a los israelitas que vivieron antes de que Jesús viviera en la tierra. La audiencia de la cita original eran israelitas descendientes de estas personas. Use una palabra o frase que se refiera a los antepasados. Traducción alternativa: «con sus antepasados»",
+  "lemas_es": [
+   "con sus padres"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ce17a5cc5158",
+  "lemas_rv1909": [
+   {
+    "lema": "con sus padres",
+    "ref": "HEB.8.9"
+   }
+  ]
+ },
+ "uwtn-c:258792": {
+  "text_es": "La frase ⸢en el día⸣ se refiere a un período de tiempo específico e importante. No se refiere necesariamente a un solo período de 24 horas. Si fuera útil en su idioma, podría usar una palabra o frase que se refiera a un período de tiempo específico. Traducción alternativa: «durante el tiempo en que tomé»",
+  "lemas_es": [
+   "en el día en que tomé"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "210cf003fffd",
+  "lemas_rv1909": [
+   {
+    "lema": "el día que los tomé",
+    "ref": "HEB.8.9"
+   }
+  ]
+ },
+ "uwtn-c:258793": {
+  "text_es": "Dios se refiere a cómo libró a los israelitas de la esclavitud en Egipto. Puede leer la historia en Éxodo 5–14. Si fuera útil en su idioma, podría hacer esta idea más explícita. Traducción alternativa: «cuando tomé su mano para sacarlos de la tierra de Egipto, donde estaban esclavizados»",
+  "lemas_es": [
+   "cuando tomé su mano para sacarlos de la tierra de Egipto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "efc6b8257090",
+  "lemas_rv1909": [
+   {
+    "lema": "tomé por la mano para sacarlos de la tierra de Egipto",
+    "ref": "HEB.8.9"
+   }
+  ]
+ },
+ "uwtn-c:258794": {
+  "text_es": "Dios habla como si sostuviera la ⸢mano⸣ de todos los israelitas y los «sacara» de Egipto. El autor habla así para enfatizar cuánto cuidó Dios de los israelitas, tal como un padre lleva a un niño de la ⸢mano⸣ para asegurarse de que el niño no se pierda. Si fuera útil en su idioma, podría expresar el significado de forma sencilla. Traducción alternativa: «cuando los levanté y los llevé» o «cuando tiernamente los rescaté»",
+  "lemas_es": [
+   "cuando tomé su mano para guiarlos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "21366b50b707",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.9"
+   }
+  ]
+ },
+ "uwtn-c:258795": {
+  "text_es": "La palabra ⸢mano⸣ es un sustantivo singular que se refiere a las «manos» de todos los israelitas. Puede ser más natural en su idioma usar una forma plural. Traducción alternativa: «sus manos» o «las manos de cada uno de ellos»",
+  "lemas_es": [
+   "su mano"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "94471b49b7aa",
+  "lemas_rv1909": [
+   {
+    "lema": "mano",
+    "ref": "HEB.8.9"
+   }
+  ]
+ },
+ "uwtn-c:258796": {
+  "text_es": "La palabra ⸢porque⸣ introduce la razón por la que el «nuevo pacto» no será como el antiguo. Si fuera útil en su idioma, podría aclarar qué apoya ⸢porque⸣. Traducción alternativa: «la razón de lo cual es que»",
+  "lemas_es": [
+   "porque"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b81ab00f8f7a",
+  "lemas_rv1909": [
+   {
+    "lema": "porque",
+    "ref": "HEB.8.9"
+   }
+  ]
+ },
+ "uwtn-c:258797": {
+  "text_es": "La frase ⸢permanecieron en mi pacto⸣ se refiere a hacer lo que el ⸢pacto⸣ requiere. Si fuera útil en su idioma, podría usar una frase que se refiera a cumplir los términos de un acuerdo. Traducción alternativa: «no hicieron lo que el pacto requería»",
+  "lemas_es": [
+   "no permanecieron en mi pacto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9bfdbbdff547",
+  "lemas_rv1909": [
+   {
+    "lema": "no permanecieron en mi pacto",
+    "ref": "HEB.8.9"
+   }
+  ]
+ },
+ "uwtn-c:258798": {
+  "text_es": "La cláusula ⸢no me cuidé de ellos⸣ se refiere a cómo Dios dejó de cuidar a los antepasados israelitas. El punto es que no los ayudó ni los asistió. Si fuera útil en su idioma, podría usar una expresión equivalente o usar lenguaje sencillo. Traducción alternativa: «y dejé de ayudarlos» o «no los asistí»",
+  "lemas_es": [
+   "y no me cuidé de ellos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d1a115cd9d92",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.9"
+   }
+  ]
+ },
+ "uwtn-c:258799": {
+  "text_es": "Aquí, igual que en 8:8, el autor hace que Dios hable de sí mismo en tercera persona. Usa esta forma porque la cita usa la tercera persona para hablar de Dios y el autor afirma que Dios pronuncia la cita. Si fuera útil en su idioma, podría aclarar que Dios está hablando de sí mismo. Traducción alternativa: «Yo, el Señor, digo»",
+  "lemas_es": [
+   "dice el Señor"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "89720cf075c8",
+  "lemas_rv1909": [
+   {
+    "lema": "dice el Señor",
+    "ref": "HEB.8.9"
+   }
+  ]
+ },
+ "uwtn:258791": {
+  "text_es": "La frase ⸢sus padres⸣ se refiere a los israelitas que vivieron antes de que Jesús viviera en la tierra. La audiencia de la cita original eran israelitas descendientes de estas personas.",
+  "lemas_es": [
+   "con sus padres"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4cc771f44786",
+  "lemas_rv1909": [
+   {
+    "lema": "con sus padres",
+    "ref": "HEB.8.9"
+   }
+  ]
+ },
+ "uwtn:258793": {
+  "text_es": "Dios se refiere a cómo libró a los israelitas de la esclavitud en Egipto.",
+  "lemas_es": [
+   "cuando tomé su mano para sacarlos de la tierra de Egipto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "73b3893436ee",
+  "lemas_rv1909": [
+   {
+    "lema": "tomé por la mano para sacarlos de la tierra de Egipto",
+    "ref": "HEB.8.9"
+   }
+  ]
+ },
+ "uwtn:258795": {
+  "text_es": "La palabra ⸢mano⸣ es un sustantivo singular que se refiere a las «manos» de todos los israelitas.",
+  "lemas_es": [
+   "su mano"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6258bb7eae06",
+  "lemas_rv1909": [
+   {
+    "lema": "mano",
+    "ref": "HEB.8.9"
+   }
+  ]
+ },
+ "uwtn-c:258800": {
+  "text_es": "La palabra ⸢Porque⸣ introduce una descripción del nuevo pacto en contraste con el antiguo pacto que Dios describió en 8:9. Esta descripción del nuevo pacto continúa hasta 8:11–12. Si fuera útil en su idioma, podría usar una palabra o frase comparable que introduzca una descripción que contraste con una descripción anterior. Traducción alternativa: «Pero» o «Ahora»",
+  "lemas_es": [
+   "Porque"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "346995887846",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.10"
+   }
+  ]
+ },
+ "uwtn-c:258801": {
+  "text_es": "Traducción alternativa: «Estableceré»",
+  "lemas_es": [
+   "Pactaré"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "13a3228f45d1",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.10"
+   }
+  ]
+ },
+ "uwtn-c:258802": {
+  "text_es": "La palabra ⸢casa⸣ se refiere a un grupo de personas. Así, la frase ⸢la casa de Israel⸣ se refiere a todos los que Dios considera parte del pueblo de ⸢Israel⸣. Si fuera útil en su idioma, podría expresar el significado de manera clara. Traducción alternativa: «con el pueblo de Israel»",
+  "lemas_es": [
+   "con la casa de Israel"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2e918f04337d",
+  "lemas_rv1909": [
+   {
+    "lema": "la casa de Israel",
+    "ref": "HEB.8.10"
+   }
+  ]
+ },
+ "uwtn-c:258803": {
+  "text_es": "La frase ⸢después de aquellos días⸣ identifica algo que sucede después de cierto período de tiempo. Ese período de tiempo podría ser largo o corto, no necesariamente solo unos pocos ⸢días⸣. Aquí, el punto de Dios es que hará este nuevo pacto en el futuro. Si fuera útil en su idioma, podría usar una palabra o frase que se refiera a una acción que sucederá en algún momento en el futuro. Traducción alternativa: «en el futuro» o «después de ese tiempo»",
+  "lemas_es": [
+   "después de aquellos días"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "832d53741e32",
+  "lemas_rv1909": [
+   {
+    "lema": "después de aquellos días",
+    "ref": "HEB.8.10"
+   }
+  ]
+ },
+ "uwtn-c:258804": {
+  "text_es": "Aquí, igual que en 8:8–9, el autor hace que Dios hable de sí mismo en tercera persona. Usa esta forma porque la cita usa la tercera persona para hablar de Dios y el autor afirma que Dios pronuncia la cita. Si fuera útil en su idioma, podría aclarar que Dios está hablando de sí mismo. Traducción alternativa: «Yo, el Señor, digo»",
+  "lemas_es": [
+   "dice el Señor"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "878f194b3bd9",
+  "lemas_rv1909": [
+   {
+    "lema": "dice el Señor",
+    "ref": "HEB.8.10"
+   }
+  ]
+ },
+ "uwtn-c:258805": {
+  "text_es": "La cita incluye dos declaraciones que significan casi lo mismo. Una declaración usa el lenguaje de «poner» y ⸢mente⸣, y la otra usa el lenguaje de «escribir» y ⸢corazón⸣. Esto se consideraba buena poesía en la cultura del autor. Si esto no fuera buena poesía en su cultura, y si la repetición fuera confusa, podría combinar las dos declaraciones. Traducción alternativa: «escribiendo mis leyes en sus corazones» o «poniendo mis leyes dentro de ellos»",
+  "lemas_es": [
+   "poniendo mis leyes en su mente, y las escribiré en sus corazones"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "70d44fee1abe",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.10"
+   }
+  ]
+ },
+ "uwtn-c:258806": {
+  "text_es": "Dios habla como si sus ⸢leyes⸣ fueran objetos que pudieran colocarse en algún lugar, en este caso, en la ⸢mente⸣ representada como un lugar. Al hablar así, Dios quiere decir que hará que sus ⸢leyes⸣ sean parte de cómo las personas piensan y actúan naturalmente, en lugar de algo que deben aprender y luego esforzarse por hacer. Si fuera útil en su idioma, podría usar una metáfora comparable o expresar la idea de manera clara. Traducción alternativa: «ayudándoles a comprender plenamente mis leyes» o «haciendo que mis leyes sean parte de cómo piensan»",
+  "lemas_es": [
+   "poniendo mis leyes en su mente"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "eab11fa50a70",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.10"
+   }
+  ]
+ },
+ "uwtn-c:258807": {
+  "text_es": "La palabra ⸢mente⸣ es un sustantivo singular que se refiere a las «mentes» de todo el pueblo de Dios. Puede ser más natural en su idioma usar una forma plural. Traducción alternativa: «sus mentes» o «la mente de cada uno de ellos»",
+  "lemas_es": [
+   "su mente"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b32554d8d50d",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.10"
+   }
+  ]
+ },
+ "uwtn-c:258808": {
+  "text_es": "Dios habla como si sus ⸢leyes⸣ fueran palabras que pudiera ⸢escribir⸣ en algo, en este caso los corazones de las personas. Al hablar así, Dios quiere decir que hará que guardar sus ⸢leyes⸣ sea algo que las personas deseen hacer naturalmente, en lugar de algo por lo que deban esforzarse. Si fuera útil en su idioma, podría expresar el significado de manera clara. Traducción alternativa: «Les ayudaré a desear guardarlas» o «Haré que mis leyes sean parte de lo que son»",
+  "lemas_es": [
+   "las escribiré en sus corazones"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b1850a0c9855",
+  "lemas_rv1909": [
+   {
+    "lema": "corazón de ellos las escribiré",
+    "ref": "HEB.8.10"
+   }
+  ]
+ },
+ "uwtn-c:258809": {
+  "text_es": "En la cultura del autor, los ⸢corazones⸣ son los lugares donde los seres humanos piensan y planifican. Si fuera útil en su idioma, podría usar la descripción de su propia cultura sobre dónde piensan los seres humanos o expresar la idea de manera clara. Traducción alternativa: «en sus deseos» o «en cómo piensan las personas»",
+  "lemas_es": [
+   "en sus corazones"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2dcdd281212e",
+  "lemas_rv1909": [
+   {
+    "lema": "corazón",
+    "ref": "HEB.8.10"
+   }
+  ]
+ },
+ "uwtn-c:258810": {
+  "text_es": "Dios usa dos cláusulas que se refieren a relaciones entre personas o grupos. Cuando dice ⸢como⸣, no está haciendo una comparación ni diciendo que será como si él fuera su Dios y ellos fueran su pueblo. Más bien, quiere decir que actuarán unos hacia otros como lo hacen Dios y su pueblo. Si fuera útil en su idioma, podría usar una expresión equivalente o usar un lenguaje claro. Traducción alternativa: «Actuaré como su Dios, y ellos actuarán como mi pueblo» o «Yo seré su Dios, y ellos serán mi pueblo»",
+  "lemas_es": [
+   "Yo les seré como Dios, y ellos me serán como pueblo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0107de495503",
+  "lemas_rv1909": [
+   {
+    "lema": "y seré a ellos por Dios, y ellos me serán a mí por pueblo",
+    "ref": "HEB.8.10"
+   }
+  ]
+ },
+ "uwtn-c:258811": {
+  "text_es": "Las palabras traducidas como ⸢de ningún modo⸣ son dos palabras negativas. En esta construcción, el segundo negativo no cancela al primero para crear un significado positivo. Más bien, da mayor énfasis al negativo. Si su idioma puede usar dos negativos que no se cancelen entre sí para crear un significado positivo, podría usar una doble negación aquí. Si su idioma no usa dos negativos de esa manera, podría traducir con un solo negativo fuerte, como lo hace la ULT. Traducción alternativa: «de ninguna manera»",
+  "lemas_es": [
+   "de ningún modo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "82be4ee84102",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.11"
+   }
+  ]
+ },
+ "uwtn-c:258812": {
+  "text_es": "La cita incluye dos frases que significan casi lo mismo. Una frase se refiere a un ⸢conciudadano⸣, y la otra se refiere a un ⸢hermano⸣. Esto se consideraba buena poesía en la cultura del autor. Si esto no fuera buena poesía en su cultura, y si la repetición fuera confusa, podría combinar las dos frases. Traducción alternativa: «cada uno a su hermano» o «cada uno a la persona más cercana a él»",
+  "lemas_es": [
+   "cada uno a su conciudadano, y cada uno a su hermano"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "538841c5da6a",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.11"
+   }
+  ]
+ },
+ "uwtn-c:258813": {
+  "text_es": "Aunque ⸢su⸣ y ⸢hermano⸣ son masculinos, se refieren a cualquier persona, sea hombre o mujer. Si fuera útil en su idioma, podría usar palabras que se apliquen tanto a hombres como a mujeres, o podría referirse a ambos géneros. Traducción alternativa: «su … su hermano o hermana»",
+  "lemas_es": [
+   "su y su hermano"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "64459c25f0f0",
+  "corregido_por_juez": "Traduce «his» como «su» y afirma que «su» es masculino; en español «su» no es masculino, por lo que la descripción gramatical es incorrecta.",
+  "lemas_rv1909": [
+   {
+    "lema": "su hermano",
+    "ref": "HEB.8.11"
+   }
+  ]
+ },
+ "uwtn-c:258815": {
+  "text_es": "Como ⸢cada uno⸣ está hablando a una persona, el imperativo ⸢Conoce⸣ es singular aquí.",
+  "lemas_es": [
+   "Conoce"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "66b24ec887e0",
+  "lemas_rv1909": [
+   {
+    "lema": "Conoce",
+    "ref": "HEB.8.11"
+   }
+  ]
+ },
+ "uwtn-c:258816": {
+  "text_es": "Dios habla figuradamente, usando ⸢el menor⸣ y ⸢el mayor⸣ para incluir ambos extremos y a toda persona intermedia. Al hablar así, incluye a toda persona que forma parte de su pueblo. Si fuera útil en su idioma, podría usar una expresión equivalente o un lenguaje claro. Traducción alternativa: «cada uno de ellos» o «incluyendo a personas de toda condición»",
+  "lemas_es": [
+   "desde el menor de ellos hasta el mayor"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f67e378420ab",
+  "lemas_rv1909": [
+   {
+    "lema": "desde el menor de ellos hasta el mayor",
+    "ref": "HEB.8.11"
+   }
+  ]
+ },
+ "uwtn-c:258817": {
+  "text_es": "El autor usa los adjetivos ⸢menor⸣ y ⸢mayor⸣ como sustantivos para referirse a las personas que tienen la menor y la mayor importancia y poder en una sociedad. Es posible que su idioma use adjetivos de la misma manera. Si no, podría traducirlos con frases nominales. Traducción alternativa: «la persona menos importante … la persona más importante»",
+  "lemas_es": [
+   "el menor & el mayor"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c5b3073b1330",
+  "lemas_rv1909": [
+   {
+    "lema": "el menor de ellos hasta el mayor",
+    "ref": "HEB.8.11"
+   }
+  ]
+ },
+ "uwtn-c:en_tn_HEB_jl1h": {
+  "text_es": "Si una cita directa dentro de otra cita directa fuera confusa en su idioma, podría traducir la segunda cita directa como una cita indirecta. Traducción alternativa: «diciendo que debía conocer al Señor»",
+  "lemas_es": [
+   "diciendo: “Conoce al Señor"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d3f7b42b2d2d",
+  "lemas_rv1909": [
+   {
+    "lema": "diciendo: Conoce al Señor",
+    "ref": "HEB.8.11"
+   }
+  ]
+ },
+ "uwtn-c:258818": {
+  "text_es": "La palabra ⸢Porque⸣ introduce la base sobre la cual Dios establece este nuevo pacto. Si fuera útil en su idioma, podría usar una palabra o frase comparable que introduzca la base de una afirmación. Traducción alternativa: «Al hacer este nuevo pacto»,",
+  "lemas_es": [
+   "Porque"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d1d4468cd282",
+  "lemas_rv1909": [
+   {
+    "lema": "Porque",
+    "ref": "HEB.8.12"
+   }
+  ]
+ },
+ "uwtn-c:258819": {
+  "text_es": "La cita incluye dos declaraciones que significan casi lo mismo. Esto se consideraba buena poesía en la cultura del autor. Si esto no fuera buena poesía en su cultura, y si la repetición fuera confusa, podría combinar las dos declaraciones. Traducción alternativa: «Perdonaré misericordiosamente sus pecados e iniquidades» o «Nunca recordaré sus iniquidades ni sus pecados»",
+  "lemas_es": [
+   "Seré misericordioso hacia sus iniquidades, y sus pecados de ningún modo recordaré más"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6940ccc43eb0",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.12"
+   }
+  ]
+ },
+ "uwtn-c:258820": {
+  "text_es": "Traducción alternativa: «Trataré misericordiosamente sus iniquidades»",
+  "lemas_es": [
+   "Seré misericordioso hacia sus iniquidades"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "55f479c4cac9",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.12"
+   }
+  ]
+ },
+ "uwtn-c:258821": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea detrás de ⸢iniquidad⸣, podría expresar la idea usando un adjetivo como «injusto» o un adverbio como «injustamente». Traducción alternativa: «hacia las cosas injustas que han hecho» o «hacia cómo han actuado injustamente»",
+  "lemas_es": [
+   "hacia sus iniquidades"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "622ae8d08285",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.12"
+   }
+  ]
+ },
+ "uwtn-c:258822": {
+  "text_es": "La frase ⸢de ningún modo recordaré⸣ se refiere a cómo Dios decide no sacar a relucir ni actuar sobre ⸢sus pecados⸣. Si fuera útil en su idioma, podría expresar la idea con una palabra o frase que haga explícita esta idea. Traducción alternativa: «de ningún modo actuaré sobre» o «de ningún modo tomaré en cuenta»",
+  "lemas_es": [
+   "de ningún modo recordaré"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6a71a1f62fc0",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.12"
+   }
+  ]
+ },
+ "uwtn-c:258823": {
+  "text_es": "Las palabras traducidas como ⸢de ningún modo⸣ son dos palabras negativas. En la cultura del autor, dos palabras negativas hacían la declaración aún más negativa. Los hablantes de inglés pensarían que los dos negativos forman un positivo, por lo que la ULT expresa la idea con un solo negativo fuerte. Si su idioma puede usar dos negativos como lo hacía la cultura del autor, podría usar una doble negación aquí. Si su idioma no usa dos negativos de esta manera, podría traducir con un solo negativo fuerte como lo hace la ULT. Traducción alternativa: «de ninguna manera»",
+  "lemas_es": [
+   "de ningún modo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9b83c46b231e",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.12"
+   }
+  ]
+ },
+ "uwtn-c:258824": {
+  "text_es": "El autor se refiere a cómo la cita usó la palabra ⸢nuevo⸣ para describir el «nuevo pacto» (Ver: 8:8). Use una forma natural en su idioma para referirse a una palabra específica que fue citada. Traducción alternativa: «Al usar la palabra “nuevo” para este nuevo pacto»,",
+  "lemas_es": [
+   "Al decir “nuevo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9b45d0a297bd",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.13"
+   }
+  ]
+ },
+ "uwtn-c:258825": {
+  "text_es": "La palabra ⸢él⸣ se refiere a Dios. Si fuera útil en su idioma, podría aclarar que el pronombre se refiere a Dios. Traducción alternativa: «Dios ha hecho obsoleto el primero»",
+  "lemas_es": [
+   "ha hecho obsoleto el primero"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "56ed0eaa3a8f",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.13"
+   }
+  ]
+ },
+ "uwtn-c:258826": {
+  "text_es": "La frase ⸢el primero⸣ se refiere específicamente al «primer pacto», el que Dios hizo con los israelitas por medio de Moisés. Si fuera útil en su idioma, podría aclarar que el autor se refiere a este «primer pacto». Traducción alternativa: «el primer pacto»",
+  "lemas_es": [
+   "el primero"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cf1e3b1c6348",
+  "lemas_rv1909": [
+   {
+    "lema": "primero",
+    "ref": "HEB.8.13"
+   }
+  ]
+ },
+ "uwtn-c:258827": {
+  "text_es": "Las frases ⸢siendo hecho obsoleto⸣ y ⸢envejeciendo⸣ significan casi lo mismo. El autor usa ambas palabras para enfatizar que ⸢el primero⸣ pacto ya no es el pacto vigente. Si no tiene dos frases que expresen este significado particular y repetir la misma frase sería confuso, podría usar una sola frase aquí. Traducción alternativa: «lo que se está volviendo obsoleto» o «lo que es viejo y obsoleto»",
+  "lemas_es": [
+   "lo que está siendo hecho obsoleto y envejeciendo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a8c1d8289264",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.8.13"
+   }
+  ]
+ },
+ "uwtn-c:258828": {
+  "text_es": "Traducción alternativa: «va a desaparecer pronto»",
+  "lemas_es": [
+   "está cerca de desaparecer"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0f1325fff50e",
+  "lemas_rv1909": [
+   {
+    "lema": "cerca está",
+    "ref": "HEB.8.13"
+   }
+  ]
+ },
+ "uwtn:258826": {
+  "text_es": "La frase ⸢el primero⸣ se refiere específicamente al «primer pacto», el que Dios hizo con los israelitas por medio de Moisés.",
+  "lemas_es": [
+   "el primero"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1fec9ec38ba3",
+  "lemas_rv1909": [
+   {
+    "lema": "primero",
+    "ref": "HEB.8.13"
+   }
+  ]
  }
 }

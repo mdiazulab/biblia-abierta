@@ -250,13 +250,13 @@
   "modelo_2": "deepseek:deepseek-reasoner"
  },
  "hcf:Tertullian/Hebrews 9_14#0": {
-  "text_es": "Pues bien, yo por mi parte explicaré primero la razón de su ofensa, para poder así desbaratar más fácilmente el escándalo de nuestro hereje. Ahora bien, que el mismo Señor de todos, el Verbo y Espíritu del Padre, estaba obrando y predicando en la tierra, era necesario que la porción del Espíritu Santo que, en forma de don profético, había estado por medio de Juan preparando los caminos del Señor, se apartara ahora de Juan y volviera de nuevo al Señor, como a su origen que todo lo abarca.",
+  "text_es": "Pues bien, yo por mi parte explicaré primero la razón de su ofensa, para que así pueda desbaratar más fácilmente el escándalo de nuestro hereje. Ahora bien, que el mismo Señor de todo poder, el Verbo y Espíritu del Padre, estaba obrando y predicando en la tierra, era necesario que la porción del Espíritu Santo que, en forma de don profético, había estado por medio de Juan preparando los caminos del Señor, se apartara ahora de Juan y volviera de nuevo, por supuesto, al Señor, como a su origen que todo lo abarca.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
   "huella": "7510468576e6",
   "text_es_2": "Pues bien, yo por mi parte explicaré primero la razón de su ofensa, para poder desbaratar más fácilmente el escándalo de nuestro hereje. Ahora bien, dado que el mismo Señor de todo poder, el Verbo y Espíritu del Padre, estaba obrando y predicando en la tierra, era necesario que la porción del Espíritu Santo que, en forma de don profético, había estado por medio de Juan preparando los caminos del Señor, se apartara ahora de Juan y volviera de nuevo al Señor, como a su origen que todo lo abarca.",
   "modelo_2": "deepseek:deepseek-reasoner",
-  "corregido_por_juez": "Omite la expresión \"of course\" (\"por supuesto/ciertamente\")."
+  "corregido_por_juez": "Traduce 'the very Lord Himself of all might' como 'el mismo Señor de todos', omitiendo 'de todo poder'; también omite 'of course'."
  },
  "aquifer:13340": {
   "text_es": "⸢el mediador⸣: Este término describe a una persona que ayuda a resolver un desacuerdo legal o político difícil. En el antiguo pacto, la gente veía a Moisés y a los ángeles como intermediarios entre Dios y el pueblo (Gálatas 3:19–20). En el nuevo pacto, Cristo conecta a Dios y a las personas mediante su muerte sacrificial (Hebreos 8:6; 12:24; Romanos 6:23; 1 Timoteo 2:5; 1 Pedro 3:18) y su intercesión continua (oración en favor de otros) (Hebreos 7:25).",
@@ -738,23 +738,23 @@
   ]
  },
  "calvino:HEB.9.24#138": {
-  "text_es": "24. ⸢Porque no entró Cristo, etc.⸣ Esto es una confirmación del versículo anterior. Había hablado del verdadero santuario, a saber, el celestial; ahora añade que Cristo entró allí. De aquí se sigue que se requiere una confirmación adecuada. ⸢El lugar santísimo⸣ lo toma por el santuario; dice que ⸢no es hecho de manos⸣, porque no debe ser clasificado entre las cosas creadas que están sujetas a corrupción; pues no se refiere aquí al ⸢cielo⸣ que vemos, y en el cual brillan las estrellas, sino al glorioso reino de Dios que está sobre todos los cielos. Llama al antiguo santuario el ἀντίτυπον, el antitipo del verdadero, es decir, del espiritual; pues todas las figuras externas representaban como en un espejo lo que de otro modo habría estado por encima de nuestros sentidos corporales. Los escritores griegos usan a veces la misma palabra al hablar de nuestros sacramentos, y con sabiduría y propiedad también, pues todo sacramento es una imagen visible de lo que es invisible.\n\n⸢Ahora para aparecer, etc.⸣ Así también antiguamente el sacerdote levítico estaba delante de Dios en nombre del pueblo, pero de manera típica; pues en Cristo se halla la realidad y el pleno cumplimiento de lo que fue tipificado. El arca era en verdad un símbolo de la presencia divina; pero es Cristo quien realmente se presenta delante de Dios, y está allí para obtener favor para nosotros, de modo que ahora no hay razón para que huyamos del tribunal de Dios, ya que tenemos un abogado tan bondadoso, por cuya fidelidad y protección somos hechos seguros y salvos. Cristo fue en verdad nuestro abogado cuando estaba en la tierra; pero fue una concesión adicional hecha a nuestra debilidad que ascendiera al cielo para asumir allí el oficio de abogado. De modo que siempre que se haga mención de su ascensión al cielo, este beneficio debe venir siempre a nuestra mente, que él aparece allí delante de Dios para defendernos con su abogacía. Neciamente, pues, e irracionalmente algunos preguntan: ¿no había aparecido siempre allí? Pues el Apóstol habla aquí solo de su intercesión, por causa de la cual entró en el santuario celestial.",
+  "text_es": "24. ⸢Porque Cristo no entró, etc.⸣ Esto es una confirmación del versículo anterior. Había hablado del verdadero santuario, a saber, el celestial; ahora añade que Cristo entró allí. De aquí se sigue que se requiere una confirmación adecuada. ⸢El lugar santísimo⸣ lo toma por el santuario; dice que ⸢no es hecho de manos⸣, porque no debe ser clasificado entre las cosas creadas que están sujetas a corrupción; pues no se refiere aquí al ⸢cielo⸣ que vemos, y en el cual brillan las estrellas, sino al glorioso reino de Dios que está por encima de todos los cielos. Llama al antiguo santuario el ἀντίτυπον, el antitipo del verdadero, es decir, del espiritual; pues todas las figuras externas representaban como en un espejo lo que de otro modo habría estado por encima de nuestros sentidos corporales. Los escritores griegos usan a veces la misma palabra al hablar de nuestros sacramentos, y con sabiduría y propiedad también, pues todo sacramento es una imagen visible de lo invisible.\n\n⸢Ahora para presentarse, etc.⸣ Así también antiguamente el sacerdote levítico estaba delante de Dios en nombre del pueblo, pero de manera típica; pues en Cristo se halla la realidad y el pleno cumplimiento de lo que fue tipificado. El arca era ciertamente un símbolo de la presencia divina; pero es Cristo quien realmente se presenta delante de Dios, y está allí para obtener favor para nosotros, de modo que ahora no hay razón para que huyamos del tribunal de Dios, ya que tenemos un abogado tan bondadoso, por cuya fidelidad y protección somos hechos seguros y salvos. Cristo fue ciertamente nuestro abogado cuando estaba en la tierra; pero fue una concesión adicional hecha a nuestra debilidad que ascendiera al cielo para asumir allí el oficio de abogado. De modo que siempre que se mencione su ascensión al cielo, este beneficio debe venir siempre a nuestra mente, que él se presenta allí delante de Dios para defendernos con su abogacía. Neciamente, pues, e irracionalmente algunos preguntan: ¿no había aparecido siempre allí? Pues el Apóstol habla aquí solo de su intercesión, por causa de la cual entró en el santuario celestial.",
   "lemas_es": [
-   "Porque no entró Cristo",
-   "Ahora para aparecer"
+   "Porque Cristo no entró",
+   "Ahora para presentarse"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "8b96ca51c753",
   "text_es_2": "24. ⸢Porque no entró Cristo, etc.⸣ Esta es una confirmación del versículo anterior. Había hablado del verdadero santuario, a saber, el celestial; ahora añade que Cristo entró allí. De ahí se sigue que se requiere una confirmación adecuada. ⸢Los lugares santos⸣ los toma por el santuario; dice que es ⸢no hecho de manos⸣, porque no debe ser clasificado entre las cosas creadas que están sujetas a corrupción; pues no se refiere aquí al ⸢cielo⸣ que vemos, y en el cual brillan las estrellas, sino al glorioso reino de Dios que está sobre todos los cielos. Llama al antiguo santuario el ἀντίτυπον, el antitipo del verdadero, es decir, del espiritual; pues todas las figuras externas representaban como en un espejo lo que de otro modo habría estado por encima de nuestros sentidos corporales. Los escritores griegos usan a veces la misma palabra al hablar de nuestros sacramentos, y con sabiduría y propiedad también, pues todo sacramento es una imagen visible de lo invisible.\n\n⸢Para presentarse ahora, etc.⸣ Así también antiguamente el sacerdote levítico estaba delante de Dios en nombre del pueblo, pero de manera típica; pues en Cristo se halla la realidad y el pleno cumplimiento de lo que fue tipificado. El arca era en verdad un símbolo de la presencia divina; pero es Cristo quien realmente se presenta ante Dios, y está allí para obtener favor para nosotros, de modo que ahora no hay razón para que huyamos del tribunal de Dios, ya que tenemos un abogado tan bondadoso, por cuya fidelidad y protección somos hechos seguros y salvos. Cristo fue en verdad nuestro abogado cuando estaba en la tierra; pero fue una concesión adicional a nuestra debilidad que ascendiera al cielo para emprender allí el oficio de abogado. De modo que siempre que se mencione su ascensión al cielo, este beneficio debe venir siempre a nuestra mente: que él se presenta allí ante Dios para defendernos con su abogacía. Neciamente, pues, e irrazonablemente algunos preguntan: ¿no se ha presentado él siempre allí? Porque el Apóstol habla aquí solo de su intercesión, por causa de la cual entró en el santuario celestial.",
   "modelo_2": "deepseek:deepseek-reasoner",
-  "corregido_por_juez": "Traduce mal 'The holy places he takes for the sanctuary': invierte los términos y pone 'El santuario lo toma por el lugar santísimo'.",
+  "corregido_por_juez": "Traduce 'The holy places' como 'El lugar santísimo' (cambia el referente) y cambia 'has he not always appeared' por '¿no había aparecido...?'.",
   "lemas_rv1909": [
    {
     "lema": "Porque no entró Cristo",
     "ref": "HEB.9.24"
    },
    {
-    "lema": null,
+    "lema": "para presentarse ahora",
     "ref": "HEB.9.24"
    }
   ]
@@ -821,6 +821,3695 @@
   "lemas_rv1909": [
    {
     "lema": "la segunda vez, sin pecado",
+    "ref": "HEB.9.28"
+   }
+  ]
+ },
+ "uwtn-c:258829": {
+  "text_es": "El autor usa la palabra ⸢Ahora⸣ para introducir información de trasfondo sobre el tabernáculo del ⸢primer pacto⸣ que ayudará a los lectores a comprender el argumento que está presentando de que Jesús es el «pontífice» de un «tabernáculo mayor y más perfecto». En su traducción, introduzca esta información de una manera que sea natural en su propio idioma y cultura.",
+  "lemas_es": [
+   "Ahora"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "70f541a91d19",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.1"
+   }
+  ]
+ },
+ "uwtn-c:258830": {
+  "text_es": "La palabra ⸢ciertamente⸣ señala a la audiencia que este argumento tiene dos partes. La primera parte comienza aquí, y la segunda parte comienza con «Pero» en 9:11. Si fuera útil en su idioma, podría usar palabras que introduzcan un desarrollo de dos partes. Traducción alternativa: «por un lado»",
+  "lemas_es": [
+   "ciertamente"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "eadf0ea3e0e7",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.1"
+   }
+  ]
+ },
+ "uwtn-c:258831": {
+  "text_es": "Vea cómo tradujo ⸢primer pacto⸣ en Hebreos 8:7.",
+  "lemas_es": [
+   "el primer pacto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a5eec8646739",
+  "lemas_rv1909": [
+   {
+    "lema": "el primer ⸢pacto⸣",
+    "ref": "HEB.9.1"
+   }
+  ]
+ },
+ "uwtn-c:258832": {
+  "text_es": "Si su idioma no usa sustantivos abstractos para las ideas detrás de ⸢regulaciones⸣ y ⸢culto⸣, podría expresar las ideas usando verbos como «regular» y «adorar». Traducción alternativa: «regulaba cómo la gente adoraba e incluía»",
+  "lemas_es": [
+   "tenía regulaciones para el culto y"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a5df79c2ca30",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.1"
+   }
+  ]
+ },
+ "uwtn-c:258833": {
+  "text_es": "La frase ⸢lugar santo terrenal⸣ se refiere a todo el santuario terrenal, que el autor definirá como un «tabernáculo» en el versículo siguiente (9:2). Si fuera útil en su idioma, podría referirse con mayor claridad a todo el santuario terrenal. Traducción alternativa: «el santuario santo terrenal»",
+  "lemas_es": [
+   "el lugar santo terrenal"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f0d811996358",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.1"
+   }
+  ]
+ },
+ "uwtn-c:en_tn_HEB_p8vy#0": {
+  "text_es": "Estructura y formato\n\n• El Hijo como pontífice (5:1–10:18)\n\n◦ Enseñanza: Ministerios antiguo y nuevo (9:1–10:18)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "087451cb7d70"
+ },
+ "uwtn-c:en_tn_HEB_p8vy#1": {
+  "text_es": "Conceptos religiosos y culturales en este capítulo\n\nEl tabernáculo terrenal\n\nEn 9:1–10, el autor describe y evalúa el tabernáculo terrenal. Cuando el autor escribió esta carta, había un templo en Jerusalén, y el tabernáculo ya no existía. Por lo tanto, sus descripciones se basan únicamente en el Antiguo Testamento, no en la experiencia personal. El tabernáculo era una gran tienda dividida en dos partes: el Lugar Santo exterior y el Lugar Santísimo interior. Este tabernáculo contenía un «arca», en la cual Dios hizo que el pueblo guardara objetos importantes. Dios estaba presente de manera especial donde estaba el arca. El tabernáculo también contenía un candelabro que ardía continuamente, una mesa sobre la cual los sacerdotes ponían pan en la presencia de Dios, y un altar para quemar incienso. Los sacerdotes entraban con frecuencia al Lugar Santo, pero solo el pontífice entraba al Lugar Santísimo en un día especial del año. El autor no describe todo acerca del tabernáculo, y a veces expresa las cosas de manera diferente a lo que usted podría leer en el Antiguo Testamento. Asegúrese de traducir lo que el autor realmente dice.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e3599f6950d8"
+ },
+ "uwtn-c:en_tn_HEB_p8vy#2": {
+  "text_es": "El santuario celestial\n\nEn 9:11, el autor se refiere de nuevo a un «tabernáculo» y «lugares santos». Como en el caso de 8:1–2, los eruditos debaten qué identifican estos dos nombres. Lo más probable es que el «tabernáculo» se refiera a todo el santuario celestial por el que Jesús pasa «a través» para entrar en la sección interior, los «lugares santos». Sin embargo, los dos nombres podrían referirse cada uno a todo el santuario desde dos perspectivas diferentes. El autor menciona el santuario celestial de nuevo en 9:23–24. Sin embargo, allí se refiere simplemente a «las cosas en los cielos», «las cosas celestiales» y «las verdaderas». El significado de estos términos generales depende de cómo usted entienda las palabras más específicas en 8:1–2 y 9:11–12. Vea los versículos específicos para opciones de traducción. Asegúrese de referirse al santuario celestial con las mismas palabras o palabras similares que usa para referirse al santuario terrenal.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a2d6ad3c7047"
+ },
+ "uwtn-c:en_tn_HEB_p8vy#3": {
+  "text_es": "Ofrendas y rituales del antiguo pacto\n\nEl autor se refiere a múltiples rituales y ofrendas diferentes que Dios mandó a Moisés y a los israelitas realizar.\n\n• En 9:6, se refiere en general al «servicio» que los sacerdotes realizaban en la primera sección del tabernáculo.\n\n• En 9:7, se refiere al Día de la Expiación, el día especial en que el pontífice entraba en la parte interior del tabernáculo. Puede leer acerca del Día de la Expiación en Levítico 16.\n\n• En 9:13, el autor se refiere a la sangre de «toros y machos cabríos», lo cual puede ser una declaración general sobre los sacrificios de animales, o puede ser otra referencia específica al Día de la Expiación, que incluía sacrificios de toros y machos cabríos. También se refiere a una «becerra», lo cual identifica una ceremonia relacionada con la purificación. Puede leer acerca de esta ceremonia en Números 19:1–10.\n\n• En 9:19–21, el autor describe cómo Moisés inauguró el pacto y el tabernáculo. Puede leer acerca de lo que hizo en Éxodo 24:1–8.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1db509620c91"
+ },
+ "uwtn-c:en_tn_HEB_p8vy#4": {
+  "text_es": "Pacto\n\nEl autor habla acerca de «pactos» a lo largo de este capítulo. El pacto «nuevo» se refiere al acuerdo que Dios ha hecho con su pueblo por medio de Jesús. El pacto «primero» se refiere al acuerdo que Dios hizo con los israelitas por medio de Moisés. En la cultura del autor, la palabra traducida como «pacto» también podía usarse para referirse a un «testamento», un documento que una persona compone para decir a otros qué hacer con las pertenencias de esa persona cuando muera. Los eruditos debaten si el autor se enfoca en este significado específico de «pacto» en 9:16–17. La UST sigue la interpretación de que el autor usa el significado específico «testamento» como una analogía para ayudar a los lectores a comprender mejor «pacto». Vea las notas sobre esos versículos para opciones de traducción.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3130139ea357"
+ },
+ "uwtn-c:en_tn_HEB_p8vy#5": {
+  "text_es": "Sangre\n\nA lo largo de este capítulo, el autor se refiere a la «sangre». Esta sangre siempre proviene de alguien o algo que ha muerto. Los eruditos debaten qué simboliza o representa la sangre: la muerte del sacrificio, la vida del sacrificio, o algo más. Cualquiera que sea el significado, el autor argumenta a partir de los sacrificios que Dios requería en el Antiguo Testamento que la sangre es necesaria tanto para la «purificación» como para el «perdón». Esto es cierto tanto para el antiguo pacto como para el nuevo pacto. En su traducción, debe referirse a la sangre derramada, ya que la sangre siempre proviene de alguien o algo que ha muerto. Además, debe referirse directamente a la «sangre», no a lo que podría simbolizar o representar.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b892ea8bffa1"
+ },
+ "uwtn-c:en_tn_HEB_p8vy#6": {
+  "text_es": "Cuestiones de traducción en este capítulo\n\nLa «parábola» en 9:8–9\n\nEn estos versículos, el autor explica qué significado da el «Espíritu» al tabernáculo terrenal. Aunque los detalles exactos sobre lo que el autor quiere decir con la «primera tienda» y los «lugares santos» no están perfectamente claros, lo que sí está claro es que la primera sección del tabernáculo terrenal, o quizás el tabernáculo terrenal en su totalidad, indica cómo las personas no podían ir a los «lugares santos». Ya sea que los «lugares santos» se refiera al santuario celestial en su totalidad, a la segunda sección del tabernáculo terrenal, o a la parte interior del santuario celestial, indica un lugar donde Dios está presente de manera especial. Lo que el autor está diciendo, entonces, es que el uso de la «primera tienda» significa falta de acceso a Dios. La «parábola» en 9:9 explica además que esta falta de acceso se aplica al «tiempo presente», que es cuando se ofrecen sacrificios. Los detalles de estos dos versículos son debatidos por los eruditos, así que para más detalles, vea las notas. Si es posible, traduzca estos dos versículos de tal manera que permita las diversas opiniones posibles.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "991c15f2ebe0"
+ },
+ "uwtn-c:en_tn_HEB_p8vy#7": {
+  "text_es": "¿A dónde pertenece el altar del incienso?\n\nEn 9:3–4, el autor coloca el «altar del incienso» dentro del Lugar Santísimo. Sin embargo, Éxodo 30:6 parece colocar el altar del incienso fuera del velo, en el Lugar Santo. Hay muchas teorías sobre por qué el autor describe el «altar del incienso» dentro del Lugar Santísimo. Sin embargo, no es necesario tratar de armonizar su traducción con la descripción de Éxodo. Si cree que sus lectores reconocerían la diferencia y se confundirían por ella, podría incluir una nota al pie con algunas soluciones posibles. Es posible que el autor interpretara Éxodo 30:6 en el sentido de que el altar estaba en el Lugar Santísimo, y es posible que conociera una tradición que situaba el altar allí. También es posible que coloque el altar allí en beneficio de su argumento.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8b0d2b790a18"
+ },
+ "uwtn-c:en_tn_HEB_p8vy#8": {
+  "text_es": "¿Roció Moisés el rollo?\n\nEn 9:19 el autor afirma que Moisés roció un rollo, que es el rollo o libro en el que Moisés escribió todo lo que Dios le había dicho. Puede leer acerca de este rollo en Éxodo 24:1–8. Estos versículos no mencionan directamente que Moisés rociara ⸢el rollo⸣, pero el autor sabía más acerca de esto que nosotros. Su traducción debe expresar claramente lo que el autor dice, lo cual no contradice Éxodo 24, sino que simplemente da más detalles sobre algunas cosas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ec86ad50f186"
+ },
+ "uwtn-c:en_tn_HEB_p8vy#9": {
+  "text_es": "La purificación de las cosas celestiales\n\nEn 9:23, el autor se refiere a cómo las «cosas celestiales» necesitan ser purificadas con «mejores sacrificios» que los usados para purificar las cosas terrenales. Algunos eruditos piensan que las cosas celestiales son perfectas y no pueden ser contaminadas, por lo que argumentan que la «purificación» se refiere a la inauguración, o sugieren que las «cosas celestiales» se refieren a las conciencias humanas. Otros eruditos piensan que el santuario celestial podría ser contaminado por el pecado de las personas, tal como lo era el santuario terrenal, por lo que también necesitaba ser purificado. Esto es lo más probable que el autor quiera decir. Sin embargo, sin importar qué interpretación elija, debe traducir el versículo con una palabra o frase que se refiera a la eliminación de la contaminación o impureza.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "72bc6721c914"
+ },
+ "uwtn:258833": {
+  "text_es": "La frase ⸢lugar santo terrenal⸣ se refiere a todo el santuario terrenal, que el autor definirá como un «tabernáculo» en el versículo siguiente (9:2).",
+  "lemas_es": [
+   "el lugar santo terrenal"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7d560a7abc61",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.1"
+   }
+  ]
+ },
+ "uwtn-c:258834": {
+  "text_es": "La palabra ⸢porque⸣ introduce una explicación adicional de «el lugar santo terrenal» (Ver: 9:1). Si fuera útil en su idioma, podría usar una palabra que introduzca una explicación adicional, o podría dejar ⸢porque⸣ sin traducir. Traducción alternativa: «para qué propósito»",
+  "lemas_es": [
+   "porque"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e7b183615e88",
+  "lemas_rv1909": [
+   {
+    "lema": "Porque",
+    "ref": "HEB.9.2"
+   }
+  ]
+ },
+ "uwtn-c:258835": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en el ⸢tabernáculo⸣ que ⸢fue preparado⸣ en lugar de en la persona que lo preparó. Si debe indicar quién realizó la acción, el autor implica que «los israelitas» lo hicieron. Traducción alternativa: «los israelitas prepararon un tabernáculo»",
+  "lemas_es": [
+   "un tabernáculo fue preparado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b148ad02ea33",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.2"
+   }
+  ]
+ },
+ "uwtn-c:258836": {
+  "text_es": "La frase ⸢la primera⸣ identifica de qué parte del ⸢tabernáculo⸣ está hablando el autor. La estructura del ⸢tabernáculo⸣ estaba compuesta de dos salas o secciones. La palabra ⸢primera⸣ se refiere a la ⸢primera⸣ parte en la que una persona entraría. El autor describirá la segunda parte en 9:3–5. Si fuera útil en su idioma, podría hacer esta idea más explícita. Traducción alternativa: «la sala exterior»",
+  "lemas_es": [
+   "la primera"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "975137caf1b8",
+  "lemas_rv1909": [
+   {
+    "lema": "primero",
+    "ref": "HEB.9.2"
+   }
+  ]
+ },
+ "uwtn-c:258837": {
+  "text_es": "Si su idioma no usa números ordinales, puede usar un número cardinal aquí. Traducción alternativa: «sección uno» o «sala uno»",
+  "lemas_es": [
+   "la primera"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5e7dd05e3c5d",
+  "lemas_rv1909": [
+   {
+    "lema": "primero",
+    "ref": "HEB.9.2"
+   }
+  ]
+ },
+ "uwtn-c:258838": {
+  "text_es": "Para proporcionar antecedentes sobre el «primer pacto», aquí el autor se refiere a algunas cosas que Dios hizo que los israelitas pusieran en la primera sección del ⸢tabernáculo⸣. Los ⸢panes⸣ se «presentaban» sobre la ⸢mesa⸣. Puede leer las instrucciones de Dios acerca del ⸢candelabro⸣, la ⸢mesa⸣ y los ⸢panes⸣ en Éxodo 25:23–40. Si su idioma tiene una traducción de Éxodo, podría usar las mismas palabras aquí. Si no tiene una traducción de Éxodo, podría dejar claro que estos son objetos santos o especiales que los sacerdotes usaban cuando servían a Dios. Traducción alternativa: «tanto el candelabro santo como la mesa especial con la presentación de los panes de Dios»",
+  "lemas_es": [
+   "tanto el candelabro como la mesa, y la presentación de los panes"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c9c078170a31",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.2"
+   }
+  ]
+ },
+ "uwtn-c:258839": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea detrás de ⸢presentación⸣, podría expresar la idea usando un verbo como «presentar» o «exhibir». Traducción alternativa: «sobre la cual exhibían los panes»",
+  "lemas_es": [
+   "y la presentación de los panes"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bd21acad7541",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.2"
+   }
+  ]
+ },
+ "uwtn-c:258840": {
+  "text_es": "La palabra ⸢que⸣ se refiere a la ⸢primera⸣ parte del ⸢tabernáculo⸣. Si sería útil en su idioma, podría dejar explícito que el pronombre se refiere a la ⸢primera⸣ parte. Traducción alternativa: «cuya primera parte»",
+  "lemas_es": [
+   "que"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f3f04380bafc",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.2"
+   }
+  ]
+ },
+ "uwtn-c:258841": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en lo que ⸢es llamado⸣ y no en la persona que llama. Si debe indicar quién realizó la acción, podría usar un sujeto indefinido. Traducción alternativa: «la gente llamó» o «ellos nombraron»",
+  "lemas_es": [
+   "es llamado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "df948cc6d676",
+  "corregido_por_juez": "La traducción alternativa cambia el tiempo verbal: «people called / they named» (pasado) se vierte como presente («la gente llama / ellos nombran»).",
+  "lemas_rv1909": [
+   {
+    "lema": "llaman",
+    "ref": "HEB.9.2"
+   }
+  ]
+ },
+ "uwtn-c:258842": {
+  "text_es": "El autor usa otro nombre para la ⸢primera⸣ parte del ⸢tabernáculo⸣. No vuelve a usar este nombre exacto para referirse a la ⸢primera⸣ parte del ⸢tabernáculo⸣, y es probable que aquí use el nombre que encontró en su versión del Antiguo Testamento. Asegúrese de que sus lectores sepan que el autor está citando un nombre que él conocía. Traducción alternativa: «con el nombre ‘Lugar Santo’»",
+  "lemas_es": [
+   "Santo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5a5fd893f456",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.2"
+   }
+  ]
+ },
+ "uwtn:258836": {
+  "text_es": "La frase ⸢la primera⸣ identifica de qué parte del ⸢tabernáculo⸣ está hablando el autor. La estructura del ⸢tabernáculo⸣ estaba compuesta de dos salas o secciones. La palabra ⸢primera⸣ se refiere a la ⸢primera⸣ parte en la que una persona entraría. El autor describirá la segunda parte en 9:3–5.",
+  "lemas_es": [
+   "la primera"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e11382bc2c93",
+  "lemas_rv1909": [
+   {
+    "lema": "primero",
+    "ref": "HEB.9.2"
+   }
+  ]
+ },
+ "uwtn:258838": {
+  "text_es": "Para proporcionar antecedentes sobre el «primer pacto», aquí el autor se refiere a algunas cosas que Dios hizo que los israelitas pusieran en la primera sección del ⸢tabernáculo⸣. Los ⸢panes⸣ se «presentaban» sobre la ⸢mesa⸣.",
+  "lemas_es": [
+   "tanto el candelabro como la mesa, y la presentación de los panes"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6966b1d248e9",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.2"
+   }
+  ]
+ },
+ "uwtn:258842": {
+  "text_es": "El autor usa otro nombre para la ⸢primera⸣ parte del ⸢tabernáculo⸣. No vuelve a usar este nombre exacto para referirse a la ⸢primera⸣ parte del ⸢tabernáculo⸣, y es probable que aquí use el nombre que encontró en su versión del Antiguo Testamento.",
+  "lemas_es": [
+   "Santo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ad5ccc0ab553",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.2"
+   }
+  ]
+ },
+ "uwtn-c:258843": {
+  "text_es": "El autor no ha mencionado una primera ⸢cortina⸣, pero da a entender que la primera ⸢cortina⸣ estaba a la entrada de la primera parte del tabernáculo. La ⸢segunda cortina⸣ separaba las secciones exterior e interior del tabernáculo. El ⸢tabernáculo⸣ aquí debe ser, por tanto, la ⸢segunda⸣ parte o parte interior del tabernáculo, ya que está ⸢detrás de la segunda cortina⸣. Si fuera útil en su idioma, podría aclarar que esta es la ⸢cortina⸣ delante de la segunda ⸢tienda⸣ o tienda interior. Traducción alternativa: «detrás de una cortina estaba la segunda tienda» o «detrás de la cortina estaba la parte interior de la tienda»",
+  "lemas_es": [
+   "detrás de la segunda cortina estaba una tienda"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "82b54d9249aa",
+  "corregido_por_juez": "Para la segunda cortina usa «cortina» en lugar de «velo», término de la R-V 1909 (Heb. 9:3).",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.3"
+   }
+  ]
+ },
+ "uwtn-c:258844": {
+  "text_es": "Si su idioma no usa números ordinales, puede usar un número cardinal aquí. Traducción alternativa: «velo dos»",
+  "lemas_es": [
+   "segundo velo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1d5cabc1902f",
+  "corregido_por_juez": "«curtain two» debe ser «velo dos», no «cortina dos», según el vocabulario de la R-V 1909.",
+  "lemas_rv1909": [
+   {
+    "lema": "segundo velo",
+    "ref": "HEB.9.3"
+   }
+  ]
+ },
+ "uwtn-c:258845": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en lo que ⸢se llama⸣ más que en la persona que llama. Si debe indicar quién hizo la acción, podría usar un sujeto indefinido. Traducción alternativa: «que la gente llamaba» o «que ellos nombraban»",
+  "lemas_es": [
+   "que se llama"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "09b25af43cfd",
+  "lemas_rv1909": [
+   {
+    "lema": "que llaman",
+    "ref": "HEB.9.3"
+   }
+  ]
+ },
+ "uwtn-c:258846": {
+  "text_es": "El autor usa otro nombre para la parte interior del ⸢tabernáculo⸣. No vuelve a usar este nombre exacto para referirse a la segunda parte del ⸢tabernáculo⸣, y es probable que aquí use el nombre que encontró en su versión del Antiguo Testamento. Asegúrese de que sus lectores sepan que el autor está citando un nombre que él conocía. Traducción alternativa: «con el nombre ‘Lugar Santísimo’»",
+  "lemas_es": [
+   "el Lugar Santísimo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6f1045a1297a",
+  "lemas_rv1909": [
+   {
+    "lema": "el Lugar Santísimo",
+    "ref": "HEB.9.3"
+   }
+  ]
+ },
+ "uwtn:258843": {
+  "text_es": "El autor no ha mencionado una primera ⸢cortina⸣, pero da a entender que la primera ⸢cortina⸣ estaba en la entrada de la primera parte del tabernáculo. La ⸢segunda cortina⸣ separaba las secciones exterior e interior del tabernáculo. El ⸢tabernáculo⸣ aquí debe ser, por lo tanto, la ⸢segunda⸣ parte o parte interior del tabernáculo, ya que está ⸢detrás de la segunda cortina⸣.",
+  "lemas_es": [
+   "detrás de la segunda cortina estaba un tabernáculo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5a9df4549a18",
+  "lemas_rv1909": [
+   {
+    "lema": "segundo velo ⸢estaba⸣ el tabernáculo",
+    "ref": "HEB.9.3"
+   }
+  ]
+ },
+ "uwtn:258846": {
+  "text_es": "El autor usa otro nombre para la parte interior del ⸢tabernáculo⸣. No vuelve a usar este nombre exacto para referirse a la segunda parte del ⸢tabernáculo⸣, y es probable que aquí use el nombre que encontró en su versión del Antiguo Testamento.",
+  "lemas_es": [
+   "el Lugar Santísimo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2c6decac6678",
+  "lemas_rv1909": [
+   {
+    "lema": "el Lugar Santísimo",
+    "ref": "HEB.9.3"
+   }
+  ]
+ },
+ "uwtn-c:258847": {
+  "text_es": "Para proporcionar más antecedentes sobre el «primer pacto», aquí el autor se refiere al ⸢altar⸣ en el tabernáculo. Era una pequeña estructura sobre la cual los sacerdotes quemaban ⸢incienso⸣, que es una sustancia que despide un aroma dulce cuando alguien la quema. Este altar estaba recubierto de «oro». Puede leer acerca del ⸢altar de oro del incienso⸣ en Éxodo 30:1–10. Use una frase que se refiera a una estructura u objeto que alguien usaría para ofrecer cosas a Dios. Traducción alternativa: «una mesa sagrada para quemar incienso, cubierta de oro»,",
+  "lemas_es": [
+   "un altar de oro para el incienso"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "728d46f71f39",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.4"
+   }
+  ]
+ },
+ "uwtn-c:258848": {
+  "text_es": "El autor también se refiere al ⸢arca del pacto⸣ a modo de antecedente. Era una caja o cofre en el tabernáculo donde Dios estaba presente de manera especial. Este cofre estaba recubierto de ⸢oro⸣ y simbolizaba el ⸢pacto⸣ de Dios con Israel. Puede leer acerca del diseño del ⸢arca del pacto⸣ en Éxodo 25:10–22. Use una frase que se refiera a un cofre o caja que tiene un significado e importancia especiales. Traducción alternativa: «el cofre especial del pacto que estaba completamente cubierto de oro por todos lados»",
+  "lemas_es": [
+   "el arca del pacto, habiendo sido cubierta completamente por todos lados con oro"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5fb57216d5ab",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.4"
+   }
+  ]
+ },
+ "uwtn-c:258849": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en el ⸢arca⸣ que fue ⸢cubierta⸣ más que en la persona que la cubrió. Si debe indicar quién hizo la acción, podría usar un sujeto indefinido. Traducción alternativa: «que alguien cubrió completamente por todos lados con oro»",
+  "lemas_es": [
+   "habiendo sido cubierta completamente por todos lados con oro"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bcc27f6298a7",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.4"
+   }
+  ]
+ },
+ "uwtn-c:258850": {
+  "text_es": "Las palabras ⸢completamente⸣ y ⸢por todos lados⸣ significan casi lo mismo. El autor usa estas palabras para enfatizar que cada parte del ⸢arca⸣ estaba cubierta ⸢de oro⸣. Si no tiene dos palabras que expresen este significado particular, y si repetir la misma palabra sería confuso, podría usar una palabra o frase aquí. Traducción alternativa: «habiendo sido cubierta completamente» o «habiendo sido cubierta por todos lados»",
+  "lemas_es": [
+   "habiendo sido cubierta completamente por todos lados"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "31b57fffc3b8",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.4"
+   }
+  ]
+ },
+ "uwtn-c:258851": {
+  "text_es": "La palabra ⸢que⸣ se refiere al ⸢arca⸣, no al «tabernáculo». Si sería útil en su idioma, podría dejar explícito que el pronombre se refiere al ⸢arca⸣. Traducción alternativa: «en la cual arca estaba»",
+  "lemas_es": [
+   "en la cual estaba"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5ff69db04c4e",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.4"
+   }
+  ]
+ },
+ "uwtn-c:258852": {
+  "text_es": "Para proporcionar más antecedentes sobre el «primer pacto», aquí el autor se refiere a la ⸢vasija de oro⸣ en el ⸢arca⸣ que contenía el ⸢maná⸣, que era el alimento que Dios proporcionó milagrosamente a su pueblo mientras viajaban por el desierto. Dios le dijo a Moisés que guardara algo de ⸢maná⸣ como recordatorio de cómo había provisto para ellos. Puede leer acerca de Moisés y Aarón poniendo una ⸢vasija⸣ de ⸢maná⸣ en el ⸢arca⸣ en Éxodo 16:32–34. No está claro qué tipo de ⸢vasija⸣ era esta, así que use una palabra general si es posible. Traducción alternativa: «un recipiente de oro que contenía el maná que Dios proporcionó a su pueblo»",
+  "lemas_es": [
+   "una vasija de oro que contenía el maná"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "842e4f46c154",
+  "lemas_rv1909": [
+   {
+    "lema": "de oro que contenía el maná",
+    "ref": "HEB.9.4"
+   }
+  ]
+ },
+ "uwtn-c:258853": {
+  "text_es": "La palabra ⸢maná⸣ es una palabra hebrea que los israelitas usaban para describir el alimento especial que Dios les proporcionaba. El autor la escribe con letras griegas para que sus lectores sepan cómo suena. En su traducción podría escribirla como suena en su idioma, o podría usar una expresión general que explique su significado. Traducción alternativa: «el alimento especial que Dios proporcionó a su pueblo»",
+  "lemas_es": [
+   "el maná"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "846deaf5d166",
+  "lemas_rv1909": [
+   {
+    "lema": "el maná",
+    "ref": "HEB.9.4"
+   }
+  ]
+ },
+ "uwtn-c:258854": {
+  "text_es": "El autor se refiere a una historia acerca de cómo algunas personas querían ser sacerdotes en lugar de ⸢Aarón⸣. Dios hizo que los líderes de cada una de las doce tribus pusieran una ⸢vara⸣ o bastón en el tabernáculo. Luego Dios hizo que la ⸢vara de Aarón⸣ «brotara» como prueba de que Dios lo había elegido para ser sacerdote. Puede leer la historia acerca de ⸢la vara de Aarón⸣ en Números 17:1–11. Si sería útil en su idioma, podría hacer esta idea más explícita. Traducción alternativa: «el bastón de Aarón que brotó, lo cual probó que Dios lo había elegido como sacerdote»",
+  "lemas_es": [
+   "la vara de Aarón que brotó"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "956fc1d9d43b",
+  "lemas_rv1909": [
+   {
+    "lema": "la vara de Aarón",
+    "ref": "HEB.9.4"
+   }
+  ]
+ },
+ "uwtn-c:258855": {
+  "text_es": "El autor se refiere a dos ⸢tablas⸣ de piedra en las que Moisés escribió las partes más importantes del ⸢pacto⸣ de Dios con los israelitas. Puede leer acerca de las ⸢tablas⸣ en Éxodo 34:1–28. Las palabras en estas tablas eran los Diez Mandamientos, que puede encontrar en Éxodo 20:1–17. Si sería útil en su idioma, podría hacer esta idea más explícita. Traducción alternativa: «las tablas de piedra en las que Moisés escribió los Diez Mandamientos»",
+  "lemas_es": [
+   "las tablas del pacto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5e0737de09ed",
+  "lemas_rv1909": [
+   {
+    "lema": "las tablas del pacto",
+    "ref": "HEB.9.4"
+   }
+  ]
+ },
+ "uwtn:258847": {
+  "text_es": "Para proporcionar más antecedentes sobre el «primer pacto», aquí el autor se refiere al ⸢altar⸣ en el tabernáculo. Era una pequeña estructura sobre la cual los sacerdotes quemaban ⸢incienso⸣, que es una sustancia que despide un aroma dulce cuando alguien la quema.",
+  "lemas_es": [
+   "un altar de oro para el incienso"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "df29390b3c40",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.4"
+   }
+  ]
+ },
+ "uwtn:258848": {
+  "text_es": "El autor también se refiere al ⸢arca del pacto⸣ a modo de antecedente. Era una caja o cofre en el tabernáculo donde Dios estaba presente de manera especial. Este cofre estaba recubierto de ⸢oro⸣ y simbolizaba el ⸢pacto⸣ de Dios con Israel.",
+  "lemas_es": [
+   "el arca del pacto, habiendo sido cubierta completamente por todos lados con oro"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bbddaaf1aa8e",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.4"
+   }
+  ]
+ },
+ "uwtn:258852": {
+  "text_es": "Para proporcionar más antecedentes sobre el «primer pacto», aquí el autor se refiere a la ⸢vasija de oro⸣ en el ⸢arca⸣ que contenía el ⸢maná⸣, que era el alimento que Dios proporcionó milagrosamente a su pueblo mientras viajaban por el desierto. Dios le dijo a Moisés que guardara algo de ⸢maná⸣ como recordatorio de cómo había provisto para ellos.",
+  "lemas_es": [
+   "una vasija de oro que contenía el maná"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7925d2bfd1a0",
+  "lemas_rv1909": [
+   {
+    "lema": "de oro que contenía el maná",
+    "ref": "HEB.9.4"
+   }
+  ]
+ },
+ "uwtn:258854": {
+  "text_es": "El autor se refiere a una historia acerca de cómo algunas personas querían ser sacerdotes en lugar de ⸢Aarón⸣. Dios hizo que los líderes de cada una de las doce tribus pusieran una ⸢vara⸣ o bastón en el tabernáculo. Luego Dios hizo que la ⸢vara de Aarón⸣ «brotara» como prueba de que Dios lo había elegido para ser sacerdote.",
+  "lemas_es": [
+   "la vara de Aarón que brotó"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9444b25a67f7",
+  "lemas_rv1909": [
+   {
+    "lema": "la vara de Aarón",
+    "ref": "HEB.9.4"
+   }
+  ]
+ },
+ "uwtn:258855": {
+  "text_es": "El autor se refiere a dos ⸢tablas⸣ de piedra en las que Moisés escribió las partes más importantes del ⸢pacto⸣ de Dios con los israelitas.",
+  "lemas_es": [
+   "las tablas del pacto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bcd35a893566",
+  "lemas_rv1909": [
+   {
+    "lema": "las tablas del pacto",
+    "ref": "HEB.9.4"
+   }
+  ]
+ },
+ "uwtn-c:258856": {
+  "text_es": "La frase ⸢encima de él⸣ sitúa los ⸢querubines⸣ sobre el «arca del pacto». No flotaban por encima del arca, sino que estaban construidos sobre ella. Si fuera útil en su idioma, podría expresar esta idea con más claridad. Traducción alternativa: «puestos sobre el arca» o «construidos sobre el arca».",
+  "lemas_es": [
+   "encima de él"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c45c882273b4",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.5"
+   }
+  ]
+ },
+ "uwtn-c:258857": {
+  "text_es": "La palabra ⸢querubines⸣ aquí se refiere a figuras o estatuas de seres alados. El autor los describe como ⸢que cubrían con su sombra el propiciatorio⸣ porque Dios mandó a los israelitas que los hicieran de modo que sus alas se extendieran sobre la parte superior del arca. Puede leer acerca de los ⸢querubines⸣ y el ⸢propiciatorio⸣ en Éxodo 25:17–22. Si fuera útil en su idioma, podría hacer esta idea más explícita. Traducción alternativa: «estatuas de querubines gloriosos que extendían sus alas sobre la tapa del arca».",
+  "lemas_es": [
+   "querubines de gloria que cubrían con su sombra el propiciatorio"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "eff64e7e13c5",
+  "lemas_rv1909": [
+   {
+    "lema": "querubines de gloria que cubrían el propiciatorio",
+    "ref": "HEB.9.5"
+   }
+  ]
+ },
+ "uwtn-c:258858": {
+  "text_es": "La palabra ⸢querubines⸣ es una palabra hebrea que el autor escribió con letras griegas. Es una palabra en plural que se refiere a más de un «querubín». En su traducción, puede escribirla tal como suena, o puede expresar lo que significa: seres poderosos con alas. Traducción alternativa: «seres alados».",
+  "lemas_es": [
+   "querubines"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c6a718ecf57e",
+  "lemas_rv1909": [
+   {
+    "lema": "querubines",
+    "ref": "HEB.9.5"
+   }
+  ]
+ },
+ "uwtn-c:258859": {
+  "text_es": "El autor usa la forma posesiva para mostrar que los ⸢querubines⸣ se caracterizan por la ⸢gloria⸣. Si fuera útil en su idioma, podría expresar la idea sin usar una forma posesiva. Traducción alternativa: «querubines que son gloriosos» o «querubines gloriosos».",
+  "lemas_es": [
+   "querubines de gloria"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4e2a861756bd",
+  "lemas_rv1909": [
+   {
+    "lema": "querubines de gloria",
+    "ref": "HEB.9.5"
+   }
+  ]
+ },
+ "uwtn-c:258860": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢gloria⸣, podría expresar la idea usando un adjetivo como «glorioso» o «grande». Traducción alternativa: «querubines muy grandes».",
+  "lemas_es": [
+   "querubines de gloria"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "95daf15598b8",
+  "lemas_rv1909": [
+   {
+    "lema": "querubines de gloria",
+    "ref": "HEB.9.5"
+   }
+  ]
+ },
+ "uwtn-c:258861": {
+  "text_es": "La frase ⸢las cuales cosas⸣ se refiere a todo lo que el autor ha descrito acerca del «tabernáculo» en 9:2–5. Si fuera útil en su idioma, podría explicitar a qué se refiere ⸢las cuales cosas⸣. Traducción alternativa: «todo lo cual» o «acerca de las cuales cosas concernientes al tabernáculo y sus mobiliarios».",
+  "lemas_es": [
+   "las cuales cosas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9c643f2d009a",
+  "lemas_rv1909": [
+   {
+    "lema": "las cuales cosas",
+    "ref": "HEB.9.5"
+   }
+  ]
+ },
+ "uwtn:258856": {
+  "text_es": "La frase ⸢encima de él⸣ sitúa los ⸢querubines⸣ sobre el «arca del pacto». No flotaban por encima del arca, sino que estaban construidos sobre ella.",
+  "lemas_es": [
+   "encima de él"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "26a58418a9bd",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.5"
+   }
+  ]
+ },
+ "uwtn:258857": {
+  "text_es": "La palabra ⸢querubines⸣ aquí se refiere a figuras o estatuas de seres alados. El autor los describe como ⸢que cubrían con su sombra el propiciatorio⸣ porque Dios mandó a los israelitas que los hicieran de modo que sus alas se extendieran sobre la parte superior del arca.",
+  "lemas_es": [
+   "querubines de gloria que cubrían con su sombra el propiciatorio"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "54b7c9ae29ce",
+  "lemas_rv1909": [
+   {
+    "lema": "querubines de gloria que cubrían el propiciatorio",
+    "ref": "HEB.9.5"
+   }
+  ]
+ },
+ "uwtn-c:258862": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en las ⸢cosas⸣ que están ⸢preparadas⸣, y no en las personas que las preparan. Si debe indicar quién realizó la acción, podría usar un sujeto indefinido. Traducción alternativa: «cuando las personas habían preparado así estas cosas».",
+  "lemas_es": [
+   "estando así dispuestas estas cosas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4c64afa64701",
+  "lemas_rv1909": [
+   {
+    "lema": "estas cosas así",
+    "ref": "HEB.9.6"
+   }
+  ]
+ },
+ "uwtn-c:258863": {
+  "text_es": "La frase ⸢estas cosas⸣ se refiere a todos los objetos y estructuras que el autor ha mencionado en 9:1–5. La palabra ⸢así⸣ se refiere a lo que el autor ha dicho acerca de cómo fueron creados y dispuestos estos objetos y estructuras. Si fuera útil en su idioma, podría explicitar más a qué se refieren estas palabras. Traducción alternativa: «cuando lo que he descrito había sido preparado tal como lo he descrito».",
+  "lemas_es": [
+   "estando así dispuestas estas cosas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cc69e6d6f440",
+  "lemas_rv1909": [
+   {
+    "lema": "estas cosas así",
+    "ref": "HEB.9.6"
+   }
+  ]
+ },
+ "uwtn-c:258864": {
+  "text_es": "La palabra ⸢siempre⸣ indica que los ⸢sacerdotes⸣ ⸢entraban⸣ de manera constante, por lo general dos veces al día. No significa que algún sacerdote estuviera ⸢siempre⸣ entrando en cada momento. Si fuera útil en su idioma, podría expresar la idea con una forma que se refiera a algo que ocurre con frecuencia y constancia. Traducción alternativa: «muy frecuentemente».",
+  "lemas_es": [
+   "siempre"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5a8c9021e5d4",
+  "lemas_rv1909": [
+   {
+    "lema": "siempre",
+    "ref": "HEB.9.6"
+   }
+  ]
+ },
+ "uwtn-c:258865": {
+  "text_es": "La frase ⸢primer tabernáculo⸣ se refiere a la ⸢primera⸣ sección o sección exterior del ⸢tabernáculo⸣. Vea cómo tradujo la frase similar en 9:2. Traducción alternativa: «la sala exterior del tabernáculo».",
+  "lemas_es": [
+   "el primer tabernáculo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3a9705abbdca",
+  "lemas_rv1909": [
+   {
+    "lema": "el primer tabernáculo",
+    "ref": "HEB.9.6"
+   }
+  ]
+ },
+ "uwtn-c:258866": {
+  "text_es": "Si su idioma no usa números ordinales, puede usar un número cardinal aquí. Traducción alternativa: «tabernáculo uno» o «tienda uno».",
+  "lemas_es": [
+   "el primer tabernáculo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "272479da1ead",
+  "lemas_rv1909": [
+   {
+    "lema": "el primer tabernáculo",
+    "ref": "HEB.9.6"
+   }
+  ]
+ },
+ "uwtn:258865": {
+  "text_es": "La frase ⸢primer tabernáculo⸣ se refiere a la ⸢primera⸣ sección o sección exterior del ⸢tabernáculo⸣.",
+  "lemas_es": [
+   "el primer tabernáculo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "768dfed4171d",
+  "lemas_rv1909": [
+   {
+    "lema": "el primer tabernáculo",
+    "ref": "HEB.9.6"
+   }
+  ]
+ },
+ "uwtn-c:258867": {
+  "text_es": "En este versículo, el autor supone que sus lectores entenderán que se refiere a la fiesta llamada el Día de la Expiación. En ese día, el pontífice entraba en la parte más sagrada del tabernáculo y presentaba allí sangre de un sacrificio de animal para expiar los pecados de todos los israelitas, incluido él mismo. Puede leer acerca del Día de la Expiación en Levítico 16. Si fuera útil en su idioma, podría hacer esta idea más explícita, o podría usar una nota al pie para dar información adicional. Traducción alternativa: «en la segunda tienda, una vez al año, solo en el Día de la Expiación, entra el pontífice, y no sin sangre de un sacrificio que ofrece por sí mismo y por los pecados involuntarios del pueblo».",
+  "lemas_es": [
+   "en la segunda tienda, una vez al año solo el sumo sacerdote entra, y no sin sangre que ofrece por sí mismo y por los pecados involuntarios del pueblo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ebe654b0e87d",
+  "lemas_rv1909": [
+   {
+    "lema": "en el segundo, solo el pontífice una vez en el año, no sin sangre, la cual ofrece por sí mismo, y por los pecados de ignorancia del pueblo",
+    "ref": "HEB.9.7"
+   }
+  ]
+ },
+ "uwtn-c:258868": {
+  "text_es": "La frase ⸢segunda tienda⸣ se refiere a la ⸢segunda⸣ sección o sección interior del tabernáculo. Vea cómo tradujo la frase similar en 9:3. Traducción alternativa: «la sala interior del tabernáculo».",
+  "lemas_es": [
+   "la segunda tienda"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7220bee7c2f1",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.7"
+   }
+  ]
+ },
+ "uwtn-c:258869": {
+  "text_es": "Si su idioma no usa números ordinales, puede usar un número cardinal aquí. Traducción alternativa: «tienda dos».",
+  "lemas_es": [
+   "la segunda tienda"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a68596b57e8f",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.7"
+   }
+  ]
+ },
+ "uwtn-c:258870": {
+  "text_es": "La frase ⸢no sin sangre⸣ usa dos palabras negativas para enfatizar que se requiere ⸢sangre⸣. Si fuera útil en su idioma, podría expresar el significado con palabras positivas, enfatizando la importancia de la ⸢sangre⸣. Traducción alternativa: «entra, y siempre con sangre».",
+  "lemas_es": [
+   "entra, y no sin sangre"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "eebfd4943d7f",
+  "lemas_rv1909": [
+   {
+    "lema": "no sin sangre",
+    "ref": "HEB.9.7"
+   }
+  ]
+ },
+ "uwtn:258867": {
+  "text_es": "En este versículo, el autor supone que sus lectores entenderán que se refiere a la fiesta llamada el Día de la Expiación. En ese día, el pontífice entraba en la parte más sagrada del tabernáculo y presentaba allí sangre de un sacrificio de animal para expiar los pecados de todos los israelitas, incluido él mismo.",
+  "lemas_es": [
+   "en la segunda tienda, una vez al año solo el sumo sacerdote entra, y no sin sangre que ofrece por sí mismo y por los pecados involuntarios del pueblo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "264046fcfea8",
+  "lemas_rv1909": [
+   {
+    "lema": "en el segundo, solo el pontífice una vez en el año, no sin sangre, la cual ofrece por sí mismo, y por los pecados de ignorancia del pueblo",
+    "ref": "HEB.9.7"
+   }
+  ]
+ },
+ "uwtn:258868": {
+  "text_es": "La frase ⸢segunda tienda⸣ se refiere a la ⸢segunda⸣ sección o sección interior del tabernáculo.",
+  "lemas_es": [
+   "la segunda tienda"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "329425c3b232",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.7"
+   }
+  ]
+ },
+ "uwtn-c:258871": {
+  "text_es": "La palabra ⸢esto⸣ podría referirse: (1) a lo que el autor está a punto de decir acerca de ⸢el camino de los lugares santos⸣. Traducción alternativa: «Lo siguiente es lo que»; (2) a lo que el autor ha dicho acerca de cuándo y cómo los sacerdotes entran en cada parte del tabernáculo terrenal (véase 9:6–7). Traducción alternativa: «Todas aquellas cosas son lo que».",
+  "lemas_es": [
+   "Esto es lo que"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4b56017a1c92",
+  "lemas_rv1909": [
+   {
+    "lema": "esto",
+    "ref": "HEB.9.8"
+   }
+  ]
+ },
+ "uwtn-c:258872": {
+  "text_es": "El punto del autor es que el ⸢Espíritu Santo⸣ explica o aclara lo que significa que los sacerdotes sirvan en un tabernáculo de la manera que el autor ha descrito en 9:6–7. Si fuera útil en su idioma, podría usar una cláusula que indique que el Espíritu Santo explica el significado de lo que el autor ha tratado. Traducción alternativa: «A partir de aquellas cosas, el Espíritu Santo significa esto» o «El Espíritu Santo muestra que aquellas cosas significan esto».",
+  "lemas_es": [
+   "Esto es lo que el Espíritu Santo da a entender"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a4e8da48e2d8",
+  "lemas_rv1909": [
+   {
+    "lema": "esto a entender el Espíritu Santo",
+    "ref": "HEB.9.8"
+   }
+  ]
+ },
+ "uwtn-c:258873": {
+  "text_es": "El autor usa la forma posesiva para describir un ⸢camino⸣ que conduce a los ⸢lugares santos⸣. Si fuera útil en su idioma, podría expresar la idea sin usar una forma posesiva. Traducción alternativa: «que el camino a los lugares santos».",
+  "lemas_es": [
+   "que el camino de los lugares santos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "64a965565b0b",
+  "lemas_rv1909": [
+   {
+    "lema": "Santo, que aun no estaba descubierto el camino",
+    "ref": "HEB.9.8"
+   }
+  ]
+ },
+ "uwtn-c:258874": {
+  "text_es": "La frase ⸢los lugares santos⸣ podría referirse a: (1) la sección interior del santuario celestial. Traducción alternativa: «del Lugar Santísimo en el cielo»; (2) todo el santuario celestial. Traducción alternativa: «del santuario celestial»; (3) la sección interior del santuario terrenal. Traducción alternativa: «del Lugar Santísimo terrenal».",
+  "lemas_es": [
+   "de los lugares santos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "53765935e29a",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.8"
+   }
+  ]
+ },
+ "uwtn-c:258875": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en el ⸢camino⸣ que ⸢aún no se ha de manifestar⸣, y no en la persona que no lo manifiesta. Si debe indicar quién no realiza la acción, el autor implica que Dios no la realiza. Traducción alternativa: «que Dios aún no había manifestado el camino de los lugares santos».",
+  "lemas_es": [
+   "que el camino de los lugares santos aún no se ha de manifestar"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ec1559bf66fb",
+  "lemas_rv1909": [
+   {
+    "lema": "Santo, que aun no estaba descubierto el camino",
+    "ref": "HEB.9.8"
+   }
+  ]
+ },
+ "uwtn-c:258876": {
+  "text_es": "La frase ⸢el primer tabernáculo que aún tiene un lugar⸣ identifica algo que ocurre al mismo tiempo que el ⸢camino de los lugares santos⸣ ⸢aún no se ha de manifestar⸣. En otras palabras, es durante el tiempo en que el ⸢primer tabernáculo⸣ tiene un ⸢lugar⸣ que el ⸢camino⸣ no se ⸢manifiesta⸣. Si fuera útil en su idioma, podría hacer explícita la conexión. Traducción alternativa: «mientras el primer tabernáculo todavía tiene un lugar» o «durante el período en que el primer tabernáculo todavía tiene un lugar».",
+  "lemas_es": [
+   "el primer tabernáculo que aún tiene un lugar"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fda97bbfc2c1",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.8"
+   }
+  ]
+ },
+ "uwtn-c:258877": {
+  "text_es": "La frase ⸢el primer tabernáculo⸣ podría referirse a: (1) la sección exterior del tabernáculo terrenal. Traducción alternativa: «la primera sala del tabernáculo en la tierra»; (2) todo el tabernáculo terrenal, en contraste con el «segundo» tabernáculo, el celestial. Traducción alternativa: «el tabernáculo anterior, terrenal».",
+  "lemas_es": [
+   "el primer tabernáculo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "74b02dcad606",
+  "lemas_rv1909": [
+   {
+    "lema": "el primer tabernáculo",
+    "ref": "HEB.9.8"
+   }
+  ]
+ },
+ "uwtn-c:258878": {
+  "text_es": "Si su idioma no usa números ordinales, puede usar un número cardinal aquí. Traducción alternativa: «tabernáculo uno».",
+  "lemas_es": [
+   "el primer tabernáculo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "394d5dfd355a",
+  "lemas_rv1909": [
+   {
+    "lema": "el primer tabernáculo",
+    "ref": "HEB.9.8"
+   }
+  ]
+ },
+ "uwtn-c:258879": {
+  "text_es": "El autor se refiere a cómo el ⸢primer tabernáculo⸣ tiene un ⸢lugar⸣. Al hablar así, podría referirse a: (1) cómo el ⸢primer tabernáculo⸣ tiene validez legal. En otras palabras, cuando el ⸢primer tabernáculo⸣ tiene un ⸢lugar⸣, eso significa que las personas están obligadas a usarlo cuando adoran a Dios. Traducción alternativa: «que todavía tiene validez cultual» o «que funciona como parte del santuario de Dios»; (2) cómo el ⸢primer tabernáculo⸣ existe en un ⸢lugar⸣. En otras palabras, cuando el ⸢primer tabernáculo⸣ tiene un ⸢lugar⸣, eso significa que todavía existe. Traducción alternativa: «que sigue existiendo».",
+  "lemas_es": [
+   "tiene un lugar"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "311666376277",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.8"
+   }
+  ]
+ },
+ "uwtn:258871": {
+  "text_es": "La palabra ⸢esto⸣ podría referirse: (1) a lo que el autor está a punto de decir acerca de ⸢el camino de los lugares santos⸣. («Lo siguiente es lo que»); (2) a lo que el autor ha dicho acerca de cuándo y cómo los sacerdotes entran en cada parte del tabernáculo terrenal (véase 9:6–7). («Todas aquellas cosas son lo que»).",
+  "lemas_es": [
+   "Esto es lo que"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "395c53b47f19",
+  "lemas_rv1909": [
+   {
+    "lema": "esto",
+    "ref": "HEB.9.8"
+   }
+  ]
+ },
+ "uwtn:258872": {
+  "text_es": "El punto del autor es que el ⸢Espíritu Santo⸣ explica o aclara lo que significa que los sacerdotes sirvan en un tabernáculo de la manera que el autor ha descrito en 9:6–7.",
+  "lemas_es": [
+   "Esto es lo que el Espíritu Santo da a entender"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ad0fbad35f5f",
+  "lemas_rv1909": [
+   {
+    "lema": "esto a entender el Espíritu Santo",
+    "ref": "HEB.9.8"
+   }
+  ]
+ },
+ "uwtn:258874": {
+  "text_es": "La frase ⸢los lugares santos⸣ podría referirse a: (1) la sección interior del santuario celestial. («del Lugar Santísimo en el cielo»); (2) todo el santuario celestial. («del santuario celestial»); (3) la sección interior del santuario terrenal. («del Lugar Santísimo terrenal»).",
+  "lemas_es": [
+   "de los lugares santos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a5bf40cf032c",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.8"
+   }
+  ]
+ },
+ "uwtn:258877": {
+  "text_es": "La frase ⸢el primer tabernáculo⸣ podría referirse a: (1) la sección exterior del tabernáculo terrenal. («la primera sala del tabernáculo en la tierra»); (2) todo el tabernáculo terrenal, en contraste con el «segundo» tabernáculo, el celestial. («el tabernáculo anterior, terrenal»).",
+  "lemas_es": [
+   "el primer tabernáculo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7b3fa7b81a60",
+  "lemas_rv1909": [
+   {
+    "lema": "el primer tabernáculo",
+    "ref": "HEB.9.8"
+   }
+  ]
+ },
+ "uwtn:258879": {
+  "text_es": "El autor se refiere a cómo el ⸢primer tabernáculo⸣ tiene un ⸢lugar⸣. Al hablar así, podría referirse a: (1) cómo el ⸢primer tabernáculo⸣ tiene validez legal. En otras palabras, cuando el ⸢primer tabernáculo⸣ tiene un ⸢lugar⸣, eso significa que las personas están obligadas a usarlo cuando adoran a Dios. («que todavía tiene validez cultual» o «que funciona como parte del santuario de Dios»); (2) cómo el ⸢primer tabernáculo⸣ existe en un ⸢lugar⸣. En otras palabras, cuando el ⸢primer tabernáculo⸣ tiene un ⸢lugar⸣, eso significa que todavía existe. («que sigue existiendo»).",
+  "lemas_es": [
+   "tiene un lugar"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e205606b5899",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.8"
+   }
+  ]
+ },
+ "uwtn-c:258880": {
+  "text_es": "La palabra ⸢que⸣ podría referirse a: (1) el «primer tabernáculo» (9:8). Traducción alternativa: «que el primer tabernáculo es»; (2) todo lo que el autor ha tratado acerca del «tabernáculo» terrenal. Traducción alternativa: «todo lo cual es»",
+  "lemas_es": [
+   "que es"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "211bc5b5a6de",
+  "corregido_por_juez": "La traducción alternativa «que es el primer tabernáculo» invierte el sentido de «which first tabernacle is»; debería ser algo como «que el primer tabernáculo es».",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.9"
+   }
+  ]
+ },
+ "uwtn-c:258881": {
+  "text_es": "La frase ⸢el tiempo presente⸣ podría referirse a: (1) el período durante el cual el tabernáculo terrenal funcionó como santuario de Dios en la tierra. En este caso, la ⸢parábola⸣ es verdadera durante ⸢el tiempo presente⸣. Traducción alternativa: «para el tiempo durante el cual funcionó»; (2) el período entre la primera y la segunda venida de Jesús. En este caso, la ⸢parábola⸣ es verdadera hasta ⸢el tiempo presente⸣. Traducción alternativa: «para el tiempo hasta el presente» o «para el período de tiempo hasta que Jesús vino»",
+  "lemas_es": [
+   "para el tiempo presente"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9c7c8d387be8",
+  "lemas_rv1909": [
+   {
+    "lema": "tiempo presente",
+    "ref": "HEB.9.9"
+   }
+  ]
+ },
+ "uwtn-c:258882": {
+  "text_es": "La palabra ⸢que⸣ podría referirse a: (1) la ⸢parábola⸣. En este caso, la manera en que los ⸢dones y sacrificios⸣ no pueden ⸢perfeccionar al que rinde culto⸣ es parte de la ⸢parábola⸣. Traducción alternativa: «según la cual parábola»; (2) el «primer tabernáculo» en 9:8. En este caso, los ⸢dones y sacrificios⸣ se ofrecen de una manera que corresponde a la naturaleza del «primer tabernáculo». Traducción alternativa: «según el cual tabernáculo»",
+  "lemas_es": [
+   "según el cual"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e1175c9cf8b7",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.9"
+   }
+  ]
+ },
+ "uwtn-c:258883": {
+  "text_es": "Las palabras ⸢dones⸣ y ⸢sacrificios⸣ funcionan juntas para referirse a cualquier cosa que un israelita habría ofrecido a Dios. Es probable que ⸢sacrificios⸣ se refiera a animales que serían muertos y ofrecidos a Dios, mientras que ⸢dones⸣ identifica cualquier otra cosa que una persona daría a Dios. Si no tiene dos palabras para estas categorías, podría usar una sola palabra o frase para referirse a lo que un israelita ofrecería a Dios. Vea cómo tradujo la misma frase en 8:3. Traducción alternativa: «sacrificios» o «cosas presentadas a Dios»",
+  "lemas_es": [
+   "tanto dones como sacrificios"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "17cdc178187e",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.9"
+   }
+  ]
+ },
+ "uwtn-c:258884": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en lo que ⸢se ofrece⸣ y no en las personas que hacen la ofrenda. Si debe indicar quién realizó la acción, el autor implica que los israelitas, o más específicamente los sacerdotes, lo hicieron. Traducción alternativa: «los sacerdotes ofrecen tanto dones como sacrificios» o «ellos ofrecen tanto dones como sacrificios»",
+  "lemas_es": [
+   "tanto dones como sacrificios se ofrecen"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e085179ee91e",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.9"
+   }
+  ]
+ },
+ "uwtn-c:258885": {
+  "text_es": "El autor habla de los «que rinden culto» en general, no de un ⸢que rinde culto⸣ en particular. Si sería útil en su idioma, podría usar una forma que se refiera a los «que rinden culto» en general. Traducción alternativa: «los que rinden culto» o «cualquier persona que rinde culto»",
+  "lemas_es": [
+   "el que rinde culto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "be7babdc3d07",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.9"
+   }
+  ]
+ },
+ "uwtn:258880": {
+  "text_es": "La palabra ⸢que⸣ podría referirse a: (1) el «primer tabernáculo» (9:8). («que primer tabernáculo es»); (2) todo lo que el autor ha tratado acerca del «tabernáculo» terrenal. («todo lo cual es»)",
+  "lemas_es": [
+   "que es"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "727456b08480",
+  "corregido_por_juez": "La opción «que es el primer tabernáculo» traduce mal «which first tabernacle is»; invierte la referencia. Debería ser algo como «que primer tabernáculo es».",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.9"
+   }
+  ]
+ },
+ "uwtn:258881": {
+  "text_es": "La frase ⸢el tiempo presente⸣ podría referirse a: (1) el período durante el cual el tabernáculo terrenal funcionó como santuario de Dios en la tierra. En este caso, la ⸢parábola⸣ es verdadera durante ⸢el tiempo presente⸣. («para el tiempo durante el cual funcionó»); (2) el período entre la primera y la segunda venida de Jesús. En este caso, la ⸢parábola⸣ es verdadera hasta ⸢el tiempo presente⸣. («para el tiempo hasta el presente» o «para el período de tiempo hasta que Jesús vino»)",
+  "lemas_es": [
+   "para el tiempo presente"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4f015808cbd6",
+  "lemas_rv1909": [
+   {
+    "lema": "tiempo presente",
+    "ref": "HEB.9.9"
+   }
+  ]
+ },
+ "uwtn:258882": {
+  "text_es": "La palabra ⸢que⸣ podría referirse a: (1) la ⸢parábola⸣. En este caso, la manera en que los ⸢dones y sacrificios⸣ no pueden ⸢perfeccionar al que rinde culto⸣ es parte de la ⸢parábola⸣. («según la cual parábola»); (2) el «primer tabernáculo» en 9:8. En este caso, los ⸢dones y sacrificios⸣ se ofrecen de una manera que corresponde a la naturaleza del «primer tabernáculo». («según el cual tabernáculo»)",
+  "lemas_es": [
+   "según el cual"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "130857417e5d",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.9"
+   }
+  ]
+ },
+ "uwtn-c:258886": {
+  "text_es": "La frase ⸢solamente en cuanto a⸣ introduce lo que el antiguo pacto realmente podía lograr, ya que el autor afirmó en el versículo anterior que no era capaz de «perfeccionar al que rinde culto según la conciencia» (9:9). Si sería útil en su idioma, podría dejar más claro que el autor introduce un contraste con no poder «perfeccionar al que rinde culto según la conciencia». Traducción alternativa: «sino que solo tienen que ver con» o «sino que en cambio tratan de»",
+  "lemas_es": [
+   "solamente en cuanto a"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9a375c9f833e",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.10"
+   }
+  ]
+ },
+ "uwtn-c:258887": {
+  "text_es": "Las palabras ⸢comidas⸣, ⸢bebidas⸣ y ⸢bautismos⸣ se refieren a algunos de los temas que cubría la ley de Moisés. Había leyes acerca de qué ⸢comidas⸣ podían comer los israelitas y qué ⸢bebidas⸣ podían consumir. También había leyes acerca de ⸢bautismos⸣, o rituales de lavamiento, que lograban ⸢diversos⸣ propósitos, todos relacionados con la purificación. Si sería útil en su idioma, podría hacer más explícito a qué se refiere el autor. Traducción alternativa: «lo que uno podía comer o beber y cómo uno debía lavarse de diversas maneras»",
+  "lemas_es": [
+   "comidas y bebidas y diversos bautismos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0f8c4ab56224",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.10"
+   }
+  ]
+ },
+ "uwtn-c:258888": {
+  "text_es": "El autor usa la forma posesiva para describir ⸢ordenanzas⸣ que tienen que ver con ⸢el cuerpo⸣. En otras palabras, estas ⸢ordenanzas⸣ tratan solamente de asuntos corporales. Si sería útil en su idioma, podría expresar la idea sin usar una forma posesiva. Traducción alternativa: «ordenanzas concernientes al cuerpo» o «ordenanzas que tratan del cuerpo»",
+  "lemas_es": [
+   "ordenanzas del cuerpo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "124481daba13",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.10"
+   }
+  ]
+ },
+ "uwtn-c:258889": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en las ⸢ordenanzas⸣ que son ⸢impuestas⸣ y no en la persona que las impone. Si debe indicar quién realizó la acción, el autor implica que Dios lo hizo. Traducción alternativa: «que Dios impuso»",
+  "lemas_es": [
+   "siendo impuestas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1b82110fca96",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.10"
+   }
+  ]
+ },
+ "uwtn-c:258890": {
+  "text_es": "La frase ⸢nuevo orden⸣ se refiere al nuevo pacto que Dios da a su pueblo por medio de Jesús. Las palabras ⸢nuevo orden⸣ implican que este pacto es mejor que el pacto anterior, aunque no implican que el pacto anterior fuera malo. Si sería útil en su idioma, podría usar una palabra o frase que se refiera al tiempo cuando Dios dio el nuevo pacto. Traducción alternativa: «hasta el tiempo del nuevo pacto» o «hasta que Dios dio a su pueblo una nueva manera de hacer las cosas»",
+  "lemas_es": [
+   "hasta un tiempo de nuevo orden"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "168ffbd07d76",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.10"
+   }
+  ]
+ },
+ "uwtn:258887": {
+  "text_es": "Las palabras ⸢comidas⸣, ⸢bebidas⸣ y ⸢bautismos⸣ se refieren a algunos de los temas que cubría la ley de Moisés. Había leyes acerca de qué ⸢comidas⸣ podían comer los israelitas y qué ⸢bebidas⸣ podían consumir. También había leyes acerca de ⸢bautismos⸣, o rituales de lavamiento, que lograban ⸢diversos⸣ propósitos, todos relacionados con la purificación.",
+  "lemas_es": [
+   "comidas y bebidas y diversos bautismos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3ed4dacdbe1e",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.10"
+   }
+  ]
+ },
+ "uwtn:258890": {
+  "text_es": "La frase ⸢nuevo orden⸣ se refiere al nuevo pacto que Dios da a su pueblo por medio de Jesús. Las palabras ⸢nuevo orden⸣ implican que este pacto es mejor que el pacto anterior, aunque no implican que el pacto anterior fuera malo.",
+  "lemas_es": [
+   "hasta un tiempo de nuevo orden"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "990387198f8f",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.10"
+   }
+  ]
+ },
+ "uwtn-c:258891": {
+  "text_es": "La palabra ⸢Pero⸣ introduce la segunda mitad del contraste cuya primera mitad está en 9:1–10. Si sería útil en su idioma, podría usar una palabra que introduzca la segunda mitad de un contraste, o podría dejar ⸢Pero⸣ sin traducir. Traducción alternativa: «Por otro lado»,",
+  "lemas_es": [
+   "Pero"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8dcffcc29338",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.11"
+   }
+  ]
+ },
+ "uwtn-c:258892": {
+  "text_es": "La frase ⸢habiendo venido⸣ podría referirse implícitamente a: (1) Jesús ascendiendo al cielo. Traducción alternativa: «habiendo venido al cielo como pontífice»; (2) Jesús asumiendo un papel o posición específica. Traducción alternativa: «habiendo asumido la posición de pontífice»",
+  "lemas_es": [
+   "habiendo venido como sumo sacerdote"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "958167de295c",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.11"
+   }
+  ]
+ },
+ "uwtn-c:258893": {
+  "text_es": "El autor no aclara qué son ⸢las cosas buenas⸣. La frase probablemente se refiere a todo lo que los creyentes reciben por medio de ⸢Cristo⸣, incluidos el reposo, la redención, el perdón y la vida eterna. Puesto que el autor deja la idea vaga aquí, si es posible usted también debería usar una expresión general sin especificar qué son las ⸢cosas⸣. Traducción alternativa: «de las bendiciones» o «de los buenos dones»",
+  "lemas_es": [
+   "de las cosas buenas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b92e2092b54a",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.11"
+   }
+  ]
+ },
+ "uwtn-c:258894": {
+  "text_es": "En lugar de la frase ⸢que han llegado a existir⸣, muchos manuscritos antiguos tienen la frase «que están por venir». La frase que usa la ULT identifica ⸢las cosas buenas⸣ como cosas que los creyentes ya tienen, mientras que la frase «que están por venir» identifica ⸢las cosas buenas⸣ como cosas que los creyentes aún esperan. La mayoría de los eruditos piensa que la frase de la ULT es la correcta. Si existe una traducción de la Biblia en su región, puede que desee usar la lectura que esta tiene. Si no existe una traducción de la Biblia en su región, puede que desee usar la lectura de la ULT.",
+  "lemas_es": [
+   "habiendo llegado a existir"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c4b725645bd3",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.11"
+   }
+  ]
+ },
+ "uwtn-c:258895": {
+  "text_es": "La frase ⸢el tabernáculo mayor y más perfecto⸣ se refiere al ⸢tabernáculo⸣ celestial en el que Jesús ha entrado. La frase podría referirse más específicamente: (1) a todo el santuario celestial. Traducción alternativa: «todo el tabernáculo mayor y más perfecto»; (2) a la primera sección del santuario celestial. Traducción alternativa: «la primera sección del tabernáculo, mayor y más perfecta»",
+  "lemas_es": [
+   "el tabernáculo mayor y más perfecto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1ca65176a0d4",
+  "lemas_rv1909": [
+   {
+    "lema": "el más amplio y más perfecto tabernáculo",
+    "ref": "HEB.9.11"
+   }
+  ]
+ },
+ "uwtn-c:258896": {
+  "text_es": "Las palabras ⸢mayor⸣ y ⸢más perfecto⸣ funcionan juntas para identificar el ⸢tabernáculo⸣ celestial como superior al terrenal. Es probable que ⸢mayor⸣ identifique el ⸢tabernáculo⸣ celestial como más importante, mientras que ⸢más perfecto⸣ lo identifique como más capaz de lograr lo que se pretendía que hiciera. Si no tiene dos palabras para estas categorías, podría usar una sola palabra o frase para identificar el ⸢tabernáculo⸣ celestial como más importante y eficaz que el terrenal. Traducción alternativa: «mejor» o «más poderosamente eficaz»",
+  "lemas_es": [
+   "mayor y más perfecto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6a374b1d4cb2",
+  "lemas_rv1909": [
+   {
+    "lema": "y más perfecto",
+    "ref": "HEB.9.11"
+   }
+  ]
+ },
+ "uwtn-c:258897": {
+  "text_es": "La frase ⸢no hecho por manos humanas⸣ significa que Dios, y no los humanos, hizo este ⸢tabernáculo⸣. La frase ⸢no de esta creación⸣ significa que el ⸢tabernáculo⸣ no es parte del mundo terrenal. Si sería útil en su idioma, podría hacer esa idea más explícita. Esto podría significar: (1) que pertenece al mundo celestial, es decir, que no es de esta creación sino de otra creación. Traducción alternativa: «hecho no por humanos sino por Dios, es decir, de la creación celestial»; (2) que no es creado. Traducción alternativa: «no hecho por personas, es decir, no creado en absoluto»",
+  "lemas_es": [
+   "no hecho por manos humanas, es decir, no de esta creación"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "75fa8a74283f",
+  "lemas_rv1909": [
+   {
+    "lema": "no hecho de manos, es a saber, no de esta creación",
+    "ref": "HEB.9.11"
+   }
+  ]
+ },
+ "uwtn-c:258898": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en el ⸢tabernáculo⸣ que ⸢no es hecho⸣ y no en las ⸢manos humanas⸣ que no lo hicieron. Traducción alternativa: «que manos humanas no hicieron, es decir, que no es»",
+  "lemas_es": [
+   "no hecho por manos humanas, es decir, no"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f60a00fd3fca",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.11"
+   }
+  ]
+ },
+ "uwtn-c:258899": {
+  "text_es": "La frase ⸢manos humanas⸣ se refiere a la parte principal del cuerpo que las personas usan para hacer cosas. Así que la frase se refiere a toda la persona que hace cosas. Si sería útil en su idioma, podría aclarar que ⸢manos humanas⸣ se refiere a los «humanos» en general, no solo a sus manos. Traducción alternativa: «hecho por humanos» o «hecho por personas»",
+  "lemas_es": [
+   "hecho por manos humanas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6ebd54207d57",
+  "lemas_rv1909": [
+   {
+    "lema": "hecho de manos",
+    "ref": "HEB.9.11"
+   }
+  ]
+ },
+ "uwtn:258892": {
+  "text_es": "La frase ⸢habiendo venido⸣ podría referirse implícitamente a: (1) Jesús ascendiendo al cielo. («habiendo venido al cielo como pontífice»); (2) Jesús asumiendo un papel o posición específica. («habiendo asumido la posición de pontífice»)",
+  "lemas_es": [
+   "habiendo venido como sumo sacerdote"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "66269bc8614a",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.11"
+   }
+  ]
+ },
+ "uwtn:258894": {
+  "text_es": "En lugar de la frase ⸢que han llegado a existir⸣, muchos manuscritos antiguos tienen la frase «que están por venir».",
+  "lemas_es": [
+   "habiendo llegado a existir"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "414c2739eeac",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.11"
+   }
+  ]
+ },
+ "uwtn:258895": {
+  "text_es": "La frase ⸢el tabernáculo mayor y más perfecto⸣ se refiere al ⸢tabernáculo⸣ celestial en el que Jesús ha entrado. La frase podría referirse más específicamente: (1) a todo el santuario celestial. («todo el tabernáculo mayor y más perfecto»); (2) a la primera sección del santuario celestial. («la primera sección del tabernáculo, mayor y más perfecta»)",
+  "lemas_es": [
+   "el tabernáculo mayor y más perfecto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a67fc0b5dd54",
+  "lemas_rv1909": [
+   {
+    "lema": "el más amplio y más perfecto tabernáculo",
+    "ref": "HEB.9.11"
+   }
+  ]
+ },
+ "uwtn:258897": {
+  "text_es": "La frase ⸢no hecho por manos humanas⸣ significa que Dios, y no los hombres, hizo este ⸢tabernáculo⸣. La frase ⸢no de esta creación⸣ significa que el ⸢tabernáculo⸣ no es parte del mundo terrenal. Esto podría significar: (1) que pertenece al mundo celestial, es decir, no es de esta creación, sino de otra creación. («hecho no por los hombres, sino por Dios, es decir, de la creación celestial»); (2) que no fue creado. («no hecho por personas, es decir, no creado en absoluto»)",
+  "lemas_es": [
+   "no hecho por manos humanas, es decir, no de esta creación"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "95008a237f3a",
+  "corregido_por_juez": "Usa 'hecha/creada' en femenino, pero el referente es 'tabernáculo' (masculino); debería ser 'hecho/creado'.",
+  "lemas_rv1909": [
+   {
+    "lema": "no hecho de manos, es a saber, no de esta creación",
+    "ref": "HEB.9.11"
+   }
+  ]
+ },
+ "uwtn-c:258900": {
+  "text_es": "El autor se refiere a cómo un pontífice entraba en el santuario, llevando consigo ⸢sangre⸣ de un sacrificio. Presentaba la ⸢sangre⸣ a Dios y luego la aplicaba a varias partes del santuario, del altar y del arca. En este versículo, el autor contrasta cómo aquellos sacerdotes presentaban ⸢sangre⸣ de animales con cómo Jesús presentó ⸢su propia sangre⸣. Si sería útil en su idioma, podría hacer esta idea más explícita. Traducción alternativa: «y no por la sangre de machos cabríos y becerros sacrificados, que es la que usan los sacerdotes levíticos, sino por su propia sangre»",
+  "lemas_es": [
+   "y no por la sangre de machos cabríos y becerros, sino por su propia sangre"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2b8088f26eed",
+  "lemas_rv1909": [
+   {
+    "lema": "no por sangre de machos cabríos ni de becerros, mas por su propia sangre",
+    "ref": "HEB.9.12"
+   }
+  ]
+ },
+ "uwtn-c:258901": {
+  "text_es": "El autor se refiere a ⸢machos cabríos⸣ y ⸢becerros⸣ como dos ejemplos de animales que podían ser sacrificados para que el pontífice levítico pudiera entrar en el santuario con su ⸢sangre⸣. Estos no eran los únicos animales que podían ser sacrificados. Si sería útil en su idioma, podría usar una forma en su idioma que se refiera de manera general a los animales que son sacrificados. Traducción alternativa: «de animales sacrificados»",
+  "lemas_es": [
+   "de machos cabríos y becerros"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "84367488695e",
+  "lemas_rv1909": [
+   {
+    "lema": "de machos cabríos ni de becerros",
+    "ref": "HEB.9.12"
+   }
+  ]
+ },
+ "uwtn-c:258902": {
+  "text_es": "Aquí, al igual que en 9:8, la frase ⸢los lugares santos⸣ podría referirse a: (1) la sección interior del santuario celestial. Traducción alternativa: «el Lugar Santísimo en el cielo»; (2) todo el santuario celestial. Traducción alternativa: «el santuario celestial»",
+  "lemas_es": [
+   "los lugares santos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "45bdc39faed7",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.12"
+   }
+  ]
+ },
+ "uwtn-c:258903": {
+  "text_es": "La frase ⸢habiendo obtenido él mismo⸣ podría introducir una acción: (1) que ocurrió al mismo tiempo que ⸢entró⸣. Traducción alternativa: «que es cuando obtuvo»; (2) que ocurrió antes de que ⸢entrara⸣. Traducción alternativa: «después de que obtuvo»; (3) que ocurrió después de que ⸢entrara⸣. Traducción alternativa: «con el resultado de que obtuvo»",
+  "lemas_es": [
+   "habiendo obtenido él mismo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bf86d01c045b",
+  "lemas_rv1909": [
+   {
+    "lema": "el santuario, habiendo obtenido",
+    "ref": "HEB.9.12"
+   }
+  ]
+ },
+ "uwtn-c:258904": {
+  "text_es": "Cuando el autor dice que Jesús ⸢obtuvo eterna redención⸣ para su pueblo, habla como si Jesús literalmente hubiera pagado un precio para liberarlos de alguien o algo que los poseía o controlaba. Quiere decir que Jesús ha obtenido el perdón de los pecados de su pueblo y ha impedido para siempre que esos pecados los controlen. Aunque habla como si Jesús hubiera pagado un precio, el énfasis del autor aquí está particularmente en cómo Jesús liberó a su pueblo del pecado. Esta es una imagen bíblica importante, por lo que quizás desee conservar la metáfora en su traducción, aun si su idioma no usa normalmente figuras retóricas. De manera alternativa, podría expresarlo como una comparación. Traducción alternativa: «como si hubiera pagado un precio para liberar a su pueblo del pecado para siempre»",
+  "lemas_es": [
+   "habiendo obtenido él mismo eterna redención"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b026647a669d",
+  "lemas_rv1909": [
+   {
+    "lema": "el santuario, habiendo obtenido eterna redención",
+    "ref": "HEB.9.12"
+   }
+  ]
+ },
+ "uwtn-c:258905": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea detrás de ⸢redención⸣, podría expresar la idea usando un verbo como «redimir» o «liberar». Si lo hace, es posible que necesite aclarar que la ⸢redención⸣ es para los creyentes. Traducción alternativa: «habiendo redimido él mismo a su pueblo para siempre»",
+  "lemas_es": [
+   "habiendo obtenido él mismo eterna redención"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9e45d43f36f0",
+  "lemas_rv1909": [
+   {
+    "lema": "el santuario, habiendo obtenido eterna redención",
+    "ref": "HEB.9.12"
+   }
+  ]
+ },
+ "uwtn:258900": {
+  "text_es": "El autor se refiere a cómo un pontífice entraba en el santuario, llevando consigo ⸢sangre⸣ de un sacrificio. Presentaba la ⸢sangre⸣ a Dios y luego la aplicaba a varias partes del santuario, del altar y del arca. En este versículo, el autor contrasta cómo aquellos sacerdotes presentaban ⸢sangre⸣ de animales con cómo Jesús presentó ⸢su propia sangre⸣.",
+  "lemas_es": [
+   "y no por la sangre de machos cabríos y becerros, sino por su propia sangre"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3abbb939b963",
+  "lemas_rv1909": [
+   {
+    "lema": "no por sangre de machos cabríos ni de becerros, mas por su propia sangre",
+    "ref": "HEB.9.12"
+   }
+  ]
+ },
+ "uwtn:258902": {
+  "text_es": "Aquí, al igual que en 9:8, la frase ⸢los lugares santos⸣ podría referirse a: (1) la sección interior del santuario celestial. («el Lugar Santísimo en el cielo»); (2) todo el santuario celestial. («el santuario celestial»)",
+  "lemas_es": [
+   "los lugares santos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d4f3ab657a94",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.12"
+   }
+  ]
+ },
+ "uwtn:258903": {
+  "text_es": "La frase ⸢habiendo obtenido él mismo⸣ podría introducir una acción: (1) que ocurrió al mismo tiempo que ⸢entró⸣. («que es cuando obtuvo»); (2) que ocurrió antes de que ⸢entrara⸣. («después de que obtuvo»); (3) que ocurrió después de que ⸢entrara⸣. («con el resultado de que obtuvo»)",
+  "lemas_es": [
+   "habiendo obtenido él mismo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "63fe5e682278",
+  "lemas_rv1909": [
+   {
+    "lema": "el santuario, habiendo obtenido",
+    "ref": "HEB.9.12"
+   }
+  ]
+ },
+ "uwtn-c:258906": {
+  "text_es": "La palabra ⸢Porque⸣ introduce una explicación adicional de lo que Jesús logra con su sangre y de cómo lo hace. La explicación tiene la forma de una comparación entre lo que hacían los sacerdotes levíticos (este versículo) y lo que hace Jesús (9:14). Si sería útil en su idioma, podría usar una palabra o frase que introduzca una explicación adicional, o podría dejar ⸢Porque⸣ sin traducir. Traducción alternativa: «Puede obtener eterna redención porque»,",
+  "lemas_es": [
+   "Porque"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "dfb5d6a21f90",
+  "lemas_rv1909": [
+   {
+    "lema": "Porque",
+    "ref": "HEB.9.13"
+   }
+  ]
+ },
+ "uwtn-c:258907": {
+  "text_es": "El autor habla como si fuera una posibilidad hipotética que la ⸢sangre⸣ y la ⸢aspersión de cenizas⸣ puedan santificar a las personas, pero quiere decir que esto es realmente cierto. Si su idioma no presenta algo como una condición cuando es cierto o seguro, y si sus lectores podrían pensar que lo que el autor dice no es seguro, entonces podría expresar la idea usando una palabra como «ya que». Traducción alternativa: «ya que»",
+  "lemas_es": [
+   "si"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3249c536e3c9",
+  "lemas_rv1909": [
+   {
+    "lema": "si",
+    "ref": "HEB.9.13"
+   }
+  ]
+ },
+ "uwtn-c:258908": {
+  "text_es": "El autor se refiere a ⸢machos cabríos⸣ y ⸢toros⸣ como dos ejemplos de animales que podían ser sacrificados para que el pontífice levítico pudiera entrar en el santuario con su ⸢sangre⸣. Estos no eran los únicos animales que podían ser sacrificados, y el autor no intenta ser exhaustivo, lo cual es claro, ya que se refiere a «machos cabríos y becerros» en 9:12 en el mismo contexto. Si sería útil en su idioma, podría usar una forma que se refiera de manera general a los animales que son sacrificados. Traducción alternativa: «de animales sacrificados»",
+  "lemas_es": [
+   "de machos cabríos y toros"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f3eb93d3f80f",
+  "lemas_rv1909": [
+   {
+    "lema": "toros y de los machos cabríos",
+    "ref": "HEB.9.13"
+   }
+  ]
+ },
+ "uwtn-c:258909": {
+  "text_es": "El autor supone que sus lectores entenderán que alude a una ceremonia destinada a preparar agua especial para purificar a las personas que se habían vuelto ritualmente inmundas. En esta ceremonia, un sacerdote ofrecía y quemaba una ⸢novilla⸣, y los sacerdotes mezclaban las cenizas con agua y la rociaban sobre las personas que se habían vuelto inmundas. Puede leer acerca de esta ceremonia en Números 19:1–10. Si sería útil en su idioma, podría hacer esta idea más explícita. Traducción alternativa: «rociando sobre los que se habían contaminado agua mezclada con cenizas de una novilla que había sido sacrificada y quemada»",
+  "lemas_es": [
+   "rociando las cenizas de una novilla sobre los que se habían contaminado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ca71d5ac6543",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.13"
+   }
+  ]
+ },
+ "uwtn-c:258910": {
+  "text_es": "La palabra ⸢novilla⸣ se refiere a una vaca joven. A menudo, una ⸢novilla⸣ aún no había dado a luz ningún becerro. Si sería útil en su idioma, podría usar una palabra o frase que se refiera a una vaca joven. Traducción alternativa: «de una vaca joven»",
+  "lemas_es": [
+   "de una novilla"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "476e4253a686",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.13"
+   }
+  ]
+ },
+ "uwtn-c:258911": {
+  "text_es": "El autor usa la forma posesiva para describir la ⸢purificación⸣ que limpia la ⸢carne⸣. Si sería útil en su idioma, podría expresar la idea sin usar una forma posesiva. Traducción alternativa: «para limpiar su carne»",
+  "lemas_es": [
+   "para la purificación de su carne"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a527036b2cf8",
+  "lemas_rv1909": [
+   {
+    "lema": "para la purificación de la carne",
+    "ref": "HEB.9.13"
+   }
+  ]
+ },
+ "uwtn-c:258912": {
+  "text_es": "La frase ⸢purificación de su carne⸣ tiene la intención de contrastar con la frase «limpiar su conciencia» en 9:14. El punto del autor es que lo que hacían los sacerdotes levíticos podía limpiar eficazmente solo la ⸢carne⸣ o las partes externas de una persona. En contraste, la obra de Jesús limpia la «conciencia» o la parte interna de una persona. Si sería útil en su idioma, podría usar una palabra o frase que se refiera a una ⸢purificación⸣ externa o parcial. Traducción alternativa: «para la purificación externa» o «para la purificación de parte de una persona»",
+  "lemas_es": [
+   "para la purificación de su carne"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "83a09c50e3f6",
+  "lemas_rv1909": [
+   {
+    "lema": "para la purificación de la carne",
+    "ref": "HEB.9.13"
+   }
+  ]
+ },
+ "uwtn:258909": {
+  "text_es": "El autor supone que sus lectores entenderán que alude a una ceremonia destinada a preparar agua especial para purificar a las personas que se habían vuelto ritualmente inmundas. En esta ceremonia, un sacerdote ofrecía y quemaba una ⸢novilla⸣, y los sacerdotes mezclaban las cenizas con agua y la rociaban sobre las personas que se habían vuelto inmundas.",
+  "lemas_es": [
+   "rociando las cenizas de una novilla sobre los que se habían contaminado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b429981d0186",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.13"
+   }
+  ]
+ },
+ "uwtn:258910": {
+  "text_es": "La palabra ⸢novilla⸣ se refiere a una vaca joven. A menudo, una ⸢novilla⸣ aún no había dado a luz ningún becerro.",
+  "lemas_es": [
+   "de una novilla"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "83c5ffa37e1f",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.13"
+   }
+  ]
+ },
+ "uwtn:258912": {
+  "text_es": "El punto del autor es que lo que hacían los sacerdotes levíticos podía limpiar eficazmente solo la ⸢carne⸣ o las partes externas de una persona. En contraste, la obra de Jesús limpia la «conciencia» o la parte interna de una persona.",
+  "lemas_es": [
+   "para la purificación de su carne"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2a8b302320ca",
+  "lemas_rv1909": [
+   {
+    "lema": "para la purificación de la carne",
+    "ref": "HEB.9.13"
+   }
+  ]
+ },
+ "uwtn-c:258913": {
+  "text_es": "El autor usa una larga exclamación para enfatizar ⸢cuánto más⸣ la ⸢sangre de Cristo⸣ limpia a las personas. Si sería útil en su idioma, podría expresar la idea como una declaración positiva fuerte. Traducción alternativa: «la sangre de Cristo, quien por el Espíritu eterno se ofreció a sí mismo sin mancha a Dios, limpiará su conciencia mucho más de obras muertas para servir al Dios vivo»",
+  "lemas_es": [
+   "cuánto más la sangre de Cristo, quien por el Espíritu eterno se ofreció a sí mismo sin mancha a Dios, limpiará su conciencia de obras muertas para servir al Dios vivo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5afa0bf87f65",
+  "text_es_2": "El autor usa una larga exclamación para enfatizar ⸢cuánto más⸣ la ⸢sangre de Cristo⸣ limpia a las personas. Si le sería útil en su idioma, podría expresar la idea como una declaración positiva fuerte. Traducción alternativa: «la sangre de Cristo, quien mediante el Espíritu eterno se ofreció a sí mismo sin mancha a Dios, limpiará mucho más vuestras conciencias de las obras muertas para servir al Dios vivo»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "Cuánto más la sangre de Cristo, el cual por el Espíritu eterno se ofreció a sí mismo sin mancha a Dios, limpiará vuestras conciencias de las obras de muerte",
+    "ref": "HEB.9.14"
+   }
+  ]
+ },
+ "uwtn-c:258914": {
+  "text_es": "La frase ⸢el Espíritu eterno⸣ podría significar implícitamente: (1) el Espíritu Santo. En este caso, el Espíritu Santo, que es tan eficaz porque es ⸢eterno⸣, capacita o fortalece a ⸢Cristo⸣ mientras limpia a su pueblo. Traducción alternativa: «por el eterno Espíritu Santo»; (2) el propio espíritu de Cristo, que es ⸢eterno⸣. En este caso, el autor presenta un punto similar a lo que dijo en 7:16 acerca de la «vida indestructible» de Jesús. Traducción alternativa: «por medio de su espíritu que vive para siempre»",
+  "lemas_es": [
+   "por el Espíritu eterno"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6b303263b9fa",
+  "text_es_2": "La frase ⸢el Espíritu eterno⸣ podría significar implícitamente: (1) el Espíritu Santo. En este caso, el Espíritu Santo, que es tan eficaz porque es ⸢eterno⸣, capacita o da poder a ⸢Cristo⸣ mientras él limpia a su pueblo. Traducción alternativa: «mediante el Espíritu Santo eterno»; (2) el propio espíritu de Cristo, que es ⸢eterno⸣. En este caso, el autor presenta un punto similar a lo que dijo en 7:16 acerca de la «vida indestructible» de Jesús. Traducción alternativa: «por medio de su espíritu que vive para siempre»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "por el Espíritu eterno",
+    "ref": "HEB.9.14"
+   }
+  ]
+ },
+ "uwtn-c:258915": {
+  "text_es": "Esto podría referirse a: (1) la muerte de Jesús. Traducción alternativa: «se ofreció a sí mismo en la cruz sin mancha a Dios»; (2) lo que Jesús hizo cuando ascendió al cielo después de su resurrección. Traducción alternativa: «se ofreció a sí mismo a Dios en el cielo sin mancha»",
+  "lemas_es": [
+   "se ofreció a sí mismo sin mancha a Dios"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "931639d1b5f9",
+  "text_es_2": "Esto podría referirse a: (1) la muerte de Jesús. Traducción alternativa: «se ofreció a sí mismo en la cruz sin mancha a Dios»; (2) lo que Jesús hizo cuando ascendió al cielo después de su resurrección. Traducción alternativa: «se ofreció a sí mismo a Dios en el cielo sin mancha»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "se ofreció a sí mismo sin mancha a Dios",
+    "ref": "HEB.9.14"
+   }
+  ]
+ },
+ "uwtn-c:258916": {
+  "text_es": "El autor se refiere a Jesús como si fuera un animal que estaba ⸢sin mancha⸣. Al hablar así, identifica a Jesús como una persona que nunca pecó ni desobedeció a Dios. Si sería útil en su idioma, podría declarar el significado claramente. Traducción alternativa: «sin pecado ni falta» o «sin imperfección»",
+  "lemas_es": [
+   "sin mancha"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ea52a9223aa7",
+  "text_es_2": "El autor se refiere a Jesús como si fuera un animal que estaba ⸢sin mancha⸣. Al hablar así, identifica a Jesús como una persona que nunca pecó ni desobedeció a Dios. Si le sería útil en su idioma, podría expresar el significado claramente. Traducción alternativa: «sin pecado ni falta» o «sin imperfección»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "sin mancha",
+    "ref": "HEB.9.14"
+   }
+  ]
+ },
+ "uwtn-c:258917": {
+  "text_es": "Aquí, en contraste con la palabra «carne» en 9:13, la palabra ⸢conciencia⸣ se refiere a la parte interna de una persona. Si sería útil en su idioma, podría usar una palabra o frase que se refiera a la limpieza interna. Traducción alternativa: «su parte interna»",
+  "lemas_es": [
+   "su conciencia"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "76539c3737c2",
+  "text_es_2": "Aquí, en contraste con la palabra «carne» en 9:13, la palabra ⸢conciencia⸣ se refiere a la parte interior de una persona. Si le sería útil en su idioma, podría usar una palabra o frase que se refiera a la limpieza interna. Traducción alternativa: «vuestra parte interior»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "conciencias",
+    "ref": "HEB.9.14"
+   }
+  ]
+ },
+ "uwtn-c:258918": {
+  "text_es": "Muchos manuscritos antiguos tienen «nuestra» en lugar de ⸢su⸣ aquí. El autor no pretende excluirse a sí mismo ni a otros, por lo que el significado es muy similar en ambos casos. Si existe una traducción de la Biblia en su región, quizás desee usar la lectura que esta usa. Si no existe una traducción de la Biblia en su región, quizás desee usar la lectura de la ULT.",
+  "lemas_es": [
+   "su"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e2e224bf1fc6",
+  "text_es_2": "Muchos manuscritos antiguos tienen «nuestro» en lugar de ⸢vuestro⸣ aquí. El autor no quiere excluirse a sí mismo ni a otros, así que el significado es muy similar en ambos casos. Si existe una traducción de la Biblia en su región, puede que desee usar la lectura que esta usa. Si no existe una traducción de la Biblia en su región, puede que desee usar la lectura de ULT.",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.14"
+   }
+  ]
+ },
+ "uwtn-c:258919": {
+  "text_es": "La palabra ⸢conciencia⸣ es un sustantivo singular que se refiere a las «conciencias» de todos los miembros del público. Puede ser más natural en su idioma usar una forma plural. Traducción alternativa: «sus conciencias» o «la conciencia de cada uno de ustedes»",
+  "lemas_es": [
+   "su conciencia"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c5118a19287d",
+  "text_es_2": "La palabra ⸢conciencia⸣ es un sustantivo singular que se refiere a las «conciencias» de todos los miembros de la audiencia. Puede ser más natural en su idioma usar una forma plural. Traducción alternativa: «vuestras conciencias» o «cada una de vuestras conciencias»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "conciencias",
+    "ref": "HEB.9.14"
+   }
+  ]
+ },
+ "uwtn-c:258920": {
+  "text_es": "El autor habla de las ⸢obras⸣ como si estuvieran ⸢muertas⸣. Al hablar así, podría significar: (1) ⸢obras⸣ que no logran nada, así como las personas ⸢muertas⸣ no hacen nada. Traducción alternativa: «obras ineficaces» u «obras inútiles»; (2) ⸢obras⸣ que finalmente hacen que las personas mueran. Traducción alternativa: «obras que llevan a la muerte»",
+  "lemas_es": [
+   "obras muertas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5e3a4a9d2aba",
+  "text_es_2": "El autor habla de ⸢obras⸣ como si estuvieran ⸢muertas⸣. Al hablar así, podría significar: (1) ⸢obras⸣ que no logran nada, así como las personas ⸢muertas⸣ no hacen nada. Traducción alternativa: «obras ineficaces» o «obras inútiles»; (2) ⸢obras⸣ que con el tiempo causan que las personas mueran. Traducción alternativa: «obras que llevan a la muerte»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "obras de muerte",
+    "ref": "HEB.9.14"
+   }
+  ]
+ },
+ "uwtn-c:258921": {
+  "text_es": "Aquí, al igual que en 3:12, la frase ⸢el Dios vivo⸣ identifica a Dios como el único Dios que realmente «vive», a diferencia de los ídolos y otras cosas que las personas llaman «dios». Si sería útil en su idioma, podría decirlo explícitamente. Traducción alternativa: «el único Dios verdadero»",
+  "lemas_es": [
+   "el Dios vivo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "73768f0a3572",
+  "text_es_2": "Aquí, como en 3:12, la frase ⸢el Dios vivo⸣ identifica a Dios como el único Dios que realmente «vive», a diferencia de los ídolos y otras cosas que la gente llama «dios». Si le sería útil en su idioma, podría decir esto explícitamente. Traducción alternativa: «el único Dios verdadero»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "Dios vivo",
+    "ref": "HEB.9.14"
+   }
+  ]
+ },
+ "uwtn:258914": {
+  "text_es": "La frase ⸢el Espíritu eterno⸣ podría significar implícitamente: (1) el Espíritu Santo. En este caso, el Espíritu Santo, que es tan eficaz porque es ⸢eterno⸣, capacita o fortalece a ⸢Cristo⸣ mientras purifica a su pueblo. («mediante el eterno Espíritu Santo»); (2) el propio espíritu de Cristo, que es ⸢eterno⸣. En este caso, el autor señala algo similar a lo que dijo en 7:16 acerca de la «vida indestructible» de Jesús. («por medio de su espíritu que vive para siempre»)",
+  "lemas_es": [
+   "mediante el Espíritu eterno"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6d36b8d2ae8b",
+  "text_es_2": "La frase ⸢el Espíritu eterno⸣ podría significar implícitamente: (1) el Espíritu Santo. En este caso, el Espíritu Santo, que es tan eficaz porque es ⸢eterno⸣, capacita o da poder a ⸢Cristo⸣ mientras él limpia a su pueblo. («mediante el Espíritu Santo eterno»); (2) el propio espíritu de Cristo, que es ⸢eterno⸣. En este caso, el autor presenta un punto similar a lo que dijo en 7:16 acerca de la «vida indestructible» de Jesús. («por medio de su espíritu que vive para siempre»)",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "el Espíritu eterno",
+    "ref": "HEB.9.14"
+   }
+  ]
+ },
+ "uwtn:258915": {
+  "text_es": "Esto podría referirse a: (1) la muerte de Jesús. («se ofreció a sí mismo en la cruz sin mancha a Dios»); (2) lo que Jesús hizo cuando ascendió al cielo después de su resurrección. («se ofreció a sí mismo a Dios en el cielo sin mancha»)",
+  "lemas_es": [
+   "se ofreció a sí mismo sin mancha a Dios"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b87e8ef5e043",
+  "text_es_2": "Esto podría referirse a: (1) la muerte de Jesús. («se ofreció a sí mismo en la cruz sin mancha a Dios»); (2) lo que Jesús hizo cuando ascendió al cielo después de su resurrección. («se ofreció a sí mismo a Dios en el cielo sin mancha»)",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "se ofreció a sí mismo sin mancha a Dios",
+    "ref": "HEB.9.14"
+   }
+  ]
+ },
+ "uwtn:258917": {
+  "text_es": "Aquí, en contraste con la palabra «carne» en 9:13, la palabra ⸢conciencia⸣ se refiere a la parte interior de una persona.",
+  "lemas_es": [
+   "su conciencia"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b86a2efaf225",
+  "text_es_2": "Aquí, en contraste con la palabra «carne» en 9:13, la palabra ⸢conciencia⸣ se refiere a la parte interior de una persona.",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "conciencias",
+    "ref": "HEB.9.14"
+   }
+  ]
+ },
+ "uwtn:258918": {
+  "text_es": "El autor no pretende excluirse a sí mismo ni a otros, así que el significado es muy similar en ambos casos.",
+  "lemas_es": [
+   "su"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9fc487116fbc",
+  "text_es_2": "El autor no quiere excluirse a sí mismo ni a otros, así que el significado es muy similar en ambos casos.",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.14"
+   }
+  ]
+ },
+ "uwtn:258919": {
+  "text_es": "La palabra ⸢conciencia⸣ es un sustantivo singular que se refiere a las «conciencias» de todos los miembros del auditorio.",
+  "lemas_es": [
+   "su conciencia"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ad85bd4aed5e",
+  "text_es_2": "La palabra ⸢conciencia⸣ es un sustantivo singular que se refiere a las «conciencias» de todos los miembros de la audiencia.",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "conciencias",
+    "ref": "HEB.9.14"
+   }
+  ]
+ },
+ "uwtn:258920": {
+  "text_es": "El autor habla de las ⸢obras⸣ como si estuvieran ⸢muertas⸣. Al hablar así, podría significar: (1) ⸢obras⸣ que no logran nada, así como las personas ⸢muertas⸣ no hacen nada. («obras ineficaces» u «obras inútiles»); (2) ⸢obras⸣ que finalmente hacen que las personas mueran. («obras que llevan a la muerte»)",
+  "lemas_es": [
+   "obras muertas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0031504dbb1d",
+  "text_es_2": "El autor habla de ⸢obras⸣ como si estuvieran ⸢muertas⸣. Al hablar así, podría significar: (1) ⸢obras⸣ que no logran nada, así como las personas ⸢muertas⸣ no hacen nada. («obras ineficaces» o «obras inútiles»); (2) ⸢obras⸣ que con el tiempo causan que las personas mueran. («obras que llevan a la muerte»)",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "obras de muerte",
+    "ref": "HEB.9.14"
+   }
+  ]
+ },
+ "uwtn-c:258922": {
+  "text_es": "La frase ⸢por esta razón⸣ podría referirse: (1) a lo que Cristo ha logrado, que el autor describió en 9:14. Traducción alternativa: «puesto que ha hecho esas cosas, es mediador de un nuevo pacto, para que» o «por causa de eso, es mediador de un nuevo pacto, para que»; (2) a la idea que introduce ⸢para que⸣. Traducción alternativa: «es mediador de un nuevo pacto por esta razón: para que» o «es mediador de un nuevo pacto para que»",
+  "lemas_es": [
+   "por esta razón, es mediador de un nuevo pacto, para que"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "66066b940df6",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.15"
+   }
+  ]
+ },
+ "uwtn-c:258923": {
+  "text_es": "La palabra ⸢él⸣ se refiere a Cristo. Puede ser útil aclarar esto para sus lectores. Traducción alternativa: «Cristo es»",
+  "lemas_es": [
+   "él es"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "da4d0cbdd94b",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.15"
+   }
+  ]
+ },
+ "uwtn-c:258924": {
+  "text_es": "El autor usa la forma posesiva para describir cómo Jesús funciona como el ⸢mediador⸣ de ⸢un nuevo pacto⸣. Si fuera útil en su idioma, podría expresar la idea sin usar una forma posesiva. Traducción alternativa: «él media un nuevo pacto»",
+  "lemas_es": [
+   "él es mediador de un nuevo pacto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cbf607edf476",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.15"
+   }
+  ]
+ },
+ "uwtn-c:258925": {
+  "text_es": "La frase ⸢habiendo ocurrido una muerte⸣ introduce algo que ocurre antes de que ⸢los llamados⸣ reciban ⸢la promesa⸣. De hecho, la ⸢muerte⸣ les permite o los capacita para recibirla. Puede ser más natural en su idioma poner la información sobre lo que los creyentes reciben antes de la información sobre lo que los capacita para recibirlo. Traducción alternativa: «para que los llamados reciban la promesa de la herencia eterna, habiendo ocurrido una muerte para redención de las transgresiones relacionadas con el primer pacto»",
+  "lemas_es": [
+   "para que, habiendo ocurrido una muerte para redención de las transgresiones relacionadas con el primer pacto, los llamados reciban la promesa de la herencia eterna"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3a610cc3fe74",
+  "lemas_rv1909": [
+   {
+    "lema": "muerte para la remisión de las rebeliones que había bajo del primer testamento, los que son llamados reciban la promesa de la herencia eterna",
+    "ref": "HEB.9.15"
+   }
+  ]
+ },
+ "uwtn-c:258926": {
+  "text_es": "El autor se refiere a la ⸢muerte⸣ de Jesús en la cruz. Si fuera útil en su idioma, podría hacer esta idea más explícita. Traducción alternativa: «habiendo muerto Jesús en la cruz»",
+  "lemas_es": [
+   "habiendo ocurrido una muerte"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "54c2ba3de0b7",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.15"
+   }
+  ]
+ },
+ "uwtn-c:258927": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea detrás de ⸢redención⸣, podría expresar la idea usando un verbo como «redimir». Traducción alternativa: «a fin de redimir las transgresiones»",
+  "lemas_es": [
+   "para redención de las transgresiones"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a58557ba5e53",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.15"
+   }
+  ]
+ },
+ "uwtn-c:258928": {
+  "text_es": "Vea cómo tradujo la imagen de ⸢redención⸣ en 9:12. Traducción alternativa: «como si hubiera pagado un precio para liberar a su pueblo de las transgresiones»",
+  "lemas_es": [
+   "para redención de las transgresiones"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "354035a1e77f",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.15"
+   }
+  ]
+ },
+ "uwtn-c:258929": {
+  "text_es": "La frase ⸢primer pacto⸣ se refiere al acuerdo que Dios hizo con los israelitas por medio de Moisés. Si fuera útil en su idioma, podría hacer esta idea más explícita. Vea cómo tradujo la frase similar en 8:7. Traducción alternativa: «el pacto que Dios hizo con su pueblo al principio»",
+  "lemas_es": [
+   "el primer pacto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4b654c1d7862",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.15"
+   }
+  ]
+ },
+ "uwtn-c:258930": {
+  "text_es": "Si su idioma no usa números ordinales, puede usar un número cardinal aquí. Traducción alternativa: «pacto uno o el pacto anterior»",
+  "lemas_es": [
+   "el primer pacto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "48190787ab33",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.15"
+   }
+  ]
+ },
+ "uwtn-c:258931": {
+  "text_es": "El autor habla como si Dios hubiera ⸢llamado⸣ literalmente por nombre a aquellos que ha elegido para que sean su pueblo. Si fuera útil en su idioma, podría expresar el significado de manera sencilla. Traducción alternativa: «los que Dios ha elegido para que sean su pueblo»",
+  "lemas_es": [
+   "los llamados"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8e41bb42bc93",
+  "lemas_rv1909": [
+   {
+    "lema": "llamados",
+    "ref": "HEB.9.15"
+   }
+  ]
+ },
+ "uwtn-c:258932": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en ⸢los⸣ que son ⸢llamados⸣ y no en la persona que llama. Si debe indicar quién realizó la acción, el autor implica que Dios lo hizo. Traducción alternativa: «los que Dios llamó»",
+  "lemas_es": [
+   "los llamados"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "548baa0e73c9",
+  "lemas_rv1909": [
+   {
+    "lema": "llamados",
+    "ref": "HEB.9.15"
+   }
+  ]
+ },
+ "uwtn-c:258933": {
+  "text_es": "Aquí el autor puede estar indicando que ⸢los llamados⸣ pueden ⸢recibir la promesa⸣: (1) al menos parcialmente ahora. Traducción alternativa: «están recibiendo»; (2) en el futuro. Traducción alternativa: «recibirán»",
+  "lemas_es": [
+   "reciban"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "164d00f484ad",
+  "lemas_rv1909": [
+   {
+    "lema": "reciban",
+    "ref": "HEB.9.15"
+   }
+  ]
+ },
+ "uwtn-c:258934": {
+  "text_es": "El autor usa la forma posesiva para describir una ⸢promesa⸣ cuyo contenido es ⸢la herencia eterna⸣. Si fuera útil en su idioma, podría expresar la idea sin usar una forma posesiva. Traducción alternativa: «la promesa, es decir, la herencia eterna» o «la prometida herencia eterna»",
+  "lemas_es": [
+   "la promesa de la herencia eterna"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "12929e759cde",
+  "lemas_rv1909": [
+   {
+    "lema": "la promesa de la herencia eterna",
+    "ref": "HEB.9.15"
+   }
+  ]
+ },
+ "uwtn-c:258935": {
+  "text_es": "El autor habla como si los creyentes fueran hijos que heredarían la propiedad que un padre o una madre transmite a su hijo o hija cuando muere. No está sugiriendo que los creyentes recibirán esta ⸢herencia⸣ después de que Dios muera, ya que Dios nunca morirá. Más bien, habla de esta manera para indicar que los creyentes recibirán lo que Dios prometió. Si fuera útil en su idioma, podría expresar el significado de manera clara. Traducción alternativa: «de lo que Dios da a su pueblo para siempre»",
+  "lemas_es": [
+   "de la herencia eterna"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "527b6f4f4249",
+  "corregido_por_juez": "Traduce 'parent' como 'padre', restringiendo el término neutro a masculino.",
+  "lemas_rv1909": [
+   {
+    "lema": "de la herencia eterna",
+    "ref": "HEB.9.15"
+   }
+  ]
+ },
+ "uwtn:258922": {
+  "text_es": "La frase ⸢por esta razón⸣ podría referirse: (1) a lo que Cristo ha logrado, lo cual el autor describió en 9:14. («puesto que ha hecho esas cosas, es mediador de un nuevo testamento, para que» o «por causa de eso, es mediador de un nuevo testamento, para que»); (2) a la idea que introduce ⸢para que⸣. («es mediador de un nuevo testamento por esta razón: para que» o «es mediador de un nuevo testamento para que»)",
+  "lemas_es": [
+   "por esta razón, es mediador de un nuevo testamento, para que"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "18a96e71f2ce",
+  "corregido_por_juez": "Traduce «new covenant» como «nuevo pacto»; en la RV1909 (Heb 9:15) corresponde «nuevo testamento».",
+  "lemas_rv1909": [
+   {
+    "lema": "es mediador del nuevo testamento",
+    "ref": "HEB.9.15"
+   }
+  ]
+ },
+ "uwtn:258926": {
+  "text_es": "El autor se refiere a la ⸢muerte⸣ de Jesús en la cruz.",
+  "lemas_es": [
+   "habiendo ocurrido una muerte"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8d2a16cc3739",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.15"
+   }
+  ]
+ },
+ "uwtn:258929": {
+  "text_es": "La frase ⸢primer testamento⸣ se refiere al pacto que Dios hizo con los israelitas por medio de Moisés.",
+  "lemas_es": [
+   "el primer testamento"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "10f07dedbf87",
+  "corregido_por_juez": "Traduce «first covenant» como «primer pacto»; en la RV1909 (Heb 9:15) corresponde «primer testamento».",
+  "lemas_rv1909": [
+   {
+    "lema": "primer testamento",
+    "ref": "HEB.9.15"
+   }
+  ]
+ },
+ "uwtn:258933": {
+  "text_es": "Aquí el autor puede estar indicando que ⸢los llamados⸣ pueden ⸢recibir la promesa⸣: (1) al menos parcialmente ahora. («están recibiendo»); (2) en el futuro. («recibirán»)",
+  "lemas_es": [
+   "reciban"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1e209e5b847b",
+  "lemas_rv1909": [
+   {
+    "lema": "reciban",
+    "ref": "HEB.9.15"
+   }
+  ]
+ },
+ "uwtn-c:258936": {
+  "text_es": "La palabra ⸢Porque⸣ introduce una explicación adicional de lo que el autor dijo en el versículo anterior (9:15) acerca de «una muerte» y «un mediador de un nuevo pacto». Si fuera útil en su idioma, podría usar una palabra o frase que introduzca una explicación adicional. Traducción alternativa: «En efecto», o «En cuanto a los pactos y las muertes»,",
+  "lemas_es": [
+   "Porque"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c541b1e5cd3b",
+  "lemas_rv1909": [
+   {
+    "lema": "Porque",
+    "ref": "HEB.9.16"
+   }
+  ]
+ },
+ "uwtn-c:258937": {
+  "text_es": "La palabra ⸢pacto⸣ podría referirse a: (1) un tipo específico de acuerdo en el que las personas declaran o escriben qué debe hacerse con sus posesiones cuando mueran. Si este es el caso, entonces, como se discute en la introducción a este capítulo, el autor estaría usando la palabra ⸢pacto⸣ en un sentido ligeramente diferente en este versículo y el siguiente que en el resto de la carta. Traducción alternativa: «hay un último testamento»; (2) el mismo tipo de ⸢pacto⸣ del que el autor ha estado hablando a lo largo de la carta. Traducción alternativa: «hay cualquier pacto»",
+  "lemas_es": [
+   "hay un pacto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ba7b04dafab2",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.16"
+   }
+  ]
+ },
+ "uwtn-c:258938": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en ⸢la muerte⸣ que es ⸢probada⸣ y no en la persona que la prueba. Si debe indicar quién realizó la acción, podría usar un sujeto indefinido. Traducción alternativa: «que alguien pruebe la muerte del que lo pactó»",
+  "lemas_es": [
+   "que sea probada la muerte del que lo pactó"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "175c8b16639e",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.16"
+   }
+  ]
+ },
+ "uwtn-c:258939": {
+  "text_es": "El significado exacto de la palabra traducida como ⸢ser probada⸣ depende del significado de la palabra ⸢pacto⸣ aquí: (1) Si la palabra ⸢pacto⸣ se refiere a un testamento o última voluntad, el autor quiere decir que el testamento no es válido ni eficaz hasta que todos sepan que la persona que hizo el testamento ha muerto. Traducción alternativa: «haber ocurrido» o «ser mostrada públicamente»; (2) Si la palabra ⸢pacto⸣ se refiere a cualquier ⸢pacto⸣, el autor quiere decir que el ⸢pacto⸣ no es válido ni eficaz a menos que la persona que lo hizo haya jurado o prometido que cumplirá el ⸢pacto⸣ o morirá. Traducción alternativa: «ser presentada como garantía» o «ser declarada como la consecuencia por quebrantar el pacto»",
+  "lemas_es": [
+   "ser probada"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f32b3207c594",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.16"
+   }
+  ]
+ },
+ "uwtn:258937": {
+  "text_es": "La palabra ⸢testamento⸣ podría referirse a: (1) un tipo específico de acuerdo en el que las personas declaran o escriben lo que debe hacerse con sus posesiones cuando mueren. Si este es el caso, entonces, como se analiza en la introducción a este capítulo, el autor estaría usando la palabra ⸢testamento⸣ en un sentido ligeramente diferente en este versículo y en el siguiente que en el resto de la carta. («hay un último testamento»); (2) el mismo tipo de ⸢testamento⸣ del que el autor ha estado hablando a lo largo de la carta. («hay algún testamento»)",
+  "lemas_es": [
+   "hay un testamento"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "db4244bd16d3",
+  "corregido_por_juez": "Traduce «covenant» como «pacto»; en la RV1909 (Heb 9:16-17) corresponde «testamento», y se pierde el contraste con «last testament».",
+  "lemas_rv1909": [
+   {
+    "lema": "hay testamento",
+    "ref": "HEB.9.16"
+   }
+  ]
+ },
+ "uwtn:258939": {
+  "text_es": "El significado exacto de la palabra traducida como ⸢ser probado⸣ depende del significado de la palabra ⸢pacto⸣ aquí: (1) Si la palabra ⸢pacto⸣ se refiere a un testamento o última voluntad, el autor quiere decir que el testamento no es válido ni eficaz hasta que todos sepan que la persona que hizo el testamento ha muerto. («haber tenido lugar» o «ser mostrado públicamente»); (2) Si la palabra ⸢pacto⸣ se refiere a cualquier ⸢pacto⸣, el autor quiere decir que el ⸢pacto⸣ no es válido ni eficaz a menos que la persona que lo hizo haya jurado o prometido que lo cumplirá o morirá. («ser presentado como garantía» o «ser declarado como la consecuencia por quebrantar el pacto»)",
+  "lemas_es": [
+   "ser probado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d470b2575725",
+  "corregido_por_juez": "Traduce «covenant» como «pacto»; en la RV1909 (Heb 9:16-17) corresponde «testamento», lo que afecta la explicación del doble sentido.",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.16"
+   }
+  ]
+ },
+ "uwtn-c:258940": {
+  "text_es": "La palabra ⸢Porque⸣ introduce una explicación adicional de lo que el autor dijo en el versículo anterior (9:16) acerca de los pactos y la muerte. Si fuera útil en su idioma, podría usar una palabra o frase que introduzca una explicación adicional, o podría dejar ⸢Porque⸣ sin traducir. Traducción alternativa: «Como puede ver», o «En efecto»,",
+  "lemas_es": [
+   "Porque"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "726776e1b907",
+  "lemas_rv1909": [
+   {
+    "lema": "Porque",
+    "ref": "HEB.9.17"
+   }
+  ]
+ },
+ "uwtn-c:258942": {
+  "text_es": "El autor usa el adjetivo ⸢muertos⸣ como sustantivo para referirse a las personas que están ⸢muertas⸣. Es posible que su idioma use los adjetivos de la misma manera. Si no, podría traducir este con una frase nominal. Traducción alternativa: «personas que están muertas»",
+  "lemas_es": [
+   "los muertos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "96262461c495",
+  "lemas_rv1909": [
+   {
+    "lema": "muerte",
+    "ref": "HEB.9.17"
+   }
+  ]
+ },
+ "uwtn-c:en_tn_HEB_s5yz": {
+  "text_es": "Vea cómo tradujo la palabra ⸢pacto⸣ en 9:16. Traducción alternativa: (1) «un último testamento» o (2) «todo pacto»",
+  "lemas_es": [
+   "un pacto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "de104f976fdc",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.17"
+   }
+  ]
+ },
+ "uwtn-c:258943": {
+  "text_es": "La palabra ⸢Así que⸣ introduce las maneras en que el ⸢primer pacto⸣ encaja con lo que el autor ha dicho acerca de los pactos y la muerte en 9:16–17. En otras palabras, usa ⸢Así que⸣ para introducir la aplicación del principio que trató en esos versículos. Si fuera útil en su idioma, podría usar una palabra o frase que introduzca una inferencia o aplicación. Traducción alternativa: «Por eso», o «De manera muy similar»,",
+  "lemas_es": [
+   "Así que"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2a5d2109f999",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.18"
+   }
+  ]
+ },
+ "uwtn-c:258944": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en el ⸢primer pacto⸣ que fue ⸢inaugurado⸣ en lugar de en la persona que lo inauguró. Si debe indicar quién realizó la acción, el autor implica que Dios lo hizo por medio de Moisés (Ver: 9:19). Traducción alternativa: «Dios ni siquiera había inaugurado el primer pacto sin sangre»",
+  "lemas_es": [
+   "ni siquiera el primer pacto había sido inaugurado sin sangre"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ade85425629f",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.18"
+   }
+  ]
+ },
+ "uwtn-c:258945": {
+  "text_es": "Las frases ⸢ni siquiera⸣ y ⸢sin sangre⸣ juntas usan dos palabras negativas para enfatizar que se requiere ⸢sangre⸣. Si fuera útil en su idioma, podría expresar el significado con palabras positivas, enfatizando la importancia de la ⸢sangre⸣. Traducción alternativa: «aun el primer pacto había sido inaugurado con sangre»",
+  "lemas_es": [
+   "ni siquiera el primer pacto había sido inaugurado sin sangre"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1b3798d211e2",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.18"
+   }
+  ]
+ },
+ "uwtn-c:258946": {
+  "text_es": "Vea cómo tradujo esta frase en 8:7 y 9:15. Traducción alternativa: «el pacto que Dios hizo con su pueblo al principio»",
+  "lemas_es": [
+   "primer pacto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8dd865c91919",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.18"
+   }
+  ]
+ },
+ "uwtn-c:258947": {
+  "text_es": "El autor supone que su audiencia sabe que el uso de ⸢sangre⸣ también requiere la «muerte» de la que ha estado hablando. Si sus lectores no hicieran esta inferencia, podría hacer explícito que la ⸢sangre⸣ requiere que alguien o algo muera. Traducción alternativa: «sangre de animales sacrificados»",
+  "lemas_es": [
+   "sangre"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4f0f795ff3ee",
+  "lemas_rv1909": [
+   {
+    "lema": "sangre",
+    "ref": "HEB.9.18"
+   }
+  ]
+ },
+ "uwtn:258947": {
+  "text_es": "El autor supone que su audiencia sabe que el uso de ⸢sangre⸣ también requiere la «muerte» de la que ha estado hablando.",
+  "lemas_es": [
+   "sangre"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5273c2e43fbf",
+  "lemas_rv1909": [
+   {
+    "lema": "sangre",
+    "ref": "HEB.9.18"
+   }
+  ]
+ },
+ "uwtn-c:258948": {
+  "text_es": "La palabra ⸢Porque⸣ introduce un ejemplo importante de lo que el autor dijo en el versículo anterior (9:18) acerca de cómo el «primer pacto» fue «inaugurado» con «sangre». Si fuera útil en su idioma, podría usar una palabra o frase que introduzca un ejemplo. Traducción alternativa: «Por ejemplo»,",
+  "lemas_es": [
+   "Porque"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c19add362158",
+  "lemas_rv1909": [
+   {
+    "lema": "Porque",
+    "ref": "HEB.9.19"
+   }
+  ]
+ },
+ "uwtn-c:258949": {
+  "text_es": "El autor supone que su audiencia estará familiarizada con una historia del Antiguo Testamento. En esta historia, Moisés habló ⸢la ley⸣ y luego roció al pueblo con ⸢sangre⸣. Puede leer la historia en Éxodo 24:1–8. En estos versículos, los israelitas aceptaron seguir la ley y guardar el pacto. Si fuera útil en su idioma, podría hacer más explícito que el autor está hablando de cómo Moisés purificó al pueblo cuando oyeron y aceptaron el pacto con Dios. Puede ser útil hacer esto en más de una oración. Traducción alternativa: «habiendo sido dicho todo mandamiento según la ley por Moisés a todo el pueblo, ellos aceptaron guardar los mandamientos. Entonces, Moisés tomó la sangre de los becerros y los machos cabríos que habían sido sacrificados, y la mezcló con agua y lana roja e hisopo. Entonces, roció con la mezcla tanto el rollo de la ley mismo como a todo el pueblo»",
+  "lemas_es": [
+   "habiendo sido dicho todo mandamiento según la ley por Moisés a todo el pueblo, habiendo tomado la sangre de los becerros y los machos cabríos, con agua y lana roja e hisopo, roció tanto el rollo mismo como a todo el pueblo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7149de70997a",
+  "lemas_rv1909": [
+   {
+    "lema": "habiendo leído Moisés todos los mandamientos de la ley a todo el pueblo, tomando la sangre de los becerros y de los machos cabríos, con agua, y lana de grana, e hisopo, roció al mismo libro, y también a todo el pueblo",
+    "ref": "HEB.9.19"
+   }
+  ]
+ },
+ "uwtn-c:258950": {
+  "text_es": "Cuando el autor describe cómo Moisés usó ⸢lana roja⸣ e ⸢hisopo⸣, podría estar refiriéndose a las instrucciones para purificar a una persona de una enfermedad de la piel, que puede encontrar en Levítico 14:1–7. Sin embargo, es más probable que el autor se refiera a la ⸢lana roja⸣ y el ⸢hisopo⸣ que el sacerdote quemaba junto con una «vaquilla» para hacer «ceniza» que pudiera mezclarse con agua y usarse para la purificación. Puede leer acerca de este ritual en Números 19:1–10; el autor ya lo ha mencionado en 9:13. El punto del autor aquí es que cuando Moisés purificó al pueblo cuando aceptaron el pacto, la ley indicaba que la purificación requeriría ⸢sangre⸣, ⸢agua⸣, ⸢lana roja⸣ e ⸢hisopo⸣. Traducción alternativa: «con agua y lana roja e hisopo, como lo requería la Ley»",
+  "lemas_es": [
+   "con agua y lana roja e hisopo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "23dfdfa110a3",
+  "lemas_rv1909": [
+   {
+    "lema": "con agua, y lana de grana, e hisopo",
+    "ref": "HEB.9.19"
+   }
+  ]
+ },
+ "uwtn-c:258951": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en ⸢todo mandamiento⸣ que fue ⸢dicho⸣ en lugar de en la persona que lo dijo. Traducción alternativa: «habiendo dicho Moisés todo mandamiento según la ley»",
+  "lemas_es": [
+   "habiendo sido dicho todo mandamiento según la ley por Moisés"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f8bf14b8fbd5",
+  "lemas_rv1909": [
+   {
+    "lema": "habiendo leído Moisés todos los mandamientos de la ley a todo",
+    "ref": "HEB.9.19"
+   }
+  ]
+ },
+ "uwtn-c:258952": {
+  "text_es": "El autor se refiere a ⸢becerros⸣ y ⸢machos cabríos⸣ como dos ejemplos de animales que podían ser sacrificados para que un sacerdote pudiera usar su sangre. Estos no eran los únicos animales que podían ser sacrificados, y la historia acerca de Moisés hablando los mandamientos solo menciona ⸢toros⸣. Si fuera útil en su idioma, podría usar una forma en su idioma que se refiera de manera general a los animales que son sacrificados. Traducción alternativa: «de animales sacrificados»",
+  "lemas_es": [
+   "de los becerros y los machos cabríos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "73261704c2c4",
+  "lemas_rv1909": [
+   {
+    "lema": "de los becerros y de los machos cabríos",
+    "ref": "HEB.9.19"
+   }
+  ]
+ },
+ "uwtn-c:258953": {
+  "text_es": "El autor no declara cómo ⸢Moisés⸣ usó el ⸢agua⸣, la ⸢lana roja⸣ y el ⸢hisopo⸣. La historia en Éxodo 24:1–8 menciona que Moisés mezcló la sangre con ⸢agua⸣, pero no menciona las otras dos cosas. Si fuera útil para sus lectores, podría indicar cómo Moisés las usó. El autor puede estar implicando que: (1) Moisés ató tallos de plantas de ⸢hisopo⸣ junto con la ⸢lana roja⸣ para crear un cepillo que usó para rociar la ⸢sangre⸣ y el ⸢agua⸣. Eso es para lo que se usan el ⸢hisopo⸣ y la ⸢lana roja⸣ en Levítico 14:1–7. Traducción alternativa: «mezclándola con agua y sumergiendo en ella hisopo atado con lana roja»; (2) Moisés quemó la ⸢lana roja⸣ y el ⸢hisopo⸣ y los mezcló con la ⸢sangre⸣ y el ⸢agua⸣. Eso es para lo que se usan el ⸢hisopo⸣ y la ⸢lana roja⸣ en Números 19:1–10. Traducción alternativa: «mezclándola con agua y ceniza de lana roja e hisopo»",
+  "lemas_es": [
+   "con agua y lana roja e hisopo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4ade689e16a6",
+  "lemas_rv1909": [
+   {
+    "lema": "con agua, y lana de grana, e hisopo",
+    "ref": "HEB.9.19"
+   }
+  ]
+ },
+ "uwtn-c:258954": {
+  "text_es": "La frase ⸢lana roja⸣ se refiere a tela o cordel hecho del pelo de animales, especialmente ovejas, que está teñido de ⸢rojo⸣ o escarlata. Si sus lectores no estuvieran familiarizados con la ⸢lana roja⸣, en su traducción podría usar el nombre de un objeto comparable en su cultura, o podría usar una expresión general. Traducción alternativa: «tela escarlata» o «tela de color rojo»",
+  "lemas_es": [
+   "lana roja"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1a328e933cc2",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.19"
+   }
+  ]
+ },
+ "uwtn-c:258955": {
+  "text_es": "La palabra ⸢hisopo⸣ se refiere a una planta leñosa con hojas pequeñas que puede usarse para rociar líquidos sumergiendo las hojas en el líquido y luego sacudiéndolas o pasándolas sobre el objetivo. Si sus lectores no estuvieran familiarizados con el ⸢hisopo⸣, en su traducción podría usar el nombre de una planta comparable en su cultura, o podría usar una expresión general. Traducción alternativa: «parte de una planta con ramas pequeñas y muchas hojas»",
+  "lemas_es": [
+   "hisopo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "eb4a480a79d7",
+  "lemas_rv1909": [
+   {
+    "lema": "hisopo",
+    "ref": "HEB.9.19"
+   }
+  ]
+ },
+ "uwtn-c:258956": {
+  "text_es": "La palabra traducida como ⸢mismo⸣ enfatiza ⸢el rollo⸣. Considere usar una manera natural de enfatizar ⸢el rollo⸣ en su idioma. Traducción alternativa: «ese mismísimo rollo»",
+  "lemas_es": [
+   "el rollo mismo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ae7a04c76eb9",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.19"
+   }
+  ]
+ },
+ "uwtn-c:258957": {
+  "text_es": "La palabra ⸢rollo⸣ se refiere al rollo o libro en el que Moisés escribió todo lo que Dios le dijo. Si fuera útil en su idioma, podría expresar esta idea de manera más explícita. Traducción alternativa: «el rollo de las palabras de Dios» o «el rollo del pacto»",
+  "lemas_es": [
+   "el rollo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d04104a2b425",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.19"
+   }
+  ]
+ },
+ "uwtn:258949": {
+  "text_es": "El autor supone que su audiencia estará familiarizada con una historia del Antiguo Testamento. En esta historia, Moisés habló ⸢la ley⸣ y luego roció al pueblo con ⸢sangre⸣. En estos versículos, los israelitas aceptaron seguir la ley y guardar el pacto. Puede ser útil hacer esto en más de una oración.",
+  "lemas_es": [
+   "habiendo sido dicho todo mandamiento según la ley por Moisés a todo el pueblo, habiendo tomado la sangre de los becerros y los machos cabríos, con agua y lana roja e hisopo, roció tanto el rollo mismo como a todo el pueblo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "26967b30ff95",
+  "lemas_rv1909": [
+   {
+    "lema": "habiendo leído Moisés todos los mandamientos de la ley a todo el pueblo, tomando la sangre de los becerros y de los machos cabríos, con agua, y lana de grana, e hisopo, roció al mismo libro, y también a todo el pueblo",
+    "ref": "HEB.9.19"
+   }
+  ]
+ },
+ "uwtn:258950": {
+  "text_es": "Sin embargo, es más probable que el autor se refiera a la ⸢lana roja⸣ y el ⸢hisopo⸣ que el sacerdote quemaba junto con una «vaquilla» para hacer «ceniza» que pudiera mezclarse con agua y usarse para la purificación. El punto del autor aquí es que cuando Moisés purificó al pueblo cuando aceptaron el pacto, la ley indicaba que la purificación requeriría ⸢sangre⸣, ⸢agua⸣, ⸢lana roja⸣ e ⸢hisopo⸣.",
+  "lemas_es": [
+   "con agua y lana roja e hisopo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8495ed731a0f",
+  "lemas_rv1909": [
+   {
+    "lema": "con agua, y lana de grana, e hisopo",
+    "ref": "HEB.9.19"
+   }
+  ]
+ },
+ "uwtn:258953": {
+  "text_es": "El autor no declara cómo ⸢Moisés⸣ usó el ⸢agua⸣, la ⸢lana roja⸣ y el ⸢hisopo⸣. La historia en Éxodo 24:1–8 menciona que Moisés mezcló la sangre con ⸢agua⸣, pero no menciona las otras dos cosas. El autor puede estar implicando que: (1) Moisés ató tallos de plantas de ⸢hisopo⸣ junto con la ⸢lana roja⸣ para crear un cepillo que usó para rociar la ⸢sangre⸣ y el ⸢agua⸣. Eso es para lo que se usan el ⸢hisopo⸣ y la ⸢lana roja⸣ en Levítico 14:1–7. («mezclándola con agua y sumergiendo en ella hisopo atado con lana roja»); (2) Moisés quemó la ⸢lana roja⸣ y el ⸢hisopo⸣ y los mezcló con la ⸢sangre⸣ y el ⸢agua⸣. Eso es para lo que se usan el ⸢hisopo⸣ y la ⸢lana roja⸣ en Números 19:1–10. («mezclándola con agua y ceniza de lana roja e hisopo»)",
+  "lemas_es": [
+   "con agua y lana roja e hisopo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ffdca42d8609",
+  "lemas_rv1909": [
+   {
+    "lema": "con agua, y lana de grana, e hisopo",
+    "ref": "HEB.9.19"
+   }
+  ]
+ },
+ "uwtn:258954": {
+  "text_es": "La frase ⸢lana roja⸣ se refiere a tela o cordel hecho del pelo de animales, especialmente ovejas, que está teñido de ⸢rojo⸣ o escarlata.",
+  "lemas_es": [
+   "lana roja"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ec87b965c6fd",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.19"
+   }
+  ]
+ },
+ "uwtn:258955": {
+  "text_es": "La palabra ⸢hisopo⸣ se refiere a una planta leñosa con hojas pequeñas que puede usarse para rociar líquidos sumergiendo las hojas en el líquido y luego sacudiéndolas o pasándolas sobre el objetivo.",
+  "lemas_es": [
+   "hisopo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e43d3106e213",
+  "lemas_rv1909": [
+   {
+    "lema": "hisopo",
+    "ref": "HEB.9.19"
+   }
+  ]
+ },
+ "uwtn:258957": {
+  "text_es": "La palabra ⸢rollo⸣ se refiere al rollo o libro en el que Moisés escribió todo lo que Dios le dijo.",
+  "lemas_es": [
+   "el rollo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2d3e5ba248ed",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.19"
+   }
+  ]
+ },
+ "uwtn-c:258958": {
+  "text_es": "El autor cita de las Escrituras del Antiguo Testamento. No introduce las palabras como una cita, sino que las introduce como algo que Moisés dijo al pueblo. Sin embargo, supone que su audiencia habría entendido que estas eran palabras del Antiguo Testamento, específicamente de Éxodo 24:8. Si sus lectores no supieran que la cita es del Antiguo Testamento, podría incluir esa información en una nota al pie o usar algún otro medio para identificarla más explícitamente. Traducción alternativa: «diciendo, como registran las Escrituras»",
+  "lemas_es": [
+   "diciendo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b900f65797de",
+  "lemas_rv1909": [
+   {
+    "lema": "Diciendo",
+    "ref": "HEB.9.20"
+   }
+  ]
+ },
+ "uwtn-c:258959": {
+  "text_es": "La palabra ⸢Esta⸣ se refiere a la sangre que Moisés «roció» (Ver: 9:19). Si fuera útil en su idioma, podría hacer explícito que el pronombre se refiere a la sangre. Traducción alternativa: «Esta sangre es» o «Lo que he rociado es»",
+  "lemas_es": [
+   "Esta es"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f28b8b480768",
+  "lemas_rv1909": [
+   {
+    "lema": "Esta",
+    "ref": "HEB.9.20"
+   }
+  ]
+ },
+ "uwtn-c:258960": {
+  "text_es": "El autor usa la forma posesiva para describir cómo la ⸢sangre⸣ inaugura o confirma ⸢el pacto⸣. Si fuera útil en su idioma, podría expresar la idea sin usar una forma posesiva. Traducción alternativa: «la sangre que confirma el pacto» o «la sangre que inaugura el pacto»",
+  "lemas_es": [
+   "la sangre del pacto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1f7722fc21f7",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.20"
+   }
+  ]
+ },
+ "uwtn-c:258961": {
+  "text_es": "Traducción alternativa: «les mandó guardar»",
+  "lemas_es": [
+   "mandó para ustedes"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3f20c3ad986e",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.20"
+   }
+  ]
+ },
+ "uwtn:258958": {
+  "text_es": "El autor cita de las Escrituras del Antiguo Testamento. No introduce las palabras como una cita, sino que las introduce como algo que Moisés dijo al pueblo. Sin embargo, supone que su audiencia habría entendido que estas eran palabras del Antiguo Testamento, específicamente de Éxodo 24:8.",
+  "lemas_es": [
+   "diciendo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8311e9ec86ab",
+  "lemas_rv1909": [
+   {
+    "lema": "Diciendo",
+    "ref": "HEB.9.20"
+   }
+  ]
+ },
+ "uwtn-c:258962": {
+  "text_es": "La frase ⸢de manera similar⸣ se refiere de nuevo a 9:19 y a la ⸢manera⸣ en que Moisés roció sangre sobre el rollo y el pueblo. Si fuera útil en su idioma, podría hacer esta idea más explícita. Traducción alternativa: «como lo hizo con el rollo y el pueblo»",
+  "lemas_es": [
+   "de manera similar"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "48f128aad5db",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.21"
+   }
+  ]
+ },
+ "uwtn-c:258963": {
+  "text_es": "El autor supone que su audiencia entenderá que con ⸢vasos del servicio⸣ se refiere a los objetos y utensilios que los sacerdotes usaban en el ⸢servicio⸣ de Dios. Estos incluían tenedores, tazones, incensarios y muchos otros objetos similares. Si fuera útil en su idioma, podría aclarar que esta frase significa todos los utensilios y objetos que los sacerdotes usaban para servir a Dios. Traducción alternativa: «todos los objetos que los sacerdotes usaban cuando servían a Dios»",
+  "lemas_es": [
+   "todos los vasos del servicio"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "24fc0d234e51",
+  "lemas_rv1909": [
+   {
+    "lema": "todos los vasos",
+    "ref": "HEB.9.21"
+   }
+  ]
+ },
+ "uwtn:258962": {
+  "text_es": "La frase ⸢de la misma manera⸣ remite a 9:19 y a la ⸢manera⸣ en que Moisés roció la sangre sobre el rollo y sobre el pueblo.",
+  "lemas_es": [
+   "de la misma manera"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6c38c9b460c8",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.21"
+   }
+  ]
+ },
+ "uwtn:258963": {
+  "text_es": "El autor supone que su audiencia entenderá que con ⸢vasos del servicio⸣ se refiere a los objetos y utensilios que los sacerdotes usaban en el ⸢servicio⸣ de Dios. Estos incluían tenedores, tazones, incensarios y muchos otros objetos similares.",
+  "lemas_es": [
+   "todos los vasos del servicio"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "eff4b395ba1d",
+  "lemas_rv1909": [
+   {
+    "lema": "todos los vasos",
+    "ref": "HEB.9.21"
+   }
+  ]
+ },
+ "uwtn-c:258964": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en lo que es ⸢limpiado⸣ más que en quien realiza la limpieza. Si debe indicar quién realizó la acción, el autor implica que los sacerdotes lo hicieron. Traducción alternativa: «los sacerdotes limpian casi todo»",
+  "lemas_es": [
+   "casi todo es limpiado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b40013764ea6",
+  "lemas_rv1909": [
+   {
+    "lema": "casi todo",
+    "ref": "HEB.9.22"
+   }
+  ]
+ },
+ "uwtn-c:258965": {
+  "text_es": "El autor presenta esta cláusula como una declaración de lo que es generalmente verdadero. Use una forma en su idioma que presente una verdad general o algo que todos saben. Traducción alternativa: «como sabemos, sin derramamiento de sangre no hay perdón»",
+  "lemas_es": [
+   "sin derramamiento de sangre no hay perdón"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cdfb49b4914c",
+  "lemas_rv1909": [
+   {
+    "lema": "sangre; y sin derramamiento de sangre",
+    "ref": "HEB.9.22"
+   }
+  ]
+ },
+ "uwtn-c:258966": {
+  "text_es": "El autor usa dos palabras negativas para enfatizar cuán necesaria es la ⸢sangre⸣ para el ⸢perdón⸣. Si fuera más claro en su idioma, podría usar una expresión positiva para traducir esta doble negación que consiste en la preposición negativa ⸢sin⸣ y la partícula negativa ⸢no⸣. Traducción alternativa: «hay perdón solo con derramamiento de sangre»",
+  "lemas_es": [
+   "sin derramamiento de sangre no hay perdón"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "09109ba84d43",
+  "lemas_rv1909": [
+   {
+    "lema": "sangre; y sin derramamiento de sangre",
+    "ref": "HEB.9.22"
+   }
+  ]
+ },
+ "uwtn-c:258967": {
+  "text_es": "El autor supone que su audiencia entenderá, aunque esté usando una palabra poco común, que con ⸢derramamiento⸣ se refiere al «vertido» de la ⸢sangre⸣. Así, la frase ⸢derramamiento de sangre⸣ se refiere al proceso por el cual un sacerdote mata un animal, vierte su sangre en un tazón y luego la «vierte» en un lugar específico cerca de la presencia de Dios. Si fuera útil en su idioma, podría usar una frase que se refiera a la recolección y presentación de la sangre. Traducción alternativa: «derramamiento y presentación de sangre»",
+  "lemas_es": [
+   "derramamiento de sangre"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d4583c67b2f2",
+  "lemas_rv1909": [
+   {
+    "lema": "derramamiento de sangre",
+    "ref": "HEB.9.22"
+   }
+  ]
+ },
+ "uwtn-c:258968": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea detrás de ⸢perdón⸣, podría expresar la idea usando un verbo como «perdonar». Si necesita expresar quién perdona, el autor implica que es Dios. Traducción alternativa: «nadie es perdonado» o «Dios no perdona a nadie»",
+  "lemas_es": [
+   "no hay perdón"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "35e0b0922f6e",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.22"
+   }
+  ]
+ },
+ "uwtn:258965": {
+  "text_es": "El autor presenta esta cláusula como una declaración de lo que es generalmente verdadero.",
+  "lemas_es": [
+   "sin derramamiento de sangre no hay perdón"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8cd1da94b21b",
+  "lemas_rv1909": [
+   {
+    "lema": "sangre; y sin derramamiento de sangre",
+    "ref": "HEB.9.22"
+   }
+  ]
+ },
+ "uwtn:258967": {
+  "text_es": "El autor supone que su audiencia entenderá, aunque esté usando una palabra poco común, que con ⸢derramamiento⸣ se refiere al «vertido» de la ⸢sangre⸣. Así, la frase ⸢derramamiento de sangre⸣ se refiere al proceso por el cual un sacerdote mata un animal, vierte su sangre en un tazón y luego la «vierte» en un lugar específico cerca de la presencia de Dios.",
+  "lemas_es": [
+   "derramamiento de sangre"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "388b2b34658d",
+  "lemas_rv1909": [
+   {
+    "lema": "derramamiento de sangre",
+    "ref": "HEB.9.22"
+   }
+  ]
+ },
+ "uwtn-c:258969": {
+  "text_es": "La palabra ⸢Por tanto⸣ introduce una conclusión que se basa en lo que el autor ha dicho en 9:18–22 acerca de la sangre y la limpieza. Si fuera útil en su idioma, podría usar una palabra o frase que introduzca una conclusión o una inferencia. Traducción alternativa: «Por todo eso»,",
+  "lemas_es": [
+   "Por tanto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "949e21ea6c25",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.23"
+   }
+  ]
+ },
+ "uwtn-c:258970": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en los ⸢ejemplos⸣ que son ⸢limpiados⸣ más que en las personas que realizan la limpieza. Si debe indicar quién realizó la acción, el autor implica que «los sacerdotes» lo hicieron. Traducción alternativa: «los sacerdotes limpien con estos los ejemplos de las cosas en los cielos»",
+  "lemas_es": [
+   "los ejemplos de las cosas en los cielos ser limpiados con estos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f4a214ef744e",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.23"
+   }
+  ]
+ },
+ "uwtn-c:258971": {
+  "text_es": "La frase ⸢ejemplos de las cosas en los cielos⸣ podría referirse a: (1) el tabernáculo terrenal, que es un «ejemplo» del «tabernáculo» ⸢en los cielos⸣. Traducción alternativa: «ejemplo del tabernáculo en los cielos»; (2) el tabernáculo terrenal, su sacerdocio, sus sacrificios y todos los objetos asociados con él, que son ⸢ejemplos⸣ de las mismas cosas ⸢en los cielos⸣. Traducción alternativa: «ejemplos del tabernáculo, el sacerdocio y el servicio en los cielos» o «ejemplos de las cosas celestiales»",
+  "lemas_es": [
+   "ejemplos de las cosas en los cielos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "69bfa123d617",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.23"
+   }
+  ]
+ },
+ "uwtn-c:258972": {
+  "text_es": "En ambos casos, la palabra ⸢estos⸣ remite a los sacrificios y la sangre que el autor ha tratado en 9:18–22. Si fuera útil en su idioma, podría hacer esta referencia más explícita. Traducción alternativa: «con aquellos sacrificios … aquellos sacrificios» o «con la sangre de animales … la sangre de animales»",
+  "lemas_es": [
+   "con estos & estos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "87b15596a581",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.23"
+   }
+  ]
+ },
+ "uwtn-c:258973": {
+  "text_es": "El autor omite algunas de las palabras que en muchos idiomas una oración necesitaría para estar completa. Si fuera útil en su idioma, podría suplir estas palabras de la primera mitad del versículo. Traducción alternativa: «es necesario que las cosas celestiales mismas sean limpiadas con mejores sacrificios que estos»",
+  "lemas_es": [
+   "las cosas celestiales mismas, con mejores sacrificios que estos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d4ac6041ebd0",
+  "lemas_rv1909": [
+   {
+    "lema": "las mismas cosas celestiales con mejores sacrificios que estos",
+    "ref": "HEB.9.23"
+   }
+  ]
+ },
+ "uwtn-c:258974": {
+  "text_es": "Lo que el autor dice acerca de cómo las ⸢cosas celestiales mismas⸣ necesitan ⸢ser limpiadas⸣ podría significar: (1) que cuando las personas pecan, contaminan el santuario celestial, es decir, lo hacen impuro. Así, el santuario celestial necesita ⸢ser limpiado⸣ de esta impureza. Traducción alternativa: «las cosas celestiales mismas necesitan ser limpiadas de impureza con mejores sacrificios que estos»; (2) que el santuario celestial necesita ser «inaugurado» o «consagrado». En este caso, «limpieza» se refiere principalmente a preparar un lugar para que funcione como tabernáculo, no a purificarlo del pecado. Traducción alternativa: «las cosas celestiales mismas necesitan ser consagradas con mejores sacrificios que estos»",
+  "lemas_es": [
+   "las cosas celestiales mismas, con mejores sacrificios que estos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fcc0b5a61070",
+  "lemas_rv1909": [
+   {
+    "lema": "las mismas cosas celestiales con mejores sacrificios que estos",
+    "ref": "HEB.9.23"
+   }
+  ]
+ },
+ "uwtn-c:258975": {
+  "text_es": "La frase ⸢las cosas celestiales mismas⸣ podría referirse a: (1) el tabernáculo celestial. Traducción alternativa: «el tabernáculo celestial mismo»; (2) el tabernáculo celestial, su sacerdocio, sus sacrificios y todos los objetos asociados con él. Traducción alternativa: «el tabernáculo, el sacerdocio y el servicio celestiales mismos» o «las cosas en el cielo»",
+  "lemas_es": [
+   "las cosas celestiales mismas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ad5508ba7306",
+  "lemas_rv1909": [
+   {
+    "lema": "las mismas cosas celestiales",
+    "ref": "HEB.9.23"
+   }
+  ]
+ },
+ "uwtn-c:258976": {
+  "text_es": "La palabra traducida como ⸢mismas⸣ enfatiza ⸢las cosas celestiales⸣. Considere usar una manera natural de enfatizar ⸢las cosas celestiales⸣ en su idioma. Traducción alternativa: «las cosas mismas en el cielo»",
+  "lemas_es": [
+   "las cosas celestiales mismas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "515afd29d494",
+  "lemas_rv1909": [
+   {
+    "lema": "las mismas cosas celestiales",
+    "ref": "HEB.9.23"
+   }
+  ]
+ },
+ "uwtn-c:258977": {
+  "text_es": "El autor se refiere a ⸢mejores sacrificios⸣ en general para hacer un contraste con los sacrificios terrenales. Sin embargo, sabe que Jesús ofreció solo un «sacrificio». Si fuera útil en su idioma, podría usar una forma que indique que ⸢mejores sacrificios⸣ se refiere a lo que es generalmente verdadero y no a los detalles de lo que Jesús hizo, o podría usar una forma singular. Traducción alternativa: «con un mejor sacrificio»",
+  "lemas_es": [
+   "con mejores sacrificios"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5e999630f21a",
+  "lemas_rv1909": [
+   {
+    "lema": "con mejores sacrificios",
+    "ref": "HEB.9.23"
+   }
+  ]
+ },
+ "uwtn:258971": {
+  "text_es": "La frase ⸢ejemplos de las cosas en los cielos⸣ podría referirse a: (1) el tabernáculo terrenal, que es un «ejemplo» del «tabernáculo» ⸢en los cielos⸣. («ejemplo del tabernáculo en los cielos»); (2) el tabernáculo terrenal, su sacerdocio, sus sacrificios y todos los objetos asociados con él, que son ⸢ejemplos⸣ de las mismas cosas ⸢en los cielos⸣. («ejemplos del tabernáculo, el sacerdocio y el servicio en los cielos» o «ejemplos de las cosas celestiales»)",
+  "lemas_es": [
+   "ejemplos de las cosas en los cielos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2e8bd942e1ea",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.23"
+   }
+  ]
+ },
+ "uwtn:258974": {
+  "text_es": "Lo que el autor dice acerca de cómo las ⸢cosas celestiales mismas⸣ necesitan ⸢ser limpiadas⸣ podría significar: (1) que cuando las personas pecan, contaminan el santuario celestial, es decir, lo hacen impuro. Así, el santuario celestial necesita ⸢ser limpiado⸣ de esta impureza. («las cosas celestiales mismas necesitan ser limpiadas de impureza con mejores sacrificios que estos»); (2) que el santuario celestial necesita ser «inaugurado» o «consagrado». En este caso, «limpieza» se refiere principalmente a preparar un lugar para que funcione como tabernáculo, no a purificarlo del pecado. («las cosas celestiales mismas necesitan ser consagradas con mejores sacrificios que estos»)",
+  "lemas_es": [
+   "las cosas celestiales mismas, con mejores sacrificios que estos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "842d95b1e24a",
+  "lemas_rv1909": [
+   {
+    "lema": "las mismas cosas celestiales con mejores sacrificios que estos",
+    "ref": "HEB.9.23"
+   }
+  ]
+ },
+ "uwtn:258975": {
+  "text_es": "La frase ⸢las cosas celestiales mismas⸣ podría referirse a: (1) el tabernáculo celestial. («el tabernáculo celestial mismo»); (2) el tabernáculo celestial, su sacerdocio, sus sacrificios y todos los objetos asociados con él. («el tabernáculo, el sacerdocio y el servicio celestiales mismos» o «las cosas en el cielo»)",
+  "lemas_es": [
+   "las cosas celestiales mismas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "af5d736e04ae",
+  "lemas_rv1909": [
+   {
+    "lema": "las mismas cosas celestiales",
+    "ref": "HEB.9.23"
+   }
+  ]
+ },
+ "uwtn:258977": {
+  "text_es": "El autor se refiere a ⸢mejores sacrificios⸣ en general para hacer un contraste con los sacrificios terrenales.",
+  "lemas_es": [
+   "con mejores sacrificios"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c7dbbd5e4f91",
+  "lemas_rv1909": [
+   {
+    "lema": "con mejores sacrificios",
+    "ref": "HEB.9.23"
+   }
+  ]
+ },
+ "uwtn-c:258978": {
+  "text_es": "La palabra ⸢porque⸣ introduce una explicación adicional de lo que el autor dijo en el versículo anterior (9:23) acerca de las «cosas celestiales» y los «mejores sacrificios». La explicación continúa hasta 9:25–26. Si fuera útil en su idioma, podría usar una palabra o frase que introduzca una explicación adicional. Traducción alternativa: «por lo cual» o «y así»",
+  "lemas_es": [
+   "porque"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b9bad5d007fc",
+  "text_es_2": "La palabra ⸢porque⸣ introduce una explicación adicional de lo que el autor dijo en el versículo anterior (9:23) acerca de las «cosas celestiales» y los «mejores sacrificios». La explicación continúa hasta 9:25–26. Si le sería útil en su idioma, podría usar una palabra o frase que introduzca una explicación adicional. Traducción alternativa: «por lo cual» o «y así»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "Porque",
+    "ref": "HEB.9.24"
+   }
+  ]
+ },
+ "uwtn-c:258979": {
+  "text_es": "Las frases ⸢lugares santos⸣ y ⸢copias⸣ se refieren al Lugar Santísimo terrenal. La frase ⸢los verdaderos⸣ se refiere al Lugar Santísimo celestial. Si fuera útil en su idioma, podría hacer las ideas más explícitas. Traducción alternativa: «un Lugar Santísimo hecho con manos—una copia del verdadero celestial»",
+  "lemas_es": [
+   "lugares santos hechos con manos—copias de los verdaderos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3aa631600cb2",
+  "text_es_2": "Las frases ⸢lugares santos⸣ y ⸢copias⸣ se refieren al Lugar Santísimo terrenal. La frase ⸢los verdaderos⸣ se refiere al Lugar Santísimo celestial. Si le sería útil en su idioma, podría hacer las ideas más explícitas. Traducción alternativa: «un Lugar Santísimo hecho con manos—una copia del verdadero celestial»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.24"
+   }
+  ]
+ },
+ "uwtn-c:258980": {
+  "text_es": "La palabra ⸢manos⸣ se refiere a la parte principal del cuerpo que las personas usan para hacer cosas. Así, la frase se refiere a toda la persona que hace cosas. Si fuera útil en su idioma, podría aclarar que ⸢manos⸣ se refiere a los seres humanos en general, no solo a sus ⸢manos⸣. Traducción alternativa: «hecho por humanos» o «hecho por personas»",
+  "lemas_es": [
+   "hecho con manos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fa53af464811",
+  "text_es_2": "La palabra ⸢manos⸣ se refiere a la parte principal del cuerpo que las personas usan para hacer cosas. Así que la frase se refiere a toda la persona que hace cosas. Si le sería útil en su idioma, podría aclarar que ⸢manos⸣ se refiere a los seres humanos en general, no solo a sus ⸢manos⸣. Traducción alternativa: «hecho por humanos» o «hecho por personas»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.24"
+   }
+  ]
+ },
+ "uwtn-c:258981": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en los ⸢lugares santos⸣ que son ⸢hechos⸣ más que en las ⸢manos⸣ que los ⸢hicieron⸣. Traducción alternativa: «que manos hicieron»",
+  "lemas_es": [
+   "hecho con manos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b3eadaaf0972",
+  "text_es_2": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en los ⸢lugares santos⸣ que son ⸢hechos⸣, más que en las ⸢manos⸣ que los ⸢hicieron⸣. Traducción alternativa: «que manos hicieron»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.24"
+   }
+  ]
+ },
+ "uwtn-c:258982": {
+  "text_es": "La frase ⸢el cielo mismo⸣ está en singular. En esta carta, el autor generalmente usa la forma plural «cielos». Así, es probable que el autor use la frase ⸢el cielo mismo⸣ para referirse al más alto de múltiples cielos, que es donde están el santuario celestial y el trono de Dios. Si fuera útil en su idioma, podría usar una palabra o frase que se refiera al cielo más alto o más importante. Traducción alternativa: «el cielo que está sobre todos los demás» o «el cielo más importante»",
+  "lemas_es": [
+   "el cielo mismo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "572ede7ce8c8",
+  "text_es_2": "La frase ⸢el cielo mismo⸣ es singular. En esta carta, el autor normalmente usa la forma plural «cielos». Por lo tanto, es probable que el autor use la frase ⸢el cielo mismo⸣ para referirse al más alto de los múltiples cielos, que es donde están el santuario celestial y el trono de Dios. Si le sería útil en su idioma, podría usar una palabra o frase que se refiera al cielo más alto o más importante. Traducción alternativa: «el cielo que está por encima de todos los demás» o «el cielo más importante»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "el mismo cielo",
+    "ref": "HEB.9.24"
+   }
+  ]
+ },
+ "uwtn-c:258983": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El punto del autor es que Jesús es actualmente ⸢visible⸣ a Dios, así que use una forma que exprese bien esa idea. Traducción alternativa: «para aparecer» o «para hacerse visible»",
+  "lemas_es": [
+   "ser hecho visible"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c8bd6bc71123",
+  "text_es_2": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El punto del autor es que Jesús es actualmente ⸢visible⸣ a Dios, así que use una forma que exprese bien esa idea. Traducción alternativa: «aparecer» o «llegar a ser visible»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.24"
+   }
+  ]
+ },
+ "uwtn:258979": {
+  "text_es": "Las frases ⸢lugares santos⸣ y ⸢copias⸣ se refieren al Lugar Santísimo terrenal. La frase ⸢los verdaderos⸣ se refiere al Lugar Santísimo celestial.",
+  "lemas_es": [
+   "lugares santos hechos con manos—copias de los verdaderos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "eb62781c4cfa",
+  "text_es_2": "Las frases ⸢lugares santos⸣ y ⸢copias⸣ se refieren al Lugar Santísimo terrenal. La frase ⸢los verdaderos⸣ se refiere al Lugar Santísimo celestial.",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.24"
+   }
+  ]
+ },
+ "uwtn:258982": {
+  "text_es": "La frase ⸢el cielo mismo⸣ está en singular. En esta carta, el autor generalmente usa la forma plural «cielos». Así, es probable que el autor use la frase ⸢el cielo mismo⸣ para referirse al más alto de múltiples cielos, que es donde están el santuario celestial y el trono de Dios.",
+  "lemas_es": [
+   "el cielo mismo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "262fe9ad209e",
+  "text_es_2": "La frase ⸢el cielo mismo⸣ es singular. En esta carta, el autor normalmente usa la forma plural «cielos». Por lo tanto, es probable que el autor use la frase ⸢el cielo mismo⸣ para referirse al más alto de los múltiples cielos, que es donde están el santuario celestial y el trono de Dios.",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "el mismo cielo",
+    "ref": "HEB.9.24"
+   }
+  ]
+ },
+ "uwtn-c:258984": {
+  "text_es": "El autor omite algunas de las palabras que en muchos idiomas una oración necesitaría para estar completa. Si fuera útil en su idioma, podría suplir estas palabras del versículo anterior («entrar» en 9:24). Traducción alternativa: «y no entró»",
+  "lemas_es": [
+   "y no"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b26201bca936",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.25"
+   }
+  ]
+ },
+ "uwtn-c:258985": {
+  "text_es": "El autor se refiere a cómo el ⸢pontífice⸣ debía entrar en el Lugar Santísimo cada año para ofrecer sangre de los sacrificios. Puede leer acerca de lo que Dios requería para este Día de la Expiación en Levítico 16. Si fuera útil en su idioma, podría hacer esta idea más explícita. Traducción alternativa: «el pontífice entra en el Lugar Santísimo en el Día de la Expiación cada año con sangre que proviene de un animal sacrificado, no de sí mismo»",
+  "lemas_es": [
+   "el sumo sacerdote entra en el lugar santísimo cada año con sangre que no es suya"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3a1a373c8091",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.25"
+   }
+  ]
+ },
+ "uwtn-c:258986": {
+  "text_es": "La frase ⸢los lugares santos⸣ podría referirse a: (1) el Lugar Santísimo, la parte interior del santuario terrenal al que el ⸢pontífice⸣ entraba una vez al año. Traducción alternativa: «el Lugar Santísimo»; (2) todo el santuario terrenal, al que el pontífice entraba muchas veces en el año, pero especialmente en el Día de la Expiación. Traducción alternativa: «el santuario»",
+  "lemas_es": [
+   "los lugares santos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4fe9e7a388e2",
+  "corregido_por_juez": "Traduce «the holy places» (plural) como «el lugar santísimo» (singular), alterando la frase bajo discusión.",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.25"
+   }
+  ]
+ },
+ "uwtn-c:258987": {
+  "text_es": "La ⸢sangre⸣ es ⸢no suya⸣ porque proviene de un animal que alguien ha sacrificado. El autor expresa la idea de esta manera porque está contrastando al ⸢pontífice⸣ con Jesús, quien sí ofreció su propia sangre (véase 9:12). Si fuera útil en su idioma, podría expresar esta idea más explícitamente. Traducción alternativa: «con la sangre de otro» o «con sangre de un animal»",
+  "lemas_es": [
+   "con sangre que no es suya"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0efc1f592e21",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.25"
+   }
+  ]
+ },
+ "uwtn:258985": {
+  "text_es": "El autor se refiere a cómo el ⸢pontífice⸣ debía entrar en el Lugar Santísimo cada año para ofrecer sangre de los sacrificios.",
+  "lemas_es": [
+   "el sumo sacerdote entra en el lugar santísimo cada año con sangre que no es suya"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9b940db9c66c",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.25"
+   }
+  ]
+ },
+ "uwtn:258986": {
+  "text_es": "La frase ⸢los lugares santos⸣ podría referirse a: (1) el Lugar Santísimo, la parte interior del santuario terrenal al que el ⸢pontífice⸣ entraba una vez al año. («el Lugar Santísimo»); (2) todo el santuario terrenal, al que el pontífice entraba muchas veces en el año, pero especialmente en el Día de la Expiación. («el santuario»)",
+  "lemas_es": [
+   "los lugares santos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "967ad76fae3b",
+  "corregido_por_juez": "Traduce la frase citada «the holy places» como «el lugar santísimo» en singular, alterando la frase objeto de análisis.",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.25"
+   }
+  ]
+ },
+ "uwtn:258987": {
+  "text_es": "La ⸢sangre⸣ es ⸢no suya⸣ porque proviene de un animal que alguien ha sacrificado. El autor expresa la idea de esta manera porque está contrastando al ⸢pontífice⸣ con Jesús, quien sí ofreció su propia sangre (véase 9:12).",
+  "lemas_es": [
+   "con sangre que no es suya"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "48d279a0908c",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.25"
+   }
+  ]
+ },
+ "uwtn-c:258988": {
+  "text_es": "El autor no declara directamente la base de su inferencia (⸢pues⸣). En cambio, implica que es una versión positiva de la declaración negativa «no para ofrecerse muchas veces a sí mismo» en 9:25. En otras palabras, el punto es que Cristo no podía hacer una ofrenda muchas veces, ⸢pues⸣ entonces habría sido ⸢necesario que padeciera muchas veces⸣. Si fuera útil en su idioma, podría incluir algunas de las palabras implícitas para aclarar la idea. Traducción alternativa: «pues si se hubiera ofrecido muchas veces, habría sido necesario que» o «pues de otro modo habría sido necesario que»",
+  "lemas_es": [
+   "pues era necesario que"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "41ed17bc8ae2",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.26"
+   }
+  ]
+ },
+ "uwtn-c:258989": {
+  "text_es": "La palabra ⸢él⸣ se refiere a Jesús. Puede ser útil aclarar esto para sus lectores. Traducción alternativa: «Jesús» o «Cristo»",
+  "lemas_es": [
+   "él"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d785f4adb7aa",
+  "lemas_rv1909": [
+   {
+    "lema": "el",
+    "ref": "HEB.9.26"
+   }
+  ]
+ },
+ "uwtn-c:258990": {
+  "text_es": "El autor usa la palabra ⸢padecer⸣ para referirse a todo lo doloroso que Jesús experimentó, pero se enfoca especialmente en la muerte de Jesús en la cruz. Si fuera útil en su idioma, podría expresar la idea explícitamente. Traducción alternativa: «padecer y morir» o «ser crucificado»",
+  "lemas_es": [
+   "padecer"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e9373102e8c3",
+  "lemas_rv1909": [
+   {
+    "lema": "padecido",
+    "ref": "HEB.9.26"
+   }
+  ]
+ },
+ "uwtn-c:258991": {
+  "text_es": "La frase ⸢Pero ahora⸣ podría introducir (1) un contraste con la situación hipotética que el autor ofreció en la primera mitad del versículo. En este caso, la palabra ⸢ahora⸣ no se refiere al tiempo, sino que identifica lo que es realmente verdadero. Véase la construcción similar en 8:6, que contrasta con la situación hipotética en 8:4. Traducción alternativa: «En realidad, sin embargo», o «Como es en realidad»,; (2) un contraste con la situación hipotética anterior en el versículo y entre el pasado (lo que hacían los sacerdotes) y el presente (⸢ahora⸣). En este caso, la palabra ⸢ahora⸣ sí se refiere al tiempo. Traducción alternativa: «Pero en el presente»",
+  "lemas_es": [
+   "Pero ahora"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "75b92b1c145e",
+  "lemas_rv1909": [
+   {
+    "lema": "ahora",
+    "ref": "HEB.9.26"
+   }
+  ]
+ },
+ "uwtn-c:258992": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en Jesús, quien ⸢ha sido manifestado⸣, en lugar de en la persona que lo manifiesta. Si debe indicar quién hizo la acción, el autor implica que Jesús mismo lo hizo. Traducción alternativa: «se ha manifestado a sí mismo»",
+  "lemas_es": [
+   "ha sido manifestado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1c6c079355d3",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.26"
+   }
+  ]
+ },
+ "uwtn-c:258993": {
+  "text_es": "La frase ⸢ha sido manifestado⸣ podría referirse a: (1) Jesús siendo «hecho visible» en el santuario celestial (9:24). Traducción alternativa: «ha aparecido en el cielo»; (2) la aparición de Jesús en la tierra cuando se hizo humano y murió. Traducción alternativa: «ha aparecido en la tierra»",
+  "lemas_es": [
+   "ha sido manifestado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ed35af3eb518",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.26"
+   }
+  ]
+ },
+ "uwtn-c:258994": {
+  "text_es": "La frase ⸢la consumación de los siglos⸣ se refiere al último período en la historia del mundo, que comenzó cuando Jesús vivió, murió y volvió a vivir. También significa que este último período ha sido la meta de todos los acontecimientos anteriores. Traducción alternativa: «en este último período en la historia del mundo»",
+  "lemas_es": [
+   "en la consumación de los siglos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0ffe450e9765",
+  "lemas_rv1909": [
+   {
+    "lema": "en la consumación de los siglos",
+    "ref": "HEB.9.26"
+   }
+  ]
+ },
+ "uwtn:258990": {
+  "text_es": "El autor usa la palabra ⸢padecer⸣ para referirse a todo lo doloroso que Jesús experimentó, pero se enfoca especialmente en la muerte de Jesús en la cruz.",
+  "lemas_es": [
+   "padecer"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c2223aa68922",
+  "lemas_rv1909": [
+   {
+    "lema": "padecido",
+    "ref": "HEB.9.26"
+   }
+  ]
+ },
+ "uwtn:258991": {
+  "text_es": "La frase ⸢Pero ahora⸣ podría introducir (1) un contraste con la situación hipotética que el autor ofreció en la primera mitad del versículo. En este caso, la palabra ⸢ahora⸣ no se refiere al tiempo, sino que identifica lo que es realmente verdadero. Véase la construcción similar en 8:6, que contrasta con la situación hipotética en 8:4. («En realidad, sin embargo», o «Como es en realidad»,); (2) un contraste con la situación hipotética anterior en el versículo y entre el pasado (lo que hacían los sacerdotes) y el presente (⸢ahora⸣). En este caso, la palabra ⸢ahora⸣ sí se refiere al tiempo. («Pero en el presente»)",
+  "lemas_es": [
+   "Pero ahora"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "67271bf9c51e",
+  "lemas_rv1909": [
+   {
+    "lema": "ahora",
+    "ref": "HEB.9.26"
+   }
+  ]
+ },
+ "uwtn:258993": {
+  "text_es": "La frase ⸢ha sido manifestado⸣ podría referirse a: (1) Jesús siendo «hecho visible» en el santuario celestial (9:24). («ha aparecido en el cielo»); (2) la aparición de Jesús en la tierra cuando se hizo humano y murió. («ha aparecido en la tierra»)",
+  "lemas_es": [
+   "ha sido manifestado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2ebaade821d9",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.26"
+   }
+  ]
+ },
+ "uwtn-c:258995": {
+  "text_es": "La frase ⸢Y así como⸣ introduce información adicional (⸢Y⸣) que incluye una comparación de dos partes. La primera parte se introduce aquí con ⸢así como⸣, mientras que la segunda parte se introduce al comienzo de 9:28 con «así también». Si fuera útil en su idioma, podría usar una palabra o frase que introduzca información adicional y la primera parte de una comparación. Traducción alternativa: «Además, de la misma manera que»",
+  "lemas_es": [
+   "Y así como"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8e59d68bd00a",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.27"
+   }
+  ]
+ },
+ "uwtn-c:258996": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en lo que está ⸢establecido⸣, en lugar de en la persona que lo establece. Si debe indicar quién hizo la acción, el autor implica que Dios lo hizo. Traducción alternativa: «Dios ha establecido que los hombres mueran» o «Dios ha dispuesto que los hombres mueran»",
+  "lemas_es": [
+   "está establecido a los hombres morir"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8a452e28d46d",
+  "lemas_rv1909": [
+   {
+    "lema": "está establecido a los hombres",
+    "ref": "HEB.9.27"
+   }
+  ]
+ },
+ "uwtn-c:258997": {
+  "text_es": "Aunque la palabra ⸢hombres⸣ es masculina, el autor la usa para referirse a todas las personas, tanto hombres como mujeres. Si fuera útil en su idioma, podría usar una palabra que se aplique tanto a hombres como a mujeres, o podría referirse a ambos géneros. Traducción alternativa: «a las personas» o «a hombres y mujeres»",
+  "lemas_es": [
+   "a los hombres"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "735b34cfd3c1",
+  "lemas_rv1909": [
+   {
+    "lema": "a los hombres",
+    "ref": "HEB.9.27"
+   }
+  ]
+ },
+ "uwtn-c:258998": {
+  "text_es": "El autor no especifica cuán pronto viene el ⸢juicio⸣ ⸢después⸣ de que las personas mueran. Si es posible, exprese la idea con una palabra o frase que se refiera a un acontecimiento que viene después sin especificar cuánto después. Traducción alternativa: «una vez que eso sucede» o «algún tiempo después de eso»",
+  "lemas_es": [
+   "después de esto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "eb390cb8f63a",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.27"
+   }
+  ]
+ },
+ "uwtn-c:258999": {
+  "text_es": "La palabra ⸢juicio⸣ se refiere a cómo Dios juzgará a todos cuando Jesús regrese, según lo que hayan hecho. Si fuera útil en su idioma, podría hacer esta idea más explícita. Traducción alternativa: «Dios juzgará a todos»",
+  "lemas_es": [
+   "el juicio"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "310e80c2e40e",
+  "lemas_rv1909": [
+   {
+    "lema": "el juicio",
+    "ref": "HEB.9.27"
+   }
+  ]
+ },
+ "uwtn:258999": {
+  "text_es": "La palabra ⸢juicio⸣ se refiere a cómo Dios juzgará a todos cuando Jesús regrese, según lo que hayan hecho.",
+  "lemas_es": [
+   "el juicio"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5213ade0001b",
+  "lemas_rv1909": [
+   {
+    "lema": "el juicio",
+    "ref": "HEB.9.27"
+   }
+  ]
+ },
+ "uwtn-c:259000": {
+  "text_es": "La frase ⸢así también⸣ introduce lo que el autor comparará con los seres humanos que mueren y son juzgados (9:27). La comparación entre los seres humanos y ⸢Cristo⸣ trata de dos cosas principales. Primero, ambos mueren ⸢una vez⸣. Segundo, la decisión final de Dios, ya sea juicio o ⸢salvación⸣, sigue a esta muerte en algún momento. Si fuera útil en su idioma, podría usar una palabra o frase que introduzca la segunda parte de una comparación. «igualmente» o «de manera muy similar»",
+  "lemas_es": [
+   "así también"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ec7178a91ffa",
+  "lemas_rv1909": [
+   {
+    "lema": "Así también",
+    "ref": "HEB.9.28"
+   }
+  ]
+ },
+ "uwtn-c:259001": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. Si debe indicar quién hizo la acción, el autor implica que Cristo mismo lo hizo. Traducción alternativa: «habiéndose ofrecido a sí mismo»",
+  "lemas_es": [
+   "habiendo sido ofrecido"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "741b85568d3c",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.28"
+   }
+  ]
+ },
+ "uwtn-c:259002": {
+  "text_es": "El autor habla como si Jesús fuera a ⸢llevar⸣ literalmente los pecados de otros, como si fueran un peso que Jesús les quitaría y cargaría él mismo. Habla de esta manera para indicar que Jesús elimina la culpa y el poder de estos ⸢pecados⸣ sobre las personas al recibir sobre sí mismo el castigo por ellos. Si fuera útil en su idioma, podría declarar el significado claramente. Traducción alternativa: «para quitar los pecados» o «para tomar sobre sí el castigo de los pecados»",
+  "lemas_es": [
+   "llevar los pecados"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a759d834b783",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.28"
+   }
+  ]
+ },
+ "uwtn-c:259003": {
+  "text_es": "La frase ⸢aparecerá⸣ se refiere a cómo Jesús será visto por todos en la tierra cuando regrese a la tierra desde el cielo. Si fuera útil en su idioma, podría usar una palabra o frase que se refiera a que Jesús regresa a la tierra. Traducción alternativa: «aparecerá a todos en la tierra»",
+  "lemas_es": [
+   "aparecerá"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3194eca8bb2d",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.28"
+   }
+  ]
+ },
+ "uwtn-c:259004": {
+  "text_es": "El autor se refiere a ⸢una segunda vez⸣ porque Jesús ya apareció en la tierra por una «primera vez» cuando se hizo humano, vivió y murió. Si fuera útil en su idioma, podría expresar esta idea más explícitamente. Traducción alternativa: «una vez más» o «de nuevo»",
+  "lemas_es": [
+   "por segunda vez"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2310f90ce492",
+  "lemas_rv1909": [
+   {
+    "lema": "segunda vez",
+    "ref": "HEB.9.28"
+   }
+  ]
+ },
+ "uwtn-c:259005": {
+  "text_es": "Si su idioma no usa números ordinales, puede usar un número cardinal aquí. Traducción alternativa: «por vez dos»",
+  "lemas_es": [
+   "por segunda vez"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b6bb8c427124",
+  "lemas_rv1909": [
+   {
+    "lema": "segunda vez",
+    "ref": "HEB.9.28"
+   }
+  ]
+ },
+ "uwtn-c:259006": {
+  "text_es": "La frase ⸢sin pecado⸣ significa que Jesús no regresará para tratar con el ⸢pecado⸣ una vez más. (La frase no se refiere a cómo Jesús mismo no tiene ⸢pecado⸣, aunque eso es verdad; véase 4:15). Si fuera útil en su idioma, podría usar una palabra o frase que indique esto. Traducción alternativa: «no para tratar con el pecado»",
+  "lemas_es": [
+   "sin pecado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2257d41434df",
+  "lemas_rv1909": [
+   {
+    "lema": "sin pecado",
+    "ref": "HEB.9.28"
+   }
+  ]
+ },
+ "uwtn-c:259007": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea detrás de ⸢salvación⸣, podría expresar la idea usando un verbo como «salvar». Traducción alternativa: «para salvar a los que»",
+  "lemas_es": [
+   "para salvación a los que"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "42b4e1474ad9",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.28"
+   }
+  ]
+ },
+ "uwtn:259003": {
+  "text_es": "La frase ⸢aparecerá⸣ se refiere a cómo Jesús será visto por todos en la tierra cuando regrese a la tierra desde el cielo.",
+  "lemas_es": [
+   "aparecerá"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "50880b6337f1",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.28"
+   }
+  ]
+ },
+ "uwtn:259004": {
+  "text_es": "El autor se refiere a ⸢una segunda vez⸣ porque Jesús ya apareció en la tierra por una «primera vez» cuando se hizo humano, vivió y murió.",
+  "lemas_es": [
+   "por segunda vez"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "407a02dd46cc",
+  "lemas_rv1909": [
+   {
+    "lema": "segunda vez",
+    "ref": "HEB.9.28"
+   }
+  ]
+ },
+ "uwtn:259006": {
+  "text_es": "La frase ⸢sin pecado⸣ significa que Jesús no volverá a tratar con el ⸢pecado⸣ una vez más. (La frase no se refiere a que Jesús mismo no tenga ⸢pecado⸣, aunque eso es cierto; véase 4:15).",
+  "lemas_es": [
+   "sin pecado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c4aa93720bca",
+  "lemas_rv1909": [
+   {
+    "lema": "sin pecado",
     "ref": "HEB.9.28"
    }
   ]

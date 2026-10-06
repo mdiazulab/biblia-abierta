@@ -73,6 +73,7 @@ def texto_html(h):
     h = re.sub(r"</?(?:p|ul|ol|li|h\d)>", "\n\n", h)
     h = re.sub(r"<strong>(.*?)</strong>", lambda m: "⸢" + m.group(1) + "⸣", h, flags=re.S)
     t = html.unescape(re.sub(r"<[^>]+>", "", h)).replace("{", "").replace("}", "")
+    t = re.sub(r"\s*\(See:?\s*\[\[rc://[^\]]*\]\]\)|\s*\[\[rc://[^\]]*\]\]", "", t)   # remisiones internas
     ps = [re.sub(r"[ \t\r\n]+", " ", p).strip().replace("⸣ ⸢", " ") for p in t.split("\n\n")]
     return [p for p in ps if p and p not in marcas]
 

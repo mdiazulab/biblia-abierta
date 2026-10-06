@@ -68,7 +68,9 @@ def adjudicacion(i, libro, texto=None):
     if "text_es" in a:
         return {"text_es": a["text_es"]}
     texto = texto or ""
-    faltan = [mal for mal, _ in a.get("reemplazos", []) if mal not in texto]
+    # un reemplazo cuyo texto corregido ya está (el corrector del juez retradujo la nota y llegó a lo mismo) está
+    # aplicado, no pendiente (06-10-2026: 4 avisos falsos en Hebreos)
+    faltan = [mal for mal, bien in a.get("reemplazos", []) if mal not in texto and bien not in texto]
     for mal, bien in a.get("reemplazos", []):
         texto = texto.replace(mal, bien)
     return {"text_es": texto, **({"adjudicacion_pendiente": faltan} if faltan else {})}
@@ -139,8 +141,8 @@ def llamar(prompt, cadena, temperatura=0.2, intentos=3):
             except requests.HTTPError as e:
                 errores[modelo] = _sin_claves(str(e))[:200]
                 codigo = e.response.status_code if e.response is not None else 0
-                acceso = codigo in (400, 401, 403, 404, 429)
-                if codigo in (400, 401, 403, 404):       # modelo inexistente o sin permiso: no se reintenta
+                acceso = codigo in (400, 401, 402, 403, 404, 429)
+                if codigo in (400, 401, 402, 403, 404):  # sin permiso o sin saldo (402, 06-10-2026): no se reintenta
                     break
                 time.sleep(15 * (k + 1) if codigo in (429, 503) else 4 * (k + 1))
             except Exception as e:  # noqa: BLE001 -- red o JSON mal formado: se reintenta

@@ -1435,5 +1435,3601 @@
     "ref": "HEB.11.39"
    }
   ]
+ },
+ "uwtn-c:259203": {
+  "text_es": "La palabra ⸢Ahora⸣ introduce una nueva parte del argumento del autor. A continuación pasa a tratar la ⸢fe⸣ que mencionó en 10:38–39. Si en su idioma sería útil, podría usar una palabra o frase que introduzca una nueva sección, o podría dejar ⸢Ahora⸣ sin traducir. Traducción alternativa: «Esto»",
+  "lemas_es": [
+   "Ahora"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fa4a6d3426f6",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.1"
+   }
+  ]
+ },
+ "uwtn-c:259204": {
+  "text_es": "El autor usa dos frases muy similares para describir la ⸢fe⸣. Lo hace para dejar muy claro lo que quiere decir. Si usar dos frases muy similares no aclarara mejor lo que quiere decir en su idioma, podría combinar las dos declaraciones. Traducción alternativa: «certeza de las cosas que se esperan y que no se ven» o «prueba de las cosas que se esperan pero no se ven»",
+  "lemas_es": [
+   "certeza de las cosas que se esperan, prueba de las cosas que no se ven"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7bf8339058ae",
+  "lemas_rv1909": [
+   {
+    "lema": "de las cosas que se esperan, la demostración de las cosas que no se ven",
+    "ref": "HEB.11.1"
+   }
+  ]
+ },
+ "uwtn-c:259205": {
+  "text_es": "Como se explica en la introducción a este capítulo, si su idioma no usa un sustantivo abstracto para la idea de ⸢fe⸣, podría expresar la idea usando un verbo como «creer». Además, si su idioma no usa un sustantivo abstracto para la idea de ⸢certeza⸣, podría expresar la idea usando un verbo como «asegurar». Traducción alternativa: «creer nos asegura» o «los que creen están seguros»",
+  "lemas_es": [
+   "la fe es certeza"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c9ba2e65a729",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.1"
+   }
+  ]
+ },
+ "uwtn-c:259206": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en lo que ⸢se espera⸣ y lo que ⸢no se ve⸣, en lugar de en las personas que realizan estas acciones. Si debe indicar quién realiza la acción, el autor implica que cualquiera que tenga ⸢fe⸣ la realiza, en particular la audiencia. Traducción alternativa: «de las cosas que ustedes esperan … no ven» o «de las cosas que esperamos … que no vemos»",
+  "lemas_es": [
+   "de las cosas que se esperan y no se ven"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "69d0441e2613",
+  "lemas_rv1909": [
+   {
+    "lema": "que se esperan, la demostración de las cosas que no se ven",
+    "ref": "HEB.11.1"
+   }
+  ]
+ },
+ "uwtn-c:259207": {
+  "text_es": "La segunda mitad de este versículo omite algunas palabras que en muchos idiomas una oración podría necesitar para estar completa. Si en su idioma sería útil, podría suplir estas palabras de la primera mitad del versículo. Traducción alternativa: «y la fe es prueba»",
+  "lemas_es": [
+   "prueba"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7c2550721c4f",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.1"
+   }
+  ]
+ },
+ "uwtn-c:259208": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢prueba⸣, podría expresar la idea usando un verbo como «probar». Traducción alternativa: «y prueba las cosas»",
+  "lemas_es": [
+   "prueba de las cosas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1f845482d37b",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.1"
+   }
+  ]
+ },
+ "uwtn-c:en_tn_HEB_g4cc#0": {
+  "text_es": "Estructura y formato\n\n• Fe y perseverancia (10:26–12:29)\n\n◦ Exhortación: Ejemplos de fe (11:1–40)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4dae03ad3b09"
+ },
+ "uwtn-c:en_tn_HEB_g4cc#1": {
+  "text_es": "Conceptos religiosos y culturales en este capítulo\n\nLa fe\n\nEl tema central de este capítulo es la «fe», que el autor deja clara con su definición en 11:1. Los ejemplos de «fe» que siguen funcionan de dos maneras principales: (1) dan ejemplos de «fe» que ayudan a definir qué es, y (2) dan ejemplos de «fe» que la audiencia puede imitar. La definición de «fe» del autor muestra que la «fe» es estar seguro de cosas que uno no puede ver actualmente. Los ejemplos que siguen muestran que las cosas que no se pueden ver incluyen cosas en el cielo y cosas en el futuro. Así, la «fe» consiste en estar seguro de lo que actualmente es invisible y, por tanto, «verlo».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ab1693d2d2bc"
+ },
+ "uwtn-c:en_tn_HEB_g4cc#2": {
+  "text_es": "Una ciudad y una patria celestiales\n\nEn 11:10, 16, el autor se refiere a una «ciudad», y en 11:14–16, se refiere a una «patria celestial». Lo más probable es que tanto «ciudad» como «patria» se refieran a lo mismo. Los eruditos debaten si «ciudad» y «patria» describen lugares donde los creyentes vivirán, que Dios ha preparado, o si las palabras funcionan como metáforas para describir al pueblo de Dios viviendo juntos en la presencia de Dios. Su traducción no debe elegir entre estas interpretaciones. Debe dejar claro que la «ciudad» y la «patria» no se pueden encontrar en la tierra ahora mismo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9ec075c3417e"
+ },
+ "uwtn-c:en_tn_HEB_g4cc#3": {
+  "text_es": "Cuestiones de traducción en este capítulo\n\n«Por fe»\n\nEl autor repite constantemente la frase «por fe», generalmente al comienzo de las oraciones. También usa las frases relacionadas «mediante la fe», «según la fe» y «a causa de la fe». El autor repite estas frases, especialmente «por fe», para mantener a su audiencia enfocada en el tema principal: la «fe». Si es posible, debería traducir todas estas frases de modo que suenen muy similares. Asegúrese de que quede claro quién tiene la «fe» en cada oración.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7250b3aa844c"
+ },
+ "uwtn-c:en_tn_HEB_g4cc#4": {
+  "text_es": "El sustantivo abstracto «fe»\n\nSi su idioma no usa un sustantivo abstracto para la idea de «fe», podría expresar la misma idea de otra manera, como usando el verbo «creer». El autor usa la palabra «fe» unas 20 veces en este capítulo, y sería útil usar la misma expresión en su traducción cada vez. (Véase: Sustantivos abstractos)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "30908fbd46c6"
+ },
+ "uwtn-c:en_tn_HEB_g4cc#5": {
+  "text_es": "Referencias a la historia de Israel\n\nEl autor se refiere a personas y acontecimientos de la historia de Israel a lo largo de este capítulo. Algunas de las referencias abarcan varios versículos, mientras que otras son solo una frase. Muchas de las historias a las que se refiere se pueden encontrar en la Biblia, especialmente en Génesis, Éxodo y Josué. Sin embargo, algunas de las referencias más breves son sobre personas que vivieron después del tiempo del Antiguo Testamento. Considere si sus lectores estarán familiarizados con algunas de estas historias. Es posible que desee incluir notas al pie que proporcionen información adicional sobre las historias más importantes a las que se refiere el autor. Vea las notas para resúmenes breves de las principales historias a las que se refiere el autor.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9ec571151993"
+ },
+ "uwtn-c:en_tn_HEB_g4cc#6": {
+  "text_es": "El estilo de la lista de ejemplos\n\nLa lista de ejemplos que conforma la mayor parte del capítulo 11 comienza con historias más largas y cláusulas más largas y termina con referencias muy breves a historias y cláusulas muy breves. El autor escribe así para aumentar la emoción y la fuerza de sus ejemplos a medida que avanza. Considere usar maneras naturales de expresar este aumento gradual de fuerza y emoción a medida que avanza el capítulo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d657958adcde"
+ },
+ "uwtn-c:en_tn_HEB_g4cc#7": {
+  "text_es": "¿Es Abraham o Sara el sujeto de 11:11?\n\nEn 11:11, el autor podría haberse referido principalmente a Sara y su fe, o a Abraham y su fe. Muchos eruditos piensan que el autor se refiere aquí a Sara porque su nombre está escrito cerca del comienzo del versículo, justo después de «fe», y porque el autor no se refiere a Abraham en este versículo. Otros eruditos piensan que el autor se refiere aquí a Abraham porque los versículos anterior y siguiente se refieren ambos a Abraham y porque la frase «recibió capacidad para la concepción de un descendiente» solo se usa para la parte del varón en la procreación. La ULT y la UST siguen la interpretación de que Abraham es el sujeto principal del versículo. Considere si sus lectores podrían estar familiarizados con una traducción que tome una decisión en este versículo. De lo contrario, es posible que desee seguir la ULT y la UST aquí.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7065e5d483cc"
+ },
+ "uwtn-c:259209": {
+  "text_es": "La palabra ⸢Porque⸣ introduce una explicación adicional de lo que el autor dijo acerca de la «fe» en el versículo anterior (11:1). Si en su idioma sería útil, podría usar una palabra o frase diferente que introduzca una explicación adicional. Traducción alternativa: «En efecto»,",
+  "lemas_es": [
+   "Porque"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "45ada796199f",
+  "lemas_rv1909": [
+   {
+    "lema": "Porque",
+    "ref": "HEB.11.2"
+   }
+  ]
+ },
+ "uwtn-c:259210": {
+  "text_es": "La palabra ⸢esta⸣ se refiere a la «fe» que el autor trató en el versículo anterior. Si en su idioma sería útil, podría explicitar a qué se refiere ⸢esta⸣. Traducción alternativa: «esta fe»",
+  "lemas_es": [
+   "esta"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "968dc5f2b978",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.2"
+   }
+  ]
+ },
+ "uwtn-c:259211": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en aquellos que son ⸢elogiados⸣, en lugar de en la persona que los elogia. Si debe indicar quién realizó la acción, el autor implica que Dios lo hizo. Traducción alternativa: «Dios elogió a los antiguos»",
+  "lemas_es": [
+   "los antiguos fueron elogiados"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "de4e7ffe2c08",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.2"
+   }
+  ]
+ },
+ "uwtn-c:259212": {
+  "text_es": "La palabra ⸢antiguos⸣ se refiere a personas que vivieron antes que la audiencia. La palabra implica que hay historias acerca de estas personas. Si en su idioma sería útil, podría usar una palabra o frase que se refiera a personas famosas que ya no viven. Vea cómo tradujo «padres» en 1:1. Traducción alternativa: «los antepasados» o «los ancestros»",
+  "lemas_es": [
+   "los antiguos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f9f6e8184a32",
+  "lemas_rv1909": [
+   {
+    "lema": "los antiguos",
+    "ref": "HEB.11.2"
+   }
+  ]
+ },
+ "uwtn:259212": {
+  "text_es": "La palabra ⸢antiguos⸣ se refiere a personas que vivieron antes que la audiencia. La palabra implica que hay historias acerca de estas personas.",
+  "lemas_es": [
+   "los antiguos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e88354d25547",
+  "lemas_rv1909": [
+   {
+    "lema": "los antiguos",
+    "ref": "HEB.11.2"
+   }
+  ]
+ },
+ "uwtn-c:259213": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en ⸢los siglos⸣ que ⸢han sido preparados⸣, en lugar de en la persona que los prepara. Si debe indicar quién realizó la acción, el autor implica que Dios lo hizo mediante su ⸢palabra⸣. Traducción alternativa: «que Dios ha preparado los siglos por su palabra»",
+  "lemas_es": [
+   "los siglos han sido preparados por la palabra de Dios"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ce6010d966ae",
+  "lemas_rv1909": [
+   {
+    "lema": "sido compuestos los siglos por la palabra de Dios",
+    "ref": "HEB.11.3"
+   }
+  ]
+ },
+ "uwtn-c:259214": {
+  "text_es": "La palabra ⸢siglos⸣ se refiere a todas las cosas, acontecimientos y períodos de tiempo que han existido y existirán. Si en su idioma sería útil, podría usar una palabra o frase que se refiera a todo lo que alguna vez ha existido y existirá. Traducción alternativa: «el universo»",
+  "lemas_es": [
+   "los siglos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8fef106a4d0a",
+  "lemas_rv1909": [
+   {
+    "lema": "los siglos",
+    "ref": "HEB.11.3"
+   }
+  ]
+ },
+ "uwtn-c:259215": {
+  "text_es": "La palabra ⸢palabra⸣ se refiere al acto de hablar palabras. Si en su idioma sería útil, podría referirse al acto de hablar en lugar de a lo que se habla. Traducción alternativa: «por Dios decir palabras» o «cuando Dios habló»",
+  "lemas_es": [
+   "por la palabra de Dios"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "42edd3bbb903",
+  "lemas_rv1909": [
+   {
+    "lema": "por la palabra de Dios",
+    "ref": "HEB.11.3"
+   }
+  ]
+ },
+ "uwtn-c:259216": {
+  "text_es": "La frase ⸢de modo que⸣ introduce un resultado de lo que el autor ha dicho acerca de que Dios «preparó» los ⸢siglos⸣ mediante su ⸢palabra⸣. Puesto que Dios creó los ⸢siglos⸣ de esa manera, lógicamente se sigue que ⸢lo que se ve no fue hecho de lo que es visible⸣. Si en su idioma sería útil, podría usar una palabra o frase que deje clara esta relación. Traducción alternativa: «con el resultado de que»",
+  "lemas_es": [
+   "de modo que lo que y lo que"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6c7ee0e927e2",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.3"
+   }
+  ]
+ },
+ "uwtn-c:259217": {
+  "text_es": "La palabra ⸢no⸣ podría ir con: (1) ⸢hecho⸣. El punto sería que las cosas visibles no vinieron de otras cosas visibles. Vea la UST. (2) ⸢lo que es visible⸣. El punto sería que las cosas visibles vinieron de cosas que no son visibles. Traducción alternativa: «de modo que lo que se ve fue hecho de lo que no es visible»",
+  "lemas_es": [
+   "de modo que lo que se ve no fue hecho de lo que es visible"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c4130067245f",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.3"
+   }
+  ]
+ },
+ "uwtn-c:259218": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en lo que ⸢se ve⸣ y ⸢no fue hecho⸣, en lugar de en las personas que ven o hacen. Si debe indicar quién realizó la acción, el autor implica que las personas en general realizan el «ver», y Dios realiza el «hacer». Traducción alternativa: «de modo que Dios no hizo lo que las personas ven»",
+  "lemas_es": [
+   "de modo que lo que se ve no fue hecho y lo que"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "60ba1f64d315",
+  "lemas_rv1909": [
+   {
+    "lema": "hecho lo que se ve",
+    "ref": "HEB.11.3"
+   }
+  ]
+ },
+ "uwtn-c:259219": {
+  "text_es": "El punto del autor es que lo que las personas ven llegó a existir porque Dios habló. Por lo tanto, lo que las personas ven no vino de algo que es ⸢visible⸣, sino de algo que es invisible: Dios y su hablar. Si en su idioma sería útil, podría hacer esta idea más explícita. Traducción alternativa: «de modo que lo que todos ven no fue hecho de algo igualmente visible, sino por la palabra de Dios»",
+  "lemas_es": [
+   "lo que se ve no fue hecho de lo que es visible"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d9eac6e56774",
+  "lemas_rv1909": [
+   {
+    "lema": "hecho lo que se ve",
+    "ref": "HEB.11.3"
+   }
+  ]
+ },
+ "uwtn:259214": {
+  "text_es": "La palabra ⸢siglos⸣ se refiere a todas las cosas, acontecimientos y períodos de tiempo que han existido y existirán.",
+  "lemas_es": [
+   "los siglos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cc3fcbf044e6",
+  "lemas_rv1909": [
+   {
+    "lema": "los siglos",
+    "ref": "HEB.11.3"
+   }
+  ]
+ },
+ "uwtn:259217": {
+  "text_es": "La palabra ⸢no⸣ podría ir con: (1) ⸢hecho⸣. El punto sería que las cosas visibles no vinieron de otras cosas visibles. (2) ⸢lo que se ve⸣. El punto sería que las cosas visibles vinieron de cosas que no son visibles. («de modo que lo que se ve fue hecho de lo que no es visible»).",
+  "lemas_es": [
+   "de modo que lo que se ve no fue hecho de lo que es visible"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2d5e16904d56",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.3"
+   }
+  ]
+ },
+ "uwtn:259219": {
+  "text_es": "El punto del autor es que lo que la gente ve llegó a existir porque Dios habló. Por lo tanto, lo que la gente ve no vino de algo que es ⸢visible⸣, sino de algo que es invisible: Dios y su palabra.",
+  "lemas_es": [
+   "lo que se ve no fue hecho de & es visible"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cde0a7d3bc04",
+  "lemas_rv1909": [
+   {
+    "lema": "hecho lo que se ve",
+    "ref": "HEB.11.3"
+   }
+  ]
+ },
+ "uwtn-c:259220": {
+  "text_es": "El autor se refiere a una historia del Antiguo Testamento acerca de cómo ⸢Abel⸣ y ⸢Caín⸣ presentaron ambos ofrendas a Dios, pero Dios se agradó solo de la ofrenda de Abel. Caín se enojó y finalmente mató a Abel. Puede leer esta historia en Génesis 4:3–8. Si fuera útil en su idioma, podría hacer más explícitos aspectos importantes de esta historia. Traducción alternativa: «Abel ofreció a Dios un sacrificio mejor que el que ofreció su hermano Caín»",
+  "lemas_es": [
+   "Abel ofreció a Dios un mejor sacrificio que Caín"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "21d3af5f5cdd",
+  "lemas_rv1909": [
+   {
+    "lema": "Abel ofreció a Dios mayor sacrificio que Caín",
+    "ref": "HEB.11.4"
+   }
+  ]
+ },
+ "uwtn-c:259221": {
+  "text_es": "El autor no está contrastando a ⸢Caín⸣ con el ⸢mejor sacrificio⸣. Más bien, está contrastando lo que hizo ⸢Caín⸣ con lo que hizo ⸢Abel⸣. Si fuera útil en su idioma, podría hacer este contraste más explícito. Traducción alternativa: «que lo que ofreció Caín»",
+  "lemas_es": [
+   "que Caín"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c7853cf8c0a5",
+  "lemas_rv1909": [
+   {
+    "lema": "que Caín",
+    "ref": "HEB.11.4"
+   }
+  ]
+ },
+ "uwtn-c:259222": {
+  "text_es": "La palabra ⸢que⸣ podría referirse a: (1) ⸢fe⸣. Traducción alternativa: «la cual fe»; (2) ⸢un mejor sacrificio⸣. Traducción alternativa: «el cual sacrificio»",
+  "lemas_es": [
+   "que"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1585e68464a5",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.4"
+   }
+  ]
+ },
+ "uwtn-c:259223": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en ⸢Abel⸣, de quien ⸢se dio testimonio⸣, en lugar de en la persona que da el testimonio. Si debe indicar quién realizó la acción, el autor aclara en la siguiente cláusula que Dios lo hizo. Traducción alternativa: «Dios dio testimonio de que era justo»",
+  "lemas_es": [
+   "se dio testimonio de que era justo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4b2b1a12d0e2",
+  "lemas_rv1909": [
+   {
+    "lema": "que era justo, dando Dios testimonio",
+    "ref": "HEB.11.4"
+   }
+  ]
+ },
+ "uwtn-c:259224": {
+  "text_es": "La frase ⸢sus dones⸣ se refiere a lo que Abel ⸢ofreció⸣ a ⸢Dios⸣. Si fuera útil en su idioma, podría aclarar que estos ⸢dones⸣ son su ⸢sacrificio⸣. Traducción alternativa: «por causa de los dones que ofreció»",
+  "lemas_es": [
+   "por causa de sus dones"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "78ab057b0756",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.4"
+   }
+  ]
+ },
+ "uwtn-c:259225": {
+  "text_es": "La frase ⸢habiendo muerto⸣ se refiere a algo que contrasta con cómo ⸢él aún habla⸣. Si fuera útil en su idioma, podría introducir ⸢habiendo muerto⸣ con una palabra o frase que introduzca un contraste o algo inesperado. Traducción alternativa: «a pesar de haber muerto» o «aunque murió»",
+  "lemas_es": [
+   "habiendo muerto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "af55db92181e",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.4"
+   }
+  ]
+ },
+ "uwtn-c:259226": {
+  "text_es": "El autor habla como si Abel todavía pudiera «hablar» por medio de la ⸢fe⸣. Habla de esta manera para indicar que la audiencia puede aprender algo del ejemplo de fe de Abel, como si él les estuviera hablando acerca de su fe. Si fuera útil en su idioma, podría expresar el significado de manera sencilla. Traducción alternativa: «él todavía es un ejemplo para nosotros» o «él todavía puede mostrarnos algo»",
+  "lemas_es": [
+   "él aún habla"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "25bc6c6f571a",
+  "lemas_rv1909": [
+   {
+    "lema": "aun habla",
+    "ref": "HEB.11.4"
+   }
+  ]
+ },
+ "uwtn:259220": {
+  "text_es": "El autor se refiere a una historia del Antiguo Testamento acerca de cómo ⸢Abel⸣ y ⸢Caín⸣ presentaron ambos ofrendas a Dios, pero Dios se agradó solo de la ofrenda de Abel. Caín se enojó y finalmente mató a Abel.",
+  "lemas_es": [
+   "Abel ofreció a Dios un mejor sacrificio que Caín"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "504c799462bd",
+  "lemas_rv1909": [
+   {
+    "lema": "Abel ofreció a Dios mayor sacrificio que Caín",
+    "ref": "HEB.11.4"
+   }
+  ]
+ },
+ "uwtn:259222": {
+  "text_es": "La palabra ⸢que⸣ podría referirse a: (1) ⸢fe⸣. («la cual fe»); (2) ⸢un mejor sacrificio⸣. («el cual sacrificio»)",
+  "lemas_es": [
+   "que"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "eeffae78aa7b",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.4"
+   }
+  ]
+ },
+ "uwtn:259224": {
+  "text_es": "La frase ⸢sus dones⸣ se refiere a lo que Abel ⸢ofreció⸣ a ⸢Dios⸣.",
+  "lemas_es": [
+   "por causa de sus dones"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "87291b9531f5",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.4"
+   }
+  ]
+ },
+ "uwtn-c:259227": {
+  "text_es": "El autor se refiere a una historia acerca de un hombre llamado ⸢Enoc⸣. Porque agradó a Dios, Dios no lo dejó morir, sino que lo llevó al cielo. Puede leer acerca de ⸢Enoc⸣ en Génesis 5:21–24. Quizá quiera incluir esta información en una nota al pie.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0cd8741887ac"
+ },
+ "uwtn-c:259228": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en ⸢Enoc⸣, quien ⸢fue trasladado⸣, en lugar de en la persona que lo traslada. Si debe indicar quién realizó la acción, el autor implica que Dios lo hizo. Traducción alternativa: «Por la fe de Enoc, Dios lo trasladó»",
+  "lemas_es": [
+   "Por la fe Enoc fue trasladado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "28f69b2c3997",
+  "lemas_rv1909": [
+   {
+    "lema": "Por la fe Enoc",
+    "ref": "HEB.11.5"
+   }
+  ]
+ },
+ "uwtn-c:259229": {
+  "text_es": "La frase ⸢ver muerte⸣ se refiere a experimentar la muerte o morir. Si fuera útil en su idioma, podría expresar la idea en lenguaje sencillo. Traducción alternativa: «de modo que no experimentó la muerte» o «de modo que no murió»",
+  "lemas_es": [
+   "de modo que no vio muerte"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "65fc9d5e67c3",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.5"
+   }
+  ]
+ },
+ "uwtn-c:259230": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢muerte⸣, podría expresar la idea usando un verbo como «morir». Traducción alternativa: «que él mismo muriera»",
+  "lemas_es": [
+   "muerte"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c43a557cc0eb",
+  "lemas_rv1909": [
+   {
+    "lema": "muerte",
+    "ref": "HEB.11.5"
+   }
+  ]
+ },
+ "uwtn-c:259231": {
+  "text_es": "El autor cita de las Escrituras del Antiguo Testamento. Aunque no introduce la cita con palabras especiales, la audiencia habría entendido que estas eran palabras del Antiguo Testamento, específicamente de Génesis 5:24. Si sus lectores no supieran que la cita es del Antiguo Testamento, podría usar palabras que introduzcan una cita de un texto importante. Traducción alternativa: «y como puede leer en las Escrituras», o «como se dice en Génesis»,",
+  "lemas_es": [
+   "y"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "69acb8747bf6",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.5"
+   }
+  ]
+ },
+ "uwtn-c:259232": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en ⸢Enoc⸣, quien ⸢no fue hallado⸣, en lugar de en las personas que no pudieron hallarlo. Si debe indicar quién realizó la acción, podría usar un sujeto indefinido. Traducción alternativa: «La gente no lo halló»",
+  "lemas_es": [
+   "No fue hallado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "76470ccbe29d",
+  "lemas_rv1909": [
+   {
+    "lema": "no fue hallado",
+    "ref": "HEB.11.5"
+   }
+  ]
+ },
+ "uwtn-c:259233": {
+  "text_es": "La frase ⸢No fue hallado⸣ indica que nadie sabía dónde estaba Enoc, porque ya no estaba en la tierra. Si fuera útil en su idioma, podría usar una frase comparable que indique que alguien ya no está en un área o espacio. Traducción alternativa: «Desapareció» o «Ya no estaba»",
+  "lemas_es": [
+   "No fue hallado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "234d5ef5f440",
+  "lemas_rv1909": [
+   {
+    "lema": "no fue hallado",
+    "ref": "HEB.11.5"
+   }
+  ]
+ },
+ "uwtn-c:259234": {
+  "text_es": "La frase ⸢antes de su traslado⸣ modifica cómo Enoc fue ⸢agradable a Dios⸣. También podría modificar ⸢se dio testimonio⸣ si Dios es quien da el «testimonio». Si la Escritura o el autor de la Escritura «da testimonio» de esto, entonces ⸢antes de su traslado⸣ no modifica ⸢se dio testimonio⸣. Disponga los elementos de esta oración de modo que coincidan con su decisión acerca de quién da el testimonio. Traducción alternativa: «se dio testimonio de que, antes de su traslado, había sido agradable a Dios» o «se dio testimonio de que había sido agradable a Dios antes de su traslado»",
+  "lemas_es": [
+   "antes de su traslado, se dio testimonio de que había sido agradable a Dios"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "712895d694b7",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.5"
+   }
+  ]
+ },
+ "uwtn-c:259235": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en ⸢Enoc⸣, de quien ⸢se dio testimonio⸣, en lugar de en la persona o cosa que da el testimonio. Si debe indicar quién realizó la acción, el autor implica que Dios lo hizo, o que las Escrituras lo hacen. Traducción alternativa: «Dios dio testimonio de que Enoc le era agradable» o «las Escrituras dan testimonio de que era agradable a Dios»",
+  "lemas_es": [
+   "se dio testimonio de que había sido agradable a Dios"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "877d30e80f6d",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.5"
+   }
+  ]
+ },
+ "uwtn:259227": {
+  "text_es": "El autor se refiere a una historia acerca de un hombre llamado ⸢Enoc⸣. Porque agradó a Dios, Dios no lo dejó morir, sino que lo llevó al cielo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "da28668a5cda"
+ },
+ "uwtn-c:259236": {
+  "text_es": "La palabra ⸢Ahora⸣ introduce un desarrollo posterior del argumento. El autor prueba en este versículo que cualquiera que sea ⸢agradable⸣, como lo fue Enoc, debe tener fe. Si fuera útil en su idioma, podría usar una palabra o frase que introduzca un desarrollo posterior. Traducción alternativa: «En efecto»,",
+  "lemas_es": [
+   "Ahora"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b6c19bbd56e6",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.6"
+   }
+  ]
+ },
+ "uwtn-c:259237": {
+  "text_es": "El autor usa dos palabras negativas, ⸢sin⸣ e ⸢imposible⸣, para enfatizar una verdad positiva. Si fuera útil en su idioma, podría expresar la idea usando una declaración positiva fuerte o solo una palabra negativa. Traducción alternativa: «la fe es la única manera» o «solo por la fe es posible»",
+  "lemas_es": [
+   "sin fe es imposible"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2e86206272ea",
+  "lemas_rv1909": [
+   {
+    "lema": "sin fe es imposible",
+    "ref": "HEB.11.6"
+   }
+  ]
+ },
+ "uwtn-c:259238": {
+  "text_es": "El autor no declara explícitamente a quién le son ⸢agradables⸣ las cosas. Implica que la ⸢fe⸣ hace que las personas sean ⸢agradables⸣ a Dios. Si fuera útil en su idioma, podría aclarar quién es el que «se agrada» aquí. Vea cómo tradujo la frase similar «agradable a Dios» al final de 11:5. Traducción alternativa: «ser agradable a Dios»",
+  "lemas_es": [
+   "ser agradable"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "04df3918ad19",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.6"
+   }
+  ]
+ },
+ "uwtn-c:259239": {
+  "text_es": "La palabra ⸢Porque⸣ introduce una razón por la cual la ⸢fe⸣ es la única manera de ser ⸢agradable⸣. Si fuera útil en su idioma, podría usar una palabra o frase diferente que introduzca una razón. Traducción alternativa: «ya que»",
+  "lemas_es": [
+   "porque"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a4e67af59986",
+  "lemas_rv1909": [
+   {
+    "lema": "porque",
+    "ref": "HEB.11.6"
+   }
+  ]
+ },
+ "uwtn-c:259240": {
+  "text_es": "La frase ⸢acercarse a⸣ se refiere implícitamente a acercarse a algo, pero no necesariamente estar justo al lado de ello. Aquí, el autor habla de personas que ⸢se acercan a Dios⸣. Esto significa que entran en la presencia de Dios. Si fuera útil en su idioma, podría usar una palabra o frase que se refiera a estar en la presencia de alguien. Vea cómo tradujo «acercarse» en 10:22. Traducción alternativa: «el que entra en la presencia de Dios»",
+  "lemas_es": [
+   "el que se acerca a Dios"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "156afed936c5",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.6"
+   }
+  ]
+ },
+ "uwtn-c:259241": {
+  "text_es": "Traducción alternativa: «recompensa a los que buscan»",
+  "lemas_es": [
+   "es galardonador de los que buscan"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "951a915a0ac9",
+  "lemas_rv1909": [
+   {
+    "lema": "que es galardonador de los que le buscan",
+    "ref": "HEB.11.6"
+   }
+  ]
+ },
+ "uwtn-c:259242": {
+  "text_es": "El autor habla de adorar y servir a Dios como si fuera ⸢buscarlo⸣. Habla de esta manera porque quienes adoran y sirven a Dios se enfocan en él tanto como si ⸢buscaran⸣ encontrarlo. Si fuera útil en su idioma, podría expresar el significado de manera sencilla. Traducción alternativa: «de los que se enfocan en él» o «de los que lo siguen»",
+  "lemas_es": [
+   "de los que lo buscan"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c9a397b5d4fc",
+  "lemas_rv1909": [
+   {
+    "lema": "buscan",
+    "ref": "HEB.11.6"
+   }
+  ]
+ },
+ "uwtn:259238": {
+  "text_es": "El autor no declara explícitamente a quién le son ⸢agradables⸣ las cosas. Implica que la ⸢fe⸣ hace que las personas sean ⸢agradables⸣ a Dios.",
+  "lemas_es": [
+   "ser agradable"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0ff7c17f28bb",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.6"
+   }
+  ]
+ },
+ "uwtn:259240": {
+  "text_es": "La frase ⸢acercarse a⸣ se refiere implícitamente a acercarse a algo, pero no necesariamente estar justo al lado de ello. Aquí, el autor habla de personas que ⸢se acercan a Dios⸣. Esto significa que entran en la presencia de Dios.",
+  "lemas_es": [
+   "el que se acerca a Dios"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f8bac72550a0",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.6"
+   }
+  ]
+ },
+ "uwtn-c:259243": {
+  "text_es": "El autor se refiere a una historia acerca de un hombre llamado ⸢Noé⸣. Cuando Dios decidió castigar a los humanos por sus pecados inundando la tierra, advirtió a Noé al respecto. Noé construyó un barco llamado «arca» y sobrevivió al diluvio con su familia. Puede leer acerca de ⸢Noé⸣ en Génesis 6:9–8:22. Quizá quiera incluir esta información en una nota al pie.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e6c6fb038a9e"
+ },
+ "uwtn-c:259244": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en ⸢Noé⸣, quien fue ⸢advertido⸣, en lugar de en la persona que advierte. Si debe indicar quién realizó la acción, el autor implica que Dios lo hizo. Traducción alternativa: «cuando Dios le advirtió»",
+  "lemas_es": [
+   "habiendo sido advertido"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ccd81ba0189d",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.7"
+   }
+  ]
+ },
+ "uwtn-c:259245": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en lo que ⸢aún no se ve⸣, en lugar de en la persona que ve. Si debe indicar quién realizó la acción, podría usar un sujeto indefinido. Traducción alternativa: «cosas que nadie podía ver todavía» o «las cosas que la gente aún no podía ver»",
+  "lemas_es": [
+   "las cosas que aún no se ven"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3101999bddd5",
+  "lemas_rv1909": [
+   {
+    "lema": "cosas que aun",
+    "ref": "HEB.11.7"
+   }
+  ]
+ },
+ "uwtn-c:259246": {
+  "text_es": "La frase ⸢cosas que aún no se veían⸣ se refiere a acontecimientos que todavía no habían sucedido. En este caso, se refiere específicamente al diluvio que ahogó a todos excepto a Noé y su familia. Si en su idioma sería útil, podría aclarar que esta frase se refiere a acontecimientos que aún no habían sucedido. Traducción alternativa: «las cosas que aún no habían sucedido»",
+  "lemas_es": [
+   "las cosas que aún no se veían"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f281d6d48e56",
+  "lemas_rv1909": [
+   {
+    "lema": "cosas que aun no se veían",
+    "ref": "HEB.11.7"
+   }
+  ]
+ },
+ "uwtn-c:259247": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢salvación⸣, podría expresar la idea usando un verbo como «rescatar» o «salvar». Traducción alternativa: «para salvar a su casa»",
+  "lemas_es": [
+   "para salvación de su casa"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fef57a7e8a33",
+  "lemas_rv1909": [
+   {
+    "lema": "su casa se salvase",
+    "ref": "HEB.11.7"
+   }
+  ]
+ },
+ "uwtn-c:259248": {
+  "text_es": "La palabra ⸢cual⸣ podría referirse a: (1) ⸢fe⸣. Traducción alternativa: «la cual fe»; (2) el ⸢arca⸣. Traducción alternativa: «la cual arca»; (3) ⸢salvación⸣. Traducción alternativa: «la cual salvación»",
+  "lemas_es": [
+   "cual"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a38cfe608afe",
+  "lemas_rv1909": [
+   {
+    "lema": "cual",
+    "ref": "HEB.11.7"
+   }
+  ]
+ },
+ "uwtn-c:259249": {
+  "text_es": "La palabra ⸢mundo⸣ se refiere principalmente a las personas que vivían en el ⸢mundo⸣. Si en su idioma sería útil, podría referirse específicamente a las personas aquí. Traducción alternativa: «todos en el mundo» o «todas las personas»",
+  "lemas_es": [
+   "el mundo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8763ee782d86",
+  "lemas_rv1909": [
+   {
+    "lema": "mundo",
+    "ref": "HEB.11.7"
+   }
+  ]
+ },
+ "uwtn-c:259250": {
+  "text_es": "El autor habla como si ⸢Noé⸣ fuera un hijo que recibiría propiedad de un pariente. Habla así para indicar que Noé recibió ⸢justicia⸣ de Dios. Si en su idioma sería útil, podría expresar el significado claramente. Traducción alternativa: «llegó a ser uno que recibió la justicia» o «recibió la justicia»",
+  "lemas_es": [
+   "llegó a ser heredero de la justicia"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9a9adff7ebba",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.7"
+   }
+  ]
+ },
+ "uwtn-c:259251": {
+  "text_es": "Si su idioma no usa sustantivos abstractos para las ideas de ⸢justicia⸣ y ⸢fe⸣, podría expresar las ideas usando un adjetivo como «justo» y un verbo como «creer». Traducción alternativa: «que era justo por cómo creyó» o «a quien Dios declaró justo porque creyó»",
+  "lemas_es": [
+   "de la justicia que es según la fe"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1a7429010594",
+  "lemas_rv1909": [
+   {
+    "lema": "de la justicia que es por la fe",
+    "ref": "HEB.11.7"
+   }
+  ]
+ },
+ "uwtn:259243": {
+  "text_es": "El autor se refiere a una historia sobre un hombre llamado ⸢Noé⸣. Cuando Dios decidió castigar a los humanos por sus pecados inundando la tierra, advirtió a Noé al respecto. Noé construyó un barco llamado «arca» y sobrevivió al diluvio con su familia.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "66a60d5e1cb9"
+ },
+ "uwtn:259246": {
+  "text_es": "La frase ⸢cosas que aún no se veían⸣ se refiere a acontecimientos que todavía no habían sucedido. En este caso, se refiere específicamente al diluvio que ahogó a todos excepto a Noé y su familia.",
+  "lemas_es": [
+   "las cosas que aún no se veían"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "65e0dd08dba0",
+  "lemas_rv1909": [
+   {
+    "lema": "cosas que aun no se veían",
+    "ref": "HEB.11.7"
+   }
+  ]
+ },
+ "uwtn:259248": {
+  "text_es": "La palabra ⸢cual⸣ podría referirse a: (1) ⸢fe⸣. («la cual fe»); (2) el ⸢arca⸣. («la cual arca»); (3) ⸢salvación⸣. («la cual salvación»)",
+  "lemas_es": [
+   "cual"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a2d1de1f6625",
+  "lemas_rv1909": [
+   {
+    "lema": "cual",
+    "ref": "HEB.11.7"
+   }
+  ]
+ },
+ "uwtn-c:259252": {
+  "text_es": "En 11:8–12, el autor se refiere a una historia sobre un hombre llamado ⸢Abraham⸣ y su esposa «Sara». Dios se apareció a Abraham y le dijo que viajara a un país diferente, un país que Dios prometió darle. Dios también prometió dar un hijo y nietos a Abraham y Sara, aunque eran ancianos. Aunque tuvieron que esperar mucho tiempo, Dios hizo lo que prometió hacer, y los descendientes de Abraham fueron los israelitas. Puede leer acerca de ⸢Abraham⸣ en Génesis 12–23. Quizá quiera incluir esta información en una nota al pie.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e231aabe2428"
+ },
+ "uwtn-c:259253": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en ⸢Abraham⸣, que fue ⸢llamado⸣, y no en la persona que llama. Si debe indicar quién hizo la acción, el autor implica que Dios la hizo. Traducción alternativa: «cuando Dios lo llamó»",
+  "lemas_es": [
+   "siendo llamado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b5c446e6da74",
+  "lemas_rv1909": [
+   {
+    "lema": "siendo llamado",
+    "ref": "HEB.11.8"
+   }
+  ]
+ },
+ "uwtn-c:259254": {
+  "text_es": "La frase ⸢obedeció para salir⸣ significa que Abraham ⸢obedeció⸣ el mandato de Dios al «salir». Si en su idioma sería útil, podría usar una forma que se refiera a hacer lo que alguien manda. Traducción alternativa: «obedeció al salir» u «obedeció y salió»",
+  "lemas_es": [
+   "obedeció para salir"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a9c5a2c78ff7",
+  "lemas_rv1909": [
+   {
+    "lema": "obedeció para salir",
+    "ref": "HEB.11.8"
+   }
+  ]
+ },
+ "uwtn-c:259255": {
+  "text_es": "El autor usa la palabra ⸢lugar⸣ porque es una palabra vaga que se refiere a una ubicación sin dar más detalles. Usa una palabra vaga porque Abraham «no sabía plenamente a dónde iba». Si es posible, use también aquí una palabra indefinida. Traducción alternativa: «una localidad» o «una zona»",
+  "lemas_es": [
+   "un lugar"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "82e21548876d",
+  "lemas_rv1909": [
+   {
+    "lema": "lugar",
+    "ref": "HEB.11.8"
+   }
+  ]
+ },
+ "uwtn-c:259256": {
+  "text_es": "El autor habla del ⸢lugar⸣ como si fuera propiedad que ⸢Abraham⸣ ⸢iba a recibir⸣ de un pariente. El autor habla así para indicar que Dios ⸢iba a⸣ dar este ⸢lugar⸣ a Abraham. Si en su idioma sería útil, podría expresar el significado claramente. Traducción alternativa: «Dios iba a dárselo como suyo» o «iba a recibirlo de Dios»",
+  "lemas_es": [
+   "iba a recibir por herencia"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "917a884fcb60",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.8"
+   }
+  ]
+ },
+ "uwtn-c:259257": {
+  "text_es": "El autor usa el tiempo presente para referirse al proceso de ⸢ir⸣. Si en su idioma sería útil, podría usar una forma que se refiera al proceso de ir. Asegúrese de que el tiempo concuerde con el resto del versículo. Traducción alternativa: «iba»",
+  "lemas_es": [
+   "va"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "69f17e78f81c",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.8"
+   }
+  ]
+ },
+ "uwtn:259252": {
+  "text_es": "En 11:8–12, el autor se refiere a una historia sobre un hombre llamado ⸢Abraham⸣ y su esposa «Sara». Dios se apareció a Abraham y le dijo que viajara a un país diferente, un país que Dios prometió darle. Dios también prometió dar un hijo y nietos a Abraham y Sara, aunque eran ancianos. Aunque tuvieron que esperar mucho tiempo, Dios hizo lo que prometió hacer, y los descendientes de Abraham fueron los israelitas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5cacf30e5e2f"
+ },
+ "uwtn-c:259258": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea detrás de ⸢promesa⸣, podría expresar la idea usando un verbo como «prometer» o «comprometer». Traducción alternativa: «que Dios le había prometido … de las mismas cosas que Dios había prometido»",
+  "lemas_es": [
+   "de la promesa y de la misma promesa"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "999a594e2a4c",
+  "lemas_rv1909": [
+   {
+    "lema": "de la misma promesa",
+    "ref": "HEB.11.9"
+   }
+  ]
+ },
+ "uwtn-c:259259": {
+  "text_es": "La frase ⸢como tierra extranjera⸣ indica que Abraham aún no había «heredado» la ⸢tierra de la promesa⸣, así que la ⸢tierra⸣ pertenecía a otro. Por lo tanto, aunque Dios había prometido dársela, mientras vivía allí era ⸢extranjera⸣ y no su propia ⸢tierra⸣. Si en su idioma sería útil, podría hacer esta idea más explícita. Traducción alternativa: «como si fuera un país extranjero» o «como si viviera en una tierra extranjera»",
+  "lemas_es": [
+   "como extranjero"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "da737ca5f2db",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.9"
+   }
+  ]
+ },
+ "uwtn-c:259260": {
+  "text_es": "En la cultura del autor, las personas que vivían en ⸢tiendas⸣ no tenían un hogar permanente. Más bien, se trasladaban y no permanecían mucho tiempo en un solo lugar. El autor se refiere a ⸢tiendas⸣ aquí para indicar que Abraham, ⸢Isaac⸣ y ⸢Jacob⸣ no tenían un hogar permanente, sino que se trasladaban. Si en su idioma sería útil, podría hacer esta implicación más explícita. Traducción alternativa: «habiendo vivido en tiendas portátiles» o «habiendo vivido en muchos lugares en tiendas»",
+  "lemas_es": [
+   "habiendo vivido en tiendas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2cd61d34a91f",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.9"
+   }
+  ]
+ },
+ "uwtn-c:259261": {
+  "text_es": "El autor habla como si ⸢Isaac⸣ y ⸢Jacob⸣ fueran hijos que, junto con Abraham, recibirían propiedad de un pariente. Habla así para indicar que Abraham, ⸢Isaac⸣ y ⸢Jacob⸣ recibieron todos ⸢la misma promesa⸣ de Dios. Si en su idioma sería útil, podría expresar el significado claramente. Traducción alternativa: «los coherederos de la misma promesa» o «quienes con Abraham recibieron la misma promesa»",
+  "lemas_es": [
+   "los coherederos de la misma promesa"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4e1464a39772",
+  "lemas_rv1909": [
+   {
+    "lema": "de la misma promesa",
+    "ref": "HEB.11.9"
+   }
+  ]
+ },
+ "uwtn:259259": {
+  "text_es": "La frase ⸢como tierra extranjera⸣ indica que Abraham aún no había «heredado» la ⸢tierra de la promesa⸣, así que la ⸢tierra⸣ pertenecía a otro. Por lo tanto, aunque Dios había prometido dársela, mientras vivía allí era ⸢extranjera⸣ y no su propia ⸢tierra⸣.",
+  "lemas_es": [
+   "como extranjero"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d7333350272d",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.9"
+   }
+  ]
+ },
+ "uwtn:259260": {
+  "text_es": "En la cultura del autor, las personas que vivían en ⸢tiendas⸣ no tenían un hogar permanente. Más bien, se trasladaban y no permanecían mucho tiempo en un solo lugar. El autor se refiere a ⸢tiendas⸣ aquí para indicar que Abraham, ⸢Isaac⸣ y ⸢Jacob⸣ no tenían un hogar permanente, sino que se trasladaban.",
+  "lemas_es": [
+   "habiendo vivido en tiendas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cb3b6dd24d43",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.9"
+   }
+  ]
+ },
+ "uwtn-c:259262": {
+  "text_es": "La palabra ⸢porque⸣ introduce la razón por la que Abraham hizo lo que el autor describe en 11:8–9. Si en su idioma sería útil, podría usar una palabra o frase que introduzca una razón para cierto tipo de comportamiento. Traducción alternativa: «puesto que»",
+  "lemas_es": [
+   "porque"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "41e0d3e29577",
+  "lemas_rv1909": [
+   {
+    "lema": "Porque",
+    "ref": "HEB.11.10"
+   }
+  ]
+ },
+ "uwtn-c:259263": {
+  "text_es": "La frase ⸢esperaba⸣ indica que Abraham aguardaba o anhelaba vivir en la ⸢ciudad que tiene fundamentos⸣. Si en su idioma sería útil, podría hacer más explícito lo que el autor implica. Traducción alternativa: «esperaba habitar en» o «aguardaba vivir en»",
+  "lemas_es": [
+   "esperaba"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5d8491235bb7",
+  "lemas_rv1909": [
+   {
+    "lema": "esperaba",
+    "ref": "HEB.11.10"
+   }
+  ]
+ },
+ "uwtn-c:259264": {
+  "text_es": "La palabra ⸢ciudad⸣ se refiere a un lugar que actualmente existe en el cielo. El autor se referirá a ella de nuevo en este y los dos capítulos siguientes. Si en su idioma sería útil, podría aclarar que el autor se refiere a una ⸢ciudad⸣ celestial, no a ninguna ciudad en la tierra ahora. Traducción alternativa: «la ciudad en el cielo que tiene fundamentos»",
+  "lemas_es": [
+   "la ciudad que tiene fundamentos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "636dc5ceea24",
+  "lemas_rv1909": [
+   {
+    "lema": "ciudad con fundamentos",
+    "ref": "HEB.11.10"
+   }
+  ]
+ },
+ "uwtn-c:259265": {
+  "text_es": "El autor describe la ciudad como ⸢que tiene fundamentos⸣ para indicar que es estable y duradera. En otras palabras, esta ciudad nunca desaparecerá ni será destruida. Si en su idioma sería útil, podría expresar la idea claramente o con una frase comparable. Traducción alternativa: «que tiene fundamentos sólidos» o «que durará para siempre»",
+  "lemas_es": [
+   "que tiene fundamentos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d5a29c81914f",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.10"
+   }
+  ]
+ },
+ "uwtn-c:259266": {
+  "text_es": "Las palabras ⸢arquitecto⸣ y ⸢constructor⸣ funcionan juntas para identificar que ⸢Dios⸣ es quien creó la ⸢ciudad⸣. Es posible que ⸢arquitecto⸣ se refiera a cómo Dios diseñó o planificó la ciudad, mientras que ⸢constructor⸣ se refiere a cómo Dios creó la ciudad. Si no tiene dos palabras para estas categorías, podría usar una sola palabra o frase para identificar a ⸢Dios⸣ como el creador de la ⸢ciudad⸣. Traducción alternativa: «cuyo creador es Dios» o «que Dios hizo»",
+  "lemas_es": [
+   "cuyo arquitecto y constructor es Dios"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "276e81f5c77f",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.10"
+   }
+  ]
+ },
+ "uwtn:259263": {
+  "text_es": "La frase ⸢esperaba⸣ indica que Abraham aguardaba o anhelaba vivir en la ⸢ciudad que tiene fundamentos⸣.",
+  "lemas_es": [
+   "esperaba"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c98abf1b8998",
+  "lemas_rv1909": [
+   {
+    "lema": "esperaba",
+    "ref": "HEB.11.10"
+   }
+  ]
+ },
+ "uwtn:259264": {
+  "text_es": "La palabra ⸢ciudad⸣ se refiere a un lugar que actualmente existe en el cielo. El autor se referirá a ella de nuevo en este y los dos capítulos siguientes.",
+  "lemas_es": [
+   "la ciudad que tiene fundamentos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3b37511596e4",
+  "lemas_rv1909": [
+   {
+    "lema": "ciudad con fundamentos",
+    "ref": "HEB.11.10"
+   }
+  ]
+ },
+ "uwtn-c:259267": {
+  "text_es": "El sujeto de esta oración podría ser: (1) Abraham. El versículo anterior y el siguiente hablan principalmente de Abraham, y la frase ⸢capacidad para la concepción de un descendiente⸣ se usaba solo de varones en la cultura del autor. Traducción alternativa: «Por la fe recibió capacidad para la concepción de un descendiente también con Sara, aunque estaba pasado el tiempo de la plena edad, pues consideró»; (2) ⸢Sara⸣. Ella se menciona justo después de ⸢fe⸣, igual que todos los demás que tuvieron ⸢fe⸣. Además, la historia de Abraham y ⸢Sara⸣ se centra más en que ⸢Sara⸣ era anciana que en que Abraham lo era. En este caso, la frase ⸢capacidad para la concepción de un descendiente⸣ se refiere a cómo ⸢Sara⸣ recibió lo que Abraham tenía la ⸢capacidad⸣ de hacer. Traducción alternativa: «Por la fe, aun Sara misma recibió la capacidad de Abraham para la concepción de un descendiente, aunque estaba pasada el tiempo de la plena edad, pues consideró»",
+  "lemas_es": [
+   "Por la fe, aun Sara misma recibió capacidad para la concepción de un descendiente, aun pasada la edad, pues consideró"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "43963e7d08bc",
+  "lemas_rv1909": [
+   {
+    "lema": "Por la fe también la misma Sara, siendo estéril, recibió fuerza para concebir simiente; y parió aun fuera del tiempo de la edad",
+    "ref": "HEB.11.11"
+   }
+  ]
+ },
+ "uwtn-c:259268": {
+  "text_es": "La palabra traducida como ⸢misma⸣ enfatiza a ⸢Sara⸣. Considere usar una manera natural de enfatizar a ⸢Sara⸣ en su idioma. Traducción alternativa: «esa misma Sara»",
+  "lemas_es": [
+   "Sara misma"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ad733edfebd9",
+  "lemas_rv1909": [
+   {
+    "lema": "misma Sara",
+    "ref": "HEB.11.11"
+   }
+  ]
+ },
+ "uwtn-c:259269": {
+  "text_es": "Algunos manuscritos antiguos incluyen la palabra «estéril» para describir a Sara. Considere si las traducciones que sus lectores podrían conocer incluyen «estéril». De lo contrario, podría usar la forma que usa la ULT. Traducción alternativa: «Sara misma, estéril» o «Sara misma, siendo estéril»",
+  "lemas_es": [
+   "Sara misma"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8a8510f8f9ee",
+  "lemas_rv1909": [
+   {
+    "lema": "misma Sara",
+    "ref": "HEB.11.11"
+   }
+  ]
+ },
+ "uwtn-c:259270": {
+  "text_es": "Si su idioma no usa sustantivos abstractos para las ideas detrás de ⸢capacidad⸣ y ⸢concepción⸣, podría expresar las ideas usando verbos como «poder» y «concebir». Traducción alternativa: «pudo concebir un descendiente»",
+  "lemas_es": [
+   "recibió capacidad para la concepción de un descendiente"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "43174464f77b",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.11"
+   }
+  ]
+ },
+ "uwtn-c:259271": {
+  "text_es": "La frase ⸢el que había prometido⸣ se refiere a Dios, quien hizo la promesa a Abraham y a Sara de que tendrían ⸢descendencia⸣ juntos. Si en su idioma sería útil, podría aclarar más explícitamente que Dios es quien ⸢prometió⸣. Traducción alternativa: «Dios, quien había prometido»",
+  "lemas_es": [
+   "el que había prometido"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6f8cd7414005",
+  "lemas_rv1909": [
+   {
+    "lema": "había prometido",
+    "ref": "HEB.11.11"
+   }
+  ]
+ },
+ "uwtn:259267": {
+  "text_es": "El sujeto de esta oración podría ser: (1) Abraham. El versículo anterior y el siguiente hablan principalmente de Abraham, y la frase ⸢capacidad para la concepción de una descendencia⸣ se usaba solo para varones en la cultura del autor. («Por la fe recibió capacidad para la concepción de una descendencia también con Sara, aun cuando estaba fuera del tiempo de la plena edad, pues consideró»); (2) ⸢Sara⸣. Ella se menciona justo después de ⸢la fe⸣, igual que todos los demás que tuvieron ⸢fe⸣. Además, la historia de Abraham y ⸢Sara⸣ se centra más en cuán anciana era ⸢Sara⸣ que en cuán anciano era Abraham. En este caso, la frase ⸢capacidad para la concepción de una descendencia⸣ se refiere a cómo ⸢Sara⸣ recibió lo que Abraham tenía la ⸢capacidad⸣ de hacer. («Por la fe, aun Sara misma recibió la capacidad de Abraham para la concepción de una descendencia, aun cuando estaba fuera del tiempo de la plena edad, pues consideró»)",
+  "lemas_es": [
+   "Por la fe, aun Sara misma recibió capacidad para la concepción de una descendencia, aun fuera del tiempo de la plena edad, pues consideró"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "25ac95c5b564",
+  "lemas_rv1909": [
+   {
+    "lema": "Por la fe también la misma Sara, siendo estéril, recibió fuerza para concebir simiente; y parió aun fuera del tiempo de la edad",
+    "ref": "HEB.11.11"
+   }
+  ]
+ },
+ "uwtn:259269": {
+  "text_es": "Algunos manuscritos antiguos incluyen la palabra «estéril» para describir a Sara.",
+  "lemas_es": [
+   "Sara misma"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c6735c22a4c3",
+  "lemas_rv1909": [
+   {
+    "lema": "misma Sara",
+    "ref": "HEB.11.11"
+   }
+  ]
+ },
+ "uwtn:259271": {
+  "text_es": "La frase ⸢el que había prometido⸣ se refiere a Dios, quien hizo la promesa a Abraham y a Sara de que tendrían ⸢descendencia⸣ juntos.",
+  "lemas_es": [
+   "el que había prometido"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a99f3e03eff3",
+  "lemas_rv1909": [
+   {
+    "lema": "había prometido",
+    "ref": "HEB.11.11"
+   }
+  ]
+ },
+ "uwtn-c:259272": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. Traducción alternativa: «también de uno solo —y él habiendo llegado a estar muerto— engendró estos hijos»",
+  "lemas_es": [
+   "también de uno solo —y él habiendo llegado a estar muerto— nacieron estos hijos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8894e71e916e",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.12"
+   }
+  ]
+ },
+ "uwtn-c:259273": {
+  "text_es": "La palabra ⸢uno⸣ se refiere a Abraham. Si en su idioma sería útil, podría aclarar a quién se refiere ⸢uno⸣. Traducción alternativa: «un solo hombre, Abraham»",
+  "lemas_es": [
+   "un solo hombre"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ba0350b5f8da",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.12"
+   }
+  ]
+ },
+ "uwtn-c:259274": {
+  "text_es": "La frase ⸢habiendo llegado a estar muerto⸣ es una exageración que la audiencia habría entendido como que Abraham era demasiado anciano para tener hijos. Está ⸢muerto⸣ porque no puede engendrar hijos. Si en su idioma sería útil, podría usar un símil o expresar la idea de manera sencilla. Traducción alternativa: «él habiendo, por así decirlo, llegado a estar muerto» o «él habiendo llegado a estar impotente»",
+  "lemas_es": [
+   "él habiendo llegado a estar muerto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4cb0691b7192",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.12"
+   }
+  ]
+ },
+ "uwtn-c:259275": {
+  "text_es": "La frase ⸢estos hijos⸣ se refiere a los descendientes de Abraham, los israelitas. Si en su idioma sería útil, podría aclarar más explícitamente quiénes son ⸢estos hijos⸣. Traducción alternativa: «los israelitas»",
+  "lemas_es": [
+   "estos hijos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "79c804d1b8e6",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.12"
+   }
+  ]
+ },
+ "uwtn-c:259276": {
+  "text_es": "Estas frases se refieren a las palabras que Dios usó cuando prometió muchos descendientes a Abraham. Véase la promesa de Dios en Génesis 22:17. Quizá quiera incluir esta información en una nota al pie.",
+  "lemas_es": [
+   "así como las estrellas del cielo en su gran número e incontables como la arena a la orilla del mar"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3ea498c5ac55",
+  "lemas_rv1909": [
+   {
+    "lema": "como las estrellas del cielo en multitud, y como la arena innumerable que está a la orilla de la mar",
+    "ref": "HEB.11.12"
+   }
+  ]
+ },
+ "uwtn-c:259277": {
+  "text_es": "El autor compara el número de los descendientes de Abraham con el número de ⸢estrellas⸣ en el ⸢cielo⸣, que son ⸢grandes⸣ en ⸢número⸣. Usa esta comparación para enfatizar cuántos descendientes hay. Si en su idioma sería útil, podría aclarar mejor que el autor se refiere a muchos descendientes y muchas ⸢estrellas⸣. Traducción alternativa: «tantos como las numerosas estrellas del cielo»",
+  "lemas_es": [
+   "así como las estrellas del cielo en su gran número"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4a3d385e58f5",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.12"
+   }
+  ]
+ },
+ "uwtn-c:259278": {
+  "text_es": "El autor compara el número de los descendientes de Abraham con la cantidad de ⸢arena⸣ en una playa junto al ⸢mar⸣, que es tan grande que nadie puede contarla (⸢incontables⸣). Usa esta comparación para enfatizar cuántos descendientes hay. Si en su idioma sería útil, podría aclarar mejor que el autor se refiere a muchos descendientes y muchos granos de ⸢arena⸣. Traducción alternativa: «tantos como los innumerables granos de arena a la orilla del mar»",
+  "lemas_es": [
+   "incontables como la arena a la orilla del mar"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "693e4a8d0c5d",
+  "lemas_rv1909": [
+   {
+    "lema": "como la arena innumerable que está a la orilla de la mar",
+    "ref": "HEB.11.12"
+   }
+  ]
+ },
+ "uwtn:259275": {
+  "text_es": "La frase ⸢estos hijos⸣ se refiere a los descendientes de Abraham, los israelitas.",
+  "lemas_es": [
+   "estos hijos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "67328f60d812",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.12"
+   }
+  ]
+ },
+ "uwtn:259276": {
+  "text_es": "Estas frases se refieren a las palabras que Dios usó cuando prometió muchos descendientes a Abraham. Véase la promesa de Dios en Génesis 22:17.",
+  "lemas_es": [
+   "así como las estrellas del cielo en su gran número e incontables como la arena a la orilla del mar"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fedf1f1ad9a2",
+  "lemas_rv1909": [
+   {
+    "lema": "como las estrellas del cielo en multitud, y como la arena innumerable que está a la orilla de la mar",
+    "ref": "HEB.11.12"
+   }
+  ]
+ },
+ "uwtn-c:259279": {
+  "text_es": "Aquí y a lo largo de 11:13–16, el autor podría referirse: (1) en general a todas las personas que el autor ha tratado en el capítulo. Traducción alternativa: «los que he mencionado» o «todos estos que tuvieron fe»; (2) específicamente a Abraham, Sara, Isaac y Jacob, que se mencionan en 11:8–12. Traducción alternativa: «los patriarcas»",
+  "lemas_es": [
+   "todos estos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c58643cda698",
+  "lemas_rv1909": [
+   {
+    "lema": "todos estos",
+    "ref": "HEB.11.13"
+   }
+  ]
+ },
+ "uwtn-c:259280": {
+  "text_es": "La palabra ⸢promesas⸣ se refiere al contenido de las ⸢promesas⸣, o a lo que Dios ha «prometido» dar. Si en su idioma sería útil, podría aclarar que el autor se refiere al contenido de las ⸢promesas⸣. Traducción alternativa: «las cosas de las promesas de Dios» o «las cosas que Dios prometió»",
+  "lemas_es": [
+   "las promesas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "944baba76097",
+  "lemas_rv1909": [
+   {
+    "lema": "las promesas",
+    "ref": "HEB.11.13"
+   }
+  ]
+ },
+ "uwtn-c:259281": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢promesas⸣, podría expresar la idea usando un verbo como «prometer» o «comprometer». Traducción alternativa: «lo que Dios comprometió»",
+  "lemas_es": [
+   "las promesas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7becee46213b",
+  "lemas_rv1909": [
+   {
+    "lema": "las promesas",
+    "ref": "HEB.11.13"
+   }
+  ]
+ },
+ "uwtn-c:259282": {
+  "text_es": "El autor habla como si ⸢las promesas⸣ fueran viajeros que llegan de lejos y que la gente podía «ver» y «saludar». El autor quiere decir que las personas que ha mencionado en este capítulo estaban tan seguras de las ⸢promesas⸣ como si ya pudieran verlas y comunicarse con ellas. Si en su idioma sería útil, podría usar un símil o expresar la idea de manera sencilla. Traducción alternativa: «sino anticipándolas y esperándolas en el futuro» o «viéndolas y saludándolas de lejos como si las promesas fueran visitantes esperados»",
+  "lemas_es": [
+   "viéndolas y saludándolas de lejos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e860512be1f4",
+  "lemas_rv1909": [
+   {
+    "lema": "de lejos, y creyéndolas, y saludándolas",
+    "ref": "HEB.11.13"
+   }
+  ]
+ },
+ "uwtn-c:259283": {
+  "text_es": "El autor usa el tiempo presente porque está relatando lo que ⸢todos estos⸣ ⸢confesaron⸣ mientras vivían. Use un tiempo natural en su idioma para relatar lo que dijeron las personas en el pasado. Traducción alternativa: «eran»",
+  "lemas_es": [
+   "son"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4b655c8ac00a",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.13"
+   }
+  ]
+ },
+ "uwtn-c:259284": {
+  "text_es": "Las palabras ⸢extranjeros⸣ y ⸢forasteros⸣ funcionan juntas para identificar a ⸢todos estos⸣ como quienes no viven en su tierra natal. En otras palabras, son «residentes extranjeros». Si no tiene dos palabras para estas categorías, podría usar una sola palabra o frase que se refiera a personas que viven en algún lugar fuera de su hogar o tierra natal. Traducción alternativa: «extranjeros» o «gente foránea»",
+  "lemas_es": [
+   "extranjeros y forasteros"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "00a2a8c9dff9",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.13"
+   }
+  ]
+ },
+ "uwtn:259279": {
+  "text_es": "Aquí y a lo largo de 11:13–16, el autor podría referirse: (1) en general a todas las personas que el autor ha tratado en el capítulo. («los que he mencionado» o «todos estos que tuvieron fe»); (2) específicamente a Abraham, Sara, Isaac y Jacob, que se mencionan en 11:8–12. («los patriarcas»)",
+  "lemas_es": [
+   "todos estos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b12e06020754",
+  "lemas_rv1909": [
+   {
+    "lema": "todos estos",
+    "ref": "HEB.11.13"
+   }
+  ]
+ },
+ "uwtn-c:259285": {
+  "text_es": "La palabra ⸢Porque⸣ introduce una explicación adicional de lo que el autor dijo en el versículo anterior (11:13) acerca de cómo las personas fieles «confesaron» que eran «extranjeros y forasteros en la tierra». Si en su idioma sería útil, podría usar una palabra o frase diferente que introduzca una explicación adicional. Traducción alternativa: «Como puede ver»,",
+  "lemas_es": [
+   "Porque"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c40a31fcab67",
+  "lemas_rv1909": [
+   {
+    "lema": "Porque",
+    "ref": "HEB.11.14"
+   }
+  ]
+ },
+ "uwtn-c:259286": {
+  "text_es": "La frase ⸢tales cosas⸣ se refiere a lo que el autor dijo sobre las personas fieles en el versículo anterior: «confesaron que son extranjeros y forasteros en la tierra». Si en su idioma sería útil, podría aclarar más explícitamente a qué se refiere ⸢tales cosas⸣. Traducción alternativa: «que son extranjeros y forasteros»",
+  "lemas_es": [
+   "tales cosas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "72ba7a95e2dd",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.14"
+   }
+  ]
+ },
+ "uwtn-c:259287": {
+  "text_es": "La palabra ⸢Y⸣ introduce otro paso en el argumento del autor. La palabra ⸢si⸣ indica que este paso adicional tiene dos partes, y la segunda parte comienza con «pero» en 11:16. La palabra ⸢si⸣ indica que la primera parte del paso adicional está en forma condicional. Si en su idioma sería útil, podría usar una forma diferente para indicar estas relaciones de manera natural. Traducción alternativa: «Además, por un lado, si» o «Primero, si»",
+  "lemas_es": [
+   "Y si en verdad"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3615b2ad55c8",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.15"
+   }
+  ]
+ },
+ "uwtn-c:259288": {
+  "text_es": "El autor hace una declaración condicional que suena hipotética, pero ya está convencido de que la condición no es verdadera. Sabe que ⸢ellos⸣ en realidad no estaban ⸢pensando en aquella tierra de la cual salieron⸣. Demuestra que la declaración condicional no es verdadera al señalar que ⸢tuvieron oportunidad de volver⸣ pero no aprovecharon esa oportunidad. Use una forma natural en su idioma para introducir una condición que el hablante cree que no es verdadera. Traducción alternativa: «si en verdad hubieran estado pensando realmente» o «¿estaban en verdad pensando»",
+  "lemas_es": [
+   "si en verdad hubieran estado pensando"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "743f6e762a57",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.15"
+   }
+  ]
+ },
+ "uwtn-c:259289": {
+  "text_es": "El autor da a entender que podrían haber pensado en ⸢aquella tierra de la cual salieron⸣ como su «tierra natal». No quiere decir que podrían haber pensado simplemente en esa tierra. Si en su idioma sería útil, podría aclarar que el autor se refiere a ⸢pensar en aquella tierra⸣ como una «tierra natal». Traducción alternativa: «habían estado pensando en aquella tierra de la cual salieron como su tierra natal»",
+  "lemas_es": [
+   "habían estado pensando en aquella tierra de la cual salieron"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "35653c1e4113",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.15"
+   }
+  ]
+ },
+ "uwtn-c:259290": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢oportunidad⸣, podría expresar la misma idea de otra manera. Traducción alternativa: «habrían podido»",
+  "lemas_es": [
+   "habrían tenido oportunidad"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a45268b77804",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.15"
+   }
+  ]
+ },
+ "uwtn:259289": {
+  "text_es": "El autor da a entender que podrían haber pensado en ⸢aquella tierra de la cual salieron⸣ como su «tierra natal». No quiere decir que podrían haber pensado simplemente en esa tierra.",
+  "lemas_es": [
+   "habían estado pensando en aquella tierra de la cual salieron"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bef2b626bed0",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.15"
+   }
+  ]
+ },
+ "uwtn-c:259291": {
+  "text_es": "La frase ⸢Pero ahora⸣ introduce lo que es verdadero, en contraste con la situación hipotética que el autor presentó en 11:15. La palabra ⸢ahora⸣ no se refiere al tiempo aquí. Si en su idioma sería útil, podría usar una palabra o frase que introduzca la realidad en contraste con una situación hipotética. Traducción alternativa: «En realidad, sin embargo», o «Como es en verdad»,",
+  "lemas_es": [
+   "Pero ahora"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "744f7704243a",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.16"
+   }
+  ]
+ },
+ "uwtn-c:259292": {
+  "text_es": "El autor describe el anhelo y el deseo como si fuera «alcanzar» algo para tomarlo en la mano. Si en su idioma sería útil, podría expresar el significado de manera sencilla. Traducción alternativa: «anhelan» o «desean»",
+  "lemas_es": [
+   "alcanzan"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "65934a9029d1",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.16"
+   }
+  ]
+ },
+ "uwtn-c:259293": {
+  "text_es": "El autor no declara de qué es ⸢mejor⸣ esta «tierra». Si en su idioma sería útil, podría aclarar que quiere decir que es mejor que la «tierra de la cual salieron» y que cualquier otra tierra terrenal. Si en su idioma sería útil, podría declarar explícitamente de qué es ⸢mejor⸣ la tierra ⸢celestial⸣. Traducción alternativa: «una tierra que es mejor que cualquier tierra terrenal»",
+  "lemas_es": [
+   "una tierra mejor"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "42e39ca1fe32",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.16"
+   }
+  ]
+ },
+ "uwtn-c:259294": {
+  "text_es": "La frase ⸢ser llamado su Dios⸣ describe la situación en la que ⸢Dios no se avergüenza de ellos⸣. Si en su idioma sería útil, podría usar una forma que exprese la idea con más claridad. Traducción alternativa: «Dios no se avergüenza de ellos cuando es llamado su Dios» o «Dios no se avergüenza de ser llamado su Dios»",
+  "lemas_es": [
+   "Dios no se avergüenza de ellos, de ser llamado su Dios"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "31ce87ddce35",
+  "lemas_rv1909": [
+   {
+    "lema": "Dios no se avergüenza de llamarse Dios de ellos",
+    "ref": "HEB.11.16"
+   }
+  ]
+ },
+ "uwtn-c:259295": {
+  "text_es": "La frase ⸢no se avergüenza⸣ usa dos palabras negativas para enfatizar que Dios es honrado por estas personas fieles. Si en su idioma sería útil, podría expresar el significado con palabras positivas. Traducción alternativa: «Dios es honrado por ellos»",
+  "lemas_es": [
+   "Dios no se avergüenza de ellos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "778e0e7d9d52",
+  "lemas_rv1909": [
+   {
+    "lema": "no se avergüenza de llamarse Dios de ellos",
+    "ref": "HEB.11.16"
+   }
+  ]
+ },
+ "uwtn-c:259296": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en ⸢Dios⸣, quien es ⸢llamado su Dios⸣, en lugar de en las personas que lo llaman así. Si debe indicar quién realizó la acción, podría usar un sujeto indefinido. Traducción alternativa: «ellos cuando otros lo llaman su Dios»",
+  "lemas_es": [
+   "ellos, de ser llamado su Dios"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "607b3edf7170",
+  "lemas_rv1909": [
+   {
+    "lema": "de llamarse Dios de ellos",
+    "ref": "HEB.11.16"
+   }
+  ]
+ },
+ "uwtn-c:259297": {
+  "text_es": "La palabra ⸢por⸣ introduce el apoyo a la afirmación del autor de que ⸢Dios no se avergüenza de ellos⸣. Si en su idioma sería útil, podría usar una palabra o frase que introduzca el apoyo a una afirmación previa. Traducción alternativa: «lo cual ustedes saben que es verdad, porque»",
+  "lemas_es": [
+   "por"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5e623ed8a4db",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.16"
+   }
+  ]
+ },
+ "uwtn-c:259298": {
+  "text_es": "Vea cómo tradujo «ciudad» en 11:10.",
+  "lemas_es": [
+   "una ciudad"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7c62cfa1d2bc",
+  "lemas_rv1909": [
+   {
+    "lema": "ciudad",
+    "ref": "HEB.11.16"
+   }
+  ]
+ },
+ "uwtn:259294": {
+  "text_es": "La frase ⸢para ser llamado su Dios⸣ describe la situación en la que ⸢Dios no se avergüenza de ellos⸣.",
+  "lemas_es": [
+   "Dios no se avergüenza de ellos, para ser llamado su Dios"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "20c6c03c1f50",
+  "lemas_rv1909": [
+   {
+    "lema": "Dios no se avergüenza de llamarse Dios de ellos",
+    "ref": "HEB.11.16"
+   }
+  ]
+ },
+ "uwtn-c:259299": {
+  "text_es": "En 11:17–19, el autor se refiere a una historia específica acerca de ⸢Abraham⸣. Dios le dijo a Abraham que sacrificara a su hijo ⸢Isaac⸣. Abraham comenzó a obedecer a Dios y estaba a punto de matar a su hijo cuando Dios envió un ángel para detenerlo y decirle que había probado que temía a Dios. Abraham entonces sacrificó un animal en lugar de sacrificar a Isaac. Puede leer esta historia en Génesis 22:1–19. Quizá quiera incluir esta información en una nota al pie.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fadeccce1c42"
+ },
+ "uwtn-c:259300": {
+  "text_es": "El autor describe el mismo acontecimiento con dos cláusulas diferentes. La primera cláusula simplemente nombra a ⸢Abraham⸣ y a ⸢Isaac⸣. La segunda cláusula describe cómo se relacionan ⸢Abraham⸣ e ⸢Isaac⸣ con las ⸢promesas⸣. El autor usa estas dos cláusulas diferentes para enfatizar la importancia de este acontecimiento. Si en su idioma sería útil, podría combinar las dos cláusulas y dar énfasis de otra manera. Traducción alternativa: «Por la fe, cuando fue probado, Abraham, que había recibido las promesas, ofreció a Isaac, su unigénito»",
+  "lemas_es": [
+   "Por la fe Abraham, siendo probado, ofreció a Isaac; el que había recibido las promesas ofreció a su unigénito"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ffa32fee592b",
+  "lemas_rv1909": [
+   {
+    "lema": "Por fe ofreció Abraham a Isaac cuando fue probado, y ofrecía al unigénito el que había recibido las promesas",
+    "ref": "HEB.11.17"
+   }
+  ]
+ },
+ "uwtn-c:259301": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en ⸢Abraham⸣, que es ⸢probado⸣, y no en la persona que lo prueba. Si debe indicar quién realizó la acción, el autor implica que Dios lo hizo. Traducción alternativa: «en el momento en que Dios lo probó»",
+  "lemas_es": [
+   "siendo probado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1e928a6e1770",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.17"
+   }
+  ]
+ },
+ "uwtn-c:259302": {
+  "text_es": "El autor se refiere a cómo Abraham ⸢ofreció⸣ a su hijo ⸢Isaac⸣. Sin embargo, el autor sabe que Abraham no completó esta «ofrenda» matando a Isaac. Más bien, usa la palabra ⸢ofreció⸣ para referirse a cómo Abraham completó todos los pasos de la ofrenda hasta que Dios lo interrumpió cuando tenía el cuchillo en la mano para matar a su hijo. Si en su idioma sería útil, podría aclarar que Abraham estaba «a punto de» o «listo para» ofrecer a su hijo. Traducción alternativa: «había estado listo para ofrecer … estaba listo para ofrecer»",
+  "lemas_es": [
+   "había ofrecido & ofreció"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e8d364d85b3e",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.17"
+   }
+  ]
+ },
+ "uwtn-c:259304": {
+  "text_es": "La frase ⸢el que había recibido las promesas⸣ se refiere a ⸢Abraham⸣. Si en su idioma sería útil, podría hacer más explícito a quién se refiere esta frase. Traducción alternativa: «Abraham, que había recibido las promesas»",
+  "lemas_es": [
+   "el que había recibido las promesas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "39776c87db05",
+  "lemas_rv1909": [
+   {
+    "lema": "el que había recibido las promesas",
+    "ref": "HEB.11.17"
+   }
+  ]
+ },
+ "uwtn-c:259305": {
+  "text_es": "El autor habla de cómo Abraham recibió las ⸢promesas⸣ de Dios como si fueran huéspedes a los que ⸢recibió⸣. Si en su idioma sería útil, podría expresar el significado de manera sencilla. Traducción alternativa: «habiendo recibido»",
+  "lemas_es": [
+   "habiendo recibido"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b531e2c18ee3",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.17"
+   }
+  ]
+ },
+ "uwtn-c:259306": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢promesas⸣, podría expresar la idea usando un verbo como «prometer» o «comprometer». Aquí, el contenido de las ⸢promesas⸣ es la bendición de muchos descendientes por medio de ⸢Isaac⸣ (Vea: 11:18). Traducción alternativa: «cómo Dios le había prometido descendencia»",
+  "lemas_es": [
+   "las promesas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d17fe33894e1",
+  "lemas_rv1909": [
+   {
+    "lema": "las promesas",
+    "ref": "HEB.11.17"
+   }
+  ]
+ },
+ "uwtn-c:en_tn_HEB_i9jd": {
+  "text_es": "Traducción alternativa: «sí»",
+  "lemas_es": [
+   "aun"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "aee36c78eae6",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.17"
+   }
+  ]
+ },
+ "uwtn:259299": {
+  "text_es": "En 11:17–19, el autor se refiere a una historia específica acerca de ⸢Abraham⸣. Dios le dijo a Abraham que sacrificara a su hijo ⸢Isaac⸣. Abraham comenzó a obedecer a Dios y estaba a punto de matar a su hijo cuando Dios envió un ángel para detenerlo y decirle que había probado que temía a Dios. Abraham entonces sacrificó un animal en lugar de sacrificar a Isaac.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a6bde42ef115"
+ },
+ "uwtn:259302": {
+  "text_es": "El autor se refiere a cómo Abraham ⸢ofreció⸣ a su hijo ⸢Isaac⸣. Sin embargo, el autor sabe que Abraham no completó esta «ofrenda» matando a Isaac. Más bien, usa la palabra ⸢ofreció⸣ para referirse a cómo Abraham completó todos los pasos de la ofrenda hasta que Dios lo interrumpió cuando tenía el cuchillo en la mano para matar a su hijo.",
+  "lemas_es": [
+   "había ofrecido & ofreció"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "805651416ea8",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.17"
+   }
+  ]
+ },
+ "uwtn-c:259307": {
+  "text_es": "La palabra ⸢quien⸣ se refiere a Abraham. Si en su idioma sería útil, podría hacer explícito a quién se refiere ⸢quien⸣. Traducción alternativa: «el cual hombre Abraham»",
+  "lemas_es": [
+   "quien"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3ff7dc9010e2",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.18"
+   }
+  ]
+ },
+ "uwtn-c:259308": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en lo que es ⸢dicho⸣ y no en la persona que lo dice. Si debe indicar quién realizó la acción, el autor implica que Dios lo hizo. Traducción alternativa: «Dios dijo»",
+  "lemas_es": [
+   "fue dicho"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "aa1e8716b2b3",
+  "lemas_rv1909": [
+   {
+    "lema": "dicho",
+    "ref": "HEB.11.18"
+   }
+  ]
+ },
+ "uwtn-c:259309": {
+  "text_es": "El autor cita de las Escrituras del Antiguo Testamento. No introduce las palabras como una cita, sino que las introduce como algo que Dios le dijo a Abraham. Sin embargo, la audiencia habría entendido que estas eran palabras del Antiguo Testamento, específicamente de Génesis 21:12. Si sus lectores no supieran que la cita es del Antiguo Testamento, podría incluir una nota al pie o usar alguna otra forma de identificarla. Traducción alternativa: «fue hablado»",
+  "lemas_es": [
+   "fue dicho"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4dc4d4954d24",
+  "lemas_rv1909": [
+   {
+    "lema": "dicho",
+    "ref": "HEB.11.18"
+   }
+  ]
+ },
+ "uwtn-c:259310": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en la ⸢descendencia⸣ que es ⸢nombrada⸣ y no en la persona que la nombra. Si debe indicar quién realizó la acción, podría usar un sujeto indefinido. Traducción alternativa: «la gente nombrará a su descendencia»",
+  "lemas_es": [
+   "su descendencia será nombrada"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "334ac76be299",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.18"
+   }
+  ]
+ },
+ "uwtn-c:259311": {
+  "text_es": "La palabra ⸢descendencia⸣ es un sustantivo singular que se refiere a muchos descendientes. Puede ser más natural en su idioma usar una forma plural. Traducción alternativa: «descendientes»",
+  "lemas_es": [
+   "descendencia"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f735eb780e0f",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.18"
+   }
+  ]
+ },
+ "uwtn-c:259312": {
+  "text_es": "En la cultura del autor de la cita, nombrar la ⸢descendencia⸣ por medio de alguien se refiere a identificar al antepasado de un grupo específico de personas. Su idioma puede tener su propia manera de identificar a un antepasado. Traducción alternativa: «será trazada» o «descenderá»",
+  "lemas_es": [
+   "será nombrada"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6e114826378a",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.18"
+   }
+  ]
+ },
+ "uwtn:259311": {
+  "text_es": "La palabra ⸢descendencia⸣ es un sustantivo singular que se refiere a muchos descendientes.",
+  "lemas_es": [
+   "descendencia"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1d5cbc7bded5",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.18"
+   }
+  ]
+ },
+ "uwtn-c:259313": {
+  "text_es": "La frase ⸢habiendo razonado⸣ introduce la razón por la que Abraham actuó como el autor describe en 11:17. Si en su idioma sería útil, podría hacer esta relación más explícita. Traducción alternativa: «porque razonó»",
+  "lemas_es": [
+   "habiendo razonado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9fe244183989",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.19"
+   }
+  ]
+ },
+ "uwtn-c:259314": {
+  "text_es": "El autor usa la frase ⸢levantar⸣ para referirse a cómo Dios hace que alguien que ha muerto vuelva a la vida. Si en su idioma sería útil, podría usar una expresión comparable o traducir la idea de manera sencilla. Traducción alternativa: «restaurar aun a los muertos a la vida»",
+  "lemas_es": [
+   "levantar aun de entre los muertos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "963e6f022fd1",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.19"
+   }
+  ]
+ },
+ "uwtn-c:259315": {
+  "text_es": "El autor usa el adjetivo ⸢muertos⸣ como sustantivo para referirse a todas las personas que están ⸢muertas⸣. Su idioma puede usar adjetivos de la misma manera. Si no, podría traducir este con una frase nominal. Traducción alternativa: «las personas muertas» o «los cadáveres»",
+  "lemas_es": [
+   "los muertos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6f6c50217da0",
+  "lemas_rv1909": [
+   {
+    "lema": "los muertos",
+    "ref": "HEB.11.19"
+   }
+  ]
+ },
+ "uwtn-c:259316": {
+  "text_es": "La palabra ⸢él⸣ se refiere a Abraham, y la palabra ⸢lo⸣ se refiere a Isaac. Si en su idioma sería útil, podría hacer más explícito a quiénes se refieren estas palabras. Traducción alternativa: «Abraham recibió a Isaac de vuelta»",
+  "lemas_es": [
+   "él lo recibió de vuelta"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "687e01957e28",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.19"
+   }
+  ]
+ },
+ "uwtn-c:259317": {
+  "text_es": "La palabra traducida como ⸢de allí⸣ podría ser: (1) una referencia a los ⸢muertos⸣, específicamente al estado de estar ⸢muerto⸣. Traducción alternativa: «y en parábola, lo recibió de vuelta de estar muerto»; (2) una palabra de enlace que indica la causa de que Abraham recibiera a Isaac de vuelta. Traducción alternativa: «por lo cual, también en parábola, lo recibió de vuelta»",
+  "lemas_es": [
+   "y en parábola, lo recibió de vuelta de allí"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "18c39ab09ca1",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.19"
+   }
+  ]
+ },
+ "uwtn:259317": {
+  "text_es": "La palabra traducida como ⸢de allí⸣ podría ser: (1) una referencia a los ⸢muertos⸣, específicamente al estado de estar ⸢muerto⸣. («y en parábola, lo recibió de vuelta de estar muerto»); (2) una palabra de enlace que indica la causa de que Abraham recibiera a Isaac de vuelta. («por lo cual, también en parábola, lo recibió de vuelta»)",
+  "lemas_es": [
+   "y en parábola, lo recibió de vuelta de allí"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ccf60e80e036",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.19"
+   }
+  ]
+ },
+ "uwtn-c:259318": {
+  "text_es": "El autor se refiere a una historia acerca de cómo ⸢Isaac⸣ bendijo a sus hijos gemelos ⸢Jacob⸣ y ⸢Esau⸣. En la historia, Jacob finge ser Esau y recibe la bendición que Isaac pretendía para Esau. Cuando Esau viene a recibir su bendición, Isaac se da cuenta de que Jacob le robó la bendición a Esau. Entonces le da a Esau una bendición diferente. Puede leer acerca de Isaac bendiciendo a sus hijos en Génesis 27:1–40. Quizá quiera incluir esta información en una nota al pie.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "356086d1a115"
+ },
+ "uwtn-c:259319": {
+  "text_es": "La palabra ⸢también⸣ podría ir con: (1) ⸢Por la fe⸣. En este caso, el autor muestra que Isaac tenía ⸢fe⸣ igual que Abraham y los demás que ha mencionado. Traducción alternativa: «También por la fe, en cuanto a las cosas venideras»; (2) ⸢en cuanto a las cosas venideras⸣. En este caso, el ⸢también⸣ enfatiza las ⸢cosas venideras⸣. Traducción alternativa: «Por la fe, aun en cuanto a las cosas venideras»",
+  "lemas_es": [
+   "También por la fe, en cuanto a las cosas venideras"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0bb72df3571a",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.20"
+   }
+  ]
+ },
+ "uwtn-c:259320": {
+  "text_es": "La frase ⸢cosas venideras⸣ se refiere a lo que iba a suceder tanto a ⸢Jacob⸣ como a ⸢Esau⸣ y, por lo tanto, también indica el contenido de las bendiciones dadas a cada hijo. Si en su idioma sería útil, podría aclarar que ⸢cosas venideras⸣ se refiere a acontecimientos futuros. Traducción alternativa: «en cuanto a los acontecimientos venideros» o «en cuanto a lo que sucedería después»",
+  "lemas_es": [
+   "en cuanto a las cosas venideras"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "dca4bd5deeab",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.20"
+   }
+  ]
+ },
+ "uwtn:259318": {
+  "text_es": "El autor se refiere a una historia acerca de cómo ⸢Isaac⸣ bendijo a sus hijos gemelos ⸢Jacob⸣ y ⸢Esau⸣. En la historia, Jacob finge ser Esau y recibe la bendición que Isaac pretendía para Esau. Cuando Esau viene a recibir su bendición, Isaac se da cuenta de que Jacob le robó la bendición a Esau. Entonces le da a Esau una bendición diferente.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cd3d4b2ddb5c"
+ },
+ "uwtn:259319": {
+  "text_es": "La palabra ⸢también⸣ podría ir con: (1) ⸢Por la fe⸣. En este caso, el autor muestra que Isaac tenía ⸢fe⸣ igual que Abraham y los demás que ha mencionado. («También por la fe, en cuanto a las cosas venideras»); (2) ⸢en cuanto a las cosas venideras⸣. En este caso, el ⸢también⸣ enfatiza las ⸢cosas venideras⸣. («Por la fe, aun en cuanto a las cosas venideras»)",
+  "lemas_es": [
+   "También por la fe, en cuanto a las cosas venideras"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "940e39720c21",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.20"
+   }
+  ]
+ },
+ "uwtn:259320": {
+  "text_es": "La frase ⸢cosas venideras⸣ se refiere a lo que iba a suceder tanto a ⸢Jacob⸣ como a ⸢Esau⸣ y, por lo tanto, también indica el contenido de las bendiciones dadas a cada hijo.",
+  "lemas_es": [
+   "en cuanto a las cosas venideras"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "381745e914bc",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.20"
+   }
+  ]
+ },
+ "uwtn-c:259321": {
+  "text_es": "El autor se refiere a una historia acerca de ⸢Jacob⸣, el nieto de Abraham. Cuando estaba a punto de morir, ⸢bendijo⸣ a los dos hijos de su propio hijo ⸢José⸣. Puede leer acerca de ⸢Jacob⸣ bendiciendo a los hijos de José en Génesis 47:28–48:22. Quizá quiera incluir esta información en una nota al pie.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f91a13131d8a"
+ },
+ "uwtn-c:259322": {
+  "text_es": "El autor toma estas palabras de una traducción griega de Génesis 47:31. Las palabras indican que Jacob ⸢adoró⸣ mientras se sostenía agarrándose del ⸢extremo de su vara⸣. Si en su idioma sería útil, podría usar una forma que se refiera a sostenerse agarrándose de un palo o ⸢vara⸣. Traducción alternativa: «adoró mientras se sostenía con un palo» o «adoró mientras se sostenía con su bastón»",
+  "lemas_es": [
+   "adoró sobre el extremo de su vara"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "df6f3fcb9c1e",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.21"
+   }
+  ]
+ },
+ "uwtn:259321": {
+  "text_es": "El autor se refiere a una historia acerca de ⸢Jacob⸣, el nieto de Abraham. Cuando estaba a punto de morir, ⸢bendijo⸣ a los dos hijos de su propio hijo ⸢José⸣.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "600f30c97a86"
+ },
+ "uwtn:259322": {
+  "text_es": "El autor toma estas palabras de una traducción griega de Génesis 47:31. Las palabras indican que Jacob ⸢adoró⸣ mientras se sostenía agarrándose del ⸢extremo de su vara⸣.",
+  "lemas_es": [
+   "adoró sobre el extremo de su vara"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cb0ebeb9a092",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.21"
+   }
+  ]
+ },
+ "uwtn-c:259323": {
+  "text_es": "El autor se refiere a una historia sobre lo que ⸢José⸣ dijo cuando estaba a punto de morir. Dijo que Dios los llevaría de Egipto a la tierra que Dios había prometido darles, y que debían llevar sus huesos con ellos cuando salieran de Egipto. Puede leer esta historia en Génesis 50:24–26. Es posible que desee incluir esta información en una nota al pie.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5e72e0960ebc"
+ },
+ "uwtn-c:259324": {
+  "text_es": "La frase ⸢llegar a su fin⸣ es una manera cortés de indicar que alguien morirá pronto. Si en su idioma sería útil, podría usar una expresión natural y cortés para indicar que alguien está a punto de morir. Traducción alternativa: «a punto de fallecer» o «estar a punto de morir»",
+  "lemas_es": [
+   "llegar a su fin"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7d058adf68eb",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.22"
+   }
+  ]
+ },
+ "uwtn-c:259325": {
+  "text_es": "La audiencia entendería que el autor hablaba del ⸢éxodo⸣ de los israelitas de Egipto a la tierra que Dios había prometido darles. Si sus lectores no hicieran esta inferencia, podría expresar esta idea de manera más explícita. Traducción alternativa: «el éxodo de los hijos de Israel de Egipto»",
+  "lemas_es": [
+   "el éxodo de los hijos de Israel"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a7a0a5020ff2",
+  "lemas_rv1909": [
+   {
+    "lema": "de los hijos de Israel",
+    "ref": "HEB.11.22"
+   }
+  ]
+ },
+ "uwtn-c:259326": {
+  "text_es": "Aunque la palabra ⸢hijos⸣ es masculina, el autor la usa para referirse a cualquier hijo o descendiente, tanto hombres como mujeres. Si en su idioma sería útil, podría usar una palabra que se aplique tanto a hombres como a mujeres, o podría referirse a ambos géneros. Traducción alternativa: «de los hijos y las hijas» o «de los niños»",
+  "lemas_es": [
+   "de los hijos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b3da34d49072",
+  "lemas_rv1909": [
+   {
+    "lema": "de los hijos",
+    "ref": "HEB.11.22"
+   }
+  ]
+ },
+ "uwtn-c:259327": {
+  "text_es": "El autor usa la palabra ⸢hijos⸣ para referirse en general a todos los descendientes de ⸢Israel⸣, quien también fue llamado «Jacob». Si en su idioma sería útil, podría usar una palabra o frase que se refiera a los descendientes en general. Traducción alternativa: «de los descendientes de Israel» o «los descendientes de Israel»",
+  "lemas_es": [
+   "de los hijos de Israel"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bc374e85755a",
+  "lemas_rv1909": [
+   {
+    "lema": "de los hijos de Israel",
+    "ref": "HEB.11.22"
+   }
+  ]
+ },
+ "uwtn-c:259328": {
+  "text_es": "El autor no aclara cuál es el «mandato» acerca de los ⸢huesos⸣. La audiencia habría sabido que José quería que los israelitas llevaran ⸢sus huesos⸣ con ellos cuando salieran de Egipto, para poder enterrar sus huesos en la tierra que Dios les había prometido. Si en su idioma sería útil, podría hacer explícito el contenido del mandato. Traducción alternativa: «les mandó que llevaran sus huesos a la tierra prometida»",
+  "lemas_es": [
+   "les mandó acerca de sus huesos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "efe59987a4b8",
+  "lemas_rv1909": [
+   {
+    "lema": "acerca de sus huesos",
+    "ref": "HEB.11.22"
+   }
+  ]
+ },
+ "uwtn:259323": {
+  "text_es": "El autor se refiere a una historia sobre lo que ⸢José⸣ dijo cuando estaba a punto de morir. Dijo que Dios los llevaría de Egipto a la tierra que Dios había prometido darles, y que debían llevar sus huesos con ellos cuando salieran de Egipto.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6433d3ff8b78"
+ },
+ "uwtn:259325": {
+  "text_es": "La audiencia entendería que el autor hablaba del ⸢éxodo⸣ de los israelitas de Egipto a la tierra que Dios había prometido darles.",
+  "lemas_es": [
+   "el éxodo de los hijos de Israel"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e14135ca6155",
+  "lemas_rv1909": [
+   {
+    "lema": "de los hijos de Israel",
+    "ref": "HEB.11.22"
+   }
+  ]
+ },
+ "uwtn:259328": {
+  "text_es": "El autor no aclara cuál es el «mandato» acerca de los ⸢huesos⸣. La audiencia habría sabido que José quería que los israelitas llevaran ⸢sus huesos⸣ con ellos cuando salieran de Egipto, para poder enterrar sus huesos en la tierra que Dios les había prometido.",
+  "lemas_es": [
+   "les mandó acerca de sus huesos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "25ed2261c5e4",
+  "lemas_rv1909": [
+   {
+    "lema": "acerca de sus huesos",
+    "ref": "HEB.11.22"
+   }
+  ]
+ },
+ "uwtn-c:259329": {
+  "text_es": "El autor se refiere a una historia sobre un hombre llamado ⸢Moisés⸣. El rey de Egipto, donde nació ⸢Moisés⸣, había mandado que mataran a todos los niños varones nacidos de los israelitas. Cuando ⸢Moisés⸣ nació de sus padres, ellos desafiaron el mandato y escondieron a Moisés durante ⸢tres meses⸣. Puede leer esta historia sobre ⸢Moisés⸣ en Éxodo 1:22–2:3. Es posible que desee incluir esta información en una nota al pie.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3761d087eccd"
+ },
+ "uwtn-c:259330": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en ⸢Moisés⸣ en lugar de en los padres de Moisés. Traducción alternativa: «los padres de Moisés lo escondieron durante tres meses después de que su madre lo dio a luz»",
+  "lemas_es": [
+   "Moisés, habiendo nacido, fue escondido durante tres meses por sus padres"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bcef87d215a2",
+  "lemas_rv1909": [
+   {
+    "lema": "Moisés, nacido, fue escondido de sus padres por tres meses",
+    "ref": "HEB.11.23"
+   }
+  ]
+ },
+ "uwtn-c:259331": {
+  "text_es": "Traducción alternativa: «durante una cuarta parte de un año»",
+  "lemas_es": [
+   "durante tres meses"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a2557ed983bf",
+  "lemas_rv1909": [
+   {
+    "lema": "tres meses",
+    "ref": "HEB.11.23"
+   }
+  ]
+ },
+ "uwtn-c:259332": {
+  "text_es": "El autor quiere decir que los padres de Moisés ⸢no tuvieron miedo⸣ de quebrantar o desobedecer ⸢el decreto⸣. Si en su idioma sería útil, podría hacer esto más explícito. Traducción alternativa: «no tuvieron miedo de quebrantar el decreto» o «no temieron las consecuencias de quebrantar el decreto»",
+  "lemas_es": [
+   "no tuvieron miedo del decreto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6677583c952a",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.23"
+   }
+  ]
+ },
+ "uwtn-c:259333": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢decreto⸣, podría expresar la idea usando un verbo como «decretar» o «mandar». Traducción alternativa: «de lo que el rey decretó»",
+  "lemas_es": [
+   "del decreto del rey"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5a9f610c3510",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.23"
+   }
+  ]
+ },
+ "uwtn-c:259334": {
+  "text_es": "El autor supone que su audiencia sabía quién era el ⸢rey⸣ y de qué trataba el ⸢decreto⸣. El ⸢rey⸣ es el gobernante de la tierra de Egipto, a quien a veces también se llama «Faraón». El ⸢decreto⸣ exigía que todos los hijos varones nacidos de los israelitas fueran ahogados en el río Nilo. Si sus lectores no hicieran estas inferencias, podría hacerlas más explícitas. Traducción alternativa: «del decreto del rey de Egipto de que todos los niños varones de los israelitas fueran ahogados»",
+  "lemas_es": [
+   "del decreto del rey"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "594915e131d4",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.23"
+   }
+  ]
+ },
+ "uwtn:259329": {
+  "text_es": "El autor se refiere a una historia sobre un hombre llamado ⸢Moisés⸣. El rey de Egipto, donde nació ⸢Moisés⸣, había mandado que mataran a todos los niños varones nacidos de los israelitas. Cuando ⸢Moisés⸣ nació de sus padres, ellos desafiaron el mandato y escondieron a Moisés durante ⸢tres meses⸣.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7f9a158f818d"
+ },
+ "uwtn:259332": {
+  "text_es": "El autor quiere decir que los padres de Moisés ⸢no tuvieron miedo⸣ de quebrantar o desobedecer ⸢el decreto⸣.",
+  "lemas_es": [
+   "no tuvieron miedo del decreto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4dc6292c665c",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.23"
+   }
+  ]
+ },
+ "uwtn:259334": {
+  "text_es": "El autor supone que su audiencia sabía quién era el ⸢rey⸣ y de qué trataba el ⸢decreto⸣. El ⸢rey⸣ es el gobernante de la tierra de Egipto, a quien a veces también se llama «Faraón». El ⸢decreto⸣ exigía que todos los hijos varones nacidos de los israelitas fueran ahogados en el río Nilo.",
+  "lemas_es": [
+   "del decreto del rey"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "558cd56967e7",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.23"
+   }
+  ]
+ },
+ "uwtn-c:259335": {
+  "text_es": "En 11:24–27, el autor se refiere a una historia sobre ⸢Moisés⸣. Este hombre ⸢Moisés⸣ creció como el hijo adoptivo de la hija de Faraón. Sin embargo, un día Moisés vio a un egipcio golpeando a uno de sus compatriotas israelitas. Mató al egipcio, pero Faraón se enteró y quiso matar a Moisés. Moisés escapó a una tierra llamada Madián. Puede leer sobre esta historia en Éxodo 2:11–15. Es posible que desee incluir esta información en una nota al pie.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b10c692250b8"
+ },
+ "uwtn-c:259336": {
+  "text_es": "La frase ⸢ser llamado⸣ indica más que solo un nombre. También se refiere al poder y la posición que acompañan a ese nombre. El autor quiere decir que Moisés ⸢rehusó⸣ vivir y actuar como ⸢el hijo de la hija de Faraón⸣. Si en su idioma sería útil, podría hacer esta idea más explícita. Traducción alternativa: «rehusó ser tratado como el hijo de la hija de Faraón» o «rehusó ser honrado como el hijo de la hija de Faraón»",
+  "lemas_es": [
+   "rehusó ser llamado el hijo de la hija de Faraón"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "074b4f7cd293",
+  "lemas_rv1909": [
+   {
+    "lema": "rehusó ser llamado hijo de la hija de Faraón",
+    "ref": "HEB.11.24"
+   }
+  ]
+ },
+ "uwtn-c:259337": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en ⸢Moisés⸣, quien es ⸢llamado⸣, en lugar de en las personas que lo llaman. Si debe indicar quién realizó la acción, podría usar un sujeto indefinido. Traducción alternativa: «rehusó que la gente lo llamara»",
+  "lemas_es": [
+   "rehusó ser llamado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6ff455f80a17",
+  "lemas_rv1909": [
+   {
+    "lema": "rehusó ser llamado",
+    "ref": "HEB.11.24"
+   }
+  ]
+ },
+ "uwtn:259335": {
+  "text_es": "En 11:24–27, el autor se refiere a una historia sobre ⸢Moisés⸣. Este hombre ⸢Moisés⸣ creció como el hijo adoptivo de la hija de Faraón. Sin embargo, un día Moisés vio a un egipcio golpeando a uno de sus compatriotas israelitas. Mató al egipcio, pero Faraón se enteró y quiso matar a Moisés. Moisés escapó a una tierra llamada Madián.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9c250813fa69"
+ },
+ "uwtn:259336": {
+  "text_es": "La frase ⸢ser llamado⸣ indica más que solo un nombre. También se refiere al poder y la posición que acompañan a ese nombre. El autor quiere decir que Moisés ⸢rehusó⸣ vivir y actuar como ⸢el hijo de la hija de Faraón⸣.",
+  "lemas_es": [
+   "rehusó ser llamado el hijo de la hija de Faraón"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d7d9f09a3873",
+  "lemas_rv1909": [
+   {
+    "lema": "rehusó ser llamado hijo de la hija de Faraón",
+    "ref": "HEB.11.24"
+   }
+  ]
+ },
+ "uwtn-c:259338": {
+  "text_es": "Si su idioma no usa sustantivos abstractos para las ideas de ⸢disfrute⸣ y ⸢pecado⸣, podría expresar las ideas usando verbos como «disfrutar» y «pecar». Traducción alternativa: «disfrutar temporalmente de actuar de manera pecaminosa» o «beneficiarse brevemente de hacer cosas pecaminosas»",
+  "lemas_es": [
+   "tener el disfrute temporal del pecado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c6ee3790f67c",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.25"
+   }
+  ]
+ },
+ "uwtn-c:259339": {
+  "text_es": "El autor podría estar refiriéndose a un ⸢oprobio⸣ que es: (1) por causa de o a causa de ⸢el Cristo⸣. Traducción alternativa: «el oprobio por causa del Cristo» o «el oprobio a causa del Cristo»; (2) como el ⸢oprobio⸣ que ⸢el Cristo⸣ experimentó. Traducción alternativa: «el oprobio que Cristo experimentó» o «oprobio, que es como lo que Cristo sufrió»,",
+  "lemas_es": [
+   "el oprobio del Cristo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "dd7bbaba3fe1",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.26"
+   }
+  ]
+ },
+ "uwtn-c:259340": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea detrás de ⸢oprobio⸣, podría expresar la idea usando un verbo como «oprobiar». Traducción alternativa: «ser oprobiado por Cristo»",
+  "lemas_es": [
+   "el oprobio del Cristo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a0a05f182023",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.26"
+   }
+  ]
+ },
+ "uwtn-c:259341": {
+  "text_es": "La palabra ⸢Porque⸣ introduce una razón por la cual Moisés ⸢consideró⸣ el ⸢oprobio de Cristo⸣ como más valioso que ⸢los tesoros de Egipto⸣. Si en su idioma sería útil, podría usar una palabra o frase diferente que introduzca una razón o base. Traducción alternativa: «puesto que»",
+  "lemas_es": [
+   "porque"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e816140b5273",
+  "lemas_rv1909": [
+   {
+    "lema": "porque",
+    "ref": "HEB.11.26"
+   }
+  ]
+ },
+ "uwtn-c:259342": {
+  "text_es": "El autor habla como si Moisés estuviera ⸢apartando la mirada⸣ de ⸢los tesoros de Egipto⸣ y ⸢hacia su recompensa⸣. Habla de esta manera para indicar que Moisés pensaba y se enfocaba en la ⸢recompensa⸣ de Dios en lugar de ⸢los tesoros de Egipto⸣. Si en su idioma sería útil, podría expresar el significado de manera clara. Traducción alternativa: «porque más bien se concentraba en»",
+  "lemas_es": [
+   "apartaba la mirada hacia"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a0051ceab2f7",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.26"
+   }
+  ]
+ },
+ "uwtn-c:259343": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea detrás de ⸢recompensa⸣, podría expresar la idea usando un verbo como «recompensar» o «pagar». Traducción alternativa: «hacia cómo Dios lo recompensaría»",
+  "lemas_es": [
+   "hacia su recompensa"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3b01dfe18bcf",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.26"
+   }
+  ]
+ },
+ "uwtn:259339": {
+  "text_es": "El autor podría estar refiriéndose a un ⸢oprobio⸣ que es: (1) por causa de o a causa de ⸢el Cristo⸣. («el oprobio por causa del Cristo» o «el oprobio a causa del Cristo»); (2) como el ⸢oprobio⸣ que ⸢el Cristo⸣ experimentó. («el oprobio que Cristo experimentó» o «oprobio, que es como lo que Cristo sufrió»,)",
+  "lemas_es": [
+   "el oprobio del Cristo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "95ea0c7bde1a",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.26"
+   }
+  ]
+ },
+ "uwtn-c:259344": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢ira⸣, podría expresar la idea usando un adjetivo como «enojado» o «furioso». Traducción alternativa: «cuán furioso estaba el rey»",
+  "lemas_es": [
+   "la ira del rey"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "efed4bd9925c",
+  "lemas_rv1909": [
+   {
+    "lema": "la ira del rey",
+    "ref": "HEB.11.27"
+   }
+  ]
+ },
+ "uwtn-c:259345": {
+  "text_es": "La palabra ⸢porque⸣ introduce una razón por la cual Moisés ⸢dejó atrás Egipto⸣ y no temió ⸢la ira del rey⸣. Si en su idioma sería útil, podría usar una palabra o frase diferente que introduzca una razón o base. Traducción alternativa: «puesto que»",
+  "lemas_es": [
+   "porque"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6d00d19958db",
+  "lemas_rv1909": [
+   {
+    "lema": "porque",
+    "ref": "HEB.11.27"
+   }
+  ]
+ },
+ "uwtn-c:259346": {
+  "text_es": "La palabra traducida como ⸢como si⸣ podría indicar que Moisés: (1) en realidad no «veía» a Dios, sino que actuaba como si pudiera. Traducción alternativa: «como si pudiera ver»; (2) sí «veía» a Dios y actuaba como uno que podía hacerlo. Traducción alternativa: «como uno que podía ver»",
+  "lemas_es": [
+   "como si estuviera viendo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bc46bc94378e",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.27"
+   }
+  ]
+ },
+ "uwtn-c:259347": {
+  "text_es": "El autor compara la manera en que Moisés ⸢soportó⸣ con cómo soportaría alguien que estuviera ⸢viendo al invisible⸣. El punto del autor es que Moisés soportó porque estaba totalmente seguro de que Dios era digno de confianza, tan seguro como si Dios estuviera justo a su lado. Si en su idioma sería útil, podría hacer la comparación más explícita. Traducción alternativa: «como soporta uno que puede ver al invisible»",
+  "lemas_es": [
+   "el & como si estuviera viendo & invisible"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d5e87f3e5082",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.27"
+   }
+  ]
+ },
+ "uwtn-c:259348": {
+  "text_es": "La audiencia habría sabido que ⸢el invisible⸣ es Dios. Si en su idioma sería útil, podría hacer más explícito quién es ⸢el invisible⸣. Traducción alternativa: «el Dios invisible»",
+  "lemas_es": [
+   "el & invisible"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "52f0edc937f0",
+  "lemas_rv1909": [
+   {
+    "lema": "Invisible",
+    "ref": "HEB.11.27"
+   }
+  ]
+ },
+ "uwtn:259346": {
+  "text_es": "La palabra traducida como ⸢como si⸣ podría indicar que Moisés: (1) en realidad no «veía» a Dios, sino que actuaba como si pudiera verlo. («como si pudiera ver»); (2) sí «veía» a Dios y actuaba como quien puede hacerlo. («como quien puede ver»)",
+  "lemas_es": [
+   "como si viera"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b502b65211ca",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.27"
+   }
+  ]
+ },
+ "uwtn:259348": {
+  "text_es": "La audiencia habría sabido que ⸢el invisible⸣ es Dios.",
+  "lemas_es": [
+   "el & invisible"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2f3022a7af2d",
+  "lemas_rv1909": [
+   {
+    "lema": "Invisible",
+    "ref": "HEB.11.27"
+   }
+  ]
+ },
+ "uwtn-c:259349": {
+  "text_es": "El autor se refiere a la historia de la primera ⸢Pascua⸣, una fiesta que los israelitas siguieron celebrando para recordar lo que sucedió cuando Dios los libró de Egipto. Dios había advertido al rey de Egipto que, si no dejaba libres a los israelitas, mataría al hijo ⸢primogénito⸣ de cada familia egipcia. Dios le dijo a Moisés que hiciera que los israelitas untaran la sangre de un cordero sacrificado en sus puertas, para que sus hijos ⸢primogénitos⸣ no murieran. Entonces, Dios envió un ángel destructor, que mató a los hijos ⸢primogénitos⸣ de los egipcios. Cuando eso sucedió, el rey de Egipto dejó libres a los israelitas. Puede leer acerca de la primera ⸢Pascua⸣ en Éxodo 11:1–12:32. Quizá quiera incluir esta información en una nota al pie.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b0f9b4f266c4"
+ },
+ "uwtn-c:259350": {
+  "text_es": "El autor da a entender que Moisés guio a todos los israelitas a hacer estas cosas. No fue solo Moisés quien roció la sangre y ⸢celebró la Pascua⸣. Si sería útil en su idioma, podría hacer más explícita la implicación acerca de todos los israelitas. Traducción alternativa: «hizo que ellos la celebraran» o «él y los israelitas han celebrado»",
+  "lemas_es": [
+   "él ha celebrado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0bcbe349cac7",
+  "lemas_rv1909": [
+   {
+    "lema": "celebró la pascua y el",
+    "ref": "HEB.11.28"
+   }
+  ]
+ },
+ "uwtn-c:259351": {
+  "text_es": "La frase ⸢la aspersión de la sangre⸣ se refiere al mandato de Dios a los israelitas de matar un cordero y untar su ⸢sangre⸣ en los postes de las puertas de cada casa donde vivieran israelitas. Esto impediría que ⸢el destructor⸣ dañara a sus ⸢primogénitos⸣. Si sería útil en su idioma, podría hacer más explícito a qué se refiere ⸢la aspersión de la sangre⸣. Traducción alternativa: «la aspersión de la sangre de los sacrificios en los marcos de sus puertas»",
+  "lemas_es": [
+   "la aspersión de la sangre"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3baa68c329f3",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.28"
+   }
+  ]
+ },
+ "uwtn-c:259352": {
+  "text_es": "La frase ⸢el destructor de los primogénitos⸣ se refiere al ser espiritual a quien Dios mandó matar a los ⸢primogénitos⸣ de los egipcios. Si sería útil en su idioma, podría aclarar que ⸢el destructor⸣ es un ser espiritual. Traducción alternativa: «el ángel que destruyó a los primogénitos»",
+  "lemas_es": [
+   "el destructor de los primogénitos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "46cbfb15cde9",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.28"
+   }
+  ]
+ },
+ "uwtn-c:259353": {
+  "text_es": "La palabra ⸢tocar⸣ se refiere a dañar o matar a alguien. Si sería útil en su idioma, podría expresar el significado de manera clara. Traducción alternativa: «no dañaría» o «no destruiría»",
+  "lemas_es": [
+   "no tocaría"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a8b214dec908",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.28"
+   }
+  ]
+ },
+ "uwtn-c:259354": {
+  "text_es": "La palabra ⸢ellos⸣ se refiere a los israelitas, quizá más específicamente a los primogénitos de los israelitas. Si sería útil en su idioma, podría hacer explícito a quién se refiere ⸢ellos⸣. Traducción alternativa: «los israelitas» o «los primogénitos israelitas»",
+  "lemas_es": [
+   "ellos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ff98f22d720b",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.28"
+   }
+  ]
+ },
+ "uwtn:259349": {
+  "text_es": "El autor se refiere a la historia de la primera ⸢Pascua⸣, una fiesta que los israelitas siguieron celebrando para recordar lo que sucedió cuando Dios los libró de Egipto. Dios había advertido al rey de Egipto que, si no dejaba libres a los israelitas, mataría al hijo ⸢primogénito⸣ de cada familia egipcia. Dios le dijo a Moisés que hiciera que los israelitas untaran la sangre de un cordero sacrificado en sus puertas, para que sus hijos ⸢primogénitos⸣ no murieran. Entonces, Dios envió un ángel destructor, que mató a los hijos ⸢primogénitos⸣ de los egipcios. Cuando eso sucedió, el rey de Egipto dejó libres a los israelitas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "909bf159f7a2"
+ },
+ "uwtn:259350": {
+  "text_es": "El autor da a entender que Moisés guio a todos los israelitas a hacer estas cosas. No fue solo Moisés quien roció la sangre y ⸢celebró la Pascua⸣.",
+  "lemas_es": [
+   "él ha celebrado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fcf0710ec214",
+  "lemas_rv1909": [
+   {
+    "lema": "celebró la pascua y el",
+    "ref": "HEB.11.28"
+   }
+  ]
+ },
+ "uwtn:259351": {
+  "text_es": "La frase ⸢la aspersión de la sangre⸣ se refiere al mandato de Dios a los israelitas de matar un cordero y untar su ⸢sangre⸣ en los postes de las puertas de cada casa donde vivieran israelitas. Esto impediría que ⸢el destructor⸣ dañara a sus ⸢primogénitos⸣.",
+  "lemas_es": [
+   "la aspersión de la sangre"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4cd6632f6fb9",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.28"
+   }
+  ]
+ },
+ "uwtn:259352": {
+  "text_es": "La frase ⸢el destructor de los primogénitos⸣ se refiere al ser espiritual a quien Dios mandó matar a los ⸢primogénitos⸣ de los egipcios.",
+  "lemas_es": [
+   "el destructor de los primogénitos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ea23cdd1e9f0",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.28"
+   }
+  ]
+ },
+ "uwtn-c:259355": {
+  "text_es": "El autor se refiere a una historia acerca de cómo Dios rescató a los israelitas de Egipto. Después de que el rey de Egipto los dejó libres, los israelitas viajaron hasta llegar a la orilla del ⸢Mar Rojo⸣. Sin embargo, el rey de Egipto decidió que había cometido un error y quiso hacer volver a los israelitas. Su ejército los rodeó mientras acampaban junto al ⸢Mar Rojo⸣. No obstante, Dios abrió un camino a través del ⸢Mar Rojo⸣, y los israelitas pasaron derecho por él. Cuando el ejército egipcio los siguió, Dios hizo volver el agua sobre el camino que había creado, y los egipcios se ahogaron. Puede leer esta historia en Éxodo 14. Quizá quiera incluir esta información en una nota al pie.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "32b18f8d9912"
+ },
+ "uwtn-c:259356": {
+  "text_es": "El autor compara la manera en que los israelitas ⸢pasaron por el Mar Rojo⸣ con cómo una persona pasaría ⸢por tierra seca⸣. En otras palabras, los israelitas pudieron caminar ⸢por⸣ el ⸢Mar Rojo⸣ tal como caminarían por un sendero. La audiencia sabría que Dios separó el agua del ⸢Mar Rojo⸣ para crear este camino. Si sería útil en su idioma, podría hacer más explícito qué es lo que el autor está comparando. Traducción alternativa: «como si caminaran por un sendero seco»",
+  "lemas_es": [
+   "como si por tierra seca"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "413d910931f8",
+  "lemas_rv1909": [
+   {
+    "lema": "como por tierra seca",
+    "ref": "HEB.11.29"
+   }
+  ]
+ },
+ "uwtn-c:259357": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en quienes ⸢fueron tragados⸣ y no en lo que hizo el «tragar». Si debe indicar quién realizó la acción, el autor da a entender que «el Mar Rojo» lo hizo. Traducción alternativa: «se tragó a los egipcios cuando estos habían intentado hacerlo»",
+  "lemas_es": [
+   "los egipcios, habiendo intentado hacerlo, fueron tragados"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d927efc9a4d6",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.29"
+   }
+  ]
+ },
+ "uwtn-c:259358": {
+  "text_es": "El autor habla de morir ahogado como si el agua hubiera ⸢tragado⸣ a alguien. Si sería útil en su idioma, podría expresar el significado de manera clara. Traducción alternativa: «se ahogaron»",
+  "lemas_es": [
+   "fueron tragados"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "368d7584e8af",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.29"
+   }
+  ]
+ },
+ "uwtn:259355": {
+  "text_es": "El autor se refiere a una historia acerca de cómo Dios rescató a los israelitas de Egipto. Después de que el rey de Egipto los dejó libres, los israelitas viajaron hasta llegar a la orilla del ⸢Mar Rojo⸣. Sin embargo, el rey de Egipto decidió que había cometido un error y quiso hacer volver a los israelitas. Su ejército los rodeó mientras acampaban junto al ⸢Mar Rojo⸣. No obstante, Dios abrió un camino a través del ⸢Mar Rojo⸣, y los israelitas pasaron derecho por él. Cuando el ejército egipcio los siguió, Dios hizo volver el agua sobre el camino que había creado, y los egipcios se ahogaron.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bdd72d8057de"
+ },
+ "uwtn-c:259359": {
+  "text_es": "El autor se refiere a una historia acerca de una ciudad llamada ⸢Jericó⸣. Esta ciudad fue la primera ciudad que los israelitas atacaron cuando entraron en la tierra que Dios había prometido darles. Dios les dijo que marcharan alrededor de la ciudad una vez al día durante seis días y luego marcharan alrededor de la ciudad siete veces el séptimo día. Cuando los israelitas completaron su última marcha alrededor de la ciudad y gritaron con fuerza, los muros cayeron y los israelitas conquistaron la ciudad. Puede leer acerca de ⸢Jericó⸣ en Josué 6:1–25. Quizá quiera incluir esta información en una nota al pie.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ba2e2bd5f405"
+ },
+ "uwtn-c:259360": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en los ⸢muros⸣ que son ⸢rodeados⸣ y no en las personas que los rodean. Si debe indicar quién realizó la acción, el autor da a entender que «los israelitas» lo hicieron. Traducción alternativa: «los israelitas, habiéndolos rodeado»",
+  "lemas_es": [
+   "habiendo sido rodeados"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "033a23292ebb",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.30"
+   }
+  ]
+ },
+ "uwtn:259359": {
+  "text_es": "El autor se refiere a una historia acerca de una ciudad llamada ⸢Jericó⸣. Esta ciudad fue la primera ciudad que los israelitas atacaron cuando entraron en la tierra que Dios había prometido darles. Dios les dijo que marcharan alrededor de la ciudad una vez al día durante seis días y luego marcharan alrededor de la ciudad siete veces el séptimo día. Cuando los israelitas completaron su última marcha alrededor de la ciudad y gritaron con fuerza, los muros cayeron y los israelitas conquistaron la ciudad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9c45827a19ad"
+ },
+ "uwtn-c:259361": {
+  "text_es": "El autor se refiere a una historia acerca de una mujer llamada ⸢Rahab⸣. Ella era una ⸢prostituta⸣ que vivía en la ciudad de Jericó. Cuando Josué envió ⸢espías⸣ para ver cómo era Jericó, Rahab los escondió de los líderes de la ciudad y los envió sanos y salvos de vuelta a Josué. Por haber hecho eso, Josué hizo que los israelitas mantuvieran con vida a Rahab y a su familia cuando conquistaron Jericó y mataron a todos los demás. Puede leer acerca de ⸢Rahab⸣ en Josué 2:1–21 y Josué 6:22–25. Quizá quiera incluir esta información en una nota al pie.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ff904c00dc24"
+ },
+ "uwtn-c:259362": {
+  "text_es": "La frase ⸢los que habían desobedecido⸣ se refiere a todos los demás que vivían en Jericó. No respondieron a Dios y al pueblo de Dios como lo hizo ⸢Rahab⸣, por lo que el autor los describe como «desobedientes». Si sería útil en su idioma, podría hacer más explícito quiénes son ⸢los que habían desobedecido⸣. Traducción alternativa: «con todos los demás en Jericó que desobedecieron» o «con las personas que vivían en Jericó y que desobedecieron»",
+  "lemas_es": [
+   "con los que habían desobedecido"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "07c4f672f524",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.31"
+   }
+  ]
+ },
+ "uwtn-c:259363": {
+  "text_es": "La frase ⸢habiendo recibido⸣ introduce la razón o causa de por qué Rahab ⸢no pereció⸣. Si sería útil en su idioma, podría hacer más explícita esta relación. Traducción alternativa: «puesto que recibió» o «porque recibió»",
+  "lemas_es": [
+   "habiendo recibido"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f77c8d95c496",
+  "lemas_rv1909": [
+   {
+    "lema": "habiendo recibido",
+    "ref": "HEB.11.31"
+   }
+  ]
+ },
+ "uwtn-c:259364": {
+  "text_es": "La palabra ⸢espías⸣ se refiere a los hombres que Josué había enviado a examinar cómo eran las personas y las ciudades de la tierra prometida antes de que él y los israelitas atacaran. Si sería útil en su idioma, podría usar una palabra o frase que se refiera a este tipo de tarea. Traducción alternativa: «los exploradores» o «los enviados a investigar la tierra»",
+  "lemas_es": [
+   "los espías"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e2a1c2211cf8",
+  "lemas_rv1909": [
+   {
+    "lema": "los espías",
+    "ref": "HEB.11.31"
+   }
+  ]
+ },
+ "uwtn-c:259365": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢paz⸣, podría expresar la idea usando un adverbio como «pacíficamente». Traducción alternativa: «que habían recibido pacíficamente a los espías»",
+  "lemas_es": [
+   "con paz"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7fa7ffa8ffd0",
+  "lemas_rv1909": [
+   {
+    "lema": "con paz",
+    "ref": "HEB.11.31"
+   }
+  ]
+ },
+ "uwtn:259361": {
+  "text_es": "El autor se refiere a una historia acerca de una mujer llamada ⸢Rahab⸣. Ella era una ⸢prostituta⸣ que vivía en la ciudad de Jericó. Cuando Josué envió ⸢espías⸣ para ver cómo era Jericó, Rahab los escondió de los líderes de la ciudad y los envió sanos y salvos de vuelta a Josué. Por haber hecho eso, Josué hizo que los israelitas mantuvieran con vida a Rahab y a su familia cuando conquistaron Jericó y mataron a todos los demás.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c3150348fc58"
+ },
+ "uwtn:259362": {
+  "text_es": "La frase ⸢los que habían desobedecido⸣ se refiere a todos los demás que vivían en Jericó.",
+  "lemas_es": [
+   "con los que habían desobedecido"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d8abc3928646",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.31"
+   }
+  ]
+ },
+ "uwtn:259364": {
+  "text_es": "La palabra ⸢espías⸣ se refiere a los hombres que Josué había enviado a examinar cómo eran las personas y las ciudades de la tierra prometida antes de que él y los israelitas atacaran.",
+  "lemas_es": [
+   "los espías"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "be43de916829",
+  "lemas_rv1909": [
+   {
+    "lema": "los espías",
+    "ref": "HEB.11.31"
+   }
+  ]
+ },
+ "uwtn-c:259366": {
+  "text_es": "El autor usa esta pregunta para enfatizar que hay muchos más ejemplos que podría haber tratado. Si sería útil en su idioma, podría expresar la idea usando una declaración enfática e incluir el énfasis de otra manera. Traducción alternativa: «¡Podría hablar de muchísimos ejemplos más!»",
+  "lemas_es": [
+   "¿qué más podría decir"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "33cc81e93017",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.32"
+   }
+  ]
+ },
+ "uwtn-c:259367": {
+  "text_es": "La palabra ⸢Porque⸣ introduce una explicación adicional de por qué el autor no puede ⸢decir⸣ ⸢más⸣. Si le resultara útil en su idioma, podría usar una palabra o frase diferente que introduzca una explicación adicional. Traducción alternativa: «Pero» o «De hecho»,",
+  "lemas_es": [
+   "Porque"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "87363a5a948e",
+  "lemas_rv1909": [
+   {
+    "lema": "porque",
+    "ref": "HEB.11.32"
+   }
+  ]
+ },
+ "uwtn-c:259368": {
+  "text_es": "La frase ⸢me faltará tiempo⸣ indica que el autor no tiene suficiente tiempo para hablar de más personas. Si le resultara útil en su idioma, podría usar una expresión que se refiera a la falta de tiempo. Traducción alternativa: «no tendré suficiente tiempo» o «tomaría demasiado tiempo»",
+  "lemas_es": [
+   "me faltará tiempo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fe8053e5d6e0",
+  "lemas_rv1909": [
+   {
+    "lema": "tiempo me faltará",
+    "ref": "HEB.11.32"
+   }
+  ]
+ },
+ "uwtn-c:259369": {
+  "text_es": "La frase ⸢contando⸣ indica la condición en la que ⸢me faltará tiempo⸣. Por supuesto, el autor indica que no cumplirá esta condición. Si le resultara útil en su idioma, podría hacer la relación más explícita usando una forma que introduzca una condición irreal. Traducción alternativa: «me si fuera a contar» o «me si contara»",
+  "lemas_es": [
+   "me, contando"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9739795dbed5",
+  "lemas_rv1909": [
+   {
+    "lema": "me faltará contando",
+    "ref": "HEB.11.32"
+   }
+  ]
+ },
+ "uwtn-c:259370": {
+  "text_es": "La frase ⸢los profetas⸣ se refiere en general a cualquiera que habló la palabra de Dios a su pueblo. El hombre ⸢Samuel⸣ era considerado un profeta, así que asegúrese de que su traducción no implique que ⸢Samuel⸣ no era un profeta. Traducción alternativa: «los demás que hablaron de parte de Dios»",
+  "lemas_es": [
+   "los profetas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "00efcf4e8947",
+  "lemas_rv1909": [
+   {
+    "lema": "los profetas",
+    "ref": "HEB.11.32"
+   }
+  ]
+ },
+ "uwtn:259370": {
+  "text_es": "La frase ⸢los profetas⸣ se refiere en general a cualquiera que habló la palabra de Dios a su pueblo.",
+  "lemas_es": [
+   "los profetas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4f6c5f94a11e",
+  "lemas_rv1909": [
+   {
+    "lema": "los profetas",
+    "ref": "HEB.11.32"
+   }
+  ]
+ },
+ "uwtn-c:259371": {
+  "text_es": "La palabra ⸢quienes⸣ no significa que cada persona mencionada en 11:32 hizo todas las cosas que el autor está a punto de mencionar. El autor quiere decir que estas son el tipo de cosas que quienes tenían fe pudieron hacer en general. Traducción alternativa: «quienes, junto con muchos otros»,",
+  "lemas_es": [
+   "quienes"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6a20249990e2",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.33"
+   }
+  ]
+ },
+ "uwtn-c:259372": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢justicia⸣, podría expresar la idea usando un adverbio como «justamente» o «rectamente». Traducción alternativa: «gobernaron rectamente» o «reinaron justamente»",
+  "lemas_es": [
+   "obraron justicia"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d525340741fa",
+  "lemas_rv1909": [
+   {
+    "lema": "obraron justicia",
+    "ref": "HEB.11.33"
+   }
+  ]
+ },
+ "uwtn-c:259373": {
+  "text_es": "La palabra ⸢promesas⸣ se refiere al contenido de las ⸢promesas⸣, o a lo que Dios ha «prometido» dar. Si le resultara útil en su idioma, podría aclarar que el autor se refiere al contenido de las ⸢promesas⸣. Traducción alternativa: «las cosas de las promesas de Dios» o «las cosas que Dios prometió»",
+  "lemas_es": [
+   "promesas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "944baba76097",
+  "lemas_rv1909": [
+   {
+    "lema": "promesas",
+    "ref": "HEB.11.33"
+   }
+  ]
+ },
+ "uwtn-c:259374": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢promesas⸣, podría expresar la idea usando un verbo como «prometer» o «comprometer». Traducción alternativa: «lo que Dios prometió»",
+  "lemas_es": [
+   "promesas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7becee46213b",
+  "lemas_rv1909": [
+   {
+    "lema": "promesas",
+    "ref": "HEB.11.33"
+   }
+  ]
+ },
+ "uwtn-c:259375": {
+  "text_es": "La frase ⸢cerraron la boca de los leones⸣ significa que los leones no pueden comer nada, en particular la persona que está con los leones. Si le resultara útil en su idioma, podría expresar el significado de manera clara. Traducción alternativa: «impidieron que los leones los devoraran» o «refrenaron el hambre de los leones»",
+  "lemas_es": [
+   "cerraron la boca de los leones"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "26f5f5d03ce9",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.33"
+   }
+  ]
+ },
+ "uwtn-c:259376": {
+  "text_es": "El autor usa la forma posesiva para describir el ⸢fuego⸣ que tiene ⸢poder⸣. Si le resultara útil en su idioma, podría expresar la idea sin usar una forma posesiva. Traducción alternativa: «fuego que tiene poder»",
+  "lemas_es": [
+   "el poder del fuego"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0885536c2f5d",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.34"
+   }
+  ]
+ },
+ "uwtn-c:259377": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢poder⸣, podría expresar la idea usando un adjetivo como «poderoso». Traducción alternativa: «fuego poderoso»",
+  "lemas_es": [
+   "el poder del fuego"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9f3bbafd4abb",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.34"
+   }
+  ]
+ },
+ "uwtn-c:259378": {
+  "text_es": "La frase ⸢la boca de la espada⸣ se refiere a cómo la ⸢espada⸣ destruye a las personas como si se las comiera con una ⸢boca⸣. La expresión se refiere a que alguien mata a otra persona con una ⸢espada⸣. Si le resultara útil en su idioma, podría usar una figura retórica comparable o expresar la idea de manera clara. Traducción alternativa: «escaparon de una muerte violenta» o «sobrevivieron a alguien que intentaba matarlos»",
+  "lemas_es": [
+   "escaparon de la boca de la espada"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "62fe640b95fc",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.34"
+   }
+  ]
+ },
+ "uwtn-c:259379": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en quienes ⸢fueron fortalecidos⸣ en lugar de en la persona que da el fortalecimiento. Si debe indicar quién hizo la acción, el autor implica que Dios la hizo. Traducción alternativa: «recibieron fortalecimiento de Dios en su debilidad» o «se hicieron poderosos en su debilidad»",
+  "lemas_es": [
+   "fueron fortalecidos en su debilidad"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8cfcb1eb14be",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.34"
+   }
+  ]
+ },
+ "uwtn-c:259380": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢debilidad⸣, podría expresar la idea usando un adjetivo como «débil». Traducción alternativa: «de estar débiles»",
+  "lemas_es": [
+   "en su debilidad"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "713df9a2cfbf",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.34"
+   }
+  ]
+ },
+ "uwtn-c:259381": {
+  "text_es": "El autor usa el adjetivo ⸢muertos⸣ como sustantivo para referirse a todas las personas que están ⸢muertas⸣. Puede que su idioma use adjetivos de la misma manera. Si no, podría traducirlo con una frase nominal. La palabra ⸢sus⸣ indica que estas personas ⸢muertas⸣ pertenecen a las familias de las ⸢mujeres⸣. Traducción alternativa: «sus parientes muertos»",
+  "lemas_es": [
+   "sus muertos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1768b4e72e08",
+  "lemas_rv1909": [
+   {
+    "lema": "sus muertos",
+    "ref": "HEB.11.35"
+   }
+  ]
+ },
+ "uwtn-c:259382": {
+  "text_es": "La palabra ⸢otros⸣ no se refiere a otras ⸢mujeres⸣. Más bien, se refiere a otras personas en general. Si le resultara útil en su idioma, podría hacer esto explícito. Traducción alternativa: «otros israelitas» o «otros creyentes»",
+  "lemas_es": [
+   "otros"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bd8e762b97c5",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.35"
+   }
+  ]
+ },
+ "uwtn-c:259383": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en quienes ⸢fueron torturados⸣ en lugar de en las personas que torturaban. Si debe indicar quién hizo la acción, podría usar un sujeto indefinido. Traducción alternativa: «otros aceptaron la tortura» o «otros fueron aquellos a quienes la gente torturó»",
+  "lemas_es": [
+   "otros fueron torturados"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "223a4db1b306",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.35"
+   }
+  ]
+ },
+ "uwtn-c:259384": {
+  "text_es": "La audiencia entendería que la «tortura» se detendría si las personas que eran ⸢torturadas⸣ hacían lo que el torturador pedía. En este caso, el autor implica que las personas son ⸢torturadas⸣ para hacer que desobedezcan o nieguen a Dios. «Aceptar la liberación», entonces, requeriría desobedecer o negar a Dios. Si le resultara útil en su idioma, podría hacer más explícito lo que el autor implica. Traducción alternativa: «negándose a desobedecer a Dios para ser liberados» o «no estando dispuestos a ser liberados negando a Dios»",
+  "lemas_es": [
+   "no aceptando su liberación"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "aa0d16defb8c",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.35"
+   }
+  ]
+ },
+ "uwtn-c:259385": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢liberación⸣, podría expresar la idea usando un verbo como «liberar». Traducción alternativa: «no pidiendo ser liberados» o «no intentando ser liberados»",
+  "lemas_es": [
+   "no aceptando su liberación"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c3c6e3a56617",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.35"
+   }
+  ]
+ },
+ "uwtn-c:259386": {
+  "text_es": "El autor no indica de qué es ⸢mejor⸣ esta ⸢resurrección⸣. La frase ⸢mejor resurrección⸣ podría significar: (1) que esta es una ⸢resurrección⸣ final y por lo tanto es mejor que la ⸢resurrección⸣ temporal mencionada al comienzo del versículo. Traducción alternativa: «resurrección mejor que un retorno temporal a la vida»; (2) que la ⸢resurrección⸣ es ⸢mejor⸣ que una ⸢liberación⸣ temporal de ser ⸢torturados⸣. Traducción alternativa: «una resurrección mejor que la liberación»; (3) estas personas tendrán una ⸢mejor resurrección⸣ que quienes no tuvieron fe. Todos experimentan la ⸢resurrección⸣, pero quienes confiaron en Dios reciben una ⸢mejor⸣. Traducción alternativa: «una resurrección mejor que la que obtendrán sus enemigos»",
+  "lemas_es": [
+   "una mejor resurrección"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "28766bd01b1e",
+  "lemas_rv1909": [
+   {
+    "lema": "mejor resurrección",
+    "ref": "HEB.11.35"
+   }
+  ]
+ },
+ "uwtn:259384": {
+  "text_es": "La audiencia entendería que la «tortura» se detendría si las personas que eran ⸢torturadas⸣ hacían lo que el torturador pedía. En este caso, el autor implica que las personas son ⸢torturadas⸣ para hacer que desobedezcan o nieguen a Dios. «Aceptar la liberación», entonces, requeriría desobedecer o negar a Dios.",
+  "lemas_es": [
+   "no aceptando su liberación"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "da7b915ff233",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.35"
+   }
+  ]
+ },
+ "uwtn:259386": {
+  "text_es": "El autor no indica de qué es ⸢mejor⸣ esta ⸢resurrección⸣. La frase ⸢mejor resurrección⸣ podría significar: (1) que esta es una ⸢resurrección⸣ final y por lo tanto es mejor que la ⸢resurrección⸣ temporal mencionada al comienzo del versículo. («resurrección mejor que un retorno temporal a la vida»); (2) que la ⸢resurrección⸣ es ⸢mejor⸣ que una ⸢liberación⸣ temporal de ser ⸢torturados⸣. («una resurrección mejor que la liberación»); (3) estas personas tendrán una ⸢mejor resurrección⸣ que quienes no tuvieron fe. Todos experimentan la ⸢resurrección⸣, pero quienes confiaron en Dios reciben una ⸢mejor⸣. («una resurrección mejor que la que obtendrán sus enemigos»)",
+  "lemas_es": [
+   "una mejor resurrección"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f3cdc70c4243",
+  "lemas_rv1909": [
+   {
+    "lema": "mejor resurrección",
+    "ref": "HEB.11.35"
+   }
+  ]
+ },
+ "uwtn-c:259387": {
+  "text_es": "La palabra ⸢azotes⸣ se refiere a un castigo que consistía en que una persona golpeara la espalda de otra con cuerdas o correas de cuero. Quien daba los ⸢azotes⸣ azotaba a la otra persona hasta que su espalda quedaba abierta. Si le resultara útil en su idioma, podría usar una palabra o frase que se refiera a este tipo de castigo. Traducción alternativa: «de flagelaciones» o «de palizas»",
+  "lemas_es": [
+   "de azotes"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6b52480c60d6",
+  "lemas_rv1909": [
+   {
+    "lema": "azotes",
+    "ref": "HEB.11.36"
+   }
+  ]
+ },
+ "uwtn-c:259388": {
+  "text_es": "La frase ⸢y aun más⸣ indica que lo que el autor dice a continuación es peor o más difícil de soportar que las ⸢burlas⸣ y los ⸢azotes⸣ que ya ha mencionado. Si le resultara útil en su idioma, podría usar una palabra o frase que deje clara esta comparación. Traducción alternativa: «y aun peor», o «y más difícil»,",
+  "lemas_es": [
+   "y aun más"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ef83bcbf9f24",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.36"
+   }
+  ]
+ },
+ "uwtn-c:259389": {
+  "text_es": "Las palabras ⸢cadenas⸣ y ⸢prisión⸣ funcionan juntas para referirse al confinamiento forzado. La palabra ⸢cadenas⸣ se refiere a cómo una persona podía ser restringida con ataduras o cuerdas, mientras que la palabra ⸢prisión⸣ se refiere a cómo una persona podía ser encerrada en una habitación. Si no tiene dos palabras para estas categorías, podría usar una sola palabra o frase para referirse a restringir a alguien en un lugar específico. Traducción alternativa: «de estar en la cárcel» o «de estar encerrados»",
+  "lemas_es": [
+   "de cadenas y de prisión"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "597f4bd81b5e",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.36"
+   }
+  ]
+ },
+ "uwtn-c:259390": {
+  "text_es": "La palabra ⸢cadenas⸣ se refiere a estar «encadenado». Si le resultara útil en su idioma, podría expresar la idea de manera clara. Traducción alternativa: «de estar encadenados» o «de estar atados»",
+  "lemas_es": [
+   "de cadenas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1e21643220e0",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.36"
+   }
+  ]
+ },
+ "uwtn:259387": {
+  "text_es": "La palabra ⸢azotes⸣ se refiere a un castigo que consistía en que una persona golpeara la espalda de otra con cuerdas o correas de cuero. Quien daba los ⸢azotes⸣ azotaba a la otra persona hasta que su espalda quedaba abierta.",
+  "lemas_es": [
+   "de azotes"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e3af30433bce",
+  "lemas_rv1909": [
+   {
+    "lema": "azotes",
+    "ref": "HEB.11.36"
+   }
+  ]
+ },
+ "uwtn-c:259391": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en quienes experimentan estos sufrimientos en lugar de en quienquiera que los haga sufrir. Si debe indicar quién hizo la acción, podría usar un sujeto indefinido. Traducción alternativa: «Los apedrearon, los aserraron, los probaron»",
+  "lemas_es": [
+   "Fueron apedreados, fueron aserrados, fueron probados"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "06e4f4fb66e0",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.37"
+   }
+  ]
+ },
+ "uwtn-c:259392": {
+  "text_es": "Muchos manuscritos antiguos no incluyen ⸢fueron probados⸣ en esta lista. Considere si las traducciones que sus lectores conocen incluyen ⸢fueron probados⸣. De lo contrario, considere incluir la frase como lo hace la ULT.",
+  "lemas_es": [
+   "fueron probados"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ba2a4b45baaf",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.37"
+   }
+  ]
+ },
+ "uwtn-c:259393": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢matanza⸣, podría expresar la idea usando un verbo como «matar» o «degollar». Traducción alternativa: «cuando la gente los mataba con espadas»",
+  "lemas_es": [
+   "con matanza de espada"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0ff14d4044d1",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.37"
+   }
+  ]
+ },
+ "uwtn-c:259394": {
+  "text_es": "Las palabras ⸢pieles de oveja⸣ y ⸢pieles de cabra⸣ se refieren a pieles de animales. En la cultura del autor, la ropa no se hacía con pieles de animales sino con el pelo de los animales. Así que, quienes vestían «pieles» no podían conseguir ropa normal. Si le resultara útil en su idioma, podría aclarar lo que significaría vestir ⸢pieles de oveja⸣ y ⸢pieles de cabra⸣. Traducción alternativa: «vistiendo solo pieles de ovejas y cabras» o «sin ropa adecuada, vistiendo solo pieles de oveja y de cabra»",
+  "lemas_es": [
+   "en pieles de oveja y en pieles de cabra"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2c4df49000b4",
+  "lemas_rv1909": [
+   {
+    "lema": "de pieles de ovejas y de cabras",
+    "ref": "HEB.11.37"
+   }
+  ]
+ },
+ "uwtn-c:259395": {
+  "text_es": "El autor menciona tanto ⸢pieles de oveja⸣ como ⸢pieles de cabra⸣ para enfatizar que las personas de las que habla no tenían ninguna otra ropa. Si en su idioma no hay dos palabras para estas categorías, o si no quedaría claro por qué el autor menciona ambos tipos de pieles, podría usar una sola palabra o frase que se refiera a las pieles de animales. Traducción alternativa: «en pieles de animales»",
+  "lemas_es": [
+   "en pieles de oveja y en pieles de cabra"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d97c6826caec",
+  "lemas_rv1909": [
+   {
+    "lema": "de pieles de ovejas y de cabras",
+    "ref": "HEB.11.37"
+   }
+  ]
+ },
+ "uwtn:259392": {
+  "text_es": "Muchos manuscritos antiguos no incluyen ⸢fueron probados⸣ en esta lista.",
+  "lemas_es": [
+   "fueron probados"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8b1ae63aac4b",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.37"
+   }
+  ]
+ },
+ "uwtn:259394": {
+  "text_es": "Las palabras ⸢pieles de oveja⸣ y ⸢pieles de cabra⸣ se refieren a pieles de animales. En la cultura del autor, la ropa no se hacía con pieles de animales, sino con el pelo de los animales. Así que las personas que vestían «pieles» no podían conseguir ropa normal.",
+  "lemas_es": [
+   "en pieles de oveja y en pieles de cabra"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "83963a4ea814",
+  "lemas_rv1909": [
+   {
+    "lema": "de pieles de ovejas y de cabras",
+    "ref": "HEB.11.37"
+   }
+  ]
+ },
+ "uwtn-c:259396": {
+  "text_es": "El autor coloca aquí la cláusula ⸢de quienes el mundo no era digno⸣ para contrastarla con el modo en que esas mismas ⸢personas⸣ están «desamparadas, afligidas, maltratadas» (ver: 11:37). Si es posible, conserve esta cláusula donde está. Si no es posible mantenerla aquí, podría trasladarla al final del versículo. Traducción alternativa: «andando errantes por desiertos y montes y cuevas y los agujeros de la tierra, de quienes el mundo no era digno»",
+  "lemas_es": [
+   "de quienes el mundo no era digno), andando errantes por desiertos y montes y cuevas y los agujeros de la tierra"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3416d119469a",
+  "lemas_rv1909": [
+   {
+    "lema": "el mundo no era digno; perdidos por los desiertos, por los montes, por las cuevas y por las cavernas de la tierra",
+    "ref": "HEB.11.38"
+   }
+  ]
+ },
+ "uwtn-c:259397": {
+  "text_es": "La palabra ⸢mundo⸣ se refiere principalmente a las personas que viven en el mundo y a las sociedades que estas forman. Si en su idioma sería útil, podría usar una palabra o frase que se refiera a las personas y sociedades de ⸢el mundo⸣. Traducción alternativa: «los que viven en este mundo eran»",
+  "lemas_es": [
+   "el mundo era"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "81e545d16c45",
+  "lemas_rv1909": [
+   {
+    "lema": "el mundo",
+    "ref": "HEB.11.38"
+   }
+  ]
+ },
+ "uwtn-c:259398": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en quienes son ⸢hechos errar⸣ y no en las personas que los hacen errar. Si debe indicar quién realizó la acción, podría usar un sujeto indefinido. Traducción alternativa: «teniendo que andar errantes» o «personas que los hacen andar errantes»",
+  "lemas_es": [
+   "andando errantes"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2ca1ffa353fc",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.38"
+   }
+  ]
+ },
+ "uwtn-c:259399": {
+  "text_es": "Las palabras ⸢cuevas⸣ y ⸢agujeros⸣ funcionan juntas para identificar cualquier tipo de escondite o refugio ⸢en la tierra⸣. La palabra ⸢cuevas⸣ se refiere a aberturas en el suelo o en el costado de un acantilado o colina por las que una persona puede entrar caminando, mientras que ⸢agujeros⸣ se refiere a aberturas en el suelo en las que una persona tiene que trepar o dejarse caer. Si en su idioma no hay dos palabras para estas categorías, podría usar una sola palabra o frase para identificar cualquier tipo de escondite o refugio ⸢en la tierra⸣. Traducción alternativa: «cavidades en la tierra» o «refugios en la tierra» o «cavidades en un lugar rocoso»",
+  "lemas_es": [
+   "cuevas y los agujeros de la tierra"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "80b9697a8e6d",
+  "lemas_rv1909": [
+   {
+    "lema": "cuevas y por las cavernas de la tierra",
+    "ref": "HEB.11.38"
+   }
+  ]
+ },
+ "uwtn-c:259400": {
+  "text_es": "La frase ⸢todas estas personas⸣ se refiere a todos los que confiaron en Dios y que el autor ha mencionado en este capítulo. Si en su idioma sería útil, podría usar una forma que lo deje claro. Traducción alternativa: «todas estas personas que he mencionado»",
+  "lemas_es": [
+   "todas estas personas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6ffbc1ef1743",
+  "text_es_2": "La frase ⸢todos éstos⸣ se refiere a todos los que confiaron en Dios y a quienes el autor ha mencionado en este capítulo. Si fuera útil en su idioma, podría usar una forma que deje esto claro. Traducción alternativa: «todos éstos que he mencionado»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.39"
+   }
+  ]
+ },
+ "uwtn-c:259401": {
+  "text_es": "La frase ⸢habiendo sido aprobados⸣ introduce algo que contrasta con el hecho de que ⸢no recibieron la promesa⸣. Uno esperaría que quienes fueron ⸢aprobados⸣ recibieran la promesa, pero el autor dice lo contrario. Si en su idioma sería útil, podría usar una palabra o frase que introduzca un contraste, especialmente algo inesperado o contrario a lo que se espera. Traducción alternativa: «aunque fueron aprobados»",
+  "lemas_es": [
+   "habiendo sido aprobados"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ad5447891edc",
+  "text_es_2": "La frase ⸢habiendo sido aprobados⸣ introduce algo que contrasta con el hecho de que ellos ⸢no recibieron la promesa⸣. Uno esperaría que quienes fueron ⸢aprobados⸣ recibieran la promesa, pero el autor dice lo contrario. Si fuera útil en su idioma, podría usar una palabra o frase que introduzca un contraste, especialmente algo inesperado o contrario a las expectativas. Traducción alternativa: «aunque fueron aprobados»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.39"
+   }
+  ]
+ },
+ "uwtn-c:259402": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en quienes son ⸢aprobados⸣ y no en la persona que los aprueba. Si debe indicar quién realizó la acción, el autor implica que Dios lo hizo. Traducción alternativa: «a quienes Dios aprobó»",
+  "lemas_es": [
+   "habiendo sido aprobados"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2a84107d1ae9",
+  "text_es_2": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en aquellos que son ⸢aprobados⸣ en lugar de en la persona que los aprueba. Si debe indicar quién hizo la acción, el autor implica que Dios la hizo. Traducción alternativa: «a quienes Dios aprobó»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.39"
+   }
+  ]
+ },
+ "uwtn-c:259403": {
+  "text_es": "La palabra ⸢promesa⸣ se refiere al contenido de la ⸢promesa⸣, o a lo que Dios ha «prometido» dar. Si en su idioma sería útil, podría aclarar que el autor se refiere al contenido de esta ⸢promesa⸣. Traducción alternativa: «las cosas de la promesa de Dios» o «las cosas que Dios prometió»",
+  "lemas_es": [
+   "la promesa"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9b7b19efec82",
+  "text_es_2": "La palabra ⸢promesa⸣ se refiere al contenido de la ⸢promesa⸣, o a lo que Dios ha «prometido» dar. Si fuera útil en su idioma, podría aclarar que el autor se refiere al contenido de esta ⸢promesa⸣. Traducción alternativa: «las cosas de la promesa de Dios» o «las cosas que Dios prometió»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "la promesa",
+    "ref": "HEB.11.39"
+   }
+  ]
+ },
+ "uwtn-c:259404": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢promesa⸣, podría expresar la idea usando un verbo como «prometer» o «comprometer». Traducción alternativa: «lo que Dios comprometió»",
+  "lemas_es": [
+   "la promesa"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "355ddd3b61d9",
+  "text_es_2": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢promesa⸣, podría expresar la idea usando un verbo como «prometer» o «garantizar». Traducción alternativa: «lo que Dios garantizó»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "la promesa",
+    "ref": "HEB.11.39"
+   }
+  ]
+ },
+ "uwtn-c:259405": {
+  "text_es": "Aquí, la frase ⸢habiendo provisto Dios⸣ introduce una idea que contrasta con lo que el autor dijo en el versículo anterior (11:39) acerca de cómo las personas fieles no «recibieron la promesa». Si en su idioma sería útil, podría usar una palabra o frase que introduzca un contraste. Traducción alternativa: «pero Dios ha provisto»",
+  "lemas_es": [
+   "habiendo provisto Dios"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "32b535976442",
+  "text_es_2": "Aquí, la frase ⸢Dios habiendo provisto⸣ introduce una idea que contrasta con lo que el autor dijo en el versículo anterior (11:39) acerca de cómo las personas fieles no «recibieron la promesa». Si fuera útil en su idioma, podría usar una palabra o frase que introduzca un contraste. Traducción alternativa: «pero Dios ha provisto»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.40"
+   }
+  ]
+ },
+ "uwtn-c:259406": {
+  "text_es": "Aquí, el autor afirma que algo es ⸢mejor⸣, pero no especifica de qué es ⸢mejor⸣. Del versículo anterior (11:39) queda claro que el autor considera que recibir lo que Dios prometió es ⸢mejor⸣ que recibir solamente la promesa misma. Si en su idioma sería útil, podría aclarar con qué compara el autor ⸢algo mejor⸣. Traducción alternativa: «algo mejor respecto a nosotros que la promesa que les dio» o «lo que prometió a nosotros, que es mejor que recibir solo la promesa misma»",
+  "lemas_es": [
+   "algo mejor respecto a nosotros"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "acbcc6151a2d",
+  "text_es_2": "Aquí, el autor afirma que algo es ⸢mejor⸣, pero no especifica en comparación con qué es ⸢mejor⸣. Del versículo anterior (11:39) queda claro que el autor considera que recibir lo que Dios prometió es ⸢mejor⸣ que solo recibir la promesa misma. Si fuera útil en su idioma, podría aclarar con qué está comparando el autor ⸢alguna cosa mejor⸣. Traducción alternativa: «alguna cosa mejor para nosotros que la promesa que les dio» o «lo que prometió para nosotros, que es mejor que recibir solo la promesa misma»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.40"
+   }
+  ]
+ },
+ "uwtn-c:259407": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en quienes son ⸢perfeccionados⸣ y no en la persona que los perfecciona. Si debe indicar quién realizó la acción, el autor implica que Dios lo hizo. Traducción alternativa: «Dios no los perfeccionaría sin nosotros»",
+  "lemas_es": [
+   "sin nosotros, no serían perfeccionados"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a9b76e25dc57",
+  "text_es_2": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en aquellos que son ⸢perfeccionados⸣ en lugar de en la persona que los perfecciona. Si debe indicar quién hizo la acción, el autor implica que Dios la hizo. Traducción alternativa: «Dios no los perfeccionaría sin nosotros»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "perfeccionados sin nosotros",
+    "ref": "HEB.11.40"
+   }
+  ]
+ },
+ "uwtn-c:259408": {
+  "text_es": "Las frases ⸢sin nosotros⸣ y ⸢no serían perfeccionados⸣ juntas usan dos palabras negativas para enfatizar que ⸢ellos⸣ y ⸢nosotros⸣ necesitan estar juntos para ⸢ser perfeccionados⸣. Si en su idioma sería útil, podría expresar el significado con palabras positivas, enfatizando la importancia de que ⸢ellos⸣ y ⸢nosotros⸣ estén juntos. Traducción alternativa: «serían perfeccionados solo con nosotros»",
+  "lemas_es": [
+   "sin nosotros, no serían perfeccionados"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1fd0e0582c7a",
+  "text_es_2": "Las frases ⸢sin nosotros⸣ y ⸢no ser perfeccionados⸣ juntas usan dos palabras negativas para enfatizar que ⸢ellos⸣ y ⸢nosotros⸣ necesitan estar juntos para ⸢ser perfeccionados⸣. Si fuera útil en su idioma, podría expresar el significado con palabras positivas, enfatizando la importancia de que ⸢ellos⸣ y ⸢nosotros⸣ estén juntos. Traducción alternativa: «ellos serían perfeccionados solo con nosotros»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "perfeccionados sin nosotros",
+    "ref": "HEB.11.40"
+   }
+  ]
  }
 }

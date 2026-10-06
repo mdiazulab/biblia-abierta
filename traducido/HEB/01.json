@@ -597,5 +597,2206 @@
     "ref": "HEB.1.14"
    }
   ]
+ },
+ "uwtm:33256": {
+  "text_es": "• Primera persona — Así es como un hablante normalmente se refiere a sí mismo. El inglés usa los pronombres «I» y «we». (También: me, my, mine; us, our, ours)\n\n• Segunda persona — Así es como un hablante normalmente se refiere a la persona o personas a quienes está hablando. El inglés usa el pronombre «you». (También: your, yours)\n\n• Tercera persona — Así es como un hablante se refiere a alguien más. El inglés usa los pronombres «he», «she», «it» y «they». (También: him, his, her, hers, its; them, their, theirs) Las frases nominales como «the man» o «the woman» también son tercera persona.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1534b129660d"
+ },
+ "uwtm:33257": {
+  "text_es": "Los sustantivos abstractos son sustantivos que se refieren a actitudes, cualidades, eventos o situaciones. Estas son cosas que no pueden verse ni tocarse en un sentido físico, como felicidad, peso, unidad, amistad, salud y razón. Este es un problema de traducción porque algunos idiomas pueden expresar cierta idea con un sustantivo abstracto, mientras que otros necesitarían una manera diferente de expresarla.\n\nRecuerde que los sustantivos son palabras que se refieren a una persona, lugar, cosa o idea. Los sustantivos abstractos son los sustantivos que se refieren a ideas. Estos pueden ser actitudes, cualidades, eventos, situaciones o incluso relaciones entre esas ideas. Estas son cosas que no pueden verse ni tocarse en un sentido físico, como gozo, paz, creación, bondad, contentamiento, justicia, verdad, libertad, venganza, lentitud, longitud, peso y muchas, muchas más.\n\nAlgunos idiomas, como el griego bíblico y el inglés, usan sustantivos abstractos con mucha frecuencia. Proporcionan una manera de dar nombres a acciones o cualidades. Con nombres, las personas que hablan estos idiomas pueden hablar de los conceptos como si fueran cosas. Por ejemplo, en los idiomas que usan sustantivos abstractos, las personas pueden decir: «Creo en el perdón de pecados». Pero algunos idiomas no usan mucho los sustantivos abstractos. En estos idiomas, los hablantes pueden no tener los dos sustantivos abstractos «perdón» y «pecado», pero expresarían el mismo significado de otras maneras. Por ejemplo, expresarían: «Creo que Dios está dispuesto a perdonar a las personas después de que han pecado», usando frases verbales en lugar de sustantivos para esas ideas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "62d77a533268"
+ },
+ "uwtm:33258": {
+  "text_es": "Algunos idiomas tienen formas activas y pasivas de las oraciones.\n\n• En la forma activa, el sujeto realiza la acción y siempre se menciona.\n\n• En la forma pasiva, la acción se realiza sobre el sujeto, y el que realiza la acción no siempre se menciona.\n\nEn los ejemplos de oraciones activas y pasivas a continuación, hemos puesto en negrita el sujeto.\n\n• activa: ⸢Mi padre⸣ construyó la casa en 2010.\n\n• pasiva: ⸢La casa⸣ fue construida por mi padre en 2010.\n\n• pasiva: ⸢La casa⸣ fue construida en 2010. (Esto no dice quién realizó la acción).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6e3af1347599"
+ },
+ "uwtm:33264": {
+  "text_es": "En algunos idiomas, las frases que modifican a un sustantivo pueden usarse con el sustantivo para dos propósitos diferentes. Pueden (1) distinguir el sustantivo de otros elementos similares, o (2) dar más información sobre el sustantivo. Esa información podría ser nueva para el lector, o un recordatorio sobre algo que el lector ya podría saber. Otros idiomas usan frases modificadoras con un sustantivo solo para distinguir el sustantivo de otras cosas similares. Cuando las personas que hablan estos idiomas oyen una frase modificadora junto con un sustantivo, asumen que su función es distinguir un elemento de otro elemento similar.\n\nCuando la frase que modifica a un sustantivo es una cláusula relativa (una frase que comienza con una palabra como «quien» o «que»), algunos idiomas usan una coma para marcar la diferencia entre (1) hacer una distinción entre elementos similares y (2) dar más información sobre un elemento. Sin la coma, la oración siguiente comunica que la frase añadida hace una distinción:\n\n• María dio algo de la comida a ⸢su hermana que estaba muy agradecida⸣.\n\n◦ Si su hermana solía ser agradecida, la frase «que estaba agradecida» podría distinguir a esta hermana de María de otra hermana que no solía ser agradecida.\n\nCon la coma, la frase da más información:\n\n• María dio algo de la comida a ⸢su hermana, que estaba muy agradecida⸣.\n\n◦ Esta misma frase puede usarse para darnos más información sobre la hermana de María. Nos dice cómo respondió la hermana de María cuando María le dio la comida. En este caso no distingue a una hermana de otra hermana.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "99c9f7892ef0",
+  "corregido_por_juez": "Deja sin traducir ejemplos en inglés como «Mary gave...» y los pronombres «who/which»."
+ },
+ "uwtm:33265": {
+  "text_es": "Las palabras negativas son palabras que tienen el significado «no». Ejemplos en español son «no», «nada», «nadie», «ninguno», «nunca», «jamás», «ni», «tampoco» y «sin». Además, algunas palabras tienen prefijos o sufijos que significan «no», como las partes en negrita de estas palabras: «⸢in⸣feliz», «⸢im⸣posible» y «útil⸢mente⸣ no». Algunos otros tipos de palabras también tienen un significado negativo, como «carecer» o «rechazar», o incluso «pelear» o «mal».\n\nUna doble negación ocurre cuando una cláusula tiene dos palabras que cada una tiene un significado negativo.\n\nEsto lo hicimos ⸢no⸣ porque tengamos ⸢ninguna⸣ autoridad … (2 Tesalonicenses 3:9a ULT)\n\n¡Y esto fue ⸢no⸣ hecho ⸢sin⸣ juramento! (Hebreos 7:20a ULT)\n\nTen por cierto esto: el impío ⸢no⸣ quedará ⸢sin⸣ castigo. (Proverbios 11:21a ULT)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5c923b17e5fc",
+  "corregido_por_juez": "Deja las citas bíblicas de ejemplo en inglés (2 Tesalonicenses 3:9a, Hebreos 7:20a, Proverbios 11:21a)."
+ },
+ "uwtm:33266": {
+  "text_es": "Usamos la palabra «doblete» para referirnos a dos palabras o frases que se usan juntas y que significan lo mismo o casi lo mismo. A menudo se unen con la palabra «y». A diferencia del hendíadis, en el que una de las palabras modifica a la otra, en un doblete las dos palabras o frases son equivalentes y se usan para enfatizar o intensificar la única idea que expresan las dos palabras o frases.\n\nUn asunto muy similar es la repetición de la misma palabra o frase para dar énfasis, generalmente sin otras palabras entre ellas. Como estas figuras retóricas son tan similares y tienen el mismo efecto, las trataremos aquí juntas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b87974a3cc74",
+  "corregido_por_juez": "No traduce «doublet» ni la conjunción «and» (deberían ser «doblete» y «y»)."
+ },
+ "uwtm:33267": {
+  "text_es": "Ocurre una elipsis[^1] cuando un hablante o escritor omite una o más palabras que normalmente deberían estar en la oración. El hablante o escritor hace esto porque sabe que el oyente o lector entenderá el significado de la oración y suplirá las palabras en su mente cuando oiga o lea las palabras que están allí. Por ejemplo:\n\nPor tanto, no se levantarán los malos en el juicio, ⸢ni los pecadores en la congregación de los justos⸣. (Salmo 1:5 ULT)\n\nHay elipsis en la segunda parte porque «ni los pecadores en la congregación de los justos» no es una oración completa. El hablante supone que el oyente entenderá qué es lo que los pecadores no harán en la congregación de los justos al suplir la acción de la cláusula anterior. Con la acción suplida, la oración completa diría:\n\nPor tanto, no se levantarán los malos en el juicio, ni ⸢se levantarán⸣ los pecadores ⸢en⸣ la congregación de los justos.\n\n[^1]: El inglés tiene un símbolo de puntuación que también se llama elipsis. Es una serie de tres puntos (…) usada para indicar la omisión intencional de una palabra, frase, oración o más de un texto sin alterar su significado original. Este artículo de translationAcademy no trata sobre el signo de puntuación, sino sobre el concepto de omisión de palabras que normalmente deberían estar en la oración.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "47c38d1b4be6",
+  "corregido_por_juez": "Deja el ejemplo bíblico (Salmo 1:5) y su aclaración en inglés."
+ },
+ "uwtm:33268": {
+  "text_es": "Un eufemismo es una manera suave o cortés de referirse a algo desagradable, vergonzoso o socialmente inaceptable, como la muerte o las actividades que suelen hacerse en privado.\n\n… hallaron a Saúl y a sus hijos ⸢caídos⸣ en el monte Gilboa. (1 Crónicas 10:8b ULT)\n\nEsto significa que Saúl y sus hijos «estaban muertos». Es un eufemismo porque lo importante no era que Saúl y sus hijos hubieran caído, sino que estaban muertos. A veces a las personas no les gusta hablar directamente de la muerte porque es desagradable.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "43948f7743a9",
+  "corregido_por_juez": "Deja la cita bíblica (1 Crónicas 10:8b) en inglés."
+ },
+ "uwtm:33270": {
+  "text_es": "Las exclamaciones son palabras u oraciones que expresan un sentimiento intenso, como sorpresa, alegría, temor o enojo. En la ULT y la UST, por lo general llevan un signo de exclamación (!) al final. El signo indica que se trata de una exclamación. La situación y el significado de lo que dijeron las personas nos ayudan a comprender qué sentimientos expresaban. En el ejemplo de Mateo 8 que aparece a continuación, quienes hablaban tenían muchísimo miedo. En el ejemplo de Mateo 9, quienes hablaban estaban asombrados, porque sucedió algo que nunca antes habían visto.\n\n¡Sálvanos, Señor, que perecemos! (Mateo 8:25b ULT)\n\nY echado fuera el demonio, el mudo habló; y las gentes se maravillaron, diciendo: Nunca ha sido visto esto de tal manera en Israel. (Mateo 9:33 ULT)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "182f2eaf4295",
+  "corregido_por_juez": "Deja las citas bíblicas de Mateo 8:25b y 9:33 en inglés."
+ },
+ "uwtm:33271": {
+  "text_es": "Algunos idiomas tienen más de una forma de «nosotros»: una forma inclusiva que significa «yo y tú» y una forma exclusiva que significa «yo y alguien más, pero no tú». La forma exclusiva excluye a la persona a quien se habla. La forma inclusiva incluye a la persona a quien se habla y posiblemente a otros. Esto también es cierto para «nos», «nuestro», «nuestra», «nuestros», «nuestras» y «nosotros mismos». Algunos idiomas tienen formas inclusivas y exclusivas para cada uno de estos. Los traductores cuyo idioma tiene formas exclusivas e inclusivas separadas para estas palabras necesitarán entender qué quiso decir el hablante para poder decidir qué forma usar.\n\nVea las imágenes. Las personas a la derecha son las personas a las que el hablante está hablando. El resaltado amarillo muestra a quiénes se refieren el «nosotros» inclusivo y el «nosotros» exclusivo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c60a6f8edf86"
+ },
+ "uwtm:33272": {
+  "text_es": "Una ⸢metáfora extendida⸣ es una metáfora explícita que utiliza múltiples imágenes y múltiples ideas al mismo tiempo. Esto contrasta con una metáfora simple, que utiliza solo una única imagen y una única idea. La diferencia entre una metáfora extendida y una metáfora compleja es que la metáfora extendida es declarada explícitamente por el escritor o hablante, pero la metáfora compleja no lo es.\n\nExplicación de una metáfora extendida\n\nCuando usa una metáfora, el escritor o hablante utiliza una imagen física para expresar una idea abstracta sobre algún tema inmediato, con al menos un punto de comparación entre el tema y la imagen. En una metáfora extendida, el escritor o hablante declara explícitamente el tema, y luego describe múltiples imágenes y comunica múltiples ideas.\n\nEn Isaías 5:1b-7, el profeta Isaías usa una viña (la ⸢imagen⸣) para expresar la decepción de Dios (la ⸢idea⸣) con la nación de Israel (el ⸢tema⸣) por su infidelidad a Dios y a su pacto con ellos como su pueblo. Los agricultores cuidan sus huertos, y un agricultor se sentiría decepcionado si su viña produjera fruto malo. Si una viña produjera solo fruto malo durante suficiente tiempo, el agricultor finalmente dejaría de cuidarla. Llamamos a esto una metáfora extendida porque el profeta describe en detalle múltiples imágenes relacionadas con una viña, así como múltiples aspectos de la decepción de Dios.\n\n1b Mi bien amado tenía una ⸢viña⸣ en un collado muy fértil. 2 La ⸢cavó, quitó las piedras⸣ y la ⸢plantó⸣ con una excelente clase de vid. ⸢Edificó una torre⸣ en medio de ella, y también ⸢edificó un lagar⸣. ⸢Esperó que produjera uvas, pero produjo uvas silvestres⸣. 3 Ahora pues, habitante de Jerusalén y hombre de Judá; juzguen entre mí y mi viña. 4 ¿Qué más se podría haber hecho por mi viña, que yo no haya hecho por ella? ⸢Cuando esperé que produjera uvas, ¿por qué produjo uvas silvestres⸣? 5 Ahora les diré lo que haré con mi viña; quitaré su seto; la convertiré en pastizal; derribaré su muro, y será pisoteada. 6 La dejaré asolada, y no será podada ni escardada. En cambio, brotarán zarzas y espinos. También mandaré a las nubes que no lluevan sobre ella. 7 Porque ⸢la viña de Jehová de los ejércitos es la casa de Israel⸣, y el hombre de Judá su plantío deleitoso; ⸢esperó justicia, pero en cambio, hubo homicidio⸣; ⸢por rectitud, pero, en cambio, un clamor de auxilio⸣. (Isa 5:1b-7 ULT)\n\nOtros ejemplos de la Biblia\n\nEn el Salmo 23, el salmista usa la ⸢imagen⸣ física de un pastor para describir la manera en que Dios (el ⸢tema⸣) muestra gran preocupación y cuidado (la ⸢idea⸣) por su pueblo. El salmista describe múltiples aspectos de lo que los pastores hacen por las ovejas (las lleva a pastar y a beber agua, las protege, etc.). El salmista también describe múltiples aspectos de cómo Dios lo cuida (le da vida, rectitud, consuelo, etc.). Los pastores dan a las ovejas lo que necesitan, las llevan a lugares seguros, las rescatan, las guían y las protegen. Lo que Dios hace por su pueblo es como estas acciones.\n\n1 Jehová es mi pastor; nada me faltará. 2 En lugares de delicados pastos me ⸢hará⸣ descansar; junto a aguas de reposo me ⸢pastoreará⸣. 3 Confortará mi alma; me ⸢guiará⸣ por sendas de justicia por amor de su nombre. 4 Aunque ande en valle de sombra de muerte, no temeré mal alguno, porque tú estarás conmigo; tu vara y tu cayado me infundirán aliento. (Salmo 23:1–4 ULT)\n\nRazones por las que esto es un problema de traducción\n\n• Es posible que las personas no se den cuenta de que las imágenes representan otras cosas.\n\n• Es posible que las personas no estén familiarizadas con las cosas que se usan como imágenes.\n\n• Las metáforas extendidas a menudo son tan profundas que sería imposible que un traductor mostrara todo el significado generado por la metáfora.\n\nPrincipios de traducción\n\n• Haga que el significado de la metáfora extendida sea tan claro para el público meta como lo era para el público original.\n\n• No haga que el significado sea más claro para el público meta de lo que era para el público original.\n\n• Cuando alguien usa una metáfora extendida, las imágenes son una parte importante de lo que intenta decir.\n\n• Si el público meta no está familiarizado con algunas de las imágenes, necesitará encontrar alguna manera de ayudarlos a comprender las imágenes para que puedan entender toda la metáfora extendida.\n\nEstrategias de traducción\n\nConsidere usar la misma metáfora extendida si sus lectores la entenderán de la misma manera en que la habrían entendido los lectores originales. Si no, aquí hay algunas otras estrategias:\n\n(1) Si el público meta pensaría que las imágenes deben entenderse literalmente, traduzca la metáfora como un símil usando palabras como «como» o «así como». Puede ser suficiente hacer esto solo en la primera o dos primeras oraciones. (2) Si el público meta no conociera la imagen, encuentre una manera de traducirla para que puedan entender qué es la imagen. (3) Si el público meta aún no lo entendiera, entonces expréselo claramente.\n\nEjemplos de estrategias de traducción aplicadas\n\n(1) Si el público meta pensaría que las imágenes deben entenderse literalmente, traduzca la metáfora como un símil usando palabras como «como» o «así como». Puede ser suficiente hacer esto solo en la primera o dos primeras oraciones. Vea el Salmo 23:1–2 como ejemplo:\n\nJehová es ⸢mi pastor⸣; nada me faltará. En lugares de delicados pastos me hace descansar; junto a aguas de reposo ⸢me pastorea⸣. (ULT)\n\nSe puede traducir como:\n\n«Jehová es ⸢como⸣ un pastor para mí, así que nada me faltará. ⸢Como⸣ un pastor que hace que sus ovejas se recuesten en delicados pastos y las lleva junto a aguas de reposo, Jehová me ayuda a descansar en paz».\n\n(2) Si el público meta no conociera la imagen, encuentre una manera de traducirla para que puedan entender qué es la imagen.\n\nMi bien amado tenía una ⸢viña⸣ en un collado muy fértil. La ⸢cavó⸣, quitó las piedras y la plantó con ⸢una excelente clase de vid⸣. Edificó ⸢una torre⸣ en medio de ella, y también edificó ⸢un lagar⸣. Esperó que produjera uvas, pero solo produjo ⸢uvas silvestres⸣. (Isaías 5:1b-2 ULT)\n\nSe puede traducir como:\n\nMi bien amado tenía un ⸢huerto de vides⸣ en un collado muy fértil. ⸢Cavó la tierra⸣ y quitó las piedras, y lo plantó con ⸢las mejores vides⸣. Edificó una ⸢torre de vigilancia⸣ en medio de él, y también edificó ⸢un estanque donde podía exprimir el jugo de las uvas⸣. Esperó que produjera uvas, pero produjo ⸢uvas silvestres que no eran buenas para hacer vino⸣.\n\n(3) Si el público meta aún no lo entendiera, entonces expréselo claramente.\n\nJehová es ⸢mi pastor⸣; nada me faltará. (Salmo 23:1 ULT)\n\n«Jehová ⸢me cuida⸣ como un pastor que cuida a sus ovejas, así que nada me faltará».\n\nPorque la viña de Jehová de los ejércitos ⸢es⸣ la casa de Israel, y los hombres de Judá su plantío deleitoso; esperó justicia, pero en cambio, hubo homicidio; por rectitud, pero, en cambio, un clamor de auxilio. (Isaías 5:7 ULT)\n\nSe puede traducir como:\n\nPorque la viña de Jehová de los ejércitos ⸢representa⸣ la casa de Israel, y los hombres de Judá ⸢son como⸣ su plantío deleitoso; esperó justicia, pero en cambio, hubo homicidio; por rectitud, pero, en cambio, un clamor de auxilio.\n\no como:\n\n⸢Así como un agricultor deja de cuidar un huerto de vides que produce fruto malo⸣, ⸢Jehová dejará de proteger⸣ a Israel y a Judá, ⸢porque no hacen lo que es recto⸣. Esperó justicia, pero en cambio, hubo homicidio; por rectitud, pero, en cambio, un clamor de auxilio.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "dc10c0313277"
+ },
+ "uwtm:33273": {
+  "text_es": "Cuando alguien habla o escribe, tiene algo específico que quiere que las personas sepan, hagan o piensen. Normalmente lo declara directamente. Esta es información explícita.\n\nEl hablante supone que su público ya sabe ciertas cosas en las que necesitará pensar para entender esta información. Normalmente no les dice estas cosas, porque ya las saben. Esto se llama conocimiento supuesto.\n\nEl hablante no siempre declara directamente todo lo que espera que su público aprenda de lo que dice. La información implícita es información que él espera que las personas aprendan de lo que dice, aunque no la declare directamente.\n\nA menudo, el público entiende esta información implícita al combinar lo que ya sabe (conocimiento supuesto) con la información explícita que el hablante les dice directamente.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fb33ea3c7eff"
+ },
+ "uwtm:33275": {
+  "text_es": "A veces es mejor no declarar explícitamente el conocimiento supuesto o la información implícita. Esta página da alguna orientación sobre cuándo no hacerlo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f8f8ccb8f799"
+ },
+ "uwtm:33276": {
+  "text_es": "En algunos idiomas, una palabra que normalmente se refiere a hombres también puede usarse de manera más general para referirse tanto a hombres como a mujeres. Por ejemplo, la Biblia a veces dice «hermanos» cuando se refiere tanto a hermanos como a hermanas.\n\nTambién en algunos idiomas, los pronombres masculinos «él» y «lo» pueden usarse de manera más general para cualquier persona si no es importante si la persona es hombre o mujer. En el ejemplo siguiente, el pronombre es «su», pero no se limita a los varones.\n\nEl hijo sabio alegra a ⸢su⸣ padre, pero el hijo necio es tristeza de ⸢su⸣ madre. (Proverbios 10:1 ULT)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c49c786adcc7"
+ },
+ "uwtm:33277": {
+  "text_es": "Las frases nominales genéricas se refieren a personas o cosas en general, en lugar de a individuos o cosas específicas. Esto sucede con frecuencia en los proverbios, porque los proverbios hablan de cosas que son verdaderas acerca de las personas en general.\n\n¿Andará ⸢el hombre⸣ sobre las brasas sin que se le quemen los pies? Así es ⸢el que se llega a la mujer de su prójimo⸣; ⸢el que la toque⸣ no quedará sin castigo. (Proverbios 6:28–29 ULT)\n\nLas frases en negrita de arriba no se refieren a un hombre específico. Se refieren a cualquier hombre que haga estas cosas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "55364ec58526"
+ },
+ "uwtm:33278": {
+  "text_es": "Distintos idiomas tienen distintas maneras de determinar si se deben usar las palabras «ir» o «venir» y si se deben usar las palabras «llevar» o «traer» cuando se habla de movimiento. Por ejemplo, al decir que se acercan a una persona que los ha llamado, los hablantes de inglés dicen «I am coming», mientras que los hispanohablantes dicen «voy». Usted necesitará estudiar el contexto para entender qué se quiere decir con las palabras «ir» y «venir» (y también «llevar» y «traer»), y luego traducir esas palabras de manera que sus lectores entiendan en qué dirección se mueven las personas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "dc2f13fe8907",
+  "corregido_por_juez": "Añade «(estoy viniendo)», texto que no está en el original."
+ },
+ "uwtm:33280": {
+  "text_es": "En un hendíadis, el hablante usa dos palabras que significan cosas diferentes y que están conectadas con «y». Estas dos palabras trabajan juntas para expresar una sola idea. Por lo general, una de las palabras es la idea principal y la otra palabra describe más la principal.\n\n… su propio ⸢reino y gloria.⸣ (1 Tesalonicenses 2:12b ULT)\n\nAunque «reino» y «gloria» son ambos sustantivos, «gloria» en realidad dice qué clase de reino es: es un ⸢reino de gloria⸣ o ⸢un reino glorioso⸣.\n\nDos frases conectadas por «y» también pueden ser un hendíadis cuando se refieren a una sola persona, cosa o evento.\n\nmientras esperamos recibir ⸢la esperanza bienaventurada y la manifestación de la gloria⸣ de ⸢nuestro gran Dios y Salvador Jesucristo⸣. (Tito 2:13b ULT)\n\nTito 2:13 contiene dos hendíadis. «La esperanza bienaventurada» y «la manifestación de la gloria» se refieren a la misma cosa y sirven para reforzar la idea de que el regreso de Jesucristo es muy esperado y maravilloso. Además, «nuestro gran Dios» y «Salvador Jesucristo» se refieren a una sola persona, no a dos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1c31a86fe107"
+ },
+ "uwtm:33281": {
+  "text_es": "Un hablante o escritor puede usar exactamente las mismas palabras para decir algo que quiere decir como completamente verdadero, o como verdadero en general, o como una hipérbole. Por eso puede ser difícil decidir cómo entender una declaración. Por ejemplo, la oración siguiente podría querer decir tres cosas diferentes.\n\nAquí llueve todas las noches.\n\n• El hablante quiere decir esto como literalmente verdadero si quiere decir que realmente llueve aquí todas las noches.\n\n• El hablante quiere decir esto como una ⸢generalización⸣ si quiere decir que llueve aquí la mayoría de las noches.\n\n• El hablante quiere decir esto como una ⸢hipérbole⸣ si quiere decir que llueve más de lo que en realidad llueve, generalmente para expresar una actitud fuerte hacia la cantidad o la frecuencia de la lluvia, como estar molesto o estar contento por ella.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9eeb8e7aa529",
+  "corregido_por_juez": "Traduce «means» como «entiende»; debe ser «quiere decir» o «pretende decir»."
+ },
+ "uwtm:33283": {
+  "text_es": "Un modismo es una frase que tiene un significado especial para las personas del idioma o la cultura que lo usan. Su significado es diferente de lo que una persona entendería a partir de los significados de las palabras individuales que forman la frase.\n\nél ⸢afirmó su rostro⸣ para ir a Jerusalén. (Lucas 9:51b ULT)\n\nLas palabras «afirmó su rostro» son un modismo que significa «decidió».\n\nA veces las personas pueden entender un modismo de otra cultura, pero puede sonar como una manera extraña de expresar el significado.\n\nNo soy digno de que tú ⸢entres bajo mi techo⸣. (Lucas 7:6b ULT)\n\nLa frase «entres bajo mi techo» es un modismo que significa «entres a mi casa».\n\nPongan estas palabras ⸢en sus oídos⸣. (Lucas 9:44a ULT)\n\nEste modismo significa «Escuchen con atención y recuerden lo que digo».\n\n⸢Propósito⸣: Un modismo probablemente se crea en una cultura un tanto por accidente cuando alguien describe algo de una manera inusual. Pero, cuando esa manera inusual comunica el mensaje con poder y las personas lo entienden claramente, otras personas empiezan a usarlo. Después de un tiempo, se convierte en una manera normal de hablar en ese idioma.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e525c6cb3ae0"
+ },
+ "uwtm:33284": {
+  "text_es": "Las oraciones imperativas se usan principalmente para expresar un deseo o un requisito de que alguien haga algo. En la Biblia, a veces las oraciones imperativas tienen otros usos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3c65234240f1"
+ },
+ "uwtm:33286": {
+  "text_es": "Los diferentes idiomas ordenan las partes de la oración de maneras diferentes. En inglés, una oración normalmente tiene el sujeto primero, luego el verbo, luego el objeto, luego otros modificadores, así: Peter painted his house yesterday.\n\nMuchos otros idiomas normalmente ponen estas cosas en un orden diferente, como: Painted yesterday Peter his house.\n\nAunque todos los idiomas tienen un orden normal para las partes de una oración, este orden puede cambiar según la información que el hablante o escritor considere más importante.\n\nSupongamos que alguien está respondiendo a la pregunta: «¿Qué pintó Peter ayer?». La persona que hace la pregunta ya conoce toda la información de nuestra oración de arriba excepto el objeto, «his house». Por lo tanto, esa se convierte en la parte más importante de la información, y una persona que responde en inglés podría decir «His house is what Peter painted (yesterday)».\n\nEsto pone la información más importante primero, lo cual es normal en inglés. Muchos otros idiomas normalmente pondrían la información más importante al final. En el flujo de un texto, la información más importante suele ser lo que el escritor considera información nueva para el lector. En algunos idiomas la información nueva va primero, y en otros va al final.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d6c62b6afd56"
+ },
+ "uwtm:33290": {
+  "text_es": "La litotes es una figura retórica en la que el hablante expresa un significado positivo fuerte al negar una palabra o frase que significa lo opuesto al significado que pretende. Por ejemplo, alguien podría pretender comunicar que algo es extremadamente bueno al describirlo como «no malo». La diferencia entre una litotes y una doble negación es que una litotes intensifica el significado positivo más allá de lo que haría una declaración positiva simple, y una doble negación no lo hace. En el ejemplo de arriba, el significado literal de «no malo», tomado como una simple doble negación, sería «aceptable» o incluso «bueno». Pero si el hablante lo pretendía como una litotes, entonces el significado es «muy bueno» o «extremadamente bueno».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4825b6771eea"
+ },
+ "uwtm:33291": {
+  "text_es": "Definición\n\nEl merismo es una figura retórica en la que una persona se refiere a algo hablando de dos partes extremas de ello. Al referirse a las partes extremas, el hablante pretende incluir también todo lo que está entre esas partes.\n\n«Yo soy ⸢el alfa y la omega⸣», dice el Señor Dios, «el que es, y que era, y que ha de venir, el Todopoderoso». (Apocalipsis 1:8 ULT)\n\nYo soy ⸢el alfa y la omega⸣, ⸢el primero y el postrero⸣, ⸢el principio y el fin⸣. (Apocalipsis 22:13, ULT)\n\n⸢Alfa y omega⸣ son la primera y la última letra del alfabeto griego. Este es un merismo que incluye todo desde el principio hasta el fin. Significa eterno.\n\n… te alabo, Padre, Señor del ⸢cielo y de la tierra⸣ …, (Mateo 11:25b ULT)\n\n⸢Cielo y tierra⸣ es un merismo que incluye todo lo que existe.\n\nRazón: Este es un problema de traducción\n\nAlgunos idiomas no usan el merismo. Los lectores de esos idiomas pueden pensar que la frase se aplica solo a los elementos mencionados. Puede que no se den cuenta de que se refiere a esas dos cosas y a todo lo que está entre ellas.\n\nEjemplos de la Biblia\n\n⸢Desde el nacimiento del sol hasta donde se pone⸣, sea alabado el nombre de Yahvé. (Salmos 113:3 ULT)\n\nEsta frase en negrita es un merismo porque habla del oriente y del occidente y de todo lo que está entre ellos. Significa «en todas partes».\n\nBendecirá a los que le temen, tanto ⸢a pequeños como a grandes⸣. (Salmos 115:13)\n\nLa frase en negrita es un merismo porque habla de los ancianos y de los jóvenes y de todos los que están entre ellos. Significa «todos».\n\nEstrategias de traducción\n\nSi el merismo fuera natural y diera el significado correcto en su idioma, considere usarlo. Si no, aquí hay otras opciones:\n\n(1) Identificar a qué se refiere el merismo sin mencionar las partes. (2) Identificar a qué se refiere el merismo e incluir las partes.\n\nEjemplos de las estrategias de traducción aplicadas\n\n(1) Identificar a qué se refiere el merismo sin mencionar las partes.\n\nTe alabo, Padre, Señor del ⸢cielo y de la tierra⸣. (Mateo 11:25b ULT)\n\nTe alabo, Padre, Señor de ⸢todo⸣.\n\n⸢Desde el nacimiento del sol hasta donde se pone⸣, sea alabado el nombre de Yahvé. (Salmos 113:3 ULT)\n\n⸢En todos los lugares⸣, la gente debe alabar el nombre de Yahvé.\n\n(2) Identificar a qué se refiere el merismo e incluir las partes.\n\nTe alabo, Padre, Señor del ⸢cielo y de la tierra⸣. (Mateo 11:25b ULT)\n\nTe alabo, Padre, Señor de ⸢todo, tanto lo que está en el cielo como lo que está en la tierra⸣.\n\nBendecirá a los que le temen, tanto ⸢a pequeños como a grandes⸣. (Salmos 115:13 ULT)\n\nBendecirá a ⸢todos aquellos⸣ que le temen, sin importar si son ⸢pequeños o grandes⸣.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "49ac7784e4ee",
+  "corregido_por_juez": "Usa «Yahvé» en lugar de «Jehová», término de la edición RV1909."
+ },
+ "uwtm:33292": {
+  "text_es": "Una metáfora es una figura retórica en la que alguien habla de una cosa como si fuera una cosa diferente porque quiere que las personas piensen en cómo esas dos cosas se parecen.\n\nPor ejemplo, alguien podría decir: «La muchacha que amo es una rosa roja».\n\nUna muchacha y una rosa son cosas muy diferentes, pero el hablante considera que se parecen de alguna manera. La tarea del oyente es entender en qué manera se parecen.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "316a86085cb8"
+ },
+ "uwtm:33293": {
+  "text_es": "La metonimia es una figura retórica en la que un elemento (ya sea físico o abstracto) no se llama por su propio nombre, sino por el nombre de algo estrechamente asociado con él. Una metonimia es una palabra o frase usada como sustituto de algo con lo que está asociada.\n\n… y ⸢la sangre⸣ de Jesús su Hijo nos limpia de todo pecado. (1 Juan 1:7b ULT)\n\nLa sangre representa la muerte de Cristo.\n\nY tomó ⸢la copa⸣ de la misma manera después de la cena, diciendo: «⸢Esta copa⸣ es el nuevo pacto en mi sangre, que es derramada por ustedes». (Lucas 22:20 ULT)\n\nLa copa representa el vino que está en la copa.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7ec5262b2dba"
+ },
+ "uwtm:33294": {
+  "text_es": "En algunos idiomas se puede usar un adjetivo para referirse a una clase de cosas que el adjetivo describe. Cuando lo hace, actúa como un sustantivo. Por ejemplo, la palabra «rico» es un adjetivo. Aquí hay dos oraciones que muestran que «rico» es un adjetivo.\n\n⸢El hombre rico⸣ tenía enormes cantidades de rebaños y manadas. (2 Samuel 12:2 ULT)\n\nEl adjetivo «rico» viene antes de la palabra «hombre» y describe a «hombre».\n\n⸢Él no será rico⸣; su riqueza no durará. (Job 15:29a ULT)\n\nEl adjetivo «rico» viene después del verbo «ser» y describe a «Él».\n\nAquí hay una oración que muestra que «rico» también puede funcionar como sustantivo.\n\n⸢El rico⸣ no debe dar más de medio siclo, y ⸢el pobre⸣ no debe dar menos. (Éxodo 30:15b ULT)\n\nEn Éxodo 30:15, la palabra «rico» actúa como sustantivo en la frase «el rico», y se refiere a las personas ricas. La palabra «pobre» también actúa como sustantivo y se refiere a las personas pobres.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2d867da9632f"
+ },
+ "uwtm:33299": {
+  "text_es": "El paralelismo es un recurso poético en el que se usan juntas dos frases u oraciones que son similares en estructura o idea. Los siguientes son algunos de los diferentes tipos de paralelismo.\n\n• La segunda oración o frase significa lo mismo que la primera. Esto se llama paralelismo sinonímico.\n\n• La segunda aclara o refuerza el significado de la primera.\n\n• La segunda completa lo que se dice en la primera.\n\n• La segunda dice algo que contrasta con la primera, pero que se suma a la misma idea.\n\nEl paralelismo se encuentra con mayor frecuencia en la poesía del Antiguo Testamento, como en los libros de Salmos y Proverbios. También aparece en griego en el Nuevo Testamento, tanto en los cuatro evangelios como en las cartas de los apóstoles.\n\nEste artículo solo tratará el paralelismo sinonímico, el tipo en el que las dos frases paralelas significan lo mismo, porque ese es el tipo que presenta un problema para la traducción. Note que usamos el término «paralelismo sinonímico» para frases largas u oraciones que tienen el mismo significado. Usamos el término «doblete» para palabras o frases muy cortas que significan básicamente lo mismo y se usan juntas.\n\nEn la poesía de los idiomas originales, el paralelismo sinonímico tiene varios efectos:\n\n• Muestra que algo es muy importante al decirlo más de una vez y de más de una manera.\n\n• Ayuda al oyente a pensar más profundamente en la idea al decirla de diferentes maneras.\n\n• Hace que el lenguaje sea más hermoso y lo eleva por encima de la manera ordinaria de hablar.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "edd8b25e9c69"
+ },
+ "uwtm:33301": {
+  "text_es": "El pasado predictivo es una figura retórica que usa el tiempo pasado para referirse a cosas que sucederán en el futuro. A veces se hace esto en la profecía para mostrar que el acontecimiento ciertamente sucederá. También se le llama el perfecto profético.\n\nPor tanto, mi pueblo fue llevado cautivo, porque no tuvo conocimiento; y su gloria pereció de hambre, y su multitud se secó de sed. (Isaías 5:13 ULT)\n\nEn el ejemplo anterior, el pueblo de Israel aún no había ido al cautiverio, pero Dios habló de su ida al cautiverio como si ya hubiera sucedido porque había decidido que ciertamente irían al cautiverio.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "977f9ace4f1c"
+ },
+ "uwtm:33302": {
+  "text_es": "La personificación es una figura retórica en la que alguien habla de algo como si pudiera hacer cosas que hacen los animales o las personas. La gente suele hacer esto porque hace más fácil hablar de cosas que no podemos ver:\n\nComo la sabiduría:\n\n¿No clama la sabiduría? (Proverbios 8:1a ULT)\n\nO el pecado:\n\nEl pecado está a la puerta. (Génesis 4:7b ULT)\n\nLa gente también usa la personificación porque a veces es más fácil hablar de las relaciones de las personas con cosas no humanas, como la riqueza, como si fueran relaciones entre personas.\n\nNo podéis servir a Dios y a las riquezas. (Mateo 6:24b ULT)\n\nEn cada caso, el propósito de la personificación es resaltar una característica determinada de la cosa no humana. Como en la metáfora, el lector necesita pensar en la manera en que la cosa se parece a cierto tipo de persona.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3f6f93b1ced5"
+ },
+ "uwtm:33303": {
+  "text_es": "En inglés, la forma gramatical que comúnmente indica posesión también se usa para indicar una variedad de relaciones entre personas y objetos o entre personas y otras personas. En inglés, esa relación gramatical se muestra usando la palabra «⸢of⸣», usando ⸢un apóstrofo y la letra «s»⸣, o usando un ⸢pronombre posesivo⸣. Los siguientes ejemplos son diferentes maneras de indicar que mi abuelo posee una casa.\n\n• la casa ⸢de⸣ mi abuelo\n\n• la casa ⸢de mi abuelo⸣\n\n• ⸢su⸣ casa\n\nLa posesión se usa en hebreo, griego e inglés para una variedad de situaciones. Aquí hay algunas situaciones comunes para las que se usa.\n\n• Propiedad — Alguien posee algo.\n\nLa ropa de mí - mi ropa — La ropa que poseo\n\n• Relación social — Alguien tiene algún tipo de relación social con otro.\n\nLa madre de Juan — La madre de Juan - la mujer que dio a luz a Juan, o la mujer que cuidó a Juan\n\nUn maestro de Israel - El maestro de Israel — una persona que enseña a Israel\n\n• Asociación — Una cosa particular está asociada con una persona, lugar o cosa particular.\n\nLa enfermedad de David - La enfermedad de David — la enfermedad que David está experimentando\n\nel temor del Señor — el temor que es apropiado que un ser humano tenga al relacionarse con el Señor\n\n• Contenido — Algo tiene algo dentro.\n\nuna bolsa de ropa — una bolsa que tiene ropa dentro, o una bolsa que está llena de ropa\n\n• Parte y todo: Una cosa es parte de otra.\n\nmi cabeza — la cabeza que es parte de mi cuerpo\n\nel techo de una casa — el techo que es parte de una casa\n\nEn algunos idiomas hay una forma especial de posesión, llamada ⸢posesión inalienable.⸣ Esta forma de posesión se usa para cosas que no se pueden quitar de usted, a diferencia de las cosas que podría perder. En los ejemplos anteriores, mi cabeza y mi madre son ejemplos de posesión inalienable (al menos en algunos idiomas), mientras que mi ropa o mi maestro serían de posesión alienable. Lo que puede considerarse alienable frente a inalienable puede variar según el idioma. En los idiomas que marcan la diferencia, la expresión de la posesión inalienable y la posesión alienable serán diferentes.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bfe6c8b7a8e3"
+ },
+ "uwtm:33306": {
+  "text_es": "Algunos idiomas usan comillas para separar las citas directas del resto del texto. El inglés usa la marca « inmediatamente antes de una cita y » inmediatamente después.\n\n• Juan dijo: «No sé cuándo llegaré.»\n\nLas comillas no se usan con las citas indirectas.\n\n• Juan dijo que no sabía cuándo llegaría.\n\nCuando hay varios niveles de citas dentro de otras citas, puede ser difícil para los lectores entender quién dice qué. Alternar dos tipos de comillas puede ayudar a los lectores atentos a seguirlas. En inglés, la cita más externa tiene comillas dobles, y la siguiente cita dentro de ella tiene comillas simples. Si hay una tercera cita incrustada, esa cita vuelve a tener comillas dobles.\n\n• María dijo: «Juan dijo: ‘No sé cuándo llegaré.’ »\n\n• Bob dijo: «María me dijo: ‘Juan dijo: “No sé cuándo llegaré.” ’ »\n\nAlgunos idiomas usan otros tipos de comillas: Aquí hay algunos ejemplos: ‚ ‘ ’ „ « » ‹ › « » ⁊ — .",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "de3012ed11a2"
+ },
+ "uwtm:33307": {
+  "text_es": "Una cita puede tener una cita dentro de ella, y las citas que están dentro de otras citas también pueden tener citas dentro de ellas. Cuando una cita tiene citas dentro de ella, decimos que hay «niveles» de cita, y cada una de las citas es un nivel. Cuando hay muchos niveles de citas dentro de citas, puede ser difícil para los oyentes y lectores saber quién dice qué. Algunos idiomas usan una combinación de citas directas e indirectas para hacerlo más fácil.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "25851030ce0d"
+ },
+ "uwtm:33309": {
+  "text_es": "Todos los idiomas tienen maneras de mostrar que la misma persona cumple dos funciones diferentes en una oración. El inglés hace esto usando pronombres reflexivos. Estos son pronombres que se refieren a alguien o algo que ya se ha mencionado en una oración. En inglés los pronombres reflexivos son: «myself», «yourself», «himself», «herself», «itself», «ourselves», «yourselves», y «themselves.» En inglés, estos pronombres también se pueden usar para enfatizar a la persona a la que se refieren. Otros idiomas pueden tener otras maneras de hacer ambas cosas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "60cdb9095890"
+ },
+ "uwtm:33310": {
+  "text_es": "Una pregunta retórica es una pregunta que expresa con fuerza la actitud del hablante hacia algo. A menudo el hablante no busca información en absoluto. O, si está pidiendo información, por lo general no es la información que la pregunta parece pedir. El hablante está más interesado en expresar su actitud que en obtener información.\n\nPero los que estaban presentes dijeron: «⸢¿Insultas al pontífice de Dios?⸣» (Hechos 23:4 ULT)\n\nLas personas que le hicieron esta pregunta a Pablo no preguntaban si estaba insultando al pontífice de Dios. Más bien, usaron esta pregunta para acusar a Pablo de insultar al pontífice.\n\nLa Biblia contiene muchas preguntas retóricas. Estas preguntas retóricas pueden usarse con los propósitos de: expresar actitudes o sentimientos, reprender a las personas, enseñar algo recordándoles algo que saben y animándolos a aplicarlo a algo nuevo, o introducir algo de lo que quieren hablar.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fab955d9d9fb"
+ },
+ "uwtm:33314": {
+  "text_es": "Un símil es una comparación de dos cosas que normalmente no se consideran similares. El símil se centra en un rasgo particular que ambos elementos tienen en común, e incluye las palabras «como», «así como» o «más que».\n\nY viendo las gentes, tuvo compasión de ellas; porque estaban derramadas y esparcidas ⸢como ovejas que no tienen pastor⸣. (Mateo 9:36)\n\nJesús comparó las multitudes de personas con ovejas sin pastor. Las ovejas se asustan cuando no tienen un buen pastor que las guíe a lugares seguros. Las multitudes eran así porque no tenían buenos líderes religiosos.\n\nHe aquí, yo os envío ⸢como a ovejas en medio de lobos⸣; sed, pues, prudentes ⸢como serpientes⸣, y sencillos ⸢como palomas⸣. (Mateo 10:16 ULT)\n\nJesús comparó a sus discípulos con ovejas y a sus enemigos con lobos. Los lobos atacan a las ovejas; los enemigos de Jesús atacarían a sus discípulos.\n\nPorque la palabra de Dios es viva y eficaz, y más penetrante ⸢que toda espada de dos filos⸣. (Hebreos 4:12a ULT)\n\nLa palabra de Dios se compara con una espada de dos filos. Una espada de dos filos es un arma que puede cortar fácilmente la carne de una persona. La palabra de Dios es muy eficaz para mostrar lo que hay en el corazón y los pensamientos de una persona.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bb97485a9515",
+  "corregido_por_juez": "En Mateo 9:36, 'troubled and discouraged' se traduce como 'derramadas y esparcidas', lo que cambia el sentido."
+ },
+ "uwtm:33315": {
+  "text_es": "La sinécdoque es una figura retórica en la que un hablante usa una parte de algo para referirse a la cosa entera, o usa el todo para referirse a una parte.\n\n⸢Mi alma⸣ engrandece al Señor. (Lucas 1:46b ULT)\n\nMaría estaba muy feliz por lo que el Señor estaba haciendo, así que dijo «mi alma», que significa la parte interior y emocional de sí misma, para referirse a todo su ser.\n\nEntonces ⸢los fariseos⸣ le dijeron: «Mira, ¿por qué hacen lo que no es lícito?» (Marcos 2:24a ULT)\n\nLos fariseos que estaban allí no dijeron todos las mismas palabras al mismo tiempo. Más bien, es más probable que un hombre que representaba al grupo dijera esas palabras.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "18a2b20f4875"
+ },
+ "uwtm:33321": {
+  "text_es": "Algunos idiomas tienen una forma ⸢singular⸣ de «tú» para cuando la palabra «tú» se refiere a una sola persona, y una forma ⸢plural⸣ para cuando la palabra «tú» se refiere a más de una persona. Los traductores que hablan uno de estos idiomas siempre necesitarán saber qué quiso decir el hablante para poder elegir la palabra correcta para «tú» en su idioma. Otros idiomas, como el inglés, tienen solo una forma, que las personas usan independientemente de a cuántas personas se refiera.\n\nLa Biblia se escribió primero en hebreo, arameo y griego. Todos estos idiomas tienen tanto una forma singular de «tú» como una forma plural de «tú». Cuando leemos la Biblia en esos idiomas, los pronombres y las formas verbales nos muestran si la palabra «tú» se refiere a una persona o a más de una. Cuando leemos la Biblia en un idioma que no tiene formas diferentes de «tú», necesitamos examinar el contexto para ver a cuántas personas se dirigía el hablante.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9e9da57eb2ab"
+ },
+ "uwtm:33324": {
+  "text_es": "Un sustantivo colectivo es un sustantivo singular que se refiere a un grupo de algo. Ejemplos: una ⸢familia,⸣ un ⸢clan⸣ o una ⸢tribu⸣ es un grupo de personas emparentadas entre sí; una ⸢bandada⸣ es un grupo de aves o de ovejas; una ⸢flota⸣ es un grupo de barcos; y un ⸢ejército⸣ es un grupo de soldados.\n\nMuchos sustantivos colectivos se usan exclusivamente como un reemplazo singular de un grupo, como en los ejemplos anteriores. Con frecuencia en la Biblia se usa el nombre de un antepasado, mediante un proceso de metonimia, como sustantivo colectivo que hace referencia al grupo de sus descendientes. En la Biblia, a veces el sustantivo singular tomará una forma verbal singular, y otras veces tomará una forma verbal plural. Esto puede depender de cómo el autor piensa acerca del grupo, o de si la acción se realiza como grupo o como individuos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d7b1c63c8d17"
+ },
+ "uwtm:33325": {
+  "text_es": "Una condición contraria a los hechos es una condición que suena hipotética, pero el hablante ya está seguro de que NO es verdadera.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0754b0c3b09c"
+ },
+ "uwtm:33326": {
+  "text_es": "Una condición factual es una condición que suena hipotética pero que ya es segura o verdadera en la mente del hablante. En inglés, una oración que contiene una condición factual puede usar las palabras «even though», «since» o «this being the case» para indicar que es una condición factual y no una condición hipotética.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "796ea468a50a"
+ },
+ "uwtm:33327": {
+  "text_es": "Una condición hipotética es una condición en la que el segundo evento (la cláusula «entonces») solo tendrá lugar si el primer evento (la cláusula «si») tiene lugar o se cumple de alguna manera. A veces lo que tiene lugar depende de las acciones de otras personas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8d83dfbbe7f9"
+ },
+ "uwtm:33329": {
+  "text_es": "Una relación de contraste es una relación lógica en la que un evento o elemento está en contraste u oposición con otro.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2c088a7874d6"
+ },
+ "uwtm:33331": {
+  "text_es": "Una relación de razón y resultado es una relación lógica en la que un evento es la ⸢razón⸣ o causa de otro evento. El segundo evento, entonces, es el ⸢resultado⸣ del primer evento.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9a2eabea7fc6"
+ },
+ "uwtm:33332": {
+  "text_es": "Una cláusula de trasfondo es la que describe algo que está en curso. Luego, en la misma oración, otra cláusula indica un evento que comienza a suceder durante ese tiempo. Estos eventos también son eventos simultáneos, pero tienen además la relación de evento de trasfondo y evento principal, porque el evento que ya está sucediendo sirve como trasfondo del otro evento, el que está en foco. El evento de trasfondo simplemente proporciona el marco temporal u otro contexto para el evento o los eventos principales.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8ca965b6b028"
+ },
+ "uwtm:33333": {
+  "text_es": "Una cláusula secuencial es una relación temporal que conecta dos eventos en los que uno sucede y luego sucede el otro.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2e712f830706"
+ },
+ "uwtm:33334": {
+  "text_es": "Una cláusula simultánea es una relación temporal que conecta dos o más eventos que ocurren al mismo tiempo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5c4bb2b638ea"
+ },
+ "uwtm:33335": {
+  "text_es": "Como seres humanos, escribimos nuestros pensamientos en frases y oraciones. Por lo general queremos comunicar una serie de pensamientos que están conectados entre sí de diferentes maneras. Las ⸢palabras y frases de conexión⸣ muestran cómo se relacionan estos pensamientos entre sí. Por ejemplo, podemos mostrar cómo se relacionan los siguientes pensamientos usando las palabras de conexión en negrita:\n\n• Estaba lloviendo, ⸢así que⸣ abrí mi paraguas.\n\n• Estaba lloviendo, ⸢pero⸣ no tenía paraguas. ⸢Así que⸣ me mojé mucho.\n\nLas palabras o frases de conexión pueden conectar frases o cláusulas dentro de una oración. Pueden conectar oraciones entre sí. También pueden conectar bloques enteros entre sí para mostrar cómo se relaciona el bloque anterior con el bloque posterior a la palabra de conexión. Muy a menudo, las palabras de conexión que conectan bloques enteros entre sí son conjunciones o adverbios.\n\nEstaba lloviendo, pero no tenía paraguas, así que me mojé mucho.\n\n⸢Ahora⸣ debo cambiarme de ropa. Luego beberé una taza de té caliente y me calentaré junto al fuego.\n\nEn el ejemplo anterior, la palabra ⸢ahora⸣ conecta los dos bloques breves de texto, mostrando la relación entre ellos. El hablante debe cambiarse de ropa, beber té caliente y calentarse debido a algo que sucedió antes (es decir, se mojó con la lluvia).\n\nA veces las personas podrían no usar una palabra de conexión porque esperan que el contexto ayude a los lectores a comprender la relación entre los pensamientos. Algunos idiomas no usan palabras de conexión tanto como otros. Podrían decir:\n\n• Estaba lloviendo. No tenía paraguas. Me mojé mucho.\n\nUsted (el traductor) necesitará usar el método que sea más natural y claro en el idioma meta. Pero, en general, usar palabras de conexión siempre que sea posible ayuda al lector a comprender las ideas de la Biblia con la mayor claridad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "262b3d96d3ca"
+ },
+ "uwtm:33349": {
+  "text_es": "Door apoya las traducciones de la Biblia que representan estos conceptos cuando se refieren a Dios.\n\nTestimonio bíblico\n\n⸢«Padre» e «Hijo» son nombres que Dios se da a sí mismo en la Biblia.⸣\n\nLa Biblia muestra que Dios llamó a Jesús su Hijo:\n\nDespués de que fue bautizado, Jesús subió inmediatamente del agua, y … una voz salió de los cielos diciendo: «⸢Este es mi Hijo amado⸣. Estoy muy complacido con él». (Mateo 3:16–17 ULT)\n\nLa Biblia muestra que Jesús llamó a Dios su Padre:\n\nJesús … dijo: «Te alabo, ⸢Padre⸣, Señor del cielo y de la tierra … nadie conoce al ⸢Hijo⸣ sino el ⸢Padre⸣, y nadie conoce al ⸢Padre⸣ sino el ⸢Hijo⸣». (Mateo 11:25a, 27b ULT) (Ver también: Juan 6:26–57)\n\nLos cristianos han hallado que «Padre» e «Hijo» son las ideas que describen más esencialmente la relación eterna de la Primera y la Segunda Personas de la Trinidad entre sí. La Biblia ciertamente se refiere a ellas de diversas maneras, pero ningún otro término refleja el amor y la intimidad eternos entre estas Personas, ni la relación eterna de interdependencia entre ellas.\n\nJesús se refirió a Dios en los siguientes términos:\n\nBautícenlos en ⸢el nombre del Padre, y del Hijo, y del Espíritu Santo⸣. (Mateo 28:19b ULT)\n\nLa relación íntima y amorosa entre el Padre y el Hijo es eterna, así como ellos son eternos. El Padre ⸢ama⸣ al Hijo. (Ver Juan 3:35–36; 5:19–20 ULT)\n\nYo ⸢amo⸣ al Padre, y tal como el Padre me mandó, así hago. (Juan 14:31 ULT)\n\n⸢Nadie conoce quién es el Hijo sino el Padre, y quién es el Padre sino el Hijo⸣. (Lucas 10:22b ULT)\n\nLos términos «Padre» e «Hijo» también comunican que el Padre y el Hijo son de la misma esencia; ambos son Dios eterno.\n\nJesús dijo: «Padre, … glorifica a tu Hijo para que el Hijo te glorifique … Yo te glorifiqué en la tierra … Ahora, Padre, glorifícame … con la gloria que ⸢yo tenía contigo antes que el mundo fuera hecho⸣». (Juan 17:1, 4a, 5 ULT)\n\nPero en estos últimos días, Dios el Padre nos ha hablado por medio de un Hijo, a quien designó heredero de todas las cosas. Por medio de él, también hizo el universo. Él es el resplandor de la gloria de Dios y ⸢la misma imagen de su sustancia⸣. Sostiene todo unido por la palabra de su poder. (Hebreos 1:2–3a ULT)\n\nJesús le dijo: «He estado contigo tanto tiempo y ¿todavía no me conoces, Felipe? ⸢El que me ha visto a mí ha visto al Padre⸣. ¿Cómo puedes decir: “Muéstranos al Padre”?». (Juan 14:9 ULT)\n\nRelaciones humanas\n\n⸢Los padres y los hijos humanos no son perfectos, pero la Biblia aun así usa esos términos para el Padre y el Hijo, que son perfectos.⸣\n\nTal como hoy, las relaciones humanas entre padre e hijo en los tiempos bíblicos nunca fueron tan amorosas ni perfectas como la relación entre Jesús y su Padre. Pero esto no significa que el traductor deba evitar los conceptos de padre e hijo. Las Escrituras usan estos términos para referirse a Dios, el Padre y el Hijo perfectos, así como a padres e hijos humanos pecadores. Al referirse a Dios como Padre e Hijo, elija palabras en su idioma que se usen ampliamente para referirse a un «padre» y un «hijo» humanos. De esta manera comunicará que Dios el Padre y Dios el Hijo son de la misma esencia divina (ambos son Dios), así como un padre y un hijo humanos son de la misma esencia humana (ambos son humanos y comparten las mismas características humanas).\n\nEstrategias de traducción\n\n(1) Piense en todas las posibilidades dentro de su idioma para traducir las palabras «hijo» y «padre». Determine qué palabras en su idioma representan mejor al «Hijo» y al «Padre» divinos. (2) Si su idioma tiene más de una palabra para «hijo», use la palabra que tenga el significado más cercano a «hijo único» (o «primer hijo» si es necesario). (3) Si su idioma tiene más de una palabra para «padre», use la palabra que tenga el significado más cercano a «padre biológico», en lugar de «padre adoptivo».\n\n(Ver las páginas God the Father y Son of God en unfoldingWord® Translation Words para ayuda al traducir «Padre» e «Hijo».)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7fa71cd4037f"
+ },
+ "uwtm:33371": {
+  "text_es": "Las bendiciones son dichos breves que las personas usan para pedirle a Dios que haga algo bueno por otra persona. En la Biblia, la persona que dice la bendición habla o escribe directamente a la persona que recibirá la bendición. La persona que dice la bendición no habla directamente a Dios, pero se entiende que Dios es quien hará lo bueno mencionado. También se entiende que Dios oye la bendición, ya sea que se lo mencione por nombre o no.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "25538da6d4ac"
+ },
+ "uwtm:33385": {
+  "text_es": "Los términos de parentesco se refieren a aquellas palabras usadas para describir a personas relacionadas entre sí en relaciones familiares. Estos términos varían mucho en su especificidad de un idioma a otro. Abarcan desde la familia nuclear o inmediata (occidental) (padre-hijo, esposo-esposa) hasta amplias relaciones de clan en otras culturas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5c1dc8438733"
+ },
+ "uwtm:33391": {
+  "text_es": "La Biblia contiene los nombres de muchas personas, grupos de personas y lugares. Algunos de estos nombres pueden sonar extraños y ser difíciles de pronunciar. A veces los lectores pueden no saber a qué se refiere un nombre, y a veces pueden necesitar entender qué significa un nombre. Esta página le ayudará a ver cómo puede traducir estos nombres y cómo puede ayudar a las personas a entender lo que necesitan saber acerca de ellos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "dd3baf158f05"
+ },
+ "uwtm:33392": {
+  "text_es": "Hay muchos números en la Biblia. Se pueden escribir como palabras («cinco») o como numerales («5»). Algunos números son muy grandes, como «doscientos» (200), «veintidós mil» (22,000) o «cien millones» (100,000,000). Algunos idiomas no tienen palabras para todos estos números. Los traductores necesitan decidir cómo traducir los números y si escribirlos como palabras o como numerales.\n\nAlgunos números son exactos y otros son redondeados.\n\nAbram era ⸢86⸣ años cuando Agar dio a luz a Ismael para Abram. (Génesis 16:16 ULT)\n\nOchenta y seis (86) es un número exacto.\n\nAquel día cayeron del pueblo como ⸢3,000⸣. (Éxodo 32:28b ULT)\n\nAquí el número tres mil (3,000) es un número redondeado. Puede haber sido un poco más que eso o un poco menos que eso. La palabra «como» muestra que no es un número exacto.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cf3c6247be55"
+ },
+ "uwtm:33393": {
+  "text_es": "Los números ordinales se usan en la Biblia principalmente para indicar la posición de algo en una lista.\n\nY a unos puso Dios en la iglesia, ⸢primeramente⸣ apóstoles, ⸢luego⸣ profetas, ⸢lo tercero⸣ doctores, luego milagros. (1 Corintios 12:28a ULT)\n\nEsta es una lista de obreros que Dios dio a la iglesia en su orden.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f98d65b1e4b6"
+ },
+ "uwtm:33402": {
+  "text_es": "Una acción simbólica es algo que alguien hace para expresar una cierta idea. Por ejemplo, en algunas culturas las personas mueven la cabeza de arriba a abajo para decir «sí» o la giran de lado a lado para decir «no». Las acciones simbólicas no significan lo mismo en todas las culturas. En la Biblia, a veces las personas realizan acciones simbólicas y a veces solo se refieren a la acción simbólica.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cd4ed5825e46"
+ },
+ "uwtm:33405": {
+  "text_es": "Hace miles de años, las personas escribieron los libros de la Biblia. Luego otras personas los copiaron a mano y los tradujeron. Hicieron este trabajo con mucho cuidado, y a lo largo de los años muchas personas hicieron miles de copias. Sin embargo, las personas que las examinaron más tarde vieron que había pequeñas diferencias entre ellas. Algunos copistas omitieron accidentalmente algunas palabras, o algunos confundieron una palabra con otra que se parecía. Ocasionalmente, añadieron palabras o incluso oraciones completas, ya sea por accidente o porque querían explicar algo. Las Biblias modernas son traducciones de las copias antiguas. Algunas Biblias modernas incluyen algunas de estas oraciones que fueron añadidas. En la ULT, estas oraciones añadidas generalmente se escriben en notas al pie.\n\nLos eruditos de la Biblia han leído muchas copias antiguas y las han comparado entre sí. Para cada lugar de la Biblia donde había una diferencia, han determinado qué redacciones son más probablemente correctas. Los traductores de la ULT basaron el Nuevo Testamento de la ULT en las redacciones que los eruditos dicen que son más probablemente correctas. El Antiguo Testamento de la ULT se basa en el Códice de Leningrado de Westminster, que se considera el mejor representante de las copias antiguas. Debido a que las personas que usan la ULT pueden tener acceso a Biblias que se basan en otras copias, los traductores de la ULT a veces han incluido información sobre algunas de las diferencias entre ellas, ya sea en las notas al pie de la ULT o en las unfoldingWord® Translation Notes.\n\nSe anima a los traductores a traducir el texto de la ULT y a escribir sobre las oraciones añadidas en notas al pie, como se hace en la ULT. Sin embargo, si la iglesia local realmente quiere que esas oraciones se incluyan en el texto principal, los traductores pueden ponerlas en el texto e incluir una nota al pie sobre ellas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b464891581d1"
+ },
+ "uwtm:33407": {
+  "text_es": "A veces la Biblia incluye cosas que no son parte de su cultura y para las cuales su idioma puede no tener una palabra. La Biblia también incluye personas y lugares para los cuales puede que usted no tenga nombres.\n\nCuando eso sucede, usted puede «tomar prestada» la palabra de la Biblia en un idioma familiar y usarla en su traducción en su propio idioma. Esto significa que básicamente la copia del otro idioma. Esta página explica cómo «tomar prestadas» palabras. (También hay otras formas de traducir palabras para cosas que no están en su idioma. Vea Traducir lo desconocido).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "600657ee6449"
+ },
+ "uwtm:33408": {
+  "text_es": "Lo desconocido son cosas que ocurren en el texto fuente que no son conocidas por las personas de su cultura. Las páginas de unfoldingWord® Translation Words y las unfoldingWord® Translation Notes le ayudarán a entender qué son. Después de entenderlas, necesitará encontrar formas de referirse a esas cosas para que las personas que lean su traducción entiendan qué son.\n\nEllos le dijeron: «No tenemos aquí sino cinco panes y dos peces». (Mateo 14:17 ULT)\n\nEl pan es un alimento particular hecho mezclando granos finamente triturados con aceite, y luego cocinando la mezcla para que quede seca. (Los granos son las semillas de un tipo de hierba). En algunas culturas las personas no tienen pan y no saben qué es.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a49b82d2794b"
+ },
+ "uwtm:33410": {
+  "text_es": "En algunos casos, verá en el Texto Simplificado de unfoldingWord® (UST) que se combinan dos o más números de versículo, como 17–18. Esto se llama un puente de versículos. Esto significa que la información de los versículos se reorganizó para que la historia o el mensaje se pudieran entender con mayor facilidad.\n\n29 Estos fueron los clanes de los horeos: Lotán, Sobal, Zibeón y Aná, 30 Disón, Ezer y Disán: estos son clanes de los horeos, según sus listas de clanes en la tierra de Seir. (Génesis 36:29–30 ULT)\n\n29–30 Los grupos de personas que eran descendientes de Hor vivían en la tierra de Seir. Los nombres de los grupos de personas son Lotán, Sobal, Zibeón, Aná, Disón, Ezer y Disán. (Génesis 36:29–30 UST)\n\nEn el texto ULT, los versículos 29 y 30 están separados, y la información sobre las personas que vivían en Seir está al final del versículo 30. En el texto UST, los versículos están unidos, y la información sobre que vivían en Seir está al principio. Para muchos idiomas, este es un orden de información más lógico.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9989124ba3e2",
+  "corregido_por_juez": "En la cita ULT de Génesis 36:29-30, 'clans' se traduce como 'jefes' en lugar de 'clanes', alterando el sentido."
+ },
+ "uwtm:33415": {
+  "text_es": "Cuando las personas cuentan una historia, normalmente narran los eventos en el orden en que sucedieron. Esta secuencia de eventos constituye la línea argumental. La línea argumental está llena de verbos de acción que hacen avanzar la historia en el tiempo. Pero a veces un escritor puede hacer una pausa en la línea argumental y dar alguna información para ayudar a sus oyentes a entender mejor la historia. Este tipo de información se llama información de fondo. La información de fondo puede ser sobre cosas que sucedieron antes de los eventos que ya ha narrado, o puede explicar algo en la historia, o puede ser sobre algo que sucedería mucho más tarde en la historia.\n\n⸢Ejemplo⸣ — Las frases en negrita en la historia a continuación son todas información de fondo.\n\nPedro y Juan fueron de cacería porque ⸢su aldea iba a tener un banquete al día siguiente⸣. ⸢Pedro era el mejor cazador de la aldea. ¡Una vez mató tres jabalíes en un día!⸣ Caminaron durante horas entre arbustos bajos hasta que oyeron un jabalí. El jabalí corrió, pero lograron dispararle y matarlo. Luego le ataron las patas con una cuerda ⸢que habían traído con ellos⸣ y lo llevaron a casa en un palo. Cuando lo llevaron a la aldea, el primo de Pedro vio el jabalí y se dio cuenta de que era su propio jabalí. Pedro había matado por error el jabalí de su primo.\n\nLa información de fondo a menudo habla de algo que había sucedido antes o algo que sucedería mucho más tarde. Ejemplos de esto son: «su aldea iba a tener un banquete al día siguiente», «Una vez mató tres jabalíes en un día» y «que habían traído con ellos».\n\nA menudo la información de fondo usa verbos «ser» como «era» y «eran», en lugar de verbos de acción. Ejemplos de esto son «su aldea iba a tener un banquete al día siguiente» y «Pedro ⸢era⸣ el mejor cazador de la aldea».\n\nLa información de fondo también se puede marcar con palabras que le dicen al lector que esta información no es parte de la línea de eventos de la historia. En esta historia, algunas de estas palabras son «porque», «una vez» y «había».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "52f4e523e7da"
+ },
+ "uwtm:33424": {
+  "text_es": "Cuando hablamos o escribimos, usamos pronombres para referirnos a personas o cosas sin tener que repetir siempre el sustantivo o el nombre. Por lo general, la primera vez que nos referimos a alguien en una historia, usamos una frase descriptiva o un nombre. La siguiente vez podríamos referirnos a esa persona con un sustantivo simple o por su nombre. Después de eso podríamos referirnos a él simplemente con un pronombre, siempre que pensemos que nuestros oyentes podrán entender fácilmente a quién se refiere el pronombre.\n\nHabía ⸢un hombre de los fariseos que se llamaba Nicodemo, un líder judío⸣. ⸢Este hombre⸣ vino a Jesús de noche. Jesús respondió y le dijo a ⸢él⸣ … (Juan 3:1, 2a, 3a ULT)\n\nEn Juan 3, primero se hace referencia a Nicodemo con frases nominales y su nombre. Luego se hace referencia a él con la frase nominal «este hombre». Luego se hace referencia a él con el pronombre «él».\n\nCada idioma tiene sus reglas y excepciones a esta forma habitual de referirse a personas y cosas.\n\n• En algunos idiomas, la primera vez que se hace referencia a algo en un párrafo o capítulo, se hace referencia a ello con un sustantivo en lugar de un pronombre.\n\n• El personaje principal es la persona de quien trata una historia. En algunos idiomas, después de que se introduce a un personaje principal en una historia, generalmente se hace referencia a él con un pronombre. Algunos idiomas tienen pronombres especiales que se refieren solo al personaje principal.\n\n• En algunos idiomas, la marcación en el verbo ayuda a las personas a saber quién es el sujeto. (Vea Verbos). En algunos de estos idiomas, los oyentes dependen de esta marcación para ayudarlos a entender quién es el sujeto. Los hablantes usarán un pronombre, una frase nominal o un nombre propio solo cuando quieran enfatizar o aclarar quién es el sujeto.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "aa8b4842ead7"
+ },
+ "uwtm:33426": {
+  "text_es": "Cuando decimos que alguien dijo algo, a menudo indicamos quién habló, a quién le habló y qué dijo. La información sobre quién habló y a quién le habló se llama margen de la cita. Lo que la persona dijo es la cita. (Esto también se llama una cita.) En algunos idiomas, el margen de la cita puede ir primero, al final, o incluso entre dos partes de la cita.\n\nLos márgenes de la cita están en negrita a continuación.\n\n• ⸢Ella dijo⸣: «La comida está lista. Vengan y coman».\n\n• «La comida está lista. Vengan y coman», ⸢dijo ella⸣.\n\n• «La comida está lista», ⸢dijo ella.⸣ «Vengan y coman».\n\nTambién en algunos idiomas, el margen de la cita puede tener más de un verbo que signifique «dijo».\n\nPero su madre ⸢respondió⸣ y ⸢dijo⸣: «No. Más bien, se llamará Juan». (Lucas 1:60 ULT)\n\nAl escribir que alguien dijo algo, algunos idiomas ponen la cita (lo que se dijo) entre comillas llamadas comillas inglesas (« »). Algunos idiomas usan otros símbolos alrededor de la cita, como estas comillas angulares (« »), o algo más.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ae75bac6c466",
+  "corregido_por_juez": "El ejemplo de «comillas inglesas» debe ser “ ”, no « »; se cambia el símbolo/referencia."
+ },
+ "uwtm:en_ta_translate_figs-imperative3p": {
+  "text_es": "Los idiomas de la Biblia tienen formas verbales que pueden dar mandatos, instrucciones u otro tipo de discurso directivo en tercera persona. En otras palabras, estas directrices se dirigen a «él», «ella», «ello» o «ellos» en lugar de a «tú».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e5bc982072e9"
+ },
+ "uwtm:en_ta_translate_writing-oathformula": {
+  "text_es": "Hay dos tipos de juramento en la Biblia. Podemos llamar al primer tipo juramento de «Promesa», y al segundo tipo juramento de «Verdad».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6237844e9b24"
+ },
+ "uwtn-c:258008": {
+  "text_es": "La frase ⸢en muchas porciones⸣ muestra que Dios no habló solo una vez. Más bien, habló con frecuencia a lo largo del período de tiempo llamado ⸢antiguamente⸣. La frase ⸢de muchas maneras⸣ muestra que Dios usó diversos medios y personas para hablar a los ⸢padres⸣. El autor usa ambas frases porque desea enfatizar la variedad de tiempos y maneras en que Dios ha ⸢hablado⸣. Si su idioma no usa la repetición para enfatizar, y si no puede representar bien las dos frases del autor, podría expresar la idea usando una sola frase que enfatice la variedad. Traducción alternativa: «Antiguamente, con gran variedad» o «Antiguamente, usando múltiples métodos en diferentes tiempos».",
+  "lemas_es": [
+   "In many portions and in many ways long ago"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "51e6a81ec346",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.1"
+   }
+  ]
+ },
+ "uwtn-c:258009": {
+  "text_es": "La frase ⸢en muchas porciones y de muchas maneras antiguamente⸣ describe cómo Dios «habló» ⸢a nuestros padres⸣. Si fuera útil en su idioma, podría reordenar las frases para que ⸢en muchas porciones y de muchas maneras antiguamente⸣ modifique ⸢habiendo hablado⸣. Traducción alternativa: «Dios, habiendo hablado a nuestros padres por medio de los profetas en muchas porciones y de muchas maneras antiguamente».",
+  "lemas_es": [
+   "In many portions and in many ways long ago, God, having spoken to our fathers through the prophets"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6ca3023ff348",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.1"
+   }
+  ]
+ },
+ "uwtn-c:258010": {
+  "text_es": "La frase ⸢habiendo hablado⸣ introduce una acción que ocurrió antes de las acciones que tienen lugar en el versículo siguiente (1:2). Use una forma que introduzca una acción que ocurre antes de otra cosa. Traducción alternativa: «después de hablar».",
+  "lemas_es": [
+   "having spoken"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "36a958c4abbc",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.1"
+   }
+  ]
+ },
+ "uwtn-c:258011": {
+  "text_es": "La frase ⸢nuestros padres⸣ se refiere a los israelitas que vivieron antes de que Jesús viviera en la tierra. No todos los miembros de la audiencia descendían de estos israelitas. Sin embargo, el autor todavía puede referirse a los israelitas como sus ⸢padres⸣ porque piensa que todos los cristianos han sido incluidos en la familia de Abraham, el antepasado de los israelitas. Si es posible, conserve el lenguaje familiar en su traducción. Traducción alternativa: «nuestros antepasados» o «a los antepasados israelitas».",
+  "lemas_es": [
+   "to our fathers"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cf8ed34b2abd",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.1"
+   }
+  ]
+ },
+ "uwtn-c:en_tn_HEB_aaf9#0": {
+  "text_es": "Estructura y formato\n\n• Introducción: Dios y su Hijo (1:1–4)\n\n• El Hijo y los ángeles (1:5–2:18)\n\n◦ Enseñanza: El Hijo es mayor que los ángeles (1:5–14)\n\nAlgunas traducciones colocan cada línea de poesía más a la derecha que el resto del texto para que sea más fácil de leer. La ULT hace esto con la poesía en 1:5, 7–13, que son citas de libros de poesía del Antiguo Testamento.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a5882f6cb9ec"
+ },
+ "uwtn-c:en_tn_HEB_aaf9#1": {
+  "text_es": "Conceptos religiosos y culturales en este capítulo\n\nDios hablando la Escritura\n\nEn este capítulo, el autor cita el Antiguo Testamento siete veces. Cada vez, dice que Dios es quien pronuncia las palabras, y Dios las habla a o acerca del Hijo o de los ángeles. La audiencia habría reconocido que estas citas provenían del Antiguo Testamento, pero el autor deseaba presentarlas como palabras que Dios mismo dijo y dice. Puede hacer esto porque creía que Dios es el autor de todo el Antiguo Testamento, ya que es quien habló por medio de los profetas (ver: 1:1). En su traducción, debe expresar estas citas como palabras que Dios dice. Si sus lectores no reconocieran que Dios está citando el Antiguo Testamento, podría identificar las citas para sus lectores en notas al pie o de alguna otra manera.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "435fe3cb9885"
+ },
+ "uwtn-c:en_tn_HEB_aaf9#2": {
+  "text_es": "Citas del Antiguo Testamento\n\nCuando el autor cita del Antiguo Testamento, usa una traducción griega que a veces es diferente de la versión hebrea original que la mayoría de las traducciones modernas usan para el Antiguo Testamento. Esto es particularmente evidente en 1:6, que cita la versión griega de Deuteronomio 32:43. En otros lugares, el autor puede parafrasear o citar libremente el Antiguo Testamento. Dado que el autor eligió usar estas formas de las citas, debe representar las palabras que el autor usa, no las palabras que puedan encontrarse en un Antiguo Testamento con el que usted esté familiarizado. (Ver: Citas y márgenes de cita)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5aa15b0790e2"
+ },
+ "uwtn-c:en_tn_HEB_aaf9#3": {
+  "text_es": "El Hijo y el Padre\n\nEn este capítulo, el autor se refiere al «Hijo» y varias veces habla de Dios como «Padre». Estos son términos importantes para dos personas de la Trinidad: Dios el Padre y Dios el Hijo. El autor usa estos términos en parte porque los textos del Antiguo Testamento que cita los usan. Además, «Hijo» y «Padre» se refieren a dos personas que están estrechamente relacionadas pero que no son la misma persona, por lo que las palabras proporcionan un buen lenguaje para hablar de dos personas de la Trinidad. Si es posible, conserve el lenguaje de padre e hijo en este capítulo, pero asegúrese de que su traducción no haga que suene como si el Hijo no existiera hasta cierto momento o que el Padre en algún momento diera a luz físicamente al Hijo. (Ver: Traducir Hijo y Padre)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1df4b6c4ed9a"
+ },
+ "uwtn-c:en_tn_HEB_aaf9#4": {
+  "text_es": "Ángeles\n\nEl autor menciona a los «ángeles» muchas veces en este capítulo. En su cultura, todos sabían acerca de los «ángeles». Eran seres espirituales que podían aparecer en forma humana. Algunas personas hablaban de ángeles buenos y malos. El autor solo habla de los ángeles buenos en este capítulo. Estos ángeles sirven y adoran a Dios, y hacen todo lo que Dios les dice que hagan. Algunos eruditos piensan que el autor está argumentando contra personas que decían que Jesús era un ángel. Más probablemente, el autor desea probar que Jesús el Hijo es Dios, y usa a los ángeles para hacerlo. El autor piensa que los ángeles están entre los humanos y Dios en poder y posición. Si el Hijo está por encima de los ángeles, eso significa que debe ser Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5326f883a524"
+ },
+ "uwtn-c:en_tn_HEB_aaf9#5": {
+  "text_es": "Cuestiones de traducción en este capítulo\n\nPreguntas retóricas\n\nEl autor hace preguntas retóricas en 1:5, 13–14. No hace estas preguntas porque quiera que la audiencia le proporcione información. Más bien, hace estas preguntas porque quiere que la audiencia piense en cómo está actuando y qué está pensando. Las preguntas los animan a pensar junto con el autor. Para ver maneras de traducir estas preguntas, busque las notas sobre cada versículo que incluye este tipo de preguntas. (Ver: Pregunta retórica)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "eb5f24b94fab"
+ },
+ "uwtn-c:en_tn_HEB_aaf9#6": {
+  "text_es": "Paralelismos\n\nEn el Antiguo Testamento, la buena poesía a menudo incluía dos líneas paralelas que expresaban una idea de dos maneras diferentes. Cuando el autor cita el Antiguo Testamento, a menudo incluye este tipo de paralelismo. Dado que ambas líneas contribuyen al significado de la idea, es mejor conservar el paralelismo. Sin embargo, si sus lectores lo encontraran confuso, podría combinar las dos líneas paralelas en una sola idea. Vea las notas sobre cada caso de líneas paralelas para opciones de traducción. (Ver: Paralelismo)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a0a262132300"
+ },
+ "uwtn-c:en_tn_HEB_aaf9#7": {
+  "text_es": "Heredar\n\nEn 1:2, 4, 14, el autor usa lenguaje relacionado con «heredar» o ser un «heredero». En la cultura del autor, los hijos a menudo «heredaban» propiedades o dinero cuando sus padres morían. En estos versículos, el autor usa el lenguaje de «heredar» metafóricamente para referirse a recibir algo de Dios. En este capítulo, la metáfora no implica que alguien deba morir para que la persona «herede». Si es posible, conserve esta metáfora, ya que es un concepto importante en Hebreos. Vea las notas sobre cada versículo para opciones de traducción. (Ver:; y Metáfora)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4379f4349218"
+ },
+ "uwtn-c:en_tn_HEB_aaf9#8": {
+  "text_es": "Descripciones del Hijo en 1:3\n\nEn 1:3, el autor describe al Hijo como «el resplandor de la gloria de Dios» y la «exacta representación del ser de Dios». Ambas frases identifican al Hijo como Dios y como único. En otras palabras, estas frases son la manera del autor de decir que el Hijo es Dios, pero Dios no es solo el Hijo. Considere cuidadosamente cómo traduce estas frases, y asegúrese de que su traducción deje claro que el Hijo es Dios, pero Dios no es solo el Hijo. El autor usa imágenes y metáforas para expresar la idea, así que considere usar imágenes y metáforas similares.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0505e446356f"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#0": {
+  "text_es": "Parte 1: Introducción general\n\nEsquema de Hebreos\n\nHebreos alterna entre exposición y exhortación. Dicho de otra manera, el autor alterna entre enseñar y advertir a su audiencia. El siguiente esquema identifica cuáles secciones son cuáles.\n\n• Introducción: Dios y su Hijo (1:1–4)\n\n• El Hijo y los ángeles (1:5–2:18)\n\n◦ Enseñanza: El Hijo es mayor que los ángeles (1:5–14)\n\n◦ Exhortación: ¡Escuchen el mensaje! (2:1–4)\n\n◦ Enseñanza: El Hijo se hace menor que los ángeles para ayudar a sus hermanos (2:5–18)\n\n• Ejemplo de la generación del desierto (3:1–4:13)\n\n◦ Exhortación: El Hijo es mayor que Moisés (3:1–6)\n\n◦ Exhortación: ¡Esfuércense por entrar en el reposo! (3:7–4:11)\n\n◦ Exhortación: El poder de la palabra de Dios (4:12–13)\n\n• Declaración resumida (4:14–16)\n\n• El Hijo como pontífice (5:1–10:18)\n\n◦ Enseñanza: El Hijo llega a ser pontífice (5:1–10)\n\n◦ Exhortación: ¡Asegúrense de perseverar! (5:11–6:12)\n\n◦ Exhortación: La promesa de Dios es segura (6:13–20)\n\n◦ Enseñanza: Melchisedec el sacerdote (7:1–10)\n\n◦ Enseñanza: El Hijo es pontífice según el orden de Melchisedec (7:11–28)\n\n◦ Enseñanza: El ministerio del Hijo (8:1–6)\n\n◦ Enseñanza: El nuevo pacto (8:7–13)\n\n◦ Enseñanza: Ministerios antiguo y nuevo (9:1–10:18)\n\n• Declaración resumida (10:19–25)\n\n• Fe y perseverancia (10:26–12:29)\n\n◦ Exhortación: ¡Perseveren en la fe! (10:26–39)\n\n◦ Exhortación: Ejemplos de fe (11:1–40)\n\n◦ Exhortación: Imiten a Jesús al rechazar el pecado y soportar la disciplina (12:1–17)\n\n◦ Exhortación: El monte Sinaí y el monte Sion (12:18–29)\n\n• Cierre (13:1–25)\n\n◦ Mandatos y exhortaciones finales (13:1–19)\n\n◦ Bendición y cierre de la carta (13:20–25)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1d4b2b4e8b60"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#1": {
+  "text_es": "¿Quién escribió el libro de Hebreos?\n\nQuienquiera que haya escrito esta carta no incluyó su nombre, así que no podemos estar seguros de quién la escribió. Se han sugerido muchos autores diferentes, entre ellos Pablo, Lucas, Bernabé y Apolos. El autor usa una palabra masculina para referirse a sí mismo en 11:32, pero ni siquiera podemos estar seguros de que una autora no se refiriera a sí misma con una palabra masculina. Sin embargo, como el autor usa esta palabra masculina, las notas también se referirán al autor con palabras masculinas. Puesto que el autor no incluyó su nombre, usted no debe incluir ningún nombre en su título o traducción.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b61b9f97a46c"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#10": {
+  "text_es": "¿Qué es el Día de la Expiación?\n\nCuando el autor se refiere a que un pontífice «entra», presenta sangre o hace algo «una vez al año», se está refiriendo al «Día de la Expiación.» Puede leer acerca de este ritual anual en Levítico 16. En este día, el pontífice degollaba un toro y un macho cabrío. Tomaba la sangre de estos animales y la llevaba al Lugar Santísimo y la rociaba allí delante de Dios. Luego tomaba otro macho cabrío, ponía sus manos sobre él y lo enviaba al desierto. Finalmente, alguien quemaba los cadáveres del toro y del macho cabrío degollados fuera del campamento. De esta manera, el pontífice expiaba sus propios pecados y los pecados del pueblo. El autor describe lo que Jesús hace como pontífice comparándolo con lo que el pontífice hacía en el tabernáculo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2f5ded8f735d"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#11": {
+  "text_es": "¿Cuándo y dónde hace Jesús expiación en Hebreos?\n\nLos eruditos debaten cuándo y dónde actuó Jesús como pontífice para hacer expiación. Primero, algunos sostienen que el autor usa símbolos para describir la muerte de Jesús en la cruz. En este caso, Jesús actuó como pontífice cuando murió en la tierra. Segundo, algunos sostienen que Jesús funciona como el pontífice en el Día de la Expiación tanto al degollar el sacrificio como al presentar luego la sangre en el santuario. En este caso, Jesús actuó como pontífice cuando murió en la tierra y también cuando presentó su sangre en el santuario celestial después de ascender al cielo. Tercero, algunos sostienen que Jesús actúa como pontífice solo cuando presenta su sangre en el santuario celestial. En este caso, cuando muere en la cruz, actúa como el toro o el macho cabrío en el Día de la Expiación, pero no como el pontífice. Luego actúa como el pontífice cuando presenta su sangre en el santuario celestial. Este es un asunto importante porque afecta las elecciones de palabras. Cuando el autor se refiere a la vida de Jesús en la tierra, ¿debería el traductor usar palabras que suenen «sacerdotales»? Considere cuidadosamente lo que cada versículo dice acerca de Jesús y su obra. Si es posible, su traducción debería permitir todas las interpretaciones anteriores.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9f330df4761f"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#12": {
+  "text_es": "¿Qué significa la descripción que hace el autor del cielo?\n\nLos eruditos debaten qué quiere decir el autor cuando habla de un trono, un tabernáculo y una ciudad en el cielo. Hay tres maneras comunes de entender lo que quiere decir. Primero, estas cosas podrían ser símbolos que el autor usa para describir el estar cerca de Dios. En este caso, el autor describe la presencia de Dios de diversas maneras para enfatizar diversos aspectos de cómo es la presencia de Dios. Segundo, estas cosas podrían ser metáforas que se refieren al «cielo», el lugar donde Dios habita. En este caso, el autor usa estas cosas que la gente entiende para describir algo que la gente no puede entender plenamente ahora: cómo es el cielo. Tercero, estas cosas podrían existir dentro del cielo. En otras palabras, el autor podría estar describiendo de manera general estructuras y lugares dentro del cielo. Para las tres opciones, el autor sí describe el cielo con lenguaje relacionado con el trono, el tabernáculo y la ciudad, así que usted debe preservar las descripciones del autor. Si es posible, su traducción debería permitir las tres interpretaciones anteriores.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2498ad49c838"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#13": {
+  "text_es": "Parte 3: Cuestiones importantes de traducción\n\n¿Cómo deben traducirse los verbos que se refieren a que Dios habla la Escritura?\n\nA lo largo de Hebreos, el autor cita el Antiguo Testamento muchas veces. En la mayoría de los casos, dice que Dios «habla» las palabras del Antiguo Testamento. Atribuye las citas unas veces al Padre, otras al Hijo y otras al Espíritu Santo. Si es posible, usted debe usar palabras que se refieran a que alguien «habla» cuando traduzca las introducciones a las citas. El hecho de que Dios «hable» o «converse» en las Escrituras es una parte importante del mensaje de Hebreos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2f94f2d0e3b3"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#14": {
+  "text_es": "¿A qué se refiere «sangre» en Hebreos?\n\nHebreos se refiere con frecuencia a la «sangre.» Cuando el autor se refiere a la «sangre» de animales que habían sido sacrificados, está hablando de cómo la «sangre» se drenaba del animal a un recipiente y luego se llevaba al tabernáculo. Cuando habla de la «sangre» de Jesús, especialmente cuando dice que Jesús ofreció su «sangre», no está tan claro exactamente qué quiere decir. Primero, podría estar refiriéndose a la sangre física de Jesús, que derramó en la cruz cuando murió. Segundo, podría estar usando la palabra «sangre» para referirse en general al sufrimiento y la muerte de Jesús. En este caso, podría ofrecer esta muerte en el momento en que murió o cuando ascendió al cielo. Tercero, podría estar usando la palabra «sangre» para referirse a la vida resucitada de Jesús. En este caso, Jesús ofreció esta vida cuando ascendió al cielo. Puesto que «sangre» es un concepto importante en Hebreos, y porque conecta la obra de Jesús con los sacrificios del antiguo pacto, usted debe preservar el lenguaje que se refiere a la sangre. Si su idioma distingue entre la sangre en el cuerpo y la sangre derramada, probablemente sea mejor referirse a la sangre derramada.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "21b3e7416a7a"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#15": {
+  "text_es": "¿Cómo deben traducirse las diferentes frases usadas para describir el trato con los pecados?\n\nEl autor usa muchas frases diferentes para referirse al perdón o la eliminación de los pecados: «purificación por los pecados» (1:3), sacrificios «por los pecados» (5:1, 3; 10:12), sacrificios «a favor de los pecados» (7:27; 10:18, 26; 13:11), «anulación del pecado» (9:26), «llevar los pecados» (9:28), «quitar los pecados» (10:4, 11). Cada una de estas frases se refiere a cómo un sacrificio o algún otro acto trata con los pecados. Esto sugiere que el autor no piensa que haya una sola manera en que los sacrificios tratan con los pecados; más bien, cada frase enfatiza un aspecto diferente. Usted debe preservar las diferentes frases tanto como sea posible en lugar de armonizarlas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5dad6fa02201"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#16": {
+  "text_es": "¿Cómo deben traducirse «perfección» y «perfecto»?\n\nEl autor de Hebreos usa con frecuencia palabras relacionadas con «perfección», tanto para los creyentes como para Jesús. Puesto que describe a Jesús como siendo «perfeccionado» (Ver: 2:10; 5:9), las palabras no pueden referirse a llegar a ser sin pecado o santo, ya que Jesús siempre estuvo «sin pecado» (Ver: 4:15). Hay tres opciones principales. Primero, «perfección» podría referirse a llegar a ser sacerdote. En este caso, Jesús llega a ser sacerdote cuando es «perfeccionado», y los creyentes también llegan a ser sacerdotes o al menos como sacerdotes. Segundo, «perfección» podría referirse a acercarse a Dios, lo que incluiría entrar en el cielo y en la presencia de Dios. En este caso, Jesús es «perfeccionado» cuando entra en el cielo, y los creyentes también serán «perfeccionados» cuando entren en el cielo. Tercero, «perfección» podría referirse en general a que una persona llegue a ser lo que estaba destinada a ser. Así, Jesús es «perfeccionado» cuando llega a ser el sacerdote que Dios quería que fuera. Los creyentes son «perfeccionados» cuando llegan a ser lo que Dios quiere que sean, lo que incluiría ser fieles y santos. La UST generalmente sigue esta tercera opción. Considere qué palabras en su idioma podrían indicar «perfección» tanto para Jesús como para los creyentes.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "022f9fb65ce3"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#17": {
+  "text_es": "¿Usa el autor las palabras para espacios y edificios sagrados de manera consistente?\n\nEn 9:1–8, el autor se refiere al tabernáculo terrenal y nombra sus partes: había una «primera tienda», llamada «Lugar Santo», y una «segunda tienda», llamada «Lugar Santísimo.» Juntas, estas constituyen «el lugar santo terrenal.» Sin embargo, el resto de la carta solo se refiere a los «lugares santos» y a un «tabernáculo.» Lo más probable es que 9:1–8 use terminología tomada del Antiguo Testamento. El resto de la carta usa las propias etiquetas del autor. Hay un gran debate sobre si el autor pensaba que el tabernáculo celestial tenía una o dos salas. Lo más probable es que los «lugares santos» se refieran a la sala interior, la más sagrada, mientras que el «tabernáculo» se refiera a todo el santuario. Los «lugares santos» podrían ser una parte del «tabernáculo», o los «lugares santos» podrían constituir todo el «tabernáculo.» Considere qué palabras o frases pueden traducir de manera consistente «lugares santos» y «tabernáculo.» Sin embargo, es posible que necesite usar palabras o frases diferentes en 9:1–8. Vea las notas sobre los versículos donde aparecen estos términos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2a332f8acf5a"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#18": {
+  "text_es": "¿De qué versión del Antiguo Testamento cita el autor?\n\nLa mayoría de los Antiguos Testamentos modernos se traducen del hebreo, el idioma que hablaban los antiguos israelitas. Sin embargo, muchos años antes de que Jesús viniera, el Antiguo Testamento fue traducido al griego, el idioma que hablaba la mayoría de la gente en el imperio romano. Muchos judíos que vivían en ciudades de todo el imperio usaban una de estas traducciones griegas, ya que en su mayoría hablaban griego. El autor de Hebreos también parece usar una de estas traducciones griegas para sus citas. Por esto, a veces sus citas del Antiguo Testamento difieren de lo que usted podría leer en una traducción moderna del pasaje del Antiguo Testamento. Además, a veces el autor no cita directamente un pasaje, sino que simplemente lo resume o lo parafrasea. En estos casos, las palabras serán de nuevo diferentes de lo que usted podría leer en el Antiguo Testamento. Por todo esto, siempre que el autor cite o resuma el Antiguo Testamento, usted no debe hacer que su traducción coincida con lo que podría encontrar en una traducción del Antiguo Testamento. En cambio, debe traducir las palabras que encuentra sin tratar de hacer que coincidan.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "621cfd88545c"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#19": {
+  "text_es": "¿Cómo deben traducirse «nosotros» y «ustedes»?\n\nA lo largo de la carta, «nosotros» incluye al autor y a la audiencia, a menos que una nota especifique lo contrario. De manera similar, «ustedes» es siempre plural, a menos que una nota especifique lo contrario. (Ver: «Nosotros» exclusivo e inclusivo; y Formas de «tú» — Singular)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e175f0b3a7a8",
+  "corregido_por_juez": "La referencia «Forms of ‘You’ — Singular» se vierte como «Formas de “Ustedes” — Singular»; «Ustedes» es plural y altera el título/referencia, que debe referirse a la forma singular de «you»."
+ },
+ "uwtn-c:en_tn_HEB_xy4n#2": {
+  "text_es": "¿Cuándo se escribió el libro de Hebreos?\n\nDe nuevo, no podemos estar seguros de cuándo se escribió Hebreos. Algunos sostienen que el autor habla como si la adoración en el templo estuviera ocurriendo en ese momento y no menciona la destrucción del templo. Esto sugeriría que Hebreos se escribió antes de que los romanos destruyeran el templo en el año 70 d. C. Por otro lado, otros sostienen que el autor no trata sobre el templo y solo está interesado en lo que las Escrituras dicen acerca del tabernáculo del Antiguo Testamento. Lo que está claro es que una carta escrita alrededor del año 100 d. C. cita de Hebreos, así que Hebreos debe haber sido escrita antes de entonces. Por lo tanto, Hebreos probablemente se escribió en algún momento entre los años 50 y 100 d. C.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ae366e633218"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#20": {
+  "text_es": "¿Cuáles son los principales problemas en el texto del libro de Hebreos?\n\nEn los siguientes versículos, los manuscritos antiguos no tienen todos las mismas palabras. La ULT usa las palabras que se encuentran en la mayoría de los manuscritos más antiguos. Cuando traduzca estos versículos, debe comparar la ULT con cualquier traducción que sus lectores puedan conocer para ver qué pueden esperar sus lectores. A menos que haya una buena razón para usar las palabras alternativas, debe seguir la ULT. Vea las notas al pie y las notas en cada uno de estos versículos para más información. (Vea: Textual Variants)\n\n• «de su reino» (1:8). Algunos manuscritos antiguos tienen esto: «de tu reino».\n\n• «con gloria y honra» (2:7). Algunos manuscritos antiguos tienen esto: «con gloria y honra y lo pusiste sobre las obras de tus manos».\n\n• «en su casa» (3:2). Algunos manuscritos antiguos tienen esto: «en toda su casa».\n\n• «no habiendo sido unidos en fe con los que oyeron» (4:2). Aquí, «no habiendo sido unidos» se refiere a personas. Algunos manuscritos antiguos tienen esto: «no habiendo sido unidos por la fe a los que lo oyeron». Aquí, «no habiendo sido unidos» se refiere al «mensaje».\n\n• «los bienes que han llegado a existir» (9:11). Algunos manuscritos antiguos tienen esto: «los bienes que están por venir a existir».\n\n• «tu conciencia» 9:14. Algunos manuscritos antiguos tienen esto: «nuestra conciencia».\n\n• «con los presos» (10:34). Algunos manuscritos antiguos tienen esto: «con mis cadenas».\n\n• «aun Sara misma» (11:11). Algunos manuscritos antiguos tienen esto: «aun Sara misma, la estéril».\n\n• «fueron aserrados, fueron probados» (11:37). Algunos manuscritos antiguos tienen esto: «fueron aserrados», omitiendo «fueron probados».\n\n• «contra sí mismos» (12:3). Algunos manuscritos antiguos tienen esto: «contra sí mismo».\n\n• «La gracia sea con todos ustedes» (13:25). Algunos manuscritos antiguos tienen esto: «La gracia sea con todos ustedes. Amén».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "13640a25aeea"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#3": {
+  "text_es": "¿A quién fue escrito el libro de Hebreos?\n\nEn un tiempo, la mayoría de los eruditos pensaba que Hebreos fue escrito principalmente a judíos que se habían convertido en cristianos y que vivían en Jerusalén. Argumentaban esto porque el libro usa mucho el Antiguo Testamento y dice que la obra de Jesús es mayor que cualquier sacrificio del Antiguo Testamento. Sugieren que «los de Italia» que el autor menciona en 13:24 vivían en Italia. Más recientemente, algunos eruditos han argumentado que Hebreos fue escrito para una audiencia de judíos y no judíos que se habían convertido en cristianos y que posiblemente vivían en Roma. Argumentan esto porque el autor no se refiere al templo actual y no ataca el judaísmo. Para este argumento, «los de Italia» (13:24) son originarios de Italia pero viven en otro lugar. Dado que ambos argumentos pueden explicar detalles sobre Hebreos, es mejor que el traductor evite escoger una opción y tomar decisiones basadas en ella.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d7005e137d3f"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#4": {
+  "text_es": "¿De qué trata el libro de Hebreos?\n\nHebreos es una «palabra de exhortación» (13:22) que enfatiza la grandeza de Jesús y su obra y anima a la audiencia a perseverar confiando en él. Hay tres explicaciones principales de por qué el autor envió esta carta. Primera, la audiencia podría estar experimentando la tentación de hacerse judía (si originalmente eran gentiles) o de participar de nuevo en el sistema de sacrificios (si originalmente eran judíos). Podrían estar tentados porque se sentían culpables y querían un sacrificio visible que expiara por ellos, o podrían estar experimentando persecución y desear la seguridad de ser judíos, condición religiosa que los romanos consideraban protegida. Segunda, la audiencia podría estar experimentando vergüenza y deshonra por parte de la cultura en la que vivían. Los gentiles llamaban «ateos» a los cristianos porque creían en un solo Dios, y también se consideraba que los cristianos eran peligrosos porque no juraban lealtad al César, el «Señor». En respuesta, podrían estar tentados a ocultar o abandonar lo que creían. Tercera, la audiencia podría estar experimentando una falta de intensidad e interés en lo que creían. En otras palabras, a medida que pasaba el tiempo, lo que creían se volvía menos importante para sus vidas. Que el autor exhorte a su audiencia a no volver al judaísmo o no se vuelve importante para algunas decisiones de traducción, incluido el nombre que se le da a este libro. Dado que hay al menos tres situaciones plausibles que explican lo que le preocupaba al autor, se recomienda que no base las decisiones de traducción en ninguna opción específica. Es mejor usar un lenguaje general, tal como lo hace el autor de Hebreos. En última instancia, lo que está claro es que Hebreos explica cómo Jesús funciona como pontífice para salvar a su pueblo, y él es el único sacerdote y salvador que importa. El autor quiere que la audiencia crea esto cada vez más.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "50a66551730c",
+  "corregido_por_juez": "La frase «Whether ... or not becomes important» se traduce como «Si ... o no se vuelve importante», cambiando el sentido a una condicional."
+ },
+ "uwtn-c:en_tn_HEB_xy4n#5": {
+  "text_es": "¿Cómo se debe traducir el título de este libro?\n\nLos traductores pueden optar por llamar a este libro con su título tradicional, «Hebreos» o «La carta a los Hebreos». O pueden elegir un título que se centre más en el contenido de la carta, como «Una palabra de exhortación» (ver las notas sobre 13:22) o «Sermón a los cristianos» o «Sermón a los cristianos judíos». (Ver: Cómo traducir nombres)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "706205ab63e7",
+  "corregido_por_juez": "No se tradujo la referencia «How to Translate Names»."
+ },
+ "uwtn-c:en_tn_HEB_xy4n#6": {
+  "text_es": "Parte 2: Conceptos religiosos y culturales importantes\n\n¿Qué significa que Jesús sea el «Hijo» de Dios?\n\nEn 1:2, el autor habla por primera vez de Jesús como «Hijo», y sigue usando «Hijo» para Jesús a lo largo de toda la carta. Este es un título especial para Jesús que enfatiza su estrecha relación con su «Padre». El «Padre» y el «Hijo», junto con el «Espíritu Santo», son Dios. Así pues, el título «Hijo» indica que Jesús es Dios y está estrechamente relacionado con su «Padre», que es Dios. El autor cita pasajes del Antiguo Testamento que usaban «hijo» para indicar la relación especial entre el rey de Israel y Dios. Puesto que el autor aplica estos pasajes a Jesús, «Hijo» también indica que Jesús es el rey del mundo. El autor finalmente afirma que quienes creen en Jesús llegan a ser «hijos» también (Ver: 12:5–10), lo que significa que son «hermanos» de Jesús (Ver: 2:11–12). Por lo tanto, «Hijo» es un título muy importante para Jesús y debe conservarse en la traducción si es posible. (Ver: Traducción de Hijo y Padre)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fe127d017971",
+  "corregido_por_juez": "No se tradujo la referencia «Translating Son and Father»."
+ },
+ "uwtn-c:en_tn_HEB_xy4n#7": {
+  "text_es": "¿Qué es un «pacto»?\n\nUn «pacto» es un acuerdo solemne entre personas o grupos. Los pactos generalmente incluían una descripción de la relación entre las dos partes, estipulaciones o requisitos, y bendiciones por hacer lo que el pacto requería y maldiciones por quebrantar el pacto. Dios hizo un «pacto» como este con Abraham, el antepasado de los israelitas, y renovó este pacto con el pueblo de Israel cuando lo sacó de Egipto. En el Antiguo Testamento, Dios prometió que haría un «nuevo pacto» (Vea: cómo 8:8–12 cita de Jeremías 31:31–34). El autor de Hebreos argumenta que Dios hizo este nuevo pacto por medio de Jesús (Vea: la primera mención de «pacto» en 7:22). Los creyentes ahora son parte de este nuevo pacto, y el autor los exhorta a ser fieles a él. (Vea:)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d1e4f68aa109"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#8": {
+  "text_es": "¿Qué es un «pontífice»?\n\nUn «pontífice» era el líder de los sacerdotes en Israel. Los sacerdotes descendían de un hombre llamado «Aarón», y Dios designaba a uno de estos sacerdotes para ser el líder, o «pontífice». Este pontífice era el único sacerdote al que se le permitía entrar en la parte más sagrada e interior del tabernáculo. Entraba allí una vez al año para hacer una ofrenda especial a Dios para ocuparse de los pecados. El autor identifica a Jesús como un «pontífice» porque él es quien va al lugar más sagrado para ocuparse de los pecados. Considere usar una palabra o frase que se refiera a una persona que es el sacerdote más grande o más importante. (Vea:)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c1f143cb2918"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#9": {
+  "text_es": "¿Qué es el «tabernáculo»?\n\nEl «tabernáculo» era una gran tienda que Dios hizo que Moisés y los israelitas construyeran. Era un lugar sagrado donde Dios se revelaba a su pueblo y se acercaba a él. El tabernáculo tenía un atrio y una estructura de tienda que incluía dos habitaciones, un Lugar Santo y un Lugar Santísimo. Los sacerdotes entraban a menudo en el Lugar Santo, pero el Lugar Santísimo era donde el pontífice entraba una sola vez cada año. El autor da una breve descripción de este tabernáculo y lo que había en él en 9:1–7. Puede leer las instrucciones de Dios para el tabernáculo en Éxodo 25–27, 30, y puede leer acerca de cómo los israelitas lo construyeron en Éxodo 36–38. Este tabernáculo era el lugar donde los sacerdotes presentaban sacrificios y adoraban a Dios. Más tarde, los reyes de Israel construyeron un templo para Dios, e hicieron que su estructura coincidiera con el tabernáculo. (Vea:)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9b932a901abc"
+ },
+ "uwtn:258011": {
+  "text_es": "La frase ⸢nuestros padres⸣ se refiere a los israelitas que vivieron antes de que Jesús viviera en la tierra. No todos los miembros de la audiencia descendían de estos israelitas. Sin embargo, el autor todavía puede referirse a los israelitas como sus ⸢padres⸣ porque piensa que todos los cristianos han sido incluidos en la familia de Abraham, el antepasado de los israelitas.",
+  "lemas_es": [
+   "a nuestros padres"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2b8b23345a3a",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.1"
+   }
+  ]
+ },
+ "uwtn-c:258012": {
+  "text_es": "El autor usa palabras y frases en esta cláusula que hacen que su estructura sea paralela al versículo anterior (1:1). Hace esto para enfatizar el contraste entre «hace mucho tiempo» y ⸢en el último de estos días⸣. Si es posible, use las mismas estructuras en esta cláusula que usó en el versículo anterior. Traducción alternativa: «nos ha hablado por medio de un Hijo en el último de estos días. Este Hijo es el que»",
+  "lemas_es": [
+   "en el último de estos días nos habló por medio de un Hijo, a quien"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "da903014af4e",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.2"
+   }
+  ]
+ },
+ "uwtn-c:258013": {
+  "text_es": "La frase ⸢el último de estos días⸣ se refiere al último período en la historia del mundo, que comenzó cuando Jesús vivió, murió y volvió a vivir. Traducción alternativa: «en el último período en la historia del mundo»",
+  "lemas_es": [
+   "en el último de estos días"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1a2953556ad8",
+  "lemas_rv1909": [
+   {
+    "lema": "En estos postreros días",
+    "ref": "HEB.1.2"
+   }
+  ]
+ },
+ "uwtn-c:258014": {
+  "text_es": "La palabra ⸢Hijo⸣ es un título importante para Jesús, el Hijo de Dios.",
+  "lemas_es": [
+   "un Hijo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f8ed445f0f82",
+  "lemas_rv1909": [
+   {
+    "lema": "Hijo",
+    "ref": "HEB.1.2"
+   }
+  ]
+ },
+ "uwtn-c:258015": {
+  "text_es": "El autor usa la forma posesiva para indicar que el ⸢heredero⸣ recibe o hereda ⸢todas las cosas⸣. Si sería útil en su idioma, podría usar una palabra o frase como «recibir» o «heredar». Traducción alternativa: «el heredero que hereda todas las cosas»",
+  "lemas_es": [
+   "heredero de todas las cosas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c95575e98f70",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.2"
+   }
+  ]
+ },
+ "uwtn-c:258016": {
+  "text_es": "El autor habla como si Jesús fuera un niño que recibiría propiedad transmitida por el padre a su hijo cuando el padre muere. Habla de esta manera para indicar que Jesús es el ⸢Hijo⸣ que «heredará» ⸢todas las cosas⸣, lo que significa que gobernará sobre todo lo que existe. Si sería útil en su idioma, podría expresar el significado de manera clara. Traducción alternativa: «lo designó dueño de todas las cosas» o «lo designó para ser el que gobernará sobre todas las cosas»",
+  "lemas_es": [
+   "lo designó heredero de todas las cosas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "81c85cff9473",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.2"
+   }
+  ]
+ },
+ "uwtn:258014": {
+  "text_es": "La palabra ⸢Hijo⸣ es un título importante para Jesús, el Hijo de Dios.",
+  "lemas_es": [
+   "un Hijo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f8ed445f0f82",
+  "lemas_rv1909": [
+   {
+    "lema": "Hijo",
+    "ref": "HEB.1.2"
+   }
+  ]
+ },
+ "uwtn-c:258017": {
+  "text_es": "El autor incluye una larga descripción de quién es el «Hijo». Las frases ⸢siendo el resplandor de su gloria y la misma imagen de su sustancia⸣ y ⸢sustentando todas las cosas con la palabra de su poder⸣ describen lo que el «Hijo» es y hace siempre. La frase ⸢habiendo hecho la purificación de los pecados⸣ se refiere más específicamente a lo que el «Hijo» ha hecho y completado antes de que ⸢se sentara a la diestra⸣. Si en su idioma sería útil, podría aclarar que la frase ⸢habiendo hecho la purificación de los pecados⸣ se refiere a algo que sucedió antes de que Jesús ⸢se sentara⸣, mientras que las frases anteriores se refieren a cosas que el «Hijo» es y hace siempre. Traducción alternativa: «quien es el resplandor de su gloria y la misma imagen de su sustancia y quien sustenta todas las cosas con la palabra de su poder. Después de haber hecho la purificación de los pecados, se sentó a la diestra de la Majestad en las alturas»",
+  "lemas_es": [
+   "quien, siendo el resplandor de su gloria y la misma imagen de su sustancia, sustentando todas las cosas con la palabra de su poder y habiendo hecho la purificación de los pecados, se sentó a la diestra de la Majestad en las alturas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f26f51299776",
+  "text_es_2": "El autor incluye una larga descripción de quién es el «Hijo». Las frases ⸢siendo el resplandor de su gloria y la misma imagen de su sustancia⸣ y ⸢sosteniendo todas las cosas por la palabra de su poder⸣ describen lo que el «Hijo» siempre es y hace. La frase ⸢habiendo hecho la purificación de los pecados⸣ se refiere más específicamente a lo que el «Hijo» ha hecho y completado antes de que ⸢se sentara a la diestra⸣. Si en su idioma resultara útil, podría aclarar que la frase ⸢habiendo hecho la purificación de los pecados⸣ se refiere a algo que sucedió antes de que Jesús ⸢se sentara⸣, mientras que las frases anteriores se refieren a cosas que el «Hijo» siempre es y hace. Traducción alternativa: «quien es el resplandor de su gloria y la misma imagen de su sustancia y quien sostiene todas las cosas por la palabra de su poder. Después de haber hecho la purificación de los pecados, se sentó a la diestra de la Majestad en las alturas»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "siendo el resplandor de su gloria, y la misma imagen de su sustancia, y sustentando todas las cosas con la palabra de su potencia, habiendo hecho la purgación de nuestros pecados por sí mismo, se sentó a la diestra de la Majestad en las alturas",
+    "ref": "HEB.1.3"
+   }
+  ]
+ },
+ "uwtn-c:258018": {
+  "text_es": "Si su idioma no usa sustantivos abstractos para las ideas de ⸢resplandor⸣, ⸢gloria⸣, ⸢imagen⸣ y ⸢sustancia⸣, podría expresar las ideas usando verbos, adjetivos o adverbios. Traducción alternativa: «brillantemente glorioso como él es y representando exactamente quién es»",
+  "lemas_es": [
+   "el resplandor de su gloria y la misma imagen de su sustancia"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4e43493eeaaa",
+  "text_es_2": "Si su idioma no usa sustantivos abstractos para las ideas de ⸢resplandor⸣, ⸢gloria⸣, ⸢representación⸣ y ⸢ser⸣, podría expresar las ideas usando verbos, adjetivos o adverbios. Traducción alternativa: «resplandece gloriosamente como él es y representa exactamente quién es»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "el resplandor de su gloria, y la misma imagen de su sustancia",
+    "ref": "HEB.1.3"
+   }
+  ]
+ },
+ "uwtn-c:258019": {
+  "text_es": "El autor habla como si el «Hijo» tuviera el ⸢resplandor⸣ que pertenece a la ⸢gloria⸣ de Dios, la cual se representa aquí como una luz brillante. El autor habla así para enfatizar que el Hijo «brilla» con la ⸢gloria⸣ que solo Dios tiene. Quiere decir que el «Hijo» es Dios y representa a Dios. Si en su idioma sería útil, podría expresar el significado de manera clara. Traducción alternativa: «el reflejo de su gloria y» o «uno que tiene la gloria de Dios y la»",
+  "lemas_es": [
+   "el resplandor de su gloria y"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "814d03e6314d",
+  "text_es_2": "El autor habla como si el «Hijo» tuviera el ⸢resplandor⸣ que pertenece a la ⸢gloria⸣ de Dios, la cual aquí se representa como una luz brillante. El autor habla así para enfatizar que el Hijo «brilla» con la ⸢gloria⸣ que solo Dios tiene. Quiere decir que el «Hijo» es Dios y representa a Dios. Si en su idioma resultara útil, podría expresar el significado claramente. Traducción alternativa: «el reflejo de su gloria y» o «uno que tiene la gloria de Dios y la»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "el resplandor de su gloria",
+    "ref": "HEB.1.3"
+   }
+  ]
+ },
+ "uwtn-c:258020": {
+  "text_es": "El autor habla como si el Hijo estuviera debajo de ⸢todas las cosas⸣ y las sostuviera para que no cayeran. Habla así para indicar que todo sigue existiendo solo porque el Hijo obra para hacerlo continuar. Si en su idioma sería útil, podría expresar el significado de manera clara. Traducción alternativa: «preservando todas las cosas» o «sosteniendo todas las cosas»",
+  "lemas_es": [
+   "sustentando todas las cosas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ea3ea02cac98",
+  "text_es_2": "El autor habla como si el Hijo estuviera debajo de ⸢todas las cosas⸣ y las sostuviera para que no cayeran. Habla así para indicar que todo sigue existiendo solo porque el Hijo obra para hacerlo continuar. Si en su idioma resultara útil, podría expresar el significado claramente. Traducción alternativa: «preservando todas las cosas» o «sosteniendo todas las cosas»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "sustentando todas las cosas",
+    "ref": "HEB.1.3"
+   }
+  ]
+ },
+ "uwtn-c:258021": {
+  "text_es": "El término ⸢palabra⸣ se refiere a decir «palabras» o «mensajes». No se refiere solo a una única palabra que el Hijo pronuncia. Si en su idioma sería útil, podría usar una palabra o frase que se refiera a cómo habla el Hijo. Traducción alternativa: «mediante su discurso poderoso» o «por cómo habla con poder»",
+  "lemas_es": [
+   "con la palabra de su poder"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2e5bf204ced0",
+  "text_es_2": "El término ⸢palabra⸣ se refiere a hablar «palabras» o «mensajes». No se refiere solo a una única palabra que el Hijo habla. Si en su idioma resultara útil, podría usar una palabra o frase que se refiera a cómo habla el Hijo. Traducción alternativa: «mediante su discurso poderoso» o «por cómo habla con poder»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.3"
+   }
+  ]
+ },
+ "uwtn-c:258022": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢poder⸣, podría expresar la idea usando un adjetivo como «poderoso». Traducción alternativa: «con su palabra poderosa»",
+  "lemas_es": [
+   "con la palabra de su poder"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4e3468a8a01f",
+  "text_es_2": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢poder⸣, podría expresar la idea usando un adjetivo como «poderoso». Traducción alternativa: «por su palabra poderosa»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.3"
+   }
+  ]
+ },
+ "uwtn-c:258023": {
+  "text_es": "Cuando alguien se sienta ⸢a la diestra⸣ de Dios, esa posición simboliza el honor, la autoridad y la capacidad de gobernar de esa persona. Si en su idioma sería útil, podría expresar la idea explícitamente. Traducción alternativa: «se sentó para reinar a la diestra» o «tomó el lugar de honor y autoridad a la diestra»",
+  "lemas_es": [
+   "se sentó a la diestra"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9e10a82b7242",
+  "text_es_2": "Cuando alguien se sienta ⸢a la diestra⸣ de Dios, esa posición simboliza el honor, la autoridad y la capacidad de gobernar de esa persona. Si en su idioma resultara útil, podría expresar la idea explícitamente. Traducción alternativa: «se sentó para reinar a la diestra» o «tomó el lugar de honor y autoridad a la diestra»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "se sentó a la diestra",
+    "ref": "HEB.1.3"
+   }
+  ]
+ },
+ "uwtn-c:258024": {
+  "text_es": "La frase ⸢a la diestra⸣ se refiere al lugar junto a la mano ⸢derecha⸣ de una persona, es decir, el «lado derecho». En la cultura del autor, este lado se asociaba con el honor o la autoridad. Si en su idioma sería útil, podría referirse al «lado derecho». Asegúrese de que sus lectores entiendan que este lado indica que el Hijo tiene honor y autoridad cuando se sienta allí. Traducción alternativa: «al lado derecho de la Majestad» o «en el lugar honorable junto a la Majestad»",
+  "lemas_es": [
+   "a la diestra de la Majestad"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fe6fa703d02e",
+  "text_es_2": "La frase ⸢a la diestra⸣ se refiere al lugar junto a la mano ⸢derecha⸣ de una persona, que sería el «lado derecho». En la cultura del autor, este lado se asociaba con el honor o la autoridad. Si en su idioma resultara útil, podría referirse al «lado derecho». Asegúrese de que sus lectores entiendan que este lado indica que el Hijo tiene honor y autoridad cuando se sienta allí. Traducción alternativa: «al lado derecho de la Majestad» o «en el lugar honorable junto a la Majestad»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "a la diestra de la Majestad",
+    "ref": "HEB.1.3"
+   }
+  ]
+ },
+ "uwtn-c:258025": {
+  "text_es": "En la cultura del autor, se consideraba reverente evitar decir el nombre de Dios. Aquí el autor usa ⸢Majestad⸣ en lugar del nombre de Dios para seguir esta costumbre e indicar que Dios es poderoso y glorioso. Si en su idioma sería útil, podría usar una manera reverente de referirse a Dios en su cultura, especialmente si enfatiza cuán poderoso y glorioso es Dios. Traducción alternativa: «de la gran deidad» o «del Dios glorioso»",
+  "lemas_es": [
+   "de la Majestad"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e1e069e8c9c9",
+  "text_es_2": "En la cultura del autor, se consideraba reverente evitar decir el nombre de Dios. Aquí el autor usa ⸢Majestad⸣ en lugar del nombre de Dios para seguir esta costumbre e indicar que Dios es poderoso y glorioso. Si en su idioma resultara útil, podría usar una manera reverente de referirse a Dios en su cultura, especialmente si enfatiza que Dios es poderoso y glorioso. Traducción alternativa: «de la gran deidad» o «del Dios glorioso»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "de la Majestad",
+    "ref": "HEB.1.3"
+   }
+  ]
+ },
+ "uwtn-c:258026": {
+  "text_es": "La frase ⸢en las alturas⸣ identifica la ubicación de ⸢la diestra de la Majestad⸣, que es donde el Hijo ⸢se sentó⸣. Esta ubicación está en el cielo. Si en su idioma sería útil, podría aclarar que significa que Jesús ascendió al cielo, que es donde está el lado ⸢derecho⸣. Traducción alternativa: «en el cielo» o «en las alturas, en el cielo»",
+  "lemas_es": [
+   "en las alturas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0ad5a5d3b3d6",
+  "text_es_2": "La frase ⸢en las alturas⸣ identifica la ubicación de ⸢la diestra de la Majestad⸣, que es donde el Hijo ⸢se sentó⸣. Esta ubicación está en el cielo. Si en su idioma resultara útil, podría aclarar que significa que Jesús ascendió al cielo, que es donde está el lado ⸢derecho⸣. Traducción alternativa: «en el cielo» o «en las alturas, en el cielo»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "en las alturas",
+    "ref": "HEB.1.3"
+   }
+  ]
+ },
+ "uwtn:258023": {
+  "text_es": "Cuando alguien se sienta ⸢a la diestra⸣ de Dios, esa posición simboliza el honor, la autoridad y la capacidad de gobernar de esa persona.",
+  "lemas_es": [
+   "se sentó a la diestra"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a3197b7ba511",
+  "text_es_2": "Cuando alguien se sienta ⸢a la diestra⸣ de Dios, esa posición simboliza el honor, la autoridad y la capacidad de gobernar de esa persona.",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "se sentó a la diestra",
+    "ref": "HEB.1.3"
+   }
+  ]
+ },
+ "uwtn:258026": {
+  "text_es": "La frase ⸢en las alturas⸣ identifica la ubicación de ⸢la diestra de la Majestad⸣, que es donde el Hijo ⸢se sentó⸣. Esta ubicación está en el cielo.",
+  "lemas_es": [
+   "en las alturas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7ea26c013b35",
+  "text_es_2": "La frase ⸢en las alturas⸣ identifica la ubicación de ⸢la diestra de la Majestad⸣, que es donde el Hijo ⸢se sentó⸣. Esta ubicación está en el cielo.",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "en las alturas",
+    "ref": "HEB.1.3"
+   }
+  ]
+ },
+ "uwtn-c:258027": {
+  "text_es": "Las palabras ⸢habiendo llegado a ser⸣ podrían introducir: (1) una explicación de lo que significa «sentarse a la diestra de Dios» (1:3). Traducción alternativa: «así, ha llegado a ser»; (2) un resultado que proviene de «sentarse a la diestra de Dios» (1:3). Traducción alternativa: «por lo que ha llegado a ser» o «por tanto, ha llegado a ser»",
+  "lemas_es": [
+   "habiendo llegado a ser"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5259405f2f0b",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.4"
+   }
+  ]
+ },
+ "uwtn-c:258028": {
+  "text_es": "El autor usa una comparación que indica que la diferencia en «superioridad» entre el Hijo y ⸢los ángeles⸣ es la misma que la diferencia entre el ⸢nombre⸣ del Hijo y los nombres de ⸢los ángeles⸣. Considere maneras claras de indicar tal comparación en su idioma. Traducción alternativa: «habiendo llegado a ser tanto más superior a los ángeles cuanto el nombre que ha heredado es más excelente que el de ellos»",
+  "lemas_es": [
+   "habiendo llegado a ser tanto más superior a los ángeles, cuanto ha heredado un nombre más excelente que ellos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c817efc46897",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.4"
+   }
+  ]
+ },
+ "uwtn-c:258029": {
+  "text_es": "El autor no aclara cuál es este ⸢nombre⸣. Podría ser el título «Hijo», el título «Señor», el nombre «Jesús» o el nombre propio de Dios, «Yahweh». Puesto que el autor no aclaró a qué ⸢nombre⸣ se refiere, lo mejor es referirse a un nombre o título sin indicar cuál es. Traducción alternativa: «un título más excelente»",
+  "lemas_es": [
+   "un nombre más excelente"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "54b62d3c5853",
+  "lemas_rv1909": [
+   {
+    "lema": "más excelente nombre",
+    "ref": "HEB.1.4"
+   }
+  ]
+ },
+ "uwtn-c:258030": {
+  "text_es": "El autor habla como si Jesús fuera un hijo que recibiría propiedad que un padre transmite a su heredero cuando el padre muere. Habla así para indicar que Jesús recibe un ⸢nombre⸣ de Dios el Padre, aunque esto no significa que Dios el Padre haya muerto. Si en su idioma sería útil, podría expresar el significado de manera clara. Traducción alternativa: «ha recibido» o «Dios le ha dado»",
+  "lemas_es": [
+   "ha heredado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6d7d8352e608",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.4"
+   }
+  ]
+ },
+ "uwtn-c:258031": {
+  "text_es": "El autor omite algunas de las palabras que en muchos idiomas una oración necesitaría para estar completa. Omite estas palabras porque las mencionó en la primera mitad de la comparación (un ⸢nombre⸣). Si su idioma necesita estas palabras para formar una oración completa, podría incluirlas aquí. Traducción alternativa: «que sus nombres»",
+  "lemas_es": [
+   "que ellos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "25912f599a30",
+  "lemas_rv1909": [
+   {
+    "lema": "que ellos",
+    "ref": "HEB.1.4"
+   }
+  ]
+ },
+ "uwtn:258027": {
+  "text_es": "Las palabras ⸢habiendo llegado a ser⸣ podrían introducir: (1) una explicación de lo que significa «sentarse a la diestra de Dios» (1:3). («así, ha llegado a ser»); (2) un resultado que proviene de «sentarse a la diestra de Dios» (1:3). («por lo que ha llegado a ser» o «por tanto, ha llegado a ser»)",
+  "lemas_es": [
+   "habiendo llegado a ser"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a260f14abbfa",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.4"
+   }
+  ]
+ },
+ "uwtn:258028": {
+  "text_es": "El autor usa una comparación que indica que la diferencia en «superioridad» entre el Hijo y ⸢los ángeles⸣ es la misma que la diferencia entre el ⸢nombre⸣ del Hijo y los nombres de ⸢los ángeles⸣.",
+  "lemas_es": [
+   "habiendo llegado a ser tanto más superior a los ángeles, cuanto ha heredado un nombre más excelente que ellos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "dc51ff0d5e01",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.4"
+   }
+  ]
+ },
+ "uwtn-c:258032": {
+  "text_es": "La palabra ⸢Porque⸣ introduce el apoyo o la base que prueba que el Hijo es «superior a los ángeles» (1:4). Las declaraciones de apoyo que ⸢Porque⸣ introduce se encuentran en 1:5–14. Si en su idioma sería útil, podría usar una palabra o frase que introduzca apoyo o base para una afirmación. Traducción alternativa: «He aquí la prueba de esto:»",
+  "lemas_es": [
+   "Porque"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f4aa0274d1a7",
+  "lemas_rv1909": [
+   {
+    "lema": "Porque",
+    "ref": "HEB.1.5"
+   }
+  ]
+ },
+ "uwtn-c:258033": {
+  "text_es": "El autor no hace estas preguntas porque busque información. Más bien, las hace para involucrar a la audiencia en lo que está argumentando. Las preguntas dan por sentado que la respuesta a ambas es «ninguno de ellos», pues Dios dijo estas palabras a su propio Hijo. Si fuera útil en su idioma, podría expresar las ideas con negaciones enfáticas. Traducción alternativa: «Porque Dios nunca dijo a ninguno de los ángeles “Tú eres mi Hijo, y yo hoy te he engendrado”. Y otra vez, “Yo seré para él como un padre, y él será para mí como un hijo”.»",
+  "lemas_es": [
+   "Porque, ¿a cuál de los ángeles dijo Dios jamás: “Tú eres mi Hijo, yo te he engendrado hoy”? Y otra vez: “Yo seré para él como un padre, y él será para mí como un hijo”"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9d1cba54ead3",
+  "corregido_por_juez": "La cita alternativa vierte «I have become your father» como «te he engendrado», cambiando el sentido del texto.",
+  "lemas_rv1909": [
+   {
+    "lema": "Porque ¿a cuál de los ángeles dijo ⸢Dios⸣ jamás: Mi hijo eres tú, hoy yo te he engendrado? y otra vez: Yo seré a él Padre, y él me será a mí hijo",
+    "ref": "HEB.1.5"
+   }
+  ]
+ },
+ "uwtn-c:258034": {
+  "text_es": "El autor cita la Escritura del Antiguo Testamento. No introduce las citas como citas, sino como palabras que Dios ha dicho a su Hijo, no a los ángeles. Sin embargo, la audiencia habría entendido que eran citas del Antiguo Testamento. La primera cita proviene del Salmo 2:7, y la segunda cita proviene de 2 Samuel 7:14. Puesto que el autor introduce estas citas como palabras que Dios ha dicho a su Hijo, no a los ángeles, usted debería introducir estas citas como palabras que alguien ha dicho. Si sus lectores no supieran que las citas son del Antiguo Testamento, podría incluir notas al pie o usar alguna otra forma de identificar las citas. La frase ⸢Y otra vez⸣ es una forma normal que el autor usa para conectar una segunda cita con una primera. Traducción alternativa: «Porque, ¿a cuál de los ángeles habló él alguna vez… Y»",
+  "lemas_es": [
+   "Porque, ¿a cuál de los ángeles dijo él alguna vez & Y otra vez"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b61bbed32941",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.5"
+   }
+  ]
+ },
+ "uwtn-c:258035": {
+  "text_es": "En sus contextos originales, estas dos citas se referían al rey de Israel como uno que llegó a ser ⸢hijo⸣ de Dios cuando comenzó a reinar. Así, Dios era su ⸢padre⸣. Cuando el autor aplica estas palabras no a los ángeles sino a Jesús, identifica al ⸢padre⸣ como Dios el Padre y al ⸢hijo⸣ como Dios el Hijo. No quiere decir que Jesús llega a ser ⸢hijo⸣ en algún momento o comienza a existir en algún momento. Más bien, quiere decir que Dios el Padre declara y revela que Jesús es Dios el Hijo. Si en su idioma sería útil, podría incluir algunas palabras o una nota al pie que aclare el significado. Traducción alternativa: «Tú eres mi hijo, hoy he proclamado que yo soy tu padre… Proclamo que yo soy su padre y que él es mi hijo»",
+  "lemas_es": [
+   "Tú eres mi hijo. Hoy yo te he engendrado & Yo seré para él como un padre, y él será para mí como un hijo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "57a8d16ba9f8",
+  "lemas_rv1909": [
+   {
+    "lema": "Mi hijo eres tú, hoy yo te he engendrado? y otra vez: Yo seré a él Padre, y él me será a mí hijo",
+    "ref": "HEB.1.5"
+   }
+  ]
+ },
+ "uwtn-c:258036": {
+  "text_es": "La cita incluye dos declaraciones que significan casi lo mismo. Una declaración usa el lenguaje de ⸢hijo⸣, y la otra usa el lenguaje de «padre». Esto se consideraba buena poesía en la cultura del autor. Si esto no fuera buena poesía en su cultura, y si la repetición fuera confusa, podría combinar las dos declaraciones. Traducción alternativa: «Hoy yo te he engendrado, hijo mío»",
+  "lemas_es": [
+   "Tú eres mi hijo. Hoy yo te he engendrado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5b75da4dc9fa",
+  "lemas_rv1909": [
+   {
+    "lema": "Mi hijo eres tú, hoy yo te he engendrado",
+    "ref": "HEB.1.5"
+   }
+  ]
+ },
+ "uwtn-c:258037": {
+  "text_es": "Puesto que la cita se refiere a un solo ⸢hijo⸣, ⸢Tú⸣ y ⸢te⸣ están en singular.",
+  "lemas_es": [
+   "Tú & te"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1c987271f25e",
+  "lemas_rv1909": [
+   {
+    "lema": "tú, hoy yo te",
+    "ref": "HEB.1.5"
+   }
+  ]
+ },
+ "uwtn-c:258038": {
+  "text_es": "La cita incluye dos declaraciones que significan casi lo mismo. Una declaración usa el lenguaje de ⸢padre⸣, y la otra usa el lenguaje de ⸢hijo⸣. Esto se consideraba buena poesía en la cultura del autor. Si esto no fuera buena poesía en su cultura, y si la repetición fuera confusa, podría combinar las dos declaraciones. Traducción alternativa: «Yo seré para él como un padre, pues es mi hijo» o «Él será para mí como un hijo, para mí que soy su padre»",
+  "lemas_es": [
+   "Yo seré para él como un padre, y él será para mí como un hijo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "02684bd56570",
+  "lemas_rv1909": [
+   {
+    "lema": "Yo seré a él Padre, y él me será a mí hijo",
+    "ref": "HEB.1.5"
+   }
+  ]
+ },
+ "uwtn:258035": {
+  "text_es": "En sus contextos originales, estas dos citas se referían al rey de Israel como aquel que llegó a ser ⸢hijo⸣ de Dios cuando comenzó a reinar. Así, Dios era su ⸢padre⸣. Cuando el autor aplica estas palabras no a los ángeles sino a Jesús, identifica al ⸢padre⸣ como Dios el Padre y al ⸢hijo⸣ como Dios el Hijo. No quiere decir que Jesús llega a ser ⸢hijo⸣ en algún momento o comienza a existir en algún momento. Más bien, quiere decir que Dios el Padre declara y revela que Jesús es Dios el Hijo.",
+  "lemas_es": [
+   "Tú eres mi hijo. Yo te he engendrado hoy y yo seré para él como un padre, y él será para mí como un hijo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5807af8599b7",
+  "lemas_rv1909": [
+   {
+    "lema": "Mi hijo eres tú, hoy yo te he engendrado? y otra vez: Yo seré a él Padre, y él me será a mí hijo",
+    "ref": "HEB.1.5"
+   }
+  ]
+ },
+ "uwtn-c:258039": {
+  "text_es": "La palabra ⸢Pero⸣ introduce un contraste con el versículo anterior, que habla de lo que Dios no ha dicho a los ángeles. En este versículo, el autor identifica lo que Dios ha dicho a los ángeles. Si sería útil en su idioma, podría usar una palabra o frase que introduzca este tipo de contraste. Traducción alternativa: «De nuevo, y en contraste»,",
+  "lemas_es": [
+   "Pero de nuevo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "41df89d9ddfd",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.6"
+   }
+  ]
+ },
+ "uwtn-c:258040": {
+  "text_es": "El autor cita del Antiguo Testamento de las Escrituras. No la introduce como una cita, sino como palabras que Dios ha hablado a los ángeles acerca de su Hijo. Sin embargo, la audiencia habría entendido que esta era una cita del Antiguo Testamento tomada de la traducción griega de Deuteronomio 32:43. Puesto que el autor introduce esta cita como palabras que Dios ha dicho a los ángeles, usted debe introducir la cita como palabras que alguien ha dicho. Si sus lectores no sabrían que la cita es del Antiguo Testamento, podría incluir una nota al pie o usar alguna otra forma para identificar la cita. La frase ⸢Pero de nuevo⸣ era una manera normal en la cultura del autor de introducir otra cita. Traducción alternativa: «Además … Dios declara»",
+  "lemas_es": [
+   "Pero de nuevo & dice"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5510451384cb",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.6"
+   }
+  ]
+ },
+ "uwtn-c:258041": {
+  "text_es": "El autor usa el tiempo presente para introducir lo que Dios dice. Puede estar refiriéndose a un evento pasado (si ⸢trae⸣ se refiere a la encarnación o a la ascensión de Jesús) o a un evento futuro (si ⸢trae⸣ se refiere al regreso de Jesús al final). El autor usa el tiempo presente para enfocarse en lo que Dios ⸢dice⸣ más que en cuándo lo ⸢dice⸣. Considere qué tiempo verbal sería apropiado para referirse principalmente a lo que una persona dice. Traducción alternativa: «trajo … dijo»",
+  "lemas_es": [
+   "trae & dice"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "70f1feeee17d",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.6"
+   }
+  ]
+ },
+ "uwtn-c:258042": {
+  "text_es": "La palabra ⸢de nuevo⸣ podría modificar: (1) ⸢dice⸣. En este caso, ⸢de nuevo⸣ le dice a la audiencia que el autor está citando un texto importante ⸢de nuevo⸣. Traducción alternativa: «Pero, cuando trae al primogénito al mundo, de nuevo dice»; (2) ⸢trae⸣. En este caso, ⸢de nuevo⸣ le dice a la audiencia que el ⸢primogénito⸣ ya ha estado en ⸢el mundo⸣, y Dios lo está «trayendo» a él ⸢de nuevo⸣. El «traer» se referiría entonces a cómo Jesús regresa al cielo cuando asciende o cómo vuelve de nuevo a la tierra al final. Traducción alternativa: «Pero, cuando de nuevo trae al primogénito al mundo, dice»",
+  "lemas_es": [
+   "Pero de nuevo, cuando trae al primogénito al mundo, dice"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5f646948833b",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.6"
+   }
+  ]
+ },
+ "uwtn-c:258043": {
+  "text_es": "La frase ⸢el primogénito⸣ se refiere a Jesús. El autor se refiere a él como el ⸢primogénito⸣ para enfatizar su importancia y autoridad sobre todos los demás. No implica que hubo un tiempo antes de que Jesús existiera o que Dios lo dio a luz en algún momento. Más bien, implica que Jesús tiene hermanos adoptivos; ellos son todos los que creen en él. Si sería útil en su idioma, podría expresar el significado claramente. Traducción alternativa: «su Hijo honrado» o «su primer Hijo»",
+  "lemas_es": [
+   "el primogénito"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "54c7dd0f0adf",
+  "lemas_rv1909": [
+   {
+    "lema": "Primogénito",
+    "ref": "HEB.1.6"
+   }
+  ]
+ },
+ "uwtn-c:258044": {
+  "text_es": "La frase ⸢el mundo⸣ podría referirse a: (1) el «mundo que viene» (véase 2:5), que es el cielo o el mundo celestial. En este caso, el versículo se refiere a la ascensión de Jesús al cielo. Traducción alternativa: «al mundo venidero»; (2) este mundo tal como existe actualmente. En este caso, el versículo se refiere ya sea a la encarnación de Jesús o a su regreso a la tierra al final. Traducción alternativa: «a nuestro mundo»",
+  "lemas_es": [
+   "al mundo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0da1424cbfa4",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.6"
+   }
+  ]
+ },
+ "uwtn-c:258045": {
+  "text_es": "El autor de la cita usa un imperativo en tercera persona. Si usted tiene imperativos en tercera persona en su idioma, podría usar uno aquí. Si no tiene imperativos en tercera persona, podría expresar la idea usando una palabra o frase como «necesitan» o «deben». Traducción alternativa: «Y todos los ángeles de Dios necesitan adorarlo»",
+  "lemas_es": [
+   "Y adórenlo todos los ángeles de Dios"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ebf95c497f27",
+  "lemas_rv1909": [
+   {
+    "lema": "Y adórenle todos los ángeles de Dios",
+    "ref": "HEB.1.6"
+   }
+  ]
+ },
+ "uwtn:258042": {
+  "text_es": "La palabra ⸢de nuevo⸣ podría modificar: (1) ⸢dice⸣. En este caso, ⸢de nuevo⸣ le dice a la audiencia que el autor está citando un texto importante ⸢de nuevo⸣. («Pero, cuando trae al primogénito al mundo, de nuevo dice»); (2) ⸢trae⸣. En este caso, ⸢de nuevo⸣ le dice a la audiencia que el ⸢primogénito⸣ ya ha estado en ⸢el mundo⸣, y Dios lo está «trayendo» a él ⸢de nuevo⸣. El «traer» se referiría entonces a cómo Jesús regresa al cielo cuando asciende o cómo vuelve de nuevo a la tierra al final. («Pero, cuando de nuevo trae al primogénito al mundo, dice»)",
+  "lemas_es": [
+   "Pero de nuevo, cuando trae al primogénito al mundo, dice"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1b5d727b59b1",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.6"
+   }
+  ]
+ },
+ "uwtn:258044": {
+  "text_es": "La frase ⸢el mundo⸣ podría referirse a: (1) el «mundo que viene» (véase 2:5), que es el cielo o el mundo celestial. En este caso, el versículo se refiere a la ascensión de Jesús al cielo. («al mundo venidero»); (2) este mundo tal como existe actualmente. En este caso, el versículo se refiere ya sea a la encarnación de Jesús o a su regreso a la tierra al final. («a nuestro mundo»)",
+  "lemas_es": [
+   "al mundo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a2f9076e86cb",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.6"
+   }
+  ]
+ },
+ "uwtn-c:258046": {
+  "text_es": "El autor cita del Antiguo Testamento. No la introduce como una cita, sino como palabras que Dios ha hablado acerca de los ángeles. Sin embargo, la audiencia habría entendido que esta era una cita del Antiguo Testamento, aquí de la traducción griega del Salmo 104:4. Puesto que el autor introduce esta cita como palabras que Dios ha dicho acerca de los ángeles, usted debe introducir la cita como palabras que alguien ha dicho. Si sus lectores no sabrían que la cita es del Antiguo Testamento, podría incluir una nota al pie o usar alguna otra forma para identificar la cita. La palabra ⸢Y⸣ era una manera normal en la cultura del autor de introducir otra cita. Traducción alternativa: «Por un lado, con respecto a los ángeles, Dios declara»",
+  "lemas_es": [
+   "Y por un lado, con respecto a los ángeles, dice"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "52293a4d89c2",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.7"
+   }
+  ]
+ },
+ "uwtn-c:258047": {
+  "text_es": "La cita incluye dos declaraciones que significan casi lo mismo. Esto se consideraba buena poesía en la cultura del autor. Si esto no sería buena poesía en su cultura, y si la repetición resultara confusa, podría combinar las dos declaraciones. Traducción alternativa: «El que hace a sus ángeles espíritus, y a sus siervos llama de fuego»",
+  "lemas_es": [
+   "El que hace a sus ángeles espíritus, y a sus siervos llama de fuego"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a6ba7fd4bba3",
+  "corregido_por_juez": "La traducción alternativa no coincide: el inglés combina «his servant angels to be spirits and flames of fire», mientras que el español mantiene dos objetos separados («a sus ángeles... y a sus siervos...»).",
+  "lemas_rv1909": [
+   {
+    "lema": "El que hace a sus ángeles espíritus, y a sus ministros llama de fuego",
+    "ref": "HEB.1.7"
+   }
+  ]
+ },
+ "uwtn-c:258048": {
+  "text_es": "Las palabras ⸢El que⸣ y ⸢sus⸣ se refieren a Dios. Si sería útil en su idioma, podría hacer explícita la referencia. Traducción alternativa: «Dios hace a sus … sus»",
+  "lemas_es": [
+   "El que hace a sus & sus"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "26a054c4704f",
+  "lemas_rv1909": [
+   {
+    "lema": "El que hace",
+    "ref": "HEB.1.7"
+   }
+  ]
+ },
+ "uwtn-c:258049": {
+  "text_es": "El autor hace que Dios hable acerca de sí mismo en tercera persona. Usa esta forma porque la cita usa la tercera persona para hablar acerca de Dios, y el autor afirma que Dios pronuncia la cita. Si sería útil en su idioma, podría aclarar que Dios está hablando acerca de sí mismo. Traducción alternativa: «Yo soy el que hace a sus ángeles espíritus y a sus siervos llamas de fuego»",
+  "lemas_es": [
+   "El que hace a sus & sus"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "29897099645f",
+  "lemas_rv1909": [
+   {
+    "lema": "El que hace",
+    "ref": "HEB.1.7"
+   }
+  ]
+ },
+ "uwtn-c:258050": {
+  "text_es": "Aquí, la palabra traducida como ⸢espíritus⸣ podría referirse a: (1) «vientos», ya que la palabra podría significar ya sea ⸢espíritus⸣ o «vientos» en la cultura del autor. Traducción alternativa: «vientos»; (2) cómo Dios hizo a los ángeles para que fueran seres «espirituales». Traducción alternativa: «seres espirituales»",
+  "lemas_es": [
+   "espíritus"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9ebc21ced41d",
+  "lemas_rv1909": [
+   {
+    "lema": "espíritus",
+    "ref": "HEB.1.7"
+   }
+  ]
+ },
+ "uwtn-c:258051": {
+  "text_es": "El autor de la cita habla como si Dios convirtiera ⸢a sus ángeles⸣ en ⸢espíritus⸣ y en ⸢llamas de fuego⸣. Habla de esta manera para identificar cómo son los ángeles y para mostrar que Dios los hizo así. Si sería útil en su idioma, podría usar una forma que identifique cómo Dios hizo a los ángeles. Traducción alternativa: «El que hace a sus ángeles de modo que sean como espíritus, y a sus siervos de modo que sean como llamas de fuego»",
+  "lemas_es": [
+   "El que hace a sus ángeles espíritus, y a sus siervos llamas de fuego"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d81bd0bf32fd",
+  "lemas_rv1909": [
+   {
+    "lema": "El que hace a sus ángeles espíritus, y a sus ministros llama de fuego",
+    "ref": "HEB.1.7"
+   }
+  ]
+ },
+ "uwtn-c:258052": {
+  "text_es": "El autor usa la forma posesiva para describir ⸢llamas⸣ que están hechas de ⸢fuego⸣. Si sería útil en su idioma, podría expresar la idea con un adjetivo como «ardientes». Traducción alternativa: «llamas ardientes» o «llamas hechas de fuego»",
+  "lemas_es": [
+   "llamas de fuego"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9505164a1621",
+  "lemas_rv1909": [
+   {
+    "lema": "llama de fuego",
+    "ref": "HEB.1.7"
+   }
+  ]
+ },
+ "uwtn:258050": {
+  "text_es": "Aquí, la palabra traducida como ⸢espíritus⸣ podría referirse a: (1) «vientos», ya que la palabra podría significar ya sea ⸢espíritus⸣ o «vientos» en la cultura del autor. («vientos»); (2) cómo Dios hizo a los ángeles para que fueran seres «espirituales». («seres espirituales»)",
+  "lemas_es": [
+   "espíritus"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2946cd3c3a74",
+  "lemas_rv1909": [
+   {
+    "lema": "espíritus",
+    "ref": "HEB.1.7"
+   }
+  ]
+ },
+ "uwtn-c:258053": {
+  "text_es": "La palabra ⸢Pero⸣ introduce un contraste con lo que Dios dijo acerca de los ángeles en 1:7. El autor contrasta el hecho de que Dios ha creado a los ángeles con cómo el ⸢Hijo⸣ reina para siempre. Si sería útil en su idioma, podría usar una palabra o frase que introduzca este tipo de contraste. Traducción alternativa: «Sin embargo»,",
+  "lemas_es": [
+   "Pero"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "19aeb0580ad4",
+  "text_es_2": "La palabra ⸢Pero⸣ introduce un contraste con lo que Dios dijo acerca de los ángeles en 1:7. El autor contrasta el hecho de que Dios ha creado a los ángeles con cómo el ⸢Hijo⸣ reina para siempre. Si en su idioma resultara útil, podría usar una palabra o frase que introduzca este tipo de contraste. Traducción alternativa: «Sin embargo»,",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.8"
+   }
+  ]
+ },
+ "uwtn-c:258054": {
+  "text_es": "El autor está omitiendo algunas de las palabras que en muchos idiomas una oración necesitaría para estar completa. No incluye «dice» porque usó estas palabras en el versículo anterior (1:7). Si sería útil en su idioma, podría incluir «dice» aquí. Traducción alternativa: «con respecto al Hijo, dice»",
+  "lemas_es": [
+   "con respecto al Hijo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f77447bd5931",
+  "text_es_2": "El autor omite algunas palabras que en muchos idiomas una oración necesitaría para estar completa. No incluye «dice» porque usó estas palabras en el versículo anterior (1:7). Si en su idioma resultara útil, podría incluir «dice» aquí. Traducción alternativa: «con respecto al Hijo, dice»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.8"
+   }
+  ]
+ },
+ "uwtn-c:258055": {
+  "text_es": "Aquí y en el versículo siguiente, el autor cita del Antiguo Testamento. No la introduce como una cita, sino como palabras que Dios ha hablado acerca de su Hijo. Sin embargo, la audiencia habría entendido que esta era una cita del Antiguo Testamento, aquí del Salmo 45:6–7. Puesto que el autor introduce esta cita como palabras que Dios ha dicho acerca de su Hijo, usted debe introducir la cita como palabras que alguien ha dicho. Si sus lectores no sabrían que la cita es del Antiguo Testamento, podría incluir una nota al pie o usar alguna otra forma para identificar la cita. Traducción alternativa: «con respecto al Hijo, Dios declara»",
+  "lemas_es": [
+   "con respecto al Hijo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "748d9d346555",
+  "text_es_2": "Aquí y en el versículo siguiente, el autor cita del Antiguo Testamento. No la introduce como una cita, sino como palabras que Dios ha hablado acerca de su Hijo. Sin embargo, la audiencia habría entendido que esta era una cita del Antiguo Testamento, aquí del Salmo 45:6–7. Puesto que el autor introduce esta cita como palabras que Dios ha dicho acerca de su Hijo, usted debería introducir la cita como palabras que alguien ha dicho. Si sus lectores no supieran que la cita es del Antiguo Testamento, podría incluir una nota al pie o usar alguna otra forma para identificar la cita. Traducción alternativa: «con respecto al Hijo, Dios declara»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.8"
+   }
+  ]
+ },
+ "uwtn-c:258056": {
+  "text_es": "Aquí, la frase ⸢con respecto a⸣ podría indicar que: (1) Dios está hablando acerca del ⸢Hijo⸣. Traducción alternativa: «acerca del Hijo»; (2) Dios está hablando directamente al ⸢Hijo⸣. Traducción alternativa: «al Hijo»",
+  "lemas_es": [
+   "con respecto al Hijo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "dfd3c699effd",
+  "text_es_2": "Aquí, la frase ⸢con respecto a⸣ podría indicar que: (1) Dios está hablando acerca del ⸢Hijo⸣. Traducción alternativa: «acerca del Hijo»; (2) Dios está hablando directamente al ⸢Hijo⸣. Traducción alternativa: «al Hijo»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.8"
+   }
+  ]
+ },
+ "uwtn-c:258057": {
+  "text_es": "La palabra ⸢Hijo⸣ es un título importante para Jesús, el Hijo de Dios.",
+  "lemas_es": [
+   "el Hijo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f8ed445f0f82",
+  "text_es_2": "La palabra ⸢Hijo⸣ es un título importante para Jesús, el Hijo de Dios.",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "hijo",
+    "ref": "HEB.1.8"
+   }
+  ]
+ },
+ "uwtn-c:258058": {
+  "text_es": "Puesto que la palabra ⸢Tu⸣ se refiere a una sola persona, el ⸢Hijo⸣, es singular aquí.",
+  "lemas_es": [
+   "Tu"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4ad0ee3c8987",
+  "text_es_2": "Puesto que la palabra ⸢Tu⸣ se refiere a una sola persona, el ⸢Hijo⸣, aquí es singular.",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "Tu",
+    "ref": "HEB.1.8"
+   }
+  ]
+ },
+ "uwtn-c:258059": {
+  "text_es": "Puesto que un ⸢trono⸣ es un asiento especial reservado solo para un rey, que gobierna, aquí la palabra ⸢trono⸣ se refiere a lo que hace la persona que está en el ⸢trono⸣, es decir, gobernar. Si fuera útil en su idioma, podría expresar la idea refiriéndose a «gobernar» o «reinar». Traducción alternativa: «Tu reinado»",
+  "lemas_es": [
+   "Tu trono"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3633196d36a1",
+  "text_es_2": "Puesto que un ⸢trono⸣ es un asiento especial reservado solo para un rey, que reina, aquí la palabra ⸢trono⸣ se refiere a lo que hace la persona en el ⸢trono⸣, que es reinar. Si en su idioma resultara útil, podría expresar la idea refiriéndose a «reinar» o «reino». Traducción alternativa: «Tu reinado»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "corregido_por_juez": "El inglés sugiere los sustantivos «rule»/«reign»; el español usa los verbos «reinar»/«gobernar», cambiando la forma y la coincidencia con «Tu reinado».",
+  "lemas_rv1909": [
+   {
+    "lema": "Tu trono",
+    "ref": "HEB.1.8"
+   }
+  ]
+ },
+ "uwtn-c:258060": {
+  "text_es": "La palabra ⸢Dios⸣ se dirige directamente y nombra a aquel a quien se refiere la palabra ⸢tu⸣ en la cita. Use una forma en su idioma que indique vocativo directo. Traducción alternativa: «Oh Dios» o «tú que eres Dios»",
+  "lemas_es": [
+   "Dios"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "35c561913f6f",
+  "text_es_2": "La palabra ⸢Dios⸣ se dirige directamente y nombra a aquel a quien se refiere la palabra ⸢tu⸣ en la cita. Use una forma en su idioma que indique que se está dirigiendo directamente a alguien. Traducción alternativa: «Oh Dios» o «tú que eres Dios»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "Dios",
+    "ref": "HEB.1.8"
+   }
+  ]
+ },
+ "uwtn-c:258061": {
+  "text_es": "La frase ⸢por los siglos de los siglos⸣ indica que algo dura para siempre o no llega a su fin. Las palabras ⸢de los siglos⸣ se añaden a la palabra ⸢siglos⸣ para enfatizar cuánto dura ⸢para siempre⸣. Si sería útil en su idioma, podría usar una expresión comparable o expresar la idea claramente. Traducción alternativa: «dura para siempre» o «nunca termina»",
+  "lemas_es": [
+   "es por los siglos de los siglos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b23d1df6574a",
+  "text_es_2": "La frase ⸢por el siglo del siglo⸣ indica que algo dura para siempre o no llega a su fin. Las palabras ⸢del siglo⸣ se añaden a la palabra ⸢siglo⸣ para enfatizar cuánto dura ⸢siglo⸣. Si en su idioma resultara útil, podría usar una expresión comparable o expresar la idea claramente. Traducción alternativa: «dura para siempre» o «nunca termina»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.8"
+   }
+  ]
+ },
+ "uwtn-c:258062": {
+  "text_es": "La palabra ⸢cetro⸣ se refiere al dominio de la persona que tiene el ⸢cetro⸣. Si en su idioma sería útil, podría expresar la idea refiriéndose al «dominio» o «reinado» de la persona. Traducción alternativa: «el dominio de la justicia es el dominio de su reino»",
+  "lemas_es": [
+   "el cetro de justicia es el cetro de su reino"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "dd0041c2f61b",
+  "text_es_2": "La palabra ⸢cetro⸣ se refiere al gobierno de la persona que tiene el ⸢cetro⸣. Si en su idioma resultara útil, podría expresar la idea refiriéndose al «gobierno» o «reinado» de la persona. Traducción alternativa: «el gobierno de justicia es el gobierno de su reino»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.8"
+   }
+  ]
+ },
+ "uwtn-c:258063": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢justicia⸣, podría expresar la idea usando un adjetivo como «justo». Traducción alternativa: «un cetro justo»",
+  "lemas_es": [
+   "el cetro de justicia"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ff5095113e04",
+  "text_es_2": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢justicia⸣, podría expresar la idea usando un adjetivo como «justo». Traducción alternativa: «un cetro justo»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.8"
+   }
+  ]
+ },
+ "uwtn-c:258064": {
+  "text_es": "El autor se refiere al ⸢Hijo⸣ en tercera persona en lugar de en segunda persona. Sigue refiriéndose a la misma persona. Si en su idioma sería útil, podría seguir usando ⸢tú⸣ en su lugar. Traducción alternativa: «tu»",
+  "lemas_es": [
+   "su"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1ecbe47f5e92",
+  "text_es_2": "El autor se refiere al ⸢Hijo⸣ en tercera persona en lugar de en segunda persona. Sigue refiriéndose a la misma persona. Si en su idioma resultara útil, podría seguir usando ⸢tú⸣ en su lugar. Traducción alternativa: «tu»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.8"
+   }
+  ]
+ },
+ "uwtn-c:258065": {
+  "text_es": "La mayoría de los manuscritos posteriores tienen «tu» aquí en lugar de ⸢su⸣. Sin embargo, los manuscritos más antiguos tienen ⸢su⸣, y los escribas posteriores probablemente lo cambiaron a «tu» para ser coherentes con el resto de la cita. A menos que haya una buena razón para no usar ⸢su⸣, debe seguir la ULT aquí.",
+  "lemas_es": [
+   "su"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d9e2af46f344",
+  "text_es_2": "La mayoría de los manuscritos posteriores tienen «tu» aquí en lugar de ⸢su⸣. Sin embargo, los manuscritos más antiguos tienen ⸢su⸣, y los escribas posteriores probablemente lo cambiaron a «tu» para ser consistentes con el resto de la cita. A menos que haya una buena razón para no usar ⸢su⸣, debería seguir la ULT aquí.",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.8"
+   }
+  ]
+ },
+ "uwtn:258056": {
+  "text_es": "Aquí, la frase ⸢con respecto a⸣ podría indicar que: (1) Dios está hablando acerca del ⸢Hijo⸣. («en cuanto al Hijo»); (2) Dios está hablando directamente al ⸢Hijo⸣. («al Hijo»)",
+  "lemas_es": [
+   "con respecto al Hijo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4dca0ae269b4",
+  "text_es_2": "Aquí, la frase ⸢con respecto a⸣ podría indicar que: (1) Dios está hablando acerca del ⸢Hijo⸣. («acerca del Hijo»); (2) Dios está hablando directamente al ⸢Hijo⸣. («al Hijo»)",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.8"
+   }
+  ]
+ },
+ "uwtn:258057": {
+  "text_es": "La palabra ⸢Hijo⸣ es un título importante para Jesús, el Hijo de Dios.",
+  "lemas_es": [
+   "el Hijo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f8ed445f0f82",
+  "text_es_2": "La palabra ⸢Hijo⸣ es un título importante para Jesús, el Hijo de Dios.",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "hijo",
+    "ref": "HEB.1.8"
+   }
+  ]
+ },
+ "uwtn-c:258066": {
+  "text_es": "Puesto que las palabras ⸢Tú⸣, ⸢tu⸣, ⸢tú⸣ y ⸢tu⸣ se refieren a una sola persona, el Hijo, todas las formas de ⸢tú⸣ en este versículo son singulares.",
+  "lemas_es": [
+   "Amaste & aborreciste & tu & te & tu"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3b56d1b84680",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.9"
+   }
+  ]
+ },
+ "uwtn-c:258067": {
+  "text_es": "Si su idioma no usa sustantivos abstractos para las ideas de ⸢justicia⸣ e ⸢iniquidad⸣, podría expresar la idea usando adjetivos o adverbios. Traducción alternativa: «lo que es justo … lo que es inicuo» o «lo que las personas hacen con justicia … lo que las personas hacen con iniquidad»",
+  "lemas_es": [
+   "justicia e iniquidad"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "349f405d1305",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.9"
+   }
+  ]
+ },
+ "uwtn-c:258068": {
+  "text_es": "Aquí la cita repite la palabra ⸢Dios⸣ para enfatizar que ⸢Dios⸣ es quien «unge» y también para identificarlo como ⸢tu Dios⸣, lo que significa que él es el ⸢Dios⸣ a quien ⸢tú⸣ sirves. Si la repetición resultara confusa en su idioma, podría expresar la idea usando ⸢Dios⸣ una sola vez y enfatizando la frase de otra manera. Traducción alternativa: «el Dios a quien sirves ha ungido»",
+  "lemas_es": [
+   "Dios, tu Dios, te ha ungido"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "dacd21c2757b",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.9"
+   }
+  ]
+ },
+ "uwtn-c:258069": {
+  "text_es": "Puesto que ⸢Dios⸣ es quien pronuncia esta cita, se refiere a sí mismo en tercera persona aquí. Si en su idioma sería útil, podría usar la primera persona aquí para aclarar que este no es otro ⸢Dios⸣. Traducción alternativa: «yo, que soy tu Dios, he ungido»",
+  "lemas_es": [
+   "Dios, tu Dios, te ha ungido"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e5dbf65dd10c",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.9"
+   }
+  ]
+ },
+ "uwtn-c:258070": {
+  "text_es": "En la cultura del autor, las personas a menudo eran ⸢ungidas⸣ con ⸢aceite⸣ cuando recibían autoridad o poder especiales, incluso cuando una persona llegaba a ser rey. Aquí el autor aplica esta «unción» al Hijo. En esta situación, se refiere a cómo Dios ha exaltado al Hijo y le ha dado poder y autoridad. La frase ⸢aceite de alegría⸣ se refiere a cómo la «unción» conduce a la ⸢alegría⸣ o resulta en ella. Si en su idioma sería útil, podría expresar el significado claramente. Traducción alternativa: «te ha honrado y te ha dado poder para que te alegres»",
+  "lemas_es": [
+   "te ha ungido con aceite de alegría"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "af844571ad42",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.9"
+   }
+  ]
+ },
+ "uwtn-c:258071": {
+  "text_es": "Aquí la cita usa la forma posesiva para mostrar que el ⸢aceite⸣ conduce a la ⸢alegría⸣. Si en su idioma sería útil, podría expresar la idea con una palabra o frase que indique resultado. Traducción alternativa: «con el aceite que conduce a la alegría»",
+  "lemas_es": [
+   "con aceite de alegría"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2e35f35e4ad9",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.9"
+   }
+  ]
+ },
+ "uwtn-c:258072": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢exultación⸣, podría expresar la idea usando un verbo como «exultar» o «regocijarse». Traducción alternativa: «que te hace regocijar» o «que te causa exultar»",
+  "lemas_es": [
+   "de exultación"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1adb01d0e511",
+  "corregido_por_juez": "La segunda traducción alternativa traduce «causes you to exult» como «te causa alegría», usando un sustantivo abstracto en lugar del verbo «exultar/regocijarse» que el comentario pide.",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.9"
+   }
+  ]
+ },
+ "uwtn-c:258073": {
+  "text_es": "Aquí el autor no aclara quiénes son los ⸢compañeros⸣. En el contexto de la cita, probablemente se referían a otras personas de la familia real que no llegaron a ser reyes. En el contexto de Hebreos, probablemente se refieren a quienes creen en Jesús. Dios los salva, pero no los sienta a su diestra como hace con Jesús. Sin embargo, ni la cita ni el autor de Hebreos declaran explícitamente quiénes son los ⸢compañeros⸣, así que debe dejar su identidad sin especificar si es posible. Traducción alternativa: «quienes están contigo»",
+  "lemas_es": [
+   "tus compañeros"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7aca799b51d5",
+  "lemas_rv1909": [
+   {
+    "lema": "tus compañeros",
+    "ref": "HEB.1.9"
+   }
+  ]
+ },
+ "uwtn-c:258074": {
+  "text_es": "Aquí y en los dos versículos siguientes, el autor cita del Antiguo Testamento. Usa ⸢Y⸣ para indicar que estas son más palabras que Dios dice «con respecto al Hijo» (ver: 1:8). La audiencia habría entendido que esto era una cita del Antiguo Testamento, aquí del Salmo 102:25–27. Puesto que el autor introduce esta cita como palabras que Dios ha dicho acerca del Hijo, debe introducir la cita como palabras que alguien ha dicho. Si sus lectores no supieran que la cita es del Antiguo Testamento, podría incluir una nota al pie o usar alguna otra forma de identificar la cita. Traducción alternativa: «Dios dice además:»",
+  "lemas_es": [
+   "Y"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "aa2afbd46bc7",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.10"
+   }
+  ]
+ },
+ "uwtn-c:258075": {
+  "text_es": "Esta parte de la cita incluye dos declaraciones que significan casi lo mismo. Una declaración usa lenguaje de ⸢tierra⸣, y la otra usa lenguaje de ⸢cielos⸣. Esto se consideraba buena poesía en la cultura del autor, y ⸢cielos⸣ y ⸢tierra⸣ juntos se refieren a todo lo que Dios hizo. Si esto no fuera buena poesía en su cultura, y si la repetición resultara confusa, podría combinar las dos declaraciones. Traducción alternativa: «según los principios, oh Señor, fundaste la tierra y los cielos» o «según los principios, oh Señor, hiciste todo, tanto la tierra como los cielos»",
+  "lemas_es": [
+   "según los principios, Señor, fundaste la tierra, y los cielos son obra de tus manos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f51a6d4c801f",
+  "lemas_rv1909": [
+   {
+    "lema": "Señor, en el principio fundaste la tierra; y los cielos son obras de tus manos",
+    "ref": "HEB.1.10"
+   }
+  ]
+ },
+ "uwtn-c:258076": {
+  "text_es": "Puesto que las palabras ⸢tú⸣ y ⸢tu⸣ se refieren a una sola persona, el Hijo, ⸢tú⸣ y ⸢tu⸣ son singulares aquí.",
+  "lemas_es": [
+   "tú fundaste & tu"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b1a25e744f59",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.10"
+   }
+  ]
+ },
+ "uwtn-c:258077": {
+  "text_es": "Aquí, la frase ⸢según los principios⸣ se refiere a cuando todas las cosas creadas llegaron a existir por primera vez. En otras palabras, los ⸢principios⸣ identifican el tiempo cuando Dios creó el universo. Si en su idioma sería útil, podría hacer esta idea más explícita. Traducción alternativa: «cuando todo comenzó a existir» o «al principio de la creación»",
+  "lemas_es": [
+   "según los principios"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9ae251516ac4",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.10"
+   }
+  ]
+ },
+ "uwtn-c:258078": {
+  "text_es": "La palabra ⸢Señor⸣ se dirige directamente y nombra quién es ⸢tú⸣ en la cita. Use una forma en su idioma que indique vocativo. Traducción alternativa: «oh Señor»",
+  "lemas_es": [
+   "Señor"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e8746dea72b6",
+  "lemas_rv1909": [
+   {
+    "lema": "Señor",
+    "ref": "HEB.1.10"
+   }
+  ]
+ },
+ "uwtn-c:258079": {
+  "text_es": "Aquí la cita se refiere a ⸢la tierra⸣ como si fuera un edificio que fue puesto sobre un «fundamento». El ⸢Señor⸣ es quien puso ⸢la tierra⸣ sobre su fundamento o la ⸢fundó⸣. El autor de las citas habla así para mostrar que el ⸢Señor⸣ es quien creó y sostiene ⸢la tierra⸣. Si en su idioma sería útil, podría expresar el significado claramente. Traducción alternativa: «estableciste perfectamente la tierra» o «hiciste la tierra»",
+  "lemas_es": [
+   "fundaste la tierra"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ce8dc20f0e6a",
+  "lemas_rv1909": [
+   {
+    "lema": "fundaste la tierra",
+    "ref": "HEB.1.10"
+   }
+  ]
+ },
+ "uwtn-c:258080": {
+  "text_es": "Aquí, la palabra ⸢manos⸣ se refiere al poder y la acción que una persona tiene para hacer ⸢obras⸣. Si en su idioma sería útil, podría expresar la idea claramente. Traducción alternativa: «de tu poder» o «que hiciste poderosamente»",
+  "lemas_es": [
+   "de tus manos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "edf8edcc50a7",
+  "lemas_rv1909": [
+   {
+    "lema": "de tus manos",
+    "ref": "HEB.1.10"
+   }
+  ]
+ },
+ "uwtn:258077": {
+  "text_es": "Aquí, la frase ⸢según los principios⸣ se refiere a cuando todas las cosas creadas llegaron a existir por primera vez. En otras palabras, los ⸢principios⸣ identifican el tiempo cuando Dios creó el universo.",
+  "lemas_es": [
+   "según los principios"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6353188c0bf3",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.10"
+   }
+  ]
+ },
+ "uwtn-c:258081": {
+  "text_es": "Las palabras ⸢Ellos⸣ y ⸢ellos⸣ se refieren a la «tierra» y los «cielos» mencionados en 1:10, que juntos se refieren a todo lo que Dios ha hecho. Si en su idioma sería útil, podría aclarar a qué se refieren ⸢Ellos⸣ y ⸢ellos⸣. Traducción alternativa: «La tierra y los cielos mismos perecerán … todos ellos se envejecerán» o «Toda cosa creada misma perecerá … cada una de ellas se envejecerá»",
+  "lemas_es": [
+   "Ellos mismos perecerán & todos ellos se envejecerán"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "52878f201a3e",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.11"
+   }
+  ]
+ },
+ "uwtn-c:258082": {
+  "text_es": "Las palabras traducidas como ⸢mismos⸣ y ⸢mismo⸣ enfatizan el contraste entre «ellos» y «tú». Considere usar una manera natural de enfatizar este contraste en su idioma. Traducción alternativa: «Ellos son los que perecerán, pero tú eres el que continuará»",
+  "lemas_es": [
+   "Ellos mismos perecerán, pero tú mismo continuarás"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "849e53d7a01b",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.11"
+   }
+  ]
+ },
+ "uwtn-c:258083": {
+  "text_es": "Puesto que la frase ⸢tú mismo⸣ se refiere a una sola persona, el Hijo, ⸢tú mismo⸣ es singular aquí.",
+  "lemas_es": [
+   "tú mismo continuarás"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "abebee4688de",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.11"
+   }
+  ]
+ },
+ "uwtn-c:258084": {
+  "text_es": "El autor de la cita compara los cielos y la tierra con una prenda de vestir que se envejece y finalmente se vuelve inútil. Al hablar así, ilustra cómo todo lo que Dios ha creado finalmente se desmoronará. Si en su idioma sería útil, podría usar un símil comparable o expresar la idea claramente. Traducción alternativa: «todos ellos se desmoronarán como una camisa vieja» o «finalmente llegarán a nada»",
+  "lemas_es": [
+   "todos ellos se envejecerán como una vestidura"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d91f95278a74",
+  "lemas_rv1909": [
+   {
+    "lema": "todos ellos se envejecerán como una vestidura",
+    "ref": "HEB.1.11"
+   }
+  ]
+ },
+ "uwtn-c:258085": {
+  "text_es": "Puesto que las palabras ⸢tú⸣, ⸢mismo⸣ y ⸢tu⸣ se refieren a una sola persona, el Hijo, todas las formas de ⸢tú⸣ en este versículo son singulares.",
+  "lemas_es": [
+   "enrollarás & como & tú mismo eres & tu"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5fb27f1d6222",
+  "lemas_rv1909": [
+   {
+    "lema": "tú eres el mismo",
+    "ref": "HEB.1.12"
+   }
+  ]
+ },
+ "uwtn-c:258086": {
+  "text_es": "Tal como en el versículo anterior, las palabras ⸢ellos⸣ y ⸢ellos⸣ aquí se refieren a la «tierra» y los «cielos», que identifican todo lo que Dios ha creado. Si fuera útil en su idioma, podría explicitar a qué se refieren ⸢ellos⸣ y ⸢ellos⸣. Traducción alternativa: «la tierra y los cielos … serán cambiados» o «todas las cosas creadas … serán cambiadas»",
+  "lemas_es": [
+   "ellos y ellos serán cambiados"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "95d810d522bf",
+  "corregido_por_juez": "Traduce «them» como «ellos»; en español el pronombre de objeto directo correspondiente es «los», no «ellos».",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.12"
+   }
+  ]
+ },
+ "uwtn-c:258087": {
+  "text_es": "La cita incluye dos declaraciones que significan casi lo mismo. Una declaración usa lenguaje de ⸢manto⸣ y «enrollar», y la otra usa lenguaje de ⸢vestidura⸣ y «cambiar». Esto se consideraba buena poesía en la cultura del autor. Si esto no fuera buena poesía en su cultura, y si la repetición resultara confusa, podría combinar las dos declaraciones. Traducción alternativa: «Y como un manto los cambiarás» o «Y como una vestidura serán enrollados y cambiados»",
+  "lemas_es": [
+   "y como un manto los enrollarás, y como una vestidura serán cambiados"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "094beda410e9",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.12"
+   }
+  ]
+ },
+ "uwtn-c:258088": {
+  "text_es": "El autor continúa comparando los cielos y la tierra con ropa, en este caso un ⸢manto⸣ o una ⸢vestidura⸣. Ambas palabras se refieren a ropa exterior. Ambos símiles describen lo que una persona haría con una prenda sucia o vieja. Se la cambiaría, y la ⸢enrollaría⸣ para lavarla o tirarla. El autor de la cita usa este símil para mostrar que Dios quitará y reemplazará lo que ha creado con la misma facilidad con que una persona se cambia una prenda exterior. Si en su idioma sería útil, podría usar un símil comparable o expresar la idea claramente. Traducción alternativa: «como una camisa gastada los arrojarás a un rincón, y como una camisa vieja serán quitados» o «los quitarás, y serán intercambiados»",
+  "lemas_es": [
+   "como un manto los enrollarás, y como una vestidura serán cambiados"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0d3aaa43f779",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.12"
+   }
+  ]
+ },
+ "uwtn-c:258089": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en ⸢ellos⸣ que son ⸢cambiados⸣ en lugar de en la persona que hace el cambio. Si debe indicar quién realiza la acción, el autor implica que el Señor lo hace. Traducción alternativa: «y como una vestidura los cambiarás»",
+  "lemas_es": [
+   "y como una vestidura serán cambiados"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "25e0d7cb348c",
+  "lemas_rv1909": [
+   {
+    "lema": "vestido los envolverás, y serán",
+    "ref": "HEB.1.12"
+   }
+  ]
+ },
+ "uwtn-c:258090": {
+  "text_es": "La cita incluye dos declaraciones que significan casi lo mismo. Una declaración se refiere a cómo el Señor permanece ⸢el mismo⸣, y la otra se refiere a cómo sus ⸢años no fallarán⸣. Esto se consideraba buena poesía en la cultura del autor. Si esto no sería buena poesía en su cultura, y si la repetición resultaría confusa, podría combinar las dos declaraciones. Traducción alternativa: «tú permaneces vivo para siempre» o «tú mismo eres siempre el mismo»",
+  "lemas_es": [
+   "tú mismo eres el mismo, y tus años no fallarán"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2739700e025f",
+  "lemas_rv1909": [
+   {
+    "lema": "tú eres el mismo, y tus años",
+    "ref": "HEB.1.12"
+   }
+  ]
+ },
+ "uwtn-c:258091": {
+  "text_es": "La palabra traducida como ⸢tú mismo⸣ enfatiza el contraste entre «ellos» y «tú». Considere usar una manera natural de enfatizar este contraste en su idioma. Traducción alternativa: «eres tú quien eres»",
+  "lemas_es": [
+   "tú mismo eres"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "de06f5f666bd",
+  "lemas_rv1909": [
+   {
+    "lema": "tú eres el mismo",
+    "ref": "HEB.1.12"
+   }
+  ]
+ },
+ "uwtn-c:258092": {
+  "text_es": "La frase ⸢tus años no fallarán⸣ significa que una persona está viva durante cada «año». Nunca se le acabarán los ⸢años⸣, lo que significa que siempre está viva. Si sería útil en su idioma, podría usar una frase que indique que una persona nunca muere o siempre vive. Traducción alternativa: «tu vida nunca terminará» o «nunca se te acabarán los años»",
+  "lemas_es": [
+   "tus años no fallarán"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "acf6307f1c00",
+  "lemas_rv1909": [
+   {
+    "lema": "tus años",
+    "ref": "HEB.1.12"
+   }
+  ]
+ },
+ "uwtn-c:258093": {
+  "text_es": "El autor cita del Antiguo Testamento. No la introduce como una cita, sino como palabras que Dios ha dicho a su Hijo, no a los ángeles. Sin embargo, la audiencia habría entendido que esta era una cita del Antiguo Testamento, específicamente del Salmo 110:1. Puesto que el autor introduce la cita como palabras que Dios ha dicho a su Hijo, no a los ángeles, usted debería introducir las citas como palabras que alguien ha dicho o no ha dicho. Si sus lectores no supieran que la cita es del Antiguo Testamento, podría incluir una nota al pie o usar alguna otra forma de identificar la cita. Traducción alternativa: «Pero, ¿a cuál de los ángeles ha dicho alguna vez las palabras»",
+  "lemas_es": [
+   "Pero, ¿a cuál de los ángeles ha dicho alguna vez"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "12eb61470a4a",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.13"
+   }
+  ]
+ },
+ "uwtn-c:258094": {
+  "text_es": "El autor no hace esta pregunta porque esté buscando información. Más bien, la hace para involucrar a la audiencia en lo que está argumentando. La pregunta supone que la respuesta es «ninguno de ellos», pues Dios solo dijo estas palabras a su propio Hijo. Si sería útil en su idioma, podría expresar la idea con una negación fuerte. Vea cómo tradujo la pregunta similar en 1:5. Traducción alternativa: «Pero Dios nunca ha dicho a ninguno de los ángeles: “Siéntate a mi diestra hasta que ponga a tus enemigos por estrado de tus pies.”»",
+  "lemas_es": [
+   "Pero, ¿a cuál de los ángeles ha dicho alguna vez: “Siéntate a mi diestra hasta que ponga a tus enemigos por estrado de tus pies”"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "64ab843b0277",
+  "lemas_rv1909": [
+   {
+    "lema": "a cuál de los ángeles dijo jamás: Siéntate a mi diestra, hasta que ponga a tus enemigos por estrado de tus pies",
+    "ref": "HEB.1.13"
+   }
+  ]
+ },
+ "uwtn-c:258095": {
+  "text_es": "Aquí, ⸢él⸣ se refiere a Dios el Padre. Si sería útil en su idioma, podría hacer explícito a qué se refiere ⸢él⸣. Traducción alternativa: «ha dicho Dios alguna vez»",
+  "lemas_es": [
+   "ha dicho él alguna vez"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "15bd3acb5c9c",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.13"
+   }
+  ]
+ },
+ "uwtn-c:258096": {
+  "text_es": "Puesto que las palabras ⸢Siéntate⸣ y ⸢tu⸣ se refieren a una sola persona, el Hijo, todas las formas de «tú» en este versículo son singulares.",
+  "lemas_es": [
+   "Siéntate & tu & tu"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d6d6cc3ef73e",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.13"
+   }
+  ]
+ },
+ "uwtn-c:258097": {
+  "text_es": "Cuando alguien se sienta a la ⸢diestra⸣ de Dios, esa posición simboliza el honor, la autoridad y la capacidad de gobernar de esa persona. Si sería útil en su idioma, podría hacer esta idea más explícita. Vea cómo tradujo las palabras similares en 1:3. Traducción alternativa: «Siéntate a reinar a mi diestra» o «Toma el lugar de honor y autoridad a mi diestra»",
+  "lemas_es": [
+   "Siéntate a mi diestra"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "62f14d6a1b28",
+  "lemas_rv1909": [
+   {
+    "lema": "Siéntate a mi diestra",
+    "ref": "HEB.1.13"
+   }
+  ]
+ },
+ "uwtn-c:258098": {
+  "text_es": "La frase ⸢a mi diestra⸣ se refiere al lugar junto a la ⸢mano derecha⸣ de una persona, que sería el «lado derecho». En la cultura del autor, este lado se asociaba con el honor o la autoridad. Si sería útil en su idioma, podría referirse al «lado derecho». Asegúrese de que sus lectores entiendan que este lado indica que el Hijo tiene honor y autoridad cuando se sienta allí. Traducción alternativa: «a mi lado derecho» o «en el lugar honorable junto a mí»",
+  "lemas_es": [
+   "a mi diestra"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "364815762cf3",
+  "lemas_rv1909": [
+   {
+    "lema": "a mi diestra",
+    "ref": "HEB.1.13"
+   }
+  ]
+ },
+ "uwtn-c:258099": {
+  "text_es": "El autor de la cita habla como si los ⸢enemigos⸣ del Hijo pudieran llegar a ser un ⸢estrado⸣ sobre el cual él pudiera poner sus ⸢pies⸣. En la cultura del autor, algo que está bajo los ⸢pies⸣ de uno ha sido conquistado y está sin poder y avergonzado, así que esto significa que Dios conquistará y avergonzará a todos los ⸢enemigos⸣ del Hijo. Si sería útil en su idioma, podría expresar el significado de manera clara. Traducción alternativa: «hasta que haga que tus enemigos se arrodillen ante ti» o «hasta que conquiste y avergüence a tus enemigos»",
+  "lemas_es": [
+   "hasta que ponga a tus enemigos por estrado de tus pies"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "07d782beb99d",
+  "lemas_rv1909": [
+   {
+    "lema": "hasta que ponga a tus enemigos por estrado de tus pies",
+    "ref": "HEB.1.13"
+   }
+  ]
+ },
+ "uwtn:258097": {
+  "text_es": "Cuando alguien se sienta a la ⸢diestra⸣ de Dios, esa posición simboliza el honor, la autoridad y la capacidad de gobernar de esa persona.",
+  "lemas_es": [
+   "Siéntate a mi diestra"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9078c6f42526",
+  "lemas_rv1909": [
+   {
+    "lema": "Siéntate a mi diestra",
+    "ref": "HEB.1.13"
+   }
+  ]
+ },
+ "uwtn-c:258100": {
+  "text_es": "El autor no hace esta pregunta porque esté buscando información. Más bien, la hace para involucrar a la audiencia en lo que está argumentando. La pregunta supone que la respuesta es «sí, lo son». Si sería útil en su idioma, podría expresar la idea con una afirmación fuerte. Traducción alternativa: «Lo que es verdad es que todos son espíritus ministradores, enviados para servicio por causa de los que van a heredar la salvación.»",
+  "lemas_es": [
+   "¿No son todos espíritus ministradores, enviados para servicio por causa de los que van a heredar la salvación?"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8c36da65992b",
+  "lemas_rv1909": [
+   {
+    "lema": "No son todos espíritus administradores, enviados para servicio a favor de los que serán herederos",
+    "ref": "HEB.1.14"
+   }
+  ]
+ },
+ "uwtn-c:258101": {
+  "text_es": "Aquí, ⸢ellos⸣ se refiere a los «ángeles» en 1:13. Si sería útil en su idioma, podría referirse a los «ángeles» explícitamente. Traducción alternativa: «¿Son los ángeles»",
+  "lemas_es": [
+   "¿Son ellos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2844d43d1ecf",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.14"
+   }
+  ]
+ },
+ "uwtn-c:258102": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en los ángeles que son ⸢enviados⸣ más que en la persona que los envía. Si debe indicar quién realiza la acción, el autor implica que Dios la realiza. Traducción alternativa: «aquellos a quienes Dios envió»",
+  "lemas_es": [
+   "siendo enviados"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "345d527711f3",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.14"
+   }
+  ]
+ },
+ "uwtn-c:258103": {
+  "text_es": "El autor habla como si los creyentes fueran hijos que recibirían propiedad que un padre transmite a su hijo cuando el padre muere. Habla de esta manera para indicar que los creyentes reciben ⸢salvación⸣ de Dios. Si sería útil en su idioma, podría expresar el significado de manera clara. Traducción alternativa: «recibir salvación de Dios» o «que Dios les dé la salvación»",
+  "lemas_es": [
+   "heredar la salvación"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c523e82effe5",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.14"
+   }
+  ]
+ },
+ "uwtn-c:258104": {
+  "text_es": "Traducción alternativa: «los que están a punto de» o «los que están destinados a»",
+  "lemas_es": [
+   "los que van"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6004d31ca0de",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.14"
+   }
+  ]
+ },
+ "uwtn-c:258105": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢salvación⸣, podría expresar la idea usando un verbo como «salvar». En este caso, es posible que necesite encontrar otra manera de expresar la idea detrás de ⸢heredar⸣. Traducción alternativa: «ser salvados como un regalo de Dios»",
+  "lemas_es": [
+   "heredar la salvación"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1b173927b718",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.1.14"
+   }
+  ]
  }
 }

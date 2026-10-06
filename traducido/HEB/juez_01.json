@@ -327,5 +327,1307 @@
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
   "huella": "211599d9149c"
+ },
+ "calvino:HEB.1.1#arg": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e9f5ed89fc40"
+ },
+ "calvino:HEB.1.1#1": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "cc3f57a217f2"
+ },
+ "calvino:HEB.1.2#2": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "567a0065f754"
+ },
+ "calvino:HEB.1.3#3": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "f51a03d31a0f"
+ },
+ "calvino:HEB.1.4#4": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "7b0773cc6844"
+ },
+ "calvino:HEB.1.5#5": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "f104b34c1a52"
+ },
+ "calvino:HEB.1.6#6": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "ed425fc0940d"
+ },
+ "calvino:HEB.1.7#7": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "3c1e70892565"
+ },
+ "calvino:HEB.1.8#8": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b8918512f320"
+ },
+ "calvino:HEB.1.9#9": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "f6952f962b2f"
+ },
+ "calvino:HEB.1.10#10": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "cb04934c1551"
+ },
+ "calvino:HEB.1.13#11": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "eb9ad3f5fe81"
+ },
+ "uwtn:258011": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "1e808287f1ae"
+ },
+ "uwtn:258014": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "8535fdaa17f8"
+ },
+ "uwtn:258023": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "18c34bab2f95"
+ },
+ "uwtn:258026": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "28adbba3d7e3"
+ },
+ "uwtn:258027": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "60a37e89039e"
+ },
+ "uwtn:258028": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "0e56d3191d27"
+ },
+ "uwtn:258035": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "c185de0671e4"
+ },
+ "uwtn:258042": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b94843022d3b"
+ },
+ "uwtn:258044": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "ae509bf5efc8"
+ },
+ "uwtn:258050": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "1d7b2f6b392a"
+ },
+ "uwtn:258056": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e38327a59ee4"
+ },
+ "uwtn:258057": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "8535fdaa17f8"
+ },
+ "uwtn:258077": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "888f8b037a60"
+ },
+ "uwtn:258097": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "ca2ae5927053"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "cb86ae7a941f"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#1": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "f4f64aa006fd"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#2": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "fbfb1f3c0382"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#3": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "4cac7b2b1d5b"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#4": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "6048ae292d2b"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#5": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "c6917c12cf42"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#6": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "94d75d9202da"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#7": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "0ffff1f3f77c"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#8": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "7e931c051aed"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#9": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b492250984ac"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#10": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e2f282f962d9"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#11": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "1a6c1acaaca3"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#12": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "addcff48749e"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#13": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "ce971d2e179e"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#14": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "1965a7093533"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#15": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "8a8f50d41681"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#16": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "24623f927728"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#17": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "dd3cdae297a6"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#18": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "5ec374ebb1a8"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#19": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "2de5e1b15a02"
+ },
+ "uwtn-c:en_tn_HEB_xy4n#20": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "68129051b14e"
+ },
+ "uwtn-c:en_tn_HEB_aaf9#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "674193bf8629"
+ },
+ "uwtn-c:en_tn_HEB_aaf9#1": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "bc5d01caf8dc"
+ },
+ "uwtn-c:en_tn_HEB_aaf9#2": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "fea943d90476"
+ },
+ "uwtn-c:en_tn_HEB_aaf9#3": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "79f9b21694e3"
+ },
+ "uwtn-c:en_tn_HEB_aaf9#4": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b2092a86bd0e"
+ },
+ "uwtn-c:en_tn_HEB_aaf9#5": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e984fb8876de"
+ },
+ "uwtn-c:en_tn_HEB_aaf9#6": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "6729b4d78274"
+ },
+ "uwtn-c:en_tn_HEB_aaf9#7": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "fa8eecd21606"
+ },
+ "uwtn-c:en_tn_HEB_aaf9#8": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "16c7157bd979"
+ },
+ "uwtn-c:258008": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "acd33697c584"
+ },
+ "uwtn-c:258010": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "ff4125353045"
+ },
+ "uwtn-c:258011": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e5d96f2e27ef"
+ },
+ "uwtn-c:258009": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "342e177e9f45"
+ },
+ "uwtn-c:258012": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "4f891ce9c841"
+ },
+ "uwtn-c:258015": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a1eed098011a"
+ },
+ "uwtn-c:258013": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "df5090e1d847"
+ },
+ "uwtn-c:258016": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "c5d8be86ee6a"
+ },
+ "uwtn-c:258014": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "8535fdaa17f8"
+ },
+ "uwtn-c:258025": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "d344ee5b4b69"
+ },
+ "uwtn-c:258023": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "1229246c071f"
+ },
+ "uwtn-c:258017": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "4be096c657a7"
+ },
+ "uwtn-c:258019": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e077977e50f7"
+ },
+ "uwtn-c:258024": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "c759c72da657"
+ },
+ "uwtn-c:258018": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "ea011294e92d"
+ },
+ "uwtn-c:258020": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "0508b20f66d0"
+ },
+ "uwtn-c:258022": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "fe3df712c8e2"
+ },
+ "uwtn-c:258026": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "4f532496690b"
+ },
+ "uwtn-c:258021": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "8002d746fa08"
+ },
+ "uwtn-c:258027": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "382f31f46f0f"
+ },
+ "uwtn-c:258030": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "6f904a029e35"
+ },
+ "uwtn-c:258028": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e3a96bc0080f"
+ },
+ "uwtn-c:258029": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "908b6c4d04d9"
+ },
+ "uwtn-c:258031": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "967bb6a1817f"
+ },
+ "uwtn-c:258032": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "3dfae6a7ad44"
+ },
+ "uwtn-c:258035": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "0265ca0562e7"
+ },
+ "uwtn-c:258033": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "380ce71c556a"
+ },
+ "uwtn-c:258034": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "27a44aff4908"
+ },
+ "uwtn-c:258038": {
+  "ok": true,
+  "motivo": "fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "8797613f6a04"
+ },
+ "uwtn-c:258037": {
+  "ok": true,
+  "motivo": "fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b16db0dc424b"
+ },
+ "uwtn-c:258036": {
+  "ok": true,
+  "motivo": "fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "db86301d524a"
+ },
+ "uwtn-c:258040": {
+  "ok": true,
+  "motivo": "fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a34b94c7b014"
+ },
+ "uwtn-c:258041": {
+  "ok": true,
+  "motivo": "fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a5b843998e8f"
+ },
+ "uwtn-c:258042": {
+  "ok": true,
+  "motivo": "fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e8a1d3c6c230"
+ },
+ "uwtn-c:258045": {
+  "ok": true,
+  "motivo": "fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "1c749b8ac649"
+ },
+ "uwtn-c:258044": {
+  "ok": true,
+  "motivo": "fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "381df46e12f7"
+ },
+ "uwtn-c:258043": {
+  "ok": true,
+  "motivo": "fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a4bcc23c182c"
+ },
+ "uwtn-c:258039": {
+  "ok": true,
+  "motivo": "fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "ec10a2bf0f27"
+ },
+ "uwtn-c:258048": {
+  "ok": true,
+  "motivo": "fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "d6b6117805cb"
+ },
+ "uwtn-c:258049": {
+  "ok": true,
+  "motivo": "fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "3d080be1a34f"
+ },
+ "uwtn-c:258046": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "95fa5f0e979e"
+ },
+ "uwtn-c:258050": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "f727d2edf585"
+ },
+ "uwtn-c:258051": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "0235f28c1408"
+ },
+ "uwtn-c:258047": {
+  "ok": false,
+  "motivo": "La traducción alternativa no corresponde: el inglés presenta una sola afirmación (hace a sus ángeles servidores ser espíritus y llamas de fuego), pero el español separa 'ángeles espíritus' y 'siervos llama de fuego', alterando el sentido.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "ba3e9b29c5a5"
+ },
+ "uwtn-c:258052": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "9bdb3c1e41c4"
+ },
+ "uwtn-c:258061": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "3a47a4b6a4cf"
+ },
+ "uwtn-c:258062": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "52388877c04b"
+ },
+ "uwtn-c:258065": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e2e5d989c6fd"
+ },
+ "uwtn-c:258055": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "ea1ac09cda95"
+ },
+ "uwtn-c:258059": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "4ad2a64252a7"
+ },
+ "uwtn-c:258056": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "7fc762a5d77a"
+ },
+ "uwtn-c:258060": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "081170f9bc21"
+ },
+ "uwtn-c:258058": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "83b66fc522ac"
+ },
+ "uwtn-c:258054": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "99847de051da"
+ },
+ "uwtn-c:258053": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "7435335946e7"
+ },
+ "uwtn-c:258064": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "fdb8ed0ed877"
+ },
+ "uwtn-c:258057": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "8535fdaa17f8"
+ },
+ "uwtn-c:258063": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "6fbfbc2cea09"
+ },
+ "uwtn-c:258073": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "8f15a02221dd"
+ },
+ "uwtn-c:258072": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "6e2016d6c859"
+ },
+ "uwtn-c:258069": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "03858287e9dc"
+ },
+ "uwtn-c:258066": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "4d5ffd0fe879"
+ },
+ "uwtn-c:258070": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "d9a7b516ff40"
+ },
+ "uwtn-c:258068": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "fe45ceb1aac3"
+ },
+ "uwtn-c:258071": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b6228b4f08e5"
+ },
+ "uwtn-c:258067": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "338615d0f6c5"
+ },
+ "uwtn-c:258076": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "98386f9b2537"
+ },
+ "uwtn-c:258075": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b2e60b270990"
+ },
+ "uwtn-c:258078": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "7af33eff7caf"
+ },
+ "uwtn-c:258074": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a9c39675f32c"
+ },
+ "uwtn-c:258079": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "904d6d328d02"
+ },
+ "uwtn-c:258077": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b8648b561836"
+ },
+ "uwtn-c:258080": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "20c5ef27c046"
+ },
+ "uwtn-c:258082": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "359dc883e750"
+ },
+ "uwtn-c:258081": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "229e5c9624ca"
+ },
+ "uwtn-c:258083": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "50f0b372c463"
+ },
+ "uwtn-c:258084": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "6ab15070279b"
+ },
+ "uwtn-c:258085": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "94aaffb062af"
+ },
+ "uwtn-c:258087": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "6e897d7d1b99"
+ },
+ "uwtn-c:258086": {
+  "ok": false,
+  "motivo": "Traduce 'them' como 'ellos' en lugar del pronombre de objeto correspondiente (p. ej. 'los'), perdiendo la distinción entre los dos pronombres que la nota señala.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "1e15ca9b7415"
+ },
+ "uwtn-c:258088": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "58950e579187"
+ },
+ "uwtn-c:258090": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "65e9bd262b8b"
+ },
+ "uwtn-c:258092": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "bff2fdeb7c17"
+ },
+ "uwtn-c:258091": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "1e045de32725"
+ },
+ "uwtn-c:258089": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "0636100521dd"
+ },
+ "uwtn-c:258097": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "ad1aa57511ff"
+ },
+ "uwtn-c:258096": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b4fc0b35e608"
+ },
+ "uwtn-c:258094": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "77fb14d53137"
+ },
+ "uwtn-c:258093": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "63a2c3e15aeb"
+ },
+ "uwtn-c:258099": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "79c4c07dea2b"
+ },
+ "uwtn-c:258095": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "2ce589c0d3a7"
+ },
+ "uwtn-c:258098": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "2503d68f36c6"
+ },
+ "uwtn-c:258102": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "23de9962f186"
+ },
+ "uwtn-c:258105": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "7a65b32c2cd5"
+ },
+ "uwtn-c:258101": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "16b69980abbb"
+ },
+ "uwtn-c:258100": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "259967508bbf"
+ },
+ "uwtn-c:258103": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "de539bf3c203"
+ },
+ "uwtn-c:258104": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "84888b8abc6e"
+ },
+ "uwtm:33402": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "df7c0b7e940d"
+ },
+ "uwtm:33294": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "91d5f011c7a0"
+ },
+ "uwtm:33371": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "d0ce985c3450"
+ },
+ "uwtm:33307": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "f03d4234d3b7"
+ },
+ "uwtm:33426": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "3bbf21c38a11"
+ },
+ "uwtm:33331": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "7a133ed43579"
+ },
+ "uwtm:33325": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "d996a548f604"
+ },
+ "uwtm:33327": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a7ffb95331f5"
+ },
+ "uwtm:33326": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "33a4cdf245dc"
+ },
+ "uwtm:33332": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "1c4393b9da55"
+ },
+ "uwtm:33329": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "00eebbb11e4d"
+ },
+ "uwtm:33334": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "951d5fedb902"
+ },
+ "uwtm:33333": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e02fee48ef12"
+ },
+ "uwtm:33273": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "aff380ca00a9"
+ },
+ "uwtm:33407": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "776529136630"
+ },
+ "uwtm:33276": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "982d8e6c7a52"
+ },
+ "uwtm:33275": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a013a47f141a"
+ },
+ "uwtm:33391": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "c50114a900df"
+ },
+ "uwtm:33264": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "f3f781b4110f"
+ },
+ "uwtm:33265": {
+  "ok": false,
+  "motivo": "Cambia 'Examples in English' por 'Ejemplos en español' y sustituye la lista; además, 'use⸢less⸣' se traduce mal como 'útil⸢mente⸣ no' y 'not because we have no authority' se vierte con sentido distinto ('no porque tengamos ninguna autoridad').",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "8dfc76e5039f"
+ },
+ "uwtm:33266": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "31dafa0afd43"
+ },
+ "uwtm:33267": {
+  "ok": false,
+  "motivo": "En la oración completada se marca «en» como palabra suplida, pero no está omitida en la segunda parte; el inglés solo suple «will» y «stand».",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "d16740572fd1"
+ },
+ "uwtm:33280": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b8a65d4c1409"
+ },
+ "uwtm:33286": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "71c8f9604720"
+ },
+ "uwtm:33268": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "1ed2b9936330"
+ },
+ "uwtm:33270": {
+  "ok": false,
+  "motivo": "La cita de Mateo 9:33 omite el signo de exclamación y añade «de tal manera» respecto al texto inglés.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b5689db1e458"
+ },
+ "uwtm:33321": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "999b96102adc"
+ },
+ "uwtm:33277": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "0f9747b013cb"
+ },
+ "uwtm:en_ta_translate_writing-oathformula": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "5a433a1cae04"
+ },
+ "uwtm:33281": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "00c86f34a8de"
+ },
+ "uwtm:en_ta_translate_figs-imperative3p": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "43fc4153eb75"
+ },
+ "uwtm:33284": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "727aa5fd7030"
+ },
+ "uwtm:33272": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "3ee4944a82a0"
+ },
+ "uwtm:33415": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "9d1503439217"
+ },
+ "uwtm:33278": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "f7939cc29649"
+ },
+ "uwtm:33290": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "0e20cc9e1ec6"
+ },
+ "uwtm:33306": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "13e1d3f80943"
+ },
+ "uwtm:33291": {
+  "ok": false,
+  "motivo": "«honor him» se traduce como «le temen», lo que cambia el sentido (honrar vs. temer).",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "cb7a08c8bed6"
+ },
+ "uwtm:33293": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "8204906f4980"
+ },
+ "uwtm:33292": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "fbfbe3e6e4fd"
+ },
+ "uwtm:33283": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "529ae452574e"
+ },
+ "uwtm:33392": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "dfeee813f573"
+ },
+ "uwtm:33393": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "8d238b85a1e3"
+ },
+ "uwtm:33335": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "86c0d6ecc2cd"
+ },
+ "uwtm:33299": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "15d4fa7b81a9"
+ },
+ "uwtm:33385": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "11adda8ed663"
+ },
+ "uwtm:33301": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "04bfc1ab3e17"
+ },
+ "uwtm:33302": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "9c6db9104385"
+ },
+ "uwtm:33303": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "7dd068655912"
+ },
+ "uwtm:33310": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "ef7e9f10c36e"
+ },
+ "uwtm:33256": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "341ad7d3ce5b"
+ },
+ "uwtm:33309": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "0a5ec6ce35c3"
+ },
+ "uwtm:33424": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "6365d86f41e7"
+ },
+ "uwtm:33410": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "79db65a449b1"
+ },
+ "uwtm:33315": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "289d98f803ba"
+ },
+ "uwtm:33257": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e74cb1bd656b"
+ },
+ "uwtm:33324": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b628ac642f76"
+ },
+ "uwtm:33314": {
+  "ok": false,
+  "motivo": "«troubled and discouraged» se traduce como «derramadas y esparcidas», cambiando el sentido (angustiadas/desanimadas vs. dispersas).",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "3947eb891dd1"
+ },
+ "uwtm:33408": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "22cfc138efb7"
+ },
+ "uwtm:33349": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "70c05c35725f"
+ },
+ "uwtm:33405": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "3ddf6001bb55"
+ },
+ "uwtm:33258": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "ce114c95e6c5"
+ },
+ "uwtm:33271": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "af677da8b68e"
  }
 }

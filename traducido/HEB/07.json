@@ -742,5 +742,2776 @@
     "ref": "HEB.7.28"
    }
   ]
+ },
+ "uwtn-c:258582": {
+  "text_es": "La palabra ⸢Porque⸣ indica que el autor ahora pasará a explicar quién es «Melchisedec» y por qué es importante. Si en su idioma sería útil, podría usar una palabra o frase que introduzca una explicación, o podría dejar ⸢Porque⸣ sin traducir. Traducción alternativa: «Ahora»",
+  "lemas_es": [
+   "Porque"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2359a900e060",
+  "lemas_rv1909": [
+   {
+    "lema": "Porque",
+    "ref": "HEB.7.1"
+   }
+  ]
+ },
+ "uwtn-c:258583": {
+  "text_es": "La palabra ⸢Salem⸣ es el nombre de una ciudad que existió en algún lugar en medio de lo que ahora es Israel. Algunos eruditos piensan que es otro nombre para la ciudad de Siquem, mientras que otros eruditos piensan que es otro nombre para la ciudad de Jerusalén. Puesto que nuestro autor se refiere directamente a Génesis 14:18, debe conservar este nombre tanto como sea posible.",
+  "lemas_es": [
+   "de Salem"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a91ad67ffb6d",
+  "lemas_rv1909": [
+   {
+    "lema": "de Salem",
+    "ref": "HEB.7.1"
+   }
+  ]
+ },
+ "uwtn-c:258584": {
+  "text_es": "La frase ⸢Dios Altísimo⸣ se refiere a Dios y lo describe como el ser más poderoso y más grande. El autor usa esta frase puesto que aparece en Génesis 14:18. Si en su idioma sería útil, podría usar un título que describa a Dios como poderoso y grande. Traducción alternativa: «de Dios, que es más poderoso que cualquier otra cosa» o «del Dios Altísimo»",
+  "lemas_es": [
+   "del Dios Altísimo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bd39503b440c",
+  "lemas_rv1909": [
+   {
+    "lema": "del Dios Altísimo",
+    "ref": "HEB.7.1"
+   }
+  ]
+ },
+ "uwtn-c:258585": {
+  "text_es": "La palabra ⸢volviendo⸣ se refiere a una acción que ocurrió al mismo tiempo que cuando Melchisedec ⸢salió al encuentro de Abraham⸣. Si fuera útil en su idioma, podría hacer esta conexión más explícita. Traducción alternativa: «cuando volvía»",
+  "lemas_es": [
+   "volviendo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "56ed383bdb1a",
+  "corregido_por_juez": "Añade «salió al encuentro»; el inglés solo dice «met Abraham».",
+  "lemas_rv1909": [
+   {
+    "lema": "volvía",
+    "ref": "HEB.7.1"
+   }
+  ]
+ },
+ "uwtn-c:258586": {
+  "text_es": "La frase ⸢la matanza de los reyes⸣ se refiere a una historia en Génesis 14:1–16. Cuatro ⸢reyes⸣ conquistaron una ciudad en la que vivía el sobrino de Abraham, y capturaron a su sobrino. Abraham tomó los hombres de guerra que tenía, y conquistó y «mató» a los ejércitos de estos cuatro ⸢reyes⸣. Recuperó todas las cosas valiosas que estos ⸢reyes⸣ habían tomado, incluido su sobrino. Cuando volvía a casa después de derrotar a los ⸢reyes⸣, se encontró con ⸢Melchisedec⸣. Si sus lectores necesitaran saber más sobre este trasfondo de lo que el autor declara explícitamente, podría incluir alguna información adicional en su traducción, o podría usar una nota al pie para explicar la historia. Traducción alternativa: «Abraham, que volvía de la batalla en la que derrotó a los cuatro reyes que habían secuestrado a su sobrino»,",
+  "lemas_es": [
+   "Abraham volviendo de la matanza de los reyes"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "61e9dc263563",
+  "lemas_rv1909": [
+   {
+    "lema": "Abraham que volvía de la derrota de los reyes",
+    "ref": "HEB.7.1"
+   }
+  ]
+ },
+ "uwtn-c:258587": {
+  "text_es": "La palabra ⸢reyes⸣ se refiere tanto a los ⸢reyes⸣ como a sus ejércitos. Si en su idioma sería útil, podría referirse explícitamente a sus ejércitos. Traducción alternativa: «de los reyes y sus hombres de guerra»",
+  "lemas_es": [
+   "de los reyes"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e27da3b3506b",
+  "lemas_rv1909": [
+   {
+    "lema": "de los reyes",
+    "ref": "HEB.7.1"
+   }
+  ]
+ },
+ "uwtn-c:en_tn_HEB_y8j3#0": {
+  "text_es": "Estructura y formato\n\n• El Hijo como pontífice (5:1–10:18)\n\n◦ Enseñanza: Melchisedec el sacerdote (7:1–10)\n\n◦ Enseñanza: El Hijo es pontífice según el orden de Melchisedec (7:11–28)\n\nAlgunas traducciones colocan cada línea de poesía más a la derecha que el resto del texto para que sea más fácil de leer. La ULT hace esto con la poesía en 7:17, 21, que son palabras del Antiguo Testamento.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1abe2c4be5d1"
+ },
+ "uwtn-c:en_tn_HEB_y8j3#1": {
+  "text_es": "Conceptos religiosos y culturales en este capítulo\n\nPontífices\n\nEn este capítulo, el autor habla con frecuencia de los pontífices. Habla de su «orden», que se refiere a los requisitos, el sistema y el servicio que acompañan a ser sacerdote en ese «orden». Se centra en dos «órdenes». Primero está el orden de Aarón, formado por sacerdotes que descienden de Leví. Estos sacerdotes son exigidos por la ley de Moisés y deben ofrecer sacrificios por sí mismos, así como por el resto del pueblo, puesto que ellos también pecan. Además, cada sacerdote finalmente muere y debe ser reemplazado por otro. Segundo está el orden de Melchisedec, formado por sacerdotes que tienen una «vida indestructible». Este orden solo incluye a Melchisedec y a Jesús. Jesús solo ofrece sacrificios por los pecados de otras personas, puesto que él no peca. Además, nunca muere, así que puede ser sacerdote para siempre. Considere cómo referirse a estos dos tipos diferentes de sacerdotes en este capítulo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "eb50b3d1c98b"
+ },
+ "uwtn-c:en_tn_HEB_y8j3#2": {
+  "text_es": "Melchisedec\n\nEn este capítulo, el autor se refiere a Melchisedec tal como se lo describe en Génesis 14:18–20, incluido el hecho de que la historia no menciona a su padre, su madre, su nacimiento ni su muerte. Los eruditos debaten si el autor pensaba que Melchisedec era un ser sobrenatural, como un ángel, o si el autor simplemente describe al personaje Melchisedec sin referirse a la persona histórica llamada Melchisedec. Lo que está claro es que el autor piensa que Melchisedec fue «hecho semejante» a Jesús, y no al revés (Véase: 7:3). En otras palabras, el autor habla de Melchisedec porque la descripción de él en Génesis es una manera útil de pensar en Jesús. Puesto que Melchisedec fue mayor que Abraham, Jesús, a quien Melchisedec es semejante, es mayor que los descendientes de Abraham que llegaron a ser sacerdotes.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "15d79765e6ff"
+ },
+ "uwtn-c:en_tn_HEB_y8j3#3": {
+  "text_es": "Los diezmos\n\nEn 7:1–10, el autor se refiere varias veces a dar y recoger «diezmos» o «una décima parte». Estas palabras se refieren a la práctica de separar una décima parte de lo que una persona ganaba o cultivaba y dársela a otra persona. En la ley que Dios dio por medio de Moisés, se exigía a los israelitas que dieran un «diezmo» o «una décima parte» a los sacerdotes. Esto permitía a los sacerdotes realizar su servicio sin tener que hacer otro trabajo. El autor usa el lenguaje de los «diezmos» para mostrar que Abraham, el bisabuelo de Leví, pagó un «diezmo» a Melchisedec. Eso significa que los descendientes de Abraham que recibían «diezmos» en realidad pagaron «diezmos» por medio de Abraham a Melchisedec. En el argumento del autor, esto muestra que Melchisedec y su sacerdocio son mayores que Leví y su sacerdocio.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6a8bcaa6bf95"
+ },
+ "uwtn-c:en_tn_HEB_y8j3#4": {
+  "text_es": "«Jurar» y el «juramento»\n\nTal como en el capítulo 6, el autor se refiere varias veces a «jurar» y a usar un «juramento». En este contexto, «jurar» se refiere a la acción de garantizar una promesa, mientras que el «juramento» se refiere a las palabras mismas que la garantizan. El autor implica que las palabras dichas con un «juramento» tienen más significado o indican algo mayor que las palabras sin un «juramento». Si sus lectores malinterpretaran «jurar» y «juramento», podría usar un lenguaje que provenga de cómo las personas garantizan lo que dicen en su cultura.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ef8c602545a5"
+ },
+ "uwtn-c:en_tn_HEB_y8j3#5": {
+  "text_es": "Problemas de traducción en este capítulo\n\nEl «lomo» de Abraham\n\nEn 7:5, 10, el autor se refiere al «lomo» de Abraham. Esta palabra es una manera cortés de referirse al órgano sexual masculino. En 7:5, el punto del autor es que todos los israelitas descienden de Abraham, puesto que todos provienen de su «lomo». En 7:10, el punto del autor es que Leví, el bisnieto de Abraham, podía considerarse que estaba dentro del «lomo» de Abraham antes de que Abraham y Sara tuvieran a su hijo Isaac. En la cultura del autor, se podía hablar de los descendientes de un hombre como si estuvieran dentro del órgano sexual del hombre. Considere maneras naturales de expresar estas ideas en su idioma, y vea las notas sobre estos dos versículos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c909e06d4583"
+ },
+ "uwtn:258586": {
+  "text_es": "La frase ⸢la matanza de los reyes⸣ se refiere a una historia en Génesis 14:1–16. Cuatro ⸢reyes⸣ conquistaron una ciudad en la que vivía el sobrino de Abraham, y capturaron a su sobrino. Abraham tomó los hombres de guerra que tenía, y conquistó y «mató» a los ejércitos de estos cuatro ⸢reyes⸣. Recuperó todas las cosas valiosas que estos ⸢reyes⸣ habían tomado, incluido su sobrino. Cuando volvía a casa después de derrotar a los ⸢reyes⸣, se encontró con ⸢Melchisedec⸣.",
+  "lemas_es": [
+   "Abraham volviendo de la matanza de los reyes"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7295424defc8",
+  "lemas_rv1909": [
+   {
+    "lema": "Abraham que volvía de la derrota de los reyes",
+    "ref": "HEB.7.1"
+   }
+  ]
+ },
+ "uwtn-c:258588": {
+  "text_es": "La palabra ⸢quien⸣ se refiere a Melchisedec. Si en su idioma sería útil, podría hacer explícito que el pronombre se refiere a Melchisedec. Traducción alternativa: «a quien, es decir, Melchisedec»,",
+  "lemas_es": [
+   "a quien"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f3aa97fc7b5c",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.2"
+   }
+  ]
+ },
+ "uwtn-c:258589": {
+  "text_es": "La frase ⸢todas las cosas⸣ se refiere a las cosas que Abraham tomó de los reyes que había derrotado. Esto habría incluido lo que los reyes tomaron de sus enemigos y las cosas que ellos mismos tenían. Si en su idioma sería útil, podría hacer explícito a qué se refiere ⸢todas las cosas⸣. Traducción alternativa: «de todo lo que había saqueado de los reyes» o «de todo lo que tomó después de derrotar a los reyes»",
+  "lemas_es": [
+   "de todas las cosas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c6507dab8a95",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.2"
+   }
+  ]
+ },
+ "uwtn-c:258590": {
+  "text_es": "El autor no declara qué es lo que se ⸢traduce⸣. La palabra ⸢primero⸣ implica que es el primer nombre de esta persona: «Melchisedec». Si en su idioma sería útil, podría aclarar que el autor está traduciendo el nombre «Melchisedec». Traducción alternativa: «siendo su nombre traducido primero como» o «siendo primero ciertamente el nombre “Melchisedec” traducido como»",
+  "lemas_es": [
+   "siendo primero ciertamente traducido como"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1c3d35928b80",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.2"
+   }
+  ]
+ },
+ "uwtn-c:258591": {
+  "text_es": "El autor proporciona traducciones del nombre de Melchisedec («Melchisedec») y de su título (⸢rey de Salem⸣) del hebreo, el idioma que hablaba Abraham. El nombre «Melchisedec» significa ⸢rey de justicia⸣, y el nombre ⸢Salem⸣ suena como la palabra hebrea para ⸢paz⸣. Si en su idioma sería útil, podría usar una forma en su idioma que dé el significado de los nombres. Traducción alternativa: «primero, ciertamente, su nombre significa “rey de justicia”, y luego también “Salem” significa “paz”, así que “rey de Salem” significa “rey de paz»",
+  "lemas_es": [
+   "siendo primero ciertamente traducido como “rey de justicia”, y luego también “rey de Salem”, es decir, “rey de paz"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a1e35e21fd01",
+  "lemas_rv1909": [
+   {
+    "lema": "primeramente él se interpreta Rey de justicia; y luego también Rey de Salem, que es, Rey de paz",
+    "ref": "HEB.7.2"
+   }
+  ]
+ },
+ "uwtn-c:258592": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor desea enfatizar lo que significan las palabras en otro idioma, más que centrarse en la persona que traduce. Traducción alternativa: «cuyo nombre primero traducimos como» o «primero ciertamente significando»",
+  "lemas_es": [
+   "siendo primero ciertamente traducido como"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2c2f89f3d4bb",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.2"
+   }
+  ]
+ },
+ "uwtn-c:258593": {
+  "text_es": "El autor usa la forma posesiva para hablar de un ⸢rey⸣ que se caracteriza por la ⸢justicia⸣ y la ⸢paz⸣. Esto significa que gobierna de manera «justa» y «pacífica» y que lo que hace conduce a la ⸢justicia⸣ y la ⸢paz⸣ en su reino. Si en su idioma sería útil, podría expresar la idea sin usar una forma posesiva. Traducción alternativa: «rey que gobierna con justicia … rey que gobierna con paz»",
+  "lemas_es": [
+   "rey de justicia y rey de paz"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2353f71ee8b5",
+  "lemas_rv1909": [
+   {
+    "lema": "Rey de justicia; y luego también Rey",
+    "ref": "HEB.7.2"
+   }
+  ]
+ },
+ "uwtn-c:258594": {
+  "text_es": "Si su idioma no usa sustantivos abstractos para las ideas de ⸢justicia⸣ y ⸢paz⸣, podría expresar las ideas de otra manera. Traducción alternativa: «que hace lo que es justo … que hace lo que es pacífico» o «que hace justas las cosas … que hace pacíficas las cosas»",
+  "lemas_es": [
+   "de justicia y de paz"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f12749b90ec9",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.2"
+   }
+  ]
+ },
+ "uwtn-c:258595": {
+  "text_es": "La palabra ⸢Salem⸣ se refiere a la misma ciudad que el autor mencionó en 7:1. Tradúzcala de la misma manera que lo hizo allí.",
+  "lemas_es": [
+   "de Salem"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9ac04feeacc1",
+  "lemas_rv1909": [
+   {
+    "lema": "de Salem",
+    "ref": "HEB.7.2"
+   }
+  ]
+ },
+ "uwtn:258589": {
+  "text_es": "La frase ⸢todas las cosas⸣ se refiere a las cosas que Abraham tomó de los reyes que había derrotado. Esto habría incluido lo que los reyes tomaron de sus enemigos y las cosas que ellos mismos tenían.",
+  "lemas_es": [
+   "de todas las cosas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "71b702474a5e",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.2"
+   }
+  ]
+ },
+ "uwtn-c:258596": {
+  "text_es": "El autor describe al personaje «Melchisedec» tal como aparece en Génesis 14:18–20. El autor de esa historia no menciona nada sobre los padres de Melchisedec, cuántos años tenía, cuándo nació ni cuándo murió. Esto es inusual, especialmente porque los sacerdotes por lo general necesitaban ser hijos de sacerdotes. El autor de Hebreos probablemente no pensaba que Melchisedec fuera un ser sobrenatural. Más bien, usa al personaje «Melchisedec» de la historia del Antiguo Testamento para ayudar a su audiencia a entender mejor a Jesús. Si en su idioma sería útil, podría hacer explícito que el autor se refiere a lo que el Antiguo Testamento nos dice acerca de Melchisedec. Traducción alternativa: «acerca de quien no hay registro de su padre, madre ni genealogía, y ningún registro del principio de sus días ni del fin de su vida»",
+  "lemas_es": [
+   "sin padre, sin madre, sin genealogía, sin tener principio de días ni fin de vida"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c6bff2d42c1e",
+  "lemas_rv1909": [
+   {
+    "lema": "Sin padre, sin madre, sin linaje; que ni tiene principio de días, ni fin de vida",
+    "ref": "HEB.7.3"
+   }
+  ]
+ },
+ "uwtn-c:258597": {
+  "text_es": "La frase ⸢principio de días⸣ se refiere a cuándo nace una persona. La frase ⸢fin de la vida⸣ se refiere a cuándo muere una persona. Si en su idioma sería útil, podría usar expresiones comparables. Traducción alternativa: «sin tener ni un día de nacimiento ni un día de muerte» o «sin nacimiento ni muerte»",
+  "lemas_es": [
+   "sin tener principio de días ni fin de vida"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "581e3bba1595",
+  "lemas_rv1909": [
+   {
+    "lema": "sin linaje; que ni tiene principio de días, ni fin",
+    "ref": "HEB.7.3"
+   }
+  ]
+ },
+ "uwtn-c:258598": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en Melchisedec, quien es ⸢hecho semejante⸣, en lugar de en la persona que lo hace semejante. Si debe indicar quién realizó la acción, podría referirse a Moisés, quien describió a Melchisedec de esta manera en Génesis, o podría referirse a Dios, quien inspiró a Moisés a escribir de esta manera. Traducción alternativa: «Dios habiéndolo hecho semejante» o «Moisés habiéndolo descrito semejante»",
+  "lemas_es": [
+   "hecho semejante"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "db14244ab4f4",
+  "lemas_rv1909": [
+   {
+    "lema": "hecho semejante",
+    "ref": "HEB.7.3"
+   }
+  ]
+ },
+ "uwtn-c:258599": {
+  "text_es": "La frase ⸢Hijo de Dios⸣ es un título importante para Jesús que describe su relación con Dios el Padre.",
+  "lemas_es": [
+   "el Hijo de Dios"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "09ce6bace232",
+  "lemas_rv1909": [
+   {
+    "lema": "Hijo de Dios",
+    "ref": "HEB.7.3"
+   }
+  ]
+ },
+ "uwtn:258596": {
+  "text_es": "El autor describe al personaje «Melchisedec» tal como aparece en Génesis 14:18–20. El autor de ese relato no menciona nada acerca de los padres de Melchisedec, cuántos años tenía, cuándo nació ni cuándo murió. Esto es inusual, especialmente porque los sacerdotes generalmente debían ser hijos de sacerdotes. El autor de Hebreos probablemente no pensaba que Melchisedec fuera un ser sobrenatural. Más bien, usa al personaje «Melchisedec» del relato del Antiguo Testamento para ayudar a su audiencia a entender mejor a Jesús.",
+  "lemas_es": [
+   "sin padre, sin madre, sin genealogía, sin tener principio de días ni fin de vida"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b658987892bc",
+  "lemas_rv1909": [
+   {
+    "lema": "Sin padre, sin madre, sin linaje; que ni tiene principio de días, ni fin de vida",
+    "ref": "HEB.7.3"
+   }
+  ]
+ },
+ "uwtn:258599": {
+  "text_es": "La frase ⸢Hijo de Dios⸣ es un título importante para Jesús que describe su relación con Dios el Padre.",
+  "lemas_es": [
+   "el Hijo de Dios"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "09ce6bace232",
+  "lemas_rv1909": [
+   {
+    "lema": "Hijo de Dios",
+    "ref": "HEB.7.3"
+   }
+  ]
+ },
+ "uwtn-c:258600": {
+  "text_es": "La palabra ⸢Pero⸣ introduce lo siguiente que el autor quiere decir acerca de Melchisedec. No introduce un contraste con el versículo anterior. Si en su idioma sería útil, podría usar una palabra o frase que introduzca un desarrollo adicional, o podría dejar ⸢Pero⸣ sin traducir. Traducción alternativa: «Ahora»",
+  "lemas_es": [
+   "Pero"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b96f61f421d0",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.4"
+   }
+  ]
+ },
+ "uwtn-c:258601": {
+  "text_es": "Traducción alternativa: «observen» o «vean»",
+  "lemas_es": [
+   "observen"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1eaca3efb03a",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.4"
+   }
+  ]
+ },
+ "uwtn-c:258602": {
+  "text_es": "La frase ⸢este⸣ se refiere a Melchisedec. Si en su idioma sería útil, podría aclarar que la frase se refiere a Melchisedec. Traducción alternativa: «este Melchisedec era»",
+  "lemas_es": [
+   "este era"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f94a4a862f46",
+  "lemas_rv1909": [
+   {
+    "lema": "este",
+    "ref": "HEB.7.4"
+   }
+  ]
+ },
+ "uwtn-c:258603": {
+  "text_es": "La audiencia habría estado de acuerdo en que la persona que es «mayor» recibiría el ⸢diezmo⸣ de la persona que no es tan ⸢grande⸣. Si sus lectores no harían esta inferencia o no estarían de acuerdo en que esto es verdad, quizás necesite hacer explícito el razonamiento. Traducción alternativa: «a quien el patriarca Abraham dio un diezmo de lo mejor del botín, que es lo que la gente hace por una persona mayor»",
+  "lemas_es": [
+   "a quien el patriarca Abraham dio un diezmo de lo mejor del botín"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "99e1faf0f098",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.4"
+   }
+  ]
+ },
+ "uwtn:258603": {
+  "text_es": "La audiencia habría estado de acuerdo en que la persona que es «mayor» recibiría el ⸢diezmo⸣ de la persona que no es tan ⸢grande⸣.",
+  "lemas_es": [
+   "a quien el patriarca Abraham dio un diezmo de lo mejor del botín"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "501145ec46f8",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.4"
+   }
+  ]
+ },
+ "uwtn-c:258604": {
+  "text_es": "La palabra ⸢ciertamente⸣ indica que el autor está introduciendo la primera mitad de un contraste (la segunda mitad del contraste está en 7:6). Si en su idioma sería útil, podría usar una palabra que introduzca la primera mitad de un contraste, o podría dejar ⸢ciertamente⸣ sin traducir. Traducción alternativa: «Y por un lado, los»",
+  "lemas_es": [
+   "Y los que ciertamente"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "61aff86fe327",
+  "lemas_rv1909": [
+   {
+    "lema": "Y ciertamente",
+    "ref": "HEB.7.5"
+   }
+  ]
+ },
+ "uwtn-c:258605": {
+  "text_es": "La frase ⸢de los hijos de Leví⸣ podría referirse a: (1) cómo solo algunos de los ⸢hijos de Leví⸣ llegaron a ser sacerdotes. Traducción alternativa: «de entre los hijos de Leví»; (2) cómo los que han ⸢recibido el sacerdocio⸣ descienden de ⸢Leví⸣. Traducción alternativa: «descendientes de Leví»",
+  "lemas_es": [
+   "de los hijos de Leví"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5782bdd922ca",
+  "lemas_rv1909": [
+   {
+    "lema": "de los hijos de Leví",
+    "ref": "HEB.7.5"
+   }
+  ]
+ },
+ "uwtn-c:258606": {
+  "text_es": "En la cultura del autor, la palabra ⸢hijos⸣ podía referirse a todos los descendientes de una persona importante. Aquí, ⸢hijos de Leví⸣ identifica a todos los que descienden de ⸢Leví⸣, uno de los nietos de Abraham. Si en su idioma sería útil, podría usar una palabra o frase que se refiera a los descendientes. Solo los hombres podían ⸢recibir el sacerdocio⸣, así que podría usar una forma masculina aquí. Traducción alternativa: «los descendientes de Leví» o «la tribu de Leví»",
+  "lemas_es": [
+   "los hijos de Leví"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c9b04aca1497",
+  "lemas_rv1909": [
+   {
+    "lema": "de los hijos de Leví",
+    "ref": "HEB.7.5"
+   }
+  ]
+ },
+ "uwtn-c:258607": {
+  "text_es": "La frase ⸢que reciben el sacerdocio⸣ identifica a los ⸢hijos de Leví⸣ específicos de los que el autor está hablando. Use una forma que en su idioma identifique, no una que simplemente describa. Traducción alternativa: «de Leví, específicamente los que reciben el sacerdocio»",
+  "lemas_es": [
+   "de Leví habiendo recibido el sacerdocio"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f3cf3e599eca",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.5"
+   }
+  ]
+ },
+ "uwtn-c:258608": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢sacerdocio⸣, podría expresar la idea de otra manera. Traducción alternativa: «que son llamados a ser sacerdotes» o «que actúan como sacerdotes»",
+  "lemas_es": [
+   "habiendo recibido el sacerdocio"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2b168c336ae0",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.5"
+   }
+  ]
+ },
+ "uwtn-c:258609": {
+  "text_es": "El autor se refiere específicamente a la ley que Dios dio por medio de Moisés. Probablemente está pensando en el ⸢mandamiento⸣ acerca de los levitas y los diezmos en Números 18:21–24. Si en su idioma sería útil, podría aclarar más que el autor se refiere a una parte específica de la ley de Moisés. Traducción alternativa: «reciben el mandamiento en la ley de Moisés» o «Dios les dice en la ley de Moisés»",
+  "lemas_es": [
+   "tienen mandamiento según la ley"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f071184af993",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.5"
+   }
+  ]
+ },
+ "uwtn-c:258610": {
+  "text_es": "La palabra ⸢hermanos⸣ se refiere a cualquiera que descienda de ⸢Abraham⸣ y Jacob, es decir, a todos los israelitas. No se refiere solo a los hijos varones de los padres. Si en su idioma sería útil, podría usar una palabra o frase que se refiera a todos los de una tribu o nación. Traducción alternativa: «de sus hermanos israelitas» o «de los demás de su nación»",
+  "lemas_es": [
+   "de sus hermanos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9002867a02c4",
+  "lemas_rv1909": [
+   {
+    "lema": "de sus hermanos",
+    "ref": "HEB.7.5"
+   }
+  ]
+ },
+ "uwtn-c:258611": {
+  "text_es": "Aunque la palabra ⸢hermanos⸣ es masculina, se refiere a cualquier pariente, tanto hombre como mujer. Si en su idioma sería útil, podría usar una palabra que se aplique tanto a hombres como a mujeres, o podría referirse a ambos géneros. Traducción alternativa: «de sus parientes» o «de sus hermanos y hermanas»",
+  "lemas_es": [
+   "de sus hermanos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "47c892e73b36",
+  "lemas_rv1909": [
+   {
+    "lema": "de sus hermanos",
+    "ref": "HEB.7.5"
+   }
+  ]
+ },
+ "uwtn-c:258612": {
+  "text_es": "La frase ⸢aunque⸣ introduce algo que es inesperado, dado lo que el autor ya ha dicho. En otras palabras, es sorprendente que los ⸢hijos de Leví⸣ reciban diezmos de ⸢sus hermanos⸣ cuando todos han ⸢salido del lomo de Abraham⸣. Si en su idioma sería útil, podría usar una palabra o frase que introduzca algo contrario a lo esperado. Traducción alternativa: «a pesar de que» o «aun cuando»",
+  "lemas_es": [
+   "aunque"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "725f40406ac5",
+  "lemas_rv1909": [
+   {
+    "lema": "aunque",
+    "ref": "HEB.7.5"
+   }
+  ]
+ },
+ "uwtn-c:258613": {
+  "text_es": "El autor se refiere a los descendientes de Abraham como si hubieran salido directamente ⸢del lomo de Abraham⸣. Si en su idioma sería útil, podría expresar el significado de manera clara. Traducción alternativa: «tienen a Abraham como antepasado común»",
+  "lemas_es": [
+   "han salido del lomo de Abraham"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "280993e76c4b",
+  "lemas_rv1909": [
+   {
+    "lema": "salido de los lomos de Abraham",
+    "ref": "HEB.7.5"
+   }
+  ]
+ },
+ "uwtn:258605": {
+  "text_es": "La frase ⸢de los hijos de Leví⸣ podría referirse a: (1) cómo solo algunos de los ⸢hijos de Leví⸣ llegaron a ser sacerdotes. («de entre los hijos de Leví»); (2) cómo los que han ⸢recibido el sacerdocio⸣ descienden de ⸢Leví⸣. («descendientes de Leví»)",
+  "lemas_es": [
+   "de los hijos de Leví"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "79313b27f58d",
+  "lemas_rv1909": [
+   {
+    "lema": "de los hijos de Leví",
+    "ref": "HEB.7.5"
+   }
+  ]
+ },
+ "uwtn:258606": {
+  "text_es": "En la cultura del autor, la palabra ⸢hijos⸣ podía referirse a todos los descendientes de una persona importante. Aquí, ⸢hijos de Leví⸣ identifica a todos los que descienden de ⸢Leví⸣, uno de los nietos de Abraham.",
+  "lemas_es": [
+   "los hijos de Leví"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a6901a38ed47",
+  "lemas_rv1909": [
+   {
+    "lema": "de los hijos de Leví",
+    "ref": "HEB.7.5"
+   }
+  ]
+ },
+ "uwtn:258609": {
+  "text_es": "El autor se refiere específicamente a la ley que Dios dio por medio de Moisés. Probablemente está pensando en el ⸢mandamiento⸣ acerca de los levitas y los diezmos en Números 18:21–24.",
+  "lemas_es": [
+   "tienen mandamiento según la ley"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "63a775be3033",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.5"
+   }
+  ]
+ },
+ "uwtn:258610": {
+  "text_es": "La palabra ⸢hermanos⸣ se refiere a cualquiera que descienda de ⸢Abraham⸣ y Jacob, es decir, a todos los israelitas. No se refiere solo a los hijos varones de los padres.",
+  "lemas_es": [
+   "de sus hermanos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a12aa9df711c",
+  "lemas_rv1909": [
+   {
+    "lema": "de sus hermanos",
+    "ref": "HEB.7.5"
+   }
+  ]
+ },
+ "uwtn-c:258614": {
+  "text_es": "La palabra ⸢Pero⸣ introduce la segunda mitad del contraste. La primera mitad está en el versículo anterior (7:5). Si en su idioma sería útil, podría usar una palabra que introduzca la segunda mitad de un contraste, o podría dejar ⸢Pero⸣ sin traducir. Traducción alternativa: «Y por otro lado»,",
+  "lemas_es": [
+   "Pero"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "762ef637e163",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.6"
+   }
+  ]
+ },
+ "uwtn-c:258615": {
+  "text_es": "La frase ⸢este⸣ se refiere a Melchisedec. Si en su idioma sería útil, podría aclarar que la frase se refiere a Melchisedec. Traducción alternativa: «Melchisedec»,",
+  "lemas_es": [
+   "este"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "763aaa4a89e3",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.6"
+   }
+  ]
+ },
+ "uwtn-c:258616": {
+  "text_es": "La frase ⸢el que tiene las promesas⸣ se refiere de nuevo a ⸢Abraham⸣. No se refiere a otra persona. Exprese la idea de tal manera que sus lectores sepan que ⸢el que tiene las promesas⸣ es Abraham. Traducción alternativa: «él, el que tiene las promesas»",
+  "lemas_es": [
+   "el que tiene las promesas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "85d954ed97df",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.6"
+   }
+  ]
+ },
+ "uwtn:258616": {
+  "text_es": "La frase ⸢el que tiene las promesas⸣ se refiere de nuevo a ⸢Abraham⸣. No se refiere a otra persona.",
+  "lemas_es": [
+   "el que tiene las promesas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4d03702ce2cb",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.6"
+   }
+  ]
+ },
+ "uwtn-c:258617": {
+  "text_es": "La palabra ⸢Pero⸣ introduce un desarrollo adicional en cuanto a cómo Melchisedec bendijo a Abraham. Si en su idioma sería útil, podría usar una palabra o frase que introduzca un desarrollo adicional, o podría dejar ⸢Pero⸣ sin traducir. Traducción alternativa: «En cuanto a las bendiciones»,",
+  "lemas_es": [
+   "Pero"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "288daea2f31c",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.7"
+   }
+  ]
+ },
+ "uwtn-c:258618": {
+  "text_es": "El autor supone que su audiencia aplicaría este principio general a lo que ha dicho acerca de Melchisedec bendiciendo a Abraham. Si sus lectores no harían naturalmente esta aplicación, podría hacerla explícita. Traducción alternativa: «el menor, en este caso Abraham, es bendecido por el mayor, en este caso Melchisedec»",
+  "lemas_es": [
+   "el menor es bendecido por el mayor"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "61aafafea247",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.7"
+   }
+  ]
+ },
+ "uwtn-c:258619": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. Traducción alternativa: «el mayor bendice al menor»",
+  "lemas_es": [
+   "el menor es bendecido por el mayor"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0037a790ec33",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.7"
+   }
+  ]
+ },
+ "uwtn-c:258620": {
+  "text_es": "El autor usa los adjetivos ⸢menor⸣ y ⸢mayor⸣ como sustantivos para referirse a personas que son ⸢menores⸣ y ⸢mayores⸣. Es posible que su idioma use adjetivos de la misma manera. Si no, podría traducirlos con frases nominales. Traducción alternativa: «una persona menor … una persona mayor»",
+  "lemas_es": [
+   "el menor y el mayor"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "29ca0d10a586",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.7"
+   }
+  ]
+ },
+ "uwtn:258618": {
+  "text_es": "El autor supone que su audiencia aplicaría este principio general a lo que ha dicho acerca de Melchisedec bendiciendo a Abraham.",
+  "lemas_es": [
+   "el menor es bendecido por el mayor"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cbe652a53de7",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.7"
+   }
+  ]
+ },
+ "uwtn-c:258621": {
+  "text_es": "La frase ⸢ciertamente aquí⸣ introduce la primera situación: la de los sacerdotes descendientes de Leví. La frase ⸢pero allí⸣ introduce la segunda situación: la de Melchisedec el sacerdote. El autor compara cómo ambos reciben ⸢diezmos⸣ (implícitamente con Melchisedec) y contrasta cómo los sacerdotes descendientes de Leví mueren, pero Melchisedec ⸢vive⸣. Si en su idioma sería útil, podría usar frases que introduzcan dos situaciones que el autor desea comparar y contrastar. Traducción alternativa: «en el caso de los levitas … pero en el caso de Melchisedec»,",
+  "lemas_es": [
+   "ciertamente aquí y pero allí"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a24b885ed175",
+  "lemas_rv1909": [
+   {
+    "lema": "Y aquí ciertamente",
+    "ref": "HEB.7.8"
+   }
+  ]
+ },
+ "uwtn-c:258622": {
+  "text_es": "La frase ⸢hombres mortales⸣ se refiere específicamente a los sacerdotes descendientes de Leví. El autor enfatiza que todos estos sacerdotes mueren. Si en su idioma sería útil, podría aclarar a quiénes se refiere ⸢hombres mortales⸣. Traducción alternativa: «sacerdotes que morirán»",
+  "lemas_es": [
+   "hombres mortales"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6fe4afa4324d",
+  "lemas_rv1909": [
+   {
+    "lema": "hombres mortales",
+    "ref": "HEB.7.8"
+   }
+  ]
+ },
+ "uwtn-c:258623": {
+  "text_es": "La palabra ⸢él⸣ se refiere a Melchisedec. Si en su idioma sería útil, podría aclarar a quién se refiere ⸢él⸣. Traducción alternativa: «se testifica de Melchisedec que vive»",
+  "lemas_es": [
+   "se testifica de él que vive"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4ca5a773d13b",
+  "lemas_rv1909": [
+   {
+    "lema": "testimonio que vive",
+    "ref": "HEB.7.8"
+   }
+  ]
+ },
+ "uwtn-c:258624": {
+  "text_es": "El autor contrasta explícitamente ⸢hombres mortales⸣ y ⸢él vive⸣. No reitera explícitamente el hecho de que Melchisedec también recibe ⸢diezmos⸣, pero sí lo implica. Si sus lectores no harían esta inferencia, y si estarían confundidos acerca de por qué el autor no menciona ⸢diezmos⸣ con Melchisedec, podría hacer esta idea más explícita. Traducción alternativa: «se testifica de él que recibió un diezmo y que vive»",
+  "lemas_es": [
+   "se testifica de él que vive"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "80a2c069d6d5",
+  "lemas_rv1909": [
+   {
+    "lema": "testimonio que vive",
+    "ref": "HEB.7.8"
+   }
+  ]
+ },
+ "uwtn-c:258625": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en Melchisedec, de quien ⸢se da testimonio⸣, en lugar de en la persona que da el testimonio. Si debe indicar quién realizó la acción, el autor implica que Dios lo hizo cuando habló por medio de Moisés en Génesis 14:18–20. Traducción alternativa: «Dios da testimonio de él» o «Moisés da testimonio de él»",
+  "lemas_es": [
+   "se da testimonio de él"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "053ef65ab119",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.8"
+   }
+  ]
+ },
+ "uwtn-c:258626": {
+  "text_es": "Aquí, igual que en 7:3, el autor describe el carácter de «Melchisedec» tal como aparece en Génesis 14:18–20. El autor de ese relato no menciona nada acerca de la muerte de Melchisedec. Si fuera útil en su idioma, podría explicitar que el autor se refiere a lo que el Antiguo Testamento nos dice acerca de Melchisedec. Traducción alternativa: «se da testimonio de que vive, ya que no hay registro de su muerte en las Escrituras» o «la ausencia de cualquier registro de su muerte da testimonio de que vive».",
+  "lemas_es": [
+   "se da testimonio de que vive"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "932410125a17",
+  "corregido_por_juez": "Añade «para siempre» en las traducciones alternativas, ausente en «lives on».",
+  "lemas_rv1909": [
+   {
+    "lema": "testimonio que vive",
+    "ref": "HEB.7.8"
+   }
+  ]
+ },
+ "uwtn:258622": {
+  "text_es": "La frase ⸢hombres mortales⸣ se refiere específicamente a los sacerdotes descendientes de Leví. El autor enfatiza que todos estos sacerdotes mueren.",
+  "lemas_es": [
+   "hombres mortales"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fa5de9024b81",
+  "lemas_rv1909": [
+   {
+    "lema": "hombres mortales",
+    "ref": "HEB.7.8"
+   }
+  ]
+ },
+ "uwtn:258624": {
+  "text_es": "El autor contrasta explícitamente ⸢hombres mortales⸣ y ⸢vive para siempre⸣. No reitera explícitamente el hecho de que Melchisedec también recibe ⸢diezmos⸣, pero sí lo implica.",
+  "lemas_es": [
+   "se da testimonio de que vive para siempre"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f1b5f54c3148",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.8"
+   }
+  ]
+ },
+ "uwtn:258626": {
+  "text_es": "Aquí, igual que en 7:3, el autor describe al personaje «Melchisedec» tal como aparece en Génesis 14:18–20. El autor de ese relato no menciona nada acerca de la muerte de Melchisedec.",
+  "lemas_es": [
+   "se da testimonio de que vive para siempre"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ffac769f1485",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.8"
+   }
+  ]
+ },
+ "uwtn-c:258627": {
+  "text_es": "El nombre ⸢Leví⸣ se refiere a los descendientes de ⸢Leví⸣ que eran sacerdotes y recogían ⸢diezmos⸣. Si sería útil en su idioma, podría explicitar que ⸢Leví⸣ representa a los descendientes de ⸢Leví⸣. Traducción alternativa: «los descendientes de Leví, los que recogen diezmos»",
+  "lemas_es": [
+   "Leví, el que recoge diezmos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a5b9a6837d58",
+  "lemas_rv1909": [
+   {
+    "lema": "Leví, que recibe los diezmos",
+    "ref": "HEB.7.9"
+   }
+  ]
+ },
+ "uwtn-c:258628": {
+  "text_es": "El autor se refiere a cómo Abraham ⸢pagó un diezmo⸣ a Melchisedec, un acontecimiento que el autor ya ha mencionado (véase 7:4). Si sería útil en su idioma, podría hacer esta idea más explícita. Traducción alternativa: «había pagado un diezmo a Melchisedec por medio de Abraham después de que Abraham venció a sus enemigos»",
+  "lemas_es": [
+   "había pagado un diezmo por medio de Abraham"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3344e421c8c3",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.9"
+   }
+  ]
+ },
+ "uwtn:258628": {
+  "text_es": "El autor se refiere a cómo Abraham ⸢pagó un diezmo⸣ a Melchisedec, un acontecimiento que el autor ya ha mencionado (véase 7:4).",
+  "lemas_es": [
+   "había pagado un diezmo por medio de Abraham"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "01a23b090349",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.9"
+   }
+  ]
+ },
+ "uwtn-c:258629": {
+  "text_es": "El autor habla como si Leví ⸢estuviera todavía en el lomo de su padre⸣. Quiere decir que Abraham aún no había engendrado ningún descendiente, así que, en cierto sentido, todos ellos todavía formaban parte de Abraham. El autor usa esta figura retórica para señalar dos puntos. Primero, Leví y los sacerdotes descendientes de él aún no habían nacido y, por lo tanto, podían considerarse dentro de Abraham. Segundo, porque estaban dentro de Abraham, participaron en todo lo que Abraham hizo. Esto incluía dar un diezmo a Melchisedec. Si sería útil en su idioma, podría usar una frase que identifique estrechamente a Leví y Abraham, a la vez que muestre que Leví aún no había nacido. Traducción alternativa: «aún no había nacido, y Abraham lo representaba»",
+  "lemas_es": [
+   "estaba todavía en el lomo de su padre"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8ae7d9b89b16",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.10"
+   }
+  ]
+ },
+ "uwtn-c:258630": {
+  "text_es": "El autor usa la palabra ⸢padre⸣ para referirse en general a un antepasado varón. Abraham era más específicamente el bisabuelo de Leví por parte de su padre. Use una palabra apropiada para esta relación en su cultura. Traducción alternativa: «de su antepasado»",
+  "lemas_es": [
+   "de su padre"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bdb60abc72c0",
+  "lemas_rv1909": [
+   {
+    "lema": "de su padre",
+    "ref": "HEB.7.10"
+   }
+  ]
+ },
+ "uwtn-c:258631": {
+  "text_es": "La palabra ⸢él⸣ se refiere a Abraham. Si sería útil en su idioma, podría explicitar que el pronombre se refiere a Abraham. Traducción alternativa: «Abraham»",
+  "lemas_es": [
+   "él"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9bf3fa791e86",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.10"
+   }
+  ]
+ },
+ "uwtn-c:258632": {
+  "text_es": "La palabra ⸢entonces⸣ muestra a la audiencia que el autor continúa el argumento acerca de Melchisedec y los sacerdotes descendientes de Leví. La palabra ⸢ciertamente⸣ señala la primera parte de un contraste. La segunda parte es la pregunta en la segunda mitad de este versículo. Si sería útil en su idioma, podría usar palabras o frases que introduzcan un desarrollo en el argumento que tome la forma de un contraste. Traducción alternativa: «por lo tanto» o «entonces, por un lado»",
+  "lemas_es": [
+   "ciertamente entonces"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c19c1daab722",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.11"
+   }
+  ]
+ },
+ "uwtn-c:258633": {
+  "text_es": "El autor hace una declaración condicional que suena hipotética, pero ya está convencido de que la condición no es verdadera. Sabe que la ⸢perfección⸣ no se produjo ⸢por medio del sacerdocio levítico⸣. Demuestra que la declaración condicional no es verdadera al recordar a la audiencia que Dios sí nombró ⸢otro sacerdote⸣ que es ⸢según el orden de Melchisedec⸣. Use una forma natural en su idioma para introducir una condición que el hablante cree que no es verdadera. Traducción alternativa: «Si ciertamente entonces, la perfección hubiera sido realmente por medio del sacerdocio levítico»",
+  "lemas_es": [
+   "Si ciertamente entonces, la perfección era por medio del sacerdocio levítico"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9aeb3942469e",
+  "lemas_rv1909": [
+   {
+    "lema": "Si pues la perfección era por el sacerdocio Levítico",
+    "ref": "HEB.7.11"
+   }
+  ]
+ },
+ "uwtn-c:258634": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢perfección⸣, podría expresar la idea usando un adjetivo como «perfecto». Traducción alternativa: «las personas podían llegar a ser perfectas» o «lo que es perfecto era»",
+  "lemas_es": [
+   "la perfección era"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "af4769999d4e",
+  "lemas_rv1909": [
+   {
+    "lema": "la perfección",
+    "ref": "HEB.7.11"
+   }
+  ]
+ },
+ "uwtn-c:258635": {
+  "text_es": "La frase ⸢el sacerdocio levítico⸣ se refiere a las personas, el sistema y las prácticas que estaban conectadas con la manera en que los descendientes de Leví servían como sacerdotes a Dios para el resto de los israelitas. Si sería útil en su idioma, podría usar una palabra o frase que se refiera a todos estos componentes. Traducción alternativa: «la manera en que los descendientes de Leví servían como sacerdotes» o «el sacerdocio que practicaban los descendientes de Leví»",
+  "lemas_es": [
+   "el sacerdocio levítico"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "02a39dfae5cb",
+  "lemas_rv1909": [
+   {
+    "lema": "el sacerdocio Levítico",
+    "ref": "HEB.7.11"
+   }
+  ]
+ },
+ "uwtn-c:258636": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢sacerdocio⸣, podría expresar la idea de otra manera. Traducción alternativa: «cómo los levitas servían como sacerdotes»",
+  "lemas_es": [
+   "el sacerdocio levítico"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0b01cb045bc5",
+  "lemas_rv1909": [
+   {
+    "lema": "el sacerdocio Levítico",
+    "ref": "HEB.7.11"
+   }
+  ]
+ },
+ "uwtn-c:258637": {
+  "text_es": "La palabra ⸢porque⸣ introduce una aclaración o explicación de lo que el autor acaba de decir. En otras palabras, habla de la ⸢perfección⸣ y del ⸢sacerdocio levítico⸣ porque este ⸢sacerdocio⸣ era la ⸢base⸣ de toda la ⸢ley⸣. Desea que su audiencia sepa que lo que dice acerca de la ⸢perfección⸣ y el ⸢sacerdocio⸣ se aplica a toda la ⸢ley⸣. Si sería útil en su idioma, podría usar una palabra o frase que introduzca una aclaración o explicación. Traducción alternativa: «ahora bien» o «de hecho»,",
+  "lemas_es": [
+   "porque"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "859cca41cc6b",
+  "lemas_rv1909": [
+   {
+    "lema": "porque",
+    "ref": "HEB.7.11"
+   }
+  ]
+ },
+ "uwtn-c:258638": {
+  "text_es": "El autor ofrece una aclaración después de hacer su afirmación. Si sería útil en su idioma, podría poner la aclaración antes de la afirmación. Traducción alternativa: «Ahora bien, sobre la base del sacerdocio levítico, al pueblo se le había dado la ley. Si ciertamente entonces, la perfección era por medio del sacerdocio levítico»,",
+  "lemas_es": [
+   "Si ciertamente entonces, la perfección era por medio del sacerdocio levítico (porque sobre la base de él al pueblo se le había dado la ley"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "860bc9fcdc8a",
+  "lemas_rv1909": [
+   {
+    "lema": "Si pues la perfección era por el sacerdocio Levítico (porque debajo de él recibió el pueblo la ley) ¿qué necesidad ⸢había⸣",
+    "ref": "HEB.7.11"
+   }
+  ]
+ },
+ "uwtn-c:258639": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en el ⸢pueblo⸣ a quien se le ⸢dio la ley⸣, en lugar de en la persona que la da. Si debe indicar quién realizó la acción, el autor implica que Dios lo hizo. Traducción alternativa: «Dios le había dado la ley al pueblo»",
+  "lemas_es": [
+   "al pueblo se le había dado la ley"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "418a6d93e9df",
+  "lemas_rv1909": [
+   {
+    "lema": "pueblo la ley) ¿qué necesidad ⸢había⸣",
+    "ref": "HEB.7.11"
+   }
+  ]
+ },
+ "uwtn-c:258640": {
+  "text_es": "El autor no hace esta pregunta porque busque información. Más bien, la hace para involucrar a la audiencia en lo que está argumentando. La pregunta implica que la respuesta es «no había más necesidad». Si sería útil en su idioma, podría expresar la idea usando una negación fuerte. Traducción alternativa: «no había ninguna necesidad adicional de que surgiera otro sacerdote según el orden de Melchisedec y no se dijera que era según el orden de Aarón.»",
+  "lemas_es": [
+   "qué necesidad había aún de que surgiera otro sacerdote según el orden de Melchisedec y no se dijera que era según el orden de Aarón"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7fbe5b5e7729",
+  "lemas_rv1909": [
+   {
+    "lema": "qué necesidad ⸢había⸣ aún de que se levantase otro sacerdote según el orden de Melchisedec, y que no fuese llamado según el orden de Aarón",
+    "ref": "HEB.7.11"
+   }
+  ]
+ },
+ "uwtn-c:258641": {
+  "text_es": "El autor se refiere de nuevo a las palabras que citó en 5:6 del Salmo 110:4: «Tú eres sacerdote para siempre, según el orden de Melchisedec». Son estas palabras las que «dicen» que Jesús es sacerdote ⸢según el orden de Melchisedec⸣ y no ⸢según el orden de Aarón⸣. Si sería útil en su idioma, podría explicitar más que el autor se refiere a la cita. Traducción alternativa: «que surgiera otro que, según el salmo, sirve según el orden de Melchisedec y no se dice que sirva según el orden de Aarón»",
+  "lemas_es": [
+   "que surgiera otro sacerdote según el orden de Melchisedec y no se dijera que era según el orden de Aarón"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "673a471fcaaa",
+  "lemas_rv1909": [
+   {
+    "lema": "otro sacerdote según el orden de Melchisedec, y que no fuese llamado según el orden de Aarón",
+    "ref": "HEB.7.11"
+   }
+  ]
+ },
+ "uwtn-c:258642": {
+  "text_es": "La palabra ⸢surgir⸣ se refiere a que alguien toma una posición como si se pusiera de pie para hacer algo. El autor habla así para mostrar que ⸢otro sacerdote⸣ se ha «puesto de pie» para realizar su tarea como sacerdote. Si sería útil en su idioma, podría expresar el significado de manera sencilla. Traducción alternativa: «aparecer» o «comenzar a servir»",
+  "lemas_es": [
+   "surgir"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "14b8aad74645",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.11"
+   }
+  ]
+ },
+ "uwtn-c:258643": {
+  "text_es": "La palabra ⸢orden⸣ se refiere a los requisitos y deberes que acompañan a un oficio o posición específicos. Si alguien sirve ⸢según el orden de⸣ otro, eso significa que cumple los mismos requisitos y realiza los mismos deberes que esa persona realizó. Si sería útil en su idioma, podría usar una frase comparable. Traducción alternativa: «de la misma manera en que Melchisedec era sacerdote … de la misma manera en que Aarón era sacerdote» o «con un sacerdocio semejante al sacerdocio de Melchisedec … teniendo un sacerdocio semejante al sacerdocio de Aarón»",
+  "lemas_es": [
+   "según el orden de Melchisedec y según el orden de Aarón"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "57508683a567",
+  "lemas_rv1909": [
+   {
+    "lema": "orden de Melchisedec, y que no fuese llamado según el orden de Aarón",
+    "ref": "HEB.7.11"
+   }
+  ]
+ },
+ "uwtn-c:258644": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en aquel de quien no se ⸢dice⸣, en lugar de en lo que no hace el decir. Si debe indicar quién no habla, el autor implica que Dios no dijo esto cuando habló en el Salmo 110:4. Traducción alternativa: «que el salmo no lo identifique como» o «que Dios no diga que él es»",
+  "lemas_es": [
+   "no se dijera que era"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b6a9e8fec3f5",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.11"
+   }
+  ]
+ },
+ "uwtn:258635": {
+  "text_es": "La frase ⸢el sacerdocio levítico⸣ se refiere a las personas, el sistema y las prácticas que estaban conectadas con la manera en que los descendientes de Leví servían como sacerdotes a Dios para el resto de los israelitas.",
+  "lemas_es": [
+   "el sacerdocio levítico"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "672aaa9013e7",
+  "lemas_rv1909": [
+   {
+    "lema": "el sacerdocio Levítico",
+    "ref": "HEB.7.11"
+   }
+  ]
+ },
+ "uwtn:258643": {
+  "text_es": "La palabra ⸢orden⸣ se refiere a los requisitos y deberes que acompañan a un oficio o posición específicos. Si alguien sirve ⸢según el orden de⸣ otro, eso significa que cumple los mismos requisitos y realiza los mismos deberes que esa persona realizó.",
+  "lemas_es": [
+   "según el orden de Melchisedec y según el orden de Aarón"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "70fe96648853",
+  "lemas_rv1909": [
+   {
+    "lema": "orden de Melchisedec, y que no fuese llamado según el orden de Aarón",
+    "ref": "HEB.7.11"
+   }
+  ]
+ },
+ "uwtn-c:258645": {
+  "text_es": "La palabra ⸢Porque⸣ introduce más explicación y apoyo para la idea de que la «base» de la ⸢ley⸣ es el ⸢sacerdocio⸣ (véase 7:11). El punto del autor es que, puesto que un ⸢cambio de la ley⸣ ocurre siempre que el ⸢sacerdocio es cambiado⸣, eso significa que el ⸢sacerdocio⸣ debe ser la base de la ⸢ley⸣. Si sería útil en su idioma, podría usar una palabra o frase que introduzca más apoyo para una afirmación anterior. Traducción alternativa: «Puede notarse que el sacerdocio es la base de la ley, porque» o «De hecho»,",
+  "lemas_es": [
+   "Porque"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6f3ef28b731d",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.12"
+   }
+  ]
+ },
+ "uwtn-c:258646": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en lo que es ⸢cambiado⸣, en lugar de en la persona que hace el cambio. Si debe indicar quién realiza la acción, el autor implica que Dios lo hace. Traducción alternativa: «cuando Dios cambia el sacerdocio»",
+  "lemas_es": [
+   "cuando el sacerdocio es cambiado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b9848c3012b1",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.12"
+   }
+  ]
+ },
+ "uwtn-c:258647": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢sacerdocio⸣, podría expresar la idea de otra manera. Traducción alternativa: «cómo las personas actúan como sacerdotes»",
+  "lemas_es": [
+   "el sacerdocio"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a38869ab303b",
+  "lemas_rv1909": [
+   {
+    "lema": "el sacerdocio",
+    "ref": "HEB.7.12"
+   }
+  ]
+ },
+ "uwtn-c:258648": {
+  "text_es": "La palabra ⸢Porque⸣ introduce apoyo para lo que el autor ha dado a entender: en efecto ha habido un cambio en el sacerdocio (véase: 7:11–12). Si sería útil en su idioma, podría usar una palabra o frase comparable que introduzca apoyo para una afirmación. Traducción alternativa: «Ahora el sacerdocio ha sido cambiado, puesto que»",
+  "lemas_es": [
+   "Porque"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3ee09fd2853a",
+  "lemas_rv1909": [
+   {
+    "lema": "Porque",
+    "ref": "HEB.7.13"
+   }
+  ]
+ },
+ "uwtn-c:258649": {
+  "text_es": "Las palabras ⸢él⸣ y ⸢quien⸣ se refieren ambas a Jesús, a quien el autor ha aplicado las palabras del Salmo 110:4. El autor no se refiere a Jesús por nombre aquí, porque usa «el Señor» en el versículo siguiente y porque usa enfáticamente el nombre de Jesús en 7:22. Si es posible, refiérase a Jesús aquí de manera tan indirecta como lo hace el autor. Si debe aclarar a quién se refieren ⸢él⸣ y ⸢quien⸣, podría usar una palabra o frase que identifique directamente a Jesús. Traducción alternativa: «el Señor de quien se dicen estas cosas pertenece a» o «Jesús, de quien se dicen estas cosas, pertenece a»",
+  "lemas_es": [
+   "él de quien se dicen estas cosas pertenece a"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e395f384ff88",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.13"
+   }
+  ]
+ },
+ "uwtn-c:258650": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en lo que se ⸢dice⸣ más que en la persona que lo dice. Si debe indicar quién lo «dijo», el autor implica que Dios lo hizo en las palabras del Salmo 110:4. Traducción alternativa: «de quien Dios dijo estas cosas» o «de quien leemos estas cosas en el salmo»",
+  "lemas_es": [
+   "de quien se dicen estas cosas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e87bf24bbea1",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.13"
+   }
+  ]
+ },
+ "uwtn-c:258651": {
+  "text_es": "La frase ⸢tribu⸣ se refiere a todas aquellas personas que descienden de uno de los doce hijos de Jacob. El autor se refiere a ⸢otra tribu⸣ para mostrar que Jesús no es de la ⸢tribu⸣ de Leví. Indicará de qué tribu es Jesús en el versículo siguiente, así que no identifique de qué ⸢tribu⸣ habla el autor hasta el versículo siguiente. Traducción alternativa: «una de las otras tribus» o «una tribu que no está conectada con Leví»",
+  "lemas_es": [
+   "otra tribu"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "89a6ea16d80b",
+  "lemas_rv1909": [
+   {
+    "lema": "otra tribu",
+    "ref": "HEB.7.13"
+   }
+  ]
+ },
+ "uwtn-c:258652": {
+  "text_es": "La frase ⸢ha oficiado en el altar⸣ es otra manera de decir que alguien ha servido o funcionado como sacerdote. Si sería útil en su idioma, podría usar una palabra o frase que se refiera a actuar como sacerdote. Traducción alternativa: «ha funcionado como sacerdote» o «ha hecho obra sacerdotal en el altar de Dios»",
+  "lemas_es": [
+   "ha oficiado en el altar"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c657280db3c6",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.13"
+   }
+  ]
+ },
+ "uwtn:258652": {
+  "text_es": "La frase ⸢ha oficiado en el altar⸣ es otra manera de decir que alguien ha servido o funcionado como sacerdote.",
+  "lemas_es": [
+   "ha oficiado en el altar"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b4e4fd0ac075",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.13"
+   }
+  ]
+ },
+ "uwtn-c:258653": {
+  "text_es": "La palabra ⸢Porque⸣ introduce una explicación adicional y más específica de lo que el autor afirmó en el versículo anterior. Si sería útil en su idioma, podría usar una palabra o frase que introduzca información más específica. Traducción alternativa: «Más específicamente»,",
+  "lemas_es": [
+   "Porque"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8dcade35f469",
+  "lemas_rv1909": [
+   {
+    "lema": "Porque",
+    "ref": "HEB.7.14"
+   }
+  ]
+ },
+ "uwtn-c:258654": {
+  "text_es": "La frase ⸢es evidente⸣ indica que lo que sigue es conocimiento común, es decir, información que el autor supone que su audiencia ya conoce. Si sería útil en su idioma, podría usar una frase comparable que introduzca conocimiento común. Traducción alternativa: «todos saben» o «es de conocimiento común»",
+  "lemas_es": [
+   "es evidente"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4a1d3a9c08ab",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.14"
+   }
+  ]
+ },
+ "uwtn-c:258655": {
+  "text_es": "El autor describe el nacimiento de Jesús como si él fuera el sol que «brotó» sobre el horizonte al amanecer. Habla de esta manera para referirse al nacimiento de Jesús como descendiente de ⸢Judá⸣, pero también para indicar que el nacimiento de Jesús no fue completamente normal. Puesto que Jesús nació por el poder del Espíritu Santo sin padre humano, el autor usa una frase menos común para referirse a la persona de quien desciende. Si es posible, use una frase comparable en su idioma que se refiera a la descendencia humana pero que también indique que el nacimiento de Jesús no fue totalmente normal. Traducción alternativa: «ha venido de Judá» o «ha brotado de Judá»",
+  "lemas_es": [
+   "ha brotado de Judá"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c2f4ed748cd4",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.14"
+   }
+  ]
+ },
+ "uwtn-c:258656": {
+  "text_es": "El autor se refiere a la ley que ⸢Moisés⸣ recibió de Dios y dio al pueblo de Israel. Esta ley contenía instrucciones acerca de quién serviría como sacerdote, y las únicas instrucciones que Moisés recibió eran acerca de cómo las personas de la tribu de Leví servirían como sacerdotes. Si sería útil en su idioma, podría hacer esta idea más explícita. Traducción alternativa: «Moisés no escribió nada en la ley» o «Dios no dio nada a Moisés para decir en la ley»",
+  "lemas_es": [
+   "Moisés no dijo nada"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "072444a43d80",
+  "lemas_rv1909": [
+   {
+    "lema": "nada habló Moisés",
+    "ref": "HEB.7.14"
+   }
+  ]
+ },
+ "uwtn:258654": {
+  "text_es": "La frase ⸢es evidente⸣ indica que lo que sigue es conocimiento común, es decir, información que el autor supone que su audiencia ya conoce.",
+  "lemas_es": [
+   "es evidente"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bfc46cfc0cfd",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.14"
+   }
+  ]
+ },
+ "uwtn:258656": {
+  "text_es": "El autor se refiere a la ley que ⸢Moisés⸣ recibió de Dios y dio al pueblo de Israel. Esta ley contenía instrucciones acerca de quién serviría como sacerdote, y las únicas instrucciones que Moisés recibió eran acerca de cómo las personas de la tribu de Leví servirían como sacerdotes.",
+  "lemas_es": [
+   "Moisés no dijo nada"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c4175b7fdf24",
+  "lemas_rv1909": [
+   {
+    "lema": "nada habló Moisés",
+    "ref": "HEB.7.14"
+   }
+  ]
+ },
+ "uwtn-c:258657": {
+  "text_es": "La palabra ⸢esto⸣ podría referirse a: (1) la afirmación del autor de que Dios cambió el sacerdocio. Traducción alternativa: «el cambio en el sacerdocio es» o «el hecho de que Dios ha cambiado el sacerdocio es»; (2) de manera más general, a lo que el autor argumenta acerca de Jesús y los sacerdotes que descienden de Leví. Traducción alternativa: «lo que argumento es» o «lo que he dicho es»",
+  "lemas_es": [
+   "esto es"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c42ab092ab31",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.15"
+   }
+  ]
+ },
+ "uwtn-c:258658": {
+  "text_es": "La frase ⸢aún mucho más evidente⸣ es una forma más fuerte de la frase «es evidente» en 7:14. El punto del autor es que todos deben reconocer que ⸢esto⸣ (véase: la nota anterior) es verdad, dado que la siguiente declaración con ⸢si⸣ también es verdadera. Si sería útil en su idioma, podría usar una palabra o frase que introduzca algo con lo que todos deben estar de acuerdo. Traducción alternativa: «Y todos deben estar de acuerdo en que esto es verdad» o «Y todos saben que esto es ciertamente correcto»",
+  "lemas_es": [
+   "Y esto es aún mucho más evidente"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "63ae87de9690",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.15"
+   }
+  ]
+ },
+ "uwtn-c:258659": {
+  "text_es": "El autor habla como si ⸢otro sacerdote⸣ que «surge» fuera una posibilidad hipotética, pero quiere decir que es realmente verdad. Si su idioma no presenta algo como una condición cuando es cierto o verdadero, y si sus lectores podrían malinterpretar y pensar que lo que el autor dice no es cierto, entonces podría expresar la idea usando una palabra como «porque» o «puesto que». Traducción alternativa: «ahora que otro sacerdote ha surgido» o «porque otro sacerdote ha surgido»",
+  "lemas_es": [
+   "si otro sacerdote surge"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "172cdcca8163",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.15"
+   }
+  ]
+ },
+ "uwtn-c:258660": {
+  "text_es": "La frase ⸢otro sacerdote⸣ se refiere a Jesús, quien es una clase diferente de ⸢sacerdote⸣ que los sacerdotes que descienden de Leví. Si sería útil en su idioma, podría hacer explícito que la frase se refiere a Jesús. Traducción alternativa: «Jesús, quien es un sacerdote diferente»,",
+  "lemas_es": [
+   "otro sacerdote"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2cf2127e6d84",
+  "lemas_rv1909": [
+   {
+    "lema": "otro sacerdote",
+    "ref": "HEB.7.15"
+   }
+  ]
+ },
+ "uwtn-c:258661": {
+  "text_es": "El autor habla de cómo Jesús ha llegado a ser sacerdote como si fuera una persona que «surge» de debajo de una cubierta o cortina. Habla de esta manera para indicar que Jesús llegó a ser ⸢sacerdote⸣ en un momento específico. Si sería útil en su idioma, podría usar una palabra o frase que se refiera a llegar a ser sacerdote. Traducción alternativa: «asume el oficio» o «comienza a servir»",
+  "lemas_es": [
+   "surge"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b2c2c1e7dbed",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.15"
+   }
+  ]
+ },
+ "uwtn-c:258662": {
+  "text_es": "La frase ⸢según la semejanza de⸣ significa algo muy similar a «según el orden de». Vea cómo tradujo esa frase en 7:11. Si es posible, use palabras similares pero no idénticas aquí. La palabra ⸢semejanza⸣ enfatiza el comportamiento y la identidad similares, mientras que «orden» enfatiza los requisitos y deberes similares. Traducción alternativa: «de manera muy parecida a como Melchisedec era sacerdote» o «con un sacerdocio muy parecido al sacerdocio de Melchisedec»",
+  "lemas_es": [
+   "según la semejanza de Melchisedec"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ab61b8b4c84e",
+  "lemas_rv1909": [
+   {
+    "lema": "semejanza de Melchisedec",
+    "ref": "HEB.7.15"
+   }
+  ]
+ },
+ "uwtn-c:258663": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢semejanza⸣, podría expresar la idea usando un adjetivo como «como» o «similar». Traducción alternativa: «quien es como Melchisedec» o «quien es similar a Melchisedec»",
+  "lemas_es": [
+   "según la semejanza de Melchisedec"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1d7127f96dd2",
+  "lemas_rv1909": [
+   {
+    "lema": "semejanza de Melchisedec",
+    "ref": "HEB.7.15"
+   }
+  ]
+ },
+ "uwtn:258657": {
+  "text_es": "La palabra ⸢esto⸣ podría referirse a: (1) la afirmación del autor de que Dios cambió el sacerdocio. («el cambio en el sacerdocio es» o «el hecho de que Dios ha cambiado el sacerdocio es»); (2) de manera más general, a lo que el autor argumenta acerca de Jesús y los sacerdotes que descienden de Leví. («lo que argumento es» o «lo que he dicho es»)",
+  "lemas_es": [
+   "esto es"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "851da0061309",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.15"
+   }
+  ]
+ },
+ "uwtn:258658": {
+  "text_es": "La frase ⸢aún mucho más evidente⸣ es una forma más fuerte de la frase «es evidente» en 7:14. El punto del autor es que todos deben reconocer que ⸢esto⸣ (véase la nota anterior) es verdad, dado que la siguiente declaración con ⸢si⸣ también es verdadera.",
+  "lemas_es": [
+   "Y esto es aún mucho más evidente"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1b5b5e43c804",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.15"
+   }
+  ]
+ },
+ "uwtn:258660": {
+  "text_es": "La frase ⸢otro sacerdote⸣ se refiere a Jesús, quien es una clase diferente de ⸢sacerdote⸣ que los sacerdotes que descienden de Leví.",
+  "lemas_es": [
+   "otro sacerdote"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e6cd358d06c6",
+  "lemas_rv1909": [
+   {
+    "lema": "otro sacerdote",
+    "ref": "HEB.7.15"
+   }
+  ]
+ },
+ "uwtn:258662": {
+  "text_es": "La palabra ⸢semejanza⸣ enfatiza el comportamiento y la identidad similares, mientras que «orden» enfatiza los requisitos y deberes similares.",
+  "lemas_es": [
+   "según la semejanza de Melchisedec"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "15dcda33044e",
+  "lemas_rv1909": [
+   {
+    "lema": "semejanza de Melchisedec",
+    "ref": "HEB.7.15"
+   }
+  ]
+ },
+ "uwtn-c:258664": {
+  "text_es": "La palabra ⸢quien⸣ se refiere a la frase «otro sacerdote» en el versículo anterior (7:15). Si sería útil en su idioma, podría hacer explícito que el pronombre se refiere a «otro sacerdote». Si usa la siguiente traducción alternativa, es posible que necesite añadir un punto antes de ella. Traducción alternativa: «Ese sacerdote ha llegado a ser uno»",
+  "lemas_es": [
+   "quien ha llegado a ser sacerdote"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0519bbac32b0",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.16"
+   }
+  ]
+ },
+ "uwtn-c:258665": {
+  "text_es": "Si su idioma no colocaría la declaración negativa antes de la declaración positiva, podría invertirlas. Traducción alternativa: «según el poder de una vida indestructible, no según una ley de un mandamiento carnal»",
+  "lemas_es": [
+   "no según una ley de un mandamiento carnal, sino según el poder de una vida indestructible"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1279b18c3e08",
+  "lemas_rv1909": [
+   {
+    "lema": "ley del mandamiento carnal, sino según la virtud de vida",
+    "ref": "HEB.7.16"
+   }
+  ]
+ },
+ "uwtn-c:258666": {
+  "text_es": "El autor usa la forma posesiva para indicar que ⸢una ley⸣ incluye ⸢un mandamiento carnal⸣. Si sería útil en su idioma, podría expresar la idea sin usar una forma posesiva. Traducción alternativa: «según un mandamiento carnal en la ley»",
+  "lemas_es": [
+   "una ley de un mandamiento carnal"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d7b39a678db7",
+  "lemas_rv1909": [
+   {
+    "lema": "ley del mandamiento carnal",
+    "ref": "HEB.7.16"
+   }
+  ]
+ },
+ "uwtn-c:258667": {
+  "text_es": "La frase ⸢mandamiento carnal⸣ se refiere a un ⸢mandamiento⸣ que podría: (1) tratar con lo que es ⸢carnal⸣, específicamente cómo los humanos tienen hijos. En otras palabras, el ⸢mandamiento⸣ se relaciona con cómo los sacerdotes necesitan descender de Leví. Traducción alternativa: «de un mandamiento acerca del descenso físico»; (2) aplicarse a personas que son ⸢carnales⸣, es decir, aquellos que están vivos ahora y que no tienen cuerpos resucitados. Traducción alternativa: «de un mandamiento que trata con esta vida»",
+  "lemas_es": [
+   "de un mandamiento carnal"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "55b51d24095b",
+  "lemas_rv1909": [
+   {
+    "lema": "mandamiento carnal",
+    "ref": "HEB.7.16"
+   }
+  ]
+ },
+ "uwtn-c:258668": {
+  "text_es": "El autor usa la forma posesiva para indicar que ⸢poder⸣ viene de la ⸢vida indestructible⸣ o se basa en ella. Si sería útil en su idioma, podría expresar la idea sin usar una forma posesiva. Traducción alternativa: «según el poder que viene de una vida indestructible»",
+  "lemas_es": [
+   "según el poder de una vida indestructible"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3943addfae66",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.16"
+   }
+  ]
+ },
+ "uwtn-c:258669": {
+  "text_es": "Si su idioma no usa sustantivos abstractos para las ideas de ⸢poder⸣ y ⸢vida⸣, podría expresar las ideas de otra manera. Traducción alternativa: «según cuán poderoso es porque nunca deja de vivir»",
+  "lemas_es": [
+   "según el poder de una vida indestructible"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3c9fb8540b1b",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.16"
+   }
+  ]
+ },
+ "uwtn-c:258670": {
+  "text_es": "La frase ⸢vida indestructible⸣ se refiere a cómo Jesús murió pero luego resucitó y está vivo de nuevo. La frase también explica lo que significa ser sacerdote «para siempre» (véase: Salmo 110:4). El autor citará este salmo de nuevo en el versículo siguiente. Si sería útil en su idioma, podría hacer más explícito a qué se refiere ⸢vida indestructible⸣. Traducción alternativa: «de una vida que la muerte no pudo destruir»",
+  "lemas_es": [
+   "de una vida indestructible"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b7bff7c211b6",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.16"
+   }
+  ]
+ },
+ "uwtn:258667": {
+  "text_es": "La frase ⸢mandamiento carnal⸣ se refiere a un ⸢mandamiento⸣ que podría: (1) tratar con lo que es ⸢carnal⸣, específicamente cómo los seres humanos tienen hijos. En otras palabras, el ⸢mandamiento⸣ se relaciona con cómo los sacerdotes necesitan descender de Leví. («de un mandamiento acerca del descendencia física»); (2) aplicarse a personas que son ⸢carnales⸣, es decir, aquellos que están vivos ahora y que no tienen cuerpos resucitados. («de mandamiento que trata de esta vida»).",
+  "lemas_es": [
+   "de un mandamiento carnal"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1a1f1b38aaf2",
+  "lemas_rv1909": [
+   {
+    "lema": "mandamiento carnal",
+    "ref": "HEB.7.16"
+   }
+  ]
+ },
+ "uwtn:258670": {
+  "text_es": "La frase ⸢vida indestructible⸣ se refiere a cómo Jesús murió pero luego resucitó y está vivo de nuevo. La frase también explica lo que significa ser sacerdote «para siempre» (véase Salmos 110:4). El autor citará este salmo de nuevo en el versículo siguiente.",
+  "lemas_es": [
+   "de una vida indestructible"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ca724acc9ab1",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.16"
+   }
+  ]
+ },
+ "uwtn-c:258671": {
+  "text_es": "La palabra ⸢Porque⸣ introduce la evidencia o prueba de que Jesús ha llegado a ser sacerdote «según el poder de una vida indestructible» (véase: 7:16). Si fuera útil en su idioma, podría usar una palabra o frase que introduzca evidencia o prueba. Traducción alternativa: «Ustedes saben que eso es verdad porque»",
+  "lemas_es": [
+   "Porque"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4071634822de",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.17"
+   }
+  ]
+ },
+ "uwtn-c:258672": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en lo que es ⸢testificado⸣ en lugar de en quién o qué hace el testimonio. Si debe indicar quién hizo la acción, el autor implica que Dios lo hizo cuando habló Salmos 110:4. Traducción alternativa: «Dios está testificando» o «el salmo está testificando»",
+  "lemas_es": [
+   "es testificado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c6e91a2a5180",
+  "lemas_rv1909": [
+   {
+    "lema": "testimonio",
+    "ref": "HEB.7.17"
+   }
+  ]
+ },
+ "uwtn-c:258673": {
+  "text_es": "El autor cita de las Escrituras del Antiguo Testamento. No introduce las palabras como una cita, sino que las introduce como algo que ha sido ⸢testificado⸣. Sin embargo, la audiencia habría entendido que estas eran palabras del Antiguo Testamento, específicamente de Salmos 110:4. Si sus lectores no supieran que la cita es del Antiguo Testamento, podría incluir una nota al pie o usar alguna otra forma para identificarla. Traducción alternativa: «es testificado en las Escrituras»",
+  "lemas_es": [
+   "es testificado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4993da2e55ba",
+  "lemas_rv1909": [
+   {
+    "lema": "testimonio",
+    "ref": "HEB.7.17"
+   }
+  ]
+ },
+ "uwtn-c:258674": {
+  "text_es": "Dado que el autor repite aquí las mismas palabras que citó en 5:6, debe traducir estas palabras exactamente de la misma manera que lo hizo en ese versículo.",
+  "lemas_es": [
+   "Tú eres sacerdote para siempre según el orden de Melquisedec"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "71a918c2cfdd",
+  "lemas_rv1909": [
+   {
+    "lema": "Tú eres sacerdote para siempre, según el orden",
+    "ref": "HEB.7.17"
+   }
+  ]
+ },
+ "uwtn-c:258675": {
+  "text_es": "La palabra ⸢Porque⸣ introduce una explicación de lo que significa la cita en el versículo anterior. La frase ⸢por un lado⸣ señala a la audiencia que esta explicación tiene dos partes. La segunda parte comienza con «por el otro lado» en 7:19b. Si fuera útil en su idioma, podría usar palabras que introduzcan una explicación de dos partes. Si usa la siguiente traducción alternativa, deberá asegurarse de que su traducción de la frase «por el otro lado» en 7:19b concuerde con lo que elija aquí. Traducción alternativa: «Primero, entonces»",
+  "lemas_es": [
+   "Porque por un lado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7ca32036199e",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.18"
+   }
+  ]
+ },
+ "uwtn-c:258676": {
+  "text_es": "Si su idioma no usa sustantivos abstractos para las ideas de ⸢anulación⸣ y ⸢mandamiento⸣, podría expresar las ideas usando verbos como «anular» y «mandar». Traducción alternativa: «lo que antes fue mandado es anulado»",
+  "lemas_es": [
+   "hay una anulación del mandamiento anterior"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5d6e99563c4b",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.18"
+   }
+  ]
+ },
+ "uwtn-c:258677": {
+  "text_es": "La frase ⸢el mandamiento anterior⸣ identifica lo que Dios mandó a Moisés decir al pueblo acerca de cómo los descendientes de Leví servirían como sacerdotes y qué harían. Si fuera útil en su idioma, podría hacer esta idea más explícita. Traducción alternativa: «del mandamiento anterior acerca del sacerdocio levítico» o «del mandamiento anterior concerniente a los sacerdotes en la ley de Moisés»",
+  "lemas_es": [
+   "del mandamiento anterior"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "575fc86d5ace",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.18"
+   }
+  ]
+ },
+ "uwtn-c:258678": {
+  "text_es": "Estos dos términos significan básicamente lo mismo y se usan juntos para enfatizar cuán ineficaz era el «mandamiento anterior». Si su idioma no usa la repetición para hacer esto, o si no tiene dos palabras para estos atributos, podría usar una frase y dar énfasis de otra manera. Traducción alternativa: «es muy débil» o «no puede lograr nada»",
+  "lemas_es": [
+   "es débil e inútil"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "eb27542a5b89",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.18"
+   }
+  ]
+ },
+ "uwtn:258677": {
+  "text_es": "La frase ⸢el mandamiento anterior⸣ identifica lo que Dios mandó a Moisés decir al pueblo acerca de cómo los descendientes de Leví servirían como sacerdotes y qué harían.",
+  "lemas_es": [
+   "del mandamiento anterior"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "12d5febe27ef",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.18"
+   }
+  ]
+ },
+ "uwtn-c:258679": {
+  "text_es": "La palabra ⸢porque⸣ introduce apoyo para cómo el «mandamiento anterior» es «débil e inútil» (véase: 7:18). Si fuera útil en su idioma, podría usar una palabra o frase comparable que introduzca apoyo para una afirmación. Traducción alternativa: «en efecto», o «eso es porque»",
+  "lemas_es": [
+   "porque"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "27fc660291b9",
+  "lemas_rv1909": [
+   {
+    "lema": "Porque",
+    "ref": "HEB.7.19"
+   }
+  ]
+ },
+ "uwtn-c:258680": {
+  "text_es": "El autor habla de ⸢la ley⸣ como si fuera una persona que era ineficaz y no podía «perfeccionar» nada. Habla de esta manera para indicar que el sistema de leyes que Dios dio por medio de Moisés, particularmente las leyes acerca de los sacerdotes, no llevó a que las personas o las cosas llegaran a ser «perfectas». Si fuera útil en su idioma, podría expresar la idea de otra manera. Traducción alternativa: «la ley no era algo que las personas pudieran seguir para llegar a ser perfectas» o «nada fue perfeccionado por medio de la ley de Moisés»",
+  "lemas_es": [
+   "la ley no perfeccionó nada"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "31b581ec34aa",
+  "lemas_rv1909": [
+   {
+    "lema": "nada perfeccionó la ley",
+    "ref": "HEB.7.19"
+   }
+  ]
+ },
+ "uwtn-c:258681": {
+  "text_es": "La frase ⸢por el otro lado⸣ introduce la segunda parte de la explicación del autor. Asegúrese de traducir esta frase de modo que funcione bien con cómo tradujo «por un lado» en 7:18. Traducción alternativa: «y segundo, allí»",
+  "lemas_es": [
+   "y por el otro lado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f9c7cb60b01f",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.19"
+   }
+  ]
+ },
+ "uwtn-c:258682": {
+  "text_es": "Si su idioma no usa sustantivos abstractos para las ideas de ⸢introducción⸣ y ⸢esperanza⸣, podría expresar la idea usando verbos como «introducir» y «esperar». Traducción alternativa: «Dios introduce algo mejor para lo cual esperamos»",
+  "lemas_es": [
+   "es la introducción de una mejor esperanza"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "698335aac199",
+  "lemas_rv1909": [
+   {
+    "lema": "la introducción de mejor esperanza",
+    "ref": "HEB.7.19"
+   }
+  ]
+ },
+ "uwtn-c:258683": {
+  "text_es": "La palabra ⸢esperanza⸣ se refiere al contenido de la ⸢esperanza⸣, o a lo que los creyentes esperan con confianza. Si fuera útil en su idioma, podría aclarar que el autor se refiere al contenido de esta ⸢esperanza⸣. Traducción alternativa: «de las cosas mejores que esperamos»",
+  "lemas_es": [
+   "de una mejor esperanza"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d114c9035c52",
+  "lemas_rv1909": [
+   {
+    "lema": "de mejor esperanza",
+    "ref": "HEB.7.19"
+   }
+  ]
+ },
+ "uwtn-c:258684": {
+  "text_es": "Para ayudar a sus lectores a entender el punto principal del autor en este versículo y el siguiente, podría combinar ambos versículos en un puente de versículos. Podría poner en una primera oración la información de trasfondo acerca de cómo los sacerdotes israelitas no fueron nombrados con juramento, mientras que Jesús fue nombrado con juramento. Luego, podría poner la comparación entre cómo Jesús fue nombrado con juramento y cómo él es el fiador de un mejor pacto en una segunda oración. Traducción alternativa: «Porque ciertamente ellos, sin jurar juramento, son hechos sacerdotes, pero él con juramento, por medio de Dios diciéndole: “El Señor juró y no cambiará de parecer: ‘Tú eres sacerdote para siempre.’” Así que, por cuanto no sin jurar juramento»,",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d17479d0c354"
+ },
+ "uwtn-c:258685": {
+  "text_es": "La frase ⸢por cuanto⸣ introduce la primera mitad de una comparación que el autor completará en 7:22. El punto es que, así como ⸢jurar un juramento⸣ es más garantizado que no usar un juramento, así el sacerdocio y el pacto de Jesús son mejores que el sacerdocio de los descendientes de Leví. Si fuera útil en su idioma, podría usar una forma que introduzca una comparación entre dos situaciones o conceptos. Traducción alternativa: «así como fue» o «de la misma manera que fue»",
+  "lemas_es": [
+   "por cuanto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "98a090c3f067",
+  "lemas_rv1909": [
+   {
+    "lema": "por cuanto",
+    "ref": "HEB.7.20"
+   }
+  ]
+ },
+ "uwtn-c:258686": {
+  "text_es": "La frase ⸢no sin jurar juramento⸣ usa dos palabras negativas para enfatizar que definitivamente había un ⸢juramento⸣ involucrado. Si fuera útil en su idioma, podría expresar el significado con palabras positivas, enfatizando la importancia de ⸢jurar un juramento⸣. Traducción alternativa: «con juramento»",
+  "lemas_es": [
+   "no sin jurar juramento"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "47f0a546d9aa",
+  "lemas_rv1909": [
+   {
+    "lema": "sin juramento",
+    "ref": "HEB.7.20"
+   }
+  ]
+ },
+ "uwtn-c:258687": {
+  "text_es": "El autor se refiere de nuevo a Salmos 110:4, que declara que el Señor «jura» que «tú eres sacerdote para siempre». El autor cita este salmo de nuevo en el versículo siguiente. Si fuera útil en su idioma, podría hacer explícito el contenido del ⸢juramento⸣. Traducción alternativa: «no sin jurar juramento acerca del sacerdocio del Mesías»",
+  "lemas_es": [
+   "no sin jurar juramento"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4c2c3871c989",
+  "lemas_rv1909": [
+   {
+    "lema": "sin juramento",
+    "ref": "HEB.7.20"
+   }
+  ]
+ },
+ "uwtn-c:258688": {
+  "text_es": "El autor comienza un comentario acerca del ⸢juramento⸣ y los sacerdotes. Este comentario continúa hasta el final de 7:21. La ULT ha usado guiones largos para dejar claro que estas palabras son información adicional que explica ⸢no sin jurar juramento⸣. Si fuera útil en su idioma, podría usar una forma que indique que el autor está a punto de dar información explicativa adicional. Si lo hace, asegúrese de señalar adecuadamente el final de esta información adicional al final de 7:22. Traducción alternativa: «jurando juramento—por cierto, ellos ciertamente sin jurar juramento son hechos sacerdotes»",
+  "lemas_es": [
+   "jurando juramento,—porque ciertamente ellos sin jurar juramento son hechos sacerdotes"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b87071a85fcf",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.20"
+   }
+  ]
+ },
+ "uwtn-c:258689": {
+  "text_es": "La palabra ⸢porque⸣ introduce una explicación de por qué es importante que hubiera un ⸢juramento⸣. La palabra ⸢ciertamente⸣ señala a la audiencia que esta explicación tiene dos partes. La segunda parte comienza con «pero» en 7:21a. Si fuera útil en su idioma, podría usar palabras que introduzcan una explicación de dos partes. Traducción alternativa: «ahora bien, por un lado»",
+  "lemas_es": [
+   "porque ciertamente"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9626803d7fb6",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.20"
+   }
+  ]
+ },
+ "uwtn-c:258690": {
+  "text_es": "La palabra ⸢ellos⸣ se refiere a los sacerdotes que descienden de Leví, acerca de quienes Dios dio leyes por medio de Moisés. Si fuera útil en su idioma, podría hacer explícito que el pronombre se refiere a los sacerdotes levíticos. Traducción alternativa: «los sacerdotes levíticos» o «los levitas»",
+  "lemas_es": [
+   "ellos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4befeb1ae5f1",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.20"
+   }
+  ]
+ },
+ "uwtn-c:258691": {
+  "text_es": "El autor señala que Dios no «juró» un ⸢juramento⸣ cuando nombró a los descendientes de Leví para ser sacerdotes. En cambio, dio leyes y regulaciones por medio de Moisés. Si fuera útil en su idioma, podría hacer esta idea más explícita. Traducción alternativa: «son nombrados sacerdotes por Dios sin que él jure un juramento»",
+  "lemas_es": [
+   "sin jurar juramento son hechos sacerdotes"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "dd80348a0ea2",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.20"
+   }
+  ]
+ },
+ "uwtn:258691": {
+  "text_es": "El autor señala que Dios no «juró» un ⸢juramento⸣ cuando nombró a los descendientes de Leví para ser sacerdotes. En cambio, dio leyes y regulaciones por medio de Moisés.",
+  "lemas_es": [
+   "sin jurar juramento son hechos sacerdotes"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "55d64afd187c",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.20"
+   }
+  ]
+ },
+ "uwtn-c:258692": {
+  "text_es": "La palabra ⸢pero⸣ introduce la segunda parte de la explicación del autor. Asegúrese de traducir esta palabra de modo que funcione bien con cómo tradujo «ciertamente» en 7:20. Traducción alternativa: «pero por el otro lado»,",
+  "lemas_es": [
+   "pero"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "98e40df20772",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.21"
+   }
+  ]
+ },
+ "uwtn-c:258693": {
+  "text_es": "El autor está omitiendo algunas de las palabras que en muchos idiomas una oración necesitaría para estar completa. Si fuera útil en su idioma, podría suplir estas palabras del final del versículo anterior (7:20). Traducción alternativa: «él llegó a ser sacerdote con»",
+  "lemas_es": [
+   "él con"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "191aff3638a4",
+  "lemas_rv1909": [
+   {
+    "lema": "el",
+    "ref": "HEB.7.21"
+   }
+  ]
+ },
+ "uwtn-c:258694": {
+  "text_es": "Las palabras ⸢él⸣ y ⸢él⸣ se refieren a Jesús el Hijo. La frase ⸢el que dice⸣ se refiere a Dios el Padre. Si fuera útil en su idioma, podría hacer explícito que los pronombres se refieren a Jesús. Traducción alternativa: «el Hijo con juramento, por medio de Dios el Padre diciéndole»",
+  "lemas_es": [
+   "él con juramento, por medio del que le dice"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ff5d5c07eeb0",
+  "lemas_rv1909": [
+   {
+    "lema": "con juramento por el que le dijo: Juró el",
+    "ref": "HEB.7.21"
+   }
+  ]
+ },
+ "uwtn-c:258695": {
+  "text_es": "El autor cita de las Escrituras del Antiguo Testamento. No introduce las palabras como una cita, sino que las introduce como palabras que Dios ha hablado a Cristo. Sin embargo, la audiencia habría entendido que esta era una cita del Antiguo Testamento, específicamente de Salmos 110:4. Dado que el autor introduce la cita como palabras que Dios ha dicho a Cristo, debe introducir la cita como palabras que alguien ha dicho. Si sus lectores no supieran que la cita es del Antiguo Testamento, podría incluir una nota al pie o usar alguna otra forma para identificarla. Traducción alternativa: «por medio del que le dice estas palabras»",
+  "lemas_es": [
+   "por medio del que le dice"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "90544fc57cbe",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.21"
+   }
+  ]
+ },
+ "uwtn-c:258696": {
+  "text_es": "Dios pronuncia la cita, pero el ⸢Señor⸣ en la cita es Dios. Si fuera útil en su idioma, podría usar la primera persona en su lugar. Traducción alternativa: «Yo, el Señor, juré y no cambiaré de parecer»",
+  "lemas_es": [
+   "El Señor juró y no cambiará de parecer"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3ede543ad1af",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.21"
+   }
+  ]
+ },
+ "uwtn-c:258697": {
+  "text_es": "Si fuera útil en su idioma, podría traducir esta cita directa como una cita indirecta. Traducción alternativa: «no cambiará de parecer, jurando que eres sacerdote para siempre»",
+  "lemas_es": [
+   "no cambiará de parecer: ‘Tú eres sacerdote para siempre"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ad655a4305d3",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.21"
+   }
+  ]
+ },
+ "uwtn-c:258698": {
+  "text_es": "Puesto que el autor repite aquí las mismas palabras que citó en 7:17 (aunque no incluye la frase «según el orden de Melchisedec»), debe traducir estas palabras exactamente de la misma manera que lo hizo en ese versículo.",
+  "lemas_es": [
+   "Tú eres sacerdote para siempre"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ff5609cb122a",
+  "lemas_rv1909": [
+   {
+    "lema": "Tú eres sacerdote",
+    "ref": "HEB.7.21"
+   }
+  ]
+ },
+ "uwtn-c:258699": {
+  "text_es": "La frase ⸢según tanto más⸣ introduce la segunda mitad de la comparación que el autor comenzó en la primera parte de 7:20. La comparación indica que la diferencia de grandeza entre un sacerdocio con juramento y un sacerdocio sin juramento es comparable a la diferencia de grandeza entre los pactos de los que estos sacerdocios forman parte. En otras palabras, el pacto que Jesús «garantiza» es mayor que el pacto que Dios dio por medio de Moisés, así como su sacerdocio, garantizado por un juramento, es mayor que el sacerdocio que Dios dio a los descendientes de Leví. Si fuera útil en su idioma, podría usar una forma que exprese una comparación entre dos situaciones o conceptos. Traducción alternativa: «en esa medida» o «en tanto»",
+  "lemas_es": [
+   "según tanto más"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9d48ff659340",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.22"
+   }
+  ]
+ },
+ "uwtn-c:258700": {
+  "text_es": "La audiencia habría inferido que el ⸢pacto⸣ es ⸢mejor⸣ que el «antiguo pacto», el que Dios dio por medio de Moisés a los israelitas. Si fuera útil en su idioma, podría hacer esta idea más explícita. Traducción alternativa: «de un pacto que es mejor que el pacto que Dios dio por medio de Moisés»",
+  "lemas_es": [
+   "de un mejor pacto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ffd9c3e476d6",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.22"
+   }
+  ]
+ },
+ "uwtn:258700": {
+  "text_es": "La audiencia habría inferido que el ⸢pacto⸣ es ⸢mejor⸣ que el «antiguo pacto», el que Dios dio por medio de Moisés a los israelitas.",
+  "lemas_es": [
+   "de un mejor pacto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a4a1361cb178",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.22"
+   }
+  ]
+ },
+ "uwtn-c:258701": {
+  "text_es": "La palabra ⸢Y⸣ indica que el autor está añadiendo un nuevo punto o tema a lo que está tratando. La frase ⸢por una parte⸣ señala al lector que este nuevo punto se presenta en dos partes contrastantes. Si fuera útil en su idioma, podría usar palabras o frases que introduzcan más claramente un nuevo punto en dos partes contrastantes. Asegúrese de expresar la segunda mitad del contraste en 7:24 de modo que concuerde con lo que haga aquí. Traducción alternativa: «Ahora bien, por una parte, los que han llegado a ser» o «Primero, los que han llegado a ser»",
+  "lemas_es": [
+   "Y los que, por una parte, han llegado a ser"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "680c7cefa5c9",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.23"
+   }
+  ]
+ },
+ "uwtn-c:258702": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa aquí la forma pasiva para enfocarse en quienes son ⸢impedidos⸣ más que en lo que los impide. Traducción alternativa: «la muerte les impide continuar»",
+  "lemas_es": [
+   "por la muerte son impedidos de continuar"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9f67e51d2c49",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.23"
+   }
+  ]
+ },
+ "uwtn-c:258703": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢muerte⸣, podría expresar la idea usando un verbo como «morir». Traducción alternativa: «por cómo mueren»",
+  "lemas_es": [
+   "por la muerte"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c684f6d54421",
+  "lemas_rv1909": [
+   {
+    "lema": "por la muerte",
+    "ref": "HEB.7.23"
+   }
+  ]
+ },
+ "uwtn-c:258704": {
+  "text_es": "El autor implica que ellos ⸢son impedidos de continuar⸣ siendo sacerdotes. Si fuera útil en su idioma, podría hacer esta idea más explícita. Traducción alternativa: «de continuar siendo sacerdotes» o «de continuar actuando como sacerdotes»",
+  "lemas_es": [
+   "de continuar"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f63438216fc5",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.23"
+   }
+  ]
+ },
+ "uwtn:258704": {
+  "text_es": "El autor implica que ellos ⸢son impedidos de continuar⸣ siendo sacerdotes.",
+  "lemas_es": [
+   "de continuar"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c70be1e4595d",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.23"
+   }
+  ]
+ },
+ "uwtn-c:258705": {
+  "text_es": "Las palabras ⸢pero⸣ y ⸢por otra parte⸣ introducen la segunda parte del contraste que el autor comenzó en 7:23. Asegúrese de expresar la idea aquí de una manera que concuerde con cómo introdujo la primera mitad del contraste en el versículo anterior. Traducción alternativa: «y por otra parte, él» o «pero en segundo lugar, él»",
+  "lemas_es": [
+   "pero él, por otra parte"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2ab5c441999b",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.24"
+   }
+  ]
+ },
+ "uwtn-c:258706": {
+  "text_es": "La palabra ⸢él⸣ se refiere a Jesús. Si fuera útil en su idioma, podría hacer explícito que el pronombre se refiere a Jesús. Traducción alternativa: «el Hijo» o «Jesús el Hijo»",
+  "lemas_es": [
+   "él"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "46f5b799c55b",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.24"
+   }
+  ]
+ },
+ "uwtn-c:258707": {
+  "text_es": "La frase ⸢permanece para siempre⸣ significa algo similar a la frase «vida indestructible» en 7:16: Jesús vive para siempre, es decir, nunca morirá. Si fuera útil en su idioma, podría hacer esta idea más explícita. Traducción alternativa: «permanece vivo para siempre» o «vive sin fin»",
+  "lemas_es": [
+   "él permanece para siempre"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5fb2d1e6c3b1",
+  "lemas_rv1909": [
+   {
+    "lema": "permanece para siempre",
+    "ref": "HEB.7.24"
+   }
+  ]
+ },
+ "uwtn-c:258708": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢sacerdocio⸣, usted podría expresar la idea usando un verbo como «imitar». Traducción alternativa: «es sacerdote permanentemente» o «actúa permanentemente como sacerdote»",
+  "lemas_es": [
+   "tiene el sacerdocio permanente"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "462f9744214d",
+  "corregido_por_juez": "El inglés dice «imitate» (imitar), pero el español usa «ejercer», cambiando el verbo de ejemplo.",
+  "lemas_rv1909": [
+   {
+    "lema": "permanece para siempre, tiene un sacerdocio",
+    "ref": "HEB.7.24"
+   }
+  ]
+ },
+ "uwtn:258707": {
+  "text_es": "La frase ⸢permanece para siempre⸣ significa algo similar a la frase «vida indestructible» en 7:16: Jesús vive para siempre, es decir, nunca morirá.",
+  "lemas_es": [
+   "él permanece para siempre"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "920a9f3da0aa",
+  "lemas_rv1909": [
+   {
+    "lema": "permanece para siempre",
+    "ref": "HEB.7.24"
+   }
+  ]
+ },
+ "uwtn-c:258709": {
+  "text_es": "La frase ⸢por lo cual⸣ introduce una conclusión basada en el hecho de que Jesús tiene «el sacerdocio permanente» (7:24). Si fuera útil en su idioma, podría usar una forma natural que introduzca una conclusión. Traducción alternativa: «como resultado de lo cual» o «de modo que»",
+  "lemas_es": [
+   "por lo cual"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6144c58c15bc",
+  "text_es_2": "La frase ⸢por lo cual⸣ introduce una conclusión basada en el hecho de que Jesús tiene «el sacerdocio inmutable» (7:24). Si le resulta útil en su idioma, podría usar una forma natural que introduzca una conclusión. Traducción alternativa: «como resultado de lo cual» o «de modo que»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "Por lo cual",
+    "ref": "HEB.7.25"
+   }
+  ]
+ },
+ "uwtn-c:258710": {
+  "text_es": "La palabra ⸢acercarse⸣ se refiere implícitamente a ponerse cerca de algo, pero no necesariamente estar justo al lado. El autor habla de personas que ⸢se acercan a Dios⸣. Esto significa que entran en la presencia de Dios. Si fuera útil en su idioma, podría usar una palabra o frase que se refiera a estar en la presencia de alguien. Vea cómo tradujo la cláusula similar en 4:16. Traducción alternativa: «los que se presentan ante Dios»",
+  "lemas_es": [
+   "los que se acercan a Dios"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9b4398e891b9",
+  "text_es_2": "La palabra ⸢acercarse⸣ se refiere implícitamente a ponerse cerca de algo, pero no necesariamente a estar justo al lado de ello. El autor habla de personas que ⸢se acercan a Dios⸣. Esto significa que entran en la presencia de Dios. Si le resulta útil en su idioma, podría usar una palabra o frase que se refiera a estar en la presencia de alguien. Vea cómo tradujo la cláusula similar en 4:16. Traducción alternativa: «los que van delante de Dios»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.25"
+   }
+  ]
+ },
+ "uwtn-c:258711": {
+  "text_es": "La frase ⸢viviendo siempre⸣ podría introducir: (1) otra razón por la que es ⸢poderoso para salvar completamente⸣. Traducción alternativa: «porque vive siempre»; (2) algo que sucede como parte de, o durante, su «salvar» a los que ⸢se acercan a Dios por medio de él⸣. Traducción alternativa: «como uno que vive siempre» o «parte de lo cual es cómo vive siempre»",
+  "lemas_es": [
+   "viviendo siempre"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b7972f64fe45",
+  "text_es_2": "La frase ⸢viviendo siempre⸣ podría introducir: (1) otra razón por la que él ⸢puede salvar perpetuamente⸣. Traducción alternativa: «porque vive siempre»; (2) algo que sucede como parte de, o durante, su «salvar» a los que ⸢por él se allegan a Dios⸣. Traducción alternativa: «como uno que vive siempre» o «parte de lo cual es que él vive siempre»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "viviendo siempre",
+    "ref": "HEB.7.25"
+   }
+  ]
+ },
+ "uwtn:258711": {
+  "text_es": "La frase ⸢viviendo siempre⸣ podría introducir: (1) otra razón por la que es ⸢poderoso para salvar completamente⸣. («porque vive siempre»); (2) algo que sucede como parte de, o durante, su «salvar» a los que ⸢se acercan a Dios por medio de él⸣. («como uno que vive siempre» o «parte de lo cual es cómo vive siempre»)",
+  "lemas_es": [
+   "viviendo siempre"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b70e9db43132",
+  "text_es_2": "La frase ⸢viviendo siempre⸣ podría introducir: (1) otra razón por la que él ⸢puede salvar perpetuamente⸣. («porque vive siempre»); (2) algo que sucede como parte de, o durante, su «salvar» a los que ⸢por él se allegan a Dios⸣. («como uno que vive siempre» o «parte de lo cual es que él vive siempre»)",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "viviendo siempre",
+    "ref": "HEB.7.25"
+   }
+  ]
+ },
+ "uwtn-c:258712": {
+  "text_es": "La palabra ⸢Porque⸣ introduce una explicación adicional de la manera en que Jesús sirve como sacerdote. Si fuera útil en su idioma, podría usar una palabra o frase comparable que introduzca más explicación, o podría dejar ⸢Porque⸣ sin traducir. Traducción alternativa: «Ahora bien»",
+  "lemas_es": [
+   "Porque"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2bc5b68e7772",
+  "lemas_rv1909": [
+   {
+    "lema": "Porque",
+    "ref": "HEB.7.26"
+   }
+  ]
+ },
+ "uwtn-c:258713": {
+  "text_es": "La palabra ⸢tal⸣ podría referirse: (1) a lo que el autor dijo en los versículos anteriores acerca de cómo Jesús tiene un «sacerdocio permanente» y puede «salvar completamente» (véase 7:24–25). Traducción alternativa: «ese tipo de pontífice»; (2) a lo que el autor dirá en este y los siguientes versículos acerca del tipo de pontífice que Jesús es. Traducción alternativa: «el tipo de pontífice que estoy a punto de describir»",
+  "lemas_es": [
+   "tal sumo sacerdote"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8f879378313b",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.26"
+   }
+  ]
+ },
+ "uwtn-c:258714": {
+  "text_es": "Las tres palabras ⸢santo⸣, ⸢inocente⸣ y ⸢puro⸣ significan cosas muy similares y enfatizan que Jesús no pecó ni hizo nada malo. La palabra ⸢santo⸣ enfatiza cómo Jesús honró y agradó a Dios. La palabra ⸢inocente⸣ identifica a Jesús como una persona que no pensó ni planeó obras malas. La palabra ⸢puro⸣ indica que Jesús no hizo nada que lo contaminara o lo hiciera repulsivo a Dios. Si su idioma no tiene palabras que se ajusten a estas tres ideas distintas, podría expresar estas tres palabras con una o dos palabras o con una frase. Traducción alternativa: «sin pecado y perfecto» o «sin pecado ni mal»",
+  "lemas_es": [
+   "santo, inocente, puro"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b4f07fd5af29",
+  "lemas_rv1909": [
+   {
+    "lema": "santo, inocente",
+    "ref": "HEB.7.26"
+   }
+  ]
+ },
+ "uwtn-c:258715": {
+  "text_es": "La frase ⸢separado de los pecadores⸣ podría referirse a: (1) cómo Jesús es distinto o diferente de ⸢los pecadores⸣. Traducción alternativa: «no uno de los pecadores» o «distinto de los pecadores»; (2) cómo Jesús no entra en contacto con ⸢los pecadores⸣ porque ahora está ⸢más alto que los cielos⸣. Traducción alternativa: «morando lejos de los pecadores» o «sin entrar en contacto con los pecadores»",
+  "lemas_es": [
+   "separado de los pecadores"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2d87e99117ae",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.26"
+   }
+  ]
+ },
+ "uwtn-c:258716": {
+  "text_es": "Muchas personas en la cultura del autor creían que el espacio que llamaban «cielo» contenía múltiples capas o esferas de cielos individuales. El autor ya ha usado el plural ⸢cielos⸣ en 4:14. Aquí, el autor usa este lenguaje sin aclarar cuántos cielos hay. El punto principal es que Jesús está ⸢más alto que los cielos⸣. Esto podría significar que: (1) Jesús está en el cielo más alto, ⸢más alto⸣ que todos los demás ⸢cielos⸣. Traducción alternativa: «habiendo llegado al lugar más alto de los cielos»; (2) Jesús ha ido más allá de todos los ⸢cielos⸣. Esto podría ser una metáfora de cuánto lo ha honrado Dios, o podría significar que Jesús ha dejado la creación. Traducción alternativa: «habiendo sido exaltado más que los cielos» o «habiendo ido más allá de los cielos»",
+  "lemas_es": [
+   "habiendo llegado a ser más alto que los cielos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "efa518a0be3b",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.26"
+   }
+  ]
+ },
+ "uwtn:258713": {
+  "text_es": "La palabra ⸢tal⸣ podría referirse: (1) a lo que el autor dijo en los versículos anteriores acerca de cómo Jesús tiene un «sacerdocio permanente» y puede «salvar completamente» (véase 7:24–25). («ese tipo de pontífice»); (2) a lo que el autor dirá en este y los siguientes versículos acerca del tipo de pontífice que Jesús es. («el tipo de pontífice que estoy a punto de describir»)",
+  "lemas_es": [
+   "tal sumo sacerdote"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2c6449fe675f",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.26"
+   }
+  ]
+ },
+ "uwtn:258715": {
+  "text_es": "La frase ⸢separado de los pecadores⸣ podría referirse a: (1) cómo Jesús es distinto o diferente de ⸢los pecadores⸣. («no uno de los pecadores» o «distinto de los pecadores»); (2) cómo Jesús no entra en contacto con ⸢los pecadores⸣ porque ahora está ⸢más alto que los cielos⸣. («morando lejos de los pecadores» o «sin entrar en contacto con los pecadores»)",
+  "lemas_es": [
+   "separado de los pecadores"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1741bdf2fc5c",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.26"
+   }
+  ]
+ },
+ "uwtn:258716": {
+  "text_es": "Muchas personas en la cultura del autor creían que el espacio que llamaban «cielo» contenía múltiples capas o esferas de cielos individuales. El autor ya ha usado el plural ⸢cielos⸣ en 4:14. Aquí, el autor usa este lenguaje sin aclarar cuántos cielos hay. El punto principal es que Jesús está ⸢más alto que los cielos⸣. Esto podría significar que: (1) Jesús está en el cielo más alto, ⸢más alto⸣ que todos los demás ⸢cielos⸣. («habiendo llegado al lugar más alto de los cielos»); (2) Jesús ha ido más allá de todos los ⸢cielos⸣. Esto podría ser una metáfora de cuánto lo ha honrado Dios, o podría significar que Jesús ha dejado la creación. («habiendo sido exaltado más que los cielos» o «habiendo ido más allá de los cielos»)",
+  "lemas_es": [
+   "habiendo llegado a ser más alto que los cielos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6ac778751224",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.26"
+   }
+  ]
+ },
+ "uwtn-c:258717": {
+  "text_es": "Si fuera útil en su idioma, podría reordenar los elementos de esta oración. Traducción alternativa: «una necesidad cada día de ofrecer sacrificios, primero por sus propios pecados y luego por los del pueblo, así como lo hacen los pontífices»",
+  "lemas_es": [
+   "cada día una necesidad, así como los sumos sacerdotes, de ofrecer sacrificios, primero por sus propios pecados y luego por los del pueblo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3c1a19933870",
+  "lemas_rv1909": [
+   {
+    "lema": "necesidad cada día, como los ⸢otros⸣ sacerdotes, de ofrecer primero sacrificios por sus pecados, y luego por los del pueblo",
+    "ref": "HEB.7.27"
+   }
+  ]
+ },
+ "uwtn-c:258718": {
+  "text_es": "La frase ⸢pontífices⸣ se refiere a otros ⸢pontífices⸣ además de Jesús, más específicamente a los que descienden de Leví y Aarón. Si fuera útil en su idioma, podría hacer más explícito cuáles ⸢pontífices⸣ son estos. Traducción alternativa: «así como los otros pontífices» o «así como los pontífices levíticos»",
+  "lemas_es": [
+   "así como los sumos sacerdotes"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fb6e0f4d24cb",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.27"
+   }
+  ]
+ },
+ "uwtn-c:258719": {
+  "text_es": "El autor usa palabras e ideas muy similares a las que usó en 5:3. No son las mismas palabras, pero la idea principal es muy similar. Considere referirse a ese versículo cuando traduzca estas palabras.",
+  "lemas_es": [
+   "de ofrecer sacrificios, primero por sus propios pecados y luego por los del pueblo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4eb22abb9bfb",
+  "lemas_rv1909": [
+   {
+    "lema": "de ofrecer primero sacrificios por sus pecados, y luego por los del pueblo",
+    "ref": "HEB.7.27"
+   }
+  ]
+ },
+ "uwtn-c:258720": {
+  "text_es": "Las palabras ⸢primero⸣ y ⸢luego⸣ indican una secuencia en el tiempo. En otras palabras, solo después de ofrecer un sacrificio ⸢por sus propios pecados⸣, el pontífice lo hace ⸢por los del pueblo⸣. Si en su idioma sería útil, podría usar palabras o frases que introduzcan dos acciones en una secuencia. Traducción alternativa: «en primer lugar… y en segundo lugar» o «primero… y segundo».",
+  "lemas_es": [
+   "primero y luego"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f5c6bae8cadd",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.27"
+   }
+  ]
+ },
+ "uwtn-c:258721": {
+  "text_es": "La frase ⸢sus propios⸣ se refiere a cualquiera de los ⸢pontífices⸣. Las palabras ⸢él⸣ y ⸢él mismo⸣ se refieren a Jesús. Si en su idioma sería útil, podría aclarar más a quiénes se refieren estas palabras. Traducción alternativa: «los propios del pontífice… Jesús hizo… él mismo».",
+  "lemas_es": [
+   "sus propios y él hizo y él mismo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "611a58dbb426",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.27"
+   }
+  ]
+ },
+ "uwtn-c:258722": {
+  "text_es": "La palabra ⸢porque⸣ introduce la razón por la que Jesús no ⸢tenía cada día necesidad⸣ de hacer lo que hacían los ⸢pontífices⸣. Si en su idioma sería útil, podría usar una palabra o frase que introduzca una razón. Traducción alternativa: «puesto que» o «ya que».",
+  "lemas_es": [
+   "porque"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7057b13ed013",
+  "lemas_rv1909": [
+   {
+    "lema": "porque",
+    "ref": "HEB.7.27"
+   }
+  ]
+ },
+ "uwtn-c:258723": {
+  "text_es": "La palabra ⸢esto⸣ se refiere al resultado de los ⸢sacrificios⸣ que el autor mencionó antes en el versículo. Quiere decir que Jesús trató con éxito los pecados o los quitó, que es lo que aquellos ⸢sacrificios⸣ debían hacer. Si en su idioma sería útil, podría aclarar más a qué se refiere ⸢esto⸣. Traducción alternativa: «quitó con éxito los pecados» o «hizo lo que se suponía que hicieran estos sacerdotes».",
+  "lemas_es": [
+   "él hizo esto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ad1600174c68",
+  "lemas_rv1909": [
+   {
+    "lema": "esto ⸢lo⸣ hizo",
+    "ref": "HEB.7.27"
+   }
+  ]
+ },
+ "uwtn:258718": {
+  "text_es": "La frase ⸢pontífices⸣ se refiere a otros ⸢pontífices⸣ además de Jesús, más específicamente a los que descienden de Leví y de Aarón.",
+  "lemas_es": [
+   "así como los pontífices"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cba1f209a171",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.27"
+   }
+  ]
+ },
+ "uwtn:258719": {
+  "text_es": "El autor usa palabras e ideas muy similares a las que usó en 5:3. No son las mismas palabras, pero la idea principal es muy similar.",
+  "lemas_es": [
+   "para ofrecer sacrificios, primero por sus propios pecados y luego por los del pueblo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "80447e08968c",
+  "lemas_rv1909": [
+   {
+    "lema": "ofrecer primero sacrificios por sus pecados, y luego por los del pueblo",
+    "ref": "HEB.7.27"
+   }
+  ]
+ },
+ "uwtn-c:258724": {
+  "text_es": "La palabra ⸢Porque⸣ introduce una declaración de resumen de lo que el autor ha argumentado en 7:18–27. Si en su idioma sería útil, podría usar una palabra o frase comparable que introduzca una declaración de resumen. Traducción alternativa: «Como puede ver», o «Así que»,.",
+  "lemas_es": [
+   "Porque"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7cdfd7b39db0",
+  "text_es_2": "La palabra ⸢Porque⸣ introduce una declaración de resumen de lo que el autor ha argumentado en 7:18–27. Si le resulta útil en su idioma, podría usar una palabra o frase comparable que introduzca una declaración de resumen. Traducción alternativa: «Como puede ver», o «Así que»,",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "Porque",
+    "ref": "HEB.7.28"
+   }
+  ]
+ },
+ "uwtn-c:258725": {
+  "text_es": "El autor habla de ⸢la ley⸣ como si fuera una persona que pudiera «nombrar» pontífices. Habla así para indicar que estos pontífices cumplen lo que está escrito en la ley acerca de los pontífices. Si en su idioma sería útil, podría referirse al que dio ⸢la ley⸣ como el que ⸢nombra⸣, o podría expresar la idea de otra manera natural. Traducción alternativa: «en la ley está escrito que alguien debe nombrar» o «según la ley, se debe nombrar».",
+  "lemas_es": [
+   "la ley nombra"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6b3248dc8b8d",
+  "text_es_2": "El autor habla de ⸢la ley⸣ como si fuera una persona que pudiera «constituir» a personas como pontífices. Habla de esta manera para indicar que estos pontífices cumplen lo que está escrito en la ley acerca de los pontífices. Si le resulta útil en su idioma, podría referirse al que dio ⸢la ley⸣ como el que ⸢constituye⸣, o podría expresar la idea de otra manera natural. Traducción alternativa: «en la ley está escrito que alguien debe constituir» o «según la ley, se debe constituir»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.28"
+   }
+  ]
+ },
+ "uwtn-c:258726": {
+  "text_es": "La frase ⸢la ley⸣ se refiere a la ⸢ley⸣ que Dios dio a Israel por medio de Moisés. La frase ⸢la palabra del juramento de un juramento⸣ se refiere a lo que Dios hizo escribir al autor del Salmo 110:4. El salmo fue escrito ⸢después⸣ de la ley, lo que significa que puede anular lo que la ⸢ley⸣ requería. Si en su idioma sería útil, podría aclarar a qué ⸢ley⸣ y ⸢juramento⸣ se refiere el autor. Traducción alternativa: «la ley de Moisés… pero el salmo que registra el juramento de un juramento, que fue escrito después de la ley».",
+  "lemas_es": [
+   "la ley y la palabra del juramento de un juramento, que vino después de la ley"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "575b2fca7930",
+  "text_es_2": "La frase ⸢la ley⸣ se refiere a la ⸢ley⸣ que Dios dio a Israel por medio de Moisés. La frase ⸢la palabra del juramento⸣ se refiere a lo que Dios hizo escribir al autor del Salmo 110:4. El salmo fue escrito ⸢después⸣ de la ley, lo que significa que puede anular lo que la ⸢ley⸣ exigía. Si le resulta útil en su idioma, podría explicitar a qué ⸢ley⸣ y ⸢juramento⸣ se refiere el autor. Traducción alternativa: «la ley de Moisés… pero el salmo que registra el juramento, que fue escrito después de la ley»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "la ley constituye sacerdotes a hombres flacos; mas la palabra del juramento, después de la ley",
+    "ref": "HEB.7.28"
+   }
+  ]
+ },
+ "uwtn-c:258727": {
+  "text_es": "En la cultura israelita y judía, solo los ⸢hombres⸣ podían ser pontífices, así que el autor se refiere aquí a ⸢hombres⸣. Sin embargo, no está enfatizando que los pontífices fueran varones, así que puede usar una palabra que se refiera tanto a hombres como a mujeres si es más claro. Traducción alternativa: «personas».",
+  "lemas_es": [
+   "hombres"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "10e1d4eb4a5a",
+  "text_es_2": "En la cultura israelita y judía, solo los ⸢hombres⸣ podían ser pontífices, por lo que el autor se refiere aquí a ⸢hombres⸣. Sin embargo, no está enfatizando que los pontífices fueran varones, así que puede usar una palabra que se refiera tanto a hombres como a mujeres si es más claro. Traducción alternativa: «personas»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "hombres",
+    "ref": "HEB.7.28"
+   }
+  ]
+ },
+ "uwtn-c:258728": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢debilidad⸣, podría expresar la idea usando un adjetivo como «débil». Traducción alternativa: «hombres que son débiles» o «hombres que fallan».",
+  "lemas_es": [
+   "hombres que tienen debilidad"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "14296f4e0698",
+  "text_es_2": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢debilidad⸣, podría expresar la idea usando un adjetivo como «débil». Traducción alternativa: «hombres que son débiles» o «hombres que fallan»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.28"
+   }
+  ]
+ },
+ "uwtn-c:258729": {
+  "text_es": "Al igual que con ⸢la ley⸣, el autor habla de ⸢la palabra del juramento⸣ como si fuera una persona que pudiera «nombrar» a alguien. Habla de este modo para indicar que el ⸢Hijo⸣ cumple lo que Dios «juró» en el Salmo 110:4. Si fuera útil en su idioma, podría referirse al que juró ⸢el juramento⸣ como el que ⸢nombra⸣, o podría expresar la idea de otra manera natural. Traducción alternativa: «en la palabra del juramento, que vino después de la ley, está escrito que Dios nombra un Hijo»",
+  "lemas_es": [
+   "la palabra del juramento, que vino después de la ley, nombra un Hijo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e654a729d3e5",
+  "text_es_2": "Tal como con ⸢la ley⸣, el autor habla de ⸢la palabra del juramento⸣ como si fuera una persona que pudiera «constituir» a alguien. Habla de esta manera para indicar que el ⸢Hijo⸣ cumple lo que Dios «juró» en el Salmo 110:4. Si le resulta útil en su idioma, podría referirse al que juró ⸢el juramento⸣ como el que ⸢constituye⸣, o podría expresar la idea de otra manera natural. Traducción alternativa: «en la palabra del juramento, que vino después de la ley, está escrito que Dios constituye a un Hijo»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "corregido_por_juez": "«the word of the swearing of an oath» se traduce como «la palabra del juramento de un juramento», redundante y con sentido alterado; debería ser «la palabra del juramento».",
+  "lemas_rv1909": [
+   {
+    "lema": "la palabra del juramento, después de la ley, ⸢constituye⸣ al Hijo",
+    "ref": "HEB.7.28"
+   }
+  ]
+ },
+ "uwtn-c:258730": {
+  "text_es": "El autor usa la forma posesiva para describir una ⸢palabra⸣ que registra cómo Dios «juró» ⸢un juramento⸣. Si en su idioma sería útil, podría expresar la idea sin usar una forma posesiva. Traducción alternativa: «la palabra que registra cómo Dios juró un juramento».",
+  "lemas_es": [
+   "la palabra del juramento de un juramento"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "29cc6a010390",
+  "text_es_2": "El autor usa la forma posesiva para describir una ⸢palabra⸣ que registra cómo Dios «juró» ⸢un juramento⸣. Si le resulta útil en su idioma, podría expresar la idea sin usar una forma posesiva. Traducción alternativa: «la palabra que registra cómo Dios juró un juramento»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "la palabra del juramento",
+    "ref": "HEB.7.28"
+   }
+  ]
+ },
+ "uwtn-c:258731": {
+  "text_es": "La palabra ⸢palabra⸣ se refiere a lo que alguien dice con palabras. Si fuera útil en su idioma, podría usar una expresión equivalente o un lenguaje sencillo. Traducción alternativa: «el mensaje acerca del juramento» o «lo que Dios dijo acerca del juramento»",
+  "lemas_es": [
+   "la palabra del juramento"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "19bc5dd23203",
+  "text_es_2": "La palabra ⸢palabra⸣ se refiere a lo que alguien dice con palabras. Si le resulta útil en su idioma, podría usar una expresión equivalente o un lenguaje sencillo. Traducción alternativa: «el mensaje acerca del juramento» o «lo que Dios dijo acerca del juramento»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "corregido_por_juez": "«swearing of an oath» se traduce como «juramento de un juramento», redundante y con sentido alterado; debería ser «el juramento» o «la prestación de juramento».",
+  "lemas_rv1909": [
+   {
+    "lema": "la palabra del juramento",
+    "ref": "HEB.7.28"
+   }
+  ]
+ },
+ "uwtn-c:258732": {
+  "text_es": "La palabra ⸢Hijo⸣ es un título importante para Jesús, el Hijo de Dios.",
+  "lemas_es": [
+   "nombra a un Hijo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f8ed445f0f82",
+  "text_es_2": "La palabra ⸢Hijo⸣ es un título importante para Jesús, el Hijo de Dios.",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.28"
+   }
+  ]
+ },
+ "uwtn-c:258733": {
+  "text_es": "La frase ⸢habiendo sido hecho perfecto para siempre⸣ podría referirse a: (1) quién es el ⸢Hijo⸣. Traducción alternativa: «quien ha sido hecho perfecto para siempre»; (2) algo que sucedió antes de que el ⸢Hijo⸣ llegara a ser pontífice. Traducción alternativa: «después de que fue hecho perfecto para siempre».",
+  "lemas_es": [
+   "habiendo sido hecho perfecto para siempre"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "40e5c9eb6c07",
+  "text_es_2": "La frase ⸢habiendo sido hecho perfecto para siempre⸣ podría referirse a: (1) quién es el ⸢Hijo⸣. Traducción alternativa: «quien ha sido hecho perfecto para siempre»; (2) algo que sucedió antes de que el ⸢Hijo⸣ llegara a ser pontífice. Traducción alternativa: «después de que fue hecho perfecto para siempre»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "hecho perfecto para siempre",
+    "ref": "HEB.7.28"
+   }
+  ]
+ },
+ "uwtn-c:258734": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en el que es ⸢hecho perfecto⸣ más que en la persona que lo perfecciona. Si debe indicar quién hizo la acción, el autor implica que Dios lo hizo. Traducción alternativa: «habiéndolo Dios hecho perfecto».",
+  "lemas_es": [
+   "habiendo sido hecho perfecto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7a14490f86df",
+  "text_es_2": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en el que es ⸢hecho perfecto⸣, más que en la persona que lo perfecciona. Si debe indicar quién hizo la acción, el autor implica que Dios lo hizo. Traducción alternativa: «Dios, habiéndolo hecho perfecto»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.28"
+   }
+  ]
+ },
+ "uwtn:258726": {
+  "text_es": "La frase ⸢la ley⸣ se refiere a la ⸢ley⸣ que Dios dio a Israel por medio de Moisés. La frase ⸢la palabra del juramento de un juramento⸣ se refiere a lo que Dios hizo escribir al autor del Salmo 110:4. El salmo fue escrito ⸢después⸣ de la ley, lo que significa que puede anular lo que la ⸢ley⸣ requería.",
+  "lemas_es": [
+   "la ley y la palabra del juramento de un juramento, que vino después de la ley"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "19c62b81ff1c",
+  "text_es_2": "La frase ⸢la ley⸣ se refiere a la ⸢ley⸣ que Dios dio a Israel por medio de Moisés. La frase ⸢la palabra del juramento⸣ se refiere a lo que Dios hizo escribir al autor del Salmo 110:4. El salmo fue escrito ⸢después⸣ de la ley, lo que significa que puede anular lo que la ⸢ley⸣ exigía.",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "la ley constituye sacerdotes a hombres flacos; mas la palabra del juramento, después de la ley",
+    "ref": "HEB.7.28"
+   }
+  ]
+ },
+ "uwtn:258732": {
+  "text_es": "La palabra ⸢Hijo⸣ es un título importante para Jesús, el Hijo de Dios.",
+  "lemas_es": [
+   "nombra a un Hijo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f8ed445f0f82",
+  "text_es_2": "La palabra ⸢Hijo⸣ es un título importante para Jesús, el Hijo de Dios.",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.28"
+   }
+  ]
+ },
+ "uwtn:258733": {
+  "text_es": "La frase ⸢habiendo sido hecho perfecto para siempre⸣ podría referirse a: (1) quién es el ⸢Hijo⸣. («quien ha sido hecho perfecto para siempre»); (2) algo que sucedió antes de que el ⸢Hijo⸣ llegara a ser pontífice. («después de que fue hecho perfecto para siempre»).",
+  "lemas_es": [
+   "habiendo sido hecho perfecto para siempre"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5a9f2c11edfe",
+  "text_es_2": "La frase ⸢habiendo sido hecho perfecto para siempre⸣ podría referirse a: (1) quién es el ⸢Hijo⸣. («quien ha sido hecho perfecto para siempre»); (2) algo que sucedió antes de que el ⸢Hijo⸣ llegara a ser pontífice. («después de que fue hecho perfecto para siempre»)",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "hecho perfecto para siempre",
+    "ref": "HEB.7.28"
+   }
+  ]
  }
 }

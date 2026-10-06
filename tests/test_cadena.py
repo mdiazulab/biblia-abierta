@@ -138,6 +138,18 @@ class Compuerta(unittest.TestCase):
         self.assertIsNotNone(m)
         self.assertNotEqual(m, "Jesús es el Verbo. Vino en el año 30. Fue enviado.")
 
+    def test_comillas_curvas_y_remisiones_rc(self):
+        import traducir as T
+        self.assertEqual(T.comillas("palabras con “perfección,” y «dijo “sí”»"), "palabras con «perfección», y «dijo “sí”»")
+        self.assertEqual(T.limpiar("cuatro opciones. (Ver: [[rc://*/tw/dict/bible/other/perfect]]) Sigue"), "cuatro opciones. Sigue")
+
+    def test_adjudicacion_ya_aplicada_no_queda_pendiente(self):
+        C._ADJ["PRUEBA"] = {"x": {"reemplazos": [["al pueblo de Dios pueblo suyo", "a los judíos pueblo de Dios"]]}}
+        r = C.adjudicacion("x", "PRUEBA", "cuando David llamó a los judíos pueblo de Dios, sacó")
+        self.assertNotIn("adjudicacion_pendiente", r)
+        r = C.adjudicacion("x", "PRUEBA", "cuando David llamó al pueblo santo")
+        self.assertIn("adjudicacion_pendiente", r)
+
     def test_word_of_god_escritura_no_es_el_hijo(self):
         # Calvino (Owen) 10:37: «his watchtower was the Word of God» es la Escritura; «was the Word» sigue siendo el Hijo
         self.assertIsNone(V.CRISTO_EN.search("and his watchtower was the Word of God, by which he was raised"))

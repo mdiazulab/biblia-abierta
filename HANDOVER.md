@@ -132,6 +132,14 @@ Calvino (corrida del 06-10-2026): 1.046 notas, sin traducir 0, sensibilidad 229/
 barrida en Juan (17 casos, todos del Hijo: bien) y Hebreos (4 corregidos). CRISTO_EN ya no confunde «was the
 Word of God» (Escritura) con el Hijo. epubcheck se corre de a un archivo (con varios solo mostraba la ayuda).
 
+Capa G y volumen griego (corrida del 06-10-2026, espejo): traducción completa (0 sin traducir); el saldo de
+DeepSeek se agotó en el juez (HTTP 402) desde el cap. 10: 586 notas sin juzgar y 13 notas del cap. 13 con frases
+en inglés quitadas de traducido/ para retraducir. Cola resuelta con evidencia (22 adjudicaciones). Clases nuevas,
+aplicadas a Juan y Hebreos: comillas curvas “…” -> «…» (291 notas), remisiones «[[rc://…]]» de unfoldingWord
+(40, quitadas en origen y en el español; huellas actualizadas sin retraducir), adjudicación ya aplicada no queda
+pendiente, 402 corta la corrida, ejemplos ULT del glosario se traducen del inglés (regla del glosario).
+Siguiente: con saldo, orden «HEB todos» en biblia-abierta (repo público) -> juez de lo pendiente y retraducción.
+
 Pendiente:
 1. Wesley (Explanatory Notes) como segunda voz de la Reforma/avivamiento, si se quiere.
 2. Solo DeepSeek (decisión del usuario 06-10-2026: Gemini sin créditos): TRADUCTOR deepseek-chat, CONTROL

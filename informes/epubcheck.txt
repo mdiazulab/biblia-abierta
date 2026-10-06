@@ -1,4 +1,4 @@
-Unrecognized argument: "../epub/Juan_RV1909_estudio.epub"
+Unrecognized argument: "../epub/Hebreos_griego_explicado.epub"
 EPUBCheck v4.2.6
 
 When running this tool, the first argument should be the name (with the path)

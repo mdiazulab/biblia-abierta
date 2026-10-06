@@ -513,13 +513,13 @@
   ]
  },
  "calvino:HEB.6.13#82": {
-  "text_es": "13. ⸢Porque cuando Dios hizo la promesa a Abraham, etc.⸣ Su propósito era probar que la gracia de Dios se nos ofrece en vano, a menos que recibamos la promesa por fe y la guardemos constantemente en el seno de nuestro corazón. Y lo prueba con este argumento: que cuando Dios prometió a Abraham una descendencia innumerable, parecía cosa increíble; Sara había sido estéril toda su vida; ambos habían llegado a una vejez estéril, cuando estaban más cerca del sepulcro que del lecho conyugal; no había vigor para engendrar hijos, pues el vientre de Sara, que había sido estéril durante el vigor de la vida, ahora estaba muerto. ¿Quién podría creer que de ellos procedería una nación que igualara a las estrellas en número y como la arena del mar? Era, en verdad, contrario a toda razón. Sin embargo, Abraham lo esperó y no temió decepción alguna, porque confiaba en el Verbo de Dios. Debemos, pues, notar la circunstancia en cuanto al tiempo, para que el razonamiento del Apóstol aparezca evidente; y lo que añade se refiere a esto: que fue hecho partícipe de esta bendición, pero que fue después de haber esperado lo que nadie habría pensado que llegaría a suceder. De esta manera se debe dar gloria a Dios; debemos esperar tranquilamente lo que él aún no muestra a nuestros sentidos, sino que nos oculta y difiere por largo tiempo, para que nuestra paciencia sea ejercitada.\n\nPor qué Dios ⸢juró por sí mismo⸣ lo veremos en seguida. El modo de jurar, ⸢De cierto te bendeciré⸣, ya explicamos lo que significa en el tercer capítulo: el nombre de Dios no se expresa aquí, pero debe entenderse, pues si no cumple lo que promete, testifica que no ha de ser tenido por verdadero y fiel.",
+  "text_es": "13. ⸢Porque cuando Dios hizo la promesa a Abraham, etc.⸣ Su propósito era probar que la gracia de Dios se nos ofrece en vano, a menos que recibamos la promesa por fe y la guardemos constantemente en el seno de nuestro corazón. Y lo prueba con este argumento: que cuando Dios prometió a Abraham una descendencia innumerable, parecía cosa increíble; Sara había sido estéril toda su vida; ambos habían llegado a una vejez estéril, cuando estaban más cerca del sepulcro que del lecho conyugal; no había vigor para engendrar hijos, cuando el vientre de Sara, que había sido estéril durante el vigor de la vida, ahora estaba muerto. ¿Quién podría creer que de ellos procedería una nación que igualara en número a las estrellas y como la arena del mar? Era, en verdad, contrario a toda razón. Sin embargo, Abraham lo esperó y no temió decepción alguna, porque confiaba en la palabra de Dios. Debemos, pues, notar la circunstancia en cuanto al tiempo, para que el razonamiento del Apóstol aparezca evidente; y lo que añade se refiere a esto: que fue hecho partícipe de esta bendición, pero que fue después de haber esperado lo que nadie habría pensado que llegaría a suceder. De esta manera se debe dar gloria a Dios; debemos esperar tranquilamente lo que él aún no muestra a nuestros sentidos, sino que nos lo oculta y por largo tiempo lo difiere, para que nuestra paciencia sea ejercitada.\n\nPor qué Dios ⸢juró por sí mismo⸣ lo veremos en seguida. El modo de jurar, ⸢Excepto bendiciendo te bendeciré⸣, ya hemos explicado lo que significa en el tercer capítulo: el nombre de Dios no se expresa aquí, pero debe entenderse, pues si no cumple lo que promete, testifica que no ha de ser tenido por verdadero y fiel.",
   "lemas_es": [
    "Porque cuando Dios hizo la promesa a Abraham"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "281ec72755cf",
-  "corregido_por_juez": "Traduce «the Word of God» como «el Verbo de Dios», cambiando el sentido de palabra/promesa de Dios a referencia cristológica.",
+  "corregido_por_juez": "Traduce 'Word of God' como 'Verbo de Dios'; en RV1909 'el Verbo' designa a Cristo, pero aquí es la palabra/promesa de Dios, lo que cambia el sentido.",
   "lemas_rv1909": [
    {
     "lema": "Porque prometiendo Dios a Abraham",
@@ -595,6 +595,2013 @@
    {
     "lema": null,
     "ref": "HEB.6.19"
+   }
+  ]
+ },
+ "uwtn-c:258479": {
+  "text_es": "La frase ⸢Así que⸣ introduce lo que el autor quiere que su audiencia haga en respuesta a la advertencia que dio en 5:11–14. Si en su idioma sería útil, podría usar una palabra o frase que introduzca una aplicación o inferencia. Traducción alternativa: «Por eso»",
+  "lemas_es": [
+   "Así que"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "73547f04908e",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.1"
+   }
+  ]
+ },
+ "uwtn-c:258480": {
+  "text_es": "El autor habla como si el ⸢principio del mensaje de Cristo⸣ fuera el punto de partida de un viaje y como si la ⸢madurez⸣ fuera el destino. Habla de esta manera para animar a su audiencia a concentrar más tiempo y energía en el destino (la ⸢madurez⸣) que en donde comenzaron (⸢el principio del mensaje⸣). No quiere que reemplacen ⸢el principio del mensaje⸣ con lo que se relaciona con la ⸢madurez⸣. Más bien, les exhorta acerca de en qué deben concentrar su tiempo y energía. Si en su idioma sería útil, podría expresar el significado de manera clara. Traducción alternativa: «dejando a un lado el principio del mensaje de Cristo, avancemos hacia la madurez» o «concentrándonos menos en el principio del mensaje de Cristo, concentrémonos más en la madurez»",
+  "lemas_es": [
+   "dejando el mensaje del principio de Cristo, avancemos hacia la madurez"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8ff0e6aa6deb",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.1"
+   }
+  ]
+ },
+ "uwtn-c:258481": {
+  "text_es": "El autor usa la forma posesiva para identificar las partes del ⸢mensaje⸣ acerca de ⸢Cristo⸣ con las que una persona «comenzaría». Si en su idioma sería útil, podría expresar la idea de una forma más natural. Traducción alternativa: «lo que ustedes aprendieron primero acerca de Cristo»",
+  "lemas_es": [
+   "el mensaje del principio de Cristo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "dd40d8cae046",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.1"
+   }
+  ]
+ },
+ "uwtn-c:258482": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢madurez⸣, podría expresar la idea usando un adjetivo como «maduro». La idea de ⸢madurez⸣ podría relacionarse principalmente con: (1) la audiencia y cómo se están volviendo «maduros». Traducción alternativa: «a llegar a ser personas maduras»; (2) el ⸢mensaje⸣ o las enseñanzas que aprenden los «maduros». Traducción alternativa: «a enseñanzas para personas maduras»",
+  "lemas_es": [
+   "a la madurez"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "15b093c94cdb",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.1"
+   }
+  ]
+ },
+ "uwtn-c:258483": {
+  "text_es": "El autor habla de enseñar cosas básicas como si fuera ⸢poner⸣ un ⸢fundamento⸣. Habla de esta manera porque el ⸢fundamento⸣ es lo primero que «pone» un constructor, y el constructor pronto comienza a edificar sobre ese fundamento. Si en su idioma sería útil, podría expresar el significado de manera clara. Traducción alternativa: «sin repetir de nuevo las enseñanzas sencillas» o «sin aprender de nuevo lo básico»",
+  "lemas_es": [
+   "sin poner de nuevo un fundamento"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ba2f040c401a",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.1"
+   }
+  ]
+ },
+ "uwtn-c:258484": {
+  "text_es": "Si su idioma no usa sustantivos abstractos para las ideas de ⸢arrepentimiento⸣ y ⸢fe⸣, podría expresar las ideas de otra manera. Traducción alternativa: «acerca de arrepentirse de obras muertas y de creer»",
+  "lemas_es": [
+   "de arrepentimiento de obras muertas y de fe"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "12e58b7c607d",
+  "lemas_rv1909": [
+   {
+    "lema": "arrepentimiento de obras muertas, y de la fe",
+    "ref": "HEB.6.1"
+   }
+  ]
+ },
+ "uwtn-c:258485": {
+  "text_es": "El autor describe las ⸢obras⸣ como si fueran una persona o un animal ⸢muerto⸣. El autor podría describir las ⸢obras⸣ como ⸢muertas⸣ porque: (1) no pueden lograr nada, así como una persona ⸢muerta⸣ no puede hacer nada. Traducción alternativa: «obras que no logran nada»; (2) llevan a la muerte física y espiritual a la persona que las hace. Traducción alternativa: «obras que llevan a la muerte»",
+  "lemas_es": [
+   "obras muertas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "87d1999fa9ac",
+  "lemas_rv1909": [
+   {
+    "lema": "obras muertas",
+    "ref": "HEB.6.1"
+   }
+  ]
+ },
+ "uwtn-c:en_tn_HEB_nz5i#0": {
+  "text_es": "Estructura y formato\n\n• El Hijo como pontífice (5:1–10:18)\n\n◦ Exhortación: ¡Asegúrense de perseverar! (5:11–6:12)\n\n◦ Exhortación: La promesa de Dios es segura (6:13–20)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "48f59682e3e3"
+ },
+ "uwtn-c:en_tn_HEB_nz5i#1": {
+  "text_es": "Conceptos religiosos y culturales en este capítulo\n\nLa promesa a Abraham (6:13–15)\n\nEn 6:13–14, el autor habla acerca de la promesa de Dios a Abraham. Cita directamente de Génesis 22:17, pero también tiene en mente otras ocasiones en que Dios hizo promesas similares a Abraham: Génesis 12:1–3; 15:1–21; 17:1–8. El punto del autor es que Dios «juró por sí mismo», lo que significa que él mismo garantizó lo que prometió. Abraham esperó que Dios cumpliera esa promesa, y Dios finalmente lo hizo cuando le dio a Abraham un hijo y luego numerosos descendientes. Si sus lectores necesitaran parte de esta información para entender el pasaje, podría incluirla en una nota al pie.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "be8696ca63fb"
+ },
+ "uwtn-c:en_tn_HEB_nz5i#2": {
+  "text_es": "«Jurar» y el «juramento»\n\nEn 6:13–18, el autor se refiere a «jurar» y a usar un «juramento». En este contexto, «jurar» por alguien se refiere a la acción de garantizar una promesa, mientras que el «juramento» se refiere a las palabras mismas que la garantizan. Cuando alguien hace un «juramento», «jura por» una persona o cosa que es más poderosa que él. Lo que está diciendo es que la persona o cosa poderosa lo castigará si está mintiendo. Si sus lectores malinterpretaran «jurar» y «juramento», podría usar lenguaje que provenga de cómo las personas garantizan lo que dicen en su cultura.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "364f1c29e81d"
+ },
+ "uwtn-c:en_tn_HEB_nz5i#3": {
+  "text_es": "El santuario celestial\n\nEn 6:19–20, el autor se refiere por primera vez al santuario celestial. Tratará este santuario más en los capítulos siguientes. En este punto, simplemente se refiere a cómo nuestra «esperanza» figuradamente «entra» donde Jesús mismo «entró»: el área «dentro» del «velo». En la cultura del autor, un santuario tendría una pared sólida o un «velo» de tela que separaba la parte más sagrada del santuario del resto de la estructura. Esta parte del santuario es la más sagrada porque es donde Dios está presente de manera más intensa. Use palabras que se refieran claramente a la parte más sagrada de un santuario. Dado que el autor describe el santuario celestial con palabras que provienen de cómo se describe el tabernáculo en el Antiguo Testamento, debería conservar tantos detalles como sea posible (como un «velo» en lugar de una pared).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7643e0453e48"
+ },
+ "uwtn-c:en_tn_HEB_nz5i#4": {
+  "text_es": "Cuestiones de traducción en este capítulo\n\nLa metáfora agrícola en 6:7–8\n\nEn estos versículos, el autor usa la tierra que las personas usan para cultivar alimentos como una analogía de cómo las personas responden a los dones de Dios y a su mensaje acerca de la salvación. En 6:7, el autor describe tierra de cultivo que produce cosechas útiles cuando la lluvia cae sobre ella. Esta buena tierra de cultivo es como las personas que oyen las buenas noticias, las creen y luego obedecen a Dios. En 6:8, el autor describe tierra de cultivo que produce plantas que no son útiles y que pueden dañar a las personas. Un agricultor prenderá fuego a estas plantas para destruirlas. Esta mala tierra de cultivo es como las personas que oyen las buenas noticias y reciben dones de Dios, pero no llegan a creer firmemente las buenas noticias ni obedecen a Dios. Dios los castigará, de manera muy similar a como el agricultor quema las malas plantas. Si sus lectores malinterpretaran esta analogía, podría hacer la comparación más explícita en el texto.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bc902c1cfaad"
+ },
+ "uwtn-c:en_tn_HEB_nz5i#5": {
+  "text_es": "La esperanza como ancla\n\nEn 6:19, el autor afirma que la «esperanza» tiene las cualidades de un «ancla». Un ancla es una pieza pesada de metal sujeta al extremo de una cuerda. El otro extremo de la cuerda está atado a un barco, y el ancla se deja caer por el borde para que su peso impida que el barco se mueva o se aleje a la deriva. El punto del autor es que la esperanza funciona como un ancla para los creyentes: los mantiene enfocados en Jesús y en lo que Dios ha prometido, y no se «alejan a la deriva» de lo que creen (Véase: la advertencia en 2:1). Si sus lectores no supieran qué es un «ancla», podría comparar la esperanza con alguna otra cosa en su cultura que mantenga las cosas en su lugar.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "728f88199647"
+ },
+ "uwtn-c:en_tn_HEB_nz5i#6": {
+  "text_es": "Las enseñanzas «fundamentales» en 6:1–2\n\nEn estos versículos, el autor enumera seis cosas que son enseñanzas «fundamentales» o «elementales». Estas no son las únicas enseñanzas «fundamentales», pero el autor las usa como ejemplos. La estructura de la lista puede entenderse de al menos tres maneras diferentes:\n\n(1)\n\n• el fundamento\n\n◦ de arrepentimiento de obras muertas y\n\n◦ de fe en Dios,\n\n• enseñanza\n\n◦ acerca de bautismos y\n\n▪ imposición de manos y\n\n▪ resurrección de los muertos y\n\n▪ juicio eterno.\n\n(2)\n\n• el fundamento\n\n◦ de arrepentimiento de obras muertas y\n\n◦ de fe en Dios,\n\n◦ de enseñanza\n\n▪ acerca de bautismos y\n\n▪ imposición de manos y\n\n▪ resurrección de los muertos y\n\n▪ juicio eterno.\n\n(3)\n\n• el fundamento\n\n◦ de arrepentimiento de obras muertas y\n\n◦ de fe en Dios,\n\n◦ de enseñanza acerca de bautismos y\n\n◦ de imposición de manos y\n\n◦ de resurrección de los muertos y\n\n◦ de juicio eterno.\n\nVéase la nota al comienzo de 6:2 para sugerencias de traducción para cada una de estas opciones.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "88cbf2d0f49f"
+ },
+ "uwtn-c:en_tn_HEB_nz5i#7": {
+  "text_es": "¿Son verdaderos creyentes los que «caen» en 6:4–6?\n\nEn 6:4–5, el autor da una lista de cosas que una persona puede experimentar y luego aun así «caer» (6:6). Los eruditos debaten si esta lista describe a personas que verdaderamente creen en Jesús y luego dejan de creer, o si describe a personas que se acercan a creer en Jesús pero luego no creen verdaderamente. Dado que el autor se enfoca en cómo estas personas han experimentado cosas buenas de Dios pero luego aun así rechazan a Jesús, no expresa claramente si estas personas son verdaderos creyentes o no. Si es posible, enfoque su traducción en lo que las personas experimentan y no en si han creído verdaderamente.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5b4082bd2f7a"
+ },
+ "uwtn:258485": {
+  "text_es": "El autor describe las ⸢obras⸣ como si fueran una persona o un animal ⸢muerto⸣. El autor podría describir las ⸢obras⸣ como ⸢muertas⸣ porque: (1) no pueden lograr nada, así como una persona ⸢muerta⸣ no puede hacer nada. («obras que no logran nada»); (2) llevan a la muerte física y espiritual a la persona que las hace. («obras que llevan a la muerte»)",
+  "lemas_es": [
+   "obras muertas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f49fd55456d0",
+  "lemas_rv1909": [
+   {
+    "lema": "obras muertas",
+    "ref": "HEB.6.1"
+   }
+  ]
+ },
+ "uwtn-c:258486": {
+  "text_es": "La ⸢enseñanza⸣ (Véase: la introducción del capítulo) podría: (1) redefinir el «fundamento» en el versículo anterior (6:2) y acompañar los cuatro temas de este versículo. Traducción alternativa: «es decir, enseñanza acerca de bautismos y acerca de imposición de manos y acerca de resurrección de los muertos y acerca de juicio eterno»; (2) identificar la tercera parte del «fundamento», junto con «arrepentimiento de obras muertas» y «fe en Dios» (Véase: 6:2). En este caso, acompaña los cuatro temas de este versículo. Traducción alternativa: «y de enseñanza acerca de bautismos y acerca de imposición de manos y acerca de resurrección de los muertos y acerca de juicio eterno»; (3) identificar la tercera parte del «fundamento», y el resto de los temas de este versículo también identifican partes del «fundamento». Traducción alternativa: «y de enseñanza acerca de bautismos y de imposición de manos y de resurrección de los muertos y de juicio eterno»",
+  "lemas_es": [
+   "enseñanza acerca de bautismos e imposición de manos y resurrección de los muertos y juicio eterno"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fb22832bd439",
+  "lemas_rv1909": [
+   {
+    "lema": "de bautismos, y de la imposición de manos, y de la resurrección de los muertos, y del juicio eterno",
+    "ref": "HEB.6.2"
+   }
+  ]
+ },
+ "uwtn-c:258487": {
+  "text_es": "La palabra ⸢bautismos⸣ es plural. Podría referirse a: (1) diferentes clases de ⸢bautismos⸣ que las personas conocían. Véase la discusión acerca del «bautismo de Juan» en Hechos 19:1–7 como ejemplo de diferentes clases de ⸢bautismos⸣. Traducción alternativa: «acerca de diversos bautismos» o «diferentes clases de bautismos»; (2) muchos tipos diferentes de rituales de lavamiento. Traducción alternativa: «acerca de lavamientos» o «acerca de clases de lavamiento»",
+  "lemas_es": [
+   "acerca de bautismos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2f7e356f1c3e",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.2"
+   }
+  ]
+ },
+ "uwtn-c:258488": {
+  "text_es": "La frase ⸢imposición de manos⸣ se refiere a cómo los creyentes ponían sus manos sobre un hermano en la fe cuando lo comisionaban, oraban por él, pedían a Dios que lo sanara o lo ayudaban a recibir el Espíritu Santo. Para ejemplos, véanse Hechos 8:14–17; Hechos 13:2–3; Hechos 28:8; 1 Timoteo 4:14. En todas estas situaciones, Dios usa la ⸢imposición de manos⸣ para ayudar a un hermano en la fe. Si es posible, exprese la idea de tal manera que sus lectores entiendan la acción física y también que la acción ayuda a otros creyentes. Si es necesario, podría incluir alguna breve información adicional en su traducción o más información en una nota al pie. Traducción alternativa: «imposición de manos, mediante la cual Dios obra» o «poner las manos sobre los creyentes»",
+  "lemas_es": [
+   "imposición de manos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bba229a215a4",
+  "lemas_rv1909": [
+   {
+    "lema": "imposición de manos",
+    "ref": "HEB.6.2"
+   }
+  ]
+ },
+ "uwtn-c:258489": {
+  "text_es": "El autor usa la forma posesiva para hablar de cómo una persona «impone» sus ⸢manos⸣ sobre otra y de cómo los ⸢muertos⸣ «resucitarán». Si sería útil en su idioma, podría usar una forma más natural. Traducción alternativa: «imponer manos sobre otros y la resurrección de los muertos»",
+  "lemas_es": [
+   "imposición de manos y resurrección de los muertos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8bddd9aeefb5",
+  "lemas_rv1909": [
+   {
+    "lema": "imposición de manos, y de la resurrección de los muertos",
+    "ref": "HEB.6.2"
+   }
+  ]
+ },
+ "uwtn-c:258490": {
+  "text_es": "El autor usa el adjetivo ⸢muertos⸣ como sustantivo para referirse a todas las personas que están ⸢muertas⸣. Puede que su idioma use adjetivos de la misma manera. Si no, podría traducir esto con una frase nominal. Traducción alternativa: «de las personas muertas» o «de los cadáveres»",
+  "lemas_es": [
+   "de los muertos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "040fe813edae",
+  "lemas_rv1909": [
+   {
+    "lema": "de los muertos",
+    "ref": "HEB.6.2"
+   }
+  ]
+ },
+ "uwtn-c:258491": {
+  "text_es": "La frase ⸢juicio eterno⸣ podría identificar un ⸢juicio⸣ que: (1) tiene validez o consecuencias ⸢eternas⸣. En otras palabras, lo que Dios decide en este ⸢juicio⸣ nunca cambiará. Traducción alternativa: «juicio que lleva a un destino eterno»; (2) ocurre al final de este tiempo y al comienzo del tiempo ⸢eterno⸣. En otras palabras, el ⸢juicio eterno⸣ es el último ⸢juicio⸣ de Dios cuando renueva la creación. Traducción alternativa: «juicio final» o «el último juicio de Dios»",
+  "lemas_es": [
+   "juicio eterno"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "927293e5ddfb",
+  "lemas_rv1909": [
+   {
+    "lema": "juicio eterno",
+    "ref": "HEB.6.2"
+   }
+  ]
+ },
+ "uwtn:258486": {
+  "text_es": "La ⸢enseñanza⸣ (véase la introducción del capítulo) podría: (1) redefinir el «fundamento» del versículo anterior (6:2) y acompañar los cuatro temas de este versículo. («es decir, enseñanza acerca de bautismos y acerca de la imposición de manos y acerca de la resurrección de los muertos y acerca del juicio eterno»); (2) identificar la tercera parte del «fundamento», junto con «arrepentimiento de obras muertas» y «fe en Dios» (véase 6:2). En este caso, acompaña los cuatro temas de este versículo. («y de enseñanza acerca de bautismos y acerca de la imposición de manos y acerca de la resurrección de los muertos y acerca del juicio eterno»); (3) identificar la tercera parte del «fundamento», y el resto de los temas de este versículo también identifican partes del «fundamento». («y de enseñanza acerca de bautismos y de la imposición de manos y de la resurrección de los muertos y del juicio eterno»)",
+  "lemas_es": [
+   "enseñanza acerca de bautismos e imposición de manos y resurrección de los muertos y juicio eterno"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b5633051d325",
+  "lemas_rv1909": [
+   {
+    "lema": "de bautismos, y de la imposición de manos, y de la resurrección de los muertos, y del juicio eterno",
+    "ref": "HEB.6.2"
+   }
+  ]
+ },
+ "uwtn:258487": {
+  "text_es": "La palabra ⸢bautismos⸣ está en plural. Podría referirse a: (1) diferentes clases de ⸢bautismos⸣ que la gente conocía. Véase la discusión sobre el «bautismo de Juan» en Hechos 19:1–7 para un ejemplo de diferentes clases de ⸢bautismos⸣. («acerca de diversos bautismos» o «diferentes clases de bautismos»); (2) muchas clases diferentes de rituales de lavamiento. («acerca de lavamientos» o «acerca de clases de lavamiento»)",
+  "lemas_es": [
+   "acerca de bautismos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9d96abf1f336",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.2"
+   }
+  ]
+ },
+ "uwtn:258488": {
+  "text_es": "La frase ⸢imposición de manos⸣ se refiere a cómo los creyentes ponían sus manos sobre un hermano en la fe cuando lo comisionaban, oraban por él, pedían a Dios que lo sanara o lo ayudaban a recibir el Espíritu Santo. Para ejemplos, véanse Hechos 8:14–17; Hechos 13:2–3; Hechos 28:8; 1 Timoteo 4:14. En todas estas situaciones, Dios usa la ⸢imposición de manos⸣ para ayudar a un hermano en la fe.",
+  "lemas_es": [
+   "imposición de manos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bdccdc6da1ee",
+  "lemas_rv1909": [
+   {
+    "lema": "imposición de manos",
+    "ref": "HEB.6.2"
+   }
+  ]
+ },
+ "uwtn:258491": {
+  "text_es": "La frase ⸢juicio eterno⸣ podría identificar un ⸢juicio⸣ que: (1) tiene validez o consecuencias ⸢eternas⸣. En otras palabras, lo que Dios decide en este ⸢juicio⸣ nunca cambiará. («juicio que lleva a un destino eterno»); (2) ocurre al final de este tiempo y al comienzo del tiempo ⸢eterno⸣. En otras palabras, el ⸢juicio eterno⸣ es el último ⸢juicio⸣ de Dios cuando renueva la creación. («juicio final» o «el último juicio de Dios»)",
+  "lemas_es": [
+   "juicio eterno"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ec7f8afe0968",
+  "lemas_rv1909": [
+   {
+    "lema": "juicio eterno",
+    "ref": "HEB.6.2"
+   }
+  ]
+ },
+ "uwtn-c:258492": {
+  "text_es": "La palabra ⸢esto⸣ remite a 6:1, donde el autor exhortó a su audiencia: «vamos adelante a la madurez». Si sería útil en su idioma, podría hacer explícito a qué se refiere ⸢esto⸣ repitiendo palabras de 6:1. Traducción alternativa: «iremos adelante a la madurez»",
+  "lemas_es": [
+   "esto haremos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "631514ae9c2e",
+  "lemas_rv1909": [
+   {
+    "lema": "esto haremos",
+    "ref": "HEB.6.3"
+   }
+  ]
+ },
+ "uwtn-c:258493": {
+  "text_es": "La frase ⸢si Dios lo permite⸣ es una manera apropiada de indicar que Dios tiene el control de lo que sucederá. La frase implica que es probable que Dios «permita» lo que el autor quiere ⸢hacer⸣. Si sería útil en su idioma, podría usar una expresión comparable que reconozca que Dios tiene el control. Traducción alternativa: «si Dios quiere» o «siempre que eso sea lo que Dios quiere»",
+  "lemas_es": [
+   "si Dios lo permite"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8d13691a447c",
+  "lemas_rv1909": [
+   {
+    "lema": "si Dios ⸢lo⸣ permitiere",
+    "ref": "HEB.6.3"
+   }
+  ]
+ },
+ "uwtn:258493": {
+  "text_es": "La frase ⸢si Dios lo permite⸣ es una manera apropiada de indicar que Dios tiene el control de lo que sucederá. La frase implica que es probable que Dios «permita» lo que el autor quiere ⸢hacer⸣.",
+  "lemas_es": [
+   "si Dios lo permite"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "069f4fa5279a",
+  "lemas_rv1909": [
+   {
+    "lema": "si Dios ⸢lo⸣ permitiere",
+    "ref": "HEB.6.3"
+   }
+  ]
+ },
+ "uwtn-c:258494": {
+  "text_es": "La palabra ⸢Porque⸣ introduce una razón por la que la audiencia necesita «ir adelante» (véase: 6:1). Si sería útil en su idioma, podría usar una palabra que introduzca una base para una exhortación, o podría dejar ⸢Porque⸣ sin traducir. Traducción alternativa: «Necesitamos ir adelante, porque»",
+  "lemas_es": [
+   "Porque"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9bbfce18610b",
+  "text_es_2": "La palabra ⸢Porque⸣ introduce una razón por la que la audiencia necesita «avanzar» (Véase: 6:1). Si le resulta útil en su idioma, podría usar una palabra que introduzca una base para una exhortación, o podría dejar ⸢Porque⸣ sin traducir. Traducción alternativa: «Necesitamos avanzar, porque»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "Porque",
+    "ref": "HEB.6.4"
+   }
+  ]
+ },
+ "uwtn-c:258495": {
+  "text_es": "La palabra ⸢imposible⸣ acompaña la frase «restaurarlos otra vez» en 6:6. Si sería útil en su idioma, podría trasladar ⸢es imposible⸣ al versículo 6. Si hace esto, asegúrese de seguir también la nota sobre la estructura de la información en el versículo 6. Traducción alternativa: «Porque consideren a los que»",
+  "lemas_es": [
+   "Porque es imposible—a los que"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c62a2f7d2986",
+  "text_es_2": "La palabra ⸢imposible⸣ va con la frase «renovarlos otra vez» en 6:6. Si le resulta útil en su idioma, podría mover ⸢es imposible⸣ al versículo 6. Si hace esto, asegúrese de seguir también la nota de estructura de la información sobre el versículo 6. Traducción alternativa: «Porque consideren a los que»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "Porque es imposible",
+    "ref": "HEB.6.4"
+   }
+  ]
+ },
+ "uwtn-c:258496": {
+  "text_es": "El autor habla de recibir y entender las buenas nuevas como si fueran luz que resplandece sobre una persona. Si sería útil en su idioma, podría usar una figura retórica comparable o expresar la idea de forma sencilla. Traducción alternativa: «para los que una vez entendieron el mensaje acerca del Mesías»",
+  "lemas_es": [
+   "a los que una vez fueron iluminados"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bb1cf3835a31",
+  "text_es_2": "El autor habla de recibir y comprender las buenas nuevas como si fuera luz que resplandece sobre una persona. Si le resulta útil en su idioma, podría usar una figura retórica comparable o expresar la idea de manera sencilla. Traducción alternativa: «para los que una vez comprendieron el mensaje acerca del Mesías»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "que una vez fueron iluminados",
+    "ref": "HEB.6.4"
+   }
+  ]
+ },
+ "uwtn-c:258497": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en los que fueron ⸢iluminados⸣ más que en la persona que ilumina. Si debe indicar quién realizó la acción, el autor implica que Dios la realizó. Traducción alternativa: «para los que Dios una vez iluminó, y que gustaron»",
+  "lemas_es": [
+   "a los que una vez fueron iluminados y gustaron"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "150afbd5171d",
+  "text_es_2": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa aquí la forma pasiva para enfocarse en los que fueron ⸢iluminados⸣, y no en la persona que los ilumina. Si debe indicar quién hizo la acción, el autor implica que Dios la hizo. Traducción alternativa: «para los que Dios una vez iluminó, y que gustaron»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "que una vez fueron iluminados y gustaron",
+    "ref": "HEB.6.4"
+   }
+  ]
+ },
+ "uwtn-c:258498": {
+  "text_es": "El autor habla como si ⸢el don celestial⸣ fuera alimento que la gente pudiera «gustar». Habla así para mostrar que estas personas experimentaron ⸢el don celestial⸣ tanto como una persona que come alimento realmente experimenta ese alimento. Si sería útil en su idioma, podría expresar el significado de forma sencilla. Traducción alternativa: «tuvieron experiencia del don celestial» o «participaron del don celestial»",
+  "lemas_es": [
+   "habiendo gustado del don celestial"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b0d95d2305a1",
+  "text_es_2": "El autor habla como si ⸢el don celestial⸣ fuera comida que la gente pudiera «gustar». Habla así para mostrar que estas personas experimentaron ⸢el don celestial⸣ tanto como una persona que come alimento realmente experimenta ese alimento. Si le resulta útil en su idioma, podría expresar el significado de manera sencilla. Traducción alternativa: «tuvieron experiencia del don celestial» o «participaron en el don celestial»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "gustaron el don celestial",
+    "ref": "HEB.6.4"
+   }
+  ]
+ },
+ "uwtn-c:258499": {
+  "text_es": "El autor usa la forma posesiva para indicar que estas personas «comparten» el ⸢Espíritu Santo⸣. Esta forma significa que las personas de las que el autor habla estaban entre el grupo de personas que recibieron el ⸢Espíritu Santo⸣. Si sería útil en su idioma, podría usar una forma que aclare mejor el significado. Traducción alternativa: «recibieron el Espíritu Santo junto con otros creyentes» o «participaron del Espíritu Santo»",
+  "lemas_es": [
+   "habiendo llegado a ser partícipes del Espíritu Santo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a1010a404280",
+  "text_es_2": "El autor usa la forma posesiva para indicar que estas personas «comparten» el ⸢Espíritu Santo⸣. Esta forma significa que las personas de quienes habla el autor estaban entre el grupo de personas que recibieron el ⸢Espíritu Santo⸣. Si le resulta útil en su idioma, podría usar una forma que aclare más el significado. Traducción alternativa: «recibieron al Espíritu Santo junto con otros creyentes» o «participaron del Espíritu Santo»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.4"
+   }
+  ]
+ },
+ "uwtn-c:258500": {
+  "text_es": "El autor usa de nuevo la palabra ⸢gustaron⸣ en sentido figurado. Exprese el significado de la misma manera que lo hizo en el versículo anterior (6:4). Traducción alternativa: «que tuvieron experiencia de» o «que participaron de»",
+  "lemas_es": [
+   "habiendo gustado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "233e5f8daaea",
+  "text_es_2": "El autor usa de nuevo la palabra ⸢gustaron⸣ en sentido figurado. Exprese el significado de la misma manera que lo hizo en el versículo anterior (6:4). Traducción alternativa: «que tuvieron experiencia de» o «que participaron en»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.5"
+   }
+  ]
+ },
+ "uwtn-c:258501": {
+  "text_es": "El autor usa la forma posesiva para indicar que los ⸢poderes⸣ se experimentarán plenamente en ⸢el siglo venidero⸣. Si sería útil en su idioma, podría usar una palabra o frase que aclare la idea. Traducción alternativa: «los poderes que pertenecen al siglo venidero» o «los poderes que se experimentarán en el siglo venidero»",
+  "lemas_es": [
+   "los poderes del siglo venidero"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bc851fa23f07",
+  "text_es_2": "El autor usa la forma posesiva para indicar que las ⸢virtudes⸣ se experimentarán plenamente en ⸢el siglo venidero⸣. Si le resulta útil en su idioma, podría usar una palabra o frase que aclare la idea. Traducción alternativa: «las virtudes que pertenecen al siglo venidero» o «las virtudes que se experimentarán en el siglo venidero»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "del siglo venidero",
+    "ref": "HEB.6.5"
+   }
+  ]
+ },
+ "uwtn-c:258502": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢poderes⸣, podría expresar la idea de otra manera. Los ⸢poderes⸣ podrían referirse a: (1) lo que Dios hará, a veces por medio de otras personas, por los que creen. Traducción alternativa: «lo que Dios hará poderosamente en el siglo venidero»; (2) cómo las personas pueden hacer cosas «poderosas». Traducción alternativa: «las cosas poderosas que las personas harán en el siglo venidero»",
+  "lemas_es": [
+   "los poderes del siglo venidero"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "467bb9e76539",
+  "text_es_2": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢virtudes⸣, podría expresar la idea de otra manera. Las ⸢virtudes⸣ podrían referirse a: (1) lo que Dios hará, a veces por medio de otras personas, por los que creen. Traducción alternativa: «lo que Dios hará poderosamente en el siglo venidero»; (2) cómo las personas pueden hacer cosas «poderosas». Traducción alternativa: «las cosas poderosas que las personas harán en el siglo venidero»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "del siglo venidero",
+    "ref": "HEB.6.5"
+   }
+  ]
+ },
+ "uwtn:258502": {
+  "text_es": "Los ⸢poderes⸣ podrían referirse a: (1) lo que Dios hará, a veces por medio de otras personas, por los que creen. («lo que Dios hará poderosamente en el siglo venidero»); (2) cómo las personas pueden hacer cosas «poderosas». («las cosas poderosas que las personas harán en el siglo venidero»)",
+  "lemas_es": [
+   "los poderes del siglo venidero"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "009eb4fded8b",
+  "text_es_2": "Las ⸢virtudes⸣ podrían referirse a: (1) lo que Dios hará, a veces por medio de otras personas, por los que creen. («lo que Dios hará poderosamente en el siglo venidero»); (2) cómo las personas pueden hacer cosas «poderosas». («las cosas poderosas que las personas harán en el siglo venidero»)",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "del siglo venidero",
+    "ref": "HEB.6.5"
+   }
+  ]
+ },
+ "uwtn-c:258503": {
+  "text_es": "Si decidió trasladar «es imposible» de 6:4 a este lugar, necesitará considerar una manera natural de incluirlo. Si usó la traducción alternativa de la nota en el versículo 4, la siguiente traducción alternativa funcionará aquí. Traducción alternativa: «sino que cayeron. Es imposible restaurar otra vez a estas personas»",
+  "lemas_es": [
+   "sino que cayeron—restaurarlos otra vez"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "203846ae0fc7",
+  "text_es_2": "Si decidió mover «es imposible» de 6:4 hasta aquí, tendrá que considerar una manera natural de incluirlo. Si usó la traducción alternativa de la nota en el versículo 4, la siguiente traducción alternativa funcionará aquí. Traducción alternativa: «sino que recayeron. Es imposible renovar otra vez a estas personas»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.6"
+   }
+  ]
+ },
+ "uwtn-c:258504": {
+  "text_es": "El autor habla de cómo las personas rechazan lo que antes creían acerca de Jesús como si estuvieran caminando por un sendero y luego hubieran ⸢caído⸣ de él. Habla así para enfatizar cuán significativo es cuando una persona deja de creer en Jesús. Si sería útil en su idioma, podría expresar el significado de forma sencilla. Traducción alternativa: «que abandonaron a Cristo» o «que dejaron de creer en las buenas nuevas»",
+  "lemas_es": [
+   "habiendo caído"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1705e0b2057a",
+  "text_es_2": "El autor habla de cómo las personas rechazan la fe que antes tenían en Jesús como si estuvieran caminando por un sendero y luego hubieran ⸢recaído⸣ de él. Habla así para enfatizar cuán significativo es cuando una persona deja de creer en Jesús. Si le resulta útil en su idioma, podría expresar el significado de manera sencilla. Traducción alternativa: «que abandonaron a Cristo» o «que dejaron de creer las buenas nuevas»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.6"
+   }
+  ]
+ },
+ "uwtn-c:258505": {
+  "text_es": "El autor habla como si los que han ⸢caído⸣ estuvieran ⸢crucificando⸣ a Jesús. Habla así para indicar cuán malo es realmente «caer». Si sería útil en su idioma, podría usar una analogía o alguna otra forma comparable. Traducción alternativa: «puesto que es como si lo estuvieran crucificando de nuevo»",
+  "lemas_es": [
+   "puesto que lo crucifican de nuevo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a4fdc73b01e0",
+  "text_es_2": "El autor habla como si los que han ⸢recaído⸣ estuvieran ⸢crucificando⸣ a Jesús. Habla así para indicar cuán malo es en realidad «recaer». Si le resulta útil en su idioma, podría usar una analogía o alguna otra forma comparable. Traducción alternativa: «pues es como si lo estuvieran crucificando de nuevo»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "crucificando de nuevo",
+    "ref": "HEB.6.6"
+   }
+  ]
+ },
+ "uwtn-c:258506": {
+  "text_es": "La palabra traducida como ⸢crucifican de nuevo⸣ podría referirse a: (1) hacer que el Hijo pase por crucifixión una segunda vez. Traducción alternativa: «puesto que lo vuelven a crucificar»; (2) clavar al Hijo «hacia arriba» en la cruz. Traducción alternativa: «puesto que lo clavan hacia arriba en la cruz»",
+  "lemas_es": [
+   "puesto que lo crucifican de nuevo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "eb6e660a5b5f",
+  "text_es_2": "La palabra traducida como ⸢están crucificando de nuevo⸣ podría referirse a: (1) hacer que el Hijo sea crucificado por segunda vez. Traducción alternativa: «pues lo están recrucificando»; (2) clavar al Hijo «en lo alto» de la cruz. Traducción alternativa: «pues lo están clavando en lo alto de la cruz»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "corregido_por_juez": "En la opción (2) se traduce 'up' como 'en'; el inglés destaca 'nailing up' ('clavando hacia arriba/en alto'), pero el español dice 'clavar en la cruz', perdiendo ese matiz.",
+  "lemas_rv1909": [
+   {
+    "lema": "crucificando de nuevo",
+    "ref": "HEB.6.6"
+   }
+  ]
+ },
+ "uwtn-c:258507": {
+  "text_es": "La frase ⸢para sí mismos⸣ podría significar que: (1) actúan solo para beneficiarse a sí mismos. Traducción alternativa: «puesto que lo crucifican de nuevo para su propio beneficio»; (2) hacen estas cosas ellos ⸢mismos⸣. Traducción alternativa: «puesto que ellos mismos lo crucifican de nuevo»",
+  "lemas_es": [
+   "puesto que lo crucifican de nuevo para sí mismos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a7a506a7d7c1",
+  "text_es_2": "La frase ⸢para sí mismos⸣ podría significar que: (1) actúan solo para beneficiarse a sí mismos. Traducción alternativa: «pues lo están crucificando de nuevo para su propio beneficio»; (2) ellos hacen estas cosas ⸢ellos mismos⸣. Traducción alternativa: «pues ellos mismos lo están crucificando de nuevo»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "crucificando de nuevo para sí mismos",
+    "ref": "HEB.6.6"
+   }
+  ]
+ },
+ "uwtn-c:258508": {
+  "text_es": "La frase ⸢Hijo de Dios⸣ es un título importante de Jesús que describe su relación con Dios el Padre.",
+  "lemas_es": [
+   "el Hijo de Dios"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "09ce6bace232",
+  "text_es_2": "La frase ⸢Hijo de Dios⸣ es un título importante para Jesús que describe su relación con Dios el Padre.",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "Hijo de Dios",
+    "ref": "HEB.6.6"
+   }
+  ]
+ },
+ "uwtn:258506": {
+  "text_es": "La palabra traducida como ⸢crucifican de nuevo⸣ podría referirse a: (1) hacer que el Hijo pase por crucifixión una segunda vez. («puesto que lo vuelven a crucificar»); (2) clavar al Hijo «en» la cruz. («puesto que lo clavan en la cruz»)",
+  "lemas_es": [
+   "puesto que lo crucifican de nuevo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "48f49a01689e",
+  "text_es_2": "La palabra traducida como ⸢están crucificando de nuevo⸣ podría referirse a: (1) hacer que el Hijo sea crucificado por segunda vez. («pues lo están recrucificando»); (2) clavar al Hijo «en lo alto» de la cruz. («pues lo están clavando en lo alto de la cruz»)",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "crucificando de nuevo",
+    "ref": "HEB.6.6"
+   }
+  ]
+ },
+ "uwtn:258507": {
+  "text_es": "La frase ⸢para sí mismos⸣ podría significar que: (1) actúan solo para beneficiarse a sí mismos. («puesto que lo crucifican de nuevo para su propio beneficio»); (2) hacen estas cosas ellos ⸢mismos⸣. («puesto que ellos mismos lo crucifican de nuevo»)",
+  "lemas_es": [
+   "puesto que lo crucifican de nuevo para sí mismos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ec4b4ff179eb",
+  "text_es_2": "La frase ⸢para sí mismos⸣ podría significar que: (1) actúan solo para beneficiarse a sí mismos. («pues lo están crucificando de nuevo para su propio beneficio»); (2) ellos hacen estas cosas ⸢ellos mismos⸣. («pues ellos mismos lo están crucificando de nuevo»)",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "crucificando de nuevo para sí mismos",
+    "ref": "HEB.6.6"
+   }
+  ]
+ },
+ "uwtn:258508": {
+  "text_es": "La frase ⸢Hijo de Dios⸣ es un título importante de Jesús que describe su relación con Dios el Padre.",
+  "lemas_es": [
+   "el Hijo de Dios"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "09ce6bace232",
+  "text_es_2": "La frase ⸢Hijo de Dios⸣ es un título importante para Jesús que describe su relación con Dios el Padre.",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "Hijo de Dios",
+    "ref": "HEB.6.6"
+   }
+  ]
+ },
+ "uwtn-c:258509": {
+  "text_es": "La palabra ⸢Porque⸣ introduce un ejemplo que usa lenguaje agrícola para ilustrar dos maneras en que una persona podría responder a las buenas nuevas. Si en su idioma sería útil, podría usar una palabra o frase que introduzca un ejemplo, o podría dejar ⸢Porque⸣ sin traducir. Traducción alternativa: «Por ejemplo»,",
+  "lemas_es": [
+   "For"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c0a40b6ed9e7",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.7"
+   }
+  ]
+ },
+ "uwtn-c:258510": {
+  "text_es": "A lo largo de este versículo, el autor habla de la ⸢tierra⸣ como si pudiera «beber», «producir» y «compartir». Esta era una manera natural de expresar cómo se relaciona la ⸢tierra⸣ con los cultivos y la lluvia en la cultura del autor. Use una manera natural en su idioma para referirse a cómo la ⸢tierra⸣ participa en el proceso agrícola. Traducción alternativa: «una tierra que absorbe la lluvia que a menudo cae sobre ella y en la que crece vegetación útil para aquellos para quienes también es cultivada, recibe bendición de Dios»",
+  "lemas_es": [
+   "a land that drinks the rain that often comes upon it and produces useful vegetation for those for whom it is also cultivated shares in a blessing from God"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9d9c1de5a60b",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.7"
+   }
+  ]
+ },
+ "uwtn-c:258511": {
+  "text_es": "La frase ⸢vegetación útil⸣ se refiere a plantas que crecen en la ⸢tierra⸣ y que benefician a las personas. Podrían ser plantas que la gente come, o podrían ser plantas que la gente usa para otros propósitos. Si en su idioma sería útil, podría usar una palabra o frase que se refiera a plantas que la gente usa. Traducción alternativa: «cultivos provechosos» o «plantas comestibles»",
+  "lemas_es": [
+   "useful vegetation"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "021c85f74e3d",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.7"
+   }
+  ]
+ },
+ "uwtn-c:258512": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en la tierra que es ⸢cultivada⸣ en lugar de en las personas que la cultivan. Si debe indicar quién realizó la acción, podría referirse a los agricultores o a las personas en general. Traducción alternativa: «los agricultores la cultivan»",
+  "lemas_es": [
+   "it is also cultivated"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d2edc4e4bb9c",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.7"
+   }
+  ]
+ },
+ "uwtn-c:258513": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢bendición⸣, podría expresar la idea usando un verbo como «bendecir». Traducción alternativa: «es bendecida por Dios» o «es una que Dios bendice»",
+  "lemas_es": [
+   "shares in a blessing from God"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c404be809ffb",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.7"
+   }
+  ]
+ },
+ "uwtn:258511": {
+  "text_es": "La frase ⸢vegetación útil⸣ se refiere a plantas que crecen en la ⸢tierra⸣ y que benefician a las personas. Podrían ser plantas que la gente come, o podrían ser plantas que la gente usa para otros propósitos.",
+  "lemas_es": [
+   "useful vegetation"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "336bcb8ec5f1",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.7"
+   }
+  ]
+ },
+ "uwtn-c:258514": {
+  "text_es": "La palabra ⸢produciendo⸣ introduce lo que debe ser cierto acerca de la tierra para que esté ⸢cerca de maldición⸣ y finalmente sea «quemada». En muchos idiomas, esta idea puede expresarse con una forma condicional. Si en su idioma sería útil, podría usar una forma que indique que la palabra ⸢produciendo⸣ introduce la condición o situación en la que el resto de la oración sería cierta. Traducción alternativa: «si produce»",
+  "lemas_es": [
+   "producing"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7ecfeacca5b3",
+  "lemas_rv1909": [
+   {
+    "lema": "produce",
+    "ref": "HEB.6.8"
+   }
+  ]
+ },
+ "uwtn-c:258515": {
+  "text_es": "Las palabras ⸢espinos⸣ y ⸢abrojos⸣ significan casi lo mismo. La cita usa ambas palabras para enfatizar que el campo solo produce plantas que no tienen uso y que pueden dañar a las personas. Si la repetición sería confusa, o si no tiene dos palabras que expresen este significado particular, podría usar una palabra o frase aquí. Traducción alternativa: «solo maleza» o «solo plantas con espinos»",
+  "lemas_es": [
+   "thorns and thistles"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "eb227e5d4a76",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.8"
+   }
+  ]
+ },
+ "uwtn-c:258516": {
+  "text_es": "El autor podría estar usando la frase ⸢cerca de maldición⸣ para expresar la idea de que: (1) la tierra recibirá una ⸢maldición⸣ pronto. Traducción alternativa: «a punto de ser maldecida»; (2) la tierra posiblemente reciba una ⸢maldición⸣. Traducción alternativa: «en peligro de ser maldecida» o «puede ser maldecida»",
+  "lemas_es": [
+   "close to a curse"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5aefc3fec1e6",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.8"
+   }
+  ]
+ },
+ "uwtn-c:258517": {
+  "text_es": "La frase ⸢cuyo fin es para quemarse⸣ indica lo que finalmente le sucederá a la tierra. Use una frase que se refiera al destino final de algo. Traducción alternativa: «su destino final es ser quemada» o «y finalmente será quemada»",
+  "lemas_es": [
+   "the end of which is for burning"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4eacd2378272",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.8"
+   }
+  ]
+ },
+ "uwtn-c:258518": {
+  "text_es": "La palabra ⸢cual⸣ podría referirse a: (1) la «tierra», que el autor mencionó en 6:7. Traducción alternativa: «de la cual tierra»; (2) la ⸢maldición⸣. Esto significaría que el resultado final de la maldición es que la tierra es «quemada». Traducción alternativa: «de la cual maldición»",
+  "lemas_es": [
+   "of which"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4c17192a6396",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.8"
+   }
+  ]
+ },
+ "uwtn-c:258519": {
+  "text_es": "En la cultura del autor, la gente quemaba un campo para destruir las plantas que crecían en él. De esa manera, podían empezar de nuevo con un campo que no tuviera maleza ni otras plantas malas creciendo en él. Si en su idioma sería útil, podría hacer esta idea más explícita. Traducción alternativa: «es para quemar toda su vegetación» o «es para que alguien queme todo lo que hay en ella»",
+  "lemas_es": [
+   "is for burning"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9f837a9ef6e7",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.8"
+   }
+  ]
+ },
+ "uwtn:258516": {
+  "text_es": "El autor podría estar usando la frase ⸢cerca de maldición⸣ para expresar la idea de que: (1) la tierra recibirá una ⸢maldición⸣ pronto. («a punto de ser maldecida»); (2) la tierra posiblemente reciba una ⸢maldición⸣. («en peligro de ser maldecida» o «puede ser maldecida»)",
+  "lemas_es": [
+   "close to a curse"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "68870390c4a9",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.8"
+   }
+  ]
+ },
+ "uwtn:258517": {
+  "text_es": "La frase ⸢cuyo fin es para quemarse⸣ indica lo que finalmente le sucederá a la tierra.",
+  "lemas_es": [
+   "the end of which is for burning"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ca4ee49e60b9",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.8"
+   }
+  ]
+ },
+ "uwtn:258518": {
+  "text_es": "La palabra ⸢cual⸣ podría referirse a: (1) la «tierra», que el autor mencionó en 6:7. («de la cual tierra»); (2) la ⸢maldición⸣. Esto significaría que el resultado final de la maldición es que la tierra es «quemada». («de la cual maldición»)",
+  "lemas_es": [
+   "of which"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "23df5bb402d1",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.8"
+   }
+  ]
+ },
+ "uwtn:258519": {
+  "text_es": "En la cultura del autor, la gente quemaba un campo para destruir las plantas que crecían en él. De esa manera, podían empezar de nuevo con un campo que no tuviera maleza ni otras plantas malas creciendo en él.",
+  "lemas_es": [
+   "is for burning"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bd58c83fec3c",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.8"
+   }
+  ]
+ },
+ "uwtn-c:258520": {
+  "text_es": "El autor usa la primera persona del plural (⸢nosotros⸣), pero se refiere solo a sí mismo. Si en su idioma sería útil, podría usar una forma que se refiera más naturalmente al autor. Traducción alternativa: «yo mismo estoy convencido … hablo»",
+  "lemas_es": [
+   "we are persuaded & we speak"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3d5097c29a42",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.9"
+   }
+  ]
+ },
+ "uwtn-c:258521": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en cómo está ⸢convencido⸣ en lugar de en lo que lo ha ⸢convencido⸣. Traducción alternativa: «estamos confiados»",
+  "lemas_es": [
+   "we are persuaded"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4d785db24add",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.9"
+   }
+  ]
+ },
+ "uwtn-c:258522": {
+  "text_es": "El autor no aclara con qué está comparando a la audiencia cuando dice que está convencido de ⸢cosas mejores⸣. Implica que ellos están haciendo ⸢mejores⸣ cosas que las personas que mencionó en 6:4–6, las personas que han dejado de creer en el evangelio y han «caído». Si en su idioma sería útil, podría hacer esta idea más explícita. Traducción alternativa: «de cosas que son mejores que las de aquellos que han caído y» o «que están haciendo mejor que las personas de mi advertencia, y que tienen todas las cosas que»",
+  "lemas_es": [
+   "of things that are better and"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8f8dce050585",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.9"
+   }
+  ]
+ },
+ "uwtn-c:258523": {
+  "text_es": "Las cosas que ⸢acompañan a la salvación⸣ son todo lo que una persona tiene y experimenta cuando Dios la salva. Estas incluyen tener el Espíritu Santo, crecer en fe y conocimiento, y experimentar la bendición de Dios. Si en su idioma sería útil, podría hacer esta idea más explícita. Traducción alternativa: «tienen que ver con la salvación» o «que van junto con la salvación»",
+  "lemas_es": [
+   "are accompanying salvation"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "020406bba592",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.9"
+   }
+  ]
+ },
+ "uwtn-c:258524": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢salvación⸣, podría expresar la idea usando un verbo como «salvar» o «rescatar». Traducción alternativa: «que vienen cuando Dios lo salva» o «se experimentan cuando Dios rescata a alguien»",
+  "lemas_es": [
+   "are accompanying salvation"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "77bff468fc51",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.9"
+   }
+  ]
+ },
+ "uwtn-c:258525": {
+  "text_es": "La frase ⸢aunque hablemos así⸣ contrasta lo que el autor ha dicho en este versículo con la advertencia que ha dado en 5:11–6:8. Si en su idioma sería útil, podría usar una forma que indique claramente tal contraste. Traducción alternativa: «a pesar de que hablamos así» o «no obstante cómo hemos hablado»",
+  "lemas_es": [
+   "even if we speak thus"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "234fb056fd67",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.9"
+   }
+  ]
+ },
+ "uwtn-c:258526": {
+  "text_es": "La palabra ⸢así⸣ se refiere a las advertencias que el autor ha dado en 5:11–6:8. Si en su idioma sería útil, podría hacer explícito a qué se refiere ⸢así⸣. Traducción alternativa: «con palabras de advertencia» o «tales advertencias»",
+  "lemas_es": [
+   "thus"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "255f4feb5e66",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.9"
+   }
+  ]
+ },
+ "uwtn:258522": {
+  "text_es": "El autor no aclara con qué está comparando a la audiencia cuando dice que está convencido de ⸢cosas mejores⸣.",
+  "lemas_es": [
+   "of things that are better and"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "12a797f32c81",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.9"
+   }
+  ]
+ },
+ "uwtn:258523": {
+  "text_es": "Las cosas que ⸢acompañan a la salvación⸣ son todo lo que una persona tiene y experimenta cuando Dios la salva. Estas incluyen tener el Espíritu Santo, crecer en fe y conocimiento, y experimentar la bendición de Dios.",
+  "lemas_es": [
+   "are accompanying salvation"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bdfe7dafaabd",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.9"
+   }
+  ]
+ },
+ "uwtn-c:258527": {
+  "text_es": "La palabra ⸢Porque⸣ introduce más explicación acerca de por qué el autor está «convencido de cosas mejores» con respecto a su audiencia (6:9). Si en su idioma sería útil, podría usar una palabra o frase que introduzca una explicación. Traducción alternativa: «Estoy convencido de esto, porque»",
+  "lemas_es": [
+   "For"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1fa596da2a5d",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.10"
+   }
+  ]
+ },
+ "uwtn-c:258528": {
+  "text_es": "La frase ⸢no injusto⸣ es una atenuación negativa que enfatiza cuán «justo» es Dios. Si en su idioma sería útil, podría expresar el significado de forma positiva. Si lo hace, es posible que necesite negar ⸢olvidar⸣. Traducción alternativa: «Dios es muy justo al recordar» o «Dios es justo al recordar»",
+  "lemas_es": [
+   "God is not unjust, to forget"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5e87b373e4dc",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.10"
+   }
+  ]
+ },
+ "uwtn-c:258529": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢amor⸣, podría expresar la misma idea de otra manera. Traducción alternativa: «la manera en que ustedes aman»",
+  "lemas_es": [
+   "the love"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0627c0612f2e",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.10"
+   }
+  ]
+ },
+ "uwtn-c:258530": {
+  "text_es": "La palabra ⸢nombre⸣ se refiere a la reputación o el honor de una persona. En otras palabras, «servir a los santos» es algo que es «hacia el nombre de Dios», lo que significa que le trae honor. Si en su idioma sería útil, podría expresar la idea de forma clara. Traducción alternativa: «con respecto a su honor» o «que glorifica a Dios»",
+  "lemas_es": [
+   "toward his name"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a0d21734d64e",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.10"
+   }
+  ]
+ },
+ "uwtn-c:258531": {
+  "text_es": "Los que ⸢sirven⸣ son la audiencia. El punto del autor es que sirvieron a ⸢los santos⸣ en el pasado, y todavía están sirviendo a ⸢los santos⸣ en el presente. Si en su idioma sería útil, podría hacer estas ideas más explícitas. Traducción alternativa: «ya que han servido a los santos en el pasado y aun ahora»",
+  "lemas_es": [
+   "having served the saints and continuing to serve them"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5c4240e48113",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.10"
+   }
+  ]
+ },
+ "uwtn:258531": {
+  "text_es": "Los que ⸢sirven⸣ son la audiencia. El punto del autor es que sirvieron a ⸢los santos⸣ en el pasado, y todavía están sirviendo a ⸢los santos⸣ en el presente.",
+  "lemas_es": [
+   "having served the saints and continuing to serve them"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b2be600be165",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.10"
+   }
+  ]
+ },
+ "uwtn-c:258532": {
+  "text_es": "El autor usa la primera persona del plural (⸢nosotros⸣), pero se refiere solo a sí mismo. Si en su idioma sería útil, podría usar una forma que se refiera más naturalmente al autor. Traducción alternativa: «anhelo»",
+  "lemas_es": [
+   "we long for"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3e79755631d7",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.11"
+   }
+  ]
+ },
+ "uwtn-c:258533": {
+  "text_es": "El autor podría querer que la audiencia tenga ⸢diligencia⸣ que sea ⸢la misma⸣ que: (1) la ⸢diligencia⸣ que han mostrado en el pasado. Traducción alternativa: «diligencia constante»; (2) cómo han «demostrado» amor (Ver: 6:10). Traducción alternativa: «diligencia, así como ustedes demuestran amor»,",
+  "lemas_es": [
+   "the same diligence"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a63543bedce7",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.11"
+   }
+  ]
+ },
+ "uwtn-c:258534": {
+  "text_es": "Si su idioma no usa sustantivos abstractos para las ideas de ⸢diligencia⸣, ⸢seguridad⸣ y ⸢esperanza⸣, podría expresar las ideas de otra manera. Traducción alternativa: «que se esfuercen diligentemente por estar plenamente seguros de lo que esperan»",
+  "lemas_es": [
+   "the same diligence toward the full assurance of your hope"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "da9631862594",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.11"
+   }
+  ]
+ },
+ "uwtn-c:258535": {
+  "text_es": "El autor usa la forma posesiva para hablar de la ⸢plena seguridad⸣ que concierne a la ⸢esperanza⸣. Si en su idioma sería útil, podría expresar la idea de otra manera. Traducción alternativa: «hacia llegar a estar plenamente seguros de su esperanza»",
+  "lemas_es": [
+   "toward the full assurance of your hope"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d21313a8fd11",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.11"
+   }
+  ]
+ },
+ "uwtn-c:258536": {
+  "text_es": "La frase ⸢el fin⸣ podría referirse a: (1) el ⸢fin⸣ de las vidas de la audiencia. Traducción alternativa: «hasta que sus vidas terminen»; (2) el ⸢fin⸣ del período de tiempo actual, que sería cuando Jesús regrese. Traducción alternativa: «hasta el fin de la era» o «hasta que Jesús regrese»",
+  "lemas_es": [
+   "until the end"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6544a5fcbabe",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.11"
+   }
+  ]
+ },
+ "uwtn:258533": {
+  "text_es": "El autor podría querer que la audiencia tenga ⸢diligencia⸣ que sea ⸢la misma⸣ que: (1) la ⸢diligencia⸣ que han mostrado en el pasado. («diligencia constante»); (2) cómo han «demostrado» amor (véase 6:10). («diligencia, así como demuestran amor»,)",
+  "lemas_es": [
+   "la misma diligencia"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4969609dea26",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.11"
+   }
+  ]
+ },
+ "uwtn:258536": {
+  "text_es": "La frase ⸢el fin⸣ podría referirse a: (1) el ⸢fin⸣ de las vidas de la audiencia. («hasta que sus vidas terminen»); (2) el ⸢fin⸣ del período de tiempo actual, que sería cuando Jesús regrese. («hasta el fin de la era» o «hasta que Jesús regrese»)",
+  "lemas_es": [
+   "hasta el fin"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f4f7d3fa4edc",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.11"
+   }
+  ]
+ },
+ "uwtn-c:258537": {
+  "text_es": "El autor habla como si la audiencia pudiera volverse ⸢torpe⸣, tal como si fueran herramientas afiladas que se vuelven romas y ya no cortan bien las cosas. Habla de esta manera para exhortarlos a no volverse ineficaces y lentos en su comportamiento. Si sería útil en su idioma, podría usar un modismo comparable o expresar la idea de manera sencilla. Vea cómo tradujo la frase similar en 5:11. Traducción alternativa: «podrían no volverse lentos» o «podrían no volverse personas que evitan hacer lo que deberían»",
+  "lemas_es": [
+   "podrían no volverse torpes"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7dc96299a2d4",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.12"
+   }
+  ]
+ },
+ "uwtn-c:258538": {
+  "text_es": "El autor está omitiendo algunas de las palabras que en muchos idiomas una oración necesitaría para estar completa. Si sería útil en su idioma, podría suplir estas palabras de la primera mitad de la oración. Traducción alternativa: «sino para que lleguen a ser imitadores» o «sino lleguen a ser imitadores»",
+  "lemas_es": [
+   "sino imitadores"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "77b45ed7efb1",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.12"
+   }
+  ]
+ },
+ "uwtn-c:258539": {
+  "text_es": "Si su idioma no usa sustantivos abstractos para las ideas de ⸢fe⸣ y ⸢paciencia⸣, podría expresar la idea usando verbos o adverbios. Traducción alternativa: «de aquellos que, por medio de cómo creyeron y fueron pacientes, están heredando»",
+  "lemas_es": [
+   "de los que por fe y paciencia heredan"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a76d9d227fde",
+  "lemas_rv1909": [
+   {
+    "lema": "fe y la paciencia heredan",
+    "ref": "HEB.6.12"
+   }
+  ]
+ },
+ "uwtn-c:258540": {
+  "text_es": "El autor habla como si los creyentes fueran hijos que recibirían propiedad que un padre transmite a su hijo cuando el padre muere. Habla de esta manera para indicar que los creyentes reciben las ⸢promesas⸣ de Dios. Si sería útil en su idioma, podría declarar el significado de manera sencilla. Traducción alternativa: «de aquellos a quienes, a causa de su fe y paciencia, Dios está dando las promesas» o «de aquellos que por fe y paciencia están obteniendo las promesas»",
+  "lemas_es": [
+   "de los que por fe y paciencia heredan las promesas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cd09b39c4a24",
+  "lemas_rv1909": [
+   {
+    "lema": "fe y la paciencia heredan las promesas",
+    "ref": "HEB.6.12"
+   }
+  ]
+ },
+ "uwtn-c:258541": {
+  "text_es": "La palabra ⸢promesas⸣ se refiere al contenido de las ⸢promesas⸣, o lo que Dios ha «prometido» dar. Si sería útil en su idioma, podría aclarar que el autor se refiere al contenido de estas ⸢promesas⸣. Traducción alternativa: «las cosas de las promesas de Dios» o «las cosas que Dios ha prometido»",
+  "lemas_es": [
+   "las promesas"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f4c12b3503d3",
+  "lemas_rv1909": [
+   {
+    "lema": "las promesas",
+    "ref": "HEB.6.12"
+   }
+  ]
+ },
+ "uwtn-c:258542": {
+  "text_es": "La palabra ⸢Porque⸣ introduce más explicación acerca de las «promesas» que el autor mencionó en el versículo anterior (6:21). Si sería útil en su idioma, podría usar una palabra que introduzca explicación, o podría dejar ⸢Porque⸣ sin traducir. Traducción alternativa: «De hecho», o «Ahora les diré más acerca de estas promesas:»",
+  "lemas_es": [
+   "Porque"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "35815761941e",
+  "lemas_rv1909": [
+   {
+    "lema": "Porque",
+    "ref": "HEB.6.13"
+   }
+  ]
+ },
+ "uwtn-c:258543": {
+  "text_es": "El autor no aclara qué ⸢prometió⸣ Dios a Abraham porque cita la promesa misma en el versículo siguiente (6:14). Si es posible, deje lo que Dios ⸢prometió⸣ vago o poco claro en este versículo. Traducción alternativa: «habiendo hecho una promesa»",
+  "lemas_es": [
+   "habiendo prometido"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4cb7b2b1c5c7",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.13"
+   }
+  ]
+ },
+ "uwtn-c:258544": {
+  "text_es": "Las palabras ⸢habiendo prometido⸣ se refieren a algo que ocurre al mismo tiempo que cuando Dios ⸢juró por sí mismo⸣. Si sería útil en su idioma, podría hacer más explícita la relación entre estas dos acciones. Traducción alternativa: «en el momento en que prometió»",
+  "lemas_es": [
+   "habiendo prometido"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a844641739c8",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.13"
+   }
+  ]
+ },
+ "uwtn-c:258545": {
+  "text_es": "La palabra ⸢él⸣ se refiere a ⸢Dios⸣, no a ⸢Abraham⸣. Si sería útil en su idioma, podría hacer explícito que el pronombre se refiere a Dios. Traducción alternativa: «Dios tenía»",
+  "lemas_es": [
+   "él tenía"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "50751c0da4de",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.13"
+   }
+  ]
+ },
+ "uwtn-c:258546": {
+  "text_es": "En la cultura del autor, las personas a menudo ⸢juraban por⸣ alguien más. La otra persona necesitaba ser alguien lo suficientemente importante y poderoso para garantizar o hacer cumplir lo que la persona que ⸢juraba⸣ prometía hacer. A menudo las personas ⸢juraban⸣ por Dios, ya que él siempre es lo suficientemente importante y poderoso para garantizar o hacer cumplir lo que se juraba. Si sería útil en su idioma, podría hacer más explícita la práctica de «jurar por» alguien. Traducción alternativa: «ya que quería garantizar esa promesa jurando por alguien mayor, juró por sí mismo (ya que no hay nadie mayor que él)»",
+  "lemas_es": [
+   "ya que no tenía a nadie mayor por quien jurar, juró por sí mismo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8d539e385f8b",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.13"
+   }
+  ]
+ },
+ "uwtn:258546": {
+  "text_es": "En la cultura del autor, las personas a menudo ⸢juraban por⸣ alguien más. La otra persona necesitaba ser alguien lo suficientemente importante y poderoso para garantizar o hacer cumplir lo que la persona que ⸢juraba⸣ prometía hacer. A menudo las personas ⸢juraban⸣ por Dios, ya que él siempre es lo suficientemente importante y poderoso para garantizar o hacer cumplir lo que se juraba.",
+  "lemas_es": [
+   "ya que no tenía a nadie mayor por quien jurar, juró por sí mismo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d974f2654e25",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.13"
+   }
+  ]
+ },
+ "uwtn-c:258547": {
+  "text_es": "El autor cita lo que Dios dijo a Abraham. Estas palabras están registradas en Génesis 22:17. Dado que el autor introduce esta cita como palabras que Dios dijo a Abraham, debe introducir la cita como palabras que alguien ha dicho. Si sus lectores no supieran que la cita es del Antiguo Testamento, podría incluir una nota al pie o usar alguna otra forma de identificar la cita. Traducción alternativa: «prometiendo» o «diciéndole»",
+  "lemas_es": [
+   "diciendo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7294c67a279f",
+  "lemas_rv1909": [
+   {
+    "lema": "Diciendo",
+    "ref": "HEB.6.14"
+   }
+  ]
+ },
+ "uwtn-c:258548": {
+  "text_es": "Dios usa lenguaje enfático para mostrar que ⸢ciertamente⸣ hará lo que está prometiendo hacer. Use una forma en su idioma que enfatice la promesa de Dios de ⸢bendecir⸣ y ⸢multiplicar⸣ a Abraham. Traducción alternativa: «ciertamente» o «sin duda»",
+  "lemas_es": [
+   "ciertamente"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ae7c8ba68f8d",
+  "lemas_rv1909": [
+   {
+    "lema": "cierto",
+    "ref": "HEB.6.14"
+   }
+  ]
+ },
+ "uwtn-c:258549": {
+  "text_es": "Debido a que Dios está hablando a una persona (Abraham), ⸢tú⸣ es singular aquí.",
+  "lemas_es": [
+   "tú"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "45e0f2f478ea",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.14"
+   }
+  ]
+ },
+ "uwtn-c:258550": {
+  "text_es": "Aquí Dios habla como si fuera a ⸢multiplicar⸣ a Abraham para hacer muchos otros «Abrahames.» Esta frase se refiere a cómo Dios hará que Abraham tenga muchos hijos, nietos, etc. Si sería útil en su idioma, podría usar una palabra o frase que se refiera a tener muchos descendientes. Traducción alternativa: «darte muchos descendientes» o «hacerte el antepasado de muchas personas»",
+  "lemas_es": [
+   "multiplicarte"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "22bacf582acb",
+  "lemas_rv1909": [
+   {
+    "lema": "multiplicando",
+    "ref": "HEB.6.14"
+   }
+  ]
+ },
+ "uwtn:258548": {
+  "text_es": "Dios usa lenguaje enfático para mostrar que ⸢ciertamente⸣ hará lo que está prometiendo hacer.",
+  "lemas_es": [
+   "ciertamente"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a5da6fc11ae9",
+  "lemas_rv1909": [
+   {
+    "lema": "cierto",
+    "ref": "HEB.6.14"
+   }
+  ]
+ },
+ "uwtn-c:258551": {
+  "text_es": "La frase ⸢de esta manera⸣ podría referirse a: (1) cómo Dios garantizó lo que prometió (véase 6:13–14). Traducción alternativa: «como Dios prometió»; (2) cómo Abraham tuvo «fe y paciencia» (véase 6:12). Traducción alternativa: «como uno que tuvo fe y paciencia»",
+  "lemas_es": [
+   "de esta manera"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b87c9f679843",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.15"
+   }
+  ]
+ },
+ "uwtn-c:258552": {
+  "text_es": "El autor se refiere a cómo Abraham tenía 75 años cuando Dios le hizo por primera vez la ⸢promesa⸣ (véase Génesis 12:1–4), y tenía 100 años cuando Sara dio a luz a su hijo Isaac (véase Génesis 21:1–5). Así que, Abraham ⸢esperó con paciencia⸣ durante 25 años antes de que Dios le diera lo que había prometido. Si sería útil en su idioma, podría usar una nota al pie para dar esta información de trasfondo, o podría incluir alguna breve información adicional en su traducción. Traducción alternativa: «habiendo esperado con paciencia durante 25 años»",
+  "lemas_es": [
+   "habiendo esperado con paciencia"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "666cc4eba71d",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.15"
+   }
+  ]
+ },
+ "uwtn-c:258553": {
+  "text_es": "La palabra ⸢promesa⸣ se refiere al contenido de la ⸢promesa⸣, o lo que Dios ha «prometido» dar. Si sería útil en su idioma, podría aclarar que el autor se refiere al contenido de esta ⸢promesa⸣. Traducción alternativa: «las cosas de la promesa de Dios» o «las cosas que Dios prometió»",
+  "lemas_es": [
+   "la promesa"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c9ceee13c855",
+  "lemas_rv1909": [
+   {
+    "lema": "la promesa",
+    "ref": "HEB.6.15"
+   }
+  ]
+ },
+ "uwtn:258551": {
+  "text_es": "La frase ⸢de esta manera⸣ podría referirse a: (1) cómo Dios garantizó lo que prometió (véase 6:13–14). («como Dios prometió»); (2) cómo Abraham tuvo «fe y paciencia» (véase 6:12). («como uno que tuvo fe y paciencia»)",
+  "lemas_es": [
+   "de esta manera"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "080632a42c75",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.15"
+   }
+  ]
+ },
+ "uwtn:258552": {
+  "text_es": "El autor se refiere a cómo Abraham tenía 75 años cuando Dios le hizo por primera vez la ⸢promesa⸣ (véase Génesis 12:1–4), y tenía 100 años cuando Sara dio a luz a su hijo Isaac (véase Génesis 21:1–5). Así que, Abraham ⸢esperó con paciencia⸣ durante 25 años antes de que Dios le diera lo que había prometido.",
+  "lemas_es": [
+   "habiendo esperado con paciencia"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6255827dca17",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.15"
+   }
+  ]
+ },
+ "uwtn-c:258554": {
+  "text_es": "La palabra ⸢Porque⸣ introduce más explicación de cómo funciona «jurar» por alguien (véase 6:13 especialmente). Si sería útil en su idioma, podría expresar la idea con una palabra o frase comparable. Traducción alternativa: «Acerca de jurar», o «En efecto»,",
+  "lemas_es": [
+   "Porque"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "48cc33701f22",
+  "lemas_rv1909": [
+   {
+    "lema": "Porque",
+    "ref": "HEB.6.16"
+   }
+  ]
+ },
+ "uwtn-c:258555": {
+  "text_es": "Aunque ⸢hombres⸣ es masculino, el autor lo usa para todas las personas, tanto hombres como mujeres. Si sería útil en su idioma, podría usar una palabra que se aplique tanto a hombres como a mujeres o podría referirse a ambos géneros. Traducción alternativa: «hombres y mujeres»",
+  "lemas_es": [
+   "hombres"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ad6c9bb67c70",
+  "lemas_rv1909": [
+   {
+    "lema": "hombres",
+    "ref": "HEB.6.16"
+   }
+  ]
+ },
+ "uwtn-c:258556": {
+  "text_es": "Aquí, igual que en 6:13, el autor se refiere a cómo las personas a menudo «juraban por» alguien más. La otra persona necesitaba ser alguien lo suficientemente importante y poderoso para garantizar o hacer cumplir lo que la persona que juraba prometía hacer. Si sería útil en su idioma, podría hacer la práctica más explícita. Traducción alternativa: «jurar por uno que es mayor, quien garantizará lo que dicen»",
+  "lemas_es": [
+   "jurar por uno que es mayor"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7c863de3cb73",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.16"
+   }
+  ]
+ },
+ "uwtn-c:258557": {
+  "text_es": "El autor usa lenguaje técnico relacionado con ⸢disputas⸣ y los tribunales de justicia. La palabra ⸢fin⸣ se refiere a una decisión final, mientras que la palabra ⸢confirmación⸣ se refiere a cómo algo es respaldado y probado como verdadero por evidencia o, aquí, un ⸢juramento⸣. Si sería útil en su idioma, podría expresar la idea de otra manera. Traducción alternativa: «la conclusión de todas sus disputas es el juramento que cierra el asunto» o «el juramento confirma que una disputa ha terminado»",
+  "lemas_es": [
+   "un fin de toda disputa para ellos para confirmación es el juramento"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9844cdb4c69a",
+  "lemas_rv1909": [
+   {
+    "lema": "ellos⸣ juran: y el fin de todas sus controversias es el juramento para confirmación",
+    "ref": "HEB.6.16"
+   }
+  ]
+ },
+ "uwtn-c:258558": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢confirmación⸣, podría expresar la misma idea de otra manera. Traducción alternativa: «lo que confirma el fin de todas las disputas para ellos» o «lo que ciertamente termina cualquier cosa sobre la que las personas estén disputando»",
+  "lemas_es": [
+   "un fin de toda disputa para ellos para confirmación"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "26825915fab5",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.16"
+   }
+  ]
+ },
+ "uwtn:258556": {
+  "text_es": "Aquí, igual que en 6:13, el autor se refiere a cómo las personas a menudo «juraban por» alguien más. La otra persona necesitaba ser alguien lo suficientemente importante y poderoso para garantizar o hacer cumplir lo que la persona que juraba prometía hacer.",
+  "lemas_es": [
+   "jurar por uno que es mayor"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f9f469b8ae7f",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.16"
+   }
+  ]
+ },
+ "uwtn:258557": {
+  "text_es": "El autor usa lenguaje técnico relacionado con ⸢disputas⸣ y los tribunales de justicia. La palabra ⸢fin⸣ se refiere a una decisión final, mientras que la palabra ⸢confirmación⸣ se refiere a cómo algo es respaldado y probado como verdadero por evidencia o, aquí, un ⸢juramento⸣.",
+  "lemas_es": [
+   "un fin de toda disputa para ellos para confirmación es el juramento"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2faa7571d61b",
+  "lemas_rv1909": [
+   {
+    "lema": "ellos⸣ juran: y el fin de todas sus controversias es el juramento para confirmación",
+    "ref": "HEB.6.16"
+   }
+  ]
+ },
+ "uwtn-c:258559": {
+  "text_es": "La palabra ⸢que⸣ se refiere a cómo los humanos «juran» con un ⸢juramento⸣ (véase 6:16). La frase ⸢en que⸣ significa que lo que el autor habla en este versículo ocurre en ese mismo contexto o manera. En otras palabras, Dios usó un ⸢juramento⸣, tal como lo hacen los humanos. Si sería útil en su idioma, podría usar una palabra o frase que introduzca algo que ocurre según un patrón previamente establecido. Traducción alternativa: «en esa misma manera» o «en ese patrón»",
+  "lemas_es": [
+   "en que"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0e94f79911e7",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.17"
+   }
+  ]
+ },
+ "uwtn-c:258560": {
+  "text_es": "La frase ⸢aún más⸣ modifica ⸢mostrar⸣. Si sería útil en su idioma, podría reorganizar los elementos de esta oración para aclarar qué modifica ⸢aún más⸣. Traducción alternativa: «mostrar aún más»",
+  "lemas_es": [
+   "aún más mostrar"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a05d2fac544d",
+  "lemas_rv1909": [
+   {
+    "lema": "mostrar más",
+    "ref": "HEB.6.17"
+   }
+  ]
+ },
+ "uwtn-c:258561": {
+  "text_es": "El autor habla como si los creyentes fueran hijos que recibirían propiedad que un padre transmite a su hijo cuando el padre muere. Quiere decir que los creyentes reciben la ⸢promesa⸣ de Dios, aunque Dios no muere. Si sería útil en su idioma, podría declarar el significado de manera sencilla. Traducción alternativa: «a aquellos que habían de recibir la promesa» o «a los destinatarios de la promesa»",
+  "lemas_es": [
+   "a los herederos de la promesa"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cd46fe8cfb90",
+  "lemas_rv1909": [
+   {
+    "lema": "a los herederos de la promesa",
+    "ref": "HEB.6.17"
+   }
+  ]
+ },
+ "uwtn-c:258562": {
+  "text_es": "La palabra ⸢promesa⸣ se refiere al contenido de la ⸢promesa⸣, o a lo que Dios ha «prometido» dar. Si en su idioma sería útil, podría aclarar que el autor se refiere al contenido de esta ⸢promesa⸣. Traducción alternativa: «de las cosas de la promesa» o «de las cosas que Dios prometió»",
+  "lemas_es": [
+   "de la promesa"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "76d73e51ab20",
+  "lemas_rv1909": [
+   {
+    "lema": "de la promesa",
+    "ref": "HEB.6.17"
+   }
+  ]
+ },
+ "uwtn-c:258563": {
+  "text_es": "Si su idioma no usa sustantivos abstractos para las ideas de ⸢cualidad⸣ y ⸢propósito⸣, usted podría expresar las ideas usando verbos o de otra manera natural. Traducción alternativa: «que lo que él se propone es inmutable» o «cuán inmutable es lo que él planea»",
+  "lemas_es": [
+   "la cualidad inmutable de su propósito"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bb0d789c8fec",
+  "corregido_por_juez": "El inglés dice «quality» (cualidad); el español lo vierte como «inmutabilidad», que no corresponde.",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.17"
+   }
+  ]
+ },
+ "uwtn-c:258564": {
+  "text_es": "La frase ⸢dos cosas inmutables⸣ se refiere a la «promesa» de Dios y su «juramento» (véase 6:17). Tanto la «promesa» como el «juramento» contienen palabras vinculantes que nadie puede cambiar. Si en su idioma sería útil, podría hacer esta idea más explícita. Traducción alternativa: «por un juramento y una promesa inmutables»",
+  "lemas_es": [
+   "por dos cosas inmutables"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "80332ece0ac3",
+  "lemas_rv1909": [
+   {
+    "lema": "por dos cosas inmutables",
+    "ref": "HEB.6.18"
+   }
+  ]
+ },
+ "uwtn-c:258565": {
+  "text_es": "Traducción alternativa: «acerca de las cuales Dios nunca podría mentir»",
+  "lemas_es": [
+   "en las cuales es imposible que Dios mienta"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a62b681775be",
+  "lemas_rv1909": [
+   {
+    "lema": "en las cuales es imposible que Dios mienta",
+    "ref": "HEB.6.18"
+   }
+  ]
+ },
+ "uwtn-c:258566": {
+  "text_es": "El autor habla de los creyentes que confían en que Dios los salve y los proteja como si corrieran a un lugar seguro. Habla así para enfatizar la necesidad de ⸢refugio⸣ y el hecho de que Dios lo proporciona. Si en su idioma sería útil, podría expresar el significado de manera sencilla. Traducción alternativa: «que han encontrado salvación» o «que han buscado protección»",
+  "lemas_es": [
+   "los que han huido para refugiarse"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e7820aa571ef",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.18"
+   }
+  ]
+ },
+ "uwtn-c:258567": {
+  "text_es": "El autor no especifica de qué hemos ⸢huido⸣ ⸢nosotros⸣ ni quién proporciona el ⸢refugio⸣. Da a entender que Dios proporciona el ⸢refugio⸣, pero de qué hemos ⸢huido⸣ ⸢nosotros⸣ no está claro. Lo más probable es que el autor dé a entender cualquier dificultad o problema que los seres humanos enfrentan, incluidos el pecado, el sufrimiento, la persecución o cualquier otra cosa mala o dolorosa. Si en su idioma sería útil, podría incluir aquí parte de esta información implícita. Traducción alternativa: «que han huido a Dios para refugiarse de nuestros pecados y luchas» o «que han huido al refugio de Dios»",
+  "lemas_es": [
+   "los que han huido para refugiarse"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "593a0dd285da",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.18"
+   }
+  ]
+ },
+ "uwtn-c:258568": {
+  "text_es": "Si su idioma no usa sustantivos abstractos para las ideas de ⸢refugio⸣ y ⸢consuelo⸣, usted podría expresar las ideas usando verbos como «proteger» y «animar». Traducción alternativa: «quienes han huido para ser protegidos podamos ser fuertemente animados»",
+  "lemas_es": [
+   "nosotros, los que hemos huido para refugiarnos, podamos tener un fuerte consuelo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b1a6009de565",
+  "corregido_por_juez": "La traducción alternativa cambia «might be strongly encouraged» por «podamos tener un fuerte consuelo»: usa sustantivo en vez del verbo, cambia la pasiva y el sujeto.",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.18"
+   }
+  ]
+ },
+ "uwtn-c:258569": {
+  "text_es": "La frase ⸢retener firmemente⸣ se refiere a seguir creyendo o confiando de manera constante en algo, en particular en algo que se le ha dicho a uno. Si en su idioma sería útil, podría usar una palabra o frase que se refiera a seguir creyendo o esperando algo. Traducción alternativa: «aferrarnos con fuerza a la esperanza» o «seguir esperando la esperanza»",
+  "lemas_es": [
+   "retener firmemente la esperanza"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8135496e79a2",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.18"
+   }
+  ]
+ },
+ "uwtn-c:258570": {
+  "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢esperanza⸣, podría expresar la idea usando un verbo como «esperar» o «aguardar». El autor podría estar enfocándose principalmente en: (1) el acto de «esperar». Traducción alternativa: «en cómo esperamos lo que Dios tiene»; (2) aquello que ⸢esperamos⸣. Traducción alternativa: «en lo que esperamos, que es»",
+  "lemas_es": [
+   "a la esperanza"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "490f51c8fc75",
+  "lemas_rv1909": [
+   {
+    "lema": "la esperanza",
+    "ref": "HEB.6.18"
+   }
+  ]
+ },
+ "uwtn-c:258571": {
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa aquí la forma pasiva para enfocarse en lo que está ⸢puesto delante de nosotros⸣ y no en la persona que lo pone. Si debe indicar quién realizó la acción, el autor da a entender que Dios la realizó. Traducción alternativa: «que Dios ha puesto delante de nosotros»",
+  "lemas_es": [
+   "puesta delante de nosotros"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bb36584c23ef",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.18"
+   }
+  ]
+ },
+ "uwtn:258564": {
+  "text_es": "La frase ⸢dos cosas inmutables⸣ se refiere a la «promesa» de Dios y su «juramento» (véase 6:17). Tanto la «promesa» como el «juramento» contienen palabras vinculantes que nadie puede cambiar.",
+  "lemas_es": [
+   "por dos cosas inmutables"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f8a0335d28ec",
+  "lemas_rv1909": [
+   {
+    "lema": "por dos cosas inmutables",
+    "ref": "HEB.6.18"
+   }
+  ]
+ },
+ "uwtn:258567": {
+  "text_es": "El autor no especifica de qué hemos ⸢huido⸣ ⸢nosotros⸣ ni quién proporciona el ⸢refugio⸣. Da a entender que Dios proporciona el ⸢refugio⸣, pero de qué hemos ⸢huido⸣ ⸢nosotros⸣ no está claro. Lo más probable es que el autor dé a entender cualquier dificultad o problema que los seres humanos enfrentan, incluidos el pecado, el sufrimiento, la persecución o cualquier otra cosa mala o dolorosa.",
+  "lemas_es": [
+   "los que han huido para refugiarse"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "60717a175c14",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.18"
+   }
+  ]
+ },
+ "uwtn-c:258572": {
+  "text_es": "La palabra ⸢la cual⸣ se refiere a «la esperanza» que el autor mencionó en el versículo anterior (véase 6:18). Si en su idioma sería útil, podría hacer explícito que ⸢la cual⸣ se refiere a «la esperanza». Traducción alternativa: «la cual esperanza»",
+  "lemas_es": [
+   "la cual esperanza"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4596927673c5",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.19"
+   }
+  ]
+ },
+ "uwtn-c:258573": {
+  "text_es": "El autor afirma que la «esperanza» funciona ⸢como un ancla del alma⸣. Así como un ⸢ancla⸣ mantiene un barco en un solo lugar para que no se desvíe (véase la introducción del capítulo), así la «esperanza», que es ⸢segura y firme⸣, mantiene ⸢el alma⸣ en un solo lugar para que la persona persevere en confiar en Dios y esperar lo que él ha prometido. Si en su idioma sería útil, podría referirse a otra cosa que mantenga las cosas en su lugar, o podría expresar la idea de manera sencilla. Traducción alternativa: «como un peso que mantiene el alma en su lugar, segura y firme» o «como algo que mantiene el alma cerca de Dios de manera segura y firme»",
+  "lemas_es": [
+   "como un ancla del alma, segura y firme"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b21f83e5c34c",
+  "lemas_rv1909": [
+   {
+    "lema": "como segura y firme ancla del alma",
+    "ref": "HEB.6.19"
+   }
+  ]
+ },
+ "uwtn-c:258574": {
+  "text_es": "Un ⸢ancla⸣ es una pieza pesada de metal sujeta al extremo de una cuerda. El otro extremo de la cuerda está atado a una barca, y de esta manera, cuando se deja caer hasta el fondo bajo el agua, el ancla impide que la barca se mueva o se desvíe. Si sus lectores no sabrían qué es ⸢un ancla⸣, podría explicarlo o referirse a un objeto diferente que mantenga algo en su lugar. Traducción alternativa: «una piedra de fundamento» o «un pilar»",
+  "lemas_es": [
+   "un ancla"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9b4aa2a9b5c7",
+  "lemas_rv1909": [
+   {
+    "lema": "ancla",
+    "ref": "HEB.6.19"
+   }
+  ]
+ },
+ "uwtn-c:258575": {
+  "text_es": "Estos dos términos significan básicamente lo mismo y se usan juntos para enfatizar cuán segura es la «esperanza». Si su idioma no usa la repetición para hacer esto, o si no tiene dos palabras para estos atributos, podría usar una sola frase y dar énfasis de otra manera. Traducción alternativa: «extremadamente segura» o «firmemente confirmada»",
+  "lemas_es": [
+   "segura y firme"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1e5b7763cbfa",
+  "lemas_rv1909": [
+   {
+    "lema": "segura y firme",
+    "ref": "HEB.6.19"
+   }
+  ]
+ },
+ "uwtn-c:258576": {
+  "text_es": "El autor habla como si la «esperanza» pudiera «entrar» ⸢hasta dentro del velo⸣. Habla así para indicar que la «esperanza» penetra en un lugar que no podemos experimentar ahora mismo: el interior del santuario celestial. En otras palabras, aunque no podemos «entrar» en ese lugar, podemos esperar con confianza recibir y experimentar lo que está en ese lugar. Si en su idioma sería útil, podría expresar la idea de otra manera. Traducción alternativa: «accediendo ya a lo que está dentro del velo» o «penetrando hasta dentro del velo»",
+  "lemas_es": [
+   "entrando hasta dentro del velo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f823f59880c2",
+  "lemas_rv1909": [
+   {
+    "lema": "entra hasta dentro del velo",
+    "ref": "HEB.6.19"
+   }
+  ]
+ },
+ "uwtn-c:258577": {
+  "text_es": "La frase ⸢dentro del velo⸣ se refiere al área interior y más santa del santuario. Véanse las frases similares en Éxodo 26:33 y Levítico 16:2. El ⸢velo⸣ separa esta área del resto del santuario. Si en su idioma sería útil, podría usar una frase que se refiera más claramente a esta área y al velo que la delimita. Traducción alternativa: «el lugar santísimo detrás del velo que lo separa» o «el lugar más sagrado que el velo delimita»",
+  "lemas_es": [
+   "dentro del velo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f7e325038f4c",
+  "lemas_rv1909": [
+   {
+    "lema": "dentro del velo",
+    "ref": "HEB.6.19"
+   }
+  ]
+ },
+ "uwtn:258574": {
+  "text_es": "Un ⸢ancla⸣ es una pieza pesada de metal sujeta al extremo de una cuerda. El otro extremo de la cuerda está atado a una barca, y de esta manera, cuando se deja caer hasta el fondo bajo el agua, el ancla impide que la barca se mueva o se desvíe.",
+  "lemas_es": [
+   "un ancla"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bc9516c991db",
+  "lemas_rv1909": [
+   {
+    "lema": "ancla",
+    "ref": "HEB.6.19"
+   }
+  ]
+ },
+ "uwtn:258577": {
+  "text_es": "La frase ⸢dentro del velo⸣ se refiere al área interior y más santa del santuario. Véanse las frases similares en Éxodo 26:33 y Levítico 16:2. El ⸢velo⸣ separa esta área del resto del santuario.",
+  "lemas_es": [
+   "dentro del velo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "34730ba8bef3",
+  "lemas_rv1909": [
+   {
+    "lema": "dentro del velo",
+    "ref": "HEB.6.19"
+   }
+  ]
+ },
+ "uwtn-c:258578": {
+  "text_es": "La palabra ⸢precursor⸣ se refiere a una persona que ha ido delante de todos los demás. El autor identifica a Jesús como la primera persona en ir a un lugar específico, y la implicación es que él abre el camino o lleva a otros a entrar en ese mismo lugar. Si en su idioma sería útil, podría usar una palabra o frase que se refiera a una persona que lleva a otros a un lugar. Traducción alternativa: «como el que lleva a otros» o «como uno que abre camino»",
+  "lemas_es": [
+   "como precursor"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b9afb3a2b195",
+  "lemas_rv1909": [
+   {
+    "lema": "⸢como⸣ precursor",
+    "ref": "HEB.6.20"
+   }
+  ]
+ },
+ "uwtn-c:258579": {
+  "text_es": "La frase ⸢en nuestro favor⸣ podría modificar: (1) ⸢entró⸣. En este caso, Jesús ha ⸢entrado⸣ por nuestro bien, o para ayudarnos. Traducción alternativa: «ha entrado por nuestro bien como precursor»; (2) ⸢precursor⸣. En este caso, Jesús abrió el camino ⸢en nuestro favor⸣. Traducción alternativa: «ha entrado como precursor que nos guía»",
+  "lemas_es": [
+   "ha entrado como precursor en nuestro favor"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d1b817c6bf46",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.20"
+   }
+  ]
+ },
+ "uwtn-c:258580": {
+  "text_es": "La frase ⸢habiendo llegado a ser⸣ introduce una acción que podría ocurrir: (1) antes de que Jesús ⸢entrara⸣. En este caso, Dios lo hace ⸢pontífice⸣, y luego él entra en el santuario celestial. Traducción alternativa: «habiendo llegado a ser ya»; (2) al mismo tiempo que Jesús ⸢entró⸣. En este caso, el «entrar» y el «llegar a ser» describen lo mismo u ocurren al mismo tiempo. Traducción alternativa: «cuando llegó a ser» o «al mismo tiempo que llegó a ser»",
+  "lemas_es": [
+   "habiendo llegado a ser"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "68bba748f944",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.20"
+   }
+  ]
+ },
+ "uwtn-c:258581": {
+  "text_es": "El autor usa las mismas palabras que usó en 5:6, 10. Debe traducir esta frase exactamente de la misma manera en que lo hizo en esos versículos.",
+  "lemas_es": [
+   "según el orden de Melquisedec"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c31ff13ac69f",
+  "lemas_rv1909": [
+   {
+    "lema": "según el orden",
+    "ref": "HEB.6.20"
+   }
+  ]
+ },
+ "uwtn:258578": {
+  "text_es": "La palabra ⸢precursor⸣ se refiere a una persona que ha ido delante de todos los demás. El autor identifica a Jesús como la primera persona en ir a un lugar específico, y la implicación es que él abre el camino o lleva a otros a entrar en ese mismo lugar.",
+  "lemas_es": [
+   "como precursor"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "45bdc358a4c9",
+  "lemas_rv1909": [
+   {
+    "lema": "⸢como⸣ precursor",
+    "ref": "HEB.6.20"
+   }
+  ]
+ },
+ "uwtn:258579": {
+  "text_es": "La frase ⸢en nuestro favor⸣ podría modificar: (1) ⸢entró⸣. En este caso, Jesús ha ⸢entrado⸣ por nuestro bien, o para ayudarnos. («ha entrado por nuestro bien como precursor»); (2) ⸢precursor⸣. En este caso, Jesús abrió el camino ⸢en nuestro favor⸣. («ha entrado como precursor que nos guía»)",
+  "lemas_es": [
+   "ha entrado como precursor en nuestro favor"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e017f1d7f425",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.20"
+   }
+  ]
+ },
+ "uwtn:258580": {
+  "text_es": "La frase ⸢habiendo llegado a ser⸣ introduce una acción que podría ocurrir: (1) antes de que Jesús ⸢entrara⸣. En este caso, Dios lo hace ⸢pontífice⸣, y luego él entra en el santuario celestial. («habiendo llegado a ser ya»); (2) al mismo tiempo que Jesús ⸢entró⸣. En este caso, el «entrar» y el «llegar a ser» describen lo mismo u ocurren al mismo tiempo. («cuando llegó a ser» o «al mismo tiempo que llegó a ser»)",
+  "lemas_es": [
+   "habiendo llegado a ser"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9268f94d7948",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.6.20"
+   }
+  ]
+ },
+ "uwtn:258581": {
+  "text_es": "El autor usa las mismas palabras que usó en 5:6, 10.",
+  "lemas_es": [
+   "según el orden de Melquisedec"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "452d6c62d1dc",
+  "lemas_rv1909": [
+   {
+    "lema": "según el orden",
+    "ref": "HEB.6.20"
    }
   ]
  }
