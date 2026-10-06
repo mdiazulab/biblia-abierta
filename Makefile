@@ -9,6 +9,7 @@ normalizar: ingesta
 	python3 scripts/rv1909.py $(LIBRO)
 	python3 scripts/aquifer.py $(LIBRO)
 	python3 scripts/hcf.py $(LIBRO)
+	python3 scripts/griego.py $(LIBRO)
 
 CAP ?= 1
 

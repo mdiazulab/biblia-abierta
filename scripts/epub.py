@@ -98,7 +98,8 @@ h2 { font-size: 1.15em; font-weight: bold; margin: 1.4em 0 0.6em; }
 p { margin: 0 0 0.35em; text-indent: 0; text-align: justify; }
 .v sup.n { font-size: 0.65em; color: #8a1c1c; font-weight: bold; margin-right: 0.15em; }
 a.ll { text-decoration: none; font-size: 0.7em; vertical-align: super; line-height: 0; font-family: sans-serif; }
-a.ll.c { color: #1f5a8a; } a.ll.p { color: #7a4b00; } a.ll.r { color: #2e6b2e; }
+a.ll.c { color: #1f5a8a; } a.ll.g { color: #6a2c7a; } a.ll.p { color: #7a4b00; } a.ll.r { color: #2e6b2e; }
+.grc { font-weight: bold; }
 section.notas { margin-top: 2.5em; font-size: 0.9em; border-top: 1px solid #999; }
 aside { margin: 1em 0; }
 aside h3 { font-size: 0.95em; font-weight: bold; margin: 0.8em 0 0.3em; }
@@ -254,6 +255,14 @@ def sin_repeticiones(libro, us, tr):
     return salida, informe
 
 
+def griego_cab(n, t):
+    """«τετελείωκεν… (hizo perfectos): » — la frase griega y, entre paréntesis, el tramo de la RV1909 al que se
+    ancló la glosa (o la glosa traducida si no se ancló)."""
+    lemas = [a["lema"] for a in t.get("lemas_rv1909", []) if a.get("lema")] or [l for l in t.get("lemas_es") or [] if l]
+    lema = f' <span class="lema">({x("; ".join(lemas))})</span>' if lemas else ""
+    return f'<span class="grc" lang="grc" xml:lang="grc">{x(n["griego"])}</span>{lema}: '
+
+
 def capitulo_xhtml(libro, c, rv, ns, tr):
     por = {}
     for n in ns:
@@ -267,13 +276,13 @@ def capitulo_xhtml(libro, c, rv, ns, tr):
         anclas = t.get("lemas_rv1909") or []
         if anclas and anclas[0].get("ref"):
             ancla = anclas[0]["ref"]
-        capa = {"contexto": "c", "reforma": "r"}.get(n["layer"], "p")
+        capa = {"contexto": "c", "reforma": "r", "griego": "g"}.get(n["layer"], "p")
         por.setdefault((ancla, capa), []).append((n, t))
     cuerpo, notas = [], []
     for ref in [r for r in rv if C.cap(r) == c]:
         v = C.ver(ref)
         llamadas = ""
-        for capa, letra in (("c", "C"), ("p", "P"), ("r", "R")):
+        for capa, letra in (("c", "C"), ("g", "G"), ("p", "P"), ("r", "R")):
             if (ref, capa) in por:
                 nid = f"n{c}-{v}-{capa}"
                 llamadas += f' <a class="ll {capa}" epub:type="noteref" href="#{nid}" id="r{nid}">{letra}</a>'
@@ -285,10 +294,12 @@ def capitulo_xhtml(libro, c, rv, ns, tr):
                                else f'<span class="lema">v. {C.ver(n["ref"])}' +
                                (f'-{C.ver(n["ref_fin"])}' if n.get("ref_fin", n["ref"]) != n["ref"] else "") + ":</span> ")
                         bloques.append(f"<p>{cab}{inline(t['text_es'])}</p>")
+                    elif capa == "g":
+                        bloques.append(f"<p>{griego_cab(n, t)}{inline(t['text_es'])}</p>")
                     else:
                         quien, fuente = atribucion(n)
                         bloques.append(f"<p>{quien}: {inline(t['text_es'])}</p>{fuente}")
-                titulo = {"c": "Contexto", "p": "Padres de la Iglesia", "r": "Reforma"}[capa] + f" — {LIBRO_ES[libro]} {c}:{v}"
+                titulo = {"c": "Contexto", "g": "El texto griego", "p": "Padres de la Iglesia", "r": "Reforma"}[capa] + f" — {LIBRO_ES[libro]} {c}:{v}"
                 notas.append(f'<aside epub:type="footnote" id="{nid}"><h3><a href="#r{nid}">{x(titulo)}</a></h3>'
                              + "".join(bloques) + "</aside>")
         texto = x(rv[ref]["texto"]).replace("⸢", "<em>").replace("⸣", "</em>")
@@ -308,14 +319,18 @@ def paginas_previas(libro, us, tr_total):
     usados = [n for n in us if n["id"] in tr_total]
     autores = sorted({AUTORES.get(n["source"]["author"], n["source"]["author"]) for n in usados if n["layer"] == "padres"})
     reforma = sorted({AUTORES.get(n["source"]["author"], n["source"]["author"]) for n in usados if n["layer"] == "reforma"})
+    griego = any(n["layer"] == "griego" for n in usados)
     ediciones = sorted({n["source"]["edition"] for n in usados if n["layer"] in ("padres", "reforma") and n["source"].get("edition")})
     portada = (f'<div class="portada"><h1>{LIBRO_ES[libro]}</h1><p style="text-align:center">Reina-Valera 1909</p>'
-               '<p style="text-align:center">Biblia de Estudio Abierta — notas de contexto, de los Padres de la Iglesia'
+               '<p style="text-align:center">Biblia de Estudio Abierta — notas de contexto'
+               + (', del texto griego' if griego else '') + ', de los Padres de la Iglesia'
                + (' y de la Reforma' if reforma else '') + '</p>'
                '<p style="text-align:center">Edición piloto</p></div>')
     fuentes = ("<h1>Fuentes y cómo leer las notas</h1>"
-               "<p>Cada versículo lleva llamadas por capa: <strong>C</strong> (contexto histórico y literario) y "
-               "<strong>P</strong> (Padres de la Iglesia) y, donde la hay, <strong>R</strong> (Reforma: el comentario de "
+               "<p>Cada versículo lleva llamadas por capa: <strong>C</strong> (contexto histórico y literario), "
+               + ("<strong>G</strong> (el texto griego: qué dice literalmente una frase, qué tiempo verbal usa y, cuando "
+                  "admite más de una lectura, cuáles son, numeradas, con una paráfrasis de cada una), " if griego else "")
+               + "<strong>P</strong> (Padres de la Iglesia) y, donde la hay, <strong>R</strong> (Reforma: el comentario de "
                "Juan Calvino). En cada cita patrística se indica la tradición (Oriente u "
                "Occidente), la obra, el pasaje y la edición inglesa de dominio público desde la que se tradujo. "
                "El nombre de cada autor lleva a su ficha en «Los autores en su contexto» (fechas, lugar y situación "
@@ -333,7 +348,11 @@ def paginas_previas(libro, us, tr_total):
                  "inglesas de dominio público; la Catena Aurea en la traducción de J. H. Newman (Oxford, 1841-45).</p>"
                  + ("<p>Capa «Reforma»: Juan Calvino, <em>Comentario a la Epístola a los Hebreos</em> (1549), en la "
                     "traducción inglesa de J. Owen (Calvin Translation Society, Edimburgo, 1853), de dominio público, según el "
-                    "texto de la Christian Classics Ethereal Library.</p>" if reforma else "") +
+                    "texto de la Christian Classics Ethereal Library.</p>" if reforma else "")
+                 + ("<p>Notas sobre el texto griego (capa G) adaptadas de <em>unfoldingWord® Translation Notes</em> © 2022 "
+                    "unfoldingWord, CC BY-SA 4.0, en la edición de Aquifer (release v91). Seleccionadas, abreviadas (se "
+                    "quitaron las indicaciones dirigidas a traductores), traducidas y modificadas; unfoldingWord no respalda "
+                    "necesariamente estos cambios.</p>" if griego else "") +
                  "<p>Esta edición (traducción al español, notas y maquetación) se publica bajo licencia Creative Commons "
                  "Atribución-CompartirIgual 4.0 Internacional (https://creativecommons.org/licenses/by-sa/4.0/). "
                  "Es gratuita y puede copiarse, adaptarse y redistribuirse con la misma licencia.</p>"

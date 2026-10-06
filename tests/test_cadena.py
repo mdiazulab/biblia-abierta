@@ -139,5 +139,29 @@ class Compuerta(unittest.TestCase):
         self.assertNotEqual(m, "Jesús es el Verbo. Vino en el año 30. Fue enviado.")
 
 
+class Griego(unittest.TestCase):
+    """Notas de unfoldingWord: fuera lo dirigido al traductor, sin romper las listas de lecturas posibles."""
+
+    def test_quita_indicaciones_al_traductor(self):
+        import griego as G
+        t = G.limpiar("The word ⸢approach⸣ refers implicitly to getting close to something. This means that they enter "
+                      "into God’s presence. If it would be helpful in your language, you could use a word that refers to "
+                      "being in someone’s presence. Alternate translation: [the ones going before God]")
+        self.assertNotIn("your", t)
+        self.assertNotIn("going before", t)            # paráfrasis fuera de una lista de opciones: se quita
+        self.assertIn("God’s presence", t)
+
+    def test_conserva_opciones_con_parafrasis(self):
+        import griego as G
+        t = G.limpiar("The phrase ⸢yourselves also⸣ could refer to: (1) the audience. Alternate translation: "
+                      "[also you yourselves]; (2) the ones being mistreated. Alternate translation: [they also being]")
+        self.assertIn("(2) the ones being mistreated", t)   # el «you» de la paráfrasis no borra la opción
+        self.assertIn("«also you yourselves»", t)
+
+    def test_lista_rota_descarta_la_nota(self):
+        import griego as G
+        self.assertIsNone(G.limpiar("It could mean: (1) something that you could say. (2) another thing entirely here."))
+
+
 if __name__ == "__main__":
     unittest.main()

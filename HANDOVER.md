@@ -107,8 +107,21 @@ Clases encontradas y corregidas en los dos libros (cada una con prueba):
 - citas: romanos de la edición inglesa, libros de un capítulo («Judas 19» = 1:19), «Hageo», capítulo entero en
   listas con «;», «En 11:35» no es libro; tildes «constituído», errata de Hebreos 12:2.
 
+Capas nuevas de Hebreos (06-10-2026):
+- R «Reforma»: Calvino, Comentario a Hebreos (trad. Owen 1853, CCEL; `scripts/reforma.py`, SHA-256 en
+  manifest.json «fuentes_web»; lo descarga el workflow «Biblia abierta (fuentes web)» del espejo).
+- G «El texto griego»: unfoldingWord® Translation Notes (CC BY-SA 4.0, Aquifer `UWTranslationNotes`, release
+  v91; `scripts/griego.py`). De 1.767 notas quedan 471 (19,5 mil palabras, 245/303 versículos): las que exponen
+  lecturas posibles «(1)…(2)…» y las de trasfondo/variantes/sin categoría; fuera las de técnica de traducción y
+  toda oración dirigida al traductor (si eso rompe una lista de opciones, la nota entera se descarta). La frase
+  griega va aparte ("griego") y no se traduce; la glosa es el lema y se ancla a la RV1909.
+- Evaluadas y NO usadas: SBLGNT (el repo de GitHub no trae el aparato, solo marcas ⸂⸃); Biblica Study Notes
+  (CC BY-SA, hay español, pero son 20 notas por perícopa que repiten el enfoque de Tyndale); Versión Biblia Libre
+  (CC BY-SA 4.0, verificada en eBible.org: paráfrasis con decisiones que borran justo los términos en disputa:
+  10:14 «justificó» por τετελείωκεν, 12:1 sin «testigos», 12:23 sin «espíritus»).
+
 Pendiente:
-1. Capa «Reforma» (Calvino, Wesley) desde fuentes de dominio público en CI.
+1. Wesley (Explanatory Notes) como segunda voz de la Reforma/avivamiento, si se quiere.
 2. Gemini: la clave nueva no tiene cupo para gemini-3.6-flash (429); el juez usa deepseek-reasoner.
 
 Decisiones del usuario: acentos modernizados (a); repo propio `biblia-abierta` (b); misma licencia

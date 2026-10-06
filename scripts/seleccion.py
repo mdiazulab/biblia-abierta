@@ -59,6 +59,8 @@ def main():
                     sel.append(n["id"]); autores.add(n["source"]["author"]); extra += 1
     if L.get("reforma"):                                # capa «Reforma»: el comentario completo
         sel += [n["id"] for n in C.cargar(f"normalizado/{libro}/reforma.json", [])]
+    if L.get("griego"):                                 # capa «Griego»: todas las notas que pasaron el filtro de griego.py
+        sel += [n["id"] for n in C.cargar(f"normalizado/{libro}/griego.json", [])]
     sel = list(dict.fromkeys(sel))
     C.guardar(f"normalizado/{libro}/seleccion.json", sel)
     us = C.unidades(libro)
@@ -68,7 +70,7 @@ def main():
         cubiertos |= {r for r in versos if (C.cap(a), C.ver(a)) <= (C.cap(r), C.ver(r)) <= (C.cap(b), C.ver(b))}
     w = collections.Counter()
     for n in us:
-        w[n["layer"] + ("/" + n["tradition"] if n["layer"] == "padres" else "")] += palabras(n)   # contexto, padres/…, reforma
+        w[n["layer"] + ("/" + n["tradition"] if n["layer"] == "padres" else "")] += palabras(n)   # contexto, padres/…, reforma, griego
     lin = [f"# Selección {libro}", "",
            f"- unidades: {len(us)} (Aquifer {len(aq)}, Catena {len(catena)}, complemento {extra})",
            f"- palabras (inglés): {sum(w.values()):,} — " + ", ".join(f"{k} {v:,}" for k, v in w.most_common()),

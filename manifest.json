@@ -28,6 +28,15 @@
    ],
    "licencia": "Compilación dedicada al dominio público; cada cita según su traducción (ver glosario/obras.json)",
    "capa": "padres"
+  },
+  "uwtn": {
+   "repo": "https://github.com/BibleAquifer/UWTranslationNotes",
+   "sha": "13134fc6803be7c8e395ae94af258c8fb5cc6e11",
+   "rutas": [
+    "/eng/json/{libro}.content.json"
+   ],
+   "licencia": "CC-BY-SA-4.0 (unfoldingWord® Translation Notes © 2022 unfoldingWord; edición Aquifer, release v91)",
+   "capa": "griego"
   }
  },
  "excluidas": {
