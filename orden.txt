@@ -1,0 +1,2 @@
+ninguna
+# línea 1 = orden para la cadena («HEB todos»). Requiere los secretos del repositorio.

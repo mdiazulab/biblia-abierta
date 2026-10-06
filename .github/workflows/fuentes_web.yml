@@ -1,0 +1,36 @@
+name: Fuentes web (dominio público y licencias libres)
+
+# Descarga a fuentes_ci/ cada línea «nombre url» de fuentes_ci/pedido.txt (las que no están en GitHub: CCEL,
+# eBible…) y anota su SHA-256 en fuentes_ci/SHA256.txt. Los scripts verifican ese SHA contra manifest.json.
+
+on:
+  push:
+    branches: [main]
+    paths: ["fuentes_ci/pedido.txt"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  bajar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Descargar
+        run: |
+          cd fuentes_ci
+          grep -v '^#' pedido.txt | while read -r nombre url; do
+            [ -z "$nombre" ] && continue
+            curl -fsSL --retry 3 -o "$nombre" "$url"
+            echo "$(sha256sum "$nombre" | cut -d' ' -f1)  $nombre  $url" >> SHA256.txt
+          done
+          tail -5 SHA256.txt
+      - name: Guardar
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add fuentes_ci
+          git diff --cached --quiet || git commit -q -m "fuentes_ci: $(grep -v '^#' fuentes_ci/pedido.txt | awk '{print $1}' | tr '\n' ' ')"
+          git pull --rebase -q origin main && git push -q origin HEAD:main

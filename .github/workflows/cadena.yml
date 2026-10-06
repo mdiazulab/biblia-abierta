@@ -1,0 +1,62 @@
+name: Cadena (traducción, juez, verificación, EPUB)
+
+# Se dispara al cambiar orden.txt (línea 1: «HEB todos», «ROM 3»…; el resto, notas). Hace commit de traducido/,
+# informes/, epub/ y normalizado/ en main. Necesita los secretos DEEPSEEK_API_KEY y GEMINI_API_KEY del
+# repositorio; sin ellos no hace nada (corre en el espejo privado hasta que existan).
+
+on:
+  push:
+    branches: [main]
+    paths: ["orden.txt"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cadena-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  cadena:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Dependencias
+        run: |
+          pip install -q requests
+          sudo apt-get update -qq && sudo apt-get install -y -qq epubcheck > /dev/null
+      - name: Pruebas (sin red)
+        run: python3 -m unittest discover -s tests -t .
+      - name: Traducción, juez, anclaje, verificación, EPUB
+        timeout-minutes: 330        # si se corta, «Guardar resultados» sube lo hecho y la corrida siguiente retoma
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_RPM: "60"
+          JUEZ_HILOS: "4"
+        run: |
+          if [ -z "$DEEPSEEK_API_KEY" ]; then echo "Faltan los secretos del repositorio: no se corre nada."; exit 0; fi
+          L=$(head -1 orden.txt | cut -d' ' -f1); C=$(head -1 orden.txt | cut -d' ' -f2)
+          cd scripts
+          python3 seleccion.py $L
+          python3 traducir.py $L $C 2>&1 | tee ../informes/traduccion_$L.log
+          python3 juez.py $L $C 2>&1 | tee ../informes/juez_$L.md
+          python3 anclar.py $L $C
+          python3 verificar.py $L $C || true
+          python3 epub.py $L $C
+          python3 epub_griego.py $L || true
+          epubcheck ../epub/*.epub > ../informes/epubcheck.txt 2>&1 || true
+          tail -3 ../informes/epubcheck.txt
+      - name: Guardar resultados
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add traducido informes epub normalizado
+          git diff --cached --quiet || git commit -q -m "$(head -1 orden.txt): traducción, juez, verificación, EPUB"
+          git pull --rebase -q origin main && git push -q origin HEAD:main
