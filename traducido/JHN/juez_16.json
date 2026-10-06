@@ -207,7 +207,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "5f6e1a325574"
+  "huella": "91dc938546ed"
  },
  "hcf:Augustine of Hippo/John 16_29#0": {
   "ok": true,
@@ -351,7 +351,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "b66f7c7c2740"
+  "huella": "56727af6a1b7"
  },
  "hcf:Cyril of Alexandria/John 16_8#0": {
   "ok": true,
@@ -411,7 +411,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "35a2194a070e"
+  "huella": "64c4f28a44c4"
  },
  "hcf:John Chrysostom/John 16_10-11#0": {
   "ok": true,
@@ -423,7 +423,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "dbffc8f925de"
+  "huella": "fa9dfec1cf23"
  },
  "hcf:John Chrysostom/John 16_13-14#0": {
   "ok": true,
@@ -465,7 +465,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "d7319d7650d7"
+  "huella": "16d12257106c"
  },
  "hcf:John Chrysostom/John 16_24#0": {
   "ok": true,
@@ -513,19 +513,19 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "6e24e05d3a50"
+  "huella": "9b4835d173ca"
  },
  "hcf:John Chrysostom/John 16_5-6#1": {
   "ok": true,
   "motivo": "Fiel y completo.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "9f8312d3e696"
+  "huella": "a89591c84fca"
  },
  "hcf:John Chrysostom/John 16_7#0": {
   "ok": true,
   "motivo": "Fiel y completo.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "59fb69bd3a71"
+  "huella": "80887f6cf608"
  },
  "hcf:John Chrysostom/John 16_9#0": {
   "ok": true,

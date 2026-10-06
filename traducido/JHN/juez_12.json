@@ -117,7 +117,7 @@
   "ok": true,
   "motivo": "Fiel y completo.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "95407ed88012"
+  "huella": "0e9e40c751d1"
  },
  "aquifer:18885": {
   "ok": true,
@@ -135,7 +135,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "ed196efbc767"
+  "huella": "2649e28f5d93"
  },
  "aquifer:18889": {
   "ok": true,
@@ -537,13 +537,13 @@
   "ok": true,
   "motivo": "Fiel y completo",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "22f53dab7f7c"
+  "huella": "2dd2174e6dd5"
  },
  "hcf:Cyril of Alexandria/John 12_47#0": {
   "ok": true,
   "motivo": "Fiel y completo",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "25b514438efb"
+  "huella": "9abb0ec7874d"
  },
  "hcf:Cyril of Alexandria/John 12_8#0": {
   "ok": true,
@@ -579,7 +579,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "e8ab7d1c63d0"
+  "huella": "bb4f6e949119"
  },
  "hcf:John Chrysostom/John 12_21#0": {
   "ok": true,
@@ -603,31 +603,31 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "331019cc857e"
+  "huella": "ecac287cb663"
  },
  "hcf:John Chrysostom/John 12_27-28#3": {
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "ff19005b4f55"
+  "huella": "3c5851a2999f"
  },
  "hcf:John Chrysostom/John 12_30#0": {
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "c8be9a3f4e42"
+  "huella": "2225b8d458db"
  },
  "hcf:John Chrysostom/John 12_31#1": {
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "2f77a315985a"
+  "huella": "325469d4990d"
  },
  "hcf:John Chrysostom/John 12_35#1": {
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "4e7953a3ca47"
+  "huella": "f3b9ba2c8264"
  },
  "hcf:John Chrysostom/John 12_37#0": {
   "ok": true,
@@ -663,13 +663,13 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "46dd39efffb0"
+  "huella": "d2582d84370d"
  },
  "hcf:John Chrysostom/John 12_7-8#1": {
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "2e90ef80140a"
+  "huella": "267e856cab06"
  },
  "hcf:Theophylact of Ohrid/John 12_1-2#0": {
   "ok": true,

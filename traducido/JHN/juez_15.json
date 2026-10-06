@@ -3,7 +3,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "ac5782f359c9"
+  "huella": "71b6e9d65a4d"
  },
  "aquifer:18944": {
   "ok": true,
@@ -345,7 +345,7 @@
   "ok": true,
   "motivo": "Fiel y completo.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "53657faf180d"
+  "huella": "2ecd607ca1e1"
  },
  "hcf:John Chrysostom/John 15_10#0": {
   "ok": true,
@@ -363,19 +363,19 @@
   "ok": true,
   "motivo": "Fiel y completo.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "bd8e98ec46fc"
+  "huella": "9da40b771525"
  },
  "hcf:John Chrysostom/John 15_16#0": {
   "ok": true,
   "motivo": "Fiel y completo.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "d86486e27ac3"
+  "huella": "0597ece5ea98"
  },
  "hcf:John Chrysostom/John 15_17#0": {
   "ok": true,
   "motivo": "Fiel y completo.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "cdfacaab9a44"
+  "huella": "0b5b23548bef"
  },
  "hcf:John Chrysostom/John 15_18#0": {
   "ok": true,
@@ -387,13 +387,13 @@
   "ok": true,
   "motivo": "Fiel y completo.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "52310b6a103f"
+  "huella": "de204cad0ddf"
  },
  "hcf:John Chrysostom/John 15_21#0": {
   "ok": true,
   "motivo": "Fiel y completo.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "7a1becb5d884"
+  "huella": "0c997fca9b2f"
  },
  "hcf:John Chrysostom/John 15_22#0": {
   "ok": true,
@@ -405,7 +405,7 @@
   "ok": true,
   "motivo": "Fiel y completo.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "cc2350578004"
+  "huella": "e986bf42db3d"
  },
  "hcf:John Chrysostom/John 15_24-25#0": {
   "ok": true,
@@ -417,19 +417,19 @@
   "ok": true,
   "motivo": "Fiel y completo.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "2870794b0852"
+  "huella": "b87ecec63eca"
  },
  "hcf:John Chrysostom/John 15_5#0": {
   "ok": true,
   "motivo": "Fiel y completo.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "e392ea9d6d65"
+  "huella": "91d5b7e0d5e8"
  },
  "hcf:John Chrysostom/John 15_6#0": {
   "ok": true,
   "motivo": "Fiel y completo.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "87da1e54b427"
+  "huella": "1a7cd5e8846c"
  },
  "hcf:John Chrysostom/John 15_7#0": {
   "ok": true,

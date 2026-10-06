@@ -63,7 +63,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "91d6828114bf"
+  "huella": "a9b8d6026749"
  },
  "aquifer:19002": {
   "ok": true,
@@ -141,7 +141,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "dc60a852a6d2"
+  "huella": "1d68c8c0bfb9"
  },
  "aquifer:19016": {
   "ok": true,
@@ -471,7 +471,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "9665f1bcfadf"
+  "huella": "51acbdd25323"
  },
  "hcf:John Chrysostom/John 18_15#1": {
   "ok": true,
@@ -495,37 +495,37 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "906c926a3bc1"
+  "huella": "ab8061d0a5f7"
  },
  "hcf:John Chrysostom/John 18_26-27#0": {
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "687db738db3d"
+  "huella": "bad80e0536db"
  },
  "hcf:John Chrysostom/John 18_28#1": {
   "ok": true,
   "motivo": "Fiel y completo.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "f9edba1dee00"
+  "huella": "42b56eb51dc3"
  },
  "hcf:John Chrysostom/John 18_30#0": {
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "db69c6d2a8c0"
+  "huella": "5576dac8a72b"
  },
  "hcf:John Chrysostom/John 18_32#0": {
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "4e3b9f483a21"
+  "huella": "0430e3d991d5"
  },
  "hcf:John Chrysostom/John 18_35#0": {
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "9d81174f2320"
+  "huella": "07074f1dbc7b"
  },
  "hcf:John Chrysostom/John 18_38#0": {
   "ok": true,

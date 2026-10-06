@@ -1,0 +1,332 @@
+{
+ "aquifer:13240": {
+  "text_es": "El autor pasa a la promesa de que los fieles entrarán en el reposo de Dios y exhorta a los oyentes a tomar en serio esta promesa. Oír por sí solo no es suficiente. El escuchar debe ir unido a la fe.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "74dae8dcca83"
+ },
+ "aquifer:13249": {
+  "text_es": "⸢tengamos cuidado⸣: Temer a Dios significa tener un profundo respeto y reverencia por Dios y por su voluntad. Quedar excluidos de las promesas de Dios sería una gran tragedia.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4f1ac890f3b8"
+ },
+ "hcf:John Chrysostom/Hebrews 4_1-2#0": {
+  "text_es": "«Temamos, pues, que quedándonos la promesa de entrar en su reposo, alguno de vosotros parezca haberse quedado atrás; porque también a nosotros se nos ha anunciado el Evangelio, como a ellos, cuando se dice: Si oyereis hoy su voz» (pues «hoy» es «en todo tiempo»).\n\nLuego añade: «pero la palabra oída no les aprovechó, por no estar mezclada con la fe en los que la oyeron». ¿Cómo no aprovechó? Entonces, queriendo alarmarlos, muestra lo mismo con lo que dice.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5f0b69cc5359",
+  "corregido_por_juez": "«dejando la promesa» traduce mal «a promise being left us»: cambia el sentido (debe ser «quedándonos/dejándonos la promesa»); además añade «pues»."
+ },
+ "hcf:John Chrysostom/Hebrews 4_1-2#1": {
+  "text_es": "Luego, de nuevo, a partir de los pasajes sombríos: «Temamos, pues, que quedando aún la promesa de entrar en su reposo, parezca alguno de vosotros haberse apartado.» Porque eso es manifiesto y confesado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ffe346683f1c",
+  "corregido_por_juez": "Omite «at any time» («en algún tiempo») y añade «pues»."
+ },
+ "aquifer:13250": {
+  "text_es": "Esta buena noticia es el mensaje de salvación (Hebreos 2:3–4). Carecían de la fe de quienes escucharon a Dios. Algunos manuscritos dicen ⸢no combinaron lo que oyeron con la fe.⸣ En ambos casos, los oyentes tenían fe débil y no confiaron en la promesa de Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7c48d6c19d6d"
+ },
+ "aquifer:13251": {
+  "text_es": "Las personas que creen la buena noticia son los verdaderos herederos del reposo de Dios, que es la salvación ofrecida mediante el sacrificio de Cristo. ⸢Dios ha dicho⸣: La cita del Salmo 95:11 nos recuerda que los rebeldes incrédulos en el desierto nunca entrarían en el lugar de reposo de Dios (compárese Hebreos 11:8, 10, 14–16; 12:22–24). ⸢desde la fundación del mundo⸣: El reposo de Dios significa mucho más que solo entrar en Canaán (véase la nota de estudio sobre 4:4).",
+  "lemas_es": [
+   "Dios ha dicho"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cecca119b291",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.4.3"
+   }
+  ]
+ },
+ "hcf:John Chrysostom/Hebrews 4_3#0": {
+  "text_es": "Pues «los que hemos creído», dice, «entramos en el reposo». De qué esto es evidente, añade: «como dijo: Así juré en mi ira: No entrarán en mi reposo; aunque las obras estaban acabadas desde la fundación del mundo». Esto, en efecto, no es prueba de que nosotros entraremos, sino de que ellos no entraron. ¿Qué entonces? Hasta aquí pretende mostrar que, así como aquel reposo no impide que se hable de otro reposo, tampoco este excluye el del cielo. Hasta este punto, pues, desea mostrar que los israelitas no alcanzaron el reposo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1dfca7799d42"
+ },
+ "aquifer:13252": {
+  "text_es": "Este versículo cita Génesis 2:2 para mostrar que Dios creó el reposo cuando reposó después de la creación.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c43a2e2a9f63"
+ },
+ "hcf:John Chrysostom/Hebrews 4_4-5#0": {
+  "text_es": "Pues porque esto significa, dice: «Porque él dijo en cierto lugar del séptimo día así: Y reposó Dios el séptimo día de todas sus obras. Y otra vez en este lugar: Si entrarán en mi reposo». ¿Ves cómo aquello no impide que esto sea un reposo?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e828d0cfd603"
+ },
+ "aquifer:13253": {
+  "text_es": "Esta cita del Salmo 95:11 repite la idea que se encuentra en Hebreos 4:3.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a6bfbe6cc3fd"
+ },
+ "aquifer:13254": {
+  "text_es": "⸢queda que algunos entren en su reposo⸣: Sobre la base de la discusión en Hebreos 4:3–5, el autor argumentará que el reposo prometido sigue abierto (4:7–10). Los que vagaron por el desierto oyeron la buena noticia de que la tierra prometida estaba abierta para ellos. No pudieron entrar porque desobedecieron a Dios (véanse Números 14:1–25; Deuteronomio 1:19–46; Salmo 106).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "16533dca130b"
+ },
+ "hcf:John Chrysostom/Hebrews 4_6-7#0": {
+  "text_es": "«Por tanto, queda que algunos deben entrar en él» (dice), «y aquellos a quienes primero fue predicado no entraron a causa de la incredulidad; otra vez limita un cierto día, diciendo en David: Hoy, después de tanto tiempo; como se ha dicho antes». Pero ¿qué es lo que quiere decir? «Por tanto» (quiere decir) que «algunos deben» ciertamente «entrar», y «ellos no entraron». Y que se proclama una entrada, y que «algunos deben entrar», oigamos de qué esto es claro. Porque después de tantos años (dice) David otra vez dice: «Hoy, si oyereis su voz, no endurezcáis vuestros corazones». «Porque si Josué les hubiera dado reposo, no habría hablado después de otro día». Es evidente que dice estas cosas como de personas que han de alcanzar alguna recompensa.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bee9be91a3b0",
+  "corregido_por_juez": "Omite 'must' en la primera cita: «some must enter therein» se traduce solo como «algunos entren en él»."
+ },
+ "aquifer:13255": {
+  "text_es": "⸢Dios de nuevo designó cierto día como “Hoy”⸣: David escribió el Salmo 95 mucho después de los acontecimientos en el desierto, así que el reposo de Dios no es solo para aquella generación anterior. Las palabras del Salmo 95:7–8 nos instan a no endurecer nuestros corazones cuando oímos la voz de Dios, para que podamos entrar en el reposo que el pueblo en el desierto perdió. Esta oportunidad está disponible hoy (véase Hebreos 3:13).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9245d5dbe887"
+ },
+ "aquifer:13256": {
+  "text_es": "Josué y Jesús comparten el mismo nombre (griego ⸢Iēsous,⸣ hebreo ⸢Yehoshua‘⸣). En el Antiguo Testamento, generalmente se traduce como ⸢Josué⸣, y en el Nuevo Testamento, como ⸢Jesús⸣ (véase también la nota de estudio sobre Éxodo 17:9). El autor hace un juego de palabras con su nombre compartido. Josué condujo al pueblo de Dios a la tierra prometida (Josué 3–4), pero Dios quiso decir más cuando prometió reposo. Jesús provee el reposo definitivo de Dios (Hebreos 3:13–14; 4:3, 9–11, 14–16).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e1979dceb849"
+ },
+ "hcf:John Chrysostom/Hebrews 4_8#0": {
+  "text_es": "«Porque si Josué les hubiera dado el reposo, no hablaría después de otro día». Es evidente que dice estas cosas como de personas que han de alcanzar alguna recompensa.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8abd0e204dc9"
+ },
+ "hcf:Justin Martyr/Hebrews 4_8#0": {
+  "text_es": "«Os daré otro testimonio, amigos míos», dije, «de las Escrituras, que Dios engendró antes de todas las criaturas un Principio, [que era] cierto poder racional [procedente] de Él mismo, quien es llamado por el Espíritu Santo, ora la Gloria del Señor, ora el Hijo, ora la Sabiduría, ora un Ángel, luego Dios, y luego Señor y Logos; y en otra ocasión se llama a sí mismo Capitán, cuando apareció en forma humana a Josué hijo de Nave (Nun). Pues puede ser llamado por todos aquellos nombres, ya que ministra a la voluntad del Padre, y ya que fue engendrado del Padre por un acto de voluntad; tal como vemos que sucede entre nosotros: pues cuando proferimos alguna palabra, engendramos la palabra; pero no por escisión, de modo que disminuyamos la palabra [que permanece] en nosotros, cuando la proferimos; y tal como vemos también que sucede en el caso del fuego, que no disminuye cuando ha encendido [otro], sino que permanece el mismo; y aquel que ha sido encendido por él igualmente parece existir por sí mismo, sin disminuir aquel de quien fue encendido.»",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4549f052b66c",
+  "corregido_por_juez": "Traduce 'Scriptures' como singular ('la Escritura') y omite 'to' en 'ministers to the Father's will' ('ministra la voluntad' en vez de 'ministra a la voluntad')."
+ },
+ "hcf:Lucius Caecilius Firmianus Lactantius/Hebrews 4_8#0": {
+  "text_es": "Pero quién había de ser este, a quien Dios prometió un sacerdocio eterno, lo enseña Zacarías con toda claridad, mencionando incluso su nombre: «Y el Señor Dios me mostró a Jesús, el gran Sacerdote, que estaba delante del rostro del ángel del Señor, y el adversario estaba a su diestra para resistirle. Y el Señor dijo al adversario: El Señor que ha escogido a Jerusalén te reprenda; y he aquí, un tizón arrebatado del fuego. Y Jesús estaba vestido con vestiduras sucias, y estaba delante del rostro del ángel. Y él respondió y habló a los que estaban alrededor delante de su rostro, diciendo: Quitadle las vestiduras sucias, y vestidle con una vestidura amplia, y ponedle una mitra limpia sobre su cabeza; y le vistieron con una vestidura, y le pusieron una mitra limpia sobre su cabeza. Y el ángel del Señor estaba de pie, y protestó, diciendo a Jesús: Así dice el Señor de los ejércitos: Si anduvieres en mis caminos, y guardares mis preceptos, tú juzgarás mi casa, y yo te daré a los que puedan andar contigo en medio de estos que están de pie. Oye, pues, oh Jesús, tú, gran Sacerdote.»",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "133729f8c3fa",
+  "corregido_por_juez": "Añade «del Señor» donde el original dice solo «the angel»."
+ },
+ "aquifer:13257": {
+  "text_es": "⸢un reposo de sábado⸣: El sacrificio de Jesús obró como un sacrificio del Día de la Expiación (Hebreos 5:1–3; 9:13–22; véase Levítico 23:26–28, 32). Mediante el sacrificio de Cristo, el reposo prometido por Dios está disponible para su pueblo.",
+  "lemas_es": [
+   "un reposo de sábado"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b14c8c59a992",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.4.9"
+   }
+  ]
+ },
+ "hcf:Augustine of Hippo/Hebrews 4_9#0": {
+  "text_es": "Nuestro corazón está inquieto hasta que repose en ti.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ede427bf8fd9"
+ },
+ "hcf:John Chrysostom/Hebrews 4_9#0": {
+  "text_es": "«Queda, pues, un reposo para el pueblo de Dios». ¿De dónde se ve esto? De la exhortación: «No endurezcáis vuestros corazones»; pues si no hubiera reposo, no se habrían dado estas exhortaciones. Tampoco habrían sido exhortados a no hacer las mismas cosas que los judíos, para no sufrir las mismas cosas, a menos que estuvieran a punto de sufrir las mismas. Pero ¿cómo iban a sufrir las mismas cosas (es decir, la exclusión del reposo) los que estaban en posesión de Palestina, a menos que hubiera algún otro reposo?\n\nY bien concluyó el argumento. Pues no dijo reposo, sino «guardar el sábado»; llamando al reino «guardar el sábado», con el nombre apropiado, y aquello en lo que se regocijaban y por lo que se sentían atraídos. Pues así como en el sábado manda abstenerse de todas las cosas malas; y que solo se hagan aquellas cosas que se relacionan con el servicio de Dios, cosas que los sacerdotes solían realizar, y cuanto aprovecha al alma, y nada más; así también será entonces.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "45f22b43c7e9"
+ },
+ "hcf:John Chrysostom/Hebrews 4_9#1": {
+  "text_es": "¿Qué dice entonces? «Queda, pues, un reposo para el pueblo de Dios». Y mira cómo ha resumido todo el argumento. «Juró», dice, a aquellos primeros, «que no entrarían en» el «reposo», y no entraron. Luego, mucho después de su tiempo, discurriendo a los judíos, dice: «No endurezcáis vuestros corazones», como vuestros padres, mostrando que hay otro reposo. Pues de Palestina no hemos de hablar: porque ya la poseían. Ni puede estar hablando del séptimo día; pues ciertamente no estaba discurriendo sobre lo que había sucedido mucho antes. Se sigue, por tanto, que insinúa algún otro, el que es reposo de verdad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0c41894cf876"
+ },
+ "aquifer:13241": {
+  "text_es": "⸢reposa de sus propias obras⸣: Véase Éxodo 20:8–11. ⸢así como Dios lo hizo⸣: Génesis 2:2.",
+  "lemas_es": [
+   "así como Dios lo hizo"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "145746b7998c",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.4.10"
+   }
+  ]
+ },
+ "hcf:John Chrysostom/Hebrews 4_10#0": {
+  "text_es": "Sin embargo, no es él quien habló así, sino ¿qué? «Porque el que ha entrado en su reposo, también él ha reposado de sus obras, como Dios de las suyas». Como Dios reposó de sus obras, dice, así el que ha entrado en su reposo ha reposado. Pues dado que su discurso a ellos era acerca del reposo, y deseaban oír cuándo sería esto, concluyó el argumento con esto.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7335f38172d3"
+ },
+ "aquifer:13242": {
+  "text_es": "⸢procuremos entrar⸣: Si no obedecemos activamente la voz de Dios y respondemos a la buena noticia (Hebreos 4:1–2), enfrentaremos consecuencias como las que sufrieron los que vagaron por el desierto. Caeremos. ⸢nosotros … ninguno⸣: La obediencia no es solo un asunto personal. El pueblo de Dios tiene una responsabilidad compartida de obedecer y debe apoyarse mutuamente en este esfuerzo (compárese 3:13; 10:25; 12:15).",
+  "lemas_es": [
+   "nosotros … ninguno"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "65b916919f77",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.4.11"
+   }
+  ]
+ },
+ "hcf:Cosmas Indicopleustes/Hebrews 4_11#0": {
+  "text_es": "Apresurémonos a entrar en aquel reposo; hablando de aquel reposo como si no hubiera otro después de él, sino un reino que no puede ser conmovido, es decir, uno que no tiene sucesor.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8d18b2dd4c71"
+ },
+ "hcf:John Chrysostom/Hebrews 4_11#0": {
+  "text_es": "La fe es ciertamente grande y trae salvación, y sin ella no es posible ser salvo jamás. Sin embargo, no basta por sí sola para lograrlo, sino que se necesita también una conducta recta. De modo que por esta razón Pablo exhorta también a los que ya habían sido contados dignos de los misterios, diciendo: «Apresurémonos a entrar en aquel reposo». «Apresurémonos» (dice), no bastando la fe, sino que también debe añadirse a ella la vida, y ha de ser grande nuestro empeño; pues en verdad se necesita también mucho empeño para subir al cielo. Porque si los que sufrieron tan grande angustia en el desierto no fueron contados dignos de la tierra prometida, y no pudieron alcanzar aquella tierra, porque murmuraron y porque cometieron fornicación: ¿cómo seremos contados dignos del cielo, si vivimos con descuido e indolencia? Nosotros, pues, tenemos necesidad de mucho empeño.\n\nY observa, el castigo no se extiende solo a esto, el no entrar (pues no dijo: «Apresurémonos a entrar en el reposo», no sea que falláramos en tan grandes bendiciones), sino que añadió lo que más que nada despierta a los hombres. ¿Qué es, pues, esto? «No sea que alguno caiga, según el mismo ejemplo de incredulidad». ¿Qué significa esto? Significa que debemos tener nuestra mente, nuestra esperanza, nuestra expectación allá, no sea que falláramos. Porque que de lo contrario fallaremos, lo muestra el ejemplo: «no sea que etc. según el mismo», dice.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f8bdd9e03564"
+ },
+ "hcf:John Chrysostom/Hebrews 4_11#1": {
+  "text_es": "Pero ¿qué es «según el mismo ejemplo de incredulidad»? Como si uno dijera: ¿por qué los de antaño no vieron la tierra? Habían recibido una prenda del poder de Dios; debían haber creído, pero cediendo demasiado al temor e imaginando nada grande acerca de Dios, y desanimándose, así perecieron. Y hay también algo más que decir, como que después de haber recorrido la mayor parte del viaje, cuando estaban a las mismas puertas, en el mismo puerto, se hundieron en el mar. Esto temo (dice) también para vosotros. Este es el significado de «según el mismo ejemplo de incredulidad».\n\nPues que también estos a quienes escribe habían sufrido mucho, lo testifica después, diciendo: «Traed a la memoria los días pasados, en los cuales después que fuisteis iluminados, sufristeis gran combate de aflicciones». (c. x. 32.) Que ningún hombre, pues, se desanime, ni caiga cerca del fin por el cansancio. Porque hay, hay quienes al principio entran en el combate con todo el vigor del celo; pero un poco después, no queriendo añadir a todo, lo pierden todo. Vuestros antepasados (dice) son suficientes para instruiros a no caer en los mismos pecados, a no sufrir las mismas cosas que ellos sufrieron. Esto es: «Según el mismo ejemplo de incredulidad». No desfallezcamos, quiere decir (lo cual dice también cerca del fin de la Epístola: «Levantad las manos caídas, y las rodillas debilitadas»): «no sea que alguno», dice, «caiga según el mismo ejemplo». (c. xii. 12.) Pues esto es caer en verdad.\n\nLuego, no sea que al oír «alguno caiga según el mismo ejemplo», concibas la misma muerte que ellos también sufrieron, mira lo que dice: «Porque el Verbo de Dios es vivo y eficaz y más penetrante que toda espada de dos filos». Pues el Verbo cae sobre las almas de estos hombres más severamente que cualquier espada, causando heridas graves; e inflige golpes mortales. Y de estas cosas no necesita dar la prueba, ni establecerlas por argumento, teniendo una historia tan temible. Pues (querría decir) ¿qué clase de guerra los destruyó? ¿Qué clase de espada? ¿No cayeron simplemente por sí mismos? Porque no seamos descuidados porque no hemos sufrido las mismas cosas. Mientras «se llama Hoy», está en nuestro poder recuperarnos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5740f68a0344"
+ },
+ "aquifer:13243": {
+  "text_es": "El autor nos insta a escuchar la voz de Dios, como se menciona en Hebreos 3:7, 15, y 4:7, citando el Salmo 95:7. Describe la palabra de Dios como viva y eficaz, lo que significa que es una fuerza activa y efectiva. La palabra que creó y controla el universo (Hebreos 1:2–3) también puede influir poderosamente en las personas. Es como la espada de dos filos más afilada, capaz de llegar a las partes más profundas de la vida de las personas y revelar sus pensamientos y deseos (véase Efesios 6:17; Apocalipsis 1:16; 2:12, 16; 19:15).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "db685a7f3cf5"
+ },
+ "hcf:Augustine of Hippo/Hebrews 4_12#0": {
+  "text_es": "No vino «a traer paz a la tierra … sino espada», y la Escritura llama al Verbo de Dios «espada de dos filos» a causa de los dos Testamentos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "86bf8b730c48"
+ },
+ "hcf:John Chrysostom/Hebrews 4_12#0": {
+  "text_es": "En el siguiente lugar, no sea que al oír las palabras «conforme al mismo ejemplo», pienses que el castigo es el mismo, oye lo que añade: «Porque la palabra de Dios es viva y eficaz, y más cortante que toda espada de dos filos; y penetra hasta partir el alma y el espíritu, y las coyunturas y los tuétanos, y es discernidor de los pensamientos y las intenciones del corazón». Con estas palabras muestra que Él, el Verbo de Dios, obró también las cosas anteriores, y vive, y no ha sido apagado.\n\nNo oigas, pues, la Palabra con ligereza. Porque «Él es más cortante», dice, «que una espada». Observa su condescendencia; y de ahí considera por qué también los profetas necesitaron hablar de sable, arco y espada. «Si no os volviereis», se dice, «Él afilará su espada, ha entesado su arco y lo ha preparado» (Sal. vii. 12). Porque si ahora, después de tanto tiempo, y después de haber sido perfeccionados, no puede derribarlos solo con el nombre del Verbo, sino que necesita estas expresiones para mostrar la superioridad que surge de la comparación del Evangelio con la ley: mucho más entonces en lo antiguo.\n\n«Penetrando», dice, «hasta partir el alma y el espíritu». ¿Qué es esto? Insinuó algo más temible. O que Él divide el espíritu del alma, o que penetra incluso a través de ellas desencarnadas, no como una espada solo a través de los cuerpos. Aquí muestra que el alma también es castigada, y que escudriña a fondo las cosas más internas, penetrando enteramente a través de todo el hombre.\n\n«Y es discernidor de los pensamientos y las intenciones del corazón, y no hay criatura alguna que no sea manifiesta en su presencia». Con estas palabras sobre todo los aterrorizó. Pues no (dice) estéis confiados si aún permanecéis firmes en la fe, pero sin plena seguridad. Él juzga el corazón interior, pues allí pasa a través, tanto castigando como escudriñando.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bab2cae031e7",
+  "corregido_por_juez": "La frase 'and is a discerner...' se traduce como 'y es discierne...', construcción incorrecta; debe ser 'y es discernidor de...'."
+ },
+ "hcf:John Chrysostom/Hebrews 4_12#1": {
+  "text_es": "Pues no sea que al oír las cosas que pertenecen al alma nos volvamos negligentes, añade también lo que concierne al cuerpo. Pues entonces es como un rey, cuando sus oficiales son culpables de alguna gran falta, primero los despoja (por así decirlo) de su mando, y después de privarlos de su cinturón, y de su rango, y de su heraldo, entonces los castiga: así también en este caso obra la espada del Espíritu.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "14d7060110f3"
+ },
+ "hcf:John Chrysostom/Hebrews 4_12#2": {
+  "text_es": "Entonces, para que nadie piense que solo serán privados del reposo, añade también el castigo, diciendo: «Porque la palabra de Dios es viva y eficaz, y más cortante que toda espada de dos filos; y penetra hasta partir el alma y el espíritu, y las coyunturas y los tuétanos; y es discernidor de los pensamientos y las intenciones del corazón». Aquí habla del infierno y del castigo. «Penetra» (dice) en los secretos de nuestro corazón, y corta el alma. Aquí no se trata de la caída de cadáveres ni, como allí, de ser privado de una patria, sino de un reino celestial; y de ser entregado a un infierno eterno, y a un castigo y venganza inmortales.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6e20ec2b006d",
+  "corregido_por_juez": "Traduce 'and is a discerner...' como 'y es discierne...', error gramatical y de sentido; debe ser 'y es discernidor de...'."
+ },
+ "aquifer:13244": {
+  "text_es": "⸢Descubiertas y expuestas⸣ significa sentirse vulnerable, indefenso o desprotegido. Los culpables no pueden esconderse del poderoso juicio de Dios (véase Apocalipsis 3:17).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a5967601ad1a"
+ },
+ "hcf:John Chrysostom/Hebrews 4_13#0": {
+  "text_es": "¿Y por qué hablo de los hombres? dice. Pues aunque hables de ángeles, de arcángeles, de querubines, de serafines, incluso de cualquier «criatura» que sea: todas las cosas están abiertas a aquel Ojo, todas las cosas son claras y manifiestas; no hay nada capaz de escapar de él; «Todas las cosas están desnudas y abiertas a los ojos de Aquel con quien tenemos que tratar».\n\nPero ¿qué es «abiertas»? Es una metáfora de las pieles que se arrancan de las víctimas. Pues como en aquel caso, cuando uno las ha matado, y ha apartado la piel de la carne, deja al descubierto todas las partes internas, y las hace manifiestas a nuestros ojos; así también todas las cosas yacen abiertas ante Dios. Y observa, te ruego, cómo necesita constantemente imágenes corporales; lo cual surgía de la debilidad de los oyentes. Pues que eran débiles, lo dejó claro cuando dijo que eran «torpes», y que «tenían necesidad de leche, no de alimento sólido». «Todas las cosas están desnudas», dice, «y abiertas a los ojos de Aquel con quien tenemos que tratar». (c. v. 11, v. 12.)\n\nLuego discurre acerca del Hijo, «con quien tenemos que tratar», dice. ¿Qué es «con quien tenemos que tratar»? A Él (querría decir) tenemos que rendir cuenta de las cosas que hemos hecho. Así es. ¿Cómo, pues, debemos actuar para no caer, ni desanimarnos?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0d6cfd5341dc"
+ },
+ "hcf:Tertullian/Hebrews 4_13#0": {
+  "text_es": "«Tus saetas», dice, «son agudas», —los preceptos de Dios que vuelan por todas partes (saetas) que amenazan la exposición de todo corazón, y llevan compunción y transfixión a cada conciencia: «los pueblos caerán debajo de ti», —por supuesto, en adoración.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "81e0bc155ea0"
+ },
+ "aquifer:13245": {
+  "text_es": "Estos importantes versículos terminan el estímulo que comenzó en Hebreos 3:1. También introducen una larga enseñanza acerca de Jesús y su papel como pontífice (4:14–10:25).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a57579238123",
+  "text_es_2": "Estos importantes versículos terminan la exhortación que comenzó en Hebreos 3:1. También introducen una larga enseñanza acerca de Jesús y su función como Pontífice (4:14–10:25).",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "aquifer:13246": {
+  "text_es": "Este versículo resume el mensaje y el desafío de Hebreos. Jesús, el Hijo de Dios, es nuestro pontífice y la razón para mantenernos firmes en la fe cristiana. ⸢un gran pontífice⸣: El pontífice de Israel era el principal líder en la adoración y el mediador entre Dios y el pueblo (véase Éxodo 31:10; Levítico 4:3; 2 Reyes 12:10; 2 Crónicas 26:20). ⸢que ha pasado por los cielos⸣: Los pontífices terrenales entraban en la presencia de Dios en el Lugar Santísimo una vez al año en el Día de la Expiación (Levítico 16:1–25). En contraste, Jesús, nuestro pontífice, ha entrado en la presencia de Dios en el cielo y permanece allí (Hebreos 7:26; 9:11–12, 23–26).⸢mantengamos firmemente⸣: Mantente comprometido a creer activamente en Jesús y a serle leal (véase también Colosenses 2:19; 2 Tesalonicenses 2:15; Apocalipsis 2:13, 25; 3:11).",
+  "lemas_es": [
+   "un gran sumo sacerdote",
+   "mantengamos firmemente"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fd34840421cf",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.4.14"
+   },
+   {
+    "lema": null,
+    "ref": "HEB.4.14"
+   }
+  ]
+ },
+ "hcf:Clement of Alexandria/Hebrews 4_14#0": {
+  "text_es": "La mayor semejanza posible al Logos, la esperanza de ser establecidos plenamente como hijos adoptivos del Padre: esta es nuestra meta, una filiación que glorifica constantemente al Padre por medio de «el gran pontífice» que se dignó llamarnos «hermanos» y «coherederos».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "98b306a636e5"
+ },
+ "hcf:Cosmas Indicopleustes/Hebrews 4_14#0": {
+  "text_es": "Teniendo, pues, un gran pontífice que traspasó los cielos, Jesús el Hijo de Dios, retengamos nuestra profesión —la expresión que traspasó los cielos, es decir, el cielo, según el idioma de la lengua, significa que Él está dentro de los dos cielos, como en un Tabernáculo no hecho de manos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b04724280169"
+ },
+ "hcf:John Chrysostom/Hebrews 4_14#0": {
+  "text_es": "Estas cosas ciertamente (querría decir) son suficientes para instruirnos. Pero tenemos también «un gran Pontífice, que traspasó los cielos, Jesús el Hijo de Dios». Porque añadió esto, por esta razón prosiguió: «Porque no tenemos un Pontífice que no pueda compadecerse de nuestras flaquezas». Por tanto dijo arriba: «En cuanto que él mismo padeció siendo tentado, es poderoso para socorrer a los que son tentados». Mira, pues, cómo también aquí hace lo mismo. Y lo que dice es a este efecto: Recorrió (dice) el camino que también nosotros recorremos ahora, o más bien uno aún más áspero. Pues tuvo experiencia de todos los sufrimientos humanos.\n\nHabía dicho arriba: «No hay criatura que no sea manifiesta en su presencia», insinuando su divinidad; luego, como había tocado la carne, discurre de nuevo con mayor condescendencia, diciendo (ver. 14): «Teniendo, pues, un gran Pontífice, que traspasó los cielos»; y muestra que su cuidado es mayor y que los protege como suyos, y que no quiere que caigan. Pues Moisés ciertamente (dice) no entró en el reposo, mientras que Cristo sí entró. Y es admirable cómo en ningún lugar afirmó lo mismo, para que no pareciera que ellos podían hallar una excusa; sin embargo lo dio a entender, pero para no parecer que formulaba una acusación contra el hombre, no lo dijo abiertamente. Porque si, cuando nada de esto se había dicho, presentaron estas acusaciones, diciendo: Este hombre ha hablado contra Moisés y contra la ley (véase Hechos xxi. 21, Hechos xxi. 28); mucho más, si hubiera dicho: No es Palestina sino el Cielo, habrían dicho cosas más fuertes que estas.\n\nPero no atribuye todo al Sacerdote, sino que requiere también lo que ha de venir de nosotros, es decir, nuestra profesión. Pues «teniendo», dice, «un gran Pontífice, que traspasó los cielos, Jesús el Hijo de Dios, retengamos nuestra profesión» o «confesión». ¿Qué clase de profesión quiere decir? Que hay Resurrección, que hay retribución; que hay bienes innumerables; que Cristo es Dios, que la Fe es recta. Estas cosas profesemos, estas cosas retengamos. Pues que son verdaderas, es manifiesto por el hecho de que el Pontífice está dentro. No hemos fallado en nuestras esperanzas, confesemos; aunque las realidades no estén presentes, confesemos sin embargo: si ya estuvieran presentes, serían solo una mentira. De modo que también esto es verdad, que nuestros bienes están diferidos. Pues nuestro Pontífice también es Grande.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "02f0db82337c"
+ },
+ "aquifer:13247": {
+  "text_es": "Nuestro pontífice entiende nuestras debilidades y nuestra tendencia al pecado porque enfrentó los mismos desafíos. Fue tentado por la lujuria, la avaricia, la falta de perdón y la deshonestidad. Esto lo hace compasivo como nuestro pontífice (Hebreos 5:2). ⸢pero sin pecado⸣: Jesús es diferente de los pontífices terrenales, que tenían que hacer ofrendas por sus propios pecados antes de poder hacer ofrendas por el pueblo (5:3; 7:26–28; véase también 1 Pedro 2:22–23).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "dc02e2878a30",
+  "text_es_2": "Nuestro Pontífice entiende nuestras debilidades y nuestra tendencia al pecado, porque enfrentó los mismos desafíos. Fue tentado por la lujuria, la codicia, la falta de perdón y la deshonestidad. Esto lo hace compasivo como nuestro Pontífice (Hebreos 5:2). ⸢pero sin pecado⸣: Jesús es diferente de los pontífices terrenales, quienes tenían que ofrecer sacrificios por sus propios pecados antes de poder ofrecerlos por el pueblo (5:3; 7:26–28; véase también 1 Pedro 2:22–23).",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "hcf:John Chrysostom/Hebrews 4_15#0": {
+  "text_es": "«Porque no tenemos un Pontífice que no pueda compadecerse de nuestras flaquezas». No es (quiere decir) ignorante de lo que nos concierne, como muchos de los Pontífices, que no conocen a los que están en tribulación, ni que haya tribulación en algún momento. Pues en el caso de los hombres es imposible que uno conozca la aflicción del afligido si no ha tenido experiencia y pasado por las sensaciones reales. Nuestro Pontífice lo soportó todo. Por tanto, padeció primero y luego ascendió, para poder compadecerse de nosotros.\n\nPero fue «tentado en todo punto como nosotros, pero sin pecado». Observa cómo tanto arriba ha usado la palabra «de manera semejante», como aquí «a semejanza». (c. ii. 14.) Es decir, fue perseguido, escupido, acusado, escarnecido, denunciado falsamente, expulsado, finalmente crucificado.\n\n«A nuestra semejanza, sin pecado». En estas palabras se sugiere también otra cosa: que es posible incluso para uno en aflicciones pasar por ellas sin pecado. De modo que cuando dice también «en semejanza de carne» (Rom. viii. 3), no quiere decir que tomó sobre sí meramente «la semejanza de carne», sino «carne». ¿Por qué entonces dijo «en semejanza»? Porque hablaba de «carne pecaminosa»: pues era «semejante» a nuestra carne, ya que en naturaleza era la misma que la nuestra, pero en pecado ya no la misma.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6b7e236654ea",
+  "text_es_2": "«Porque no tenemos un Pontífice que no se pueda compadecer de nuestras flaquezas». No es (quiere decir) ignorante de lo que nos concierne, como muchos de los Pontífices, que no conocen a los que están en tribulaciones, ni que haya tribulación en ningún momento. Pues tratándose de hombres, es imposible que alguien conozca la aflicción del afligido si no ha tenido experiencia y pasado por las sensaciones reales. Nuestro Pontífice lo soportó todo. Por eso padeció primero y luego ascendió, para poder compadecerse de nosotros.\n\nPero fue «tentado en todo según nuestra semejanza, pero sin pecado». Observa cómo tanto arriba usó la palabra «de igual manera», y aquí «según la semejanza». (c. ii. 14.) Es decir, fue perseguido, escupido, acusado, burlado, denunciado falsamente, expulsado y, finalmente, crucificado.\n\n«Según nuestra semejanza, sin pecado». En estas palabras se sugiere también otra cosa: que es posible incluso para alguien en aflicciones atravesarlas sin pecado. De modo que cuando también dice «en la semejanza de carne» (Romanos 8:3), no quiere decir que tomó sobre sí meramente «la semejanza de carne», sino «carne». ¿Por qué entonces dijo «en la semejanza»? Porque hablaba de «carne pecaminosa»: pues era «semejante» a nuestra carne, ya que en naturaleza era la misma que la nuestra, pero en pecado ya no la misma.",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "hcf:Tertullian/Hebrews 4_15#0": {
+  "text_es": "Pues solo al Hijo de Dios le fue reservado perseverar hasta el fin sin pecado. Pero ¿qué si un obispo, si un diácono, si una viuda, si una virgen, si un doctor, si incluso un mártir, han caído de la regla (de la fe), parecerán por eso las herejías poseer la verdad? ¿Probamos la fe por las personas, o las personas por la fe? Nadie es sabio, nadie es fiel, nadie sobresale en dignidad, sino el cristiano; y nadie es cristiano sino el que persevera hasta el fin.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9fca506fa4ca",
+  "text_es_2": "Pues solo al Hijo de Dios le fue reservado perseverar hasta el fin sin pecado. Pero ¿qué si un obispo, si un diácono, si una viuda, si una virgen, si un doctor, si incluso un mártir, han caído de la regla (de la fe), por eso parecerá que las herejías poseen la verdad? ¿Probamos la fe por las personas, o las personas por la fe? Nadie es sabio, nadie es fiel, nadie sobresale en dignidad, sino el cristiano; y nadie es cristiano sino el que persevera hasta el fin.",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "aquifer:13248": {
+  "text_es": "El verbo traducido como ⸢acerquémonos, pues⸣ también puede significar «vengamos continuamente», lo que indica una acción continua. Como nuestro compasivo pontífice, Jesús ha hecho posible que las personas entren con confianza en la presencia de Dios (véase Hebreos 6:19–20; 10:19–23). Allí podemos recibir su misericordia y su gracia cuando más lo necesitamos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7723bef27e49"
+ },
+ "hcf:John Chrysostom/Hebrews 4_16#0": {
+  "text_es": "«Lleguémonos, pues, confiadamente al trono de su gracia, para que obtengamos misericordia, y hallemos gracia para el auxilio en el tiempo oportuno».\n\n¿De qué «trono de gracia» habla? De aquel trono real del que se dice: «Dijo el Señor a mi Señor: Siéntate a mi diestra». (Sal. cx. 1.)\n\n¿Qué es «lleguémonos confiadamente»? Porque «tenemos un Pontífice sin pecado» que contiende con el mundo. Pues dice Él: «Confiad, yo he vencido al mundo» (Juan xvi. 33.); pues esto es sufrirlo todo y sin embargo ser puro de pecados. Aunque nosotros (quiere decir) estamos bajo el pecado, Él es sin pecado.\n\n¿Cómo es que debemos «acercarnos confiadamente»? Porque ahora es un trono de Gracia, no un trono de Juicio. Por tanto, confiadamente, «para que obtengamos misericordia», incluso tal como la buscamos. Pues el asunto es de munificencia, una dádiva real.\n\n«Y hallemos gracia para el auxilio en el tiempo oportuno [para ayuda en el tiempo debido]». Bien dijo: «para ayuda en el tiempo oportuno». Si te acercas ahora (quiere decir) recibirás tanto gracia como misericordia, pues te acercas «en el tiempo debido»; pero si te acercas entonces, ya no lo recibirás. Pues entonces el acercarse es inoportuno, porque no es «entonces un trono de Gracia». Hasta ese tiempo Él está sentado concediendo el perdón, pero cuando llegue el fin, entonces se levanta para el juicio. Pues se dice: «Levántate, oh Dios, juzga la tierra». (Sal. lxxxii. 8.) («Lleguémonos confiadamente», o dice de nuevo, no teniendo «mala conciencia», es decir, no estando en duda, pues tal persona no puede «acercarse con confianza».) Por esta razón se dice: «En tiempo aceptable te he oído, y en día de salvación te he socorrido». (2 Cor. vi. 2.) Puesto que incluso ahora, para aquellos que pecan después del bautismo, hallar arrepentimiento es de gracia.\n\nPero no sea que al oír de un Pontífice pienses que Él está de pie, de inmediato conduce al trono. Pero un Sacerdote no se sienta, sino que está de pie. ¿Ves que el que Él sea hecho Pontífice no es por naturaleza, sino por gracia y condescendencia, y humillación?\n\nEsto es lo oportuno para nosotros también ahora decir: «Acercémonos» pidiendo «confiadamente»: solo traigamos Fe y Él da todas las cosas. Ahora es el tiempo del don; que nadie desespere de sí mismo. Entonces será el tiempo de desesperar, cuando se cierre la cámara nupcial, cuando el Rey entre a ver a los convidados, cuando los que sean tenidos por dignos de ello hayan recibido como su porción el seno del Patriarca; pero ahora todavía no es así. Pues aún están reunidos los espectadores, aún es la contienda, aún está en suspenso el premio.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5da2f7a92623"
+ }
+}

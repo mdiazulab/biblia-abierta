@@ -28,15 +28,16 @@ LIBROS_ORDINAL = ("Corintios|Corinthians|Cor|Reyes|Kings|Samuel|Sam|Crónicas|Ch
 CRISTO_EN = re.compile(r"\b(?:God the Word|(?:is|was) the Word\b|uttered the Word|Word of the Father|the Word (?:was|became|"
                        r"made|Himself|incarnate|of God,? (?:who|which|that) (?:was|is|became)))")
 # «Palabra» con mayúscula en medio de oración: o es el Hijo («el Verbo», RV1909) o va en minúscula
-PALABRA_MAY = re.compile(r"(?<![.!?¿¡«\"(\n]) (?:\w+ )?Palabra\b")
+PALABRA_MAY = re.compile(r"(?<![.!?¿¡«»“”\"(\n]) (?:\w+ )?Palabra\b")
 # remisiones que no son libros: «Véase 8:48» (mismo libro), «Infra 17:24», «Ep. 112:100» (cartas de Agustín)
-NO_LIBRO = {"Véase", "Vea", "Ver", "Cf", "Comp", "Infra", "Supra", "Ep", "Epist", "Serm", "Hom", "Tract", "Tr", "Cap", "Cp", "Ibid", "Lib", "Mor", "Aug"}
+NO_LIBRO = {"En", "Y", "Cf", "Véase", "Vea", "Ver", "Cf", "Comp", "Infra", "Supra", "Ep", "Epist", "Serm", "Hom", "Tract", "Tr", "Cap", "Cp", "Ibid", "Lib", "Mor", "Aug"}
 INGLES_CURSIVA = INGLES | {"his", "he", "him", "you", "your", "will", "for", "all", "one", "who", "with", "our", "we", "to", "out"}
 ARCAICO = re.compile(r"\b(?:saith|hath|thou|thee|thy|doth|dost|art|ye)\b")
 COMENTARIO = re.compile(r"(?i:\b(?:nota del traductor|traducción:|aquí est[aá] la traducción|here is|translator'?s note)\b)|\[ES\] ")
 
 
 def numeros(t):
+    t = B.normalizar(t)          # «Luke xxii. 19» y «Lucas 22:19» cuentan igual (romanos de la edición inglesa)
     # «I Corintios» = «1 Corinthians»; solo ante libros con ordinal («I Am» de Jn 8,58 no es un número)
     t = re.sub(r"\b(III|II|I)(?= (?:" + LIBROS_ORDINAL + r")\b)", lambda m: str(len(m.group(1))), t)
     return collections.Counter(re.findall(r"\d+", t))
@@ -102,7 +103,7 @@ def revisar(n, t, rv):
         if x.split()[-2].rstrip(".") in NO_LIBRO:
             continue
         fallos.append(f"+ cita sin forma única (libro inglés o abreviatura desconocida): {x}")
-    for x in re.findall(r"\((?!⸢)([A-Z][a-zé]+)\.? \d{1,3}\.?\)", norm):          # capítulo entero
+    for x in re.findall(r"(?:\(|; )(?!⸢)([A-ZÁÉÍÓÚ][a-záéíóú]+)\.? \d{1,3}\.?(?:\)|;)", norm):          # capítulo entero
         if x in NO_LIBRO:
             continue
         fallos.append(f"+ cita sin forma única (libro inglés o abreviatura desconocida): {x}")

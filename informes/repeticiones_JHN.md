@@ -1,0 +1,34 @@
+# Repeticiones entre notas vecinas
+
+- hcf:Alcuin of York/John 8_18#0: párrafo repetido quitado
+- hcf:Augustine of Hippo/John 1_18#0: párrafo repetido quitado
+- hcf:Augustine of Hippo/John 1_32-33#0: párrafo repetido quitado
+- hcf:Augustine of Hippo/John 5_19#20: párrafo repetido quitado
+- hcf:Augustine of Hippo/John 5_21#5: párrafo repetido quitado
+- hcf:Augustine of Hippo/John 5_25#5: párrafo repetido quitado
+- hcf:Augustine of Hippo/John 6_44#6: párrafo repetido quitado
+- hcf:Augustine of Hippo/John 6_53-54#1: párrafo repetido quitado
+- hcf:Augustine of Hippo/John 6_55#1: párrafo repetido quitado
+- hcf:Augustine of Hippo/John 8_12#0: párrafo repetido quitado
+- hcf:Augustine of Hippo/John 8_37#0: párrafo repetido quitado
+- hcf:Augustine of Hippo/John 10_6#0: párrafo repetido quitado
+- hcf:Augustine of Hippo/John 10_7#0: párrafo repetido quitado
+- hcf:Augustine of Hippo/John 16_7#4: 3 oración(es) repetida(s) quitada(s)
+- hcf:Augustine of Hippo/John 21_19#3: párrafo repetido quitado
+- hcf:Bede/John 9_35#0: párrafo repetido quitado
+- hcf:Cyril of Alexandria/John 3_3#0: párrafo repetido quitado
+- hcf:Cyril of Alexandria/John 4_52#0: párrafo repetido quitado
+- hcf:Hilary of Poitiers/John 5_24#0: párrafo repetido quitado
+- hcf:Hilary of Poitiers/John 5_27#0: párrafo repetido quitado
+- hcf:Origen of Alexandria/John 1_4#0: párrafo repetido quitado
+- hcf:Origen of Alexandria/John 1_5#0: párrafo repetido quitado
+- hcf:Theophylact of Ohrid/John 1_9#0: párrafo repetido quitado
+- hcf:Theophylact of Ohrid/John 1_10#0: párrafo repetido quitado
+- hcf:Theophylact of Ohrid/John 1_15#0: párrafo repetido quitado
+- hcf:Theophylact of Ohrid/John 9_24#0: párrafo repetido quitado
+- hcf:Theophylact of Ohrid/John 18_3#0: párrafo repetido quitado
+- hcf:Theophylact of Ohrid/John 18_38#1: párrafo repetido quitado
+- hcf:Theophylact of Ohrid/John 19_31#0: párrafo repetido quitado
+- hcf:John Chrysostom/John 21_14#0: 3 oración(es) repetida(s) quitada(s)
+- hcf:Gregory the Dialogist/John 8_48#0: párrafo repetido quitado
+- hcf:Glossa Ordinaria/John 15_20#0: párrafo repetido quitado

@@ -1,0 +1,255 @@
+{
+ "aquifer:13224": {
+  "text_es": "El autor compara a Jesús con Moisés, presentando a Jesús como el ejemplo supremo de fidelidad. Moisés fue un líder altamente honrado en el judaísmo. Su respetada posición se usa para mostrar que Jesús es aún mayor que Moisés.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "aac281a7300a"
+ },
+ "aquifer:13233": {
+  "text_es": "⸢hermanos santos⸣: En la antigüedad, los oradores y escritores solían llamar «hermanos» a los grupos religiosos (griego ⸢adelphoi⸣), incluyendo tanto a hombres como a mujeres. Muchas traducciones modernas usan «hermanos y hermanas». ⸢fijad vuestra mirada en Jesús⸣: Fijar la mirada en Jesús te ayuda a mantenerte firme en la fe (Hebreos 2:9; 12:1–2). ⸢el apóstol⸣: Este término puede enfatizar el papel del Hijo al compartir el nombre y el mensaje de Dios (2:12; Mateo 10:40; Marcos 9:37; Lucas 10:16).",
+  "lemas_es": [
+   "hermanos santos",
+   "fijad vuestra mirada en Jesús",
+   "el apóstol"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8366cfd75dad",
+  "lemas_rv1909": [
+   {
+    "lema": "hermanos santos",
+    "ref": "HEB.3.1"
+   },
+   {
+    "lema": null,
+    "ref": "HEB.3.1"
+   },
+   {
+    "lema": "Apóstol",
+    "ref": "HEB.3.1"
+   }
+  ]
+ },
+ "hcf:John Chrysostom/Hebrews 3_1-2#0": {
+  "text_es": "Pero una vez que Pablo ha tomado en mano la carne, procede a pronunciar todas las cosas humildes, sin ningún temor: pues ved lo que dice a continuación:\n\n«Por lo cual, hermanos santos, participantes de la vocación celestial, considerad al Apóstol y Pontífice de nuestra profesión, Cristo Jesús, quien fue fiel al que le constituyó, como también Moisés lo fue en toda su casa».\n\nEstando a punto de ponerlo delante de Moisés en comparación, llevó su discurso a la ley del pontificado; pues todos tenían una alta estima por Moisés; además, ya de antemano va echando los fundamentos de la superioridad. Por lo tanto, comienza desde la carne y sube hasta la divinidad, donde ya no había comparación alguna. Comenzó desde la carne, desde su naturaleza humana, asumiendo por un tiempo la igualdad, y dice: «como también Moisés en toda su casa»; ni muestra al principio su superioridad, no sea que el oyente se aparte y de inmediato se tape los oídos. Pues aunque eran creyentes, sin embargo todavía tenían un fuerte sentimiento de conciencia respecto a Moisés. «Quien fue fiel», dice, «al que le constituyó»: ¿le constituyó qué? «Apóstol y Pontífice». No está hablando aquí en absoluto de su Esencia, ni de su divinidad, sino hasta aquí de dignidades humanas.\n\n«Como también Moisés en toda su casa», es decir, o entre el pueblo, o en el templo. Pero aquí usa la expresión «en su casa», tal como uno podría decir respecto a los de la casa; así como algún guardián y administrador de una casa, así era Moisés para el pueblo. Pues para mostrar que por «casa» entiende el pueblo, añadió: «cuya casa somos»; es decir, somos en su creación.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c055be1f5da0"
+ },
+ "hcf:John Chrysostom/Hebrews 3_1-2#1": {
+  "text_es": "«Por lo cual, hermanos santos» (dice «por lo cual» en lugar de «por esta causa»), «participantes de una vocación celestial»: no busquéis nada aquí, si habéis sido llamados allá arriba; allá está la recompensa, allá la retribución. ¿Qué entonces? «Considerad al Apóstol y Pontífice de nuestra profesión, Cristo Jesús, quien fue fiel al que le constituyó, como también Moisés lo fue en toda su casa». ¿Qué es «quien fue fiel al que le constituyó»? Es: bien dispuesto, protegiendo lo que le pertenece, no permitiendo que sean fácilmente arrastrados, «como también Moisés en toda su casa»; es decir, sabed quién es vuestro Pontífice, y qué es, y no necesitaréis otra consolación ni aliento. Ahora le llama «Apóstol», por haber sido «enviado», y «pontífice de nuestra profesión», es decir, de la Fe. También a este se le confió un pueblo, como al otro la dirección de un pueblo, pero uno mayor y por motivos más elevados.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "65afa9cb94f5"
+ },
+ "aquifer:13234": {
+  "text_es": "Jesús fue leal a Dios y a la misión que le fue dada por el Padre (Hebreos 5:7–10; 12:1–3; Filipenses 2:5–11), tal como lo fue Moisés (Números 12:7). Muchos judíos del primer siglo veían a Moisés como la persona más grande de la historia, incluso más importante que los ángeles.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9350ba527cee"
+ },
+ "aquifer:13235": {
+  "text_es": "Jesús merece más gloria por dos razones: Quien edifica una casa merece más alabanza que la casa misma. El Mesías es quien edifica la casa de Dios (véase 2 Samuel 7:13). Esto implica que Moisés es parte de la casa (el pueblo de Dios) que Dios ha edificado. Mientras Moisés fue siervo en la casa de Dios, Cristo, como el Hijo, es el heredero encargado de toda la casa de Dios. Los hijos tienen un estatus superior al de los siervos de la casa.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1a5727150c5a"
+ },
+ "hcf:John Chrysostom/Hebrews 3_3#0": {
+  "text_es": "«Porque este fue tenido por digno de más gloria que Moisés» (de nuevo está hablando de la Carne), «en cuanto el que edificó la casa tiene más honor que la casa»; también Moisés mismo (quiere decir) era de la casa. Además no dijo: Porque este era siervo, sino el Otro amo, sino que lo insinuó veladamente. Si el pueblo era la casa y él era del pueblo, entonces ciertamente era de la casa. Pues así también solemos decir: tal es de la casa de tal. Pues aquí está hablando de una casa, no del templo, porque el templo no fue construido por Dios, sino por los hombres. Pero el que le hizo es Dios. Se refiere a Moisés. Y ved cómo veladamente muestra la superioridad. «Fiel», dice, «en toda su casa», siendo él mismo también de la casa, es decir, del pueblo. El constructor tiene más honor que la casa, pero no dijo «el artífice tiene más honor que sus obras», sino «el que edificó la casa, que la casa». «Pero el que edificó todas las cosas es Dios». Ves que no está hablando del templo sino de todo el pueblo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7a0f41f215e1"
+ },
+ "hcf:John Chrysostom/Hebrews 3_4#0": {
+  "text_es": "«Pero el que edificó todas las cosas es Dios». Ves que no está hablando del templo sino de todo el pueblo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0dd9f90f9d9a"
+ },
+ "hcf:Irenaeus/Hebrews 3_5#0": {
+  "text_es": "Y Moisés mismo, siendo un hombre de Dios, fue ciertamente dado como dios delante de Faraón; pero no es propiamente llamado Señor, ni es llamado Dios por los profetas, sino que el Espíritu habla de él como «Moisés, el fiel ministro y siervo de Dios», lo cual también era.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d5937de921ad"
+ },
+ "hcf:John Chrysostom/Hebrews 3_5#0": {
+  "text_es": "«Y Moisés a la verdad fue fiel en toda su casa, como siervo, para testimonio de las cosas que habían de ser dichas». Ved también otro punto de superioridad, el que se deriva del Hijo y de los siervos. Ves de nuevo que con el apelativo de El Hijo insinúa una relación verdadera.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d7273b4eba4e"
+ },
+ "hcf:John Chrysostom/Hebrews 3_5#1": {
+  "text_es": "«Para testimonio de las cosas que habían de ser dichas». ¿Qué quieres decir? ¿Recibe Dios el testimonio del hombre? Sí, ciertamente. Pues si llama por testigos al cielo y a la tierra y a los montes (diciendo por el profeta: «Oye, cielo, y escucha, tierra, porque el Señor ha hablado»; y «Oíd, barrancos, fundamentos de la tierra, porque el Señor tiene una contienda con su pueblo»), mucho más a los hombres; es decir, para que sean testigos, cuando los propios judíos son desvergonzados.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "70f78d537e30"
+ },
+ "aquifer:13236": {
+  "text_es": "Pertenecemos a la casa de Dios si actuamos con valentía. El autor no podía asegurar plenamente a quienes se estaban alejando de Cristo y de la Iglesia. Quienes permanecen en la fe pueden estar seguros de que son parte de la casa de Dios (véase Hebreos 3:14; Romanos 8:9, 17; 11:22; 2 Corintios 13:5; Colosenses 1:22–23).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4b958b136496"
+ },
+ "hcf:John Chrysostom/Hebrews 3_6#0": {
+  "text_es": "«Pero Cristo como Hijo sobre su propia casa». ¿Percibes cómo separa lo hecho y el hacedor, el siervo y el hijo? Además, él ciertamente entra en la propiedad de su Padre como amo, pero el otro como siervo.\n\n«Cuya» (es decir, de Dios) «casa somos, si retenemos firme hasta el fin la confianza y el gloriarnos de la esperanza». Aquí de nuevo los anima a avanzar noblemente y no caer: pues seremos la «casa» de Dios (dice), como lo fue Moisés, «si retenemos firme hasta el fin nuestra confianza y nuestro gloriarnos». Sin embargo (querría decir) el que está angustiado en sus pruebas y cae, no se gloría; el que se avergüenza, el que se esconde, no tiene confianza; el que está perplejo no se gloría.\n\nY luego también los elogia, diciendo: «si retenemos firme hasta el fin la confianza y el gloriarnos de la esperanza», dando a entender que incluso habían hecho un comienzo; pero que se necesita el fin, y no simplemente mantenerse en pie, sino tener su esperanza firme «en plena seguridad de fe», sin ser sacudidos por sus pruebas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bde2aec637d7"
+ },
+ "hcf:John Chrysostom/Hebrews 3_6#1": {
+  "text_es": "«Pero Cristo como Hijo». El uno cuida de la propiedad de otros, pero este de la suya propia. «Y el gloriarnos de la esperanza». Bien dijo «de la esperanza». Pues dado que los bienes eran todos en esperanza, y sin embargo debemos «retenerla firme» de tal modo que ya ahora nos gloriemos como de cosas que ya hubieran sucedido; por esta causa dice: «el gloriarnos de la esperanza».\n\nY añade: «mantengámosla firme hasta el fin». Pues «por esperanza somos salvos»; si por tanto «somos salvos por esperanza» y «esperamos con paciencia», no nos aflijamos por las cosas presentes, ni busquemos ahora las que han sido prometidas después; «porque» (dice) «la esperanza que se ve no es esperanza». Pues dado que los bienes son grandes, no podemos recibirlos aquí en esta vida transitoria. ¿Con qué objeto entonces nos habló de ellos de antemano, cuando no iba a dárnoslos aquí? Para que por la promesa refrescara nuestras almas, para que por el compromiso fortaleciera nuestro celo, para que nos ungiera, preparándonos para nuestros combates, y despertara nuestra mente. Por esta causa entonces se hicieron todas estas cosas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "534ea1ff224f"
+ },
+ "aquifer:13237": {
+  "text_es": "Este pasaje sirve como advertencia, mostrando el ejemplo negativo de quienes vagaron por el desierto durante cuarenta años y murieron allí. Las peregrinaciones por el desierto simbolizan la desobediencia a Dios y sus consecuencias (véase Números 32:7–11; Deuteronomio 1:19–35; Salmo 106:24–26).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b5c21843d0d9"
+ },
+ "hcf:John Chrysostom/Hebrews 3_7-11#0": {
+  "text_es": "Pablo, habiendo tratado de la esperanza, y habiendo dicho que «somos su casa, si retenemos firme hasta el fin la confianza y el gloriarnos en la esperanza», muestra a continuación que debemos mirar hacia adelante con firmeza, y lo prueba desde las Escrituras.\n\nSu discurso era acerca de la Esperanza, y de que nos conviene esperar las cosas venideras, y que para quienes han trabajado aquí habrá ciertamente alguna recompensa, fruto y refrigerio. Esto, pues, lo muestra desde el profeta.\n\nDice que hay «tres» reposos: uno, el del sábado, en el cual Dios reposó de sus obras; el segundo, el de Palestina, en el cual, cuando los judíos hubieron entrado, reposarían de sus fatigas y trabajos; el tercero, el que es reposo en verdad, el reino de los cielos; del cual quienes lo alcanzan, reposan en verdad de sus trabajos y aflicciones. De estos tres, pues, hace mención aquí.\n\n¿Y por qué mencionó los tres, cuando trata de uno solo? Para mostrar que el profeta habla acerca de este uno. Pues no habló (dice) acerca del primero. Porque ¿cómo podría, cuando aquello había sucedido mucho antes? Ni tampoco acerca del segundo, el de Palestina. Porque ¿cómo podría? Pues dice: «No entrarán en mi reposo». Queda, por tanto, que es este tercero.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8e2acd308127"
+ },
+ "hcf:John Chrysostom/Hebrews 3_7-11#1": {
+  "text_es": "Pero es necesario también exponer la historia, para que el argumento quede más claro. Pues cuando habían salido de Egipto, y habían realizado un largo viaje, y habían recibido innumerables pruebas del poder de Dios, tanto en Egipto como en el mar Rojo y en el desierto, determinaron enviar espías para explorar la naturaleza de la tierra; y estos fueron y volvieron, admirando ciertamente el país, y diciendo que abundaba en nobles frutos, pero que era una tierra de hombres fuertes e invencibles; y los judíos ingratos e insensatos, cuando debían haber traído a la memoria las bendiciones anteriores de Dios, y cómo, cuando estaban cercados en medio de los ejércitos de tantos egipcios, los rescató de sus peligros y los hizo dueños de los despojos de sus enemigos; y de nuevo, en el desierto hendió la roca y les concedió abundancia de aguas, y les dio el maná, y las otras cosas maravillosas que obró; cuando debían, digo, haber recordado esto y haber confiado en Dios, no consideraron nada de esto, sino que, sobrecogidos de terror, como si nada se hubiera hecho, dijeron: queremos volver otra vez a Egipto, «porque Dios nos ha sacado allá» para «matarnos, con nuestros hijos y mujeres». Dios, por tanto, enojado de que tan pronto hubieran echado fuera la memoria de lo que se había hecho, juró que aquella generación, que había dicho estas cosas, no entraría en el reposo; y todos perecieron en el desierto. Cuando David entonces, dice, hablando en un tiempo posterior, y después de estos acontecimientos, después de aquella generación de hombres, dijo: «Hoy, si oyereis su voz, no endurezcáis vuestros corazones», para que no sufráis las mismas cosas que vuestros antepasados, y seáis privados del reposo; evidentemente dijo esto como de algún reposo futuro. Pues si hubieran recibido su reposo (dice), ¿por qué les dice de nuevo: «Hoy, si oyereis su voz, no endurezcáis vuestros corazones», como vuestros padres? ¿Qué otro reposo hay entonces, sino el reino de los cielos, del cual el sábado era una imagen y tipo?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4394f141510f",
+  "corregido_por_juez": "Traduce 'brought us out thither' como 'nos ha sacado de allí'; 'thither' indica dirección hacia allá, no desde allí, y altera el sentido de la cita."
+ },
+ "aquifer:13238": {
+  "text_es": "Los israelitas se rebelaron y probaron a Dios en lugares como Masah y Meriba, donde escaseaba el agua (Éxodo 17:1–7; Números 20:2–13). Desobedecieron especialmente en Cades al negarse a entrar en la tierra prometida (Hebreos 3:10; véase Números 14:1–25; Deuteronomio 1:19–46; Salmos 106).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "44a825e9d69e"
+ },
+ "aquifer:13239": {
+  "text_es": "Aun después de presenciar los milagros que Dios realizó para ellos, el pueblo de Israel probó la paciencia de Dios al no confiar en él en el desierto (Números 14:11, 22). Su rebelión provenía de que sus corazones se apartaban constantemente de Dios. No querían obedecer a Dios. Como resultado, Dios se airó contra ellos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fe8a9eb73271"
+ },
+ "aquifer:13225": {
+  "text_es": "La rebelión tiene consecuencias. La ira de Dios no es solo una reacción emocional. Es su respuesta justa y equitativa al pecado (Juan 3:36; Romanos 1:18; I Tesalonicenses 2:16). La promesa de Dios (véase Hebreos 6:13–20; 7:20–22, 28) era que nunca entrarían en Canaán, la tierra de reposo de sus viajes (Deuteronomio 1:19–46; 3:20; 12:10; Josué 1:13).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5da2d1038dff"
+ },
+ "aquifer:13226": {
+  "text_es": "El autor de Hebreos señala palabras importantes del Salmo 95. Estas incluyen ⸢corazón⸣, ⸢hoy⸣, ⸢oír⸣, ⸢entrar⸣, ⸢reposo⸣ e ⸢incredulidad⸣. En el mundo antiguo, los maestros de la Biblia citaban un pasaje del Antiguo Testamento y luego lo explicaban. A menudo destacaban palabras clave del pasaje, tal como hacen los predicadores hoy. Este estilo de explicación se llamaba ⸢midrash⸣ (un tipo de interpretación judía de la Biblia).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1b84a8a07a74"
+ },
+ "aquifer:13227": {
+  "text_es": "⸢corazón de incredulidad que se aparta del Dios viviente⸣: Un corazón malo resiste obstinadamente al Señor a causa de la incredulidad, lo que lleva a una persona a apartarse del Dios viviente.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b5c71f5b5fa2"
+ },
+ "hcf:John Chrysostom/Hebrews 3_12#0": {
+  "text_es": "«Mirad, hermanos, que no haya en ninguno de vosotros corazón malo de incredulidad para apartarse del Dios vivo». Pues de la dureza nace la incredulidad; y así como en los cuerpos las partes que se han vuelto callosas y duras no ceden a las manos de los médicos, así también las almas que se han endurecido no ceden a la palabra de Dios. Pues es probable además que algunos incluso no creyeran, como si las cosas que se habían hecho no fueran verdaderas.\n\nPor tanto dice: «Mirad que no haya en ninguno de vosotros corazón malo de incredulidad para apartarse del Dios vivo». Pues como el argumento desde el futuro no es tan persuasivo como desde el pasado, les recuerda la historia, en la cual habían carecido de fe. Pues si vuestros padres (dice), porque no esperaron como debían haber esperado, sufrieron estas cosas, mucho más vosotros. Pues también a ellos se dirige esta palabra: porque «Hoy» (dice) es «siempre», mientras dure el mundo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7c728faa5b47"
+ },
+ "hcf:John Chrysostom/Hebrews 3_12#1": {
+  "text_es": "Sobre todo, dice, «no haya corazón malo de incredulidad». Pero aun supongamos que lo haya, que nadie desespere, sino que se recupere; pues mientras estamos en este mundo, el «Hoy» está en sazón.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "144dd9501f29"
+ },
+ "hcf:Shepherd of Hermas/Hebrews 3_12#0": {
+  "text_es": "Pensando, pues, que podrían encontrar algo mejor, vagan y se vuelven miserables, y entran en lugares sin camino. Pero las que cayeron en el fuego y se quemaron son las que se han apartado para siempre del Dios vivo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a13e9a2cde52"
+ },
+ "aquifer:13228": {
+  "text_es": "El autor usa la palabra «hoy» del Salmo 95:7 para instar a las personas a recordarse mutuamente cada día los efectos engañosos y endurecedores del pecado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a539ce1c1287"
+ },
+ "hcf:Cyril of Jerusalem/Hebrews 3_13#0": {
+  "text_es": "Toma también otra expresión semejante. «Hasta el día de hoy, cuando se lee a Moisés, un velo está puesto sobre sus mentes». ¿Acaso «hasta el día de hoy» significa «hasta el tiempo en que Pablo escribió estas palabras y no más»? ¿No significa hasta este día presente y ciertamente hasta el mismo fin? Y si Pablo dijera: «Hemos llegado hasta vosotros con el evangelio de Cristo, teniendo esperanza, cuando vuestra fe aumente, de predicar el evangelio en las tierras más allá de vosotros», puedes ver claramente que la frase «hasta» no pone límite alguno, sino que indica lo que está más allá. ¿Con qué sentido, por tanto, debes recordar las palabras «hasta que haya puesto a todos los enemigos»? Exactamente el mismo que en otra expresión de Pablo: «Antes exhortaos los unos a los otros cada día, entre tanto que se dice: Hoy», lo cual significa claramente por todo el tiempo. Pues así como no debemos hablar de un comienzo de los días de Cristo, tampoco permitas nunca que alguien hable de un fin de su reino. Pues la Escritura dice: «su reino es un reino eterno».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1f10f6db59af"
+ },
+ "hcf:John Chrysostom/Hebrews 3_13#0": {
+  "text_es": "Por lo cual «exhortaos los unos a los otros cada día, entre tanto que se dice: Hoy». Es decir, edificaos unos a otros, levantaos: para que no os sucedan las mismas cosas. «Para que ninguno de vosotros se endurezca por el engaño del pecado». ¿Ves que el pecado produce incredulidad? Pues así como la incredulidad engendra una vida mala, así también un alma, «cuando ha llegado a la profundidad de los males, se vuelve despreciativa», y habiéndose vuelto despreciativa, no soporta ni siquiera creer, para librarse así del temor. Pues «dijeron»: «El Señor no lo verá, ni lo considerará el Dios de Jacob». Y de nuevo: «Nuestros labios son nuestros: ¿quién es señor sobre nosotros?»; y de nuevo: «¿Por qué ha provocado a ira el impío a Dios?»; y de nuevo: «El necio ha dicho en su corazón: No hay Dios; se han corrompido y se han vuelto abominables en sus obras». «No hay temor de Dios delante de sus ojos, pues fue engañoso delante de él, para hallar su iniquidad y aborrecerla». Sí, y Cristo también dice esto mismo: «Todo el que hace lo malo, aborrece la luz y no viene a la luz».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "85d38ba34480"
+ },
+ "hcf:John Chrysostom/Hebrews 3_13#1": {
+  "text_es": "«Hoy», para que nunca estuvieran sin esperanza. «Exhortaos los unos a los otros cada día», dice, «entre tanto que se dice: Hoy», es decir, aunque un hombre haya pecado, mientras es «Hoy», tiene esperanza: que nadie desespere, pues, mientras viva. Sobre todo, dice, «no haya corazón malo de incredulidad». Pero aun supongamos que lo haya, que nadie desespere, sino que se recupere; pues mientras estamos en este mundo, el «Hoy» está en sazón...",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8a541fe384ae"
+ },
+ "hcf:John Chrysostom/Hebrews 3_13#2": {
+  "text_es": "«Antes exhortaos los unos a los otros». Observa la gentileza y suavidad de la expresión: no dijo «Reprended», sino «Exhortad». Así se nos requiere comportarnos con quienes están angustiados por la aflicción. Esto dice también al escribir a los Tesalonicenses: «Amonestad a los desordenados», pero al hablar de los de poco ánimo, no así, sino ¿qué? «Consolad a los de poco ánimo, sostened a los débiles, sed pacientes para con todos»; es decir, no dejéis de esperar; no desesperéis. Pues el que no anima a quien está angustiado por la aflicción, lo hace más endurecido.\n\n«Para que ninguno de vosotros», dice, «se endurezca por el engaño del pecado». Se refiere o al engaño del diablo (pues ciertamente es un engaño no esperar las cosas venideras, pensar que no somos responsables y que no pagaremos aquí la pena por nuestros hechos, ni habrá resurrección); o en otro sentido, la insensibilidad o la desesperación es engaño. Pues decir: «¿Qué queda? He pecado de una vez para siempre, no tengo esperanza de recuperarme», es engaño.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d57e3f7ecc43"
+ },
+ "aquifer:13229": {
+  "text_es": "Si permanecemos fieles, podemos estar seguros de que pertenecemos a la familia de Dios (véanse Hebreos 3:6; Romanos 8:9, 17; 11:22; 2 Corintios 13:5; Colosenses 1:22–23).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "dc39cfba5a9e"
+ },
+ "hcf:John Chrysostom/Hebrews 3_14#0": {
+  "text_es": "«Porque hemos sido hechos partícipes de Cristo». ¿Qué es esto: «hemos sido hechos partícipes de Cristo»? Participamos de Él (quiere decir); fuimos hechos uno, nosotros y Él, puesto que Él es la Cabeza y nosotros el cuerpo, «coherederos y del mismo cuerpo; somos un cuerpo, de su carne y de sus huesos».\n\n«Si retenemos firme hasta el fin el principio de nuestra confianza [o, el principio de nuestra subsistencia]». ¿Qué es «el principio de nuestra subsistencia»? La fe por la cual estamos firmes, y hemos sido traídos a la existencia y fuimos hechos para existir, como se puede decir.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4c7ecab33ce2"
+ },
+ "hcf:John Chrysostom/Hebrews 3_14#1": {
+  "text_es": "Luego les sugiere esperanzas, diciendo: «Somos hechos partícipes de Cristo»; casi diciendo: Aquel que tanto nos amó, Aquel que nos consideró dignos de cosas tan grandes, hasta hacernos su Cuerpo, no permitirá que perezcamos. Consideremos (dice) de qué hemos sido tenidos por dignos: nosotros y Cristo somos uno; no desconfiemos, pues, de Él. Y de nuevo insinúa lo que se había dicho en otro lugar: que «si sufrimos, también reinaremos con Él». Pues esto está implícito en «somos hechos partícipes»: participamos de las mismas cosas de que Cristo también participa.\n\nLos exhorta a partir de los bienes; «pues somos», dice, «partícipes de Cristo».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3a3c11025115"
+ },
+ "aquifer:13230": {
+  "text_es": "Este versículo cita el Salmo 95:7–8, exhortando a los lectores a escuchar y responder positivamente a la voz de Dios. Resume el mensaje del autor en Hebreos 3:12–14.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d69cdf3cfa41"
+ },
+ "hcf:John Chrysostom/Hebrews 3_15#0": {
+  "text_es": "Luego añade: «Cuando se dice: Si oyereis hoy su voz, no endurezcáis vuestros corazones, como en la provocación». Esto es una transposición: «cuando se dice: Si oyereis hoy su voz, no endurezcáis vuestros corazones». Debe leerse así:\n\n«Temamos, pues, que, quedando aún la promesa de entrar en su reposo, alguno de vosotros parezca haberse quedado atrás; porque también a nosotros se nos ha anunciado el Evangelio como a ellos, cuando se dice: Si oyereis hoy su voz» (pues «hoy» es «en todo tiempo»).\n\nLuego añade: «pero la palabra oída no les aprovechó, por no estar mezclados por la fe con los que oyeron». ...\n\nAhora lo que dice es a este respecto. También ellos oyeron, como nosotros oímos; pero ningún provecho les vino. No supongáis, pues, que por «oír» lo que se proclama obtendréis provecho, viendo que también ellos oyeron, pero no sacaron beneficio porque no creyeron.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "04e67f71031b"
+ },
+ "aquifer:13231": {
+  "text_es": "Estos versículos usan una serie de preguntas y respuestas rápidas, un método retórico común. Las tres preguntas siguen las ideas del Salmo 95:8–11: El pueblo de Israel se rebeló contra Dios, Dios se enojó, y Dios juró que nunca entrarían en su reposo. Las respuestas provienen de otros pasajes del Antiguo Testamento sobre la rebelión de los israelitas en el desierto (Números 14; Deuteronomio 9; Salmo 106). El autor enfatiza las graves consecuencias de desobedecer a Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "03f48bc029d3"
+ },
+ "hcf:John Chrysostom/Hebrews 3_16-19#0": {
+  "text_es": "«Porque algunos, habiendo oído, le provocaron; aunque no todos los que salieron de Egipto por mano de Moisés. ¿Y con quiénes estuvo él disgustado cuarenta años? ¿No fue con los que pecaron, cuyos cuerpos cayeron en el desierto? ¿Y a quiénes juró que no entrarían en su reposo, sino a aquellos que no creyeron? Así vemos que no pudieron entrar a causa de su incredulidad». Después de repetir de nuevo el testimonio, añade también la pregunta, que hace claro el argumento. Pues dijo (repite): «Si oyereis hoy su voz, no endurezcáis vuestros corazones, como en la provocación». ¿De quiénes habla (dice) como habiéndose endurecido? ¿De quiénes como no creyendo? ¿No es de los judíos?\n\nAhora lo que dice es a este respecto. También ellos oyeron, como nosotros oímos; pero ningún provecho les vino. No supongáis, pues, que por «oír» lo que se proclama obtendréis provecho, viendo que también ellos oyeron, pero no sacaron beneficio porque no creyeron.\n\nEntonces Caleb y Josué, porque no se conformaron con los que no creyeron, escaparon de la venganza que se envió contra ellos. Y ved cuán admirablemente dijo, no: No se conformaron, sino: «no estuvieron mezclados», es decir, se mantuvieron aparte, pero no de manera facciosa cuando todos los demás tenían una misma mente. Aquí me parece que también se insinúa una facción.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "832ec72f34a4"
+ },
+ "hcf:John Chrysostom/Hebrews 3_17#0": {
+  "text_es": "Pero aquí no significa solo la incredulidad, sino también las murmuraciones: «cuyos cuerpos», dice, «cayeron en el desierto».\n\n«Me probaron», dice, «y vieron mis obras cuarenta años». ¿Ves que no es correcto pedir cuentas a Dios, sino que, ya sea que defienda nuestra causa o no, hay que confiar en Él? Pues contra los antiguos ahora presenta esta acusación: que «tentaron a Dios». Porque el que quiere prueba, ya sea de su poder, ya de su providencia, ya de su tierno cuidado, aún no cree, ni que Él es poderoso ni que es bondadoso con el hombre. Esto también lo insinúa al escribir a estos hebreos, que probablemente ya deseaban, en sus pruebas, obtener experiencia y evidencia positiva de su poder y de su cuidado providencial por ellos. Ves que en todos los casos la provocación y el enojo surgen de la incredulidad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "73b46b650c46"
+ },
+ "aquifer:13232": {
+  "text_es": "En Hebreos y el Antiguo Testamento, la incredulidad y la desobediencia están estrechamente vinculadas (Números 14:11; Deuteronomio 9:23; Salmo 78:22, 32). A causa de su desobediencia, no pudieron entrar en el reposo de Dios al entrar en la tierra de Canaán (Deuteronomio 3:20; 12:10; Josué 1:13).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "596509791672"
+ }
+}

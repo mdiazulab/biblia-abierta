@@ -1,0 +1,475 @@
+{
+ "aquifer:13181": {
+  "text_es": "Este conjunto de pautas prácticas es como otras listas éticas en el Nuevo Testamento. Explica cómo amar a los demás en la comunidad de fe, proporcionando un sólido fundamento ético para la vida.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7a457dfc7557"
+ },
+ "aquifer:13190": {
+  "text_es": "⸢Permanezca el amor fraternal:⸣ Este consejo de seguir amándonos unos a otros como familia es para todos en la comunidad cristiana (véanse las notas de estudio sobre Hebreos 2:11; 3:1).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8b8ffc509945"
+ },
+ "hcf:John Chrysostom/Hebrews 13_1#0": {
+  "text_es": "Mira cómo les exhorta a conservar lo que tenían: no añade otras cosas. No dijo: «Sed amantes como hermanos», sino: «Permanezca el amor fraternal». Y de nuevo, no dijo: «Sed hospitalarios», como si no lo fueran, sino: «No os olvidéis de la hospitalidad», pues esto era probable que sucediera a causa de sus aflicciones.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5526e5a331c6"
+ },
+ "aquifer:13195": {
+  "text_es": "La hospitalidad es un principio importante en la ética judía y cristiana (1 Pedro 4:9; véanse también Mateo 10:11; Hechos 16:15; Tito 3:13; Filemón 1:22; 3 Juan 1:5–8). En el primer siglo, los viajeros por lo general no se alojaban en posadas. ⸢algunos, sin saberlo, hospedaron ángeles⸣: Véanse Génesis 18:2–15; Jueces 13:2–23.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "01e8f1cd7860"
+ },
+ "hcf:John Chrysostom/Hebrews 13_2#0": {
+  "text_es": "No dijo: «Sed hospitalarios», como si no lo fueran, sino: «No os olvidéis de la hospitalidad», pues esto era probable que sucediera a causa de sus aflicciones.\n\nPor tanto (dice) «algunos, sin saberlo, hospedaron ángeles». ¿Ves cuán grande era el honor, cuán grande la ganancia?\n\n¿Qué es «sin saberlo»? Los hospedaron sin saberlo. Por tanto, la recompensa también fue grande, porque los hospedó sin saber que eran ángeles. Pues si lo hubiera sabido, no habría sido nada maravilloso. Algunos dicen que aquí alude también a Lot.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3432f482b8cf"
+ },
+ "hcf:John Chrysostom/Hebrews 13_2#1": {
+  "text_es": "Y no dijo: «No os olvidéis» de hospedar a los extranjeros, sino «de la hospitalidad»: es decir, no os limitéis a hospedar a los extranjeros, sino hacedlo con amor hacia los extranjeros. Además, no habló de la recompensa que es futura y está reservada para nosotros, no fuera a hacerlos más negligentes, sino de la que ya ha sido dada. Pues «de este modo algunos» (dice) «hospedaron ángeles sin saberlo».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "24d832be85b6"
+ },
+ "hcf:Tertullian/Hebrews 13_2#0": {
+  "text_es": "—«¿Has visto», dice la Escritura, «a un hermano? Has visto a tu Señor»—, especialmente «a un extranjero», no sea que quizá sea «un ángel».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "318e1db4e4c6"
+ },
+ "aquifer:13196": {
+  "text_es": "⸢Acordaos de los presos⸣: Los presos a menudo dependían de familiares y amigos para sus necesidades básicas. Se animaba a los cristianos a ofrecer consuelo, alimento, oración y otros elementos esenciales a quienes estaban encarcelados por su fe (Hebreos 13:18–19; Mateo 25:36; Colosenses 4:18; 2 Timoteo 1:16).",
+  "lemas_es": [
+   "Acordaos de los presos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c865ea87fb10",
+  "lemas_rv1909": [
+   {
+    "lema": "Acordaos de los presos",
+    "ref": "HEB.13.3"
+   }
+  ]
+ },
+ "hcf:John Chrysostom/Hebrews 13_3#0": {
+  "text_es": "«Acordaos de los presos, como si estuvierais presos con ellos, y de los que sufren adversidad, como estando vosotros también en el cuerpo.»",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "74155454d5a5",
+  "corregido_por_juez": "«suffer adversity» se traduce como «sufren maltrato», restringiendo la adversidad/aflicción a malos tratos."
+ },
+ "aquifer:13197": {
+  "text_es": "Honrar el matrimonio significa protegerlo y considerarlo muy importante. ⸢Sexualmente inmoral⸣ se refiere a cualquier comportamiento sexual inapropiado. El adulterio rompe la promesa del matrimonio al tener relaciones sexuales fuera del matrimonio.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5cbf51e72864"
+ },
+ "hcf:Clement of Alexandria/Hebrews 13_4#0": {
+  "text_es": "Sino más bien, dice: «Seguid la paz con todos, y la santidad, sin la cual nadie verá al Señor: mirando bien, no sea que haya algún fornicario o profano, como Esaú, que por una sola comida vendió su primogenitura; y no sea que alguna raíz de amargura, brotando, os perturbe, y por ella muchos sean contaminados». Y luego, como dando el toque final a la cuestión sobre el matrimonio, añade: «Honroso es en todos el matrimonio, y el lecho sin mancilla; pero a los fornicarios y a los adúlteros juzgará Dios».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "34fe9df75027"
+ },
+ "hcf:John Chrysostom/Hebrews 13_4#0": {
+  "text_es": "Mira cuán extenso es su discurso acerca de la castidad. «Seguid la paz», dijo, «y la santidad; no sea que haya algún fornicario o profano» (c. xii. 14); y de nuevo: «A los fornicarios y a los adúlteros juzgará Dios» (c. xii. 16). En todos los casos, la prohibición va acompañada de una pena. «Seguid la paz con todos», dice, «y la santidad, sin la cual nadie verá al Señor; pero a los fornicarios y a los adúlteros juzgará Dios».\n\nY habiendo establecido primero «Honroso es en todos el matrimonio, y el lecho sin mancilla», muestra que añadió con razón lo que sigue. Pues si el matrimonio ha sido concedido, con justicia es castigado el fornicario, con justicia sufre venganza el adúltero.\n\nAquí se desnuda para los herejes. No dijo de nuevo: Nadie sea fornicario; sino que, habiéndolo dicho una vez por todas, prosiguió luego como con una exhortación general, y no como dirigiéndose contra ellos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d7345fab3d7d"
+ },
+ "hcf:John Chrysostom/Hebrews 13_4#1": {
+  "text_es": "Pero veamos en qué sentido «Honroso es en todos el matrimonio y el lecho sin mancilla». Porque (quiere decir) preserva al creyente en la castidad. Aquí alude también a los judíos, porque consideraban impura a la mujer después del parto: y «cualquiera que viene del lecho», se dice, «no es limpio». No son impuras las cosas que provienen de la naturaleza, oh judío ingrato e insensato, sino las que provienen de la elección. Pues si «el matrimonio es honroso» y puro, ¿por qué, en verdad, piensas que uno queda incluso contaminado por él?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "154d678158e1"
+ },
+ "hcf:Pseudo-Clement/Hebrews 13_4#0": {
+  "text_es": "Pues el que codicia para sí estas cosas tan grandes y excelentes, se retira y se separa por esta razón de todo el mundo, para poder ir y vivir una vida divina y celestial, como los santos ángeles, en obra pura y santa, y «en la santificación del Espíritu de Dios» [2 Tesalonicenses 2:13], y para poder servir a Dios Todopoderoso por medio de Jesucristo por causa del reino de los cielos. Por esta razón se separa de todos los apetitos del cuerpo. Y no solo se excusa de este mandato: «Fructificad y multiplicaos», sino que anhela la «esperanza prometida» y preparada «y guardada en los cielos» [Colosenses 1:5] por Dios, quien ha declarado con su boca, y no miente, que es «mejor que hijos e hijas» [Isaías 56:4-5], y que dará a las vírgenes un lugar notable en la casa de Dios, que es algo «mejor que hijos e hijas», y mejor que el lugar de aquellos que han pasado una vida conyugal en santidad, y cuyo «lecho no ha sido mancillado» [Hebreos 13:4]. Pues Dios dará a las vírgenes el reino de los cielos, como a los santos ángeles, en razón de esta grande y noble profesión.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a25731f3c418"
+ },
+ "aquifer:13198": {
+  "text_es": "⸢Sean vuestras costumbres sin avaricia⸣: Véase 1 Timoteo 6:6–10. En cambio, los creyentes deben contentarse con lo que Dios les ha dado. Algunos en la comunidad podrían haber enfrentado dificultades financieras (véase Hebreos 10:32–34). Las promesas de Dios permanecen verdaderas: «No te dejaré, ni te desampararé» (véanse Deuteronomio 31:6, 8).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3b2a6932bc78"
+ },
+ "hcf:Clement of Alexandria/Hebrews 13_5#0": {
+  "text_es": "Debemos, pues, ejercitarnos en cuidar de aquellas cosas que caen bajo el poder de las pasiones, huyendo como los que son verdaderamente filósofos de aquellos alimentos que excitan la lujuria, y de la licenciosa disolución en el ayuntamiento y el lujo; y las sensaciones que tienden al lujo, que son una recompensa sólida para otros, ya no deben serlo para nosotros. Pues el mayor don de Dios es la templanza. Porque Él mismo ha dicho: «No te dejaré, ni te desampararé», por haberte juzgado digno según la verdadera elección. Así, pues, mientras intentamos avanzar piadosamente, llevaremos sobre nosotros el yugo suave del Señor de fe en fe, conduciéndonos un solo auriga a cada uno hacia la salvación, para que pueda ganarse el digno fruto de la bienaventuranza.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4ea7af837234"
+ },
+ "hcf:John Chrysostom/Hebrews 13_5#0": {
+  "text_es": "«Sean vuestras costumbres sin avaricia», dice. No dijo: No poseáis nada, sino: «Sean vuestras costumbres sin avaricia»: es decir, que muestren el carácter filosófico de vuestra mente. Pues dice también arriba: «Y tomasteis con gozo el despojo de vuestros bienes» (c. x. 34). Da estas exhortaciones para que no fueran avaros.\n\n«Contentos» (dice) «con lo que tenéis». Luego también aquí el consuelo: «Porque Él» (dice) «ha dicho: No te dejaré, ni te desampararé»; «de manera que podemos decir confiadamente: El Señor es mi ayudador, y no temeré lo que me pueda hacer el hombre». De nuevo, consuelo en sus pruebas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6262faee713d"
+ },
+ "hcf:John Chrysostom/Hebrews 13_5#1": {
+  "text_es": "«Sean vuestras costumbres» (dice) «sin avaricia»: puesto que muchos, después de haber agotado sus bienes, luego desean recuperarlos de nuevo bajo la apariencia de limosna, por eso dice: «Sean vuestras costumbres sin avaricia»; es decir, que deseemos solo lo que es necesario e indispensable. ¿Qué entonces (dices) si no tuviéramos provisión ni siquiera de estas cosas? Esto no es posible; en verdad no lo es. «Porque Él ha dicho», y no miente, «No te dejaré, ni te desampararé. De manera que decimos confiadamente: El Señor es mi ayudador, y no temeré lo que me pueda hacer el hombre». Tienes la promesa de Él mismo: no dudes en adelante. Ha prometido; no lo pongas en duda. Pero esto: «No te dejaré», no lo dice solo respecto al dinero, sino también respecto a todas las demás cosas. «El Señor es mi ayudador, y no temeré lo que me pueda hacer el hombre»; con razón.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e75b0781efcc"
+ },
+ "aquifer:13199": {
+  "text_es": "Esta cita del Salmo 118:6 muestra una respuesta de fe: El Señor es mi ayudador⸢,⸣ así que no necesitamos temer lo que otros puedan hacer.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3f83ee02ce7b"
+ },
+ "hcf:John Chrysostom/Hebrews 13_6#0": {
+  "text_es": "«De manera que podemos decir confiadamente: El Señor es mi ayudador, y no temeré lo que me pueda hacer el hombre». De nuevo, consuelo en sus pruebas.\n\n...\n\n«Porque Él ha dicho», y no miente, «No te dejaré, ni te desampararé. De manera que decimos confiadamente: El Señor es mi ayudador, y no temeré lo que me pueda hacer el hombre». Tienes la promesa de Él mismo: no dudes en adelante. Ha prometido; no lo pongas en duda. Pero esto: «No te dejaré», no lo dice solo respecto al dinero, sino también respecto a todas las demás cosas. «El Señor es mi ayudador, y no temeré lo que me pueda hacer el hombre»; con razón.\n\nEsto, pues, digámoslo también en todas las tentaciones; riámonos de las cosas humanas, mientras tengamos a Dios propicio. Pues así como, cuando Él es nuestro enemigo, de nada sirve que todos los hombres sean nuestros amigos, así cuando Él es nuestro amigo, aunque todos los hombres juntos nos hagan la guerra, no hay daño. «No temeré lo que me pueda hacer el hombre».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "20c138ff10ce"
+ },
+ "aquifer:13200": {
+  "text_es": "Esta parte central del capítulo 13 está enmarcada por menciones de los líderes de la comunidad (13:7, 17–19). Los rabinos solían usar una técnica llamada ⸢inclusio⸣, donde palabras o frases similares marcan el inicio y el final de una sección, como un subtítulo en un libro moderno. Esta parte sugiere que había varios desafíos en la iglesia que el libro de Hebreos abordaba originalmente.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9645ee4ddf9f",
+  "text_es_2": "Esta parte central del capítulo 13 está enmarcada por menciones de los líderes de la comunidad (13:7, 17–19). Los rabinos solían emplear una técnica llamada ⸢inclusio⸣, en la que palabras o frases similares marcan el inicio y el final de una sección, como un subtítulo en un libro moderno. Esta parte sugiere que había varios desafíos en la Iglesia que el libro de Hebreos abordaba originalmente.",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "aquifer:13201": {
+  "text_es": "⸢Acordaos de vuestros pastores⸣: La palabra ⸢pastores⸣ se refería a figuras militares, políticas y religiosas. Estos líderes, probablemente fundadores de esta comunidad, les enseñaron la palabra de Dios, lo cual es un deber básico de quienes lideran (véanse 1 Timoteo 3:2; 2 Timoteo 2:15; Tito 1:9). Sus vidas y su fe eran ejemplos a seguir.",
+  "lemas_es": [
+   "Acordaos de vuestros pastores"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "dfe7606824a1",
+  "lemas_rv1909": [
+   {
+    "lema": "Acordaos de vuestros pastores",
+    "ref": "HEB.13.7"
+   }
+  ]
+ },
+ "hcf:Didache/Hebrews 13_7#0": {
+  "text_es": "Hijo mío, al que te habla la palabra de Dios recuérdalo de noche y de día; y lo honrarás como al Señor; porque en el lugar de donde se pronuncia el dominio señorial, allí está el Señor. Y buscarás día tras día los rostros de los santos, para que descanses en sus palabras. No desearás la división, sino que llevarás a la paz a los que contienden.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cad184f8c396"
+ },
+ "hcf:John Chrysostom/Hebrews 13_7#0": {
+  "text_es": "«Acordaos de los que tienen el gobierno sobre vosotros». Esto era lo que se esforzaba por decir arriba: por tanto «seguid la paz con todos los hombres» (c. xii. 14). Dio también esta exhortación a los tesalonicenses, de «tenerlos en gran honor» (1 Tes. v. 13).\n\n«Acordaos» (dice) «de los que tienen el gobierno sobre vosotros, que os han hablado la palabra de Dios, cuya fe seguid, considerando el fin de su conversación». ¿Qué clase de seguimiento es este? Verdaderamente el mejor: pues dice, contemplando su vida, «seguid su fe». Porque de una vida pura viene la fe.\n\nO bien por «fe» entiende la firmeza. ¿Cómo, pues? Porque creen en las cosas venideras. Pues no habrían mostrado una vida pura, si hubieran dudado acerca de las cosas venideras, si hubieran vacilado. De modo que también aquí aplica un remedio al mismo mal.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "625971d2ebc9"
+ },
+ "hcf:John Chrysostom/Hebrews 13_7#1": {
+  "text_es": "«Acordaos de los que tienen el gobierno sobre vosotros, que os han hablado la palabra de Dios». En este lugar pienso que habla también acerca de la asistencia. Pues esto está implícito en las palabras «que os han hablado la palabra de Dios».\n\n«Cuya fe seguid, considerando el fin de su conversación». ¿Qué es «considerando»? Revolviéndolo continuamente, examinándolo vosotros mismos, razonando, investigando con exactitud, probándolo como queráis. «El fin de su conversación», es decir, su conversación hasta el fin: pues «su conversación» tuvo un buen fin.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b3c8aab98f69"
+ },
+ "hcf:Pseudo-Clement/Hebrews 13_7#0": {
+  "text_es": "Además, también a Elías y Eliseo, y a muchos otros hombres santos, hallamos que vivieron una vida santa e inmaculada. Si, por tanto, deseas ser como estos, imítalos con todas tus fuerzas. Pues la Escritura ha dicho: «A los ancianos que están entre vosotros, honrad; y, viendo su manera de vivir y su conducta, imitad su fe» [Hebreos 13:7]. Y otra vez dice: «Imitadme, hermanos míos, como yo imito a Cristo» [1 Corintios 11:1].",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "237a87db84e4"
+ },
+ "aquifer:13202": {
+  "text_es": "Aunque la comunidad enfrentaba nuevos desafíos, Jesucristo sigue siendo el mismo, y su buena noticia no cambia. ⸢ayer⸣: Jesús fue el agente del Padre en la creación (Hebreos 1:2, 10). ⸢hoy⸣: Jesús está sentado a la diestra del Padre (1:13; 7:26–28; 10:12). Gobernará el universo para siempre (1:8, 10–12).",
+  "lemas_es": [
+   "ayer",
+   "hoy"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1311aad82773",
+  "lemas_rv1909": [
+   {
+    "lema": "ayer",
+    "ref": "HEB.13.8"
+   },
+   {
+    "lema": "hoy",
+    "ref": "HEB.13.8"
+   }
+  ]
+ },
+ "hcf:Alexander of Alexandria/Hebrews 13_8#0": {
+  "text_es": "¿Cómo, también, puede ser mudable y variable el que dice ciertamente por sí mismo: «Yo estoy en el Padre, y el Padre en mí», y: «Yo y mi Padre una cosa somos»; y por el profeta: «Yo soy el Señor, no cambio»? Pues aunque una sentencia pueda referirse al Padre mismo, ahora se diría más apropiadamente del Verbo, porque cuando se hizo hombre, no cambió; sino, como dice el apóstol: «Jesucristo, el mismo ayer, hoy y por siempre».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fcd520d91d3a"
+ },
+ "hcf:Ambrose of Milan/Hebrews 13_8#0": {
+  "text_es": "Pues en general la Escritura habla de dos días, ayer y hoy, de los cuales se dice: «Jesucristo, el mismo, ayer, hoy y por siempre». En el primer día se hace la promesa, en el segundo se cumple.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "496fce03c89a"
+ },
+ "hcf:John Chrysostom/Hebrews 13_8#0": {
+  "text_es": "En estas palabras, «Jesucristo, el mismo ayer y hoy y por siempre», «ayer» significa todo el tiempo pasado: «hoy», el presente: «por siempre», el sin fin que ha de venir. Es decir: Habéis oído de un Pontífice, pero no de un Pontífice que falla. Él es siempre el mismo. Como si hubiera algunos que dijeran: «Él no es, otro vendrá», dice esto, que el que fue «ayer y hoy», es «el mismo también por siempre». Pues aun ahora los judíos dicen que otro vendrá; y habiéndose privado de Aquel que es, caerán en manos del Anticristo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "85fa0d844097"
+ },
+ "hcf:John Chrysostom/Hebrews 13_8#1": {
+  "text_es": "«Jesucristo, el mismo ayer y hoy y por siempre». No pienses que entonces ciertamente obró maravillas, pero ahora no obra maravillas. Él es el mismo. Esto es: «acordaos de los que tienen el gobierno sobre vosotros».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "334a4ea202a8"
+ },
+ "aquifer:13203": {
+  "text_es": "Puesto que Jesús no cambia (Hebreos 13:8), los creyentes deben evitar ser atraídos a ideas extrañas y nuevas. Las falsas enseñanzas mencionadas involucraban reglas acerca de alimentos. En algunas partes del judaísmo, se pensaba que ciertas comidas rituales proporcionaban la gracia de Dios a los participantes. Algunos en la comunidad podrían haber sido tentados a dejar la comunidad cristiana para unirse a las comidas de comunión judías. Estas comidas judías a veces animaban a los participantes a centrarse en el altar de Jerusalén. El autor recuerda a los oyentes que tenemos un altar al que los que están bajo el antiguo pacto no pueden acceder: el sacrificio de Cristo (7:27–28; 8:13; 9:11–14; 10:11–14).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "aae1fa06ccf9",
+  "text_es_2": "Puesto que Jesús no cambia (Hebreos 13:8), los creyentes deben evitar ser atraídos por ideas nuevas y extrañas. Las enseñanzas falsas mencionadas implicaban reglas sobre alimentos. En algunas partes del judaísmo, se pensaba que ciertas comidas rituales otorgaban la gracia de Dios a los participantes. Algunos en la comunidad podrían haber sido tentados a abandonar la comunidad cristiana para unirse a comidas de confraternidad judías. Estas comidas judías a veces animaban a los participantes a centrarse en el altar de Jerusalén. El autor recuerda a los oyentes que tenemos un altar al que no pueden acceder los que están bajo el antiguo pacto: el sacrificio de Cristo (7:27–28; 8:13; 9:11–14; 10:11–14).",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "hcf:John Chrysostom/Hebrews 13_9#0": {
+  "text_es": "«No seáis llevados de acá para allá con diversas y extrañas doctrinas». No solo «con extrañas doctrinas», sino tampoco con «diversas».\n\n«Porque es buena cosa que el corazón sea establecido con gracia, no con viandas que no aprovecharon a los que se ocuparon en ellas». Aquí alude suavemente a los que introducen la observancia de «viandas». Pues por la fe todas las cosas son puras. Se necesita, entonces, fe, no «viandas».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9a6908629deb"
+ },
+ "hcf:John Chrysostom/Hebrews 13_9#1": {
+  "text_es": "«No os dejéis llevar de doctrinas diversas y extrañas». «Extrañas», esto es, diferentes de las que oísteis de nosotros; «diversas», esto es, de toda clase; pues no tienen estabilidad, sino que difieren unas de otras. Porque especialmente múltiple es la doctrina de los alimentos.\n\n«Porque es buena cosa que el corazón sea confirmado con la gracia; no con los alimentos». Estas son las «diversas», estas las «extrañas» doctrinas; especialmente como ha dicho Cristo: «no lo que entra en la boca contamina al hombre, sino lo que sale». (Mat. xv. 11.) Y observa que no se atreve a decir esto abiertamente, sino como por una insinuación. «Porque es buena cosa que el corazón sea confirmado con la gracia, no con los alimentos».\n\nLa fe lo es todo. Si ella lo confirma, el corazón permanece seguro. De ahí se sigue que la fe confirma; por consiguiente, los razonamientos vacilan. Pues la fe es contraria al razonamiento.\n\n«Las cuales» (dice) «no aprovecharon a los que se ocuparon en ellas». Pues ¿cuál es la ganancia de su observancia, dime? ¿No destruye más bien? ¿No pone a tal persona bajo pecado? Si es necesario observarlas, debemos guardarnos.\n\n«Las cuales» (dice) «no aprovecharon a los que se ocuparon en ellas». Esto es, los que siempre las guardaron diligentemente.\n\nHay una sola observancia: abstenerse del pecado. Pues ¿de qué aprovecha, cuando algunos están tan contaminados que no pueden participar de los sacrificios? De modo que no los salvó en absoluto, aunque eran celosos en las observancias. Pero porque no tenían fe, ni aun así aprovecharon nada.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ecdd4e3508ba",
+  "corregido_por_juez": "El pronombre relativo 'Las cuales... en ellas' no concuerda con 'alimentos' (masculino) y cambia el referente de 'meats/which' a 'doctrinas/observancias'."
+ },
+ "hcf:Philoxenus of Mabbug/Hebrews 13_9#0": {
+  "text_es": "Según la enseñanza de Pablo, «los que se ocuparon en las viandas no fueron beneficiados por ellas», y no solo fueron privados de cualquier beneficio, sino que reunieron para sus propias personas pérdida y daño. Y aunque la concupiscencia del vientre no sea estas cosas, sin embargo conduce a ellas, pues cuando el corazón se ha vuelto grosero por las viandas, al instante expulsa de sí el recuerdo de Dios, y cuando la memoria de Dios se ha apartado de un hombre, ¿qué maldad no hará? ¿y a qué iniquidad no se verá movido a hacer? Así como también el profeta Moisés nos enseñó que por esta causa el pueblo olvidó a su Dios, y que por la concupiscencia del vientre salieron a la idolatría, y de comer carne fueron llevados a blasfemias, y de los alimentos delicados llegaron a toda maldad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fa50f19ff911"
+ },
+ "hcf:John Chrysostom/Hebrews 13_10#0": {
+  "text_es": "Pues «tenemos un altar del cual no tienen derecho a comer los que sirven al Tabernáculo». No como las ordenanzas judías, son las nuestras, pues no es lícito ni siquiera al Pontífice participar de ellas. De modo que, habiendo dicho: «No observéis», y pareciendo esto lenguaje de uno que derriba su propio edificio, de nuevo lo da vuelta. ¿Qué, no tenemos también nosotros observancias (dice)? Sí, las tenemos, y las observamos con mucha diligencia también, sin compartirlas ni siquiera con los sacerdotes mismos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "03643db6291c",
+  "text_es_2": "Porque «Tenemos un altar, del cual no tienen facultad de comer los que sirven al tabernáculo». No son como las ordenanzas judías las que hay entre nosotros, pues no es lícito ni siquiera para el pontífice participar de ellas. Así que, puesto que había dicho: «No observéis», y esto parecía ser el lenguaje de uno que derriba su propio edificio, de nuevo le da la vuelta. ¿Qué? ¿Acaso no tenemos también nosotros observancias? (dice). Sí, las tenemos, y las observamos con mucha diligencia, sin compartirlas ni siquiera con los sacerdotes mismos.",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "hcf:Tertullian/Hebrews 13_10#1": {
+  "text_es": "Para que no estemos tan lejos de los oídos de Dios como estamos de sus preceptos, la memoria de sus preceptos allana para nuestras oraciones un camino hacia el cielo; de cuyos preceptos el principal es que no subamos al altar de Dios antes de componer cualquier discordia u ofensa que hayamos contraído con nuestros hermanos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7bfc203cb409",
+  "text_es_2": "Para que no estemos tan lejos de los oídos de Dios como estamos de sus preceptos, la memoria de sus preceptos allana para nuestras oraciones un camino hasta el cielo; de los cuales preceptos, el principal es que no subamos al altar de Dios antes de arreglar cualquier discordia u ofensa que hayamos contraído con nuestros hermanos.",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "aquifer:13182": {
+  "text_es": "El autor explica el sacrificio del Día de la Expiación (Levítico 16:1–28), donde los animales eran quemados fuera del campamento (Levítico 16:27). De manera similar, Jesús sufrió y murió fuera de las puertas de la ciudad de Jerusalén. Él fue el sacrificio supremo del Día de la Expiación (Hebreos 9:11–14, 24–28; 10:1–4).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2078352510ea"
+ },
+ "hcf:John Chrysostom/Hebrews 13_11-12#0": {
+  "text_es": "«Porque los cuerpos de aquellos animales, cuya sangre es traída al santuario por el Pontífice por el pecado, son quemados fuera del campamento. Por lo cual también Jesús, para santificar al pueblo con su propia sangre, padeció» (dice) «fuera de la puerta». ¿Ves el tipo resplandeciendo? «Por el pecado», dice, y «padeció fuera de la puerta».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8be965e20930"
+ },
+ "hcf:John Chrysostom/Hebrews 13_11-12#1": {
+  "text_es": "En el siguiente lugar quita el sacrificio del tipo, y dirige su discurso al prototipo, diciendo: «Los cuerpos de aquellos animales, cuya sangre es traída al santuario por el Pontífice, son quemados fuera del campamento». Entonces aquellas cosas eran un tipo de estas y así Cristo, padeciendo «fuera», cumplió todo.\n\nAquí también lo hace claro: que padeció voluntariamente, mostrando que aquellas cosas no fueron accidentales, sino que incluso la disposición divina misma fue de un padecimiento «fuera». Padeció fuera, pero su Sangre fue llevada arriba al cielo. Ves entonces que participamos de la Sangre que ha sido llevada al Lugar Santo, el Verdadero Lugar Santo; del Sacrificio del cual solo el Sacerdote tenía el privilegio. Participamos, por tanto, de la Verdad, la Realidad. Si entonces no participamos solo del «oprobio» sino de la santificación, el «oprobio» es la causa de la santificación. Pues como él fue reprochado, así también nosotros. Si salimos «fuera», por tanto, tenemos comunión con él.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3f29c201f336"
+ },
+ "aquifer:13183": {
+  "text_es": "⸢Salgamos a él fuera del campamento⸣: Debemos estar con Jesús, identificarnos con él y rechazar la falsa seguridad y comodidad de ponerse del lado del mundo contra él. Al estar con Cristo, participamos del oprobio que él experimentó (Hebreos 6:5–6; 12:1–3).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "19af1334fae5",
+  "corregido_por_juez": "Traduce 'disgrace' como 'desgracia' (infortunio) en lugar de deshonra/oprobio/vituperio; cambia el sentido de reproche compartido."
+ },
+ "hcf:John Chrysostom/Hebrews 13_13#0": {
+  "text_es": "«Salgamos, pues, a él fuera del campamento, llevando su oprobio», es decir, padeciendo las mismas cosas; teniendo comunión con él en sus padecimientos. Fue crucificado fuera como un condenado; no nos avergoncemos, pues, de «salir» del mundo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a6e71d2100df"
+ },
+ "hcf:John Chrysostom/Hebrews 13_13#1": {
+  "text_es": "Pero ¿qué es «Salgamos a él»? Tengamos comunión con él en sus padecimientos; llevemos su oprobio. Pues no nos mandó simplemente habitar «fuera de la puerta», sino que, así como él fue reprochado como un condenado, también nosotros.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8140e811c216"
+ },
+ "aquifer:13184": {
+  "text_es": "Como la familia de Abraham (Hebreos 11:9–16), no vemos este mundo como nuestro hogar permanente. Esperamos nuestro hogar futuro, la ciudad celestial de Jerusalén (12:22).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "80e42d97e711"
+ },
+ "hcf:Cosmas Indicopleustes/Hebrews 13_14#0": {
+  "text_es": "Pues no tenemos aquí ciudad permanente, sino que buscamos la que ha de venir, es decir: buscamos aquella Jerusalén celestial siempre permanente y eterna, que es libre y madre de todos los fieles.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ae128757815d"
+ },
+ "hcf:John Chrysostom/Hebrews 13_14#0": {
+  "text_es": "«Salgamos, pues, a él fuera del campamento, llevando su oprobio», es decir, padeciendo las mismas cosas; teniendo comunión con él en sus padecimientos. Fue crucificado fuera como un condenado; no nos avergoncemos, pues, de «salir» del mundo. «Porque no tenemos aquí ciudad permanente» (dice) «sino que buscamos la que ha de venir».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0a1a5147d067"
+ },
+ "aquifer:13185": {
+  "text_es": "A causa de Jesús y de su obra decisiva y sacrificial por nosotros, los cristianos todavía tenemos sacrificios que ofrecer a Dios. Estos sacrificios son la alabanza y la obediencia. Cristo puso fin a los sacrificios del antiguo pacto cuando se entregó a sí mismo como el sacrificio final (Hebreos 7:27–28; 8:13; 9:11–14; 10:11–14). Ahora estos sacrificios espirituales son los que agradan a Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d3bb0dab8f03"
+ },
+ "aquifer:13186": {
+  "text_es": "⸢sacrificio de alabanza⸣: Esto probablemente se refiere a una ofrenda de paz (Levítico 7:11–14). La persona que traía la ofrenda necesitaba estar primero ritualmente limpia. Podemos ofrecer continuamente gracias a Dios porque Jesús nos ha limpiado para siempre. Al dar gracias a Jesús todo el tiempo, mostramos nuestra lealtad a su nombre.",
+  "lemas_es": [
+   "sacrificio de alabanza"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fd3d5f2e0f6c",
+  "lemas_rv1909": [
+   {
+    "lema": "sacrificio de alabanza",
+    "ref": "HEB.13.15"
+   }
+  ]
+ },
+ "hcf:Irenaeus/Hebrews 13_15#0": {
+  "text_es": "Los que han conocido las constituciones secundarias (es decir, bajo Cristo) de los apóstoles, saben que el Señor instituyó una nueva oblación en el nuevo pacto, conforme a [la declaración de] Malaquías el profeta. Pues «desde el nacimiento del sol hasta su ocaso mi nombre ha sido glorificado entre los gentiles, y en todo lugar se ofrece incienso a mi nombre, y un sacrificio puro»; como también declara Juan en el Apocalipsis: «El incienso son las oraciones de los santos». Luego, de nuevo, Pablo nos exhorta «a presentar nuestros cuerpos en sacrificio vivo, santo, agradable a Dios, que es vuestro culto racional». Y otra vez: «Ofrezcamos el sacrificio de alabanza, es decir, el fruto de los labios». Ahora bien, aquellas oblaciones no son según la ley, cuya escritura el Señor quitó de en medio cancelándola; sino que son según el Espíritu, pues debemos adorar a Dios «en espíritu y en verdad». Y por tanto la oblación de la Eucaristía no es carnal, sino espiritual; y en este respecto es pura. Pues hacemos oblación a Dios del pan y de la copa de bendición, dándole gracias porque ha mandado a la tierra producir estos frutos para nuestro sustento. Y luego, cuando hemos perfeccionado la oblación, invocamos al Espíritu Santo, para que muestre este sacrificio, tanto el pan como el cuerpo de Cristo, y la copa como la sangre de Cristo, a fin de que los que reciben estos antitipos obtengan remisión de pecados y vida eterna. Aquellos, pues, que realizan estas oblaciones en memoria del Señor, no concuerdan con las opiniones judías, sino que, realizando el servicio de manera espiritual, serán llamados hijos de la sabiduría.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c587dfd72504",
+  "corregido_por_juez": "Traduce mal 'both the bread the body..., and the cup the blood...' como 'tanto el pan como el cuerpo..., y la copa como la sangre...', separando el pan del cuerpo en vez de identificarlos."
+ },
+ "hcf:John Chrysostom/Hebrews 13_15#0": {
+  "text_es": "«Por él, pues, ofrezcamos continuamente a Dios sacrificio de alabanza, es decir, el fruto de los labios que dan gracias a su Nombre».\n\n«Por él», como por un Pontífice, según la carne. «Dando gracias» (dice) «a su Nombre». No pronunciemos nada blasfemo, nada precipitado, nada audaz, nada presuntuoso, nada desesperado. Esto es «con reverencia y temor piadoso» (c. xii. 28). Pues un alma en tribulaciones se vuelve desanimada e imprudente. Pero no seamos nosotros así. Ved aquí que de nuevo dice lo mismo que dijo antes: «no dejando de congregarnos», pues así podremos hacer todas las cosas con reverencia. Porque muchas veces, incluso por respeto a los hombres, nos abstenemos de hacer muchas cosas malas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ae23359fcfbe"
+ },
+ "hcf:John Chrysostom/Hebrews 13_15#1": {
+  "text_es": "Y «por él ofrezcamos a Dios un sacrificio». ¿De qué clase de sacrificio habla? «El fruto de labios que dan gracias a su Nombre». Ellos, los judíos, traían ovejas y becerros, y los entregaban al sacerdote; «nosotros» no traigamos nada de estas cosas, sino acción de gracias. Este «fruto» produzcan «nuestros labios».\n\n«Porque con tales sacrificios Dios se agrada». Ofrezcámosle tal sacrificio, para que él lo ofrezca al Padre. Pues de ninguna otra manera se ofrece sino por medio del Hijo, o más bien también por medio de una mente contrita. Todas estas cosas se dicen por causa de los débiles. Pues que las gracias pertenecen al Hijo es evidente: de lo contrario, ¿cómo es igual el honor? «Para que todos» (dice) «honren al Hijo como honran al Padre» (Juan v. 23). ¿En qué es igual el honor? «El fruto de nuestros labios que dan gracias a su Nombre».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "969997f0e75b"
+ },
+ "aquifer:13187": {
+  "text_es": "Hacer el bien y ayudar a los necesitados son sacrificios cristianos básicos (Hebreos 6:10; 10:24, 34; 13:1–3). Estas acciones definen la vida en la comunidad cristiana.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e8f7aeaa0b36"
+ },
+ "hcf:Augustine of Hippo/Hebrews 13_16#0": {
+  "text_es": "En las palabras de este profeta, estas dos cosas se distinguen y se exponen con suficiente claridad: que Dios no requiere estos sacrificios por sí mismos, y que sí requiere los sacrificios que ellos simbolizan. En la epístola titulada «A los Hebreos» se dice: «De hacer bien y de la comunicación no os olvidéis, porque de tales sacrificios se agrada Dios». Y así, cuando está escrito: «Misericordia quiero más que sacrificio», no se quiere decir otra cosa sino que un sacrificio se prefiere a otro; pues lo que en el lenguaje común se llama sacrificio es solo el símbolo del verdadero sacrificio. Ahora bien, la misericordia es el verdadero sacrificio, y por eso se dice, como acabo de citar: «de tales sacrificios se agrada Dios». Todas las ordenanzas divinas, por tanto, que leemos acerca de los sacrificios en el servicio del tabernáculo o del templo, debemos referirlas al amor de Dios y del prójimo. Pues «de estos dos mandamientos», como está escrito, «depende toda la ley y los profetas».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "953b283edc41"
+ },
+ "hcf:John Chrysostom/Hebrews 13_16#0": {
+  "text_es": "«Pero de hacer bien y de la comunicación no os olvidéis». No hablo solamente con referencia a los hermanos presentes, sino también a los ausentes. Pero si otros han saqueado vuestros bienes, mostrad vuestra hospitalidad con las cosas que tenéis. ¿Qué excusa tendremos entonces en adelante, cuando ellos, aun después del despojo de sus bienes, fueron así amonestados?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "87b1e9865b55"
+ },
+ "aquifer:13188": {
+  "text_es": "La relación entre los líderes espirituales de la iglesia y sus miembros podría haber sido tensa. El autor anima a los miembros a escuchar y confiar en sus líderes. La palabra griega para ⸢obedecer⸣ también puede significar ⸢seguir, depositar confianza en⸣ o ⸢dejarse persuadir por⸣. Los líderes cristianos cuidan de las almas de las personas (Hechos 20:28–31; 1 Pedro 5:1–4), lo cual es una responsabilidad seria. Los hace responsables ante Dios (Santiago 3:1). La palabra ⸢tristeza⸣ también podría significar ⸢gemido⸣. Se refiere a la carga y el estrés emocionales. Los líderes que están estresados y agobiados por una iglesia difícil son menos capaces de ayudar y guiar a la iglesia con eficacia.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e86033953dbd"
+ },
+ "hcf:Ignatius of Antioch/Hebrews 13_17#0": {
+  "text_es": "Estad sujetos al obispo como al Señor, pues «él vela por vuestras almas, como quien ha de dar cuenta a Dios». Por lo cual también me parece que vivís no según la manera de los hombres, sino según Jesucristo, que murió por nosotros, a fin de que, creyendo en su muerte, seáis hechos por el bautismo partícipes de su resurrección. Es necesario, por tanto, que en cualquier cosa que hagáis, no hagáis nada sin el obispo. Y estad sujetos también al presbiterio, como a los apóstoles de Jesucristo, que es nuestra esperanza, en quien, si vivimos, seremos hallados en él. Conviene también que de todas las maneras agradéis a los diáconos, que son [ministros] de los misterios de Cristo Jesús; pues no son ministros de comida y bebida, sino servidores de la Iglesia de Dios. Están obligados, por tanto, a evitar toda ocasión de acusación [contra ellos], como evitarían un fuego ardiente. Que se muestren, pues, tales como son.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cfd7a263ae75"
+ },
+ "hcf:John Chrysostom/Hebrews 13_17#0": {
+  "text_es": "La anarquía es un mal, y ocasión de muchas calamidades, y fuente de desorden y confusión. Pues así como, si quitas el director de un coro, el coro no estará en armonía ni en orden; y si de una falange de un ejército quitas el comandante, las evoluciones ya no se harán a tiempo y con orden; y si de una nave quitas el timonel, hundirás la nave; así también si de un rebaño quitas el pastor, has derribado y destruido todo.\n\nLa anarquía, pues, es un mal, y causa de ruina. Pero no menos mal es también la desobediencia a los gobernantes. Pues viene a parar en lo mismo. Porque un pueblo que no obedece a un gobernante es como uno que no tiene ninguno; y quizá peor aún. Pues en el primer caso al menos tienen excusa para el desorden, pero ya no en el segundo, sino que son castigados.\n\nPero quizá alguien dirá que hay también un tercer mal, cuando el gobernante es malo. Yo mismo también lo sé, y no es un mal pequeño, sino incluso un mal mucho peor que la anarquía. Porque es mejor no ser guiado por nadie, que ser guiado por uno que es malo. Pues los primeros ciertamente muchas veces se salvan, y muchas veces están en peligro, pero los segundos estarán del todo en peligro, siendo llevados al pozo de la destrucción.\n\n¿Cómo entonces dice Pablo: «Obedeced a vuestros pastores, y sujetaos a ellos»? Habiendo dicho antes: «cuya fe seguid, considerando el fin de su conversación» (c. ver. 7), dijo luego: «Obedeced a vuestros pastores, y sujetaos a ellos».\n\n¿Qué entonces (dices), cuando es malo, debemos obedecer?\n\n¿Malo? ¿En qué sentido? Si ciertamente en cuanto a la fe, huye y evítalo; no solo si es un hombre, sino incluso si es un ángel descendido del cielo; pero si en cuanto a la vida, no seas demasiado curioso. Y este ejemplo no lo aduzco de mi propia mente, sino de la Divina Escritura. Pues oye a Cristo diciendo: «Los escribas y los fariseos se sientan en la cátedra de Moisés» (Mat. xxiii. 2). Habiendo hablado antes muchas cosas temibles acerca de ellos, dice luego: «Se sientan en la cátedra de Moisés: todas las cosas pues que os dijeren, guardadlas, hacedlas; mas no hagáis según sus obras» (Mat. xxiii. 2, 3). Tienen (quiere decir) la dignidad del oficio, pero son de vida impura. Tú, sin embargo, atiende, no a su vida, sino a sus palabras. Pues en cuanto a sus caracteres, nadie sería dañado por ello. ¿Cómo es esto? Tanto porque sus caracteres son manifiestos a todos, como también porque aunque fuera diez mil veces tan malo, nunca enseñará lo que es malo. Pero en lo que respecta a la fe, el mal no es manifiesto a todos, y el gobernante malo no se abstendrá de enseñarla.\n\nAdemás, «No juzguéis, para que no seáis juzgados» (Mat. vii. 1) se refiere a la vida, no a la fe: ciertamente lo que sigue aclara esto. Pues «¿por qué» (dice) «miras la mota que está en el ojo de tu hermano, y no consideras la viga que está en tu propio ojo?» (Mat. vii. 3).\n\n«Todas las cosas pues» (dice) «que os dijeren que guardéis, hacedlas» (ahora bien, el «hacer» pertenece a las obras, no a la fe) «mas no hagáis según sus obras». ¿Ves que el discurso no es acerca de doctrinas, sino acerca de la vida y las obras?\n\nPablo, sin embargo, los elogió antes, y luego dice: «Obedeced a vuestros pastores, y sujetaos a ellos, porque ellos velan por vuestras almas, como quienes han de dar cuenta».\n\nOigan también los que gobiernan, y no solo los que están bajo su gobierno; que así como los súbditos deben ser obedientes, así también los gobernantes deben ser vigilantes y sobrios. ¿Qué dices? Él vela; él pone en peligro su propia cabeza; está sujeto a los castigos de tus pecados, y por tu causa es responsable de lo que es tan temible, ¿y tú eres perezoso, y afectadamente indiferente, y estás tranquilo? Por eso dice: «Que lo hagan con gozo, y no con gemido: porque esto no os es provechoso».\n\n¿Ves que el gobernante despreciado no debe vengarse, sino que su gran venganza es llorar y lamentarse? Pues tampoco le es posible al médico, despreciado por su paciente, vengarse, sino llorar y lamentarse. Pero si el gobernante se lamenta (quiere decir), Dios inflige venganza sobre ti. Pues si cuando nos lamentamos por nuestros propios pecados atraemos a Dios hacia nosotros, ¿no haremos mucho más esto, cuando nos lamentamos por la arrogancia y el desdén de otros? ¿Ves que no le permite ser llevado a reproches? ¿Ves cuán grande es su filosofía? Debe lamentarse quien es despreciado, pisoteado, escupido.\n\nNo te confíes porque él no se venga de ti, pues lamentarse es peor que cualquier venganza. Pues cuando por sí mismo no aprovecha nada con lamentarse, invoca al Señor; y como en el caso de un maestro y una nodriza, cuando el niño no le escucha, se llama a uno que lo tratará con más severidad, así también en este caso.\n\n¡Oh! ¡Cuán grande es el peligro! ¿Qué se debería decir a esos miserables, que se arrojan a tan gran abismo de castigos? Tienes que dar cuenta de todos sobre quienes gobiernas, mujeres y niños y hombres; en tan gran fuego pones tu cabeza. Me maravillo si alguno de los gobernantes puede salvarse, cuando ante tal amenaza, y ante la presente indiferencia, veo a algunos aún corriendo, y arrojándose sobre tan gran carga de autoridad.\n\nPues si los que son arrastrados por la fuerza no tienen refugio ni defensa, si cumplen mal su deber y son negligentes; ya que incluso Aarón fue arrastrado por la fuerza, y sin embargo estuvo en peligro; y Moisés de nuevo estuvo en peligro, aunque muchas veces había declinado; y Saúl, habiendo sido encargado de otro tipo de gobierno, después de haberlo declinado, estuvo en peligro, porque lo administró mal; cuánto más los que se toman tantas molestias para obtenerlo, y se arrojan sobre él? Tal persona mucho más se priva a sí misma de toda excusa. Pues los hombres deben temer y temblar, tanto por causa de la conciencia, como por causa de la carga del oficio; y ni cuando son arrastrados a él deben declinar de una vez por todas, ni, cuando no son arrastrados, arrojarse sobre él, sino que deben incluso huir, previendo la grandeza de la dignidad; y cuando han sido prendidos, deben de nuevo mostrar su temor de Dios. Que no haya nada desmedido. Si lo has percibido de antemano, retírate; convéncete de que eres indigno del oficio. De nuevo, si has sido prendido, de igual manera sé reverente, mostrando siempre rectitud de ánimo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1670f435292c"
+ },
+ "hcf:Shepherd of Hermas/Hebrews 13_17#0": {
+  "text_es": "Instruíos unos a otros, por tanto, y estad en paz entre vosotros, para que yo también, estando gozoso delante de vuestro Padre, pueda dar cuenta de todos vosotros a vuestro Señor.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "60a7451fb27b"
+ },
+ "aquifer:13189": {
+  "text_es": "⸢Orad por nosotros⸣: El autor pide oraciones para sí mismo usando el «plural de autor» (un recurso literario en el que el autor usa «nosotros» en lugar de «yo») (véase también 5:11; 6:9). ⸢tenemos buena conciencia⸣⸢:⸣ Compárese con 2 Corintios 1:11–12; 4:2.",
+  "lemas_es": [
+   "Orad por nosotros"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ef9fda023b43",
+  "lemas_rv1909": [
+   {
+    "lema": "Orad por nosotros",
+    "ref": "HEB.13.18"
+   }
+  ]
+ },
+ "hcf:John Chrysostom/Hebrews 13_18#0": {
+  "text_es": "«Orad por nosotros» (dice); «porque confiamos que tenemos buena conciencia entre todos, queriendo vivir honestamente.»\n\n¿Ves que usó estas disculpas, como escribiendo a personas afligidas con él, como a los que se apartaron, que estaban dispuestos como hacia un transgresor, que no soportaban ni oír su nombre? Así pues, en cuanto pidió de aquellos que lo odiaban lo que todos los demás piden de los que los aman (sus oraciones por él), por eso introduce aquí esto; diciendo: «Confiamos que tenemos buena conciencia». Pues no me hables de acusaciones; nuestra conciencia, dice, en nada nos daña; ni somos conscientes ante nosotros mismos de que hayamos tramado contra vosotros. «Porque confiamos», dice, «que tenemos buena conciencia entre todos», no solo entre los gentiles, sino también entre vosotros. Nada hemos hecho con engaño, nada con hipocresía; pues era probable que estas calumnias se difundieran respecto a él. «Porque han sido informados acerca de ti» (se dice) «que enseñas la apostasía». (Hechos xxi. 21.) No como enemigo, quiere decir, ni como adversario escribo estas cosas, sino como amigo. Y esto lo muestra también por lo que sigue.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c1ad00f3710c",
+  "corregido_por_juez": "Traduce «among all» como «en todas las cosas»; el inglés dice «entre todos», y la explicación siguiente («no solo entre los gentiles...») queda incoherente."
+ },
+ "hcf:John Chrysostom/Hebrews 13_19#0": {
+  "text_es": "«Pero os ruego con mayor insistencia que hagáis esto, para que yo os sea restituido más pronto». Su orar así era propio de uno que los amaba mucho, y no simplemente, sino con toda diligencia, para que así, dice, yo vaya a vosotros pronto. El ardiente deseo de ir a ellos es señal de uno que es consciente ante sí mismo de nada malo, y también el suplicarles que oren por él.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "46e034454455"
+ },
+ "aquifer:13191": {
+  "text_es": "Las bendiciones, o bendiciones finales, eran una parte importante de las cartas, discursos y sermones. El autor de Hebreos incluye muchos de los temas principales del libro en su bendición. La imagen de nuestro Señor Jesús como el gran Pastor de las ovejas (véase Salmo 23) muestra el cuidado y la protección de Dios para su pueblo (véase también Juan 10:11–18; 1 Pedro 2:25) y la conecta con un pacto eterno.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9bb0a4b47d28"
+ },
+ "hcf:John Chrysostom/Hebrews 13_20-21#0": {
+  "text_es": "Por tanto, después de haber pedido primero sus oraciones, él mismo ruega también por todos los bienes sobre ellos. «Y el Dios de paz», dice (no estéis, pues, en discordia unos con otros), «que volvió a traer de la tierra al Pastor de las ovejas» (esto se dice acerca de la resurrección), «el gran Pastor» (otra añadidura: aquí de nuevo les confirma hasta el fin su discurso acerca de la Resurrección), «mediante la sangre del pacto eterno, nuestro Señor Jesucristo», «os haga perfectos en toda obra buena, para hacer su voluntad, haciendo en vosotros lo que es agradable delante de él».\n\nDe nuevo les da un testimonio elevado. Pues se hace «perfecto» lo que, teniendo un comienzo, después se completa. Y ruega por ellos, lo cual es propio de quien los anhela. Y mientras en las otras Epístolas ora en los prefacios, aquí lo hace al final. «Haciendo en vosotros», dice, «lo que es agradable delante de él por Jesucristo, a quien sea la gloria por los siglos de los siglos. Amén».\n\n¿Ves cómo muestra que la virtud no nace ni enteramente de Dios, ni tampoco de nosotros solos? Primero, al decir: «os haga perfectos en toda obra buena»; tenéis virtud, en efecto, quiere decir, pero necesitáis ser completados. ¿Qué es «obra y palabra buena»? Tener rectos tanto la vida como las doctrinas. «Según su voluntad, haciendo en vosotros lo que es agradable delante de él».\n\n«Delante de él», dice. Pues esta es la virtud más alta: hacer lo que es agradable a los ojos de Dios, como también dice el Profeta: «Y conforme a la limpieza de mis manos delante de sus ojos». (Sal. xviii. 24.)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "24552f903853",
+  "corregido_por_juez": "El inglés dice «from the earth» (de la tierra); el español traduce «de entre los muertos», cambiando el sentido."
+ },
+ "aquifer:13192": {
+  "text_es": "Esta breve exhortación probablemente muestra que Hebreos era un sermón (compárese con el mismo término en Hechos 13:14–15, traducido como «exhortación»).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c34ee4ce48d7"
+ },
+ "hcf:John Chrysostom/Hebrews 13_22#0": {
+  "text_es": "«Y os ruego, hermanos, que soportéis la palabra de exhortación, pues ciertamente os he escrito una carta en pocas palabras». ¿Ves que lo que no escribió a ningún otro, lo escribe a ellos? Pues (quiere decir) ni siquiera os molesto con un discurso largo.\n\nY habiendo escrito tanto, dijo que esto era poco, en comparación con lo que iba a decir. Como dice también en otro lugar: «Como os escribí en pocas palabras: por lo cual, leyendo, podéis entender mi conocimiento en el misterio de Cristo». (Ef. iii. 3, 4.)\n\nY observa su sabiduría. No dice: «Os ruego, soportad la palabra de» amonestación, sino «la palabra de exhortación», es decir, de consolación, de ánimo. Nadie, quiere decir, puede cansarse por la longitud de lo dicho (¿Hizo esto entonces que se apartaran de él? De ningún modo: no desea en verdad expresar esto): esto es, aunque seáis de poco ánimo, pues es propio de tales personas no soportar un discurso largo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "08128c461936"
+ },
+ "aquifer:13193": {
+  "text_es": "Este Timoteo podría haber viajado con Pablo (véase el «Perfil de Timoteo»). Si ese es el caso, el Nuevo Testamento no menciona su encarcelamiento. Claramente conoce tanto al autor como a los destinatarios de esta carta.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "831411389d11"
+ },
+ "hcf:John Chrysostom/Hebrews 13_23#0": {
+  "text_es": "Supongo que no estaban en absoluto mal dispuestos hacia Timoteo: por lo cual también lo puso por delante. Pues «sabed», dice, «que nuestro hermano Timoteo ha sido puesto en libertad, con quien, si viene pronto, os veré». «Puesto en libertad», dice; ¿de dónde? Supongo que había sido arrojado a la cárcel; o si no esto, que fue enviado lejos de Atenas. Pues esto también se menciona en los Hechos.\n\n«Sabed que nuestro hermano Timoteo ha sido puesto en libertad, con quien si viene pronto os veré». Esto es suficiente para persuadirlos de someterse, si está dispuesto a venir con su discípulo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "de39e2e0e4ab"
+ },
+ "aquifer:13194": {
+  "text_es": "El libro termina con un saludo formal y una bendición. ⸢Los de Italia:⸣ Es probable que el autor escriba de vuelta a Roma desde otro lugar del mundo mediterráneo. Algunos eruditos, sin embargo, piensan que el autor podría haber estado escribiendo desde la misma Roma.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8d114a4a03ed"
+ },
+ "hcf:John Chrysostom/Hebrews 13_24-25#0": {
+  "text_es": "«Saludad a todos los que os gobiernan, y a todos los santos. Los de Italia os saludan. La gracia sea con todos vosotros. Amén».\n\n«Saludad a los que os gobiernan, y a todos los santos». Mira cómo los honró, puesto que escribió a ellos en lugar de a aquellos (sus gobernantes).\n\n«Los de Italia os saludan. La gracia sea con todos vosotros. Amén». Lo cual era para todos ellos en común.\n\nPero ¿cómo llega «la gracia» a estar «con» nosotros? Si no despreciamos el beneficio, si no nos volvemos indolentes respecto al Don. ¿Y qué es «la gracia»? Remisión de pecados, Purificación: esto está «con» nosotros. Pues ¿quién (quiere decir) puede retener la Gracia con desprecio, y no destruirla? Por ejemplo: Él te perdonó gratuitamente tus pecados. ¿Cómo entonces estará «la gracia con» ti, ya sea el buen favor o la obra eficaz del Espíritu? Si la atraes a ti con buenas obras. Pues la causa de todos los bienes es esta: la permanencia continua con nosotros de «la gracia» del Espíritu. Pues esta nos guía a todos los bienes, así como cuando huye de nosotros, nos arruina y nos deja desolados.\n\nNo la echemos, pues, de nosotros. Pues de nosotros mismos depende tanto su permanencia como su partida. Pues lo uno resulta cuando pensamos en las cosas celestiales; lo otro, cuando pensamos en las cosas de esta vida. «El cual el mundo» (dice) «no puede recibir porque no le ve, ni le conoce». (Juan xiv. 17.) ¿Ves que un alma mundana no puede tenerlo? Necesitamos gran diligencia para que allí sea retenido por nosotros, de modo que dirija todos nuestros asuntos y los haga con seguridad y en mucha paz.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ed7c861bac3e"
+ }
+}

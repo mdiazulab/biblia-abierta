@@ -91,9 +91,25 @@ Hebreos (06-10-2026, pedido del usuario: patrística + contexto, «los Padres ta
   31 casos en Juan corregidos; circunflejos («Melchîsedec», «Sichâr»), tildes de hiato («oír», «creíste»);
   errata de la fuente en Hebreos 12:2 («en al autor» -> «en el autor»).
 
+Hebreos completo (06-10-2026, tres corridas en el espejo): 795 notas traducidas; juez deepseek-reasoner en los
+13 capítulos (gemini-3.6-flash sin cupo con la clave nueva), sensibilidad 229/229; cola resuelta con evidencia
+(`revision/adjudicaciones_HEB.json` con «reemplazos», `revision/aceptados_HEB.json`); compuerta del libro:
+pendientes 0, extremo superior 0,48 % -> APROBADO. Verificación 13/13 (Juan 21/21). EPUB 276 KB, epubcheck 0/0/0.
+Clases encontradas y corregidas en los dos libros (cada una con prueba):
+- un JSON mal formado descartaba el modelo para toda la corrida (cortó la traducción en el cap. 8);
+- lotes sin veredicto: no rompen el capítulo y las notas sin juzgar impiden aprobar;
+- lemas en inglés dentro de cursivas (regla del prompt + control);
+- adjudicaciones por reemplazo (sobreviven a retraducciones) y aviso cuando dejan de aplicarse: el corrector
+  del juez re-tradujo 5 notas ya adjudicadas y el aviso lo detectó;
+- comillas rectas -> españolas «…» / “…” (2.588 en los dos libros; huellas del juez actualizadas);
+- títulos de obras en español; párrafos repetidos por HCF en versículos vecinos (44 quitados al armar el EPUB,
+  informe en `informes/repeticiones_<LIBRO>.md`);
+- citas: romanos de la edición inglesa, libros de un capítulo («Judas 19» = 1:19), «Hageo», capítulo entero en
+  listas con «;», «En 11:35» no es libro; tildes «constituído», errata de Hebreos 12:2.
+
 Pendiente:
-1. Corrida «HEB todos» en el espejo; resolver cola y verificación; EPUB de Hebreos al usuario.
-2. Capa «Reforma» (Calvino, Wesley) desde fuentes de dominio público en CI.
+1. Capa «Reforma» (Calvino, Wesley) desde fuentes de dominio público en CI.
+2. Gemini: la clave nueva no tiene cupo para gemini-3.6-flash (429); el juez usa deepseek-reasoner.
 
 Decisiones del usuario: acentos modernizados (a); repo propio `biblia-abierta` (b); misma licencia
 CC BY-SA 4.0, gratuito, sin venta; objetivo: patrística y referencias de alto nivel.

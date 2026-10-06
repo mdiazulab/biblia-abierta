@@ -1,0 +1,241 @@
+{
+ "aquifer:13265": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "2e2e2dd84db4"
+ },
+ "aquifer:13258": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "d20bccf271d6"
+ },
+ "aquifer:13266": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "443d2a11e4ab"
+ },
+ "aquifer:13267": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "375ada207fce"
+ },
+ "aquifer:13268": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "02127eb0ca4a"
+ },
+ "aquifer:13269": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "c74dfd43cced"
+ },
+ "aquifer:13271": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "dc09e9f3a152"
+ },
+ "aquifer:13270": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "4ba7ad668c0f"
+ },
+ "aquifer:13272": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "f4c011e95104"
+ },
+ "aquifer:13273": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a0215398f272"
+ },
+ "aquifer:13259": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "1a0b20a0187e"
+ },
+ "aquifer:13262": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "f524c0fa319c"
+ },
+ "aquifer:13261": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "ead0bd02500f"
+ },
+ "aquifer:13260": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b3aba0039ac6"
+ },
+ "aquifer:13263": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a9b990af6f54"
+ },
+ "aquifer:13264": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "2e58233ce9fa"
+ },
+ "hcf:Apostolic Constitutions/Hebrews 5_4#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "1e01bc41e512"
+ },
+ "hcf:Clement of Alexandria/Hebrews 5_12#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "cb9a4695fbb1"
+ },
+ "hcf:Clement of Alexandria/Hebrews 5_13#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "9aca3b93b6b8"
+ },
+ "hcf:Cosmas Indicopleustes/Hebrews 5_5-6#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "738d54cc9239"
+ },
+ "hcf:Ignatius of Antioch/Hebrews 5_1#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e976ceb0d334"
+ },
+ "hcf:John Chrysostom/Hebrews 5_1-3#0": {
+  "ok": false,
+  "motivo": "En la cita de Hebreos 5:1, el inglés dice 'for the people' pero el español traduce 'por los pecados'.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "4630d17bcf57"
+ },
+ "hcf:John Chrysostom/Hebrews 5_11#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "1ae798f745c2"
+ },
+ "hcf:John Chrysostom/Hebrews 5_12#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "4dd5adbdef20"
+ },
+ "hcf:John Chrysostom/Hebrews 5_13#0": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "5d4a6c805902"
+ },
+ "hcf:John Chrysostom/Hebrews 5_14#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "653ecef959aa"
+ },
+ "hcf:John Chrysostom/Hebrews 5_4#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "42f960f764db"
+ },
+ "hcf:John Chrysostom/Hebrews 5_5#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "06b7f38c560f"
+ },
+ "hcf:John Chrysostom/Hebrews 5_6#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "919a1d4128d9"
+ },
+ "hcf:John Chrysostom/Hebrews 5_7#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "0ae652aae785"
+ },
+ "hcf:John Chrysostom/Hebrews 5_8#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "f202d4a786a6"
+ },
+ "hcf:John Chrysostom/Hebrews 5_9-10#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "2ccfea343341"
+ },
+ "hcf:Lucius Caecilius Firmianus Lactantius/Hebrews 5_14#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "6ade7779c00e"
+ },
+ "hcf:Shepherd of Hermas/Hebrews 5_14#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "de0996af4920"
+ },
+ "hcf:Tertullian/Hebrews 5_10#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "1bfb779d349f"
+ },
+ "hcf:Tertullian/Hebrews 5_11#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "fa0a63ab0a63"
+ },
+ "hcf:Tertullian/Hebrews 5_5#0": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "f40d8aefaaa6"
+ },
+ "hcf:Tertullian/Hebrews 5_7#0": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a57490a5bbd3"
+ },
+ "hcf:Tertullian/Hebrews 5_8#0": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "aede61e790ae"
+ },
+ "_calibracion": {
+  "detect": 15,
+  "total": 15,
+  "modelo": "deepseek:deepseek-reasoner"
+ }
+}

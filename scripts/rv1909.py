@@ -50,6 +50,8 @@ def errata(ref, t):
 def _sin_tilde(w):
     if any(ch in w for ch in "âêîôûÂÊÎÔÛ"):
         return w.translate(CIRCUNFLEJO)
+    if re.search(r"uíd[oa]s?$", w):                       # «constituído», «restituído»: hiato ui sin tilde (RAE)
+        return w.replace("uíd", "uid")
     if w in DEMOSTRATIVOS or w[:1].lower() + w[1:] in DEMOSTRATIVOS:
         n = DEMOSTRATIVOS[w[:1].lower() + w[1:]]
         return n[:1].upper() + n[1:] if w[:1].isupper() else n

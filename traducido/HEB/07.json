@@ -1,0 +1,402 @@
+{
+ "aquifer:13294": {
+  "text_es": "Esta sección proclama la superioridad del sacerdocio de Melchisedec sobre el de los levitas, basándose principalmente en Génesis 14:17–20.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "06af10ce2b73"
+ },
+ "aquifer:13295": {
+  "text_es": "Hebreos amplía la idea de 5:1–10: Jesús es escogido como pontífice semejante a Melchisedec.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8f2309a8dad8",
+  "text_es_2": "Hebreos amplía la idea de 5:1–10: Jesús es escogido como Pontífice semejante a Melchisedec.",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "aquifer:13304": {
+  "text_es": "⸢rey de Salem⸣: Véase Génesis 14:18 y la nota de estudio relacionada. ⸢y sacerdote del Dios Altísimo⸣: Melchisedec era a la vez rey y sacerdote, a diferencia de los reyes hebreos. Este papel prefiguraba al Mesías. ⸢volviendo de la matanza de los reyes⸣: Véase Génesis 14:1–17.",
+  "lemas_es": [
+   "rey de Salem"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "307327d8564c",
+  "lemas_rv1909": [
+   {
+    "lema": "rey de Salem",
+    "ref": "HEB.7.1"
+   }
+  ]
+ },
+ "hcf:Augustine of Hippo/Hebrews 7_1#0": {
+  "text_es": "Al recibir esta promesa, Abraham siguió adelante y se estableció en otro lugar de la misma tierra, Hebrón, cerca del encinar de Mamre.… Pero recibió al mismo tiempo una bendición pública de Melchisedec, que era «sacerdote del Dios Altísimo». Muchas cosas importantes se escriben sobre Melchisedec en la epístola titulada «A los Hebreos», que la mayoría atribuye al apóstol Pablo, aunque muchos niegan la atribución. Aquí vemos ciertamente la primera manifestación del sacrificio que ahora ofrecen a Dios los cristianos en todo el mundo, en el cual se cumple lo que se dijo en profecía, mucho después de este acontecimiento, a Cristo, que aún había de venir en la carne: «tú eres sacerdote para siempre, según el orden de Melchisedec». No, se observa, en la línea de Aarón, pues esa línea había de ser abolida cuando los acontecimientos prefigurados por estas sombras salieran a la luz del día.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "29c83b03bf9a"
+ },
+ "hcf:John Chrysostom/Hebrews 7_1#0": {
+  "text_es": "Pablo, queriendo mostrar la diferencia entre el Nuevo y el Antiguo Pacto, la disemina por todas partes; y dispara desde lejos, y la pregona, y prepara de antemano. Pues ya desde la introducción estableció esta afirmación: que «a ellos ciertamente les habló por los profetas, pero a nosotros por el Hijo», y a ellos «en muchas ocasiones y de muchas maneras», pero a nosotros por el Hijo. Después, habiendo disertado acerca del Hijo, quién era y qué había obrado, y dado una exhortación a obedecerle, para que no padeciéramos las mismas cosas que los judíos; y habiendo dicho que Él es «Pontífice según el orden de Melchisedec», y habiendo deseado muchas veces entrar en el tema de esta diferencia, y habiendo empleado mucha preparación; y habiéndolos reprendido como débiles, y de nuevo calmado y restaurado a la confianza; entonces por fin introduce la discusión sobre la diferencia de las dos dispensaciones a oídos en pleno vigor. Pues el que está abatido de espíritu no sería un oyente dispuesto. Y para que entiendas esto, oye lo que dice la Escritura: «No escucharon a Moisés por la angustia de espíritu». Por tanto, habiendo disipado primero su desánimo con muchas consideraciones, unas temibles, otras más suaves, entonces desde este punto entra en la discusión de la diferencia de las dispensaciones.\n\nY ¿qué dice? «Porque este Melchisedec, Rey de Salem, Sacerdote del Dios Altísimo». Y, lo que es especialmente digno de notar, muestra que la diferencia es grande por el Tipo mismo. Pues, como dije, confirma continuamente la verdad a partir del Tipo, a partir de cosas pasadas, a causa de la debilidad de los oyentes. «Porque» (dice) «este Melchisedec, Rey de Salem, Sacerdote del Dios Altísimo, que salió al encuentro de Abraham cuando volvía de la matanza de los Reyes, y le bendijo, a quien también Abraham dio el diezmo de todo». Habiendo expuesto concisamente toda la narración, la contempló místicamente.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a8e24e1f2993"
+ },
+ "hcf:Tertullian/Hebrews 7_1#1": {
+  "text_es": "Pues hasta tal grado, dice, es él mejor que Cristo, que es a0pa/twr (sin padre), a0mh/twr (sin madre), a0genealoghtoj (sin genealogía), de quien ni el principio ni el fin ha sido comprendido, ni puede ser comprendido.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9ed393502c4f"
+ },
+ "aquifer:13311": {
+  "text_es": "Abraham dio un décimo al Señor al dárselo a Melchisedec, su sacerdote. Este acto prefigura la entrega de los diezmos bajo la ley (Levítico 27:30, 32) y es importante en el argumento del autor (Hebreos 7:4). Melchi- (hebreo ⸢melek⸣) significa rey. -zedek (hebreo ⸢tsedeq⸣) significa justicia o rectitud. Salem (hebreo ⸢shalom⸣) significa paz. Los rabinos a menudo destacaban el significado teológico del nombre de un personaje bíblico vinculándolo con otros términos hebreos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4323bc49fb65"
+ },
+ "hcf:Clement of Alexandria/Hebrews 7_2#1": {
+  "text_es": "Pues Salem es, por interpretación, paz; de la cual nuestro Salvador está inscrito como Rey, como dice Moisés: Melchisedec rey de Salem, sacerdote del Dios Altísimo, que dio pan y vino, suministrando alimento consagrado para un tipo de la Eucaristía. Y Melchisedec se interpreta «rey justo»; y el nombre es sinónimo de justicia y paz.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fdcfd2b38e7b"
+ },
+ "hcf:John Chrysostom/Hebrews 7_2#0": {
+  "text_es": "Y primero por el nombre. «Primero» (dice) «siendo por interpretación Rey de justicia»: pues Sedec significa «justicia»; y Melchi, «Rey»: Melchisedec, «Rey de justicia». ¿Ves su exactitud incluso en los nombres? Pero ¿quién es «Rey de justicia», sino nuestro Señor Jesucristo? «Rey de justicia. Y después también Rey de Salem», por su ciudad, «esto es, Rey de Paz», lo cual de nuevo es característico de Cristo. Pues Él nos ha hecho justos, y ha «hecho la paz» para «las cosas en el cielo y las cosas en la tierra». ¿Qué hombre es «Rey de Justicia y de Paz»? Ninguno, sino solo nuestro Señor Jesucristo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "02df14f65578"
+ },
+ "aquifer:13312": {
+  "text_es": "No tenemos registro de la familia de Melchisedec, lo cual es importante porque el sacerdocio levítico requería ascendencia. Parece aparecer de la nada, como si su vida no tuviera principio ni fin. El autor interpreta Génesis 14:17–20 con el Salmo 110:4, viendo a Melchisedec como símbolo de un sacerdocio eterno. Permanece sacerdote para siempre, a diferencia de un levita cuyo sacerdocio termina con la muerte (Hebreos 7:8, 23). ⸢semejante al Hijo de Dios⸣: Melchisedec no fue una aparición de Jesús en el Antiguo Testamento. Más bien, su sacerdocio y el sacerdocio de Jesús comparten rasgos similares, como se señala en el Salmo 110:4.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9cae70bff2fe"
+ },
+ "hcf:John Chrysostom/Hebrews 7_3#0": {
+  "text_es": "Añade luego otra distinción: «Sin padre, sin madre, sin genealogía, sin tener principio de días ni fin de vida, sino hecho semejante al Hijo de Dios, permanece sacerdote continuamente». Puesto que, entonces, se le presentaba como objeción las palabras «Tú eres sacerdote para siempre, según el orden de Melchisedec», mientras que Melchisedec estaba muerto y no era «sacerdote para siempre», mira cómo lo explicó místicamente.\n\n«¿Y quién puede decir esto acerca de un hombre?». No afirmo esto de hecho (dice); el sentido es: no sabemos cuándo ni qué padre tuvo, ni qué madre, ni cuándo recibió su principio, ni cuándo murió. ¿Y qué hay de esto? (dice uno). ¿Acaso se sigue, porque no lo sabemos, que no murió, o que no tuvo padres? Dices bien: tanto murió como tuvo padres. ¿Cómo entonces era «sin padre, sin madre»? ¿Cómo «sin tener principio de días ni fin de vida»? ¿Cómo? Pues por no estar expresado. ¿Y qué hay de esto? Que así como este hombre es tal por no darse su genealogía, así es Cristo por la misma naturaleza de la realidad.\n\nMira el «sin principio»; mira el «sin fin». Como en el caso de este hombre, no conocemos ni el «principio de días» ni el «fin de vida», porque no han sido escritos; así no los conocemos en el caso de Jesús, no porque no hayan sido escritos, sino porque no existen. Pues aquello es en verdad un tipo, y por eso decimos «porque no está escrito», pero esto es la realidad, y por eso decimos «porque no existe». Pues como también en cuanto a los nombres (pues allí «Rey de Justicia» y «de Paz» son apelativos, pero aquí la realidad), así también estos son apelativos en aquel caso, en este la realidad. ¿Cómo entonces tiene Él un principio? Ves que el Hijo es «sin principio», no en cuanto a no tener causa (pues esto es imposible: pues tiene un Padre, de lo contrario ¿cómo es Hijo?), sino en cuanto a «no tener principio ni fin de vida».\n\n«Pero hecho semejante al Hijo de Dios». ¿Dónde está la semejanza? Que no sabemos del uno ni del otro ni el fin ni el principio. Del uno porque no están escritos; del otro, porque no existen. Aquí está la semejanza. Pero si la semejanza existiera en todos los aspectos, ya no habría tipo y realidad; sino que ambos serían tipo. Aquí, entonces, igual que en las representaciones por pintura o dibujo, hay algo que es semejante y algo que es desemejante. Mediante las líneas hay ciertamente una semejanza de rasgos, pero cuando se aplican los colores, entonces se muestra claramente la diferencia, tanto la semejanza como la desemejanza.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "db53ea0bb363"
+ },
+ "hcf:Lucius Caecilius Firmianus Lactantius/Hebrews 7_3#0": {
+  "text_es": "Por tanto, el Dios Altísimo y Padre de todos, cuando se propuso transferir su religión, envió desde el cielo un maestro de justicia, para que en Él o por Él diera una nueva ley a nuevos adoradores; no como lo había hecho antes, por medio de un hombre. Sin embargo, fue su voluntad que naciera como hombre, para que en todas las cosas fuera semejante a su Padre supremo. Pues Dios Padre mismo, que es el origen y la fuente de todas las cosas, en cuanto que está sin padres, es llamado con toda verdad por Trismegisto «sin padre» y «sin madre», porque no nació de nadie. Por lo cual era conveniente que el Hijo también naciera dos veces, para que también Él llegara a ser «sin padre» y «sin madre». Pues en su primer nacimiento, que fue espiritual, fue «sin madre», porque fue engendrado por Dios Padre solo, sin la función de una madre. Pero en su segundo, que fue en la carne, nació del vientre de una virgen sin la función de un padre, para que, llevando una sustancia intermedia entre Dios y el hombre, pudiera, por así decirlo, tomar de la mano esta naturaleza nuestra frágil y débil, y elevarla a la inmortalidad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a309ef34f417"
+ },
+ "hcf:Tertullian/Hebrews 7_3#0": {
+  "text_es": "El hereje Teodoto … dice que el Cristo humano fue concebido y nacido del Espíritu Santo y de la virgen María, pero que era inferior a Melchisedec porque de Cristo se dice: «Tú eres sacerdote para siempre según el orden de Melchisedec». Pues este Melchisedec, dice, por gracia especial es un poder celestial, y lo que Cristo hace por los seres humanos, habiéndose hecho su intercesor y abogado, Melchisedec lo hace por los ángeles y poderes celestiales. Pues hasta tal grado, dice, es él mejor que Cristo, que es sin padre, sin madre, sin genealogía, de quien ni el principio ni el fin ha sido comprendido, ni puede ser comprendido.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a9ed3c9b608a"
+ },
+ "aquifer:13313": {
+  "text_es": "Esta sección (Hebreos 7:1–10) nos invita a pensar en cuán importante era Melchisedec comparándolo con los descendientes de Leví. Melchisedec era tan significativo que Abraham le dio un décimo del botín de guerra (Génesis 14:20).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "56a36e878304"
+ },
+ "hcf:John Chrysostom/Hebrews 7_4#0": {
+  "text_es": "«Considerad» (dice) «cuán grande es este hombre, a quien incluso el patriarca Abraham dio el diezmo de los despojos». Hasta este punto ha estado aplicando el tipo: en adelante muestra con audacia que Melchisedec es más glorioso que las realidades judías. Pero si el que lleva un tipo de Cristo es tanto mejor no solo que los sacerdotes, sino incluso que el propio antepasado de los sacerdotes, ¿qué se diría de la realidad? Ves cuán sobreabundantemente muestra la superioridad.\n\n«Considerad» (dice) «cuán grande es este hombre, a quien incluso el patriarca Abraham dio un décimo de las porciones escogidas». Los despojos tomados en batalla se llaman «porciones escogidas». Y no se puede decir que se las dio como teniendo parte en la guerra, porque (dice) le salió al encuentro «volviendo de la matanza de los reyes», pues se había quedado en casa (quiere decir), y sin embargo Abraham le dio las primicias de sus trabajos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "106d2d19264f"
+ },
+ "aquifer:13314": {
+  "text_es": "Recoger el diezmo era tanto un deber como un honor para los sacerdotes bajo la ley de Moisés (Números 18:21–32). ⸢del pueblo⸣: Esto se refiere a todo el pueblo de Israel. Aunque Melchisedec no era descendiente de Leví⸢,⸣ recogió un décimo de Abraham⸢,⸣ el antepasado de los levitas. Esto muestra la mayor posición de Melchisedec sobre Abraham y sus descendientes, incluidos los sacerdotes (Hebreos 7:8–10).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c800391b1570"
+ },
+ "hcf:John Chrysostom/Hebrews 7_5#0": {
+  "text_es": "«Y ciertamente los que de los hijos de Leví toman el oficio de sacerdocio, tienen mandamiento de tomar del pueblo los diezmos según la ley, es decir, de sus hermanos, aunque estos también hayan salido de los lomos de Abraham». Tan grande (quiere decir) es la superioridad del sacerdocio, que los que por sus antepasados son de la misma dignidad, y tienen el mismo antepasado, son sin embargo mucho mejores que los demás. En todo caso, «toman los diezmos» de ellos. Cuando, pues, se encuentra uno que toma los diezmos de estos mismos, ¿no están ellos ciertamente en el rango de los laicos, y él entre los sacerdotes?\n\nY no solo esto; sino que tampoco era de la misma dignidad que ellos, sino de otra raza: de modo que no habría dado diezmos a un extraño a menos que su dignidad hubiera sido grande. ¡Asombroso! ¿Qué ha logrado? Ha dejado bastante claro un punto mayor que los relacionados con la fe que trató en la Epístola a los Romanos. Pues allí ciertamente declara que Abraham es el antepasado tanto de nuestra constitución como de la judía. Pero aquí es muy audaz contra él, y muestra que el incircunciso es muy superior. ¿Cómo, entonces, mostró que Leví pagó diezmos? Abraham (dice) los pagó. «¿Y cómo nos concierne esto?» A vosotros os concierne especialmente: pues no contendréis que los levitas son superiores a Abraham.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b35af134f154"
+ },
+ "aquifer:13315": {
+  "text_es": "Melchisedec bendijo a Abraham (Génesis 14:19–20). Esta bendición es como la que un superior da a un subordinado, como un padre que bendice a su hijo o un sacerdote que bendice a su pueblo (Génesis 49:1–28; Números 6:22–27). La capacidad de dar una bendición muestra que Melchisedec es mayor que Abraham.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9ae441f3a7af"
+ },
+ "hcf:John Chrysostom/Hebrews 7_6#0": {
+  "text_es": "«Pero aquel cuya genealogía no es contada de ellos, recibió diezmos de Abraham». Y después de eso no pasó simplemente de largo, sino que añadió: «y bendijo al que tenía las promesas». Por cuanto en todo esto se veía reverencia, muestra que Melchisedec debía ser reverenciado más que Abraham, según el juicio común de todos los hombres.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ade77add2fbf"
+ },
+ "hcf:John Chrysostom/Hebrews 7_7#0": {
+  "text_es": "Y después de eso no pasó simplemente de largo, sino que añadió: «y bendijo al que tenía las promesas». Por cuanto en todo esto se veía reverencia, muestra que Melchisedec debía ser reverenciado más que Abraham, según el juicio común de todos los hombres. «Y sin contradicción alguna», dice, «el menor es bendecido del mayor», es decir, en la opinión de todos los hombres es el inferior el que es bendecido por el superior. Así pues, el tipo de Cristo es superior incluso a «aquel que tenía las promesas».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "df904fe50c81"
+ },
+ "aquifer:13316": {
+  "text_es": "Una razón por la que Melchisedec es mayor que los levitas es su «inmortalidad» (7:3). Los levitas eran hombres que morían, pero la Escritura dice que Melchisedec continúa viviendo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "51177f9afc59"
+ },
+ "hcf:John Chrysostom/Hebrews 7_8#0": {
+  "text_es": "«Y aquí ciertamente los hombres mortales toman los diezmos: mas allí, aquel del cual está dado testimonio que vive». Pero para que no digamos: Dinos, ¿por qué te remontas tan atrás? Dice: «Y, por decirlo así» (y obró bien al suavizarlo) «también Leví, que recibe los diezmos, pagó diezmos en Abraham». ¿Cómo? «Porque aún estaba en los lomos de su padre cuando Melchisedec le salió al encuentro», es decir, Leví estaba en él, aunque aún no había nacido. Y no dijo los levitas, sino Leví.\n\n¿Has visto la superioridad? ¿Has visto cuán grande es el intervalo entre Abraham y Melchisedec, que lleva el tipo de nuestro Pontífice? Y muestra que la superioridad había sido causada por autoridad, no por necesidad. Pues el uno pagó el diezmo, lo que indica al sacerdote: el otro dio la bendición, lo que indica al superior. Esta superioridad pasa también a los descendientes.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b1463565e033"
+ },
+ "aquifer:13317": {
+  "text_es": "⸢Y por decirlo así⸣: El autor sabe que decir que los levitas pagaron un diezmo a Melchisedec no es literalmente cierto, ya que Leví aún no había nacido. Abraham representó a todos sus descendientes cuando pagó su diezmo a Melchisedec. Leví estaba conectado con Abraham porque provenía del linaje de Abraham. Todos los descendientes de Abraham estaban unidos con él. Así, su acción podía ser vista como la acción de ellos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "76fdc5af43af"
+ },
+ "hcf:John Chrysostom/Hebrews 7_9-10#0": {
+  "text_es": "¿Cómo? «Porque aún estaba en los lomos de su padre cuando Melchisedec le salió al encuentro», es decir, Leví estaba en él, aunque aún no había nacido. Y no dijo los levitas, sino Leví.\n\n¿Has visto la superioridad? ¿Has visto cuán grande es el intervalo entre Abraham y Melchisedec, que lleva el tipo de nuestro Pontífice? Y muestra que la superioridad había sido causada por autoridad, no por necesidad. Pues el uno pagó el diezmo, lo que indica al sacerdote: el otro dio la bendición, lo que indica al superior. Esta superioridad pasa también a los descendientes.\n\nDe una manera maravillosa y triunfal desechó el sistema judío. Por esta razón dijo: «Os habéis hecho tardos», porque deseaba poner estos fundamentos, para que no se apartaran. Tal es la sabiduría de Pablo: primero preparándolos bien, así los conduce a lo que desea. Pues el género humano es difícil de persuadir, y necesita mucha atención, incluso más que las plantas. Ya que en aquel caso solo está la naturaleza de los cuerpos materiales, y la tierra, que cede a las manos de los labradores: pero en este hay voluntad, que es susceptible de muchas alteraciones, y ahora prefiere esto, ahora aquello. Pues rápidamente se vuelve al mal.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "78a1ff4042cf"
+ },
+ "aquifer:13296": {
+  "text_es": "Después de explicar por qué Melchisedec es mayor que los levitas (Hebreos 7:1–10), el autor ahora argumenta que Jesús, nuestro pontífice como Melchisedec, es también mayor que los sacerdotes levíticos del antiguo pacto.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5e302ed8f26c",
+  "text_es_2": "Después de explicar por qué Melchisedec es mayor que los levitas (Hebreos 7:1–10), el autor ahora argumenta que Jesús, nuestro Pontífice semejante a Melchisedec, también es mayor que los sacerdotes levíticos del antiguo pacto.",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "aquifer:13297": {
+  "text_es": "En la Carta a los Hebreos, perfección significa ⸢alcanzar una meta deseada⸣ más que ser ⸢sin defecto⸣ (véase la nota de estudio sobre 5:9). El sacerdocio bajo el antiguo pacto no podía cumplir todas las intenciones de Dios para una relación de pacto con su pueblo. Por esto Dios necesitó crear un sacerdocio diferente.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a0b1b0618e6e"
+ },
+ "hcf:John Chrysostom/Hebrews 7_11#0": {
+  "text_es": "«Si, pues» (dice) «la perfección fuera por el sacerdocio levítico». Habiendo hablado acerca de Melchisedec, y mostrado cuánto más superior era a Abraham, y habiendo expuesto la gran diferencia entre ellos, comienza desde este punto en adelante a probar la amplia diferencia en cuanto al pacto mismo, y cómo el uno es imperfecto y el otro perfecto. Sin embargo, ni siquiera ahora entra en los asuntos mismos, sino que primero contiende sobre la base del sacerdocio y el tabernáculo. Pues estas cosas serían más fácilmente recibidas por los incrédulos, cuando la prueba se derivaba de cosas ya admitidas y creídas.\n\nHabía mostrado que Melchisedec era muy superior tanto a Leví como a Abraham, estando para con ellos en el rango de los sacerdotes. De nuevo argumenta desde un punto diferente. ¿Cuál es entonces este? ¿Por qué (dice) no dijo: «según el orden de Aarón»? Y observad, os ruego, la gran superioridad de su argumento. Pues de la misma circunstancia que naturalmente excluía su sacerdocio, a saber, que no era «según el orden de Aarón», de esa misma lo establece a Él, y excluye a los otros. Pues esto es precisamente lo que digo (declara); ¿por qué no ha sido hecho «según el orden de Aarón»?\n\nY la expresión «¿qué más necesidad» tiene mucho énfasis. Pues si Cristo hubiera sido «según el orden de Melchisedec» según la carne, y luego después se hubiera introducido la ley, y todo lo que pertenecía a Aarón, razonablemente se podría decir que lo posterior, por ser más perfecto, anulaba lo anterior, visto que había venido después. Pero si Cristo viene después, y toma un tipo diferente, como el de su sacerdocio, es evidente que es porque aquellos eran imperfectos. Pues (quiere decir) supongamos, por vía de argumentación, que todo se ha cumplido, y que no hay nada imperfecto en el sacerdocio. ¿«Qué necesidad» había en ese caso de que Él fuera llamado «según el orden de Melchisedec y no según el orden de Aarón»? ¿Por qué dejó de lado a Aarón, e introdujo un sacerdocio diferente, el de Melchisedec? «Si, pues, la perfección», es decir, la perfección de las cosas mismas, de las doctrinas, de la vida, «hubiera sido por el sacerdocio levítico».\n\nY observad cómo avanza en su camino. Había dicho que Él era «según el orden de Melchisedec», dando a entender que el sacerdocio «según el orden de Melchisedec» es superior: pues aquel era muy superior. Después muestra esto también por el tiempo, en que Él fue después de Aarón; evidentemente como siendo mejor.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "703da9984845"
+ },
+ "hcf:John Chrysostom/Hebrews 7_11#1": {
+  "text_es": "«Porque bajo él el pueblo ha recibido la Ley [o ha sido legislado]». ¿Qué es «bajo él»? Se ordena por él; por medio de él hace todas las cosas. No puedes decir que fue dada a otros: «el pueblo bajo él ha recibido la ley», es decir, la ha usado, y la usó. No puedes decir ciertamente que era perfecta, no gobernaba al pueblo; «han sido legislados sobre él», es decir, la usaron.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "983957164dd7"
+ },
+ "aquifer:13298": {
+  "text_es": "Según la ley dada a Moisés, los sacerdotes designados eran descendientes de Aarón (Éxodo 28:41–43; 29:9). El sacerdocio cambió porque Jesús es ahora el pontífice. Así, Dios cambió la ley acerca de los sacerdotes.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c6b3274d43e7"
+ },
+ "hcf:John Chrysostom/Hebrews 7_12#0": {
+  "text_es": "¿Qué necesidad había entonces de otro sacerdocio? «Pues cambiado el sacerdocio, necesario es que haya también cambio de ley». Pero si ha de haber otro sacerdote, o más bien otro sacerdocio, es necesario también que haya otra ley. Esto es para los que dicen: ¿Qué necesidad había de un nuevo pacto? Pues ciertamente podría haber alegado también un testimonio de la profecía: «Este es el pacto que hice con vuestros padres». Pero por ahora argumenta sobre la base del sacerdocio. Y observa cómo lo dice desde el principio. Dijo: «Según el orden de Melchisedec». Con esto excluyó el orden de Aarón. Pues no habría dicho «Según el orden de Melchisedec», si el otro hubiera sido mejor. Si, por tanto, se ha introducido otro sacerdocio, es necesario que haya también otro pacto; pues ni es posible que haya un sacerdote sin pacto, leyes y ordenanzas, ni que, habiendo recibido un sacerdocio diferente, use el pacto anterior.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "828e08a5d2ed"
+ },
+ "hcf:John Chrysostom/Hebrews 7_12#1": {
+  "text_es": "En segundo lugar, en cuanto al motivo de objeción: «¿Cómo podría ser sacerdote si no era levita?». Habiendo derribado esto con lo que se había dicho antes, ni siquiera lo considera digno de respuesta, sino que lo introduce de paso. Dije (quiere decir) que el sacerdocio fue cambiado, por tanto también el pacto. Y fue cambiado no solo en su carácter, o en sus ordenanzas, sino también en su tribu. Pues por necesidad debía cambiarse también en su tribu. ¿Cómo? «Pues cambiado [o transferido] el sacerdocio», de tribu a tribu, de la sacerdotal a la regia, para que el mismo fuera a la vez regio y sacerdotal.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3c0efb5df4a0"
+ },
+ "aquifer:13299": {
+  "text_es": "⸢pertenecía a una tribu diferent⸣⸢e⸣: Bajo el antiguo pacto, los sacerdotes provenían de la tribu de Leví, pero Jesús era de la tribu de Judá.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "993ce6ee9963"
+ },
+ "hcf:John Chrysostom/Hebrews 7_13-14#0": {
+  "text_es": "«Porque aquel de quien se dicen estas cosas, perteneció a otra tribu, de la cual nadie asistió al altar. Porque manifiesto es que nuestro Señor nació de Judá, de la cual tribu nada habló Moisés tocante a sacerdotes».\n\nYo también lo digo, sé que esta tribu de Judá nada tenía de sacerdocio. Pues hay una transferencia.\n\nY observa el misterio. Primero fue real, y luego se ha vuelto sacerdotal: así, por tanto, también respecto a Cristo; pues Rey ciertamente lo fue siempre, pero se ha hecho Sacerdote desde el momento en que asumió la Carne, para ofrecer el sacrificio. Ves el cambio, y las mismas cosas que eran motivo de objeción, estas las introduce, como si el orden natural de las cosas las exigiera.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "259e7619b340"
+ },
+ "aquifer:13300": {
+  "text_es": "Este cambio en cómo Dios designa a los sacerdotes (Hebreos 7:11–14) es claro por medio de que Jesús es designado como un tipo diferente de sacerdote. Como Melchisedec, Jesús es sacerdote para siempre. Su resurrección de entre los muertos muestra que tiene el poder de una vida indestructible. Puesto que su sacerdocio, en el orden de Melchisedec, es superior al de los levitas (7:1–10), él los reemplaza como sacerdote.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "41add1893c95"
+ },
+ "hcf:John Chrysostom/Hebrews 7_15#0": {
+  "text_es": "«Y más manifiesto es aún, si a semejanza de Melchisedec se levanta otro sacerdote». ¿Qué es manifiesto? El intervalo entre los dos sacerdocios, la diferencia; cuánto más superior es «el que no fue hecho según la ley del mandamiento carnal». (¿Quién? ¿Melchisedec? No; sino Cristo.)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b9e48cb78e41"
+ },
+ "hcf:John Chrysostom/Hebrews 7_16-17#0": {
+  "text_es": "Sí, y también estoy mostrando otra diferencia (querría decir): no solo por la tribu, ni solo por la Persona, ni por el carácter del Sacerdocio, ni por el pacto, sino también por el tipo mismo. «El que no fue hecho según la ley del mandamiento carnal, sino según el poder de una vida sin fin. Fue hecho» (dice) «sacerdote no según la ley del mandamiento carnal»; pues aquella ley era en muchos aspectos ilegal.\n\n¿Qué es «de un mandamiento carnal»? Circuncida la carne, dice; unge la carne; lava la carne; purifica la carne; afeita la carne; ata sobre la carne; cuida la carne; reposa en cuanto a la carne. Y de nuevo sus bendiciones, ¿cuáles son? Larga vida para la carne; leche y miel para la carne; paz para la carne; lujo para la carne. De esta ley recibió Aarón el sacerdocio; Melchisedec, en cambio, no así.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e971c395a4d2"
+ },
+ "hcf:John Chrysostom/Hebrews 7_16-17#1": {
+  "text_es": "«Sino según el poder de una vida sin fin. Porque él testifica: Tú eres Sacerdote para siempre según el orden de Melchisedec»; esto es, no por un tiempo, ni teniendo algún límite, «sino según el poder de una vida sin fin», es decir, por medio del poder, por medio de una «vida sin fin».\n\nY sin embargo esto no sigue después de «el que no fue hecho según la ley del mandamiento carnal»; pues lo que seguiría sería decir: «sino según la de uno espiritual». No obstante, con «carnal» dio a entender temporal. Como dice también en otro lugar: «ordenanzas carnales impuestas hasta el tiempo de la reforma».\n\n«Según el poder de la vida», esto es, porque vive por su propio poder.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fcf4d817a771"
+ },
+ "hcf:Cosmas Indicopleustes/Hebrews 7_17#0": {
+  "text_es": "Pues de él se testifica: Tú eres sacerdote para siempre según el orden de Melchisedec. He aquí cómo en los términos más claros habla de Cristo como sacerdote perpetuo en virtud de su poder y de su vida indisoluble. ¿Cómo entonces es posible que el Sacerdote sea indisoluble mientras el Tabernáculo, del cual él es ministro, está sujeto a disolución? Pues dice: Ministro del santuario y del verdadero Tabernáculo que el Señor levantó y no el hombre, declarando así aquí, como también en Heb. vi, 16, 17 y 20, y x, 34, expresamente que es verdadero e indisoluble.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2000b022dce1"
+ },
+ "aquifer:13301": {
+  "text_es": "La regla anterior para llegar a ser sacerdote era ser parte de la familia de Aarón (véase Éxodo 28:41–43). ⸢abrogación⸣: Véase Hebreos 7:15–17. ⸢porque era débil e inútil⸣: Esto se explica en los versículos siguientes (7:19–28).",
+  "lemas_es": [
+   "abrogación",
+   "porque era débil e inútil"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bab53356e925",
+  "lemas_rv1909": [
+   {
+    "lema": "abroga",
+    "ref": "HEB.7.18"
+   },
+   {
+    "lema": null,
+    "ref": "HEB.7.18"
+   }
+  ]
+ },
+ "hcf:John Chrysostom/Hebrews 7_18#0": {
+  "text_es": "«Porque hay verdaderamente una abrogación del mandamiento precedente, por su debilidad e inutilidad». Aquí insisten los herejes. Pero escucha con atención. No dijo «por su maldad», ni «por su viciosidad», sino «por su debilidad e inutilidad»; sí, y también en otros lugares muestra la debilidad; como cuando dice: «En que era débil por la carne». La ley misma, entonces, no es débil, sino nosotros.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0f2792d70fb4"
+ },
+ "aquifer:13302": {
+  "text_es": "Los sacerdotes bajo el antiguo pacto eran débiles porque morían, lo que ponía fin a su servicio, y también eran pecadores. En contraste, Jesús es el nuevo pontífice. Nunca pecó y venció la muerte, por lo que su sacerdocio es permanente y más eficaz.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b445f179e7a1",
+  "text_es_2": "Los sacerdotes bajo el antiguo pacto eran débiles porque morían, lo que ponía fin a su servicio, y también eran pecadores. En contraste, Jesús es el nuevo Pontífice. Nunca pecó y venció la muerte, de modo que su sacerdocio es permanente y más eficaz.",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "aquifer:13303": {
+  "text_es": "⸢la ley nada perfeccionó⸣: La ley no podía eliminar completamente el pecado ni garantizar la salvación eterna. Dios logró estas cosas mediante el sumo sacerdocio superior de Jesús.\n\nPor esto, los creyentes tienen confianza en una mejor esperanza y en una relación restaurada con Dios. Pueden acercarse a Dios sin temor a la condenación.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c4b87660b773"
+ },
+ "hcf:John Chrysostom/Hebrews 7_19#0": {
+  "text_es": "«Porque nada perfeccionó la ley.» ¿Qué es «nada perfeccionó»? No perfeccionó a ningún hombre, siendo desobedecida. Y además, aun si se la hubiera escuchado, no habría hecho a uno perfecto y virtuoso. Pero hasta ahora no dice esto aquí, sino que no tenía fuerza; y con razón. Pues allí estaban establecidos preceptos escritos: Haz esto y No hagas aquello, siendo solo impuestos, y no dando poder interiormente. Pero «la esperanza» no es así.\n\n¿Qué es «una abrogación»? Un desecho. Una «abrogación» es una abrogación de cosas que están en vigor. De modo que dio a entender que una vez estuvo en vigor, pero que de allí en adelante no fue tenida en cuenta, ya que nada logró. ¿Era entonces la ley de ningún provecho? Ciertamente era de provecho; y de gran provecho; pero para hacer perfectos a los hombres no era de provecho. Pues en este respecto dice: «Nada perfeccionó la ley.» Todas eran figuras, todas sombras: la circuncisión, el sacrificio, el sábado. Por lo tanto, no podían penetrar hasta el alma, por lo cual pasan y se retiran gradualmente. «Pero la introducción de una mejor esperanza sí, por la cual nos acercamos a Dios.»",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ded38ac47650",
+  "corregido_por_juez": "Omite el verbo 'did' (hízolo) al final de la cita: «la introducción de una mejor esperanza» debe completarse como «...lo hizo», según el inglés."
+ },
+ "hcf:John Chrysostom/Hebrews 7_19#1": {
+  "text_es": "«Pero la introducción de una mejor esperanza». Pues aquel sistema también tenía una esperanza, pero no como esta. Porque esperaban que, si agradaban a Dios, poseerían la tierra, que no sufrirían nada temible. Pero en esta dispensación esperamos que, si agradamos a Dios, poseeremos no la tierra, sino el cielo; o más bien (lo cual es mucho mejor que esto) esperamos estar cerca de Dios, llegar hasta el mismo trono del Padre, ministrarle con los Ángeles. Y mira cómo introduce estas cosas poco a poco. Pues arriba dice «que entra hasta dentro del velo», pero aquí: «por la cual nos acercamos a Dios».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "558db4222143"
+ },
+ "aquifer:13305": {
+  "text_es": "Este nuevo sistema trata de cómo Dios elige a un sacerdote. La seria promesa de Dios se muestra en la cita del Salmo 110:4.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6ff73ca63c08"
+ },
+ "hcf:John Chrysostom/Hebrews 7_20#0": {
+  "text_es": "«Y por cuanto no sin juramento». Ves que el asunto del juramento se le vuelve necesario aquí. En consecuencia, por esta razón trató antes mucho sobre esto, cómo que Dios juró; y juró para mayor seguridad nuestra.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3e4afd18a24d"
+ },
+ "hcf:Hippolytus of Rome/Hebrews 7_21#0": {
+  "text_es": "Pues también nuestro Padre, al contemplar al Bueno, y al ser iniciado con Él, conservó los misterios sobre los cuales se impone silencio, y juró, como está escrito: «El Señor juró, y no se arrepentirá». Habiendo, entonces, sellado de este modo estas doctrinas, procura seducir (a sus seguidores) con más leyendas, (que se detallan) a través de un mayor número de libros; y así conduce (a sus lectores) al Bueno, consumando a los iniciados (admitiéndolos en) los inefables Misterios. ... Y este juramento, dice (Justino), nuestro Padre Elohim lo juró cuando estaba junto al Bueno, y habiendo jurado no se arrepintió (del juramento), respecto al cual, dice, está escrito: «El Señor juró, y no se arrepentirá». Ahora bien, el juramento se expresa en estos términos: «Juro por aquel Bueno que está sobre todo, guardar estos misterios, y no divulgarlos a nadie, y no recaer del Bueno a la criatura».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "09d5d699633e"
+ },
+ "hcf:John Chrysostom/Hebrews 7_21-24#0": {
+  "text_es": "«Y en cuanto no sin juramento.» ¿Qué es «y en cuanto no sin juramento»? Es decir: He aquí también otra diferencia. Y estas cosas no fueron meramente prometidas (dice). «Porque aquellos sacerdotes fueron hechos sin juramento, pero Este con juramento, por Aquel que le dijo: El Señor juró y no se arrepentirá, Tú eres Sacerdote para siempre según el orden de Melchisedec. Por tanto, Jesús fue hecho fiador de un mejor pacto.» Establece dos puntos de diferencia: que no tiene fin, como lo tenía el pacto de la Ley; y esto lo prueba por ser Cristo quien ejerce el sacerdocio; pues dice «según el poder de una vida sin fin». Y lo prueba también por el juramento, porque «juró», y por el hecho; pues si el otro fue desechado, porque era débil, este permanece firme, porque es poderoso. Lo prueba también por el sacerdote. ¿Cómo? Porque Él es Uno solo; y no habría habido Uno solo, a menos que hubiera sido inmortal. Pues como había muchos sacerdotes, porque eran mortales, así aquí está el Uno, porque es inmortal. «Por tanto, Jesús fue hecho fiador de un mejor pacto», en cuanto le juró que sería siempre Sacerdote; lo cual no habría hecho, si no estuviera vivo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "67940135a1a9"
+ },
+ "aquifer:13306": {
+  "text_es": "En términos legales, una ⸢garantía⸣ significa asumir la responsabilidad por la deuda u obligación de otra persona. El fiador acepta el riesgo si la otra persona falla.\n\nPuesto que Dios confirmó esta promesa con juramento, Jesús tiene un sacerdocio que no puede ser impugnado ni anulado. En consecuencia, nuestra relación de pacto con Dios es segura. Tener a Jesús como garantía hace que el nuevo pacto sea mejor.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b064e2d46579"
+ },
+ "aquifer:13307": {
+  "text_es": "El antiguo pacto necesitaba muchos sacerdotes porque cada uno finalmente moría. En contraste, el sacerdocio de Jesús es ⸢permanente⸣. Este término se refiere a algo inmutable, como el recorrido diario del sol por el cielo o el cambio regular de las estaciones.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "00b1bb2462af"
+ },
+ "hcf:Cosmas Indicopleustes/Hebrews 7_23-26#0": {
+  "text_es": "Pues siendo eterno el pontífice, necesariamente también la salvación y el Tabernáculo son eternos, conforme de nuevo a lo que está escrito: Y ellos ciertamente son muchos sacerdotes, porque por la muerte son impedidos de continuar: pero él, porque permanece para siempre, tiene su sacerdocio inmutable. Por lo cual también puede salvar hasta lo sumo a los que se acercan a Dios por medio de él, viendo que siempre vive para interceder por ellos. Porque tal pontífice nos convenía, santo, inocente, sin mancha, separado de los pecadores, y hecho más alto que los cielos. La expresión más alto que los cielos significa, según el idioma de la lengua, cielo; y, más claramente aún, las expresiones «inmutable», y «el permanecer para siempre», y «siempre» indican un estado de cosas indisoluble. Pues si el sacerdote es inmutable, el Tabernáculo también, en el cual ejerce su oficio, debe necesariamente ser inmutable, es decir, exento de sucesión.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f07805014c19",
+  "text_es_2": "Porque, siendo eterno el Pontífice, es necesario que también la salvación y el Tabernáculo sean eternos, conforme otra vez a lo que está escrito: Y ellos, a la verdad, son muchos sacerdotes, porque por la muerte son impedidos de continuar; mas él, porque permanece para siempre, tiene su sacerdocio inmutable. Por lo cual también puede salvar perpetuamente a los que por él se allegan a Dios, viviendo siempre para interceder por ellos. Porque tal Pontífice nos convenía: santo, inocente, limpio, apartado de los pecadores, y hecho más sublime que los cielos. La expresión más sublime que los cielos significa, según el idioma de la lengua, cielo; y, aún más claramente, las expresiones «inmutable», «el permanecer para siempre» y «siempre» indican un estado de cosas indisoluble. Porque si el sacerdote es inmutable, el Tabernáculo también, en el cual ejerce su oficio, debe ser necesariamente inmutable, esto es, exento de sucesión.",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "aquifer:13308": {
+  "text_es": "⸢puede salvar completamente⸣: Puesto que Jesús vive para siempre⸢,⸣ la salvación que ofrece también dura para siempre. Para acercarnos a un Dios eterno, necesitamos un sacerdote eterno. Jesús ⸢intercederá⸣ o apelará a Dios por nosotros como nuestro pontífice del nuevo pacto, y su intercesión nunca termina (véanse Hebreos 9:11–28; 10:21–22; Romanos 8:31–34).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bcc11a0f4878",
+  "text_es_2": "⸢capaz de salvar completamente⸣: Puesto que Jesús vive para siempre⸢,⸣ la salvación que ofrece también dura para siempre. Para acercarnos a un Dios eterno, necesitamos un sacerdote eterno. Jesús ⸢intercederá⸣ o apelará a Dios por nosotros como nuestro Pontífice del nuevo pacto, y su intercesión nunca termina (véase Hebreos 9:11–28; 10:21–22; Romanos 8:31–34).",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "hcf:John Chrysostom/Hebrews 7_25#0": {
+  "text_es": "«Por lo cual también puede salvar hasta lo sumo a los que se acercan a Dios por él, viendo que siempre vive para interceder por ellos.» Ves que dice esto respecto de lo que es según la carne. Pues cuando aparece como Sacerdote, entonces también intercede. Por lo cual también cuando Pablo dice: «quien también intercede por nosotros», insinúa lo mismo; el Pontífice intercede. Pues Aquel «que resucita a los muertos como quiere, y los vivifica», y que lo hace «así como el Padre», ¿cómo es que cuando hay necesidad de salvar, «intercede»? Aquel que tiene «todo juicio», ¿cómo es que «intercede»? Aquel que «envía sus ángeles», para que «echen» a algunos en «el horno», y salven a otros, ¿cómo es que «intercede»? Por lo cual (dice) «también puede salvar». Por esta causa entonces salva, porque no muere. En cuanto que «siempre vive», no tiene (quiere decir) sucesor: Y si no tiene sucesor, puede ayudar a todos. Pues allí bajo la Ley ciertamente, el Pontífice, aunque fuera digno de admiración durante el tiempo en que era Pontífice (como Samuel, por ejemplo, y cualquier otro semejante), pero después de esto, ya no; pues morían. Pero aquí no es así, sino que «Él» salva «hasta lo sumo».\n\n¿Qué es «hasta lo sumo»? Insinúa algún misterio. No solo aquí (dice) sino también allí salva a los que «se acercan a Dios por él». ¿Cómo salva? «En cuanto que siempre vive» (dice) «para interceder por ellos». ¿Ves la humillación? ¿Ves la humanidad? Pues no dice que obtuvo esto intercediendo una vez para siempre, sino continuamente, y siempre que sea necesario interceder por ellos.\n\n«Hasta lo sumo». ¿Qué es? No solo por un tiempo, sino también allí en la vida futura. ¿Acaso entonces siempre necesita orar? ¿Cómo puede esto ser razonable? Aun los hombres justos muchas veces lo lograron todo con una sola súplica, ¿y Él siempre está orando? ¿Por qué entonces está entronizado con el Padre? Ves que es una condescendencia. El significado es: No temas, ni digas: Sí, ciertamente nos ama, y tiene confianza ante el Padre, pero no puede vivir siempre. Pues vive siempre.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "93c8c0314e11",
+  "text_es_2": "«Por lo cual puede también salvar perpetuamente a los que por él se allegan a Dios, viviendo siempre para interceder por ellos.» Ves que dice esto respecto de lo que es según la carne. Pues cuando se presenta como Sacerdote, entonces también intercede. Por lo cual también, cuando Pablo dice: «quien también intercede por nosotros», insinúa lo mismo; el Pontífice intercede. Porque aquel que «levanta los muertos como quiere, y les da vida», y que lo hace «así como el Padre», ¿cómo es que, cuando hay necesidad de salvar, «intercede»? El que tiene «todo juicio», ¿cómo es que «intercede»? El que «envía sus ángeles», para que «echen» a algunos en «el horno» y salven a otros, ¿cómo es que «intercede»? Por lo cual (dice) «puede también salvar». Por esta causa, entonces, salva, porque no muere. En cuanto «vive siempre», no tiene (quiere decir) sucesor; y si no tiene sucesor, puede ayudar a todos los hombres. Pues allí, bajo la Ley, ciertamente el Pontífice, aunque fuera digno de admiración durante el tiempo en que era Pontífice (como Samuel, por ejemplo, y cualquier otro semejante), pero después de esto, ya no; porque habían muerto. Pero aquí no es así, sino que «él» salva «perpetuamente».\n\n¿Qué es «perpetuamente»? Insinúa algún misterio. No solo aquí (dice), sino también allí salva a los que «se allegan a Dios por él». ¿Cómo salva? «Viviendo siempre» (dice) «para interceder por ellos». ¿Ves la humillación? ¿Ves la humanidad? Pues no dice que obtuvo esto por interceder una vez para siempre, sino continuamente, y siempre que sea necesario interceder por ellos.\n\n«Perpetuamente». ¿Qué es? No solo por un tiempo, sino también allí en la vida futura. ¿Acaso entonces siempre necesita orar? ¿Y cómo puede ser esto razonable? Aun los hombres justos muchas veces lo han logrado todo con una sola súplica, ¿y él ora siempre? ¿Por qué entonces está entronizado con el Padre? Ves que es una condescendencia. El sentido es: No temas, ni digas: Sí, ciertamente nos ama, y tiene confianza ante el Padre, pero no puede vivir siempre. Porque él vive siempre.",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "aquifer:13309": {
+  "text_es": "Jesús está libre de pecado y es diferente de los pecadores (véase Hebreos 4:15). Esto lo hace mejor que los sacerdotes del antiguo pacto, que tenían que ocuparse de sus propios pecados y de los del pueblo (véase también 5:1–3). Ocupa el lugar de mayor honor en el cielo, afirmando su papel único como pontífice (véanse 2:9; 5:9; Filipenses 2:5–11). ⸢una vez para siempre⸣: Esto significa ⸢una vez, nunca para ser repetido⸣, no ⸢una vez para todas las personas⸣.",
+  "lemas_es": [
+   "una vez para siempre"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c1d31697b861",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.7.26"
+   }
+  ]
+ },
+ "hcf:John Chrysostom/Hebrews 7_26#0": {
+  "text_es": "«Porque tal Pontífice también nos convenía, que es santo, inocente, sin mancha, separado de los pecadores.» Ves que todo se dice con referencia a la humanidad. (Pero cuando digo «la humanidad», me refiero a la humanidad que tiene Deidad; no separando una de la otra, sino dejándote suponer lo que es conveniente.) ¿Notaste la diferencia del Pontífice? Ha resumido lo dicho antes: «en todo tentado como nosotros, pero sin pecado». «Porque» (dice) «tal Pontífice también nos convenía, que es santo, inocente». «Inocente»: ¿qué es? Sin maldad: lo que otro Profeta dice: «no se halló engaño en su boca», es decir, no es astuto. ¿Podría alguien decir esto acerca de Dios? ¿Y no se avergüenza uno de decir que Dios no es astuto, ni engañoso? Acerca de Él, sin embargo, respecto de la Carne, podría ser razonable decirlo. «Santo, sin mancha». ¿También diría alguien esto acerca de Dios? Pues ¿tiene Él una naturaleza capaz de contaminación? «Separado de los pecadores».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "14339e2edcc6"
+ },
+ "hcf:Tertullian/Hebrews 7_26#0": {
+  "text_es": "Pues para esto había venido, para que, siendo Él mismo puro de pecado, y en todo sentido santo, sufriera la muerte en favor de los pecadores.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "17804fee0fbb"
+ },
+ "hcf:John Chrysostom/Hebrews 7_27#0": {
+  "text_es": "¿Muestra entonces esto solo la diferencia, o también el sacrificio mismo? ¿Cómo? «No necesita cada día, como el Pontífice, ofrecer sacrificios por sus pecados, pues esto lo hizo una vez para siempre, cuando se ofreció a sí mismo.» «Esto», ¿qué? Aquí lo que sigue suena como un preludio acerca de la grandeza sobremanera del sacrificio espiritual y el intervalo entre ellos. Ha mencionado el punto del sacerdote; ha mencionado el de la fe; ha mencionado el del Pacto; no del todo ciertamente, pero lo ha mencionado. En este lugar lo que sigue es un preludio acerca del sacrificio mismo. No supongas entonces, habiendo oído que es sacerdote, que siempre está ejerciendo el oficio sacerdotal. Pues lo ejerció una vez, y desde entonces «se sentó». Para que no supongas que está de pie en lo alto, y es un ministro, muestra que el asunto es parte de una dispensación. Pues como se hizo siervo, así también se hizo Sacerdote y Ministro. Pero como después de hacerse siervo, no continuó siendo siervo, así también, habiéndose hecho Ministro, no continuó siendo Ministro. Pues no corresponde a un ministro sentarse, sino estar de pie.\n\nEsto entonces insinúa aquí, y también la grandeza del sacrificio, si siendo solo uno, y habiendo sido ofrecido una sola vez, logró lo que todos los demás no podían hacer. Pero aún no trata de estos puntos.\n\n«Pues esto lo hizo», dice. «Esto»; ¿qué? «Porque es necesario que este Hombre tenga también algo que ofrecer»; no por sí mismo; pues ¿cómo se ofreció a sí mismo? Sino por el pueblo. ¿Qué dices? ¿Y puede hacer esto? Sí (dice). «Porque la Ley constituye pontífices, que tienen flaqueza.» ¿Y no necesita ofrecer por sí mismo? No, dice. Pues, para que no supongas que las palabras «esto lo hizo una vez para siempre» se dicen también respecto de sí mismo, escucha lo que dice: «Porque la Ley constituye pontífices, que tienen flaqueza.» Por esta razón ofrecen continuamente, y por sí mismos. Él, sin embargo, que es poderoso, el que no tiene pecado, ¿por qué habría de ofrecer por sí mismo, o muchas veces por otros?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5b4bd5bdefd4"
+ },
+ "aquifer:13310": {
+  "text_es": "Este versículo resume la discusión en 5:1–3 sobre el papel de Cristo como Pontífice (5:1–10; 7:1–28). Limitados por la debilidad humana se refiere principalmente a la pecaminosidad y mortalidad humanas. Dios designó a su Hijo, Jesús, con juramento (véase Salmos 110:4, que es importante para entender Hebreos 7:11–28). En Hebreos, el término perfecto significa ⸢completo⸣ o ⸢maduro⸣ (véanse 2:10; 5:9; 7:11; 9:9–11); el Hijo, mediante su muerte sacrificial y resurrección, se ha vuelto completamente calificado para servir como nuestro Pontífice eterno, y su sacerdocio dura para siempre.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e73911177cfe",
+  "text_es_2": "Este versículo resume la discusión en 5:1–3 acerca del papel de Cristo como Pontífice (5:1–10; 7:1–28). Limitado por la debilidad humana se refiere principalmente a la pecaminosidad y mortalidad humanas. Dios nombró a su Hijo, Jesús, con juramento (véase Salmo 110:4, que es importante para entender Hebreos 7:11–28). En Hebreos, el término perfecto significa ⸢completo⸣ o ⸢maduro⸣ (véase 2:10; 5:9; 7:11; 9:9–11); el Hijo, mediante su muerte sacrificial y resurrección, ha llegado a estar completamente capacitado para servir como nuestro Pontífice eterno, y su sacerdocio dura para siempre.",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "hcf:John Chrysostom/Hebrews 7_28#0": {
+  "text_es": "«Mas la palabra del juramento que fue después de la ley, constituye al Hijo, consagrado para siempre.» «Consagrado»: ¿qué es eso? Pablo no establece los términos comunes de contraposición; pues después de decir «teniendo flaqueza», no dijo «el Hijo» que es poderoso, sino «consagrado»: es decir, poderoso, por así decirlo. Ves que el nombre Hijo se usa en contraposición al de siervo. Y por «flaqueza» entiende o el pecado o la muerte.\n\n¿Qué es «para siempre»? No solo ahora sin pecado, sino siempre. Si entonces Él es perfecto, si nunca peca, si vive siempre, ¿por qué ha de ofrecer muchos sacrificios por nosotros? Pero por el momento no insiste fuertemente en este punto; lo que sí insiste fuertemente es en que Él no ofrece por su propia causa.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b7826a22102a",
+  "text_es_2": "«Mas la palabra del juramento, que es después de la ley, constituye al Hijo, perfecto para siempre.» «Perfecto»: ¿qué es eso? Pablo no establece los términos comunes de contraposición; pues después de decir «teniendo flaqueza», no dijo «el Hijo» que es poderoso, sino «perfecto»: esto es, poderoso, como alguien podría decir. Ves que el nombre Hijo se usa en contraposición al de siervo. Y por «flaqueza» entiende o el pecado o la muerte.\n\n¿Qué es «para siempre»? No solo ahora sin pecado, sino siempre. Si entonces él es perfecto, si nunca peca, si vive siempre, ¿por qué ha de ofrecer muchos sacrificios por nosotros? Pero por ahora no insiste fuertemente en este punto; lo que sí insiste fuertemente es en que él no ofrece por sí mismo.",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ }
+}

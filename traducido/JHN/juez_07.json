@@ -543,19 +543,19 @@
   "ok": true,
   "motivo": null,
   "modelo": "gemini-3.6-flash",
-  "huella": "fde520e29c26"
+  "huella": "31698a044870"
  },
  "hcf:John Chrysostom/John 7_20#0": {
   "ok": true,
   "motivo": null,
   "modelo": "gemini-3.6-flash",
-  "huella": "58a904b9de5c"
+  "huella": "06e435d20466"
  },
  "hcf:John Chrysostom/John 7_21#0": {
   "ok": true,
   "motivo": null,
   "modelo": "gemini-3.6-flash",
-  "huella": "3cfbc23579d9"
+  "huella": "ad529a6ee84a"
  },
  "hcf:John Chrysostom/John 7_22#0": {
   "ok": true,
@@ -573,7 +573,7 @@
   "ok": true,
   "motivo": "Fiel y completo.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "9c88dfd3208d"
+  "huella": "6ac5a22aa919"
  },
  "hcf:John Chrysostom/John 7_25-26#0": {
   "ok": true,
@@ -591,7 +591,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "gemini-3.6-flash",
-  "huella": "f7ad21749fec"
+  "huella": "54b3fa631581"
  },
  "hcf:John Chrysostom/John 7_3-5#1": {
   "ok": true,
@@ -603,13 +603,13 @@
   "ok": true,
   "motivo": "",
   "modelo": "gemini-3.6-flash",
-  "huella": "203f8cc47860"
+  "huella": "239d8545e6ba"
  },
  "hcf:John Chrysostom/John 7_31-32#1": {
   "ok": true,
   "motivo": "",
   "modelo": "gemini-3.6-flash",
-  "huella": "6acd66f7965a"
+  "huella": "7c6d9ad80b2e"
  },
  "hcf:John Chrysostom/John 7_33#0": {
   "ok": true,
@@ -669,7 +669,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "gemini-3.6-flash",
-  "huella": "7eb0c955fb31"
+  "huella": "d22ec2a2de1a"
  },
  "hcf:John Chrysostom/John 7_41-42#0": {
   "ok": true,
@@ -687,7 +687,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "gemini-3.6-flash",
-  "huella": "fa5646141953"
+  "huella": "8d058f3477a6"
  },
  "hcf:John Chrysostom/John 7_48#0": {
   "ok": true,
@@ -705,7 +705,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "gemini-3.6-flash",
-  "huella": "908b1586584f"
+  "huella": "32024e518d0a"
  },
  "hcf:John Chrysostom/John 7_51#0": {
   "ok": true,
@@ -723,7 +723,7 @@
   "ok": true,
   "motivo": null,
   "modelo": "gemini-3.6-flash",
-  "huella": "e622cc591f8f"
+  "huella": "7d170d3f641a"
  },
  "hcf:John Chrysostom/John 7_8#0": {
   "ok": true,

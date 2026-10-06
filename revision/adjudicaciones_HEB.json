@@ -8,5 +8,111 @@
   ],
   "motivo": "Crisóstomo lee «the Word of God» de Hebreos 4:12 como el Hijo («Él es más cortante»; «He, the Word of God, wrought the former things»): «Verbo», no «Palabra» con mayúscula; la cita del versículo conserva el texto de la RV1909 («la palabra de Dios»)",
   "evidencia": "Do not then when hearing the Word, think of it lightly. For \"He is sharper,\" he says, \"than a sword.\""
+ },
+ "hcf:John Chrysostom/Hebrews 4_1-2#0": {
+  "reemplazos": [
+   [
+    "Temamos, pues, que quedándonos la promesa de entrar en su reposo, alguno de vosotros parezca haberse quedado atrás; porque también a nosotros se nos ha anunciado el Evangelio, como a ellos",
+    "Temamos, pues, que quedando aún la promesa de entrar en su reposo, parezca alguno de vosotros haberse apartado. Porque también a nosotros se nos ha evangelizado como a ellos"
+   ]
+  ],
+  "motivo": "cita de Hebreos 4:1-2 con el texto de la RV1909; «dejando la promesa» invertía el sentido de «a promise being left us» (cola del juez)",
+  "evidencia": "Let us fear lest a promise being left us of entering into His rest, any of you should seem to come short of it; for to us was the Gospel preached as well as unto them"
+ },
+ "hcf:John Chrysostom/Hebrews 5_1-3#0": {
+  "reemplazos": [
+   [
+    "«es constituido a favor de los hombres en lo que a Dios se refiere»",
+    "«es constituido a favor de los hombres en lo que a Dios toca»"
+   ]
+  ],
+  "motivo": "cita de Hebreos 5:1 con el texto de la RV1909 (cola del juez)",
+  "evidencia": "is ordained for men in things pertaining to God"
+ },
+ "hcf:Tertullian/Hebrews 9_14#0": {
+  "reemplazos": [
+   [
+    "y volviera de nuevo al Señor",
+    "y volviera de nuevo, como es natural, al Señor"
+   ]
+  ],
+  "motivo": "omisión de «of course» (cola del juez)",
+  "evidencia": "and return back again of course to the Lord"
+ },
+ "hcf:Cosmas Indicopleustes/Hebrews 10_19-21#0": {
+  "reemplazos": [
+   [
+    "Así que, hermanos, teniendo libertad para entrar en el Lugar Santísimo por la sangre de Jesús, por el camino que él nos abrió, nuevo y vivo, por el velo, esto es, por su carne;",
+    "Así que, hermanos, teniendo libertad para entrar en el santuario por la sangre de Jesucristo, por el camino que él nos consagró nuevo y vivo, por el velo, esto es, por su carne;"
+   ]
+  ],
+  "motivo": "cita de Hebreos 10:19-20 con el texto de la RV1909 («santuario», «consagró»; cola del juez)",
+  "evidencia": "boldness to enter into the Holy place by the blood of Jesus, by the way which he dedicated for us"
+ },
+ "hcf:John Chrysostom/Hebrews 11_3#1": {
+  "reemplazos": [
+   [
+    "«por una Palabra»",
+    "«por la palabra»"
+   ]
+  ],
+  "motivo": "Hebreos 11:3 «por la palabra de Dios» (RV1909): la palabra creadora, no «Palabra» con mayúscula",
+  "evidencia": "But whence is it shown that He did this even \"by a Word\"?"
+ },
+ "hcf:Irenaeus/Hebrews 13_15#0": {
+  "reemplazos": [
+   [
+    "tanto el pan como el cuerpo de Cristo, y la copa como la sangre de Cristo,",
+    "tanto el pan, cuerpo de Cristo, como la copa, sangre de Cristo,"
+   ]
+  ],
+  "motivo": "el inglés identifica el pan con el cuerpo y la copa con la sangre; la traducción los separaba (cola del juez)",
+  "evidencia": "both the bread the body of Christ, and the cup the blood of Christ"
+ },
+ "hcf:John Chrysostom/Hebrews 13_9#1": {
+  "reemplazos": [
+   [
+    "la doctrina de los alimentos",
+    "la doctrina de las viandas"
+   ],
+   [
+    "«Porque es buena cosa que el corazón sea confirmado con la gracia; no con los alimentos»",
+    "«Porque buena cosa es afirmar el corazón en la gracia, no en viandas»"
+   ],
+   [
+    "«Porque es buena cosa que el corazón sea confirmado con la gracia, no con los alimentos»",
+    "«Porque buena cosa es afirmar el corazón en la gracia, no en viandas»"
+   ],
+   [
+    "se ocuparon en ellas",
+    "anduvieron en ellas"
+   ]
+  ],
+  "motivo": "cita de Hebreos 13:9 con el texto de la RV1909 («viandas»), con lo que «Las cuales… en ellas» concuerda (cola del juez)",
+  "evidencia": "For it is a good thing that the heart be established with grace; not with meats."
+ },
+ "hcf:Tertullian/Hebrews 1_5#0": {
+  "reemplazos": [
+   [
+    "« Esta voz",
+    "Esta voz"
+   ]
+  ],
+  "motivo": "comilla suelta al comienzo: el extracto de la fuente empieza con una comilla de cierre de la cita anterior",
+  "evidencia": "\" This voice the Father was going Himself to recommend."
+ },
+ "aquifer:13120": {
+  "reemplazos": [
+   [
+    "⸢Dice arriba:⸣⸢ «⸣⸢Sacrificios y ofrendas, holocaustos y expiaciones por el pecado no quisiste…⸣⸢“⸣",
+    "⸢Diciendo arriba: Sacrificio y presente, y holocaustos y expiaciones por el pecado no quisiste⸣"
+   ],
+   [
+    "⸢Luego añade: “He aquí que vengo para hacer tu voluntad.”⸣",
+    "⸢Entonces dijo: Heme aquí para que haga, oh Dios, tu voluntad⸣"
+   ]
+  ],
+  "motivo": "lemas de Hebreos 10:8-9 con el texto de la RV1909; el formato de cursivas y comillas de la fuente estaba roto",
+  "evidencia": "In the passage above He says, \"Sacrifices and offerings, burnt offerings and sin offerings You did not desire…\" … Then He adds, “Here I am, I have come to do Your will.”"
  }
 }

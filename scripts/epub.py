@@ -37,7 +37,7 @@ OBRAS = [(r"^Tractates on John\s*(\d+)?", r"Tratados sobre el Evangelio de Juan 
          (r"^Commentary on the Gospel of John[,\s-]*Book\s*(\w+)", r"Comentario al Evangelio de Juan, libro \1"),
          (r"^Commentary on the Gospel of John", "Comentario al Evangelio de Juan"),
          (r"^On the Trinity", "Sobre la Trinidad"), (r"^Against Heresies", "Contra las herejías"),
-         (r"^Against Praxeas", "Contra Práxeas"), (r"^Catena Aurea.*", "Catena Aurea")]
+         (r"^Catena Aurea.*", "Catena Aurea")]
 FICHAS = C.cargar("glosario/autores.json", {}).get("autores", {})
 AUTORES.update({k: v["es"] for k, v in FICHAS.items()})
 
@@ -128,11 +128,59 @@ def inline(t):
     return t + "</em>" * (t.count("<em>") - t.count("</em>"))
 
 
+# títulos españoles por prefijo del título inglés de HCF; el resto («Book 4, Chapter XI») se traduce aparte
+TITULOS = {
+    "Homily on Hebrews": "Homilías sobre la Epístola a los Hebreos", "Homily on the Gospel of John": "Homilías sobre el Evangelio de Juan",
+    "Tractates on John": "Tratados sobre el Evangelio de Juan", "Commentary on the Gospel of John": "Comentario al Evangelio de Juan",
+    "The Christian Topography": "Topografía cristiana", "The Stromata": "Stromata", "An Answer to the Jews": "Respuesta a los judíos",
+    "City of God": "La ciudad de Dios", "Confessions": "Confesiones", "Shepherd of Hermas, Vision": "El Pastor, Visión",
+    "Shepherd of Hermas, Similitude": "El Pastor, Comparación", "Shepherd of Hermas, Commandment": "El Pastor, Mandamiento",
+    "Catechetical Lecture": "Catequesis", "13 Ascetic Discourses": "Discursos ascéticos", "On Modesty": "Sobre la modestia",
+    "Against Marcion": "Contra Marción", "Letter to the Corinthians (Clement": "Carta a los Corintios",
+    "Clement's First Letter to the Corinthians": "Primera carta a los Corintios", "On Prayer": "Sobre la oración",
+    "On Exhortation to Chastity": "Exhortación a la castidad", "Epistles on the Arian Heresy - Epistle Catholic": "Carta católica sobre la herejía arriana",
+    "Epistles on the Arian Heresy - To Alexander": "Carta a Alejandro de Constantinopla sobre la herejía arriana",
+    "Constitutions of the Holy Apostles": "Constituciones de los santos apóstoles", "Discourses Against the Arians": "Discursos contra los arrianos",
+    "Methodius Discourse V. Thallousa": "Banquete, discurso V (Talusa)", "Methodius Discourse III. Thaleia": "Banquete, discurso III (Talía)",
+    "Methodius Discourse VII. Procilla": "Banquete, discurso VII (Procila)", "Methodius Oration Concerning Simeon and Anna": "Discurso sobre Simeón y Ana",
+    "Methodius From the Discourse on the Resurrection": "Del discurso sobre la resurrección",
+    "Second Epistle To The Corinthians (Pseudo-Clement": "Segunda carta de Clemente", "On the Veiling of Virgins": "Sobre el velo de las vírgenes",
+    "On Monogamy": "Sobre la monogamia", "Of Patience": "Sobre la paciencia", "On Repentance": "Sobre el arrepentimiento",
+    "Exposition of the Christian Faith": "Exposición de la fe cristiana", "Exhortation to the Heathen": "Exhortación a los paganos",
+    "Treatise XI Exhortation to Martyrdom Addressed to Fortunatus": "Tratado XI: exhortación al martirio, a Fortunato",
+    "Treatise XII Three Books of Testimonies Against the Jews": "Tratado XII: tres libros de testimonios contra los judíos",
+    "Pseudo-Cyprian On the Glory of Martyrdom": "Pseudo-Cipriano, Sobre la gloria del martirio", "Epistle": "Carta",
+    "Epistle III.-To Fabius Bishop of Antioch": "Carta III, a Fabio de Antioquía", "Hippolytus Refutation of All Heresies": "Refutación de todas las herejías",
+    "Dubious Hippolytus Fragments": "Fragmentos dudosos", "Fragments - Dogmatic and Historical": "Fragmentos dogmáticos e históricos",
+    "Epistle of Ignatius to the Smyrnaeans": "Carta a los esmirniotas", "Epistle of Ignatius to the Trallians": "Carta a los tralianos",
+    "Epistle of Ignatius to the Magnesians": "Carta a los magnesios",
+    "Epistle of Pseudo-Ignatius to Hero, a Deacon of Antioch": "Pseudo-Ignacio, Carta a Herón, diácono de Antioquía",
+    "Fragments from the Lost Writings of Irenaeus": "Fragmentos de obras perdidas", "Irenaeus Against Heresies": "Contra los herejes",
+    "Dialogue with Trypho": "Diálogo con Trifón", "The First Apology": "Primera apología", "The Divine Institutes": "Instituciones divinas",
+    "Two Epistles on Virginity": "Dos cartas sobre la virginidad", "The Apology": "Apología", "On Baptism": "Sobre el bautismo",
+    "On the Apparel of Women": "Sobre el adorno de las mujeres", "The Prescription Against Heretics": "Prescripción contra los herejes",
+    "Pseudo-Tertullian Against All Heresies": "Pseudo-Tertuliano, Contra todas las herejías",
+    "Pseudo-Tertullian AGAINST ALL HERESIES": "Pseudo-Tertuliano, Contra todas las herejías", "To His Wife": "A su esposa",
+    "From His Seven Books of Hypotyposes or Outlines": "Hipotiposis (fragmentos)", "The Didache": "Didaché", "Letter": "Carta",
+    "Concerning Repentance": "Sobre la penitencia", "On the Spirit": "Sobre el Espíritu Santo", "On the Trinity": "La Trinidad",
+    "Against Praxeas": "Contra Práxeas", "Sermons on the Song of Songs": "Sermones sobre el Cantar de los Cantares",
+}
+RESTO = [(r"\bBooks?\b", "libro"), (r"\bChapters?\b", "cap."), (r"\bDiscourse\b", "discurso"), (r"\bEpistle\b", "carta"),
+         (r"\bSection\b", "sección"), (r"\bHomily\b", "homilía"), (r"\s*--\s*On Faith: First Discourse on Simplicity", ": sobre la fe; sobre la sencillez"),
+         (r"\s*--\s*On Faith", ": sobre la fe"), (r"\s*--\s*On Gluttony", ": sobre la gula"), (r"^\)\s*", "")]
+
+
 def obra_es(w):
     for pat, rep in OBRAS:
         if re.match(pat, w):
             return re.sub(pat, rep, w).strip()
-    return w
+    base = max((k for k in TITULOS if w.startswith(k)), key=len, default=None)
+    if not base:
+        return w
+    resto = w[len(base):]
+    for pat, rep in RESTO:
+        resto = re.sub(pat, rep, resto)
+    return (TITULOS[base] + resto).strip().rstrip(",")
 
 
 def atribucion(n):
@@ -155,11 +203,64 @@ def atribucion(n):
             f'<p class="fuente">{donde}.' + (f" {x(ed)}" if ed else "") + "</p>")
 
 
+DEPURADO = {}
+
+
+def _norm(s):
+    return re.sub(r"\W+", " ", s.lower()).strip()
+
+
+def _oraciones(s):
+    return [o for o in re.split(r"(?<=[.!?»”\"])\s+(?=[«“\"¿¡(A-ZÁÉÍÓÚÑ])", s.strip()) if o]
+
+
+def sin_repeticiones(libro, us, tr):
+    """HCF reparte un mismo pasaje entre versículos vecinos: el párrafo que repite uno ya mostrado por el mismo
+    autor (hasta 6 notas antes) se quita de la nota posterior. Idéntico: se quita entero (los conteos de párrafos
+    inglés/español coinciden en todos los casos). Contenido con agregado: se quitan sus primeras/últimas oraciones
+    si el conteo de oraciones coincide; si no, queda y se informa. Devuelve {id: texto_es depurado} e informe."""
+    por, salida, informe = {}, {}, []
+    for n in sorted((n for n in us if n["layer"] == "padres"), key=lambda n: (C.cap(n["ref"]), C.ver(n["ref"]), n["id"])):
+        por.setdefault(n["source"]["author"], []).append(n)
+    for ns in por.values():
+        for i, y in enumerate(ns):
+            es = (tr.get(y["id"]) or {}).get("text_es")
+            if not es:
+                continue
+            en_p, es_p = y["text_src"].split("\n\n"), es.split("\n\n")
+            if len(en_p) != len(es_p):
+                continue
+            previos = [_norm(p) for x in ns[max(0, i - 6):i] for p in x["text_src"].split("\n\n") if len(_norm(p)) > 60]
+            nuevos = []
+            for pe, ps in zip(en_p, es_p):
+                q = _norm(pe)
+                if q in previos:
+                    informe.append(f"{y['id']}: párrafo repetido quitado")
+                    continue
+                # contenido: solo párrafos largos; uno breve suele ser la cita del versículo o una frase de enlace
+                base = next((p for p in previos if len(p) > 250 and p in q), None)
+                if base:
+                    oe, os_ = _oraciones(pe), _oraciones(ps)
+                    k = sum(1 for o in oe if _norm(o) and _norm(o) in base)
+                    if len(oe) == len(os_) and 0 < k < len(oe):
+                        pref = all(_norm(o) in base for o in oe[:k])
+                        ps = " ".join(os_[k:] if pref else os_[:len(os_) - k])
+                        informe.append(f"{y['id']}: {k} oración(es) repetida(s) quitada(s)")
+                    else:
+                        informe.append(f"{y['id']}: párrafo con repetición parcial SIN quitar (oraciones {len(oe)}/{len(os_)})")
+                nuevos.append(ps)
+            if len(nuevos) != len(es_p) or "\n\n".join(nuevos) != es:
+                salida[y["id"]] = "\n\n".join(nuevos)
+    return salida, informe
+
+
 def capitulo_xhtml(libro, c, rv, ns, tr):
     por = {}
     for n in ns:
         t = dict(tr.get(n["id"], {}))
         t.update(C.adjudicacion(n["id"], libro, t.get("text_es")))
+        if n["id"] in DEPURADO:
+            t["text_es"] = DEPURADO[n["id"]]
         if not t.get("text_es"):
             continue
         ancla = n["ref"]
@@ -241,9 +342,16 @@ def main():
     us = C.unidades(libro)
     caps = sorted({C.cap(r) for r in rv}) if pedido == "todos" else [int(pedido)]
     archivos, tr_total = {}, {}
+    for c in sorted({C.cap(r) for r in rv}):
+        tr_total.update(C.cargar(f"traducido/{libro}/{c:02d}.json", {}))
+    for i, v in tr_total.items():                      # adjudicaciones antes de comparar repeticiones
+        tr_total[i] = {**v, **C.adjudicacion(i, libro, v.get("text_es"))}
+    depurado, informe = sin_repeticiones(libro, us, tr_total)
+    DEPURADO.clear(); DEPURADO.update(depurado)
+    (C.RAIZ / "informes" / f"repeticiones_{libro}.md").write_text("# Repeticiones entre notas vecinas\n\n" + "\n".join(f"- {x}" for x in informe) + "\n")
+    print(f"repeticiones: {len(informe)} ({sum('SIN' in x for x in informe)} sin quitar)")
     for c in caps:
         tr = C.cargar(f"traducido/{libro}/{c:02d}.json", {})
-        tr_total.update(tr)
         archivos[f"c{c:02d}.xhtml"] = xhtml(f"{LIBRO_ES[libro]} {c}",
                                             capitulo_xhtml(libro, c, rv, [n for n in us if C.cap(n["ref"]) == c], tr))
     portada, fuentes, licencias = paginas_previas(libro, us, tr_total)

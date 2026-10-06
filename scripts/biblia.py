@@ -57,9 +57,9 @@ ALIAS.update({"Genesis": "Génesis", "Exodus": "Éxodo", "Exod": "Éxodo", "Levi
               "Galatians": "Gálatas", "Ephesians": "Efesios", "Eph": "Efesios", "Philippians": "Filipenses", "Phil": "Filipenses",
               "Colossians": "Colosenses", "Thessalonians": "Tesalonicenses", "Thess": "Tesalonicenses", "Timothy": "Timoteo",
               "Titus": "Tito", "Philemon": "Filemón", "Hebrews": "Hebreos", "James": "Santiago", "Jas": "Santiago",
-              "Peter": "Pedro", "Pet": "Pedro", "Ped": "Pedro", "Amos": "Amós", "Mar": "Marcos", "Filip": "Filipenses", "Colos": "Colosenses",
+              "Peter": "Pedro", "Pet": "Pedro", "Ped": "Pedro", "Amos": "Amós", "Hageo": "Ageo", "Haggeo": "Ageo", "Mar": "Marcos", "Filip": "Filipenses", "Colos": "Colosenses",
               "Joel": "Joel", "Obadiah": "Abdías", "Jonah": "Jonás", "Nahum": "Nahúm", "Habakkuk": "Habacuc",
-              "Zephaniah": "Sofonías", "Haggai": "Hageo", "Song": "Cantar de los Cantares", "Sirach": "Eclesiástico",
+              "Zephaniah": "Sofonías", "Haggai": "Ageo", "Song": "Cantar de los Cantares", "Sirach": "Eclesiástico",
               "Ecclus": "Eclesiástico", "Tobit": "Tobías", "Baruch": "Baruc", "Daniel": "Daniel", "Dan": "Daniel",
               "Ezra": "Esdras", "Samuel": "Samuel", "Sam": "Samuel", "Job": "Job", "Prov": "Proverbios",
               "Eccl": "Eclesiastés", "Deut": "Deuteronomio", "Lev": "Levítico", "Num": "Números", "Josh": "Josué",
@@ -174,8 +174,8 @@ def normalizar(texto, problemas=None, pag=None):
 
 # cita de capítulo entero entre paréntesis (márgenes de Newman y Aquifer): «(Sal. 33)», «(Mat. 21.)», «(Romanos 1–3)»,
 # «(Sal. 44, [45])» (numeración de la Vulgata con la hebrea entre corchetes), «(Sal. 56, y 107)»
-SOLO_CAPITULO = re.compile(r"\((?P<libro>[A-ZÁÉÍÓÚ][a-záéíóú]+)\.? (?P<caps>\d{1,3}(?:\s?[–-]\s?\d{1,3})?"
-                           r"(?:,? (?:y )?\[?\d{1,3}\]?)?)\.?\)")
+SOLO_CAPITULO = re.compile(r"(?P<abre>\(|; )(?P<libro>[A-ZÁÉÍÓÚ][a-záéíóú]+)\.? (?P<caps>\d{1,3}(?:\s?[–-]\s?\d{1,3})?"
+                           r"(?:,? (?:y )?\[?\d{1,3}\]?)?)\.?(?=\)|;)")
 
 
 def _solo_capitulo(m, problemas, pag):
@@ -183,10 +183,13 @@ def _solo_capitulo(m, problemas, pag):
     if not libro:
         return m.group(0)
     caps = re.findall(r"\d+", m.group("caps"))
+    a, z = m.group("abre"), ""
+    if LIBROS[libro][0] == 1 and len(caps) == 1:          # libro de un capítulo: «Judas 19» es el versículo 19
+        return f"{a}⸢{libro}⸣ 1:{caps[0]}{z}"
     if problemas is not None and any(not 1 <= int(c) <= LIBROS[libro][0] for c in caps):
         problemas.append((pag, f"{libro} {m.group('caps')}: el libro tiene {LIBROS[libro][0]} capítulos"))
     caps = re.sub(r"\s?-\s?", "–", m.group("caps"))
-    return f"(⸢{libro}⸣ {caps})"
+    return f"{a}⸢{libro}⸣ {caps}{z}"
 
 
 def citas(texto):

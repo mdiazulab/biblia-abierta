@@ -39,7 +39,7 @@
   "ok": true,
   "motivo": null,
   "modelo": "gemini-3.6-flash",
-  "huella": "5fce7eb22a28"
+  "huella": "4849ea49389b"
  },
  "aquifer:19125": {
   "ok": true,
@@ -75,7 +75,7 @@
   "ok": true,
   "motivo": null,
   "modelo": "gemini-3.6-flash",
-  "huella": "b0c64cadb61c"
+  "huella": "428841ad02dd"
  },
  "aquifer:19130": {
   "ok": true,
@@ -159,7 +159,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "gemini-3.6-flash",
-  "huella": "5e8a8daff9ee"
+  "huella": "a22cbb69be1f"
  },
  "aquifer:19148": {
   "ok": true,
@@ -273,7 +273,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "gemini-3.6-flash",
-  "huella": "205f4eed9c15"
+  "huella": "5a3587a57578"
  },
  "hcf:Augustine of Hippo/John 4_25#0": {
   "ok": true,
@@ -543,7 +543,7 @@
   "ok": true,
   "motivo": null,
   "modelo": "gemini-3.6-flash",
-  "huella": "04c7205412f7"
+  "huella": "5b9b66612893"
  },
  "hcf:John Chrysostom/John 4_2#0": {
   "ok": true,
@@ -555,7 +555,7 @@
   "ok": true,
   "motivo": null,
   "modelo": "gemini-3.6-flash",
-  "huella": "ac5c72e46c16"
+  "huella": "e0b975d6fe71"
  },
  "hcf:John Chrysostom/John 4_28-29#0": {
   "ok": true,
@@ -591,25 +591,25 @@
   "ok": true,
   "motivo": "",
   "modelo": "gemini-3.6-flash",
-  "huella": "b536e1b69b02"
+  "huella": "3e0d8e6e593e"
  },
  "hcf:John Chrysostom/John 4_54#0": {
   "ok": true,
   "motivo": "",
   "modelo": "gemini-3.6-flash",
-  "huella": "789766239599"
+  "huella": "57d2a3b1dba1"
  },
  "hcf:John Chrysostom/John 4_6#0": {
   "ok": true,
   "motivo": "",
   "modelo": "gemini-3.6-flash",
-  "huella": "e0beefb63a38"
+  "huella": "46ef57436e31"
  },
  "hcf:John Chrysostom/John 4_9#0": {
   "ok": true,
   "motivo": "",
   "modelo": "gemini-3.6-flash",
-  "huella": "699472e1366e"
+  "huella": "9eb74658cd00"
  },
  "hcf:Origen of Alexandria/John 4_14#0": {
   "ok": true,

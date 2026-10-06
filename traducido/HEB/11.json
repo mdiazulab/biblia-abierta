@@ -1,0 +1,885 @@
+{
+ "aquifer:13121": {
+  "text_es": "El capítulo 11 ofrece una larga lista de personas que confiaron en Dios. Esto muestra claramente que vivir por fe es la única manera verdadera de seguir a Dios. El autor repite una y otra vez las palabras «por fe» para dejar claro este mensaje. Cada ejemplo sigue el mismo patrón: (a) la frase ⸢por fe,⸣ (b) el nombre de la persona, (c) el acontecimiento o la acción que muestra fe, y (d) el resultado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a1d3e8d338b1",
+  "text_es_2": "El capítulo 11 da una larga lista de personas que confiaron en Dios. Esto muestra claramente que vivir por fe es la única manera verdadera de seguir a Dios. El escritor sigue repitiendo las palabras «por fe» para dejar claro este mensaje. Cada ejemplo sigue el mismo patrón: (a) la frase ⸢por fe,⸣ (b) el nombre de la persona, (c) el acontecimiento o la acción que muestra fe, y (d) el resultado.",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "aquifer:13129": {
+  "text_es": "Antes de compartir ejemplos, el autor explica la fe: significa actuar según lo que Dios ha mostrado acerca de su voluntad y su carácter. Nuestra fe se basa en la realidad de que Dios cumple sus promesas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6de67d95d47a"
+ },
+ "hcf:Clement of Alexandria/Hebrews 11_1#1": {
+  "text_es": "«No se desborden las aguas de tu fuente, ni se derramen tus aguas por tus propias calles». Pues no son muchos los que entienden tales cosas cuando las encuentran, ni las conocen aun después de haberlas aprendido, aunque creen que sí, según el digno Heráclito. ¿No te parece que también él censura a los que no creen? «Mas mi justo vivirá por la fe», dijo el profeta. Y otro profeta dice también: «Si no creyereis, tampoco entenderéis». Pues ¿cómo podría el alma admitir la contemplación trascendente de tales temas, mientras luchaba dentro de ella la incredulidad respecto a lo que había de aprenderse? Pero la fe, que los griegos desprecian, teniéndola por vana y bárbara, es una preconcepción voluntaria, el asentimiento de la piedad: «la sustancia de las cosas que se esperan, la evidencia de las cosas que no se ven», según el divino apóstol. «Porque por ella», de manera preeminente, «los ancianos obtuvieron buen testimonio. Pero sin fe es imposible agradar a Dios».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "db1b578b3ca0"
+ },
+ "hcf:John Chrysostom/Hebrews 11_1-2#0": {
+  "text_es": "«Es, pues, la fe la sustancia de las cosas que se esperan, la evidencia de las cosas que no se ven. Porque por ella los ancianos obtuvieron buen testimonio». ¡Oh, qué expresión ha usado al decir «una evidencia de las cosas que no se ven»! Pues decimos que hay «evidencia» en el caso de las cosas que son muy claras. La fe, entonces, es el ver las cosas que no son claras (quiere decir), y lleva lo que no se ve a la misma plena seguridad que lo que se ve. Así, pues, ni es posible descreer de las cosas que se ven, ni, por otra parte, puede haber fe a menos que el hombre esté más plenamente seguro respecto a las cosas invisibles de lo que está respecto a las cosas que se ven con mayor claridad. Porque, puesto que los objetos de la esperanza parecen no tener sustancia, la fe les da sustancialidad, o más bien, no se la da, sino que ella misma es su sustancia. Por ejemplo, la resurrección no ha llegado, ni existe sustancialmente, pero la esperanza la hace sustancial en nuestra alma. Este es el significado de «la sustancia de las cosas».\n\nSi, por tanto, es «una evidencia de las cosas que no se ven», ¿por qué, en verdad, deseas verlas, para caer de la fe y de ser justo? Puesto que «el justo vivirá por la fe», mientras que vosotros, si deseáis ver estas cosas, ya no sois fieles. Habéis trabajado (dice), habéis luchado: yo también lo permito; sin embargo, esperad, porque esto es la fe: no busquéis el todo «aquí».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b5c563a08f65"
+ },
+ "hcf:Tertullian/Hebrews 11_1#0": {
+  "text_es": "Debéis saber que a los ojos de la modestia perfecta, es decir, cristiana, el deseo (carnal) de uno mismo (por parte de otros) no solo no ha de ser deseado, sino incluso execrado por vosotros: primero, porque el afán de hacer de la gracia personal (que sabemos que es por naturaleza incitadora de la concupiscencia) un medio de agradar no brota de una conciencia sana; ¿por qué, entonces, excitar hacia ti mismo ese mal (pasión)? ¿por qué invitar (a aquello) de lo que te profesas ajeno? segundo, porque no debemos abrir camino a las tentaciones, que por su insistencia a veces logran (una maldad) que Dios expulsa de los que son suyos; o, en todo caso, ponen el espíritu en completo tumulto al (presentarle) un tropiezo. Debemos, en efecto, caminar con tal santidad, y con tan entera sustancialidad de fe, que estemos confiados y seguros respecto de nuestra propia conciencia, deseando que ese (don) permanezca en nosotros hasta el fin, pero sin presumir (que lo hará).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2c8336c94a36"
+ },
+ "aquifer:13139": {
+  "text_es": "⸢los ancianos fueron alabados⸣: La Escritura habla positivamente de sus vidas de fe (véase también Hebreos 11:39).",
+  "lemas_es": [
+   "los ancianos fueron alabados"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cd8a20cd1429",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.2"
+   }
+  ]
+ },
+ "aquifer:13150": {
+  "text_es": "La creencia de que Dios creó todo el universo es fundamental para la teología judía y cristiana (véase Génesis 1:1–3). Dios hizo todo lo que vemos hoy. Una vida de fe cree que, al igual que la creación, las promesas de Dios son reales y se harán realidad, aunque no sean visibles ahora.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a9ca5564749a"
+ },
+ "hcf:John Chrysostom/Hebrews 11_3#0": {
+  "text_es": "La fe necesita un alma generosa y vigorosa, y que se eleve por encima de todas las cosas sensibles, y que pase más allá de la debilidad de los razonamientos humanos. Pues no es posible llegar a ser creyente sino elevándose por encima de las costumbres comunes del mundo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9e2cd198c043"
+ },
+ "hcf:John Chrysostom/Hebrews 11_3#1": {
+  "text_es": "¿Qué hace entonces Pablo? Los anima por medio de los padres; y antes que eso, por las nociones comunes de la humanidad. Pues dime, dice, ya que la fe es calumniada como una cosa sin demostración y más bien un asunto de engaño, por eso muestra que las cosas más grandes se alcanzan por la fe y no por los razonamientos. ¿Y cómo muestra esto, dime? Es manifiesto, dice, que Dios hizo las cosas que son, de las cosas que no son; las cosas que aparecen, de las cosas que no aparecen; las cosas que subsisten, de las cosas que no subsisten. Pero ¿de dónde se muestra que hizo esto incluso «por una Palabra»? Pues la razón no sugiere nada de esto; sino, al contrario, que las cosas que aparecen están formadas de cosas que aparecen.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "440ea039e215"
+ },
+ "hcf:John Chrysostom/Hebrews 11_3#2": {
+  "text_es": "Por eso los filósofos dicen expresamente que «nada sale de las cosas que no son», siendo «sensuales» (Judas 19), y no confiando nada a la fe. Y sin embargo, estos mismos hombres, cuando llegan a decir algo grande y noble, son sorprendidos confiándolo a la fe. Por ejemplo, que «Dios es sin principio, y no engendrado»; pues la razón no sugiere esto, sino lo contrario. Y considerad, os ruego, su gran necedad. Dicen que Dios es sin principio; y sin embargo esto es mucho más asombroso que la creación de las cosas que no son. Pues decir que Él es sin principio, que es no engendrado, que no es engendrado ni por sí mismo ni por otro, está lleno de más dificultades que decir que Dios hizo las cosas que son, de las cosas que no son.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ebdc79c831b8"
+ },
+ "hcf:John Chrysostom/Hebrews 11_3#3": {
+  "text_es": "¿De dónde aparece, diría, que Dios hizo estas cosas? La razón no lo sugiere; nadie estuvo presente cuando se hizo. ¿De dónde se muestra? Es claramente resultado de la fe. «Por la fe entendemos que los mundos fueron hechos». ¿Por qué «por la fe»? Porque «las cosas que se ven no fueron hechas de cosas que aparecen». Pues esto es la fe. Habiendo así establecido el principio general, después lo prueba por individuos. Pues un hombre notable equivale al mundo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "88cdcf22141c"
+ },
+ "hcf:Philoxenus of Mabbug/Hebrews 11_3#0": {
+  "text_es": "Y la fe es un intermediario entre las cosas que han pasado y las cosas que han de venir, pues de todas aquellas cosas que sucedieron antes de nosotros, y de las que han de suceder después de nosotros, recibimos su enseñanza por la fe, según lo que dice Pablo: «Por la fe entendemos que los mundos fueron construidos por la palabra de Dios, y que de las cosas que no se ven han llegado a ser estas cosas que se ven».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "652c3ff9e11c"
+ },
+ "hcf:Shepherd of Hermas/Hebrews 11_3#0": {
+  "text_es": "Y en un lugar mucho más bajo serán puestos, y eso también, solo cuando hayan sido atormentados y hayan cumplido los días de sus pecados. Y por esta razón serán trasladados, porque han participado del Verbo justo. Y solo entonces serán librados de sus castigos cuando el pensamiento les venga al corazón de arrepentirse de las obras que han hecho.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1c536eb6633b",
+  "corregido_por_juez": "«righteous Word» se traduce como «Palabra justa» en vez de «el Verbo justo» (vocabulario RV1909 para el Logos)."
+ },
+ "aquifer:13151": {
+  "text_es": "⸢Abel⸣: Véase Génesis 4:3–5. ⸢Por la fe fue alabado como justo⸣⸢:⸣ Compárese con Hebreos 10:38. ⸢aún habla⸣: La historia de su fe nos desafía, y su sangre da testimonio de su justicia y de la injusticia de su asesinato (véase 12:24).",
+  "lemas_es": [
+   "Abel"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d192ebefdd82",
+  "lemas_rv1909": [
+   {
+    "lema": "Abel",
+    "ref": "HEB.11.4"
+   }
+  ]
+ },
+ "hcf:Cosmas Indicopleustes/Hebrews 11_4#0": {
+  "text_es": "la confianza que Abel mostró después de la muerte, quien aún habla, clamando desde la tierra al dar a luz el retorno de la vida.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "86eacc25f46f"
+ },
+ "hcf:John Chrysostom/Hebrews 11_4#0": {
+  "text_es": "Y observa a quién pone primero, a quien fue maltratado, y eso por un hermano. Era su propia aflicción: «Porque vosotros también» (dice) «habéis padecido las mismas cosas de vuestros propios compatriotas». (1 Tes. ii. 14.) Y por un hermano que no había sido agraviado en nada, sino que le tuvo envidia por causa de Dios; mostrando que también a ellos se los mira con malos ojos y se les tiene envidia. Honró a Dios, y murió porque lo honró; y aún no ha alcanzado la resurrección. Pero su disposición es manifiesta, y su parte se ha cumplido, pero la parte de Dios aún no se ha llevado a cabo respecto a él.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "57e67142a612"
+ },
+ "hcf:John Chrysostom/Hebrews 11_4#1": {
+  "text_es": "Y por «más excelente sacrificio» en este lugar, quiere decir el que es más honorable, más espléndido, más necesario.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0da87ab5a2b3"
+ },
+ "hcf:John Chrysostom/Hebrews 11_4#2": {
+  "text_es": "Y no podemos decir (dice) que no fue aceptado. Lo aceptó, y dijo a Caín: «¿No has pecado, si bien ofreces, pero no divides bien?» (Gén. iv. 7 LXX.) Así que Abel ofreció bien y dividió bien. Sin embargo, por esto, ¿qué recompensa recibió? Fue muerto por mano de su hermano; y esa sentencia que su padre soportó a causa del pecado, este la recibió primero, siendo recto. Y sufrió tanto más gravemente porque fue de un hermano, y fue el primero en sufrir.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f78b0534dd68"
+ },
+ "hcf:John Chrysostom/Hebrews 11_4#3": {
+  "text_es": "E hizo estas cosas rectamente sin mirar a ningún hombre. Pues ¿a quién podía mirar, cuando así honraba a Dios? ¿A su padre y a su madre? Pero ellos lo habían ultrajado en pago de sus beneficios. ¿A su hermano entonces? Pero él también había deshonrado a Dios. De modo que por sí mismo buscó lo que era bueno.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d14983f1e878"
+ },
+ "hcf:John Chrysostom/Hebrews 11_4#4": {
+  "text_es": "Y el que es digno de tan gran honor, ¿qué sufre? Es condenado a muerte. ¿Y cómo también de otro modo «se dio testimonio de que era justo»? Se dice que descendió fuego y consumió los sacrificios. Pues en lugar de «Y el Señor miró con agrado a Abel y a sus sacrificios» (Gén. iv. 4), el siríaco decía: «Y los puso en fuego». Aquel, pues, que tanto por palabra como por obra dio testimonio del hombre justo y lo ve muerto por su causa, no lo vengó, sino que lo dejó sufrir.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "499cf01fca4d"
+ },
+ "hcf:John Chrysostom/Hebrews 11_4#5": {
+  "text_es": "Pero vuestro caso no es tal: pues ¿cómo podría serlo? Vosotros, que tenéis tanto profetas como ejemplos, y estímulos innumerables, y señales y milagros realizados? De ahí que aquello fue fe en verdad. Pues ¿qué milagros vio, para que creyera que tendría alguna recompensa de bienes? ¿No eligió la virtud solo por la fe?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a08782697e73"
+ },
+ "hcf:John Chrysostom/Hebrews 11_4#6": {
+  "text_es": "¿Qué significa «y por ella, estando muerto, aún habla»? Para no sumirlos en gran desánimo, muestra que en parte ha obtenido recompensa. ¿Cómo? «La influencia que de él procede es grande, quiere decir, y aún habla»; esto es, Caín lo mató, pero no mató con él su gloria y su memoria. No está muerto; por tanto, tampoco vosotros moriréis. Pues cuanto más graves son los sufrimientos de un hombre, tanto mayor es su gloria.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "52a532f55fe4"
+ },
+ "hcf:John Chrysostom/Hebrews 11_4#7": {
+  "text_es": "¿Cómo «aún habla»? Esto es señal tanto de que está vivo como de que es celebrado, admirado y tenido por bienaventurado por todos. Pues el que anima a otros a ser justos, habla. Ningún discurso aprovecha tanto como el sufrimiento de aquel hombre. Así como el cielo, por su sola apariencia, habla, también él lo hace por ser tenido en memoria. No si él hubiera proclamado de sí mismo, no si hubiera tenido diez mil lenguas y estuviera vivo, habría sido tan admirado como ahora. Esto es, estas cosas no suceden impunemente, ni a la ligera, ni pasan sin más.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9b05aa1c86c7"
+ },
+ "hcf:Tertullian/Hebrews 11_4#0": {
+  "text_es": "Por tanto, puesto que Dios originó a Adán incircunciso y no observante del sábado, en consecuencia también su descendencia, Abel, ofreciéndole sacrificios, incircunciso y no observante del sábado, fue por Él alabado; pues aceptó lo que ofrecía con sencillez de corazón, y reprobó el sacrificio de su hermano Caín, que no dividía rectamente lo que ofrecía. También a Noé, incircunciso —sí, y no observante del sábado—, Dios lo libró del diluvio.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ef9c5bbbac9d"
+ },
+ "aquifer:13152": {
+  "text_es": "Enoc fue al cielo y no enfrentó una muerte normal (véase Génesis 5:21–24). ⸢«No fue hallado, porque Dios se lo llevó.»⸣: Génesis 5:24.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2a3ebf6143bb"
+ },
+ "hcf:Clement of Rome/Hebrews 11_5#0": {
+  "text_es": "Contemplemos con firmeza a quienes han servido perfectamente a su excelente gloria. Tomemos, por ejemplo, a Enoc, quien, hallado justo en la obediencia, fue trasladado, y nunca se supo que le sobreviniera la muerte.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4551adc1edc7"
+ },
+ "hcf:John Chrysostom/Hebrews 11_5#0": {
+  "text_es": "«Por fe Enoc fue trasladado, para que no viera muerte, y no fue hallado, porque Dios lo trasladó.» Este hombre mostró mayor fe que Abel. ¿Cómo (preguntas)? Porque, aunque vino después de él, lo que le aconteció a Abel fue suficiente para hacerlo volver atrás. ¿Cómo? Dios previó que Abel sería asesinado. Pues dijo a Caín: «Has pecado: no añadas a ello.» Honrado por él, no lo protegió. Y sin embargo, ni esto arrojó a Enoc a la indiferencia. No se dijo a sí mismo: «¿Qué necesidad hay de fatigas y peligros? Abel honró a Dios, y sin embargo no lo protegió. Pues ¿qué ventaja tuvo el que partió, del castigo de su hermano? ¿Y qué beneficio pudo sacar de ello? Admitamos que sufre un castigo severo: ¿qué es eso para el que ha sido asesinado?» Ni dijo ni pensó nada de esto, sino que, pasando más allá de todas estas cosas, sabía que si hay un Dios, ciertamente hay también un Remunerador; aunque hasta entonces nada sabían de una resurrección. Pero si los que aún nada sabían de una resurrección, y veían aquí cosas contradictorias, así agradaron a Dios, ¿cuánto más deberíamos nosotros? Pues ellos ni conocían una resurrección, ni tenían ejemplos a los que mirar. Esto mismo, entonces, hizo a Enoc agradable a Dios, a saber, que no recibió nada. Pues sabía que Dios «es remunerador». ¿De dónde sabía esto? «Porque recompensó a Abel», dices. De modo que la razón sugería otras cosas, pero la fe, lo contrario de lo que se veía. Aun entonces (diría), si ves que no recibes nada aquí, no te turbes.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "56dd50dccffc"
+ },
+ "hcf:John Chrysostom/Hebrews 11_5#1": {
+  "text_es": "¿Cómo fue «por fe» que «Enoc fue trasladado»? Porque su agradar a Dios fue la causa de su traslado, y la fe la causa de agradarle. Pues si no hubiera sabido que recibiría una recompensa, ¿cómo habría podido agradarle? «Pero sin fe es imposible agradarle». ¿Cómo? Si un hombre cree que hay un Dios y una retribución, tendrá la recompensa. ¿De dónde, entonces, el agradarle?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f7c994760495"
+ },
+ "hcf:John Chrysostom/Hebrews 11_5#2": {
+  "text_es": "Pero muchos preguntan adónde fue trasladado Enoc, y por qué fue trasladado, y por qué no murió, ni él ni Elías, y, si aún están vivos, cómo viven y en qué forma. Pero preguntar estas cosas es superfluo. Pues que el uno fue trasladado, y que el otro fue arrebatado, lo han dicho las Escrituras; pero dónde están y cómo están, no lo han añadido: pues no dicen nada más de lo necesario. Esto ciertamente sucedió, me refiero a su traslado, inmediatamente al principio, recibiendo con ello el alma humana una esperanza de la destrucción de la muerte y del derrocamiento de la tiranía del diablo, y de que la muerte será abolida; pues fue trasladado, no muerto, sino «para que no viera muerte».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "85b5ac160820"
+ },
+ "hcf:John Chrysostom/Hebrews 11_5#3": {
+  "text_es": "Por tanto añadió que fue trasladado vivo, porque era agradable a Dios. Pues así como un padre, cuando ha amenazado a su hijo, desea ciertamente, inmediatamente después de haber amenazado, relajar su amenaza, pero aguanta y se mantiene firme, para castigarlo y corregirlo por un tiempo, dejando firme la amenaza; así también Dios, por así decirlo al modo de los hombres, no se mantuvo firme, sino que mostró de inmediato que la muerte es abolida. Y primero permite que la muerte acontezca, queriendo aterrorizar al padre por medio del hijo: pues queriendo mostrar que la sentencia está verdaderamente fijada, sometió a este castigo no a hombres malvados de inmediato, sino a aquel que era agradable, me refiero al bienaventurado Abel; y casi inmediatamente después de él, trasladó a Enoc. Además, no resucitó al primero, para que no se volvieran de inmediato osados; pero trasladó al otro estando aún vivo: habiendo suscitado temor por medio de Abel, pero por este último dando celo para agradarle.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5f86996921c3"
+ },
+ "hcf:Tertullian/Hebrews 11_5#0": {
+  "text_es": "Pues también a Enoc, varón justísimo, incircunciso y no observante del sábado, lo trasladó de este mundo; quien no gustó primero la muerte, para que, siendo candidato a la vida eterna, nos mostrara ya entonces que también nosotros podemos, sin la carga de la ley de Moisés, agradar a Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d4c89259195b"
+ },
+ "aquifer:13153": {
+  "text_es": "⸢sin fe es imposible agradar a Dios⸣: El autor se refiere a Hebreos 10:38, que cita Habacuc 2:4. La fe debe incluir creer que Dios existe y que recompensa a quienes lo buscan sinceramente. Cuando la vida es difícil, se anima a los oyentes a confiar en Dios y a esperar que cumpla sus promesas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "258162524fb0"
+ },
+ "hcf:John Chrysostom/Hebrews 11_6#0": {
+  "text_es": "Es necesario «creer que Él es», no «qué es». Si «que Él es» necesita fe, y no razonamientos, es imposible comprender por razonamiento «qué es». Si que «Él es remunerador» necesita fe y no razonamientos, ¿cómo es posible abarcar por razonamiento su esencia? Pues ¿qué razonamiento puede alcanzar esto? Porque algunos dicen que las cosas que existen son causa de sí mismas. ¿Ves que, a menos que tengamos fe en cuanto a todas las cosas, no solo en cuanto a la retribución, sino también en cuanto al mismo ser de Dios, todo se nos pierde?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7204ef4bdccf"
+ },
+ "hcf:John Chrysostom/Hebrews 11_6#1": {
+  "text_es": "Por lo cual, los que dicen que todas las cosas se rigen y gobiernan por sí mismas, y no esperan una recompensa, no son agradables; como tampoco lo son los paganos. Pues «Él se hace remunerador de los que le buscan diligentemente» por las obras y por el conocimiento.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "71024af29114"
+ },
+ "hcf:John Chrysostom/Hebrews 11_6#2": {
+  "text_es": "Puesto que, entonces, tenemos «un remunerador», hagamos todas las cosas para no ser privados de los galardones de la virtud. Pues en verdad, el descuidar tal recompensa, el despreciar tal galardón, es digno de muchas lágrimas. Pues así como para «los que le buscan diligentemente» Él es remunerador, así para los que no le buscan, lo contrario.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e0979df0314b"
+ },
+ "hcf:Philoxenus of Mabbug/Hebrews 11_6#2": {
+  "text_es": "Y ninguno de los justos agradó a Dios sin fe, como lo atestigua la enseñanza de Pablo, quien, comenzando con Abel, repitió todos sus nombres uno tras otro descendiendo hasta la manifestación de Cristo, y mostró que todos agradaron a Dios por la fe. Y estableciendo un límite definido para todos los discípulos, dijo: «Sin fe el hombre no puede agradar a Dios.»",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e791fc686f55"
+ },
+ "aquifer:13154": {
+  "text_es": "La historia de Noé (véase Génesis 6:1–9:17) muestra que la fe significa obedecer aun cuando no puedes ver el resultado. ⸢cosas que aún no se veían⸣: Específicamente, el diluvio. La fe de Noé mostró al mundo la verdad de Dios y su deseo de santidad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "106f40a00a86"
+ },
+ "hcf:John Chrysostom/Hebrews 11_7#0": {
+  "text_es": "«Por fe» (dice) «Noé, habiendo sido advertido por Dios». Como el Hijo de Dios, hablando de su propia venida, dijo: «En los días de Noé se casaban y se daban en casamiento», por eso también el Apóstol les recordó una imagen apropiada. Pues el ejemplo de Enoc fue ejemplo solo de fe; el de Noé, en cambio, también de incredulidad. Y esto es un consuelo y una exhortación completos, cuando no solo los creyentes son hallados aprobados, sino que también los incrédulos sufren lo contrario.\n\nPues ¿qué dice? «Por fe, habiendo sido advertido por Dios». ¿Qué es «habiendo sido advertido por Dios»? Es: «habiéndosele predicho». Pero ¿por qué se usa la expresión «comunicación divina»? Pues en otro lugar también se dice: «y le fue comunicado por el Espíritu», y de nuevo: «y ¿qué dice la comunicación divina?» ¿Ves la igual dignidad del Espíritu? Pues como Dios revela, así también lo hace el Espíritu Santo.\n\n«De cosas que aún no se veían», dice, esto es, de la lluvia.\n\n«Movido por temor, preparó un arca». La razón ciertamente no sugería nada de este tipo; pues «se casaban y se daban en casamiento»; el aire estaba claro, no había señales de cambio: pero sin embargo temió: «Por fe» (dice) «Noé, habiendo sido advertido por Dios de cosas que aún no se veían, movido por temor, preparó un arca para salvación de su casa».\n\n¿Cómo es que «por la cual condenó al mundo»? Los mostró dignos de castigo, ya que ni siquiera con la preparación fueron llevados a la sensatez.\n\n«Y fue hecho» (dice) «heredero de la justicia que es por la fe»: esto es, por creer a Dios fue mostrado como justo. Pues esto es propio de un alma sinceramente dispuesta hacia Él y que no juzga nada más fiable que sus palabras, así como la incredulidad es lo completamente contrario. La fe, es manifiesto, obra la justicia. Pues así como hemos sido advertidos por Dios respecto al infierno, también lo fue él: y sin embargo en aquel tiempo fue objeto de burla; fue injuriado y ridiculizado; pero no hizo caso de ninguna de estas cosas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6d79dda3f1bc"
+ },
+ "hcf:Tertullian/Hebrews 11_7#0": {
+  "text_es": "Porque ¿qué maravilla hay en que extienda una disciplina quien la instituye? ¿en que adelante quien comienza? En suma, antes de la Ley de Moisés, escrita en tablas de piedra, sostengo que había una ley no escrita, que se entendía habitualmente de modo natural, y que los padres guardaban habitualmente. Pues ¿de dónde fue Noé «hallado justo», si en su caso no hubiera precedido la justicia de una ley natural? ¿De dónde fue Abraham tenido por «amigo de Dios», si no fuera por la equidad y la justicia, (en la observancia) de una ley natural? ¿De dónde fue Melchisedec llamado «sacerdote del Dios altísimo», si antes del sacerdocio de la ley levítica no hubiera levitas que solían ofrecer sacrificios a Dios? Pues así, después de los patriarcas mencionados, fue dada la Ley a Moisés, en aquel tiempo (bien conocido) después de su éxodo de Egipto, tras el intervalo y los espacios de cuatrocientos años.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3009864694e3"
+ },
+ "aquifer:13155": {
+  "text_es": "⸢Abraham … obedeció⸣: Véase Génesis 12:1–2. Actuó sin saber su destino, confiando en lo que aún no podía ver.",
+  "lemas_es": [
+   "Abraham … obedeció"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "32b5c573f6c0",
+  "lemas_rv1909": [
+   {
+    "lema": "Abraham, siendo llamado, obedeció",
+    "ref": "HEB.11.8"
+   }
+  ]
+ },
+ "hcf:John Chrysostom/Hebrews 11_8#0": {
+  "text_es": "«Por la fe Abraham, siendo llamado, obedeció para salir al lugar que había de recibir como herencia; y salió sin saber a dónde iba.» «Por la fe»: pues (dime) ¿a quién vio para imitar? Tenía por padre a un gentil y a un idólatra; no había oído a ningún profeta; no sabía a dónde iba. Pues así como los hebreos que creyeron miraban a estos patriarcas como quienes habían gozado de bendiciones innumerables, él muestra que ninguno de ellos obtuvo todavía cosa alguna; todos están sin recompensa; ninguno ha recibido aún su galardón. Escapó de su país y de su casa, y «salió sin saber a dónde iba».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ee36776f26a3"
+ },
+ "aquifer:13156": {
+  "text_es": "⸢Por la fe habitó en la tierra prometida⸣: Abraham no recibió la tierra prometida. En cambio, vivió como extranjero en tiendas (véase Génesis 12:10–13:18). ⸢como también Isaac y Jacob⸣: Esta fe continuó con las dos generaciones siguientes. Recibieron la misma promesa y confiaron en Dios, pero no la vieron cumplida. ⸢la ciudad con fundamentos⸣: Abraham no se estableció en ciudades cananeas. Siguió la voluntad de Dios, esperando una ciudad celestial.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a61a56aca752"
+ },
+ "hcf:John Chrysostom/Hebrews 11_9#0": {
+  "text_es": "«Por la fe habitó como extranjero en la tierra prometida, como en tierra ajena, morando en tabernáculos con Isaac y Jacob, los herederos con él de la misma promesa.» ¿Y qué maravilla, si él mismo era así, cuando también su descendencia habitó de esta misma manera? Pues al ver que la promesa no se cumplía (ya que había dicho: «A ti daré esta tierra, y a tu descendencia»), vio a su hijo habitar allí; y de nuevo su nieto se vio habitando en una tierra que no era suya; y sin embargo no se turbó en absoluto. Pues los asuntos de Abraham sucedieron como era de esperar, ya que la promesa había de cumplirse después en su familia (aunque también a él mismo se le dice: «A ti, y a tu descendencia», no «a ti por medio de tu descendencia», sino «a ti y a tu descendencia»): con todo, ni él, ni Isaac, ni Jacob gozaron de la promesa. Pues uno de ellos sirvió por salario, y el otro fue expulsado; y él mismo desfallecía por temor; y aunque tomó algunas cosas en la guerra, otras, si no hubiera tenido la ayuda de Dios, habrían sido destruidas. Por esto el Apóstol dice: «con los herederos de la misma promesa»; no solo él, quiere decir, sino también los herederos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e5a6efa7f076"
+ },
+ "hcf:Tertullian/Hebrews 11_9#0": {
+  "text_es": "Fue, por tanto, nuestro deseo que aquello que, debido al confuso ruido de la disputa, podía ser menos plenamente dilucidado punto por punto, fuera examinado con mayor cuidado, y que la pluma determinara, para fines de lectura, las cuestiones tratadas",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8fd1f1c43b7a"
+ },
+ "hcf:Alexander of Alexandria/Hebrews 11_10#0": {
+  "text_es": "Pues aunque una afirmación pueda referirse al Padre mismo, ahora se hablaría más apropiadamente del Verbo, porque cuando se hizo hombre, no cambió; sino que, como dice el apóstol: «Jesucristo es el mismo ayer, y hoy, y por los siglos.» ¿Quién los ha inducido a decir que por nosotros fue hecho; aunque Pablo dice: «por quien son todas las cosas, y por quien todas las cosas existen»?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "56d8feecb83c"
+ },
+ "hcf:John Chrysostom/Hebrews 11_10#0": {
+  "text_es": "«Porque esperaban» (dice) «la ciudad que tiene fundamentos, cuyo arquitecto y constructor es Dios.» ¿Ves que las recibieron en este sentido, al aceptarlas ya y estar confiados respecto a ellas? Si, pues, estar confiado es recibir, también está en tu poder recibir. Pues estos, aunque no gozaron de aquellas bendiciones, sin embargo las veían por su anhelante deseo. ¿Por qué ahora suceden estas cosas? Para que seamos avergonzados, en que ellos ciertamente, cuando se les prometieron cosas terrenas, no las consideraron, sino que buscaban la «ciudad» futura; mientras que Dios una y otra vez nos habla de la ciudad de arriba, y sin embargo buscamos la de aquí. Les dijo: Os daré las cosas del mundo presente. Pero cuando vio, o más bien, cuando ellos se mostraron dignos de cosas mayores, entonces ya no permite que reciban estas, sino aquellas mayores; queriendo mostrarnos que son dignos de cosas mayores, no queriendo estar atados a estas. Como si uno prometiera juguetes a un niño inteligente, no para que los recibiera, sino para exhibir su filosofía, cuando pide cosas más importantes. Pues esto es mostrar que se apartaron de la tierra con tan gran empeño, que ni siquiera aceptaron lo que se les daba. Por lo cual su posteridad la recibe por esta razón, pues ellos mismos eran dignos de la tierra.\n\n¿Qué es «la ciudad que tiene fundamentos»? Pues ¿no son estos visibles «fundamentos»? En comparación con la otra, no lo son.\n\n«Cuyo arquitecto y constructor es Dios.» ¡Oh, qué elogio de aquella ciudad!",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1db860eab72a"
+ },
+ "hcf:Methodius of Olympus/Hebrews 11_10#0": {
+  "text_es": "Y los judíos declaraban que la sombra de la imagen (de las cosas celestiales que se les ofrecía) era la tercera respecto de la realidad; pero nosotros contemplamos claramente la imagen del orden celestial; pues la verdad se manifestará con exactitud después de la resurrección, cuando veamos el tabernáculo celestial (la ciudad en el cielo «cuyo arquitecto y constructor es Dios»",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "62ee4f88460c"
+ },
+ "hcf:Augustine of Hippo/Hebrews 11_11#0": {
+  "text_es": "Está escrito en la epístola a los Hebreos: «Por la fe también Sara misma recibió fuerza para concebir descendencia.» Pues ambos eran viejos, como testifica la Escritura; pero ella era además estéril y había cesado de menstruar, de modo que ya no podía tener hijos aunque no hubiera sido estéril. Además, si una mujer es de edad avanzada pero aún conserva la costumbre de las mujeres, puede tener hijos de un joven, pero no de un viejo, aunque ese mismo viejo puede engendrar, pero solo de una mujer joven; como después de la muerte de Sara Abraham pudo de Cetura, porque la encontró en su edad lozana. Esto, pues, es lo que el apóstol menciona como admirable, diciendo además que el cuerpo de Abraham estaba ya muerto; porque a esa edad ya no podía engendrar hijos de ninguna mujer que conservara ahora solo una pequeña parte de su vigor natural. Por supuesto debemos entender que su cuerpo estaba muerto solo para algunos propósitos, no para todos; pues si lo estuviera para todos, ya no sería el cuerpo anciano de un hombre vivo, sino el cadáver de uno muerto. Aunque esa cuestión, cómo Abraham engendró hijos de Cetura, se resuelve habitualmente de este modo: que el don de engendrar que recibió del Señor permaneció incluso después de la muerte de su esposa. Sin embargo, creo que es preferible la solución de la cuestión que he seguido, porque, aunque en nuestros días un viejo de cien años no puede engendrar hijos de ninguna mujer, no era así entonces, cuando los hombres aún vivían tanto que cien años no les traían todavía la decrepitud de la vejez.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c7e7e9f47696"
+ },
+ "hcf:Cyril of Jerusalem/Hebrews 11_11-12#1": {
+  "text_es": "Veamos, pues, cómo Abraham es padre de muchas naciones. De los judíos es confesadamente el padre, por sucesión según la carne. Pero si nos atenemos a la sucesión según la carne, nos veremos obligados a decir que el oráculo era falso. Pues según la carne ya no es padre de todos nosotros; pero el ejemplo de su fe nos hace a todos hijos de Abraham. ¿Cómo y de qué manera? Con los hombres es increíble que uno resucite de entre los muertos, así como también es increíble que haya descendencia de personas ancianas que están como muertas. Pero cuando se predica que Cristo fue crucificado en el madero, y que murió y resucitó, lo creemos. Por la semejanza, por tanto, de nuestra fe somos adoptados en la filiación de Abraham. Y luego, siguiendo a nuestra fe, recibimos como él el sello espiritual, siendo circuncidados por el Espíritu Santo mediante el bautismo, no en el prepucio del cuerpo sino en el corazón, según Jeremías, donde dice: «Y seréis circuncidados para Dios en el prepucio de vuestro corazón», y según el apóstol: «en la circuncisión de Cristo, sepultados con él en el bautismo», y lo demás.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "56282da0fcb6"
+ },
+ "hcf:John Chrysostom/Hebrews 11_11#0": {
+  "text_es": "«Por la fe también Sara misma», dice. Aquí comenzó a hablar de un modo que los avergonzara, en caso de que, es decir, se mostraran más pusilánimes que una mujer. Pero posiblemente alguien diga: ¿Cómo «por la fe», cuando ella se rió? No, aunque su risa ciertamente provenía de la incredulidad, su temor provenía de la fe, pues decir «No me reí» surgió de la fe. De esto, pues, aparece que, una vez despejada la incredulidad, la fe vino en su lugar.\n\n«Por la fe también Sara recibió fuerza para concebir descendencia, aun cuando ya era de edad avanzada.» ¿Qué es «concebir descendencia»? Ella, que había quedado como muerta, que era estéril, recibió poder para retener la semilla, para concebir. Pues su imperfección era doble: primero por su edad, pues era realmente vieja; segundo por naturaleza, pues era estéril.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "94bb6c5e2042"
+ },
+ "aquifer:13122": {
+  "text_es": "⸢y él como muerto⸣: Abraham, que era muy viejo, llegó a ser antepasado de una nación entera. La fe significa creer que Dios puede cumplir sus promesas, aun cuando parezca imposible. ⸢como las estrellas⸣⸢ … y la arena⸣: Véase Génesis 22:17. Dios cumplió su promesa (Éxodo 1:7).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "43231e11beba"
+ },
+ "hcf:John Chrysostom/Hebrews 11_12#0": {
+  "text_es": "«Por lo cual también de uno solo» todos «nacieron, como las estrellas del cielo, y como la arena que está a la orilla del mar». «Por lo cual» (dice) «también de uno solo» todos «nacieron». Aquí no solo dice que ella dio a luz un hijo, sino que también llegó a ser madre de tantos, como ni siquiera los vientres fecundos son madres de tantos. «Como las estrellas», dice. ¿Cómo es entonces que a menudo los cuenta, aunque dijo: «Como las estrellas del cielo no se podrán contar, así ni tu simiente»? O bien se refiere al exceso, o bien habla de aquellos que continuamente nacen. Pues ¿es posible, dime, contar a sus antepasados de una sola familia, como tal hijo de tal, y tal hijo de tal? Pero aquí tales son las promesas de Dios, tan hábilmente dispuestas están sus obras.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1a9e433781bf"
+ },
+ "aquifer:13123": {
+  "text_es": "El autor se detiene a explicar las lecciones comunes que se ven en las vidas que ha tratado hasta ahora.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "83dd946be42c"
+ },
+ "aquifer:13124": {
+  "text_es": "La familia de Abraham vivió en la tierra prometida como extranjeros y peregrinos (véase Génesis 23:4; compárese I Crónicas 29:15; Salmos 39:12; I Pedro 2:11).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ee5da43d6bf2"
+ },
+ "hcf:John Chrysostom/Hebrews 11_13#0": {
+  "text_es": "La primera virtud, sí, la virtud entera, es ser extranjero a este mundo, y peregrino, y no tener nada en común con las cosas de aquí, sino estar desasido de ellas, como de cosas extrañas a nosotros; como lo hicieron aquellos benditos discípulos, de quienes dice: «Anduvieron vagando en pieles de ovejas y en pieles de cabras, necesitados, afligidos, atormentados; de los cuales el mundo no era digno».\n\nSe llamaban, pues, a sí mismos «extranjeros»; pero Pablo dijo algo mucho más allá de esto: porque no solo se llamó a sí mismo extranjero, sino que dijo que estaba muerto al mundo, y que el mundo estaba muerto para él. «Porque el mundo» (dice) «me ha sido crucificado a mí, y yo al mundo». Pero nosotros, a la vez ciudadanos y bien vivos, nos ocupamos de todo lo de aquí como ciudadanos. Y lo que los hombres justos eran al mundo, «extranjeros» y «muertos», eso somos nosotros al cielo. Y lo que ellos eran al cielo, vivos y obrando como ciudadanos, eso somos nosotros al mundo. Por lo cual estamos muertos, porque hemos rechazado lo que es verdaderamente vida, y hemos escogido esto que es solo por un tiempo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "50bc4b4e85f9",
+  "corregido_por_juez": "La cita de Hebreos 11:37-38 está alterada: omite 'en pieles de ovejas y de cabras, necesitados, afligidos, atormentados' y añade 'por los desiertos, montes, cuevas y cavernas'."
+ },
+ "hcf:John Chrysostom/Hebrews 11_13#1": {
+  "text_es": "Los santos eran «extranjeros y peregrinos». ¿Cómo y de qué manera? ¿Y dónde confiesa Abraham de sí mismo que es «extranjero y peregrino»? Probablemente también él mismo lo confesó: pero David confesó tanto «Yo soy extranjero» como ¿qué? «Como todos mis padres». Pues los que habitan en tiendas, los que compran incluso lugares de sepultura por dinero, evidentemente eran en cierto sentido extranjeros, ya que no tenían ni dónde enterrar a sus muertos.\n\n¿Qué entonces? ¿Querían decir que eran «extranjeros» de la tierra que está en Palestina? De ningún modo: sino respecto del mundo entero: y con razón; pues no veían en él ninguna de las cosas que deseaban, sino todo extranjero y extraño. Ellos ciertamente deseaban practicar la virtud: pero aquí había mucha maldad, y las cosas les eran del todo extrañas. No tenían amigo, ni conocido familiar, salvo solo unos pocos.\n\nPero ¿cómo eran «extranjeros»? No tenían cuidado de las cosas de aquí. Y esto lo mostraron no con palabras, sino con sus obras. ¿De qué manera?\n\nLe dijo a Abraham: «Deja lo que parece ser tu país y ven a uno que es extranjero»: Y no se apegó a su parentela, sino que la abandonó con tanta indiferencia como si estuviera a punto de dejar una tierra extranjera. Le dijo: «Ofrece a tu hijo», y lo ofreció como si no tuviera hijo; como si se hubiera despojado de su naturaleza, así lo ofreció. La riqueza que había adquirido era común a todos los transeúntes, y esto lo tenía por nada. Cedía los primeros lugares a otros: se arrojaba a los peligros; sufrió innumerables tribulaciones. No construyó casas espléndidas, no disfrutó de lujos, no tuvo cuidado del vestido, que todas son cosas de este mundo; sino que vivió en todos los aspectos como perteneciente a la Ciudad de allá arriba; mostró hospitalidad, amor fraternal, misericordia, paciencia, desprecio por la riqueza y por la gloria presente, y por todo lo demás.\n\nY su hijo también era como él: cuando fue echado fuera, cuando se le hizo la guerra, cedió y se retiró, como estando en tierra extranjera. Pues los extranjeros, cualquier cosa que sufran, la soportan, como no estando en su propio país. Aun cuando su esposa le fue quitada, soportó esto también como estando en tierra extraña: y vivió en todos los aspectos como uno cuyo hogar está arriba, mostrando sobriedad y una vida bien ordenada. Pues después de haber engendrado un hijo, no tuvo más trato con su esposa, y fue cuando la flor de su juventud había pasado que se casó con ella, mostrando que lo hizo no por pasión, sino en subordinación a la promesa de Dios.\n\n¿Y qué hizo Jacob? ¿No buscó solo pan y vestido, que son pedidos por aquellos que son verdaderamente extranjeros; por aquellos que han llegado a gran pobreza? Cuando fue echado fuera, ¿no cedió el lugar como un extranjero? ¿No sirvió por salario? ¿No sufrió innumerables aflicciones, en todas partes, como un extranjero?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ea1ff9137d85"
+ },
+ "hcf:John Chrysostom/Hebrews 11_13#2": {
+  "text_es": "«Todos estos murieron en fe», dice, «sin haber recibido las promesas». En este lugar vale la pena hacer dos preguntas: cómo, después de decir que Dios «trasladó a Enoc, y no fue hallado, de modo que no vio muerte», dice: «Todos estos murieron en fe». Y de nuevo, después de decir: «no habiendo recibido las promesas», declara que Noé había recibido una recompensa, «para salvación de su casa», y que Enoc había sido «trasladado», y que Abel «aún habla», y que Abraham había obtenido posesión de la tierra, y sin embargo dice: «Todos estos murieron en fe, sin haber recibido las promesas». ¿Qué se quiere decir entonces?\n\nEs necesario resolver primero la primera dificultad, y luego la segunda. «Todos estos» (dice) «murieron en fe». La palabra «todos» se usa aquí no porque todos hubieran muerto, sino porque con esa única excepción «todos estos habían muerto», a quienes sabemos que están muertos.\n\nY la afirmación «sin haber recibido las promesas» es verdadera: pues ciertamente la promesa a Noé no era esta de la que aquí se habla. Pero además, ¿de qué clase de «promesas» habla? Porque Isaac y Jacob recibieron las promesas de la tierra; pero en cuanto a Noé, Abel y Enoc, ¿qué clase de promesas recibieron? O bien habla acerca de estos tres; o si también acerca de aquellos otros, la promesa no era esta, que Abel fuera admirado, ni que Enoc fuera trasladado, ni que Noé fuera preservado; sino que estas cosas les sobrevinieron por causa de su virtud, y fueron una especie de anticipo de las cosas venideras. Pues Dios desde el principio, sabiendo que el género humano necesita mucha condescendencia, nos concede no solo las cosas del mundo venidero, sino también las de aquí; como por ejemplo, Cristo dijo incluso a los discípulos: «Cualquiera que haya dejado casas, o hermanos, o hermanas, o padre, o madre, recibirá cien veces más y heredará la vida eterna». Y de nuevo: «Buscad el reino de Dios, y todas estas cosas os serán añadidas». ¿Ves que estas cosas son dadas por Él a manera de añadidura, para que no desmayemos?\n\n«Pero habiéndolas visto de lejos», dice, «y abrazándolas». Aquí insinúa algo místico: que recibieron de antemano todas las cosas que han sido dichas acerca de las cosas venideras; acerca de la resurrección, acerca del Reino de los Cielos, acerca de las otras cosas que Cristo proclamó cuando vino, pues estas son «las promesas» de las que habla. O bien quiere decir esto, o que no las recibieron ciertamente, sino que murieron confiando en ellas, y así confiaron solo por la fe.\n\n«Habiéndolas visto de lejos»: cuatro generaciones antes; pues después de tantas generaciones, subieron de Egipto.\n\n«Y abrazándolas», dice, y se alegraron. Estaban tan persuadidos de ellas que incluso las «abrazaban», según la metáfora de las personas a bordo que ven de lejos las ciudades anheladas: las cuales, antes de entrar en ellas, las toman y ocupan con palabras de saludo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "747ca53dde4b"
+ },
+ "hcf:Philoxenus of Mabbug/Hebrews 11_13#0": {
+  "text_es": "Y de nuevo dijo: «En fe todos estos murieron, y no recibieron sus promesas», pues Dios consideró de antemano ayuda para nosotros, para que no fueran perfeccionados sin nosotros. Y durante toda su vida, según la palabra de Cristo, y hasta su partida de este mundo, la fe se adhirió a ellos; por ella hicieron grandes obras mientras estaban en el mundo, y por ella esperaron y aguardaron recibir las promesas que habían de ser, y recibir lo que les había sido prometido, por causa de lo cual salieron conforme a su palabra.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d406a6d20db7"
+ },
+ "hcf:Tertullian/Hebrews 11_13#0": {
+  "text_es": "¡Por supuesto que las casas de nadie más que de los hombres casados prosperan! ¡Las familias de los célibes, los patrimonios de los eunucos, las fortunas de los militares, o de los que viajan sin esposas, han ido a la ruina! Pues ¿no somos también nosotros soldados? Soldados, en verdad, sujetos a toda disciplina más estricta, porque estamos sujetos a un General tan grande. ¿No somos también nosotros viajeros en este mundo? ¿Por qué además, cristiano, estás tan condicionado, que no puedes (así viajar) sin una esposa? «En mi presente estado (viudo), también, una consorte en las labores domésticas es necesaria».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d9240ded93c3"
+ },
+ "aquifer:13125": {
+  "text_es": "La familia de Abraham claramente no quería regresar a su tierra natal. Si lo hubieran querido, podrían haber vuelto. Su fe mostró que anhelaban un lugar mejor. Esperaban en Dios, quien recompensó su fe preparándoles una ciudad celestial.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8781ef8e1e7c"
+ },
+ "hcf:John Chrysostom/Hebrews 11_14#0": {
+  "text_es": "Y estas cosas (dice) las dijeron, «buscando» su «propia patria». ¡Ah! ¡Cuán grande es la diferencia! Ellos en verdad estaban cada día con dolores de parto, deseando ser librados de este mundo y volver a su patria. Pero nosotros, por el contrario, si nos ataca una fiebre, descuidando todo, llorando como niños pequeños, nos asustamos ante la muerte.\n\nNo sin razón nos afecta esto así. Pues como no vivimos aquí como extranjeros, ni como quienes se apresuran a su patria, sino como personas que van al castigo, por eso nos entristecemos, porque no hemos usado las circunstancias como debíamos, sino que hemos trastornado el orden. De ahí que nos entristecemos cuando deberíamos regocijarnos; de ahí que nos estremecemos, como los homicidas o los jefes de ladrones, cuando van a ser llevados ante el tribunal, y repasan todas las cosas que han hecho, y por eso están temerosos y temblorosos.\n\nEllos, sin embargo, no eran así, sino que seguían adelante. Y Pablo incluso gemía: «Y nosotros» (dice) «que estamos en este tabernáculo gemimos, estando cargados». Tales eran los que estaban con Abraham; «extranjeros», dice, eran respecto de todo el mundo, y «buscaban una patria».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "687c2f102fd9"
+ },
+ "hcf:John Chrysostom/Hebrews 11_15#0": {
+  "text_es": "¿Qué clase de «patria» era esta? ¿Acaso la que habían dejado? De ningún modo. Pues ¿qué les impedía, si querían, volver de nuevo y hacerse ciudadanos? Pero buscaban la que está en el cielo. Así deseaban su partida de aquí, y así agradaron a Dios; pues «Dios no se avergonzó de ser llamado su Dios».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "83832a18705d"
+ },
+ "hcf:John Chrysostom/Hebrews 11_16#0": {
+  "text_es": "¡Ah! ¡Cuán grande dignidad! Se dignó «ser llamado su Dios». ¿Qué dices? Él es llamado el Dios de la tierra y el Dios del cielo, ¿y has tenido por cosa grande que «no se avergüence de ser llamado su Dios»? Grande y verdaderamente grande es esto, y prueba de una bienaventuranza sobremanera. ¿Cómo? Porque es llamado Dios de la tierra y del cielo, como también de los gentiles: en cuanto que los creó y formó; pero Dios de aquellos hombres santos, no en este sentido, sino como un verdadero amigo.\n\nY te lo haré claro con un ejemplo; como en el caso de los esclavos en las grandes casas, cuando alguno de los que están puestos al frente de la casa es muy estimado, y administra todo por sí mismo, y puede usar gran libertad con sus amos, el amo es llamado por su nombre, y se pueden encontrar muchos así llamados. Pero ¿qué digo? Como podríamos decir el Dios, no de los gentiles sino del mundo, así podríamos decir «el Dios de Abraham». Pero no sabes cuán grande dignidad es esta, porque nosotros no la alcanzamos. Pues como ahora es llamado el Señor de todos los cristianos, y sin embargo el nombre va más allá de nuestros merecimientos: ¡considera la grandeza si fuera llamado el Dios de una sola persona! El que es llamado el Dios de todo el mundo «no se avergüenza de ser llamado» el Dios de tres hombres: y con razón: pues los santos inclinarían la balanza, no digo contra el mundo sino contra diez mil como esos. «Porque un hombre que hace la voluntad del Señor, es mejor que diez mil transgresores».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3b8c7bfdbe88"
+ },
+ "hcf:John Chrysostom/Hebrews 11_16#1": {
+  "text_es": "Ahora bien, que ellos se llamaron «extranjeros» en este sentido es manifiesto. Pero supongamos que dijeron que eran «extranjeros» a causa de la tierra extraña, ¿por qué también David se llamó a sí mismo extranjero? ¿Acaso no era rey? ¿Acaso no era profeta? ¿No pasó su vida en su propia tierra? ¿Por qué entonces dice: «Yo soy extranjero y peregrino»? ¿Cómo eres extranjero? «Como» (dice) «fueron todos mis padres». ¿Ves que también ellos eran extranjeros? Tenemos una patria, quiere decir, pero no realmente nuestra patria. Pero ¿cómo eres tú mismo extranjero? En cuanto a la tierra. Por tanto, ellos también eran extranjeros respecto de la tierra: pues «como ellos fueron», dice, así también soy yo; y como él, así también ellos.\n\nHagámonos también ahora extranjeros; para que Dios «no se avergüence de nosotros de ser llamado nuestro Dios». Pues es una vergüenza para Él, cuando es llamado el Dios de los malvados, y también se avergüenza de ellos; como es glorificado cuando es llamado el Dios de los buenos y benignos, y de los que cultivan la virtud. Pues si «nosotros» rehusamos ser llamados los amos de nuestros esclavos malvados, y los abandonamos; y si alguno viniera a nosotros y dijera: «tal persona hace innumerables cosas malas, es tu esclavo, ¿no es así?» Inmediatamente decimos: «de ningún modo», para librarnos de la deshonra: pues el esclavo tiene una relación estrecha con su amo, y el descrédito pasa del uno al otro. Pero ellos eran tan ilustres, tan llenos de confianza, que no solo Él «no se avergonzó de ser llamado» por ellos, sino que Él mismo dice: «Yo soy el Dios de Abraham, y el Dios de Isaac, y el Dios de Jacob».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "463e336b8486"
+ },
+ "hcf:Philoxenus of Mabbug/Hebrews 11_16#0": {
+  "text_es": "«Es evidente que deseaban una patria mejor que la tierra de Canaán, la cual es el cielo». Y por esta razón Dios nos enseña claramente que no era aquella tierra material de promesa la que Dios prometió mostrar a Abraham. Después de haberlo sacado de Ur de los caldeos lo hizo habitar en Harán, y no lo llevó a la tierra de Canaán inmediatamente después de su salida. Y de nuevo, para que Abraham no pensara que oía el anuncio de una recompensa, y por eso saliera tras la voz de Dios, no le dio a conocer al principio el nombre de la tierra a la que lo llevaría.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a25566032311"
+ },
+ "aquifer:13126": {
+  "text_es": "⸢dispuesto a ofrecer a su unigénito⸣: Véase Génesis 22:1–18. Dios no quería que Abraham sacrificara a su hijo. Estaba probando la fe de Abraham, la cual Abraham mostró mediante su obediencia.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d3432679acca"
+ },
+ "aquifer:13127": {
+  "text_es": "Estos fuertes ejemplos de fe comienzan con la familia de Abraham y terminan con Rahab. Muestran que la fe es el único modo de responder a Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d842cba107c5"
+ },
+ "hcf:Augustine of Hippo/Hebrews 11_17#0": {
+  "text_es": "¿A semejanza de quién sino de Aquel de quien dice el apóstol: «El que no perdonó a su propio Hijo, sino que lo entregó por todos nosotros»? Y por esta razón también Isaac mismo llevó al lugar del sacrificio la leña sobre la que había de ser ofrecido, así como el Señor mismo llevó su propia cruz. Finalmente, como Isaac no había de ser inmolado, después de que a su padre se le prohibió herirlo, ¿quién era aquel carnero con cuya ofrenda se completó aquel sacrificio con sangre típica? Pues cuando Abraham lo vio, estaba trabado por los cuernos en un zarzal. ¿Qué representaba, entonces, sino a Jesús, que antes de ser ofrecido fue coronado de espinas por los judíos?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bba9dab96809"
+ },
+ "hcf:Clement of Rome/Hebrews 11_17#0": {
+  "text_es": "Y de nuevo [la Escritura] dice: «Dios sacó a Abram, y le habló: Mira ahora al cielo, y cuenta las estrellas si puedes contarlas; así será tu descendencia. Y Abram creyó a Dios, y le fue contado por justicia». A causa de su fe y hospitalidad, le fue dado un hijo en su vejez; y en el ejercicio de la obediencia, lo ofreció como sacrificio a Dios en uno de los montes que le mostró.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "639ce7c02b14"
+ },
+ "hcf:John Chrysostom/Hebrews 11_17#0": {
+  "text_es": "Y muestra también otra cosa al decir que «Dios tentó a Abraham». ¿Qué entonces? ¿No sabía Dios que el hombre era noble y aprobado? ¿Por qué entonces lo tentó? No para aprender Él mismo, sino para mostrarlo a otros, y hacer manifiesta su fortaleza a todos. Y aquí también muestra la causa de las pruebas, para que no supongan que sufren estas cosas por ser abandonados de Dios. Pues en su caso ciertamente era necesario que fueran probados, porque había muchos que los perseguían o conspiraban contra ellos; pero en el caso de Abraham, ¿qué necesidad había de idear pruebas para él que no existían? Ahora bien, esta prueba, es evidente, fue por su mandato. Las otras ciertamente sucedieron por su permisión, pero esta incluso por su mandato. Si entonces las tentaciones hacen a los hombres aprobados de tal manera que, aun donde no hay ocasión, Dios ejercita a sus propios atletas; mucho más debemos nosotros soportar todas las cosas noblemente.\n\nY aquí dijo enfáticamente: «Por la fe, cuando fue probado, ofreció a Isaac», pues no había otra causa para que él trajera la ofrenda sino esa.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e76a2f5a263e"
+ },
+ "hcf:John Chrysostom/Hebrews 11_17-18#0": {
+  "text_es": "Grande en verdad fue la fe de Abraham. Pues mientras en el caso de Abel, y de Noé, y de Enoc, había solo una oposición de razonamientos, y era necesario ir más allá de los razonamientos humanos; en este caso era necesario no solo ir más allá de los razonamientos humanos, sino manifestar también algo más. Pues lo que era de Dios parecía oponerse a lo que era de Dios; y la fe se oponía a la fe, y el mandato a la promesa.\n\nMe refiero a esto: Él había dicho: «Sal de tu tierra, y de tu parentela, y te daré esta tierra». «No le dio herencia en ella, ni aun para asentar la planta de su pie». ¿Ves cómo lo que se hizo se oponía a la promesa? De nuevo dijo: «En Isaac te será llamada descendencia», y él creyó; y de nuevo dice: Sacrifícame a este, que había de llenar todo el mundo con su descendencia. ¿Ves la oposición entre los mandatos y la promesa? Mandó cosas que estaban en contradicción con las promesas, y sin embargo ni aun así vaciló el justo, ni dijo que había sido engañado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8ec5d8478eed"
+ },
+ "hcf:John Chrysostom/Hebrews 11_17-18#1": {
+  "text_es": "Oyó lo contrario de las promesas de Aquel que las había hecho; y sin embargo no se turbó, sino que las cumplió como si hubieran estado en armonía con ellas. Pues estaban en armonía; opuestas ciertamente según los cálculos humanos, pero en armonía cuando se las mira por la fe.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a9be114c38d1"
+ },
+ "hcf:John Chrysostom/Hebrews 11_18#0": {
+  "text_es": "Nadie podría alegar que tenía otro hijo, y que esperaba que la promesa se cumpliera en él, y que por eso ofrecía confiadamente a este. «Y» (sus palabras son) «ofreció a su unigénito, el que había recibido las promesas». ¿Por qué dices «unigénito»? ¿Qué entonces? ¿De quién había nacido Ismael? Quiero decir «unigénito» (diría él) en cuanto se refiere a la palabra de la promesa. Por eso, después de decir «unigénito», mostrando que lo dice por esta razón, añadió: «de quien se dijo: En Isaac te será llamada descendencia», es decir, «de» él. ¿Ves cómo admira lo que fue hecho por el Patriarca? «En Isaac te será llamada descendencia», y a ese hijo lo llevó para ser sacrificado.\n\nDespués, para que nadie suponga que hace esto por desesperación, y que a consecuencia de este mandato había desechado aquella fe, sino que entienda que esto también era verdaderamente de fe, dice que retuvo también aquella fe, aunque parezca estar en desacuerdo con esta. Pero no estaba en desacuerdo. Porque no midió el poder de Dios con razonamientos humanos, sino que lo confió todo a la fe.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "132432011491"
+ },
+ "aquifer:13128": {
+  "text_es": "⸢Abraham razonó⸣: Pensó que traer de vuelta a Isaac a la vida era la única solución a su problema. En Génesis 22:5, Abraham mostró fe en que Isaac volvería con él.",
+  "lemas_es": [
+   "Abraham razonó"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8522d55be87a",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.19"
+   }
+  ]
+ },
+ "hcf:John Chrysostom/Hebrews 11_19#0": {
+  "text_es": "Y cómo fue esto, el mismo Apóstol nos lo ha enseñado, al decir: «pensando que Dios era poderoso para levantarle aun de entre los muertos». Por la misma fe (quiere decir) por la que creyó que Dios dio lo que no era, y levantó a los muertos, por la misma fue persuadido de que también le levantaría después de haber sido muerto en sacrificio. Porque era igualmente imposible (según el cálculo humano, quiero decir) que de un vientre que estaba muerto y envejecido y ya inútil para concebir naciera un hijo, y que resucitara a uno que había sido muerto. Pero su fe anterior preparó el camino para las cosas venideras.\n\nY mira: los bienes vinieron primero, y las cosas duras después, en su vejez. Pero para ti, por el contrario, (dice) las cosas tristes son primero, y los bienes al final. Esto es para los que se atreven a decir: «Nos ha prometido los bienes después de la muerte; quizá nos ha engañado». Muestra que «Dios es poderoso para levantar aun de entre los muertos», y si Dios es poderoso para levantar de entre los muertos, sin duda alguna pagará todo lo que ha prometido.\n\nPero si Abraham, tantos años antes, creyó «que Dios es poderoso para levantar de entre los muertos», mucho más debemos creerlo nosotros. Ves (lo que dije al principio) que la muerte aún no había entrado, y sin embargo los atrajo de inmediato a la esperanza de la resurrección, y los llevó a tan plena seguridad, que cuando se les manda, incluso matan a sus propios hijos, y ofrecen de buena gana a aquellos de quienes esperaban poblar el mundo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7c0517f9ba99"
+ },
+ "hcf:John Chrysostom/Hebrews 11_19#1": {
+  "text_es": "Y de ahí que no temiera decir que Dios era «poderoso para levantarle aun de entre los muertos».\n\n«De donde también le recibió en figura», es decir, en idea, por el carnero, quiere decir. ¿Cómo? Habiendo sido muerto el carnero, fue salvado: de modo que por medio del carnero le recibió de nuevo, habiéndolo muerto en su lugar. Pero estas cosas eran tipos: porque aquí es el Hijo de Dios quien es muerto.\n\nY observa, te ruego, cuán grande es su benignidad. Porque en cuanto un gran favor había de ser dado a los hombres, Él, queriendo hacer esto, no por favor, sino como deudor, dispone que un hombre entregue primero a su propio hijo por causa del mandato de Dios, para que Él mismo no pareciera hacer nada grande al entregar a su propio Hijo, ya que un hombre lo había hecho antes que Él; para que se supusiera que lo hace no por gracia, sino por deuda. Porque deseamos hacer también esta bondad a aquellos a quienes amamos, que otros parezcan primero haber recibido de ellos alguna pequeña cosa, y así darles todo: y nos jactamos más de recibir que de dar; y no decimos: Le dimos esto, sino: Recibimos esto de él.\n\n«De donde también» (son sus palabras) «le recibió en figura», es decir, como en un enigma (porque el carnero era como una figura de Isaac) o, como en un tipo. Porque habiéndose completado el sacrificio, y habiendo sido Isaac muerto en propósito, por eso le dio al Patriarca.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e874573ed233"
+ },
+ "aquifer:13130": {
+  "text_es": "⸢Isaac bendijo⸣: Véase Génesis 27:27–40. La única parte de la historia que podría verse como una bendición para Esaú es que finalmente se libraría de servir a su hermano. Más tarde, Esaú recibió bendiciones mediante la riqueza de Jacob (Génesis 33:8–11).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bfa5f9407a06"
+ },
+ "hcf:John Chrysostom/Hebrews 11_20#0": {
+  "text_es": "«Por fe, Isaac bendijo a Jacob y a Esaú acerca de cosas venideras» (y sin embargo Esaú era el mayor; pero pone a Jacob primero por su excelencia). ¿Ves cuán grande era su fe? ¿De dónde prometió a sus hijos bendiciones tan grandes? Enteramente de tener fe en Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "20245b754c39"
+ },
+ "aquifer:13131": {
+  "text_es": "Jacob dio la bendición ritual a los hijos de José, Efraín y Manasés (Génesis 48:8–22). ⸢adoró⸣ ⸢apoyándose sobre el extremo de su bastón⸣: Génesis 47:31. La frase ⸢apoyándose sobre su bastón⸣ proviene de la traducción griega del Antiguo Testamento.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4c3de52ada4f"
+ },
+ "hcf:John Chrysostom/Hebrews 11_21#0": {
+  "text_es": "«Por fe, Jacob, cuando estaba muriendo, bendijo a ambos hijos de José». Aquí deberíamos exponer las bendiciones enteras, para que tanto su fe como su profetizar se manifiesten. «Y adoró», dice, «apoyándose sobre el extremo de su bastón». Aquí, quiere decir, no solo habló, sino que estaba tan confiado acerca de las cosas futuras, que también lo mostró por su acto. Porque en cuanto otro Rey había de surgir de Efraín, por eso se dice: «Y se inclinó sobre el extremo de su bastón». Es decir, aunque era ya un anciano, «se inclinó» ante José, mostrando la reverencia de todo el pueblo que había de dirigirse a él. Y esto ciertamente ya había sucedido, cuando sus hermanos «se inclinaron» ante él: pero había de suceder después por medio de las diez tribus. ¿Ves cómo predijo las cosas que habían de suceder después? ¿Ves cuán grande fe tenían? ¿Cómo creyeron «acerca de las cosas venideras»?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6bbbe0a30d9a"
+ },
+ "aquifer:13132": {
+  "text_es": "La profecía y el mandato de José (véase Génesis 50:24–25) mostraron su fe en que Dios cumpliría sus promesas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "dff2582734fc"
+ },
+ "hcf:John Chrysostom/Hebrews 11_22#0": {
+  "text_es": "Las cosas que conciernen a José son también solo de fe. José oyó que Dios había hecho una promesa a Abraham, que había empeñado su palabra: «a ti y a tu descendencia daré esta tierra»; y aunque en tierra extraña, y sin ver aún cumplido el compromiso, no vaciló ni aun así, sino que creyó de tal manera que incluso «habló del Éxodo, y dio mandamiento acerca de sus huesos». Él entonces no solo creyó él mismo, sino que condujo también a los demás a la fe: para que, teniendo siempre presente el Éxodo (pues no habría «dado mandamiento acerca de sus huesos», a menos que hubiera estado plenamente seguro de esto), esperaran su regreso a Canaán.\n\nPor eso, cuando algunos hombres dicen: «¡Mira! Incluso los hombres justos se preocupaban por sus sepulcros», respondámosles que fue por esta razón: porque sabía que «la tierra es del Señor y todo lo que en ella hay». No podía ciertamente ignorar esto, quien vivió en tan grande filosofía, quien pasó toda su vida en Egipto. Y sin embargo, si hubiera querido, le era posible regresar, y no lamentarse ni afligirse. Pero cuando hubo llevado allí a su padre, ¿por qué les mandó que llevaran de allí también sus propios huesos? Evidentemente por esta razón.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9c2926eccd8d"
+ },
+ "aquifer:13133": {
+  "text_es": "⸢Los padres de Moisés⸣: Véase Éxodo 2:1–2. ⸢hermoso⸣: Esta palabra significa algo de alta calidad. Creyeron que Moisés era especial, así que actuaron con fe en Dios. ⸢el edicto del rey⸣: Éxodo 1:22.",
+  "lemas_es": [
+   "Los padres de Moisés",
+   "hermoso",
+   "el edicto del rey"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "96ce0cf507b5",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.23"
+   },
+   {
+    "lema": "hermoso",
+    "ref": "HEB.11.23"
+   },
+   {
+    "lema": null,
+    "ref": "HEB.11.23"
+   }
+  ]
+ },
+ "hcf:John Chrysostom/Hebrews 11_23#0": {
+  "text_es": "«Por la fe, Moisés, cuando nació, fue escondido tres meses por sus padres.» ¿Ves que en este caso ellos esperaban cosas sobre la tierra después de su muerte? Y muchas cosas se cumplieron después de su muerte. Esto es para algunos que dicen: «Después de la muerte se hicieron para ellos aquellas cosas que no obtuvieron mientras vivían; ni creían que serían después de su muerte.»\n\nAdemás, José no dijo: No me dio la tierra en mi vida, ni a mi padre, ni a mi abuelo, cuya excelencia también debía haber sido reverenciada; ¿y concederá a esta gente miserable lo que no les concedió a ellos? Nada de esto dijo, sino que por la fe venció y fue más allá de todas estas cosas.\n\nHa nombrado a Abel, Noé, Abraham, Isaac, Jacob, José, todos hombres ilustres y admirables. De nuevo hace mayor el estímulo, al descender el asunto a personas comunes. Porque que los admirables sientan así, no es maravilla, y aparecer inferior a ellos no es tan terrible; pero mostrarse inferior incluso a personas sin nombre, esto es lo terrible. Y comienza con los padres de Moisés, personas oscuras, que no tenían nada tan grande como su hijo.\n\nPero por ahora debemos hablar de los padres de Moisés. Faraón dio órdenes de que todos los niños varones fueran destruidos, y ninguno había escapado del peligro. ¿De dónde esperaban estos salvar a su hijo? De la fe. ¿Qué clase de fe? «Vieron» (dice) «que era un niño hermoso.» La misma vista los llevó a la fe: así desde el principio, sí, desde los mismos pañales, grande fue la gracia que se derramó sobre aquel hombre justo, no siendo esto obra de la naturaleza. Pues observa, el niño inmediatamente al nacer aparece hermoso y no desagradable a la vista. ¿De quién fue esta obra? No de la naturaleza, sino de la gracia de Dios, que también incitó y fortaleció a aquella mujer bárbara, la egipcia, y la tomó y la atrajo.\n\nY sin embargo, en verdad la fe no tenía un fundamento suficiente en su caso. Pues ¿qué era creer por la vista? Pero tú (diría) crees por los hechos y tienes muchas prendas de fe. Porque «el recibir con gozo el despojo de vuestros bienes», y otras cosas semejantes, eran evidencias de fe y de paciencia. Pero en cuanto que estos hebreos también habían creído, y sin embargo después se habían desanimado, muestra que la fe de aquellos santos antiguos también fue largamente continuada, como, por ejemplo, la de Abraham, aunque las circunstancias parecían contender contra ella.\n\n«Y» (dice) «no temieron el mandamiento del rey», aunque aquel estaba en vigor, sino que esta su esperanza respecto a su hijo era simplemente una especie de expectativa desnuda. Y esto ciertamente fue el acto de sus padres; pero Moisés mismo, ¿qué contribuyó?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "dcf111559807"
+ },
+ "hcf:Methodius of Olympus/Hebrews 11_23#0": {
+  "text_es": "Pues considera qué confianza tenía Set hacia Dios, y Abel, y Enós, y Enoc, y Matusalén, y Noé, los primeros amantes de la justicia, y los primeros de los primogénitos que están escritos en el cielo,",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a62471e209e4"
+ },
+ "aquifer:13134": {
+  "text_es": "⸢Moisés, ⸣⸢cuando fue grande⸣: Tomó una postura pública con el pueblo de Israel en lugar de ser conocido como el hijo de la hija de Faraón, que lo había adoptado (véase Éxodo 2:11–15 y Éxodo 2:3–10). Eligió compartir el sufrimiento del pueblo de Dios, tal como los lectores de esta carta fueron animados a hacer (véase Hebreos 10:32–34).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2822197141a0"
+ },
+ "hcf:John Chrysostom/Hebrews 11_24#0": {
+  "text_es": "Luego de nuevo un ejemplo apropiado para ellos, o más bien mayor que aquel. Pues, dice, «por la fe Moisés, cuando fue grande, rehusó ser llamado hijo de la hija de Faraón, escogiendo antes ser afligido con el pueblo de Dios que gozar de los placeres del pecado por un tiempo; teniendo por mayores riquezas el vituperio de Cristo que los tesoros de Egipto; porque tenía la mirada puesta en la recompensa del galardón.» Como si les hubiera dicho: «Ninguno de vosotros ha dejado un palacio, sí, un palacio espléndido, ni tales tesoros; ni, cuando podría haber sido hijo de rey, ha despreciado esto, como lo hizo Moisés.» Y que no dejó simplemente estas cosas, lo expresó diciendo: «rehusó», es decir, aborreció, se apartó. Pues cuando el cielo estaba puesto delante de él, era superfluo admirar un palacio egipcio.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "64681a5ce4ed"
+ },
+ "hcf:John Chrysostom/Hebrews 11_25#0": {
+  "text_es": "«Escogiendo antes» (dice) «ser afligido con el pueblo de Dios.» Pues vosotros ciertamente sufrís por vuestra propia cuenta, pero él «escogió» sufrir por otros; y voluntariamente se arrojó a tantos peligros, cuando estaba en su poder tanto vivir religiosamente como gozar de cosas buenas.\n\n«Que» (dice) «gozar de los placeres del pecado por un tiempo.» Llamó a la falta de voluntad de «ser afligido con» los demás «pecado»: esto, dice, Moisés lo consideró «pecado». Si entonces consideró «pecado» no estar dispuesto a «ser afligido con» los demás, se sigue que el ser afligido debe ser un gran bien, puesto que se arrojó a ello desde el palacio real.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ebda0d216a61"
+ },
+ "hcf:Shepherd of Hermas/Hebrews 11_25#0": {
+  "text_es": "Pues el lujo y el engaño no tienen memorias, a causa de la necedad con que están revestidos; pero cuando el castigo y el tormento se adhieren a un hombre por un día, es castigado y atormentado por un año; pues el castigo y el tormento tienen memorias poderosas. Mientras es atormentado y castigado, por tanto, durante un año entero, se acuerda al fin del lujo y del engaño, y sabe que por causa de ellos sufre el mal.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d1ced47f82ce"
+ },
+ "aquifer:13135": {
+  "text_es": "⸢los tesoros de Egipto⸣: El Imperio Nuevo de Egipto duró desde aproximadamente 1550 hasta 1069 a. C. Fue un tiempo de gran riqueza y poder político. Moisés miró más allá de estas riquezas porque esperaba una recompensa mayor de Dios.",
+  "lemas_es": [
+   "los tesoros de Egipto"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a061f26c9387",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.26"
+   }
+  ]
+ },
+ "hcf:Clement of Alexandria/Hebrews 11_26#0": {
+  "text_es": "Añade en consecuencia: «Habiendo Dios proveído alguna cosa mejor para nosotros (porque era bueno), para que no sin nosotros fuesen perfectos. Por lo cual también nosotros, teniendo en derredor nuestro tan grande nube», santa y transparente, «de testigos, despojémonos de todo peso, y del pecado que tan fácilmente nos asedia, y corramos con paciencia la carrera que tenemos por delante, puestos los ojos en Jesús, el autor y consumador de nuestra fe». Puesto que, entonces, señala una sola salvación en Cristo de los justos, y respecto de nosotros ha expresado lo primero sin ambigüedad, y sin decir nada menos acerca de Moisés, añade: «Teniendo por mayores riquezas el vituperio de Cristo que los tesoros de los egipcios: porque miraba a la remuneración del galardón. Por fe dejó a Egipto, no temiendo la ira del rey: porque se sostuvo como viendo al Invisible».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6724d7fb428b",
+  "corregido_por_juez": "Omite 'encompassing us' (en derredor nuestro) y 'so easily' (tan fácilmente) en la cita de Hebreos 12:1."
+ },
+ "hcf:John Chrysostom/Hebrews 11_26#0": {
+  "text_es": "Y mira cuán admirablemente lo ha puesto Pablo. No dijo: «Teniendo por mayores riquezas el cielo, y las cosas en el cielo, que los tesoros de Egipto», sino ¿qué? «El vituperio de Cristo.» Pues el ser vituperado por causa de Cristo lo consideró mejor que estar así a gusto; y esto mismo por sí mismo era recompensa.\n\nPero esto lo hizo, viendo algunas cosas grandes delante de él. «Teniendo por mayores riquezas el vituperio de Cristo que los tesoros de Egipto.» ¿Qué es «el vituperio de Cristo»? Es ser vituperado de tales maneras como vosotros lo sois, el vituperio que Cristo soportó; o que él soportó por causa de Cristo: pues «aquella roca era Cristo»; el ser vituperado como vosotros lo sois.\n\nPero ¿qué es «el vituperio de Cristo»? Que porque repudiamos los caminos de nuestros padres somos vituperados; que somos maltratados cuando hemos corrido a Dios. Era probable que él también fuera vituperado, cuando se le dijo: «¿Me quieres matar como mataste ayer al egipcio?» Esto es «el vituperio de Cristo», ser maltratado hasta el fin, y hasta el último aliento: como Él mismo fue vituperado y oyó: «Si eres el Hijo de Dios», de aquellos por quienes fue crucificado, de aquellos que eran de la misma raza. Esto es «el vituperio de Cristo» cuando un hombre es vituperado por los de su propia familia, o por aquellos a quienes está beneficiando. Pues Moisés también sufrió estas cosas del hombre que había sido beneficiado por él.\n\nCon estas palabras los animó, mostrando que incluso Cristo sufrió estas cosas, y Moisés también, dos personas ilustres. De modo que esto es más bien «el vituperio de Cristo» que de Moisés, en cuanto que Él sufrió estas cosas de «los suyos». Pero ni el uno lanzó rayos, ni el Otro sintió ira alguna, sino que fue injuriado y soportó todas las cosas, mientras ellos «movían sus cabezas». Puesto que, por tanto, era probable que los lectores también oyeran tales cosas, y anhelaran la Recompensa, dice que incluso Cristo y Moisés habían sufrido lo semejante. Así entonces la comodidad es la porción del pecado; pero el ser vituperado, de Cristo. Pues ¿qué deseas entonces? ¿«El vituperio de Cristo», o la comodidad?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2410ca7fe562"
+ },
+ "aquifer:13136": {
+  "text_es": "Como su antepasado Abraham, Moisés mostró fe al dejar Egipto, la tierra que conocía, y entrar en un futuro desconocido (Éxodo 2:15). ⸢no temiendo la ira del rey⸣: En lugar de temer la ira del rey, se concentró en Dios, que es invisible.",
+  "lemas_es": [
+   "no temiendo la ira del rey"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "65de2ec94e38",
+  "lemas_rv1909": [
+   {
+    "lema": "no temiendo la ira del rey",
+    "ref": "HEB.11.27"
+   }
+  ]
+ },
+ "hcf:John Chrysostom/Hebrews 11_27#0": {
+  "text_es": "«Por la fe dejó a Egipto, no temiendo la ira del rey; porque se sostuvo como viendo al Invisible.» ¿Qué dices? ¿Que no temió? Y sin embargo la Escritura dice que cuando oyó, «temió», y por esta causa proveyó para su seguridad con la huida, y se escabulló, y se retiró en secreto; y después tuvo mucho miedo. Observa con cuidado las expresiones: dijo «no temiendo la ira del rey», con referencia a que incluso se presentó de nuevo. Porque habría sido propio de uno que tenía miedo no emprender de nuevo su defensa, ni tener parte alguna en el asunto. Que sin embargo la emprendiera de nuevo, fue propio de uno que lo encomendaba todo a Dios: pues no dijo: «Me busca, y está ocupado en la búsqueda, y no puedo soportar de nuevo ocuparme de este asunto.»\n\nDe modo que incluso la huida fue un acto de fe. ¿Por qué entonces no se quedó (dices)? Para no arrojarse a un peligro previsto. Pues esto finalmente habría sido tentar a Dios: saltar en medio de los peligros, y decir: «Veamos si Dios me salvará.» Y esto dijo el diablo a Cristo: «Échate abajo.» ¿Ves que es cosa diabólica arrojarnos al peligro sin causa y sin propósito, y probar si Dios nos salvará? Pues él, Moisés, ya no podía ser su caudillo cuando los que recibían beneficios eran tan ingratos. Habría sido, por tanto, cosa necia e insensata permanecer allí. Pero todas estas cosas se hicieron porque «se sostuvo como viendo al Invisible.»\n\nSi también nosotros, pues, vemos siempre a Dios con nuestra mente, si siempre pensamos en recuerdo de Él, todas las cosas nos parecerán soportables, todas tolerables; las llevaremos todas fácilmente, estaremos por encima de todas ellas. Pues si una persona que ve a uno a quien ama, o más bien, que lo recuerda, se levanta en espíritu, y se eleva en pensamiento, y soporta todas las cosas fácilmente, mientras se deleita en el recuerdo; el que tiene en mente a Aquel que se dignó amarnos de hecho, y lo recuerda, ¿cuándo sentirá algo penoso, o temerá algo temible o peligroso? ¿Cuándo será de ánimo cobarde? Nunca.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d0873145a19d"
+ },
+ "aquifer:13137": {
+  "text_es": "⸢celebró la Pascua⸣: Véase Éxodo 12:1–27. La primera Pascua (Éxodo 12:28–30) inició el Éxodo (Éxodo 12:31–42, 50–51) y comenzó la celebración anual de la Pascua como memorial (Éxodo 12:43–49; 13:1–16). ⸢la aspersión de la sangre⸣: Rociar la sangre de los sacrificios en el antiguo pacto era semejante a la aspersión de la sangre de Cristo (véase Hebreos 9:12–14, 18–22).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "52bba7f65a5f"
+ },
+ "hcf:John Chrysostom/Hebrews 11_28#0": {
+  "text_es": "Pero ¿qué es «la aspersión de la sangre»? Se mataba un cordero en cada casa, y la sangre se untaba en los postes de las puertas, y esto era un medio para apartar la destrucción egipcia. Si entonces la sangre de un cordero preservó a los judíos ilesos en medio de los egipcios, y bajo tan gran destrucción, mucho más nos salvará la sangre de Cristo, a quienes la tenemos rociada no en los postes de las puertas, sino en nuestras almas. Pues también ahora el Destructor anda en esta profundidad de la noche: pero estemos armados con aquel Sacrificio. (Llama a la «aspersión» unción.) Pues Dios nos ha sacado de Egipto, de las tinieblas, de la idolatría.\n\nAunque lo que se hizo era nada, lo que se logró fue grande. Pues lo que se hizo fue sangre; pero lo que se logró fue salvación, y la detención, y la prevención de la destrucción. El ángel temió la sangre; pues sabía de qué era Tipo; se estremeció, pensando en la muerte del Señor; por eso no tocó los postes de las puertas.\n\nMoisés dijo: Untad, y untaron, y estuvieron confiados. Y vosotros, teniendo la Sangre del Cordero mismo, ¿no estáis confiados?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fd41549eeb60"
+ },
+ "aquifer:13138": {
+  "text_es": "El rescate a través del Mar Rojo (véase Éxodo 13:17–14:21) es el mayor momento de liberación en la historia de Israel. El temor y las quejas del pueblo en aquel momento (Éxodo 14:10–12) no muestran claramente fe, pero avanzaron cuando se les instruyó, a pesar de su temor. Este acontecimiento muestra que la obediencia es clave para la fe.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "eb80e9a342bb"
+ },
+ "hcf:John Chrysostom/Hebrews 11_29#0": {
+  "text_es": "«Por la fe pasaron el Mar Rojo como por tierra seca.» De nuevo compara un pueblo entero con otro, para que no digan: nosotros no podemos ser como los santos. «Por la fe» (dice) «pasaron el Mar Rojo, como por tierra seca, lo que intentando hacer los egipcios, fueron ahogados.» Aquí los lleva también a un recuerdo de los sufrimientos en Egipto.\n\n¿Cómo, «por la fe»? Porque habían esperado pasar por el mar, y por eso oraron: o más bien fue Moisés quien oró. ¿Ves que en todas partes la Fe va más allá de los razonamientos humanos, y de la debilidad y la bajeza? ¿Ves que al mismo tiempo creyeron, y temieron el castigo, tanto en la sangre sobre las puertas, como en el Mar Rojo?\n\nY dejó claro que era realmente agua, por medio de los que cayeron en ella, y fueron ahogados; que no era una mera apariencia: sino que como en el caso de los leones, los que fueron devorados probaron la realidad de los hechos, y en el caso del horno de fuego, los que fueron quemados; así también aquí ves que las mismas cosas se convierten para unos en causa de salvación y gloria, y para otros de destrucción.\n\nTan gran bien es la Fe. Y cuando caemos en perplejidad, entonces somos librados, aunque lleguemos a la muerte misma, aunque nuestra condición sea desesperada. Pues ¿qué otra cosa les quedaba? Estaban desarmados, rodeados por los egipcios y el mar; y debían o ahogarse si huían, o caer en manos de los egipcios. Pero sin embargo los salvó de imposibilidades. Lo que estaba extendido bajo unos como tierra, abrumó a los otros como mar. En el primer caso olvidó su naturaleza: en el segundo incluso se armó contra ellos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1b8d6c986293"
+ },
+ "aquifer:13140": {
+  "text_es": "La conquista de Jericó (Josué 5:13–6:27) muestra una gran fe. El pueblo siguió obedientemente las instrucciones inusuales de Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7e30a9681562"
+ },
+ "hcf:John Chrysostom/Hebrews 11_30#0": {
+  "text_es": "«Por la fe cayeron los muros de Jericó, después de haber sido rodeados por siete días.» Pues ciertamente el sonido de las trompetas no es capaz de derribar piedras, ni con un golpe durante diez mil años; pero la Fe puede hacer todas las cosas.\n\n¿Ves que en todos los casos no es por secuencia natural, ni por ley alguna de la naturaleza que fue cambiado, sino que todo se hace contra lo esperado? En consecuencia, también en este caso todo se hace contra lo esperado. Pues en cuanto había dicho una y otra vez que debemos confiar en las esperanzas futuras, introdujo todo este argumento con razón, mostrando que no solo ahora, sino incluso desde el principio todos los milagros se han cumplido y logrado por medio de ella.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "81abd9a08229"
+ },
+ "hcf:Shepherd of Hermas/Hebrews 11_30#0": {
+  "text_es": "«El lugar a la derecha es para otros que ya agradaron a Dios, y sufrieron por causa de Su nombre; y tú tienes aún mucho que cumplir antes de que puedas sentarte con ellos. Pero permanece como ahora en tu sencillez, y te sentarás con ellos, y con todos los que hacen sus obras y soportan lo que ellos han soportado.» «¿Qué han soportado?», dije yo. «Escucha», dijo ella: «azotes, prisiones, grandes tribulaciones, cruces, fieras, por causa del nombre de Dios. Por esto se les asigna la porción de santificación a la derecha, y a cada uno que sufra por el nombre de Dios: a los demás se les asigna la porción a la izquierda. Pero tanto para los que se sientan a la derecha, como para los que se sientan a la izquierda, hay los mismos dones y promesas; solo que aquellos se sientan a la derecha, y tienen alguna gloria.»",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cd46948e2c96"
+ },
+ "aquifer:13141": {
+  "text_es": "Rahab, una prostituta (Josué 2; 6:25), mostró fe en el Dios de Israel al esconder a los espías que visitaron su casa (véase Santiago 2:25). Por esto, ella y su familia fueron preservadas y llegaron a formar parte de la comunidad israelita. Rahab fue incluso antepasada de Jesús (Mateo 1:5).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c3fe170c8afc"
+ },
+ "hcf:Clement of Rome/Hebrews 11_31#0": {
+  "text_es": "Por causa de su fe y hospitalidad, Rahab la ramera fue salva. Pues cuando fueron enviados espías por Josué, hijo de Nun, a Jericó, el rey del país se enteró de que habían venido a espiar su tierra, y envió hombres para prenderlos, a fin de que, una vez capturados, fueran muertos. Pero la hospitalaria Rahab, recibiéndolos, los ocultó en el techo de su casa bajo unos tallos de lino. Y cuando llegaron los hombres enviados por el rey y dijeron: «Vinieron a ti hombres que han de espiar nuestra tierra; sácalos, pues así lo manda el rey», ella les respondió: «Los dos hombres que buscáis vinieron a mí, pero pronto se marcharon de nuevo y se han ido», no descubriendo así a los espías. Luego dijo a los hombres: «Sé con certeza que el Señor vuestro Dios os ha dado esta ciudad, pues el temor y el pavor de vosotros han caído sobre sus habitantes. Cuando, por tanto, la hayáis tomado, guardadme a salvo a mí y a la casa de mi padre.» Y ellos le dijeron: «Será como nos has dicho. Tan pronto, pues, como sepas que estamos cerca, reunirás a toda tu familia bajo tu techo, y serán preservados, pero todos los que se hallen fuera de tu morada perecerán.» Además, le dieron una señal a este efecto, que colgara de su casa un hilo escarlata. Y así manifestaron que la redención había de fluir por la sangre del Señor a todos los que creen y esperan en Dios. Ves, amado, que hubo en esta mujer no solo fe, sino profecía.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4631fb31a13b"
+ },
+ "hcf:John Chrysostom/Hebrews 11_31#0": {
+  "text_es": "«Por la fe la ramera Rahab no pereció con los que no creyeron, habiendo recibido a los espías con paz.» Sería entonces vergonzoso que aparecieras más incrédulo incluso que una ramera. Sin embargo ella solo oyó lo que los hombres relataron, y al instante creyó. Con lo cual también siguió el fin; pues cuando todos perecieron, ella sola fue preservada. No se dijo a sí misma: Estaré con mis muchos amigos. No dijo: ¿Acaso puedo yo ser más sabia que estos hombres juiciosos que no creen, y he de creer yo? No dijo nada de esto, sino que creyó lo que había sucedido, lo cual era probable que ellos sufrieran.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5bb1949a30ab"
+ },
+ "hcf:Justin Martyr/Hebrews 11_31#0": {
+  "text_es": "Pues la señal del hilo de escarlata, que los espías enviados a Jericó por Josué, hijo de Navé (Nun), dieron a Rahab la ramera, diciéndole que lo atara a la ventana por la cual los descolgó para escapar de sus enemigos, también manifestaba el símbolo de la sangre de Cristo, por la cual los que en otro tiempo fueron rameras e inicuos de entre todas las naciones son salvos, recibiendo remisión de pecados y no permaneciendo ya en el pecado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "79c1ad0cf52b"
+ },
+ "aquifer:13142": {
+  "text_es": "El autor destaca rápidamente a otras personas fieles de la era del antiguo pacto. En Hebreos 11:32–35a, la fe conduce al rescate y al triunfo. En 11:35b–38, sin embargo, la fe da como resultado una dura persecución e incluso la muerte por sus creencias. A pesar de estos resultados, Dios honró a ambos grupos con buena reputación a causa de su fe (11:39).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e186661b6715",
+  "text_es_2": "El autor destaca rápidamente a otras personas fieles de la era del antiguo pacto. En Hebreos 11:32–35a, la fe conduce a la liberación y al triunfo. En 11:35b–38, sin embargo, la fe resulta en una persecución severa e incluso en la muerte por sus creencias. A pesar de estos resultados, Dios honró a ambos grupos con una buena reputación a causa de su fe (11:39).",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "aquifer:13143": {
+  "text_es": "⸢¿Y qué más diré?⸣ El autor pasa a un resumen conclusivo, comenzando con seis héroes de la fe del tiempo de los jueces y de la monarquía unida: Gedeón derrotó a los madianitas usando teas y cántaros (Jueces 7:7–25). Barac derrotó a Sísara y a los cananeos (Jueces 4:8–16). Sansón, a pesar de sus debilidades morales, fue usado por Dios para combatir a los filisteos por Israel (Jueces 13–16). Jefté alcanzó la victoria sobre los amorreos y los amonitas (Jueces 10:6–12:7). David, el único rey del grupo, amó a Dios y en general llevó una vida de fe (1 Samuel 16—1 Reyes 1). Samuel fue un líder clave entre el tiempo de los jueces y los primeros reyes de Israel. Escuchó la voz de Dios y siguió su voluntad (1 Samuel 1–15). La frase⸢ y los profetas⸣ incluye a Elías, Eliseo y los profetas desde Isaías hasta Malaquías. Estos profetas a menudo mostraron gran fe a pesar de enfrentar hostilidad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "36926135fc70"
+ },
+ "hcf:Clement of Alexandria/Hebrews 11_32#0": {
+  "text_es": "¿Por qué, pues, he de revisar y aducir más testimonios de fe de la historia que tenemos a mano? «Porque el tiempo me faltaría si contara de Gedeón, de Barac, de Sansón, de Jefté, de David y de Samuel, y de los profetas», y lo que sigue.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bc3944014455"
+ },
+ "hcf:John Chrysostom/Hebrews 11_32#0": {
+  "text_es": "«¿Y qué más diré? Porque el tiempo me faltará contando.» Después de esto ya no pone los nombres; sino que, habiendo terminado con una ramera y avergonzándolos por la calidad de la persona, ya no se extiende sobre las historias, para que no se le tenga por fastidioso. Sin embargo, no las deja de lado, sino que las recorre, haciendo ambas cosas con mucha prudencia, evitando la saciedad y sin echar a perder la concisión del orden; ni calló del todo, ni habló de modo que molestara; pues logra ambos puntos. Porque cuando un hombre contiende con vehemencia en el argumento, si persiste en contender, cansa al oyente, molestándolo cuando ya está persuadido, y ganándose la reputación de vana ambición. Pues debería acomodarse a lo que es conveniente.\n\n«¿Y qué más digo?» (dice). «Porque el tiempo me faltará contando de Gedeón, y de Barac, y de Sansón, y de Jefté, de David también y de Samuel, y de los profetas.»\n\nAlgunos censuran a Pablo porque pone a Barac, a Sansón y a Jefté en estos lugares. ¿Qué dices? ¿Después de haber introducido a la ramera, no introducirá a estos? Porque no me hables del resto de su vida, sino solo de si no creyeron y resplandecieron en la fe.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6a4f983fdb0f"
+ },
+ "hcf:Tertullian/Hebrews 11_32#0": {
+  "text_es": "¿Qué hay más manifiesto que el misterio de este «madero», es decir, que la obstinación de este mundo había sido hundida en la profundidad del error, y es liberada en el bautismo por el «madero» de Cristo, esto es, de su pasión; a fin de que lo que antes había perecido por el «árbol» en Adán, fuera restaurado por el «árbol» en Cristo? Mientras que nosotros, por supuesto, que hemos sucedido a los profetas y ocupamos su lugar, en el tiempo presente soportamos en el mundo aquel trato que los profetas siempre sufrieron a causa de la religión divina: pues a algunos apedrearon, a algunos desterraron; a más, sin embargo, entregaron a matanza mortal, hecho que no pueden negar.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f225a6ef1126"
+ },
+ "aquifer:13144": {
+  "text_es": "⸢conquistaron reinos⸣: Durante el tiempo de los jueces y el tiempo en que David fue rey, Israel derrotó a muchos enemigos. David, Salomón y algunos otros gobernaron con justicia (véase 2 Samuel 8:15; 1 Reyes 10:9). ⸢cerraron la boca de los leones⸣: Véase Daniel 6:1–23.",
+  "lemas_es": [
+   "conquistaron reinos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fda857496d2a",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.33"
+   }
+  ]
+ },
+ "hcf:John Chrysostom/Hebrews 11_33#0": {
+  "text_es": "«Y los profetas», dice, «que por la fe conquistaron reinos». Ves que aquí no da testimonio de que su vida fuera ilustre; pues no era ese el punto en cuestión, sino que la investigación hasta aquí era acerca de su fe. Porque dime, ¿no lo lograron todo por la fe?\n\n«Por la fe», dice, «conquistaron reinos»; los que estaban con Gedeón. «Obraron justicia»; ¿quiénes? Los mismos. Evidentemente quiere decir aquí la bondad.\n\nCreo que es de David de quien dice «obtuvieron promesas». Pero ¿de qué clase eran estas? Aquellas en las que dijo que su «descendencia se sentaría sobre» su «trono».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "133dd851f5de"
+ },
+ "aquifer:13145": {
+  "text_es": "⸢apagaron el fuego impetuoso⸣: Véase Daniel 3:16–30. ⸢escaparon del filo de la espada⸣: Por ejemplo, Elías y Jeremías (véase 1 Reyes 19:2; 2 Reyes 1:1–18; Jeremías 26:10–16; 38:1–13).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c9c0a3033e6c"
+ },
+ "hcf:John Chrysostom/Hebrews 11_34#0": {
+  "text_es": "«Cerraron la boca de los leones, apagaron la violencia del fuego, escaparon del filo de la espada.» Mira cómo estuvieron en la misma muerte: Daniel rodeado de los leones, los tres jóvenes permaneciendo en el horno, los israelitas, Abraham, Isaac, Jacob, en diversas tentaciones; y ni aun así desesperaron. Porque esto es la fe: cuando las cosas salen adversamente, entonces debemos creer que nada adverso se hace, sino que todo sucede en debido orden.\n\n«Escaparon del filo de la espada»: creo que de nuevo habla de los tres jóvenes.\n\n«De débiles fueron hechos fuertes.» Aquí alude a lo que sucedió en su regreso de Babilonia. Porque «de débiles» es de la cautividad. Cuando la condición de los judíos se había vuelto ya desesperada, cuando no eran mejores que huesos muertos, ¿quién podría haber esperado que regresaran de Babilonia, y no solo regresaran, sino que también «se hicieran valientes» y «pusieran en fuga ejércitos de extranjeros»? Pero a nosotros (dice alguien) no nos ha sucedido tal cosa. Pero estas son figuras de las cosas venideras.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5bba06ed5c48"
+ },
+ "aquifer:13146": {
+  "text_es": "Elías y Eliseo ambos trajeron de vuelta de la muerte a seres queridos de mujeres (véase 1 Reyes 17:17–24; 2 Reyes 4:17–37). ⸢Otros fueron atormentados⸣: La fe no siempre conduce a un resultado positivo en esta vida. El autor podría estar refiriéndose a las décadas de 170 y 160 a. C., cuando muchos judíos sufrieron y murieron antes que abandonar su fe (véase, por ejemplo, 1 Macabeos⸢ ⸣1:20–64).",
+  "lemas_es": [
+   "Otros fueron atormentados"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4c46cce09998",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.11.35"
+   }
+  ]
+ },
+ "hcf:Cyprian/Hebrews 11_35#0": {
+  "text_es": "Pues, puesto que Cristo es la cabeza del hombre, y Dios es la cabeza de Cristo, quien arrancó la cabeza en el mártir estaba persiguiendo a Dios y a Cristo en aquella cabeza. Pero él, confiando en su martirio y prometiéndose a sí mismo de la retribución de Dios la recompensa de la resurrección, exclamó y dijo: «Tú, en verdad, nos destruyes impotentemente de esta vida presente; pero el Rey del mundo nos resucitará, a los que morimos por sus leyes, para la resurrección eterna de vida.»",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "361cac6188a6"
+ },
+ "hcf:John Chrysostom/Hebrews 11_35#0": {
+  "text_es": "«Las mujeres recibieron sus muertos resucitados.» Aquí habla de lo que ocurrió con los profetas, Eliseo y Elías; pues ellos resucitaron a los muertos.\n\n«Y otros fueron atormentados, no aceptando el rescate, para obtener mejor resurrección.» Pero nosotros no hemos obtenido una resurrección. Sin embargo, puedo, quiere decir, mostrar que también ellos fueron cortados, y no aceptaron el rescate, para obtener mejor resurrección. Porque ¿por qué, dime, cuando les era posible vivir, no lo eligieron? ¿No estaban evidentemente buscando una vida mejor? Y los que habían resucitado a otros, ellos mismos eligieron morir, a fin de obtener mejor resurrección, no como la de los hijos de aquellas mujeres.\n\nAquí creo que alude tanto a Juan como a Santiago. Porque la decapitación se llama «atormentar». Estaba en su poder seguir contemplando el sol. Estaba en su poder abstenerse de reprender a los pecadores, y sin embargo eligieron morir; incluso los que habían resucitado a otros eligieron morir ellos mismos, para obtener mejor resurrección.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "df0fc89aa8f5"
+ },
+ "hcf:Clement of Alexandria/Hebrews 11_36#0": {
+  "text_es": "Luego presenta un enjambre de ejemplos divinos. Pues ¿no fue «por la fe», dice, esta resistencia, que obraron noblemente los que «fueron probados con burlas y azotes, y además con prisiones y cárceles? Fueron apedreados, fueron tentados, murieron a filo de espada. Anduvieron errantes en pieles de ovejas y de cabras, desamparados, afligidos, maltratados, de quienes el mundo no era digno. Anduvieron errantes por desiertos, por montes, por cuevas y cavernas de la tierra. Y todos, habiendo recibido buen testimonio, por la fe, no recibieron la promesa de Dios» (lo que se expresa por una parasiópesis se deja para que se entienda, a saber, «solos»).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7a31587ea184"
+ },
+ "hcf:Cyprian/Hebrews 11_36#0": {
+  "text_es": "Si la batalla te llamare, si el día de tu combate llegare, entra valientemente, lucha con constancia, sabiendo que luchas bajo los ojos de un Señor presente, que alcanzas por la confesión de su nombre su propia gloria; quien no es tal que solo mira a sus siervos, sino que él mismo también lucha en nosotros, él mismo está empeñado; él mismo también en las luchas de nuestro conflicto no solo corona, sino que es coronado. Pero si antes del día de tu combate, por la misericordia de Dios, sobreviniere la paz, quede aún para ti la voluntad sana y la conciencia gloriosa. Y que ninguno de vosotros se entristezca como si fuera inferior a los que antes de vosotros sufrieron tormentos, vencieron el mundo y lo hollaron bajo sus pies, y así llegaron al Señor por un camino glorioso. Porque el Señor es el «escudriñador de los riñones y de los corazones». Él mira a través de las cosas secretas y ve lo que está oculto. Para merecer la corona de él, su propio testimonio solo es suficiente, quien nos juzgará.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e57e790f2d51"
+ },
+ "hcf:John Chrysostom/Hebrews 11_36#0": {
+  "text_es": "«Y otros fueron probados con crueles burlas y azotes, y además con prisiones y cárceles.» Termina con estas; con cosas que tocan más de cerca. Porque estos ejemplos especialmente traen consuelo, cuando la angustia proviene de la misma causa, ya que aunque menciones algo más extremo, si no surge de la misma causa, nada has logrado. Por eso concluyó su discurso con esto, mencionando «prisiones, cárceles, azotes, apedreamientos», aludiendo al caso de Esteban, también al de Zacarías.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "06211457d928"
+ },
+ "aquifer:13147": {
+  "text_es": "La tradición dice que la gente mató al profeta Jeremías arrojándole piedras, y aserraron al profeta Isaías por la mitad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7c44b7916176"
+ },
+ "hcf:Clement of Rome/Hebrews 11_37#1": {
+  "text_es": "¿Veis, amados, cuál es el ejemplo que se nos ha dado? Pues si el Señor así se humilló, ¿qué haremos nosotros, que por medio de él hemos venido bajo el yugo de su gracia? Seamos también imitadores de aquellos que, en pieles de cabra y pieles de oveja [Hebreos 11:37], anduvieron proclamando la venida de Cristo; me refiero a Elías, Eliseo y Ezequiel entre los profetas, junto con aquellos otros de quienes se da semejante testimonio [en la Escritura].",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ea0219b5939e"
+ },
+ "hcf:John Chrysostom/Hebrews 11_37#0": {
+  "text_es": "Por lo cual añadió: «Fueron muertos a filo de espada». ¿Qué dices? Algunos «escaparon del filo de la espada», y algunos «fueron muertos por la espada». ¿Qué es esto? ¿A cuáles alabas? ¿A cuáles admiras? ¿A los últimos o a los primeros? No, dice: los primeros ciertamente son apropiados para vosotros, y los últimos, porque la fe fue fuerte hasta la muerte misma, y es figura de las cosas venideras. Pues dos son las cualidades maravillosas de la fe: que realiza grandes cosas y sufre grandes cosas, y considera que no sufre nada.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3ae719fee1aa"
+ },
+ "hcf:John Chrysostom/Hebrews 11_37-38#0": {
+  "text_es": "Pues «anduvieron errantes» (dice) «en pieles de oveja y pieles de cabra, desamparados, afligidos, maltratados, de los cuales el mundo no era digno».\n\nNo tenían ni vestido, dice, por el exceso de aflicción, ni ciudad, ni casa, ni lugar de reposo; lo mismo que dijo Cristo: «pero el Hijo del hombre no tiene donde recostar su cabeza» (Mateo 8:20). ¿Por qué digo «ni lugar de reposo»? Ni lugar donde estar de pie; pues ni aun cuando habían ganado el desierto, estaban en reposo. Pues no dijo: se sentaron en el desierto, sino que aun cuando estaban allí, huían y eran expulsados de allí, no solo del mundo habitado, sino aun de lo que era inhabitable. Y les recuerda los lugares donde fueron puestos, y las cosas que allí les sucedieron.\n\nLuego, dice, presentan acusaciones contra vosotros por causa de Cristo. ¿Qué acusación tenían contra Elías, cuando lo expulsaron, lo persiguieron y lo obligaron a luchar con el hambre? Lo cual sufrían entonces estos hebreos. Al menos, se dice que los hermanos decidieron enviar socorro a los discípulos que estaban afligidos. «Cada uno según su posibilidad, determinaron enviar socorro a los hermanos que habitaban en Judea» (Hechos 11:29), lo cual era también el caso de estos.\n\n«Maltratados» [o «ultrajados»], dice, es decir, sufriendo angustia, en viajes, en peligros.\n\nPero «anduvieron errantes», ¿qué es esto? «Errando», dice, «en desiertos y montañas y en cuevas y cavernas de la tierra», como exiliados y desterrados, como personas sorprendidas en los más viles crímenes, como quienes no eran dignos de ver el sol, no hallaban refugio del desierto, sino que debían estar siempre huyendo, buscando escondites, sepultándose vivos en la tierra, siempre en terror.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "61f4da9a159c"
+ },
+ "hcf:Lucius Caecilius Firmianus Lactantius/Hebrews 11_37#0": {
+  "text_es": "Por tanto, cuando Dios quiso enviar a la tierra a uno que midiera su templo, no quiso enviarlo con poder y gloria celestiales, para que el pueblo que había sido ingrato para con Dios fuera llevado al mayor error y sufriera castigo por sus crímenes, ya que no habían recibido a su Señor y Dios, como los profetas habían predicho antes que así sucedería. Pues Isaías, a quien los judíos mataron cruelmente, aserrándolo con una sierra, habla así: «Oíd, cielos; y escucha, tierra: porque Jehová ha hablado: Hijos he engendrado, y los he levantado en alto, y ellos me han despreciado. El buey conoce a su dueño, y el asno el pesebre de su señor; pero Israel no ha conocido, mi pueblo no ha entendido».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1c46a2173520"
+ },
+ "aquifer:13148": {
+  "text_es": "⸢El mundo no era digno de ellos⸣: Pusieron su esperanza en Dios más que en los placeres y comodidades de la vida.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "68a8b679b593"
+ },
+ "hcf:John Chrysostom/Hebrews 11_38#0": {
+  "text_es": "Y no puedes decir (dice) que estos eran pecadores y despreciables. Pues aunque pongas todo el mundo contra ellos, hallo que pesan más en la balanza y son de mayor valor. ¿Qué habían de recibir entonces en esta vida? Aquí eleva sus pensamientos, enseñándoles a no estar aferrados a las cosas presentes, sino a pensar en cosas mayores que todas las que hay en esta vida presente, ya que el «mundo no es digno» de ellos. ¿Qué deseas entonces recibir aquí? Pues sería un insulto para ti, si recibieras tu recompensa aquí.\n\nNo pensemos, pues, en las cosas mundanas, ni busquemos aquí nuestra recompensa, ni seamos tan mendigos. Pues si todo «el mundo no es digno» de ellos, ¿por qué buscas una parte de él? Y con razón; porque son amigos de Dios.\n\nAhora bien, por «el mundo» ¿se refiere aquí a las personas, o a la creación misma? A ambas: pues la Escritura suele usar la palabra para ambas. Si toda la creación, diría, con los seres humanos que le pertenecen, fuera puesta en la balanza, aun así no serían de igual valor que estos; y con razón. Pues como diez mil medidas de paja y heno no serían de igual valor que diez perlas, así tampoco aquellos; pues «mejor es uno que hace la voluntad del Señor, que diez mil transgresores»; dando a entender con «diez mil» no solo muchos, sino una multitud infinita.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8ccc298f0a05"
+ },
+ "aquifer:13149": {
+  "text_es": "La manera de vivir como pueblo de Dios bajo el nuevo pacto es la misma manera en que vivía la gente bajo el antiguo pacto: confiando en las promesas de Dios y soportando dificultades en este mundo.⸢aprobados por su fe⸣: Dios reconoció su fidelidad (véase también Hebreos 11:2). ⸢pero no recibieron lo prometido⸣: Murieron antes de la venida prometida de Cristo. La mejor promesa comenzó con el sacrificio de Cristo (8:3–10:18) y mira hacia la consumación futura del plan de Dios para su pueblo. ⸢serían perfeccionados⸣: Véanse las notas de estudio sobre 5:9; 7:11. Jesús ha cumplido el propósito de Dios de llevar a su pueblo a una relación con él.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cac36145cd42",
+  "text_es_2": "La manera de vivir como pueblo de Dios bajo el nuevo pacto es la misma en que vivía el pueblo bajo el antiguo pacto: confiando en las promesas de Dios y soportando dificultades en este mundo. ⸢habiendo alcanzado testimonio por la fe⸣: Dios reconoció su fidelidad (véase también Hebreos 11:2). ⸢no recibieron la promesa⸣: Murieron antes de la venida prometida de Cristo. La promesa mejor comenzó con el sacrificio de Cristo (8:3–10:18) y apunta al cumplimiento futuro del plan de Dios para su pueblo. ⸢fuesen ellos perfectos⸣: Véanse las notas de estudio sobre 5:9; 7:11. Jesús ha cumplido el propósito de Dios de traer a su pueblo a una relación con él.",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "hcf:John Chrysostom/Hebrews 11_39-40#0": {
+  "text_es": "¿Cuál es entonces la recompensa de tan gran cambio? ¿Cuál es la retribución?\n\nTodavía no la han recibido, sino que siguen esperando; y después de morir así en tan gran tribulación, todavía no la han recibido. Obtuvieron su victoria hace tantas edades, y todavía no han recibido su recompensa. ¿Y tú, que aún estás en el conflicto, te irritas?\n\nConsidera también qué cosa es, y cuán grande, que Abraham esté sentado, y el apóstol Pablo, esperando hasta que tú hayas sido perfeccionado, para que entonces ellos puedan recibir su recompensa. Pues el Salvador les ha dicho antes que, a menos que nosotros también estemos presentes, no se la dará. Como un padre afectuoso podría decir a unos hijos bien aprobados, que habían realizado su trabajo, que no les daría de comer a menos que vinieran sus hermanos. ¿Y te irritas porque aún no has recibido la recompensa? ¿Qué hará entonces Abel, que fue vencedor antes que todos, y está sentado sin corona? ¿Y qué Noé? ¿Y qué los que vivieron en aquellos primeros tiempos, viendo que te esperan a ti y a los que vienen después de ti?\n\n¿Ves que tenemos ventaja sobre ellos? Pues «Dios» (dice) «ha provisto alguna cosa mejor para nosotros». Para que no pareciera que ellos tenían ventaja sobre nosotros por ser coronados antes que nosotros, Él señaló un solo tiempo de coronación para todos; y el que obtuvo la victoria tantos años antes, recibe su corona contigo. ¿Ves su tierno cuidado?\n\nY no dijo: «que ellos sin nosotros no fueran coronados», sino «que ellos sin nosotros no fueran perfeccionados»; de modo que en aquel tiempo también ellos aparecen perfectos. Estuvieron antes que nosotros en cuanto a los conflictos, pero no están antes que nosotros en cuanto a las coronas. No los agravió, sino que nos honró. Pues ellos también esperan a los hermanos. Pues si somos «todos un solo cuerpo», el placer se vuelve mayor para este cuerpo cuando es coronado en su totalidad, y no parte por parte. Pues los justos también son dignos de admiración en esto: que se regocijan en el bienestar de sus hermanos, como en el propio. De modo que también para ellos mismos esto es conforme a su deseo: ser coronados junto con sus propios miembros. Ser glorificados todos juntos es un gran deleite.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "01f37d8f701c",
+  "text_es_2": "¿Cuál es, pues, la recompensa de un cambio tan grande? ¿Cuál es la retribución?\n\nTodavía no la han recibido, sino que aún esperan; y después de morir así en tan grande tribulación, todavía no la han recibido. Obtuvieron su victoria hace tantas edades, y aún no han recibido su recompensa. Y tú, que todavía estás en el conflicto, ¿te afliges?\n\n¿Consideras también qué cosa es, y cuán grande, que Abraham esté sentado, y el apóstol Pablo, esperando hasta que tú hayas sido perfeccionado, para que entonces ellos puedan recibir su recompensa. Porque el Salvador les ha dicho antes que, a menos que también nosotros estemos presentes, no les dará su recompensa. Como un padre afectuoso podría decir a hijos que fueron bien aprobados y habían terminado su obra, que no les daría de comer a menos que vinieran sus hermanos. ¿Y te afliges porque todavía no has recibido la recompensa? ¿Qué hará entonces Abel, que fue vencedor antes que todos, y está sentado sin corona? ¿Y qué Noé? ¿Y qué diremos de los que vivieron en aquellos primeros tiempos, puesto que te esperan a ti y a los que vienen después de ti?\n\n¿Ves que tenemos ventaja sobre ellos? Porque «Dios» —dice— «ha provisto alguna cosa mejor para nosotros». Para que no pareciera que ellos tenían ventaja sobre nosotros por ser coronados antes que nosotros, Él señaló un solo tiempo de coronación para todos; y el que obtuvo la victoria tantos años antes recibe su corona junto contigo. ¿Ves su tierno cuidado?\n\nY no dijo: «que sin nosotros no fuesen coronados», sino «para que no fuesen ellos perfectos sin nosotros»; de modo que en aquel tiempo también ellos aparezcan perfectos. Nos precedieron en cuanto a los conflictos, pero no nos preceden en cuanto a las coronas. No les hizo agravio, sino que nos honró. Pues ellos también esperan a los hermanos. Porque si somos «todos un solo cuerpo», el placer se vuelve mayor para este cuerpo cuando es coronado todo junto, y no parte por parte. Pues los justos son también dignos de admiración en esto: que se regocijan en el bienestar de sus hermanos como en el propio. De modo que también para ellos esto es conforme a su deseo: ser coronados junto con sus propios miembros. Ser glorificados todos juntos es un gran deleite.",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "hcf:Philoxenus of Mabbug/Hebrews 11_40#0": {
+  "text_es": "Y de nuevo dijo: «En fe todos estos murieron, y no recibieron sus promesas», pues Dios consideró de antemano ayuda para nosotros, para que ellos no fueran perfeccionados sin nosotros. Y durante toda su vida, según la palabra de Cristo, y hasta su partida de este mundo, la fe se adhirió a ellos; por ella hicieron grandes obras mientras estuvieron en el mundo, y por ella esperaron y aguardaron recibir las promesas que habían de ser, y recibir lo que les había sido prometido, por causa de lo cual salieron conforme a su palabra.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d406a6d20db7",
+  "text_es_2": "Y otra vez dijo: «Conforme a la fe murieron todos éstos sin haber recibido las promesas», porque Dios consideró de antemano ayuda para nosotros, para que no fuesen ellos perfectos sin nosotros. Y durante toda su vida, conforme a la palabra de Cristo, y hasta su partida de este mundo, la fe se adhirió a ellos; por ella hicieron obras poderosas mientras estuvieron en el mundo, y por ella esperaron y aguardaron recibir las promesas que estaban por venir, y recibir lo que les había sido prometido, por causa de lo cual salieron tras su palabra.",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "hcf:Tertullian/Hebrews 11_40#0": {
+  "text_es": "¿Qué es, entonces, el oficio administrativo del Consolador sino este: la dirección de la disciplina, la revelación de las Escrituras, la reforma del entendimiento, el avance hacia las «cosas mejores»? Nada existe sin etapas de crecimiento: todas las cosas esperan su tiempo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "904116644406",
+  "text_es_2": "¿Cuál es, pues, el oficio administrativo del Consolador, sino este: la dirección de la disciplina, la revelación de las Escrituras, la reforma del intelecto, el avance hacia «las cosas mejores»? Nada está sin etapas de crecimiento: todas las cosas esperan su tiempo.",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ }
+}

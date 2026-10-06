@@ -93,7 +93,7 @@
   "ok": true,
   "motivo": "Fiel y completo",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "9ccade960048"
+  "huella": "b6de8d5e934a"
  },
  "aquifer:18830": {
   "ok": true,
@@ -549,7 +549,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "a5080bf3a8a2"
+  "huella": "7863732dd242"
  },
  "hcf:John Chrysostom/John 10_2#0": {
   "ok": true,

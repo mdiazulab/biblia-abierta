@@ -63,7 +63,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "gemini-3.6-flash",
-  "huella": "3a12c1e94a38"
+  "huella": "2ec3e7b6fd41"
  },
  "aquifer:19111": {
   "ok": true,
@@ -75,7 +75,7 @@
   "ok": true,
   "motivo": "La traducción es fiel y completa.",
   "modelo": "gemini-3.6-flash",
-  "huella": "815920e3866b"
+  "huella": "dcb9bd03f7ff"
  },
  "aquifer:19112": {
   "ok": true,
@@ -597,13 +597,13 @@
   "ok": true,
   "motivo": "",
   "modelo": "gemini-3.6-flash",
-  "huella": "00c058d40da0"
+  "huella": "981ce68a0839"
  },
  "hcf:John Chrysostom/John 3_19#1": {
   "ok": true,
   "motivo": "",
   "modelo": "gemini-3.6-flash",
-  "huella": "f7eb93474886"
+  "huella": "2114cec23356"
  },
  "hcf:John Chrysostom/John 3_21#0": {
   "ok": true,

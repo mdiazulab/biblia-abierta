@@ -33,7 +33,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "bde7c31050e4"
+  "huella": "b5a748d4aa65"
  },
  "aquifer:19022": {
   "ok": true,
@@ -129,7 +129,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "ed30dd074285"
+  "huella": "d4bcbf381f31"
  },
  "aquifer:19039": {
   "ok": true,
@@ -141,19 +141,19 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "11cc4959589c"
+  "huella": "d41ff47b663c"
  },
  "aquifer:19041": {
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "cf8a213c601d"
+  "huella": "afc01d9686ed"
  },
  "aquifer:19042": {
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "12d852916cfb"
+  "huella": "a19007f29cbe"
  },
  "aquifer:19043": {
   "ok": true,
@@ -333,7 +333,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "b456f0abc486"
+  "huella": "2f1dba7074fb"
  },
  "hcf:Augustine of Hippo/John 19_40#1": {
   "ok": true,
@@ -597,7 +597,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "f5b9c5f998f6"
+  "huella": "103ead097344"
  },
  "hcf:John Chrysostom/John 19_3#0": {
   "ok": true,
@@ -609,19 +609,19 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "2ce0cbd7acb3"
+  "huella": "094c9722532d"
  },
  "hcf:John Chrysostom/John 19_6#1": {
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "56be43cdfbe7"
+  "huella": "0989b3b4479e"
  },
  "hcf:John Chrysostom/John 19_7#0": {
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "b9a532a6fbb2"
+  "huella": "7a9c9efddc22"
  },
  "hcf:John Chrysostom/John 19_8#0": {
   "ok": true,

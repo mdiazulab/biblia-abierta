@@ -1,0 +1,511 @@
+{
+ "_calibracion": {
+  "detect": 19,
+  "total": 19,
+  "modelo": "deepseek:deepseek-reasoner"
+ },
+ "aquifer:13097": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "3bf824a3a966"
+ },
+ "aquifer:13107": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "6ecb11d94ee7"
+ },
+ "aquifer:13116": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "951ee77cfc5a"
+ },
+ "aquifer:13117": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "8f757b12ed72"
+ },
+ "aquifer:13119": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "4a6060985fd0"
+ },
+ "aquifer:13118": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "f8de0decfa11"
+ },
+ "aquifer:13120": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "54a747173aae"
+ },
+ "aquifer:13090": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b3fad0e77587"
+ },
+ "aquifer:13089": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "979a4fac52e2"
+ },
+ "aquifer:13091": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "4d7cab839cf7"
+ },
+ "aquifer:13092": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "4ab044aee727"
+ },
+ "aquifer:13093": {
+  "ok": true,
+  "motivo": "Fiel y completo",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "70239fa1a72e"
+ },
+ "aquifer:13094": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "2fac4fc372f5"
+ },
+ "aquifer:13096": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "8bc26532d1eb"
+ },
+ "aquifer:13095": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "db9060a4c92e"
+ },
+ "aquifer:13098": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "4ff11db11f15"
+ },
+ "aquifer:13099": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "03a88771f878"
+ },
+ "aquifer:13100": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "46ebb1ac58c0"
+ },
+ "aquifer:13101": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "981e2d18559d"
+ },
+ "aquifer:13102": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "d29b96481201"
+ },
+ "aquifer:13103": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "41e1bf6fcc43"
+ },
+ "aquifer:13104": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "f33aa4a50e69"
+ },
+ "aquifer:13105": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "462c29e19e2d"
+ },
+ "aquifer:13106": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "2707fb8819f5"
+ },
+ "aquifer:13108": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "73ca2def70ad"
+ },
+ "aquifer:13110": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "f5031484f865"
+ },
+ "aquifer:13109": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "394978b81657"
+ },
+ "aquifer:13111": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "7f65b84f44d4"
+ },
+ "aquifer:13112": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "34b9367799d2"
+ },
+ "aquifer:13113": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "f6c1cf08cfee"
+ },
+ "aquifer:13114": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "9b00ffa87eec"
+ },
+ "aquifer:13115": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "bb5cea22a7a8"
+ },
+ "hcf:Augustine of Hippo/Hebrews 10_38#2": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e142221dae3a"
+ },
+ "hcf:Clement of Alexandria/Hebrews 10_26-27#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "fedd684f7380"
+ },
+ "hcf:Clement of Alexandria/Hebrews 10_39#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "905c8e4a4aa6"
+ },
+ "hcf:Clement of Rome/Hebrews 10_37#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "bd71d3a58fc5"
+ },
+ "hcf:Cosmas Indicopleustes/Hebrews 10_11-14#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b305ae248cb7"
+ },
+ "hcf:Cosmas Indicopleustes/Hebrews 10_19-21#0": {
+  "ok": false,
+  "motivo": "Traduce 'Holy place' como 'Lugar Santísimo' y 'dedicated' como 'abrió', cambiando el sentido.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "57c91566922e"
+ },
+ "hcf:Cyril of Jerusalem/Hebrews 10_22#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "9bd9db810651"
+ },
+ "hcf:Dionysius of Alexandria/Hebrews 10_34#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "d715a18b952a"
+ },
+ "hcf:Ignatius of Antioch/Hebrews 10_29#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "44ae1c4554f4"
+ },
+ "hcf:John Chrysostom/Hebrews 10_1#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "3594246ff0a7"
+ },
+ "hcf:John Chrysostom/Hebrews 10_10#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e2aba39ab5df"
+ },
+ "hcf:John Chrysostom/Hebrews 10_11-12#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "617e97cd4173"
+ },
+ "hcf:John Chrysostom/Hebrews 10_12-13#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "92032862e68d"
+ },
+ "hcf:John Chrysostom/Hebrews 10_14#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "f55c0754cd00"
+ },
+ "hcf:John Chrysostom/Hebrews 10_15-18#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "0bfe28848e43"
+ },
+ "hcf:John Chrysostom/Hebrews 10_19#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "59e59abe4c07"
+ },
+ "hcf:John Chrysostom/Hebrews 10_2-3#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "8a678b541312"
+ },
+ "hcf:John Chrysostom/Hebrews 10_20#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "dd3664cde7c3"
+ },
+ "hcf:John Chrysostom/Hebrews 10_22#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "2459b9e84c61"
+ },
+ "hcf:John Chrysostom/Hebrews 10_23#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "325f9f996d91"
+ },
+ "hcf:John Chrysostom/Hebrews 10_24#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b7e3b04de7c9"
+ },
+ "hcf:John Chrysostom/Hebrews 10_25#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "1a0278e95f39"
+ },
+ "hcf:John Chrysostom/Hebrews 10_26-27#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "affcb9bf08f3"
+ },
+ "hcf:John Chrysostom/Hebrews 10_26-27#1": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e528309c2bc3"
+ },
+ "hcf:John Chrysostom/Hebrews 10_28#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "3f2f5fd1a76c"
+ },
+ "hcf:John Chrysostom/Hebrews 10_29#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "d41e7f3cdd70"
+ },
+ "hcf:John Chrysostom/Hebrews 10_30-31#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b9a551b6baee"
+ },
+ "hcf:John Chrysostom/Hebrews 10_32#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "c15d6066291f"
+ },
+ "hcf:John Chrysostom/Hebrews 10_33#0": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "cd953c1ecf4a"
+ },
+ "hcf:John Chrysostom/Hebrews 10_34#0": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "f2099287b0f5"
+ },
+ "hcf:John Chrysostom/Hebrews 10_35#0": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "af6b93fa549a"
+ },
+ "hcf:John Chrysostom/Hebrews 10_36#0": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "d43a85255f7a"
+ },
+ "hcf:John Chrysostom/Hebrews 10_37#0": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "c88e3b704c7f"
+ },
+ "hcf:John Chrysostom/Hebrews 10_38#0": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "21aba86834c0"
+ },
+ "hcf:John Chrysostom/Hebrews 10_39#0": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "174f764fe63b"
+ },
+ "hcf:John Chrysostom/Hebrews 10_4#0": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "5f40eb482451"
+ },
+ "hcf:John Chrysostom/Hebrews 10_5-7#0": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "c6374bc7b115"
+ },
+ "hcf:John Chrysostom/Hebrews 10_8-9#0": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "477bcfbc24cd"
+ },
+ "hcf:John Chrysostom/Hebrews 10_8-9#1": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "da2c7d58b124"
+ },
+ "hcf:John Chrysostom/Hebrews 10_9#0": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "5f544bd3cffe"
+ },
+ "hcf:Methodius of Olympus/Hebrews 10_1#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "837ac338998c"
+ },
+ "hcf:Methodius of Olympus/Hebrews 10_32#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "3a1c2157726f"
+ },
+ "hcf:Pseudo-Clement/Hebrews 10_1#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "0351ef5f3ad9"
+ },
+ "hcf:Shepherd of Hermas/Hebrews 10_25#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "1b054b4c5eef"
+ },
+ "hcf:Shepherd of Hermas/Hebrews 10_26#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "09f944127b61"
+ },
+ "hcf:Shepherd of Hermas/Hebrews 10_39#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "482bb700ba85"
+ },
+ "hcf:Tertullian/Hebrews 10_12-13#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "d9ad3743f1e0"
+ },
+ "hcf:Tertullian/Hebrews 10_22#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a7fcfbbd7e05"
+ },
+ "hcf:Tertullian/Hebrews 10_24#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "c97595217786"
+ },
+ "hcf:Tertullian/Hebrews 10_26#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "15e66a780ece"
+ },
+ "hcf:Tertullian/Hebrews 10_30#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "cc81ddbe9110"
+ },
+ "hcf:Tertullian/Hebrews 10_38#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "03338ad8eca1"
+ }
+}

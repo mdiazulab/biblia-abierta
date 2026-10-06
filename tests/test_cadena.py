@@ -108,6 +108,26 @@ class Compuerta(unittest.TestCase):
             if falso is not None:
                 os.environ["MODELO_FALSO"] = falso
 
+    def test_clases_hebreos_06_10(self):
+        import rv1909 as R
+        self.assertEqual(B.normalizar("(Judas 19) (Hageo 2:6)"), "(⸢Judas⸣ 1:19) (⸢Ageo⸣ 2:6)")
+        self.assertEqual(V.numeros("(Luke xxii. 19.)"), V.numeros("(Lucas 22:19)"))
+        self.assertEqual(R._sin_tilde("constituído"), "constituido")
+
+    def test_alias_apuntan_a_libros(self):
+        self.assertEqual({k: v for k, v in B.ALIAS.items() if v not in B.LIBROS}, {})
+
+    def test_comillas_espanolas(self):
+        import traducir as T
+        self.assertEqual(T.comillas('"Por tanto" (dice) "también nosotros". ...\"Aprendió", dice.'),
+                         '«Por tanto» (dice) «también nosotros». ...«Aprendió», dice.')
+        self.assertEqual(T.comillas('«Él dijo: "sí"» y "no"'), '«Él dijo: “sí”» y «no»')
+
+    def test_titulos_de_obras(self):
+        import epub as E
+        self.assertEqual(E.obra_es("Homily on Hebrews 13"), "Homilías sobre la Epístola a los Hebreos 13")
+        self.assertEqual(E.obra_es("The Divine Institutes Book 4, Chapter XI"), "Instituciones divinas libro 4, cap. XI")
+
     def test_wilson(self):
         self.assertLess(J.wilson_sup(0, 200), 0.02)
         self.assertGreater(J.wilson_sup(5, 100), 0.03)

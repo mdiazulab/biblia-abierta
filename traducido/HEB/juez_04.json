@@ -1,0 +1,277 @@
+{
+ "aquifer:13249": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "c008f394bff5"
+ },
+ "aquifer:13240": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b0991cf17c8a"
+ },
+ "aquifer:13250": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b72e664bc9f7"
+ },
+ "aquifer:13251": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e22c64af577a"
+ },
+ "aquifer:13252": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "93caa31ae7bb"
+ },
+ "aquifer:13253": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a081b1196b91"
+ },
+ "aquifer:13254": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "40aad567bfc5"
+ },
+ "aquifer:13255": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b2838879f572"
+ },
+ "aquifer:13256": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a5990cc9c772"
+ },
+ "aquifer:13257": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "2391e4c2094d"
+ },
+ "aquifer:13241": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "80d5c725e15b"
+ },
+ "aquifer:13242": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "76835dbc3c00"
+ },
+ "aquifer:13243": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a720c03f4bcd"
+ },
+ "aquifer:13244": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "d2f495a9fe2d"
+ },
+ "aquifer:13246": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a6264a52d8e5"
+ },
+ "aquifer:13245": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "37b6093f34fa"
+ },
+ "aquifer:13247": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "1c6976dc7825"
+ },
+ "aquifer:13248": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "ef799fb43cf2"
+ },
+ "hcf:Augustine of Hippo/Hebrews 4_12#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "9fc9eb4e405f"
+ },
+ "hcf:Augustine of Hippo/Hebrews 4_9#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "51e3154109a8"
+ },
+ "hcf:Clement of Alexandria/Hebrews 4_14#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "a7bcad3ce8b1"
+ },
+ "hcf:Cosmas Indicopleustes/Hebrews 4_11#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "2c8ebb27f1ab"
+ },
+ "hcf:Cosmas Indicopleustes/Hebrews 4_14#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "ce281eb76afb"
+ },
+ "hcf:John Chrysostom/Hebrews 4_1-2#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "4649bf71d535"
+ },
+ "hcf:John Chrysostom/Hebrews 4_1-2#1": {
+  "ok": false,
+  "motivo": "Omite «at any time» y traduce «come short of it» como «haberse apartado», cambiando el sentido.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "7ec61436d452"
+ },
+ "hcf:John Chrysostom/Hebrews 4_10#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e7e55e191f1c"
+ },
+ "hcf:John Chrysostom/Hebrews 4_11#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "9a023467e28f"
+ },
+ "hcf:John Chrysostom/Hebrews 4_11#1": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "5ed5c8c6739b"
+ },
+ "hcf:John Chrysostom/Hebrews 4_12#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "99e55cafc88b"
+ },
+ "hcf:John Chrysostom/Hebrews 4_12#1": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "6be31ac26938"
+ },
+ "hcf:John Chrysostom/Hebrews 4_12#2": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "ca72530d292e"
+ },
+ "hcf:John Chrysostom/Hebrews 4_13#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "8bafcdd63540"
+ },
+ "hcf:John Chrysostom/Hebrews 4_14#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "90a36373293f"
+ },
+ "hcf:John Chrysostom/Hebrews 4_15#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "00a3de4fb1c2"
+ },
+ "hcf:John Chrysostom/Hebrews 4_16#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b99d77030d8a"
+ },
+ "hcf:John Chrysostom/Hebrews 4_3#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b0b9afd7c099"
+ },
+ "hcf:John Chrysostom/Hebrews 4_4-5#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "5df2e6c99f0c"
+ },
+ "hcf:John Chrysostom/Hebrews 4_6-7#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "5be532c8b7f9"
+ },
+ "hcf:John Chrysostom/Hebrews 4_8#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "94a82dae5eb9"
+ },
+ "hcf:John Chrysostom/Hebrews 4_9#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "0ae41e77e047"
+ },
+ "hcf:John Chrysostom/Hebrews 4_9#1": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "bbf851c12f88"
+ },
+ "hcf:Justin Martyr/Hebrews 4_8#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "65a8bba15a55"
+ },
+ "hcf:Lucius Caecilius Firmianus Lactantius/Hebrews 4_8#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "e121ba1c694d"
+ },
+ "hcf:Tertullian/Hebrews 4_13#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "80f2c7fe8485"
+ },
+ "hcf:Tertullian/Hebrews 4_15#0": {
+  "ok": true,
+  "motivo": "",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "b4b31eabde9a"
+ },
+ "_calibracion": {
+  "detect": 16,
+  "total": 16,
+  "modelo": "deepseek:deepseek-reasoner"
+ }
+}

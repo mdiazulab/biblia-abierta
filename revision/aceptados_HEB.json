@@ -1,0 +1,44 @@
+{
+ "aquifer:13120": {
+  "puntos": [
+   "3 cursivas"
+  ],
+  "motivo": "la adjudicación unió en un solo lema cada cita de Hebreos 10:8-9 que la fuente partía en varios fragmentos en cursiva (formato roto de la fuente)",
+  "evidencia": "⸢In the passage above He says,⸣⸢ \"⸣⸢Sacrifices and offerings…⸣⸢\"⸣"
+ },
+ "hcf:John Chrysostom/Hebrews 4_1-2#1": {
+  "puntos": [
+   "juez"
+  ],
+  "motivo": "la cita de Hebreos 4:1 sigue el texto de la RV1909 («quedando aún la promesa… haberse apartado»), norma de la edición; el «at any time» de la versión inglesa es el «que» griego (mēpote)",
+  "evidencia": "Let us fear, lest at any time a promise being left us of entering into His rest, any of you should seem to come short of it."
+ },
+ "hcf:John Chrysostom/Hebrews 5_1-3#0": {
+  "puntos": [
+   "juez"
+  ],
+  "motivo": "la cita de Hebreos 5:1 sigue la RV1909 y el griego («por los pecados», hyper hamartiōn); la edición inglesa de Crisóstomo trae «for the people», que no cambia su comentario",
+  "evidencia": "that he may offer both gifts and sacrifices for the people"
+ },
+ "hcf:John Chrysostom/Hebrews 12_11#1": {
+  "puntos": [
+   "juez"
+  ],
+  "motivo": "la cita de Hebreos 12:11 sigue la RV1909 («fruto apacible de justicia», singular como el griego karpon); la edición inglesa trae «fruits»",
+  "evidencia": "yieldeth the peaceable fruit"
+ },
+ "hcf:Tertullian/Hebrews 9_14#0": {
+  "puntos": [
+   "juez"
+  ],
+  "motivo": "«of course» repuesto por adjudicación («como es natural»)",
+  "evidencia": "return back again of course to the Lord"
+ },
+ "hcf:Cosmas Indicopleustes/Hebrews 10_19-21#0": {
+  "puntos": [
+   "juez"
+  ],
+  "motivo": "cita de Hebreos 10:19-20 repuesta con el texto de la RV1909 por adjudicación («santuario», «consagró»)",
+  "evidencia": "boldness to enter into the Holy place by the blood of Jesus, by the way which he dedicated for us"
+ }
+}

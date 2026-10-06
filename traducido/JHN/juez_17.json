@@ -351,7 +351,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "63b5fa61a69f"
+  "huella": "5d805b025b2e"
  },
  "hcf:Gregory the Dialogist/John 17_24#0": {
   "ok": true,
@@ -417,25 +417,25 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "6962b10d5fd4"
+  "huella": "069613ef9c0d"
  },
  "hcf:John Chrysostom/John 17_16#0": {
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "7ba80006676b"
+  "huella": "de0df2912bac"
  },
  "hcf:John Chrysostom/John 17_17#0": {
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "feebeb3ea487"
+  "huella": "f5b1fd4c9a15"
  },
  "hcf:John Chrysostom/John 17_18#0": {
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "9b5c995af706"
+  "huella": "ec830ed0348b"
  },
  "hcf:John Chrysostom/John 17_2#1": {
   "ok": true,
@@ -447,7 +447,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "42da69ab1c77"
+  "huella": "163df95c6a01"
  },
  "hcf:John Chrysostom/John 17_21#2": {
   "ok": true,
@@ -459,25 +459,25 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "442188d39ba2"
+  "huella": "8665adcab010"
  },
  "hcf:John Chrysostom/John 17_23#0": {
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "7973983e73f1"
+  "huella": "7702ccc90b05"
  },
  "hcf:John Chrysostom/John 17_24#0": {
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "5af1928aecf3"
+  "huella": "f6ea969b80f1"
  },
  "hcf:John Chrysostom/John 17_26#0": {
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "f4af3225b8d5"
+  "huella": "6788ba29a9d9"
  },
  "hcf:John Chrysostom/John 17_3#1": {
   "ok": true,
@@ -495,7 +495,7 @@
   "ok": false,
   "motivo": "Traduce 'For allowing that' como 'Pues aunque se le permita', cambiando el sentido concesivo ('concediendo que').",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "1577ef09f956"
+  "huella": "af9e80f3cf66"
  },
  "hcf:John Chrysostom/John 17_7-8#0": {
   "ok": true,

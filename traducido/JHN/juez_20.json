@@ -99,7 +99,7 @@
   "ok": true,
   "motivo": "Fiel y completo.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "2d9ac5b56f72"
+  "huella": "4545627d632e"
  },
  "aquifer:19076": {
   "ok": true,
@@ -219,7 +219,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "4b3284f446cf"
+  "huella": "27bc73eed0ba"
  },
  "hcf:Augustine of Hippo/John 20_23#0": {
   "ok": true,
@@ -231,7 +231,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "6f8d2e48e2e3"
+  "huella": "db03ca45f2f8"
  },
  "hcf:Augustine of Hippo/John 20_26#0": {
   "ok": true,
@@ -321,7 +321,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "a2c8a6c03cc7"
+  "huella": "ce2e194149da"
  },
  "hcf:Glossa Ordinaria/John 20_2#0": {
   "ok": true,
@@ -513,7 +513,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "e5854a71d969"
+  "huella": "d6dc171bff5e"
  },
  "hcf:John Chrysostom/John 20_18#0": {
   "ok": true,
@@ -543,13 +543,13 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "5d3c55d9ff26"
+  "huella": "9630a9b59791"
  },
  "hcf:John Chrysostom/John 20_24-25#0": {
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "9751943e482d"
+  "huella": "5d29fab96c91"
  },
  "hcf:John Chrysostom/John 20_26#0": {
   "ok": true,

@@ -135,7 +135,7 @@
   "ok": true,
   "motivo": "Fiel y completo",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "877e6a292924"
+  "huella": "61fe13e88338"
  },
  "hcf:Augustine of Hippo/John 9_12#0": {
   "ok": true,
@@ -201,7 +201,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "9ebc2b031511"
+  "huella": "e89f42ff6e09"
  },
  "hcf:Augustine of Hippo/John 9_27#0": {
   "ok": true,
@@ -231,7 +231,7 @@
   "ok": true,
   "motivo": "Fiel y completo.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "c953c434e651"
+  "huella": "9d63b6c7cce7"
  },
  "hcf:Augustine of Hippo/John 9_31#0": {
   "ok": true,
@@ -291,7 +291,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "d84bc7292992"
+  "huella": "1a47aa6523fd"
  },
  "hcf:Augustine of Hippo/John 9_9#0": {
   "ok": true,
@@ -381,19 +381,19 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "149d778b223d"
+  "huella": "aaebacb770d3"
  },
  "hcf:John Chrysostom/John 9_10-11#0": {
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "49ea284efe8e"
+  "huella": "41eb666d8335"
  },
  "hcf:John Chrysostom/John 9_12#0": {
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "c8250b1b8382"
+  "huella": "0199281278d4"
  },
  "hcf:John Chrysostom/John 9_13#0": {
   "ok": true,
@@ -417,49 +417,49 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "bff37a23e696"
+  "huella": "2a209e6dd020"
  },
  "hcf:John Chrysostom/John 9_20-21#0": {
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "a349483c329a"
+  "huella": "92bbd5208dff"
  },
  "hcf:John Chrysostom/John 9_25#0": {
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "1fcc66ca3e0c"
+  "huella": "65ef57f1b491"
  },
  "hcf:John Chrysostom/John 9_26-27#0": {
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "654e477cb475"
+  "huella": "bea9dab079dc"
  },
  "hcf:John Chrysostom/John 9_28-29#0": {
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "ebca4dffae15"
+  "huella": "50c0ade7198f"
  },
  "hcf:John Chrysostom/John 9_3#2": {
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "8bacdd87f156"
+  "huella": "daa2b7eaadc4"
  },
  "hcf:John Chrysostom/John 9_30#0": {
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "d257c45d84a2"
+  "huella": "b804fbfbbbb2"
  },
  "hcf:John Chrysostom/John 9_32-33#0": {
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "8eb36cda463f"
+  "huella": "2a15571123df"
  },
  "hcf:John Chrysostom/John 9_34#1": {
   "ok": true,
@@ -483,7 +483,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "d514efec54fc"
+  "huella": "27e306224be0"
  },
  "hcf:John Chrysostom/John 9_40#1": {
   "ok": true,
@@ -495,13 +495,13 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "57373f820987"
+  "huella": "8c1e80968271"
  },
  "hcf:John Chrysostom/John 9_8-9#0": {
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "a07b3f785293"
+  "huella": "ae30a4575cd2"
  },
  "hcf:Theophylact of Ohrid/John 9_17#0": {
   "ok": true,

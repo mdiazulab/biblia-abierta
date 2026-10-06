@@ -1,0 +1,229 @@
+{
+ "aquifer:13318": {
+  "text_es": "Este pasaje explica que el papel de Jesús como el pontífice celestial es mejor que el papel de los sacerdotes terrenales.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "16ccb455c5a1",
+  "text_es_2": "Este pasaje explica que el papel de Jesús como el pontífice celestial es mejor que el papel de los sacerdotes terrenales.",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "aquifer:13319": {
+  "text_es": "Los dos primeros versículos del capítulo conectan la discusión anterior e introducen el tema siguiente. El punto principal es que Jesús es designado como un pontífice superior (Hebreos 5:1–10; 7:1–28). Él sirve en el tabernáculo celestial (también en 8:5): esto introduce el tema de la ofrenda superior de Jesús, tratado en el resto de esta sección (8:3–10:18). A diferencia de los sacerdotes levíticos que servían en un tabernáculo o edificio terrenal, el sacrificio de Jesús es superior porque él sirve en el verdadero lugar de adoración, la misma presencia de Dios en el cielo (8:5; 9:11, 24; 10:12).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "af600832e732"
+ },
+ "hcf:Cosmas Indicopleustes/Hebrews 8_1-2#1": {
+  "text_es": "¿Dónde están los que dicen que el cielo está en movimiento? ¿Dónde están los que piensan que es esférico? Porque ambas opiniones son aquí desechadas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b005c6106fb5"
+ },
+ "hcf:John Chrysostom/Hebrews 8_1-2#0": {
+  "text_es": "Pablo mezcla las cosas humildes con las elevadas, imitando siempre a su Maestro, de modo que las humildes se convierten en camino hacia las elevadas, y por medio de las primeras somos conducidos a las segundas, y cuando estamos entre las grandes cosas aprendemos que estas humildes fueron una condescendencia. Esto, pues, hace también aquí. Después de declarar que «se ofreció a sí mismo», y de mostrarlo como «Pontífice», ¿qué dice? «Ahora, de las cosas que hemos dicho, esta es la suma: tenemos tal Pontífice, que se sentó a la diestra del trono de la majestad.» Y sin embargo, esto no es oficio de un sacerdote, sino de aquel a quien el sacerdote debe servir.\n\n«Ministro del santuario», no simplemente ministro, sino «ministro del santuario. Y del verdadero Tabernáculo, que el Señor asentó y no el hombre.» Ves la condescendencia. ¿No hizo poco antes una distinción, diciendo: «¿No son todos espíritus ministradores?» (supra, i. 14) y por eso (dice) no se les dice a ellos: «Siéntate a mi diestra» (supra, i. 13), pues el que se sienta no es ministro. ¿Cómo es entonces que aquí se dice «ministro», y «ministro del Santuario»? pues aquí se refiere al Tabernáculo.\n\nMira cómo elevó las mentes de los judíos creyentes. Pues como estarían propensos a imaginar que nosotros no tenemos tal tabernáculo como el que ellos tenían, mira aquí (dice) está el Sacerdote, Grande, sí, mucho más grande que el otro, y que ha ofrecido un sacrificio más maravilloso. Pero ¿no es todo esto mera palabrería? ¿no es una jactancia, y dicho solo para ganar nuestras mentes? por esta razón lo estableció primero con el juramento, y después también con «el tabernáculo». Pues también esta diferencia era manifiesta; pero el Apóstol piensa en otra también, «que» (dice) «el Señor asentó [o «afirmó»] y no el hombre». ¿Dónde están los que dicen que el cielo gira? ¿dónde están los que declaran que es esférico? pues ambas nociones son refutadas aquí.\n\n«Ahora» (dice) «de las cosas que hemos dicho esta es la suma». Por «la suma» se entiende siempre lo más importante. De nuevo rebaja su discurso; habiendo dicho lo elevado, en adelante habla sin temor.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c7b8bd0a9477"
+ },
+ "hcf:Tertullian/Hebrews 8_1#0": {
+  "text_es": "Porque para este fin había venido, para que, siendo él mismo puro de pecado, y en todo sentido santo, sufriera la muerte en favor de los pecadores.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "17804fee0fbb"
+ },
+ "hcf:Cosmas Indicopleustes/Hebrews 8_2#0": {
+  "text_es": "Isaías dice de nuevo: Así dice el Señor, el que hizo el cielo y lo extendió; y el Apóstol dice de igual manera: Del verdadero Tabernáculo que el Señor asentó y no el hombre. Ambos hablan del cielo como que está sobre la tierra y fijado en ella, y no como que gira alrededor de ella.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "71a31cac9f37"
+ },
+ "hcf:Lucius Caecilius Firmianus Lactantius/Hebrews 8_2#0": {
+  "text_es": "Aprendan, pues, los hombres y entiendan por qué el Dios Altísimo, cuando envió a su embajador y mensajero para instruir a los mortales con los preceptos de su justicia, quiso que fuera revestido de carne mortal, y afligido con tormentos, y condenado a muerte. Pues como no había justicia en la tierra, envió un maestro, como una ley viva, para fundar un nuevo nombre y templo, a fin de que con sus palabras y su ejemplo difundiera por toda la tierra un culto verdadero y santo. Pero, sin embargo, para que fuera cierto que había sido enviado por Dios, convenía que no naciera como nace el hombre, compuesto de mortal por ambos lados; sino que, para que apareciera que era celestial aun en la forma de hombre, nació sin la función de un padre. Pues tenía un Padre espiritual, Dios; y así como Dios fue el Padre de su espíritu sin madre, así una virgen fue la madre de su cuerpo sin padre. Fue, por tanto, Dios y hombre, colocado en medio entre Dios y el hombre. De ahí que los griegos lo llamen Mesites, para que pudiera llevar al hombre a Dios, esto es, a la inmortalidad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d7c65951ab45"
+ },
+ "aquifer:13324": {
+  "text_es": "Todo pontífice debe ofrecer dones y sacrificios. Puesto que ofrecer sacrificios es un deber general de los sacerdotes, Jesús también necesitaba ofrecer un sacrificio. Este versículo repite lo que se mencionó en el primer versículo de la discusión anterior (Hebreos 5:1), marcando otra sección importante del libro.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a321ded3bd85"
+ },
+ "hcf:John Chrysostom/Hebrews 8_3#0": {
+  "text_es": "En el siguiente lugar, para que entiendas que usó la palabra «ministro» respecto de la humanidad, observa cómo lo vuelve a indicar: «Porque» (dice) «todo pontífice es ordenado para ofrecer dones y sacrificios, por lo cual es necesario que este también tenga algo que ofrecer».\n\nNo ahora, porque oigas que Él está sentado, supongas que el ser llamado Pontífice es mera charla vana. Pues lo primero, a saber, el estar sentado, pertenece a la dignidad de la Deidad, pero esto a su gran benignidad y a su tierno cuidado por nosotros. Por esta razón insiste repetidamente en esto mismo y se detiene más en ello: pues temía que la otra verdad lo derribara. Es decir, que la creencia en su Deidad socavara nuestra creencia en su verdadera humanidad. Por eso vuelve a bajar su discurso a esto: ya que algunos preguntaban por qué murió. Era un Sacerdote. Pero no hay Sacerdote sin sacrificio. Es necesario, entonces, que Él también tenga un sacrificio.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "73d82d9a9532"
+ },
+ "aquifer:13325": {
+  "text_es": "Si Jesús estuviera en la tierra, no sería sacerdote bajo el antiguo sistema (véase Hebreos 7:13–14). Sin embargo, Jesús está en el cielo, haciendo que su rol sacerdotal sea único y mejor que el de los sacerdotes del antiguo pacto (8:5; 9:11, 24; 10:12).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "15f1c53774b7"
+ },
+ "hcf:John Chrysostom/Hebrews 8_4#0": {
+  "text_es": "Y de otra manera: Habiendo dicho que Él está en lo alto, afirma y prueba que es Sacerdote desde toda consideración, desde Melchisedec, desde el juramento, desde ofrecer sacrificio. De esto también forma otro silogismo necesario. «Porque si» (dice) «estuviera sobre la tierra, no sería sacerdote, habiendo sacerdotes que ofrecen los dones según la Ley». Si, pues, Él es Sacerdote (como realmente lo es), debemos buscarle algún otro lugar. «Porque si estuviera» en efecto «sobre la tierra, no sería sacerdote». Pues ¿cómo podría serlo? No ofrecía sacrificio alguno, no ministraba en el oficio sacerdotal. Y con razón, pues allí estaban los sacerdotes. Además muestra que era imposible que fuera sacerdote sobre la tierra. Pues ¿cómo podría serlo? No había levantamiento contra los sacerdotes establecidos, quiere decir.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8593342a843d"
+ },
+ "aquifer:13326": {
+  "text_es": "⸢una copia y sombra⸣: El lugar terrenal de adoración era una copia del verdadero en el cielo. Por esto Dios dijo a Moisés que siguiera el modelo (véase Éxodo 25:40; 26:30; compárese Hechos 7:44). Tanto el judaísmo como el cristianismo primitivo hablaban de un templo celestial en una Jerusalén celestial, que vendría a la tierra al final de los tiempos (véase Apocalipsis 21:2). Hebreos sugiere que Dios mostró a Moisés este lugar celestial para que pudiera construir el tabernáculo terrenal. Sin embargo, Jesús sirve como pontífice en el templo celestial.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f4b12a4aac6f"
+ },
+ "hcf:Cosmas Indicopleustes/Hebrews 8_5#1": {
+  "text_es": "Pero las otras siete estrellas, que llaman planetas, Moisés las representó oscuramente al colocar siete lámparas en el candelero, que puso al sur, de modo que arrojaba su luz sobre la mesa hacia el norte, mientras que por las lámparas significaba una semana de siete días, significando por todas estas cosas los días, las semanas, los meses, los trópicos y el año. Por los panes diarios que cada día se ponían nuevos sobre la mesa, indicaba los días, y por las siete lámparas la semana, y por el número de los panes los doce meses, y por las cuatro esquinas los trópicos, y por el círculo el año, acerca de lo cual habla el divino Apóstol en la Epístola a los Hebreos: Ahora bien, si estuviera sobre la tierra, ni siquiera sería sacerdote, habiendo quienes ofrecen los dones según la ley; quienes sirven a lo que es copia y sombra de las cosas celestiales, así como Moisés es advertido por Dios cuando está a punto de hacer el Tabernáculo: Porque, dice, mira que hagas todas las cosas conforme al modelo que te fue mostrado en el Monte.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7e45b617208a",
+  "corregido_por_juez": "Omite 'of God' en 'Moses is warned of God' (el español solo dice 'se le advirtió a Moisés') y el 'For' inicial de la cita ('For, see...')."
+ },
+ "hcf:John Chrysostom/Hebrews 8_5#0": {
+  "text_es": "Aquí debemos aplicar nuestras mentes con atención, y considerar la sabiduría apostólica; pues de nuevo muestra la diferencia del sacerdocio. «Los cuales» (dice) «sirven a lo que es figura y sombra de las cosas celestiales».\n\n¿Qué son las cosas celestiales de que habla aquí? Las cosas espirituales. Pues aunque se realizan en la tierra, sin embargo son dignas de los cielos. Porque cuando nuestro Señor Jesucristo yace muerto como sacrificio, cuando el Espíritu está con nosotros, cuando el que se sienta a la diestra del Padre está aquí, cuando los hijos son hechos por el Lavamiento, cuando son conciudadanos de los que están en el cielo, cuando tenemos allí una patria, y una ciudad, y una ciudadanía, cuando somos extranjeros a las cosas de aquí, ¿cómo pueden todas estas ser otra cosa que «cosas celestiales»? Pero ¡qué! ¿No son celestiales nuestros Himnos? ¿No pronunciamos también nosotros, los que estamos abajo, en concierto con ellos, las mismas cosas que los coros divinos de las potencias incorpóreas cantan arriba? ¿No es también celestial el altar? ¿Cómo? No tiene nada carnal, todas las cosas espirituales se convierten en las ofrendas. El sacrificio no se dispersa en cenizas, ni en humo, ni en vapor oloroso, hace brillantes y espléndidas las cosas allí colocadas. ¿Cómo de nuevo pueden los ritos que celebramos ser otra cosa que celestiales? Pues cuando Él dice: «A los que remitiereis los pecados, les son remitidos; a los que los retuviereis, les son retenidos» (Juan xx. 23), cuando tienen las llaves del cielo, ¿cómo pueden todas las cosas ser otra cosa que celestiales?\n\n«Los cuales» (dice) «sirven a lo que es figura y sombra de las cosas celestiales, como Moisés fue advertido por Dios, cuando estaba para hacer el tabernáculo, porque mira, dice Él, que hagas todas las cosas conforme al modelo que te fue mostrado en el monte». Puesto que nuestro oír está menos dispuesto a la aprehensión que nuestra vista (pues las cosas que oímos no las guardamos en nuestra alma de tal manera como las que vemos con nuestros propios ojos), Él le mostró todas las cosas. O bien, entonces, significa esto con «la figura y sombra», o bien habla del Templo. Pues prosiguió diciendo: «Mira» (son sus palabras), que «hagas todas las cosas conforme al modelo que te fue mostrado en el monte». ¿Fue entonces solo lo que concernía al mobiliario del templo lo que vio, o fue también lo relacionado con los sacrificios, y todo lo demás? No, uno no se equivocaría al decir incluso esto; pues la Iglesia es celestial, y no es otra cosa que el Cielo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cbf7d404e7f9"
+ },
+ "aquifer:13327": {
+  "text_es": "⸢Él es mediador⸣: Un mediador ayuda a dos partes a llegar a un acuerdo. El sacrificio de Cristo creó un pacto (acuerdo) entre las personas y Dios. ⸢el pacto del cual Él es mediador es mejor⸣: Véase la Nota Temática «El Nuevo Pacto». Este pacto es mejor porque se basa en mejores promesas (véase Hebreos 8:7–13).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bd134d68bf3b"
+ },
+ "hcf:Athanasius of Alexandria/Hebrews 8_6#0": {
+  "text_es": "«Fue, pues, necesario que las figuras de las cosas celestiales fuesen purificadas con estas cosas; pero las celestiales mismas, con mejores sacrificios que estos». Tanto en el versículo que tenemos delante, entonces, como a lo largo de todo, atribuye la palabra mejor al Señor, que es mejor y distinto de las cosas originadas. Pues mejor es el sacrificio por medio de él, mejor la esperanza en él y también las promesas por medio de él, no meramente como grande en comparación con lo pequeño, sino que el uno difiere del otro en naturaleza, porque el que lleva a cabo esta economía es mejor que las cosas originadas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b4c2a3a65b0a"
+ },
+ "hcf:John Chrysostom/Hebrews 8_6#0": {
+  "text_es": "«Mas ahora tanto mejor ministerio es el suyo, cuanto es mediador de un mejor pacto». Ves (quiere decir) cuánto mejor es el un ministerio que el otro, si uno es figura y tipo, y el otro verdad. Pero esto no aprovechó a los oyentes, ni los consoló. Por eso dice lo que especialmente los consolaba: «Establecido sobre mejores promesas». Habiéndolos levantado al hablar del lugar, y del sacerdote, y del sacrificio, expone luego también la gran diferencia del pacto, habiendo dicho antes también que era «flaco e inútil». (Véase Heb. vii. 18.)\n\nY observa qué salvaguardas establece, cuando se propone encontrar falta en él. Pues en el lugar anterior, después de decir «conforme al poder de una vida sin fin» (Heb. vii. 16), dijo luego que «hay abrogación del mandamiento precedente» (Heb. vii. 18); y después de eso, expuso algo grande, diciendo: «por el cual nos acercamos a Dios». (Heb. vii. 19.) Y en este lugar, después de llevarnos arriba al Cielo, y mostrar que en lugar del templo tenemos el Cielo, y que aquellas cosas eran tipos de las nuestras, y habiendo por estos medios exaltado el Ministerio del Nuevo Pacto, procede luego convenientemente a exaltar el sacerdocio.\n\nPero (como dije) establece lo que especialmente los consuela, en las palabras: «Establecido sobre mejores promesas».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b8af2d0bd801"
+ },
+ "aquifer:13328": {
+  "text_es": "El autor se refiere a Jeremías 31:31–34, una profecía del Antiguo Testamento sobre el nuevo pacto con varias promesas importantes. Destacar la superioridad del nuevo pacto apoya el argumento en Hebreos 9:1–10:18 de que la ofrenda del Hijo bajo el nuevo pacto era mejor que las ofrendas del antiguo pacto.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d90c275476e0"
+ },
+ "aquifer:13329": {
+  "text_es": "El primer acuerdo, hecho en el Monte Sinaí, no estaba sin faltas. Era solo parte del plan de Dios, porque no superó la debilidad humana (véase Hebreos 7:11–28; 8:9).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0082e877b083"
+ },
+ "hcf:John Chrysostom/Hebrews 8_7#0": {
+  "text_es": "¿De dónde se manifiesta? En que el uno fue desechado, y el otro introducido en su lugar: pues por eso tiene fuerza porque es mejor. Pues como dice: «Si la perfección fuera por» él, «¿qué necesidad había aún de que se levantase otro sacerdote, según el orden de Melchisedec?» (Heb. vii. 11); así también aquí usó el mismo silogismo, diciendo: «Porque si aquel primer pacto hubiera sido sin defecto, ciertamente no se hubiera procurado lugar para el segundo»; esto es, si hacía a los hombres «sin defecto». Pues porque habla de esto, no dijo: «Pero encontrando falta en» él, sino «Pero encontrando falta en ellos».\n\nY «sin defecto»; esto es, útil; no como si el antiguo Pacto fuera reprensible en algún cargo, sino como no siendo suficiente. Usó una forma de hablar familiar. Como si uno dijera: la casa no está sin defecto, es decir, tiene algún defecto, está deteriorada; el vestido no está sin defecto, es decir, se está deshaciendo. Por tanto, no habla aquí de él como malo, sino solo como teniendo algún defecto y deficiencia.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1db7e601bdd6"
+ },
+ "aquifer:13330": {
+  "text_es": "⸢Dios encontró falta en el pueblo⸣: El pueblo no pudo seguir los términos del antiguo acuerdo (véase la nota de estudio sobre Hebreos 8:7), así que Dios creó un nuevo acuerdo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "75b082af943e"
+ },
+ "hcf:Clement of Alexandria/Hebrews 8_8#0": {
+  "text_es": "Pues encontramos en las Escrituras, como dice el Señor: «He aquí, hago con vosotros un nuevo pacto, no como el que hice con vuestros padres en el Monte Horeb». Hizo un nuevo pacto con nosotros; pues lo que pertenecía a los griegos y a los judíos es viejo. Pero nosotros, que le adoramos de una manera nueva, en la tercera forma, somos cristianos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f0902f010601"
+ },
+ "hcf:John Chrysostom/Hebrews 8_8-9#0": {
+  "text_es": "«Porque reprendiéndolos, dice: He aquí vienen días, dice el Señor, en que estableceré con la casa de Israel y la casa de Judá un nuevo pacto: no como el pacto que hice con sus padres el día que los tomé de la mano para sacarlos de la tierra de Egipto: porque ellos no permanecieron en mi pacto, y yo los deseché, dice el Señor».\n\nSí, en verdad. ¿Y de dónde se manifiesta que el primer Pacto llegó a su fin? Lo mostró ciertamente también por el Sacerdote, pero ahora lo muestra más claramente con palabras expresas: que ha sido desechado.\n\nPero ¿cómo es «sobre mejores promesas»? Pues ¿cómo, dime, pueden ser iguales la tierra y el cielo? Pero considera cómo habla de promesas también allí en aquel otro pacto, para que no le hagas este reproche. Pues también allí dice: «una mejor esperanza, por la cual nos acercamos a Dios» (Heb. vii. 19), mostrando que también allí había una Esperanza; y en este lugar «mejores promesas», insinuando que también allí había hecho promesas.\n\nPero puesto que continuamente hacían objeciones, dice: «He aquí, vienen días, dice el Señor, en que estableceré con la casa de Israel y con la casa de Judá un nuevo pacto». No habla de ningún pacto antiguo; pues, para que no afirmaran esto, determinó también el tiempo. Así no dijo simplemente: «como el pacto que hice con sus padres», no sea que dijeras que era el hecho con Abraham, o el hecho con Noé; sino que declara cuál pacto era: «no como el pacto que hice con sus padres» en el Éxodo. Por lo cual añadió también: «el día que los tomé de la mano, para sacarlos de la tierra de Egipto; porque ellos no permanecieron en mi pacto, y yo los deseché, dice el Señor». Ves que los males comienzan primero de nosotros mismos («ellos» mismos primero, dice, «no permanecieron en el pacto») y la negligencia es de nosotros, pero los bienes de Él; quiero decir, los actos de bondad. Introduce aquí, por así decirlo, una disculpa que muestra la causa por la que los abandona.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1f89c4b25ffd"
+ },
+ "hcf:Tertullian/Hebrews 8_8#0": {
+  "text_es": "Pues, así como la circuncisión carnal, que era temporal, fue obrada para «señal» en un pueblo contumaz, así la espiritual ha sido dada para salvación a un pueblo obediente; mientras el profeta Jeremías dice: «Haceos renovación, y no sembréis en espinas; circuncidaos a Dios, y circuncidad el prepucio de vuestro corazón»; y en otro lugar dice: «He aquí, vendrán días, dice el Señor, y levantaré para la casa de Judá y para la casa de Jacob un nuevo testamento; no como el que una vez di a sus padres en el día en que los saqué de la tierra de Egipto». De donde entendemos que se anuncian la cesación venidera de la anterior circuncisión entonces dada, y la procesión venidera de una nueva ley (no como la que ya había dado a los padres); así como Isaías predijo, diciendo que en los postreros días el monte del Señor y la casa de Dios habían de manifestarse sobre las cumbres de los montes: «Y será ensalzado», dice, «sobre los collados; y vendrán sobre él todas las naciones; y muchos caminarán, y dirán: Venid, subamos al monte del Señor, y a la casa del Dios de Jacob», —no de Esaú, el primer hijo, sino de Jacob, el segundo; esto es, de nuestro «pueblo», cuyo «monte» es Cristo, «circuncidado sin manos de circuncisores, llenando toda la tierra», mostrado en el libro de Daniel.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7fe12cdc3056"
+ },
+ "aquifer:13331": {
+  "text_es": "Dios hizo un pacto con sus antepasados en Sinaí (Éxodo 19:1–8; 24:7–8; 34:27–28; Deuteronomio 4:13). ⸢los tomé de la mano⸣: Dios rescató a su pueblo de Egipto, guiándolo como un padre guía a un hijo que no puede cuidar de sí mismo (véase Éxodo 12–14). ⸢ellos no permanecieron en mi pacto⸣: Véase Hebreos 3:7–19; Números 14:1–38; Deuteronomio 9; Salmos 106. ⸢los desatendí⸣: El pacto advertía que si el pueblo se apartaba, Dios también se apartaría de ellos (véase Deuteronomio 28:15–68; 30:11–20; 1 Reyes 8:22–53; 2 Crónicas 6:12–42).",
+  "lemas_es": [
+   "los tomé de la mano"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3cac424d807b",
+  "lemas_rv1909": [
+   {
+    "lema": "los tomé por la mano",
+    "ref": "HEB.8.9"
+   }
+  ]
+ },
+ "aquifer:13320": {
+  "text_es": "En el antiguo pacto, el pueblo tenía que comprender profundamente las palabras de la ley (Deuteronomio 32:46). Los reyes de Israel y de Judá fueron juzgados por su dedicación a la ley de Dios (2 Reyes 10:31; 2 Crónicas 31:21). Bajo el nuevo pacto, las leyes de Dios deben estar en la mente y en el corazón del pueblo. Las personas tendrían corazones y mentes renovados, con la ley de Dios como motivación natural e interna.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "034fd83e1b29"
+ },
+ "hcf:Clement of Alexandria/Hebrews 8_10-11#0": {
+  "text_es": "Habiéndonos otorgado la herencia verdaderamente grande, divina e inalienable del Padre, deificando al hombre por la enseñanza celestial, poniendo sus leyes en nuestras mentes y escribiéndolas en nuestros corazones. ¿Qué leyes inscribe? «Que todos conocerán a Dios, desde el pequeño hasta el grande»; y: «Seré misericordioso con ellos», dice Dios, «y no me acordaré de sus pecados». Recibamos las leyes de la vida, cumplamos con las exhortaciones de Dios; conozcámoslo, para que él sea benigno. Y aunque Dios nada necesita, rindámosle la grata recompensa de un corazón agradecido y de piedad, como una especie de alquiler de casa por nuestra morada aquí abajo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f073078fa381"
+ },
+ "hcf:John Chrysostom/Hebrews 8_10#0": {
+  "text_es": "«Porque este», dice, «es el pacto que haré con la casa de Israel después de aquellos días, dice el Señor; pondré mis leyes en su mente, y las escribiré en sus corazones, y seré para ellos un Dios, y ellos serán para mí un pueblo». Así dice esto acerca del Nuevo pacto porque sus palabras no son «conforme al pacto que pacté».\n\nPero, ¿qué otra diferencia hay además de esta? Ahora bien, si alguien dijera que «la diferencia no está en este respecto, sino en cuanto a que se pone en sus corazones; no menciona ninguna diferencia de ordenanzas, sino que señala el modo de su dación: pues ya no» (dice) «estará el pacto en escritos, sino en corazones»; que el judío en ese caso muestre que esto se llevó alguna vez a efecto; pero no podría, pues fue hecho por segunda vez en escritos después del retorno de Babilonia. Pero yo muestro que los Apóstoles no recibieron nada por escrito, sino que lo recibieron en sus corazones por medio del Espíritu Santo. Por lo cual también Cristo dijo: «Cuando él venga, os traerá todas las cosas a la memoria, y os enseñará». (Juan xiv. 26.)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "41ab832b365b"
+ },
+ "aquifer:13321": {
+  "text_es": "Todas las personas en el nuevo pacto conocen al Señor. Una relación cercana y personal con él está en el centro del nuevo pacto.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b8a7f3e98f42"
+ },
+ "hcf:John Chrysostom/Hebrews 8_11-12#0": {
+  "text_es": "«Y no enseñará» (dice) «cada uno a su prójimo, y cada uno a su hermano, diciendo: Conoce al Señor; porque todos me conocerán, desde el menor hasta el mayor. Porque seré misericordioso con sus injusticias, y de sus pecados y de sus iniquidades no me acordaré más». He aquí también otra señal. «Desde el menor hasta el mayor de ellos» (dice) «me conocerán, y no dirán: Conoce al Señor». ¿Cuándo se ha cumplido esto sino ahora? Pues nuestra religión es manifiesta; pero la de ellos, es decir, la de los judíos, no era manifiesta, sino que había estado encerrada en un rincón.\n\nUn pacto se dice entonces «nuevo» cuando es diferente y muestra alguna ventaja sobre el antiguo.\n\nAquí muestra que Dios nos considera dignos de mayores y de espirituales privilegios; pues se dice: «por toda la tierra salió su voz, y hasta los confines del mundo sus palabras». (Sal. xix. 5; Rom. x. 18.) Ese es el significado de «no dirán cada uno a su prójimo: Conoce al Señor». Y de nuevo: «la tierra será llena del conocimiento del Señor como las aguas cubren los mares». (Isa. xi. 9.)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f48dafdb035d"
+ },
+ "hcf:Tertullian/Hebrews 8_11#0": {
+  "text_es": "Que nadie, pues, se halague a sí mismo por estar asignado a las «clases de reclutas» de aprendices, como si por eso tuviera licencia aun ahora para pecar. Tan pronto como «conozcas al Señor, debes temerle; tan pronto como lo hayas contemplado, debes reverenciarlo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "792ea0713a43"
+ },
+ "aquifer:13322": {
+  "text_es": "Una característica clave del nuevo pacto es que Dios perdonará su maldad y nunca más se acordará de sus pecados. El sacrificio de Jesús limpia completamente a su pueblo del pecado (Hebreos 9:13–15; 10:14–18, 22; 1 Juan 1:7).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "654cb741e5f8"
+ },
+ "hcf:Shepherd of Hermas/Hebrews 8_12#0": {
+  "text_es": "Y cuando el Señor vio que su arrepentimiento era bueno y puro, y que podían permanecer en él, ordenó que sus pecados anteriores fueran borrados.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6cfc9f6091a5"
+ },
+ "aquifer:13323": {
+  "text_es": "La palabra ⸢nuevo⸣ en el pacto «nuevo» enfatiza que, después de que Dios estableció este pacto, el pacto del Sinaí se volvió antiguo u ⸢obsoleto⸣. Su utilidad terminó, y estaba a punto de ser reemplazado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9a82af4b83ff"
+ },
+ "hcf:John Chrysostom/Hebrews 8_13#0": {
+  "text_es": "«Al decir nuevo» (dice), «ha hecho antiguo el primero; pero lo que se envejece y se hace viejo está próximo a desaparecer». ¡Mira lo que estaba oculto, cómo ha puesto al descubierto la misma mente del profeta! Honró la ley, y no estaba dispuesto a llamarla «antigua» en términos expresos; pero, sin embargo, esto es lo que la llamó. Pues si la primera hubiera sido nueva, no habría llamado también «nueva» a esta que vino después. De modo que, al conceder algo más y diferente, declara que «se había envejecido». Por lo tanto, es abolida y perece, y ya no existe.\n\nHabiendo tomado audacia del profeta, la ataca más adecuadamente, mostrando que nuestra dispensación ahora florece. Es decir, mostró que la otra era antigua; luego, tomando la palabra «antigua», y añadiendo de sí mismo otra circunstancia, la característica de la vejez, tomó lo que fue omitido por los otros, y dice «próximo a desaparecer».\n\nLo Nuevo, entonces, no simplemente hizo cesar lo antiguo, sino porque se había vuelto viejo, ya que no era útil por más tiempo. Por esta razón dijo: «por su debilidad e inutilidad» (Heb. vii. 18), y: «la ley nada perfeccionó» (Heb. vii. 19); y que «si la primera hubiera sido sin falta, entonces no se habría buscado lugar para la segunda». (Heb. viii. 7.) Y «sin falta»; esto es, útil; no como si el antiguo Pacto fuera objeto de alguna acusación, sino como no siendo suficiente. Usó una forma de hablar familiar. Como si uno dijera: la casa no está sin falta, es decir, tiene algún defecto, está deteriorada; la vestidura no está sin falta, es decir, se está deshaciendo. Por lo tanto, no habla aquí de ella como mala, sino solo como teniendo alguna falta y deficiencia.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d9ce18200324"
+ },
+ "hcf:Lucius Caecilius Firmianus Lactantius/Hebrews 8_13#0": {
+  "text_es": "Como testifica el profeta Jeremías cuando dice tales cosas: «He aquí, vienen días, dice el Señor, en que haré un nuevo testamento a la casa de Israel y a la casa de Judá, no conforme al testamento que hice a sus padres, en el día que los tomé de la mano para sacarlos de la tierra de Egipto; porque ellos no permanecieron en mi testamento, y yo los desatendí, dice el Señor». También en otro lugar dice de manera semejante: «He abandonado mi casa, he entregado mi heredad en manos de sus enemigos. Mi heredad se me ha vuelto como león en el bosque; ha clamado contra mí, por eso la he aborrecido». Puesto que la heredad es su reino celestial, es evidente que no dice que aborrece la heredad misma, sino a los herederos, que han sido ingratos hacia él e impíos. Pues lo que dijo arriba, que haría un nuevo testamento a la casa de Judá, muestra que el antiguo testamento que fue dado por Moisés no era perfecto; sino que el que había de ser dado por Cristo sería completo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a8d6aec98c8b"
+ }
+}

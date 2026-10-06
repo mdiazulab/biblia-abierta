@@ -1,0 +1,285 @@
+{
+ "aquifer:13258": {
+  "text_es": "Esta sección trata de cómo el Hijo de Dios llegó a ser un pontífice superior. El texto principal es el Salmo 110:4, donde Dios promete que el Hijo será sacerdote para siempre como Melchisedec.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "971ca482ebc7",
+  "text_es_2": "Esta sección analiza cómo el Hijo de Dios llegó a ser un pontífice superior. El texto principal es Salmo 110:4, donde Dios promete que el Hijo será sacerdote para siempre como Melchisedec.",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "aquifer:13265": {
+  "text_es": "⸢Todo pontífice⸣: Esta frase describe lo que deben hacer los pontífices. ⸢entre los hombres⸣: El pontífice era uno del pueblo, por lo que Jesús necesitó hacerse humano (véase Hebreos 2:17–18). Otro requisito para los pontífices era representar a otros ofreciendo sacrificios por ellos (7:25–28). Solo el pontífice podía ofrecer el sacrificio en el Día de la Expiación (Éxodo 29; Levítico 16:1–25).",
+  "lemas_es": [
+   "Todo sumo sacerdote",
+   "entre los hombres"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ddbed426920f",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.5.1"
+   },
+   {
+    "lema": "entre los hombres",
+    "ref": "HEB.5.1"
+   }
+  ]
+ },
+ "hcf:Ignatius of Antioch/Hebrews 5_1#0": {
+  "text_es": "«Honra a las viudas que de verdad son viudas». Sé amigo de los huérfanos; porque Dios es «el Padre de los huérfanos y el Juez de las viudas». No hagas nada sin los obispos; porque ellos son sacerdotes, y tú un servidor de los sacerdotes. Ellos bautizan, ofrecen sacrificio, ordenan e imponen las manos; pero tú les sirves, como el santo Esteban hizo en Jerusalén a Jacobo y a los presbíteros. No descuides las reuniones sagradas [de los santos]; inquiere por cada uno por su nombre. «Que nadie menosprecie tu juventud, sino sé ejemplo de los creyentes, en palabra y en conducta».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8980f31d17a0"
+ },
+ "hcf:John Chrysostom/Hebrews 5_1-3#0": {
+  "text_es": "El bienaventurado Pablo desea mostrar a continuación que este pacto es mucho mejor que el antiguo. Lo hace, pues, estableciendo primero consideraciones remotas. Porque en cuanto que no había nada corporal ni que hiciera ostentación, ningún templo por ejemplo, ni Lugar Santísimo, ni Pontífice con tan gran atavío, ninguna observancia legal, sino que todas las cosas eran más elevadas y más perfectas, y no había nada de cosas corporales, sino que todo estaba en cosas espirituales, y las cosas espirituales no atraían a los débiles como las corporales; examina a fondo toda esta cuestión.\n\nY observa su sabiduría: hace su comienzo desde el sacerdote primero, y continuamente lo llama Pontífice, y desde este primer punto muestra la diferencia de las dos dispensaciones. Por esta razón define en primer lugar qué es un sacerdote, y muestra si tiene algunas cosas propias de un sacerdote, y si hay algunas señales del sacerdocio. Había, sin embargo, una objeción que se le interponía: que Cristo no era ni siquiera de buena estirpe, ni era de la tribu sacerdotal, ni sacerdote en la tierra. ¿Cómo entonces era sacerdote? podría decir alguno.\n\nY así como en la Epístola a los Romanos, habiendo tomado un argumento del que no se dejaban persuadir fácilmente, que la fe produce lo que no pudieron el trabajo de la ley ni el sudor de la vida diaria, se remitió al patriarca y refirió toda la cuestión a aquel tiempo; así también ahora aquí abre el otro camino del sacerdocio, mostrando su superioridad a partir de las cosas que sucedieron antes. Y como, en el asunto del castigo, les presenta no solo el infierno, sino también lo que sucedió a sus padres, así también ahora aquí establece primero esta posición a partir de las cosas presentes. Pues ciertamente sería justo que las cosas terrenales se probaran a partir de las celestiales, pero cuando los oyentes son débiles, se sigue el curso contrario.\n\nHasta cierto punto establece primero las cosas que son comunes a Cristo y a sus pontífices, y luego muestra que Él es superior. Pues la excelencia comparativa surge así, cuando en algunos aspectos hay comunidad, en otros superioridad; de lo contrario ya no es comparativa.\n\n«Porque todo pontífice tomado de entre los hombres», esto es común a Cristo; «es constituido a favor de los hombres en lo que a Dios se refiere», y esto también; «para que ofrezca presentes y sacrificios por los pecados», y esto también, aunque no del todo: lo que sigue, sin embargo, ya no es así: «que se pueda compadecer de los ignorantes y de los extraviados», desde este punto en adelante está la superioridad, «por cuanto también él está rodeado de flaqueza; y por razón de ella debe, como por el pueblo, así también por sí mismo, ofrecer por los pecados».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "61e7cf706a9d",
+  "corregido_por_juez": "En «es constituido por los hombres» se traduce mal «is ordained for men»: se cambia el sentido a que los hombres lo constituyen, en vez de que es constituido a favor de los hombres."
+ },
+ "aquifer:13266": {
+  "text_es": "Un pontífice podía ser bondadoso con los que pecan porque él también tenía debilidades⸢,⸣ lo que significa que era pecador (Hebreos 5:3; compárese 4:15).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "89e6a3da2620"
+ },
+ "aquifer:13267": {
+  "text_es": "En el Día de la Expiación, el pontífice tenía que ofrecer sacrificios por sí mismo y por su familia antes de ofrecer sacrificios por el pueblo (Levítico 16:11).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cc940440fcaa"
+ },
+ "aquifer:13268": {
+  "text_es": "Dios nombra al pontífice, no los humanos (véase Éxodo 28:1; Levítico 8:1–12; Números 16:1–26).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0e5e3436d77b"
+ },
+ "hcf:Apostolic Constitutions/Hebrews 5_4#0": {
+  "text_es": "Tampoco permitimos que los laicos desempeñen ninguno de los oficios pertenecientes al sacerdocio; como, por ejemplo, ni el sacrificio, ni el bautismo, ni la imposición de manos, ni la bendición, sea la menor o la mayor: porque «nadie toma para sí esta honra, sino el que es llamado por Dios». Pues tales oficios sagrados se confieren por la imposición de las manos del obispo. Pero la persona a quien no se le ha confiado tal oficio, sino que lo toma para sí mismo, sufrirá el castigo de Uzías.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7a56890825a3"
+ },
+ "hcf:John Chrysostom/Hebrews 5_4#0": {
+  "text_es": "Luego también hay otros puntos: Es hecho Sacerdote (dice) por Otro y no se introduce a sí mismo en el oficio. Esto también es común: «Y nadie toma para sí esta honra, sino el que es llamado por Dios como lo fue Aarón».\n\nAquí de nuevo los concilia en otro punto, porque Él fue enviado de Dios: lo cual Cristo solía decir a lo largo a los judíos. «El que me envió es mayor que yo», y, «No vine de mí mismo».\n\nMe parece que en estas palabras también insinúa a los sacerdotes de los judíos, como que ya no son sacerdotes, sino intrusos y corruptores de la ley del sacerdocio...",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b437ca8b6a48"
+ },
+ "aquifer:13269": {
+  "text_es": "El autor conecta el Salmo 2:7 y 110:4 porque ambos pasajes presentan a Dios hablando a su Hijo. El Hijo exaltado, que se hizo humano (Hebreos 1–2), es nombrado por Dios para un sumo sacerdocio especial.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8697c2daccca"
+ },
+ "hcf:Cosmas Indicopleustes/Hebrews 5_5-6#0": {
+  "text_es": "El Apóstol también menciona este pasaje, diciendo en la Epístola a los Hebreos: Así como Aarón, así también Cristo no se glorificó a sí mismo para ser hecho pontífice, sino el que le habló: Tú eres mi Hijo, hoy te he engendrado; como dice también en otro lugar: Tú eres sacerdote para siempre según el orden de Melchisedec; extrayendo así todo lo que se refería a la humanidad de Cristo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cdf60d882d98"
+ },
+ "hcf:John Chrysostom/Hebrews 5_5#0": {
+  "text_es": "Me parece que en estas palabras también insinúa a los sacerdotes de los judíos, como que ya no son sacerdotes, sino intrusos y corruptores de la ley del sacerdocio; «Así también Cristo no se glorificó a sí mismo para ser hecho Pontífice».\n\n¿Cómo entonces fue nombrado (dice uno)? Pues Aarón fue nombrado muchas veces como por la Vara, y cuando el fuego descendió y destruyó a los que querían introducirse en el sacerdocio. Pero en este caso, por el contrario, los sacerdotes judíos no solo no sufrieron nada, sino que incluso son tenidos en alta estima. ¿De dónde entonces su nombramiento? Lo muestra desde la profecía. No tiene nada que alegar perceptible por los sentidos, nada visible. Por esta causa lo afirma desde la profecía, desde las cosas futuras; «Pero el que le dijo: Tú eres mi Hijo, hoy te he engendrado». ¿Qué tiene esto que ver con el Hijo? Sí (dice) es una preparación para su nombramiento por Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c5237dec1ce3"
+ },
+ "hcf:Tertullian/Hebrews 5_5#0": {
+  "text_es": "Pero el «Jesús» allí aludido es Cristo, el Sacerdote de Dios el Padre altísimo; quien en su Primera Venida vino en humildad, en forma humana, y pasible, incluso hasta el período de su pasión; siendo Él mismo también hecho, a través de todas (las etapas del sufrimiento) una víctima por todos nosotros; quien después de su resurrección fue «vestido con una ropa hasta los pies», y nombrado Sacerdote de Dios el Padre para la eternidad. Así, de nuevo, haré una interpretación de los dos machos cabríos que se ofrecían habitualmente en el día del ayuno.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "800110bc083a"
+ },
+ "hcf:John Chrysostom/Hebrews 5_6#0": {
+  "text_es": "«Como dice también en otro lugar: Tú eres sacerdote para siempre según el orden de Melchisedec». ¿A quién ahora se le dijo esto?\n\n¿Quién es «según el orden de Melchisedec»? No otro que Él. Pues todos ellos estaban bajo la Ley, todos guardaban sábados, todos eran circuncidados; no se podía señalar a otro que Él.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "53fde8346e16"
+ },
+ "aquifer:13270": {
+  "text_es": "El sufrimiento de Jesús fue la base para su papel superior como sacerdote. Su humillación y sufrimiento vinieron antes de su ascenso a la gloria (Hebreos 2:9; Filipenses 2:5–11).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6262de5f6d8a",
+  "text_es_2": "El sufrimiento de Jesús fue la base de su función más elevada como sacerdote. Su humillación y sufrimiento precedieron a su exaltación a la gloria (Hebreos 2:9; Filipenses 2:5–11).",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "aquifer:13271": {
+  "text_es": "La frase ⸢con gran clamor y lágrimas⸣ probablemente se refiere al sufrimiento que Jesús experimentó en el huerto de Getsemaní (véase Mateo 26:36–46; Marcos 14:32–42; Lucas 22:40–46). Dios escuchó sus oraciones afirmando su justicia y su papel como pontífice. Jesús mostró fiel devoción a Dios. Su ejemplo anima a los lectores a permanecer fieles también (compárese Hebreos 12:2–3).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "533f053979d6",
+  "text_es_2": "La frase ⸢con gran clamor y lágrimas⸣ probablemente se refiere al sufrimiento que Jesús experimentó en el huerto de Getsemaní (véanse Mateo 26:36–46; Marcos 14:32–42; Lucas 22:40–46). Dios escuchó sus oraciones al afirmar su justicia y su papel como pontífice. Jesús mostró fiel devoción a Dios. Su ejemplo anima también a los lectores a permanecer fieles (compárese con Hebreos 12:2–3).",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "hcf:John Chrysostom/Hebrews 5_7#0": {
+  "text_es": "«El cual en los días de su carne, habiendo ofrecido ruegos y súplicas con gran clamor y lágrimas al que le podía librar de la muerte, fue oído por su temor reverente.» ¿Ves que no expone otra cosa que su cuidado y la sobreabundancia de su amor? Pues ¿qué significa la expresión «con gran clamor»? El Evangelio en ninguna parte dice esto, ni que lloró cuando oraba, ni tampoco que emitió un clamor. ¿Ves que fue una condescendencia? Pues no podía simplemente decir que oró, sino también «con gran clamor».\n\nSea con «clamor», ¿por qué también «gran clamor y lágrimas»?\n\n«Habiendo ofrecido», dice, «y habiendo sido oído por su temor reverente». ¿Qué dices? Que se avergüencen los herejes. El Hijo de Dios «fue oído por su temor reverente». ¿Y qué más podría decir cualquier hombre acerca de los profetas? ¿Y qué clase de conexión hay al decir: «Fue oído por su temor reverente, aunque era Hijo, aprendió la obediencia por las cosas que padeció»? ¿Diría alguien estas cosas acerca de Dios? ¿Quién fue jamás tan insensato? ¿Y quién, aun estando fuera de sí, habría pronunciado estas cosas? «Habiendo sido oído», dice, «por su temor reverente, aprendió la obediencia por las cosas que padeció». ¿Qué obediencia? El que antes de esto había sido obediente hasta la muerte, como Hijo a su Padre, ¿cómo aprendió después? ¿Ves que esto se dice acerca de la encarnación?\n\nDime ahora, ¿oró al Padre para ser librado de la muerte? ¿Y fue por esta causa que estuvo «muy triste, y dijo: Si es posible, pase de mí esta copa»? Sin embargo, en ninguna parte oró al Padre acerca de su resurrección, sino que al contrario declara abiertamente: «Destruid este templo, y en tres días lo levantaré». Y: «Tengo poder para poner mi vida, y tengo poder para volverla a tomar. Nadie me la quita, yo la pongo de mí mismo». ¿Qué es entonces? ¿Por qué oró? Y de nuevo dijo: «He aquí subimos a Jerusalén, y el Hijo del hombre será entregado a los principales sacerdotes y a los escribas, y le condenarán a muerte. Y le entregarán a los gentiles, para burlarse de él, y azotarle, y crucificarle; y al tercer día resucitará»; y no dijo: «Mi Padre me resucitará». ¿Cómo entonces oró acerca de esto? ¿Pero por quiénes oró? Por los que creyeron en él.\n\nY lo que quiere decir es esto: «Es escuchado prontamente». Pues como aún no tenían la opinión correcta acerca de él, dijo que fue oído. Así como él mismo también, al consolar a sus discípulos, dijo: «Si me amarais, os gozaríais, porque voy a mi Padre», y «Mi Padre es mayor que yo». ¿Pero cómo no se glorificó a sí mismo, el que «se anonadó a sí mismo», el que se entregó? Pues, se dice, «se entregó» a sí mismo «por nuestros pecados». Y de nuevo: «Quien se dio a sí mismo en rescate por todos nosotros». ¿Qué es entonces? Ves que es en referencia a la carne que se dicen cosas humildes acerca de él: Así también aquí, «Aunque era Hijo, fue oído por su temor reverente», se dice. Quiere mostrar que el éxito fue de él mismo, más que del favor de Dios. Tan grande (dice) era su reverencia, que aun por causa de ella Dios lo respetó.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c1c69db82323",
+  "text_es_2": "«El cual en los días de su carne, habiendo ofrecido con gran clamor y lágrimas, oraciones y rogativas a aquel que le podía librar de muerte, y habiendo sido oído por su temor reverencial.» ¿Ves que no expone otra cosa que su cuidado y la sobremanera grandeza de su amor? Pues ¿qué significa la expresión «con gran clamor»? El Evangelio en ninguna parte dice esto, ni que lloró cuando oraba, ni tampoco que emitió un clamor. ¿Ves que fue una condescendencia? Porque no pudo decir simplemente que oró, sino también «con gran clamor».\n\nSea con «clamor», ¿por qué también «gran clamor y lágrimas»?\n\n«Habiendo ofrecido», dice, «y habiendo sido oído por su temor reverencial.» ¿Qué dices? Que los herejes se avergüencen. El Hijo de Dios «fue oído por su temor reverencial.» ¿Y qué más podría decir cualquier hombre acerca de los profetas? ¿Y qué clase de conexión hay al decir: «Fue oído por su temor reverencial; aunque era Hijo, por lo que padeció aprendió la obediencia»? ¿Diría alguien estas cosas acerca de Dios? ¿Quién fue jamás tan loco? ¿Y quién, aun si estuviera fuera de sí, habría dicho estas cosas? «Habiendo sido oído», dice, «por su temor reverencial, por lo que padeció aprendió la obediencia.» ¿Qué obediencia? Aquel que antes de esto había sido obediente hasta la muerte, como Hijo a su Padre, ¿cómo aprendió después? ¿Ves que esto se dice acerca de la encarnación?\n\nDime ahora, ¿oró al Padre para ser salvado de la muerte? ¿Y fue por esta causa que estaba «muy triste, y dijo: Si es posible, pase de mí este vaso»? Sin embargo, en ninguna parte oró al Padre acerca de su resurrección, sino que, al contrario, declara abiertamente: «Destruid este templo, y en tres días lo levantaré.» Y: «Tengo poder para ponerla, y tengo poder para volverla a tomar. Nadie me la quita, mas yo de mí mismo la pongo.» ¿Qué es entonces? ¿Por qué oró? Y otra vez dijo: «He aquí subimos a Jerusalén, y el Hijo del hombre será entregado a los príncipes de los sacerdotes y a los escribas, y le condenarán a muerte. Y le entregarán a los Gentiles para que le escarnezcan, y le azoten, y le crucifiquen; mas al tercer día resucitará», y no dijo: «Mi Padre me resucitará.» ¿Cómo, pues, oró acerca de esto? ¿Pero por quiénes oró? Por los que creyeron en Él.\n\nY lo que quiere decir es esto: «Es prontamente escuchado.» Pues como todavía no tenían la opinión correcta acerca de Él, dijo que fue oído. Así como Él mismo también, consolando a sus discípulos, dijo: «Si me amarais, os habríais gozado, porque voy al Padre», y «mi Padre mayor es que yo.» Pero ¿cómo no se glorificó a sí mismo, Él que «se anonadó a sí mismo», Él que se entregó? Pues, se dice, «se dio a sí mismo» por «nuestros pecados». Y otra vez: «Quien se dio a sí mismo en precio del rescate por todos.» ¿Qué es entonces? Ves que es con referencia a la carne que se dicen cosas humildes acerca de Él. Así también aquí se dice: «Aunque era Hijo, fue oído por su temor reverencial.» Desea mostrar que el éxito era de Él mismo, más bien que del favor de Dios. Tan grande era (dice) su reverencia, que aun por causa de ella Dios lo miró con favor.",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "hcf:Tertullian/Hebrews 5_7#0": {
+  "text_es": "En cuanto también al mismo vestido y alimento, manda (al penitente) yacer en cilicio y ceniza, cubrir su cuerpo de luto, abatir su espíritu en tristezas, trocar por severo tratamiento los pecados que ha cometido; además, no conocer alimento ni bebida sino tales como sean sencillos, no por causa del estómago, a saber, sino del alma; sin embargo, en su mayor parte, alimentar las oraciones con ayunos, gemir, llorar y clamar al Señor vuestro Dios; postrarse ante los pies de los presbíteros, y arrodillarse ante los amados de Dios; encargar a todos los hermanos que sean embajadores para llevar su súplica deprecatoria (ante Dios).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c255f33f2e19",
+  "text_es_2": "También en cuanto al vestido y la comida mismos, manda (al penitente) yacer en cilicio y ceniza, cubrir su cuerpo de luto, abatir su espíritu en dolores, trocar por trato severo los pecados que ha cometido; además, no conocer más comida y bebida que las sencillas, no por causa del estómago, a saber, sino del alma; sin embargo, en su mayor parte, alimentar las oraciones con ayunos, gemir, llorar y clamar al Señor vuestro Dios; postrarse ante los pies de los presbíteros y arrodillarse ante los amados de Dios; encargar a todos los hermanos que sean embajadores para llevar su súplica deprecatoria (delante de Dios).",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "aquifer:13272": {
+  "text_es": "Aprendió la obediencia por medio de su sufrimiento. Jesús fue siempre obediente, aun antes de su sufrimiento. Vivió su vida humana, incluida su muerte en la cruz, sometiéndose plenamente a la voluntad de Dios. Se espera que sigamos el mismo camino (Hebreos 12:1–11).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c249a09f1f16",
+  "text_es_2": "Aprendió la obediencia mediante su sufrimiento. Jesús fue siempre obediente, aun antes de su sufrimiento. Vivió su vida humana, incluida su muerte en la cruz, sometiéndose plenamente a la voluntad de Dios. Se espera que sigamos el mismo camino (Hebreos 12:1–11).",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "hcf:John Chrysostom/Hebrews 5_8#0": {
+  "text_es": "«Aprendió la obediencia por las cosas que padeció». ¿Qué obediencia? El que antes de esto había sido obediente hasta la muerte, como Hijo a su Padre, ¿cómo aprendió después? ¿Ves que esto se dice acerca de la encarnación?\n\n...«Aprendió», dice, a obedecer a Dios. Aquí de nuevo muestra cuán grande es la ganancia de los sufrimientos. «Y habiendo sido hecho perfecto», dice, «vino a ser Autor de salvación para los que le obedecen». Pero si Él, siendo el Hijo, obtuvo obediencia de sus sufrimientos, mucho más nosotros. ¿Ves cuántas cosas discurre acerca de la obediencia, para que se persuadieran a ella? Pues me parece que no se contendrían. «De las cosas», dice, «que padeció», continuamente «aprendió» a obedecer a Dios. Y siendo «hecho perfecto» por los sufrimientos. Esto, pues, es la perfección, y por este medio debemos llegar a la perfección. Porque no solo fue Él mismo salvado, sino que llegó a ser también para otros una abundante provisión de salvación. Pues «habiendo sido hecho perfecto, vino a ser Autor de salvación para los que le obedecen».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cdb74020031e",
+  "text_es_2": "«Por lo que padeció aprendió la obediencia.» ¿Qué obediencia? Aquel que antes de esto había sido obediente hasta la muerte, como Hijo a su Padre, ¿cómo aprendió después? ¿Ves que esto se dice acerca de la encarnación?\n\n...«Aprendió», dice, a obedecer a Dios. Aquí de nuevo muestra cuán grande es la ganancia de los sufrimientos. «Y habiendo sido perfeccionado», dice, «vino a ser autor de eterna salvación para todos los que le obedecen.» Pero si Él, siendo Hijo, obtuvo obediencia de sus sufrimientos, mucho más nosotros. ¿Ves cuántas cosas discurre acerca de la obediencia, para que se persuadieran a ella? Pues me parece que no se dejarían refrenar. «De las cosas», dice, «que padeció, continuamente aprendió» a obedecer a Dios. Y habiendo sido «perfeccionado» por los sufrimientos. Esta, pues, es la perfección, y por este medio debemos llegar a la perfección. Porque no solo Él mismo fue salvado, sino que llegó a ser también para otros una abundante provisión de salvación. Porque «habiendo sido perfeccionado, vino a ser autor de salvación para los que le obedecen.»",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "corregido_por_juez": "Añade 'eterna' en las citas de Hebreos 5:9: 'salvación eterna' donde el inglés dice solo 'salvation'."
+ },
+ "hcf:Tertullian/Hebrews 5_8#0": {
+  "text_es": "Y esta especie de la paciencia divina, estando, por así decirlo, a distancia, quizá pueda ser estimada como entre «las cosas demasiado altas para nosotros»; pero ¿qué es aquello que, de cierto modo, ha sido asido con la mano entre los hombres abiertamente en la tierra? Dios se deja concebir en el vientre de una madre, y aguarda el tiempo para nacer; y, cuando nace, soporta la demora de crecer; y, cuando ha crecido, no se apresura a ser reconocido, sino que además se ultraja a sí mismo, y es bautizado por su propio siervo; y rechaza con solas palabras los asaltos del tentador; mientras de ser «Señor» se convierte en «Maestro», enseñando al hombre a escapar de la muerte, habiendo sido entrenado en el ejercicio de la absoluta indulgencia de la paciencia ofendida. No contendió; no clamó; ni nadie oyó su voz en las calles.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8d4a84240d0c",
+  "text_es_2": "Y este género de la paciencia divina, estando, por así decirlo, a distancia, quizá pueda estimarse entre «las cosas demasiado altas para nosotros»; pero ¿qué es aquello que, de cierto modo, ha sido asido con la mano entre los hombres abiertamente sobre la tierra? Dios se deja concebir en el vientre de una madre y espera el tiempo del nacimiento; y, cuando nace, soporta la demora de crecer; y, cuando ha crecido, no se apresura a ser reconocido, sino que además se ultraja a sí mismo, y es bautizado por su propio siervo; y rechaza solo con palabras los asaltos del tentador; mientras de ser «Señor» se hace «Maestro», enseñando al hombre a escapar de la muerte, habiendo sido adiestrado para el ejercicio de la absoluta tolerancia de una paciencia ofendida. No contenderá, ni voceará, ni nadie oirá en las calles su voz.",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "aquifer:13273": {
+  "text_es": "⸢Y siendo consumado⸣: En Hebreos, ⸢consumado⸣ significa «completo» o «maduro» (véase Hebreos 2:10; 5:14; 7:11; 9:9–11). Jesús llegó a ser la fuente de salvación eterna para todos los que le obedecen por medio de sus sufrimientos. Así como el Hijo obedeció al Padre (5:8), siguiendo plenamente la voluntad del Padre, quienes buscan la ⸢salvación⸣ deben ⸢obedecerle.⸣",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5e5105335cf9",
+  "text_es_2": "⸢Y habiendo sido perfeccionado⸣: En Hebreos, ⸢perfecto⸣ significa «completo» o «maduro» (véase Hebreos 2:10; 5:14; 7:11; 9:9–11). Mediante sus sufrimientos, Jesús vino a ser la fuente de eterna salvación para todos los que le obedecen. Así como el Hijo obedeció al Padre (5:8), siguiendo plenamente la voluntad del Padre, los que buscan la ⸢salvación⸣ deben ⸢obedecerle.⸣",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "corregido_por_juez": "Debe ser «Y siendo consumado» (RV1909), no «Y habiendo sido hecho perfecto»."
+ },
+ "hcf:John Chrysostom/Hebrews 5_9-10#0": {
+  "text_es": "«Siendo llamado», dice, «de Dios pontífice según el orden de Melchisedec»: «Del cual tenemos muchas cosas que decir y difíciles de explicar». Cuando estaba a punto de proceder a la diferencia del sacerdocio, primero los reprende, señalando tanto que tan grande condescendencia era «leche», como que era porque eran niños que se detenía más en el tema humilde, relativo a la carne, y habla acerca de él como acerca de cualquier hombre justo. Y mira, ni guardó silencio por completo sobre la doctrina, ni la expuso; para que, por un lado, elevara sus pensamientos y los persuadiera a ser perfectos, y para que no fueran privados de las grandes doctrinas; y por otro, para no abrumar sus mentes.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9da53d511bf0",
+  "text_es_2": "«Llamado», dice, «de Dios pontífice según el orden de Melchisedec»: «Del cual tenemos mucho que decir, y dificultoso de declarar o explicar.» Cuando estaba a punto de pasar a la diferencia del sacerdocio, primero los reprende, señalando tanto que tan grande condescendencia era «leche», como que fue porque eran niños que se detuvo más tiempo en el asunto humilde, relativo a la carne, y habla de Él como de cualquier hombre justo. Y observa: ni guardó silencio por completo acerca de la doctrina, ni la expuso; para que, por una parte, elevara sus pensamientos y los persuadiera de ser perfectos, y no fueran privados de las grandes doctrinas; y, por otra, para no abrumar sus mentes.",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "aquifer:13259": {
+  "text_es": "⸢pontífice según el orden de Melchisedec⸣: Véase Hebreos 7:1–28 para más detalles.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1ca182b69630",
+  "corregido_por_juez": "Debe usar «Melchisedec» (RV1909), no «Melchizedek»."
+ },
+ "hcf:Tertullian/Hebrews 5_10#0": {
+  "text_es": "Pues ¿de dónde fue Noé «hallado justo», si en su caso no hubiera precedido la justicia de una ley natural? ¿De dónde fue Abraham tenido por «amigo de Dios», si no fuera sobre la base de la equidad y la justicia, (en la observancia) de una ley natural? ¿De dónde fue Melchisedec llamado «sacerdote del Dios altísimo», si, antes del sacerdocio de la ley levítica, no hubiera levitas que solían ofrecer sacrificios a Dios? Pues así, después de los patriarcas mencionados, fue dada la Ley a Moisés, en aquel tiempo (bien conocido) después de su éxodo de Egipto, tras el intervalo y los espacios de cuatrocientos años.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "25edee99b3c1"
+ },
+ "aquifer:13260": {
+  "text_es": "Después de comenzar a hablar sobre el papel de Jesús como pontífice (Hebreos 5:1–10), el autor se dirige a la audiencia con varios estímulos (5:11–6:20). Este cambio en el sermón o discurso tenía como objetivo captar la atención de los oyentes.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e9ce30256569",
+  "text_es_2": "Después de comenzar a hablar sobre la función de Jesús como pontífice (Hebreos 5:1–10), el autor se dirige a la audiencia con varias exhortaciones (5:11–6:20). Este cambio en el sermón o discurso tenía como objetivo captar la atención de los oyentes.",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "aquifer:13261": {
+  "text_es": "Este mensaje aborda la pereza espiritual de los destinatarios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b05759a563a0"
+ },
+ "aquifer:13262": {
+  "text_es": "⸢tardos para oír⸣: El término griego significa «lento, no muy listo, descuidado o perezoso».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3a404d47690d",
+  "corregido_por_juez": "Debe ser «tardos para oír» (RV1909), no «duros de oír»."
+ },
+ "hcf:John Chrysostom/Hebrews 5_11#0": {
+  "text_es": "«Del cual», dice, «tenemos muchas cosas que decir, y difíciles de explicar, por cuanto os habéis hecho tardos para oír». Porque no oyen, la doctrina es «difícil de explicar». Pues cuando uno tiene que habérselas con hombres que no le siguen ni atienden a lo que se dice, no puede explicarles bien el asunto.\n\nPero quizá alguno de vosotros que está aquí, se desconcierta y lo tiene por cosa dura, que a causa de los hebreos él mismo se vea impedido de oír las doctrinas más perfectas. Antes bien, pienso que quizá también aquí, excepto unos pocos, hay muchos como ellos, de modo que esto podría decirse también de vosotros mismos; pero por causa de esos pocos hablaré.\n\n¿Guardó entonces silencio total, o reanudó el tema en lo que sigue; y hace lo mismo que en la Epístola a los Romanos? Pues también allí, cuando primero había tapado la boca de los que contradecían, y dijo: «Antes bien, oh hombre, ¿quién eres tú, que respondes contra Dios?», añadió luego la solución. Y por mi parte pienso que ni siquiera guardó silencio del todo, y sin embargo no lo dijo abiertamente, a fin de llevar a los oyentes a anhelar el conocimiento. Pues habiendo mencionado el tema, y dicho que ciertas cosas grandes estaban reservadas en la doctrina, mira cómo compone su reprensión en combinación con el elogio.\n\nPues esto es siempre parte de la sabiduría de Pablo, mezclar las cosas penosas con las amables. Lo cual hace también en la Epístola a los Gálatas, diciendo: «Corríais bien; ¿quién os estorbó?». Y: «¿Tantas cosas habéis padecido en vano? si es que también en vano», y: «Confío de vosotros en el Señor». Lo cual dice también a estos hebreos: «Pero de vosotros, oh amados, esperamos mejores cosas, y que acompañan a la salvación». Pues estas dos cosas logra: no los fuerza en exceso, ni los deja caer hacia atrás; pues si los ejemplos de otros son suficientes para despertar al oyente y llevarlo a la emulación; cuando un hombre se tiene a sí mismo por ejemplo y se le manda emularse a sí mismo, la posibilidad sigue al mismo tiempo. Muestra, pues, también esto, y no los deja caer hacia atrás como hombres totalmente condenados, ni como si fueran siempre malos, sino que dice que en otro tiempo fueron incluso buenos; pues «cuando por el tiempo debierais ser maestros», dice. Aquí muestra que habían sido creyentes por largo tiempo, y muestra también que debían instruir a otros.\n\nPero ¿qué produce esta torpeza? Esto lo señaló especialmente en la Epístola a los Corintios, diciendo: «Porque habiendo entre vosotros envidia y contienda y divisiones, ¿no sois carnales?». Pero observa, te ruego, su gran sabiduría, cómo trata siempre según los desórdenes que tiene delante. Pues allí la debilidad provenía más de la ignorancia, o más bien del pecado; pero aquí no solo de los pecados, sino también de aflicciones continuas. Por lo cual usa también expresiones calculadas para mostrar la diferencia, no diciendo: «os habéis hecho carnales», sino «tardos»: en aquel caso «carnales», pero en este el dolor es mayor. Pues los corintios ciertamente no podían soportar su reprensión, porque eran carnales; pero estos sí podían. Pues al decir: «Por cuanto os habéis hecho tardos para oír», muestra que antes estaban sanos y eran fuertes, fervientes en celo, lo cual también después testifica respecto de ellos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e0a04550f2cb"
+ },
+ "hcf:Tertullian/Hebrews 5_11#0": {
+  "text_es": "¿Cuál fue el asunto que llevó al apóstol a escribir tales (palabras)? La inexperiencia de una Iglesia nueva y apenas naciente, que estaba criando, a saber, «con leche», aún no con el «alimento sólido» de una doctrina más fuerte; inexperiencia tan grande, que aquella infancia de la fe les impedía conocer todavía qué debían hacer en cuanto a la necesidad carnal y sexual.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6d76a0a3084c"
+ },
+ "aquifer:13263": {
+  "text_es": "Su falta de energía espiritual era sorprendente porque habían sido creyentes por tanto tiempo. Deberían haber sido líderes espirituales que enseñaran a otros desde su conocimiento y experiencia cristiana. ⸢los principios básicos⸣: Las partes más sencillas de la fe cristiana (véase Hebreos 6:1–3). La imagen de la leche y el alimento sólido se usaba para separar la educación básica de la avanzada, y a los estudiantes inmaduros de los maduros.",
+  "lemas_es": [
+   "los principios básicos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ee95bb95c098",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.5.12"
+   }
+  ]
+ },
+ "hcf:Clement of Alexandria/Hebrews 5_12#0": {
+  "text_es": "Pues ciertamente había, entre los hebreos, algunas cosas transmitidas sin escribir. «Porque cuando por el tiempo debierais ser maestros», se dice, como si hubieran envejecido en el Antiguo Testamento, «tenéis necesidad de que se os vuelva a enseñar cuáles son los primeros rudimentos de las palabras de Dios; y habéis llegado a ser tales que tenéis necesidad de leche, y no de alimento sólido. Porque todo el que participa de la leche es inexperto en la palabra de justicia; porque es niño, siendo instruido con las primeras lecciones. Pero el alimento sólido pertenece a los que son de edad madura, quienes por razón del uso tienen sus sentidos ejercitados para distinguir entre el bien y el mal. Por lo cual, dejando los primeros rudimentos de la doctrina de Cristo, vamos adelante a la perfección».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "674a983ac572"
+ },
+ "hcf:John Chrysostom/Hebrews 5_12#0": {
+  "text_es": "En todo caso, obsérvalo trabajando continuamente por introducir el discurso acerca del Pontífice, y todavía postergándolo. Pues oye cómo comenzó: «Teniendo un gran Pontífice que traspasó los cielos»; y omitiendo decir cómo era grande, dice de nuevo: «Porque todo pontífice tomado de entre los hombres, es constituido a favor de los hombres en lo que a Dios se refiere». Y otra vez: «Así tampoco Cristo se glorificó a sí mismo haciéndose Pontífice». Y de nuevo, después de decir: «Tú eres sacerdote para siempre según el orden de Melchisedec», posterga otra vez el tema, diciendo: «El cual en los días de su carne ofreció ruegos y súplicas». Cuando, pues, tantas veces había sido rechazado, dice, como disculpándose: La culpa es vuestra. ¡Ay! ¡qué gran diferencia! Cuando debían estar enseñando a otros, ni siquiera son simplemente aprendices, sino los últimos de los aprendices. «Porque cuando por el tiempo debierais ser maestros, tenéis necesidad de que se os vuelva a enseñar cuáles son los primeros rudimentos de las palabras de Dios». Aquí se refiere a la Naturaleza Humana de Cristo. Pues como en la literatura externa es necesario aprender primero los elementos, así también aquí fueron primero enseñados acerca de la naturaleza humana.\n\nVes cuál es la causa de que pronuncie cosas humildes. Así hizo Pablo también con los atenienses, discurriendo y diciendo: «Y Dios, habiendo pasado por alto los tiempos de esta ignorancia, ahora manda a todos los hombres en todo lugar, que se arrepientan; por cuanto ha establecido un día en el cual juzgará al mundo con justicia, por aquel varón a quien designó, dando fe a todos con haberle levantado de los muertos». Por tanto, si dice algo elevado, lo expresa brevemente, mientras que las afirmaciones humildes están esparcidas por muchas partes de la Epístola. Y así también muestra lo elevado; pues la misma humildad de lo que se dice impide la sospecha de que estas cosas se refieran a la Naturaleza Divina. Así también aquí se mantuvo el terreno seguro.\n\n«Y habéis llegado a ser tales que tenéis necesidad de leche, y no de alimento sólido». Siempre llama «leche» a la doctrina humilde, tanto en este lugar como en el otro. «Cuando», dice, «por el tiempo debierais ser maestros»: a causa de eso mismo, es decir, del tiempo, para el cual deberíais ser especialmente fuertes, por eso especialmente os habéis vuelto atrás. Ahora bien, la llama «leche» por ser adecuada a los más sencillos. Pero a los más perfectos les es perjudicial, y el detenerse en estas cosas es dañino. De modo que no es conveniente que ahora se introduzcan asuntos de la Ley o se haga la comparación a partir de ellos, como que Él era un Pontífice, y ofrecía sacrificio, y necesitaba clamor y súplica. Por lo cual mira cómo estas cosas son insalubres para «nosotros»; pero en aquel tiempo los alimentaban, no siendo de ningún modo insalubres para ellos.\n\nAsí pues, las palabras de Dios son verdadero alimento. «Porque les daré», dice, «no hambre de pan, ni sed de agua, sino hambre de oír la palabra del Señor».\n\n«Os di a beber leche, y no carne»; no dijo: os alimenté, mostrando que tal alimento como este no es comida, sino que el caso es como el de los niños pequeños que no pueden ser alimentados con pan. Pues a tales no se les da de beber, sino que su alimento les sirve en lugar de bebida.\n\nAdemás, no dijo: «tenéis necesidad», sino «habéis llegado a ser tales que tenéis necesidad de leche y no de alimento sólido». Es decir, vosotros lo quisisteis; os habéis reducido a esto, a esta necesidad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6f81ffde7bae"
+ },
+ "hcf:Clement of Alexandria/Hebrews 5_13#0": {
+  "text_es": "Los filósofos, entonces, son niños, a menos que hayan sido hechos hombres por Cristo. «Pues si el hijo de la esclava no ha de ser heredero con el hijo de la libre», al menos es descendencia de Abraham, aunque no de la promesa, recibiendo lo que le corresponde por don gratuito. «Pero el alimento sólido pertenece a los que son de edad madura, incluso aquellos que por razón del uso tienen sus sentidos ejercitados para discernir tanto el bien como el mal». «Porque todo el que usa leche es inexperto en la palabra de justicia; porque es niño», y aún no familiarizado con la palabra, según la cual ha creído y obra, y no capaz de dar razón en sí mismo. «Examinadlo todo», dice el apóstol, «y retened lo bueno», hablando a hombres espirituales, que juzgan lo que se dice según la verdad, ya sea que parezca o que realmente se atenga a la verdad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "21873f82322b"
+ },
+ "hcf:John Chrysostom/Hebrews 5_13#0": {
+  "text_es": "«Porque todo el que participa de leche es inexperto en la palabra de justicia: porque es niño.» ¿Qué es «la palabra de justicia»? Me parece que aquí alude también a la conducta. Lo que Cristo también dijo: «Excepto vuestra justicia excediere la justicia de los escribas y fariseos», esto dice asimismo: «inexperto en la palabra de justicia», es decir, el que es inexperto en la filosofía que está por encima, es incapaz de abrazar una vida perfecta y exacta. O bien por «justicia» entiende aquí a Cristo, y la alta doctrina acerca de Él.\n\nQue ellos entonces se habían «vuelto torpes», lo dijo; pero de qué causa, no lo añadió, dejándolo a ellos mismos para que lo supieran, y no queriendo hacer su discurso difícil de soportar. Pero en el caso de los Gálatas tanto «se maravilló» como «estuvo en duda», lo cual tiende mucho más a animar, pues es el lenguaje de uno que nunca habría esperado que esto sucediera. Porque esto es lo que implica la duda.\n\nVes que hay otra infancia, ves que hay otra edad adulta. Lleguemos a ser de «edad adulta» en este sentido: está en el poder incluso de los que son niños, y de los jóvenes, llegar a esa «edad adulta»: porque no es de naturaleza, sino de virtud.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2de02a3a408f",
+  "corregido_por_juez": "Añade 'Porque os digo que' en la cita de Cristo; no está en el inglés."
+ },
+ "aquifer:13264": {
+  "text_es": "Conocer la diferencia entre el bien y el mal muestra madurez espiritual.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "69b0ced95499"
+ },
+ "hcf:John Chrysostom/Hebrews 5_14#0": {
+  "text_es": "«Pero el alimento sólido es para los que son de edad madura, para los que por la costumbre tienen los sentidos ejercitados para discernir el bien y el mal.» Aquellos no tenían «los sentidos ejercitados», ni «conocían el bien y el mal». No está hablando ahora acerca de la vida y la conducta, cuando dice «para discernir el bien y el mal», pues esto es posible y fácil de conocer para todo hombre, sino acerca de las doctrinas que son sanas y sublimes, y las que están corrompidas y bajas. El niño no sabe cómo distinguir el alimento bueno del malo. A menudo al menos incluso se pone tierra en la boca, y toma lo que es dañino; y hace todas las cosas sin juicio; pero no así el hombre maduro. Tales niños son los que escuchan ligeramente todo, y entregan sus oídos indiscriminadamente: lo cual me parece que también reprocha a estos Hebreos, por ser ligeramente «llevados de acá para allá», y ahora entregarse a estos, ahora a aquellos. Lo cual también insinuó cerca del final de la Epístola, diciendo: «No os dejéis llevar por doctrinas diversas y extrañas.» Este es el significado de «para discernir el bien y el mal». «Pues el paladar prueba la comida, pero el alma prueba las palabras.»\n\nAprendamos entonces esta lección. No, cuando oigas que un hombre no es pagano ni judío, creas de inmediato que es cristiano; sino examina también todos los demás puntos; pues incluso los maniqueos, y todas las herejías, se han puesto esta máscara, para así engañar a los más simples. Pero si «tenemos los sentidos» del alma «ejercitados para discernir el bien y el mal», somos capaces de discernir a tales maestros.\n\nPero ¿cómo se «ejercitan» nuestros «sentidos»? Por el oír continuo; por la experiencia de las Escrituras. Pues cuando exponemos el error de aquellos herejes, y tú oyes hoy y mañana; y compruebas que no es correcto, has aprendido el todo, has conocido el todo; y aunque hoy no lo comprendieras, mañana lo comprenderás.\n\n«Que tienen», dice, sus «sentidos ejercitados». Ves que es necesario ejercitar nuestro oído mediante los estudios divinos, para que no suenen de manera extraña. «Ejercitados», dice, «para discernir», es decir, para estar capacitados.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5207ffbc9ecf"
+ },
+ "hcf:Lucius Caecilius Firmianus Lactantius/Hebrews 5_14#0": {
+  "text_es": "Esta es la doctrina de los santos profetas que nosotros los cristianos seguimos; esta es nuestra sabiduría, la cual los que adoran objetos frágiles, o mantienen una filosofía vacía, ridiculizan como necedad y vanidad, porque no estamos acostumbrados a defenderla y afirmarla en público, ya que Dios nos ordena en quietud y silencio ocultar Su secreto, y guardarlo dentro de nuestra propia conciencia; y no contender con obstinada disputa contra los que ignoran la verdad, y que atacan rigurosamente a Dios y a Su religión no por causa de aprender, sino de censurar y burlarse. Pues un misterio debe ser ocultado y cubierto con la mayor fidelidad, especialmente por nosotros, que llevamos el nombre de la fe.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1204330fc350"
+ },
+ "hcf:Shepherd of Hermas/Hebrews 5_14#0": {
+  "text_es": "Si sirves al buen deseo, y le estás sujeto, obtendrás el dominio sobre el mal deseo, y lo harás sujeto a ti tal como deseas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "698900160c32"
+ }
+}

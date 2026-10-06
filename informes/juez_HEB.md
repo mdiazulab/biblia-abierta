@@ -1,0 +1,15 @@
+cap.1: 53 notas; juez deepseek:deepseek-reasoner; sensibilidad 18/18 = 100%; marcadas 0, quedan 0; extremo superior ajustado 6.8% -> REVISAR
+cap.2: 53 notas; juez deepseek:deepseek-reasoner; sensibilidad 19/19 = 100%; marcadas 0, quedan 0; extremo superior ajustado 6.8% -> REVISAR
+cap.3: 39 notas; juez deepseek:deepseek-reasoner; sensibilidad 17/17 = 100%; marcadas 0, quedan 0; extremo superior ajustado 9.0% -> REVISAR
+cap.4: 45 notas; juez deepseek:deepseek-reasoner; sensibilidad 16/16 = 100%; marcadas 2, quedan 1; extremo superior ajustado 11.6% -> REVISAR
+cap.5: 39 notas; juez deepseek:deepseek-reasoner; sensibilidad 15/15 = 100%; marcadas 1, quedan 1; extremo superior ajustado 13.2% -> REVISAR
+cap.6: 47 notas; juez deepseek:deepseek-reasoner; sensibilidad 19/19 = 100%; marcadas 0, quedan 0; extremo superior ajustado 7.6% -> REVISAR
+cap.7: 59 notas; juez deepseek:deepseek-reasoner; sensibilidad 18/18 = 100%; marcadas 0, quedan 0; extremo superior ajustado 6.1% -> REVISAR
+cap.8: 36 notas; juez deepseek:deepseek-reasoner; sensibilidad 17/17 = 100%; marcadas 1, quedan 0; extremo superior ajustado 9.6% -> REVISAR
+cap.9: 67 notas; juez deepseek:deepseek-reasoner; sensibilidad 17/17 = 100%; marcadas 1, quedan 1; extremo superior ajustado 8.0% -> REVISAR
+cap.10: 84 notas; juez deepseek:deepseek-reasoner; sensibilidad 19/19 = 100%; marcadas 1, quedan 1; extremo superior ajustado 6.4% -> REVISAR
+cap.11: 131 notas; juez deepseek:deepseek-reasoner; sensibilidad 17/17 = 100%; marcadas 0, quedan 0; extremo superior ajustado 2.8% -> APROBADO
+cap.12: 73 notas; juez deepseek:deepseek-reasoner; sensibilidad 18/18 = 100%; marcadas 2, quedan 1; extremo superior ajustado 7.4% -> REVISAR
+cap.13: 69 notas; juez deepseek:deepseek-reasoner; sensibilidad 19/19 = 100%; marcadas 2, quedan 0; extremo superior ajustado 5.3% -> REVISAR
+libro HEB: 795 notas; sensibilidad 229/229 = 100%; pendientes 5; extremo superior ajustado 1.46% -> APROBADO
+libro HEB: 795 notas; sensibilidad 229/229 = 100%; pendientes 0; extremo superior ajustado 0.48% -> APROBADO (tras resolver la cola con evidencia, 06-10-2026)

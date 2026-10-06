@@ -1,0 +1,473 @@
+{
+ "aquifer:13332": {
+  "text_es": "Esta sección explica que la muerte de Cristo, como el sacrificio en el nuevo pacto, es mejor que los sacrificios del antiguo pacto. En Hebreos 9:1–10, el autor describe las prácticas de adoración bajo las reglas del antiguo pacto (véase Éxodo 28–29; Levítico 1–10; 16:1–17:16). En Hebreos 9:11–10:18, estas reglas se comparan con la ofrenda superior de Cristo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e4b874afce14",
+  "text_es_2": "Esta sección explica que la muerte de Cristo, como el sacrificio en el nuevo pacto, es mejor que los sacrificios del antiguo pacto. En Hebreos 9:1–10, el autor describe prácticas de culto bajo las reglas del antiguo pacto (véase Éxodo 28–29; Levítico 1–10; 16:1–17:16). En Hebreos 9:11–10:18, estas reglas se comparan con la ofrenda superior de Cristo.",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "aquifer:13333": {
+  "text_es": "Estos versículos describen el tabernáculo, que era el lugar de adoración de Israel antes de que construyeran el templo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e40f54c2400c"
+ },
+ "hcf:Cosmas Indicopleustes/Hebrews 9_1-2#1": {
+  "text_es": "Porque el primer Tabernáculo tenía ordenanzas de servicio divino, y su santuario, un santuario de este mundo; llamándolo de este mundo por ser figura de este mundo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7581bf95bd1c"
+ },
+ "hcf:John Chrysostom/Hebrews 9_1#0": {
+  "text_es": "Ha mostrado, a partir del Sacerdote, del Sacerdocio, del Pacto, que aquella dispensación había de tener fin. Desde este punto lo muestra a partir de la forma del tabernáculo mismo. ¿Cómo? Esto, dice, era el «Lugar Santo» y el «Lugar Santísimo». El lugar santo es, pues, símbolo del período anterior (pues allí todas las cosas se hacen por medio de sacrificios); pero el Lugar Santísimo lo es de este que ahora está presente.\n\nY por el Lugar Santísimo se refiere al Cielo; y por el velo, al Cielo, y la Carne «entra en lo que está dentro del velo»: es decir, «por el velo de su carne».\n\nY sería bueno hablar de este pasaje, tomándolo desde el principio. ¿Qué dice entonces? «Ahora bien, también el primero tenía» (el primero ¿qué? «El Pacto»). «Ordenanzas del servicio divino». ¿Qué son «ordenanzas»? símbolos o derechos. Entonces, como (quiere decir) no las tiene ahora. Muestra que ya había cedido su lugar, pues (dice) las tenía en aquel tiempo; de modo que ahora, aunque subsiste, no es.\n\n«Y el santuario mundano». Lo llama «mundano», en cuanto que a todos les era permitido pisarlo, y en la misma casa era manifiesto el lugar donde estaban los sacerdotes, donde los judíos, los prosélitos, los griegos, los nazareos. Puesto que, por tanto, incluso a los gentiles les era permitido pisarlo, lo llama «mundano». Pues ciertamente los judíos no eran «el mundo».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "9a91728309a2"
+ },
+ "aquifer:13351": {
+  "text_es": "El tabernáculo de Israel era una tienda con dos habitaciones (véase Éxodo 25–31; 35:1–40:38). ⸢el candelero⸣: Éxodo 25:31–40; 26:35. ⸢la mesa⸣: Éxodo 25:23–30. Los sacerdotes entraban diariamente en el Lugar Santo para realizar sus deberes rituales (Hebreos 9:6; véase Éxodo 28:43; Números 28:3–8).",
+  "lemas_es": [
+   "el candelero",
+   "la mesa"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "18f238ee53cb",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.2"
+   },
+   {
+    "lema": "la mesa",
+    "ref": "HEB.9.2"
+   }
+  ]
+ },
+ "hcf:John Chrysostom/Hebrews 9_2#0": {
+  "text_es": "«Porque» (dice) «fue hecho un tabernáculo; el primero, que se llama santo, en el cual estaba el Candelero, y la Mesa, y los Panes de la proposición». Estas cosas son símbolos del mundo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "84b0d925e641"
+ },
+ "hcf:John Chrysostom/Hebrews 9_2-3#0": {
+  "text_es": "Ha mostrado, a partir del Sacerdote, del Sacerdocio, del Pacto, que aquella [dispensación] había de tener fin. Desde este punto lo muestra a partir de la forma del tabernáculo mismo. ¿Cómo? Esto, dice, [era] el «Lugar Santo» y el «Lugar Santísimo». El lugar santo es, pues, símbolo del período anterior (pues allí todas las cosas se hacen por medio de sacrificios); pero el Lugar Santísimo lo es de este que ahora está presente.\n\nY por el Lugar Santísimo se refiere al Cielo; y por el velo, al Cielo, y la Carne «entra en lo que está dentro del velo»: es decir, «por el velo de su carne». (Supra, vi. 19; Heb. x, 20.)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ff99ca58d929"
+ },
+ "aquifer:13352": {
+  "text_es": "Al fondo de la primera habitación del tabernáculo había una cortina que la separaba de la segunda habitación, llamada el Lugar Santísimo (Éxodo 26:31–33). Esta cortina era una barrera sagrada. Solo el pontífice podía pasar detrás de ella al Lugar Santísimo, y solo una vez al año en el Día de la Expiación (Hebreos 9:7; véase Éxodo 30:6, 10; Levítico 16:2–34; 23:27–32).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "910f9d915023"
+ },
+ "hcf:John Chrysostom/Hebrews 9_3#0": {
+  "text_es": "«Y tras el segundo velo» (no había entonces un solo velo, sino que había también un velo exterior) «el tabernáculo, que se llama lugar santísimo». Observa cómo en todas partes lo llama tabernáculo en atención a que Dios acampa allí.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4713f2ff46c6"
+ },
+ "aquifer:13353": {
+  "text_es": "El altar de oro del incienso probablemente estaba justo fuera de la cortina interior (Éxodo 30:1–10). Su ubicación exacta no es clara en el Antiguo Testamento, pero estaba estrechamente vinculado al Lugar Santísimo (Éxodo 30:6; Levítico 16:13; 1 Reyes 6:22). El arca del pacto, que representaba la presencia de Dios, era el objeto más importante del tabernáculo (véase Éxodo 25:10–22). La vasija de oro con el maná recordaba al pueblo la provisión de Dios en el desierto (Éxodo 16:32–34). La vara de Aarón, que brotó hojas (véase Números 17:1–11), recordaba al pueblo que no debía rebelarse contra los líderes elegidos por Dios (Números 17:10; compárese Hebreos 13:17). Las tablas de piedra del pacto contenían los Diez Mandamientos y recordaban al pueblo las reglas por las que debían vivir (Éxodo 25:16; 31:18; Deuteronomio 9:9–10:5).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "92a530e9e367"
+ },
+ "hcf:John Chrysostom/Hebrews 9_4-5#0": {
+  "text_es": "«Que tenía» (dice) «un incensario de oro, y el arca del pacto cubierta alrededor de oro; en la que estaba la vasija de oro que contenía el maná, y la vara de Aarón que reverdeció, y las tablas del pacto». Todas estas cosas eran memoriales venerables y notables de la obstinación judía; «y las tablas del pacto» (pues las quebraron) «y el maná» (pues murmuraron; y por eso, transmitiendo su memoria a la posteridad, mandó que se guardara en una vasija de oro). «Y la vara de Aarón que reverdeció. Y sobre ella, los querubines de gloria». ¿Qué es «los querubines de gloria»? O se refiere a «los gloriosos», o a los que están bajo Dios. «Que cubrían el propiciatorio».\n\nPero también desde otro punto de vista ensalza estas cosas en su discurso, para mostrar que las que vienen después de ellas son mayores. «De las cuales» (dice) «no podemos ahora hablar en particular». Con estas palabras insinúa que estas no eran meramente lo que se veía, sino una especie de enigmas. «De las cuales» (dice) «no podemos ahora hablar en particular», quizá porque necesitaban un largo discurso.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b1544ed226b8"
+ },
+ "hcf:Methodius of Olympus/Hebrews 9_4#0": {
+  "text_es": "La prenda y arras de un sacerdocio perpetuo, suministraron no despreciable símbolo de tu sobrenatural alumbramiento.\nPor tu causa, y la inmaculada encarnación de Dios, el Verbo, que por ti tuvo lugar por causa de aquella carne que inmutable e indivisiblemente permanece con Él para siempre.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b1b8874a06f4"
+ },
+ "aquifer:13354": {
+  "text_es": "Los querubines de la gloria divina eran estatuas de ángeles sobre la cubierta del arca. Estos ángeles están estrechamente vinculados a la presencia gloriosa de Dios (Génesis 3:24; Salmos 80:1; 99:1; Isaías 37:16). La cubierta del arca era el lugar de expiación, donde rociaban la sangre del sacrificio del Día de la Expiación (Levítico 16:14–16). ⸢no podemos discutir estas cosas en detalle ahora⸣: El tema principal es la ofrenda de sacrificios bajo el antiguo pacto (Hebreos 9:6–10).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2492ed9e0cbc"
+ },
+ "aquifer:13355": {
+  "text_es": "En el Lugar Santo, que era la primera habitación del tabernáculo (Hebreos 9:2), los sacerdotes tenían deberes específicos. Mantenían las lámparas encendidas y reemplazaban regularmente los panes sagrados (Éxodo 27:20–21; Levítico 24:8).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bf5d6171f194"
+ },
+ "hcf:John Chrysostom/Hebrews 9_6#0": {
+  "text_es": "«Y así dispuestas estas cosas, los sacerdotes entraban siempre en el primer tabernáculo, cumpliendo el servicio de Dios». Es decir, estas cosas ciertamente estaban allí, pero los judíos no las disfrutaban: no las veían. De modo que no eran más suyas que nuestras, para quienes profetizaban.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c9f75afbcff5"
+ },
+ "aquifer:13356": {
+  "text_es": "Cada año, en el Día de la Expiación, el pontífice ofrecía sacrificios por los pecados no cubiertos por otros sacrificios del año anterior (Levítico 16:1–25).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5619c603964a"
+ },
+ "hcf:Cosmas Indicopleustes/Hebrews 9_7#0": {
+  "text_es": "Para que, habiendo descorrido de nuevo el velo de la palabra, contemplemos a rostro descubierto la fiesta de la Pascua divina, invocando así a Jesús: ¿Dónde quieres que te preparemos para comer la Pascua contigo? Al recibir su respuesta de que esta fiesta había de celebrarse en un aposento alto, es decir, un aposento de las cosas segundas, los discípulos con prontitud de corazón se apresuraron a entrar en el Lugar Santísimo, al cual Cristo mismo ha entrado por nosotros, y ha suprimido toda necesidad ulterior del Pontífice típico, habiendo obtenido eterna redención para nosotros, y presentándose en nuestro favor ante el rostro de Dios. Antiguamente, en efecto, el Pontífice solo entraba una vez al año en el Lugar Santísimo, permaneciendo el pueblo fuera por la pequeñez de su poder. Pero el Salvador, habiendo entrado, ha dado plena libertad de acceso a todos los que quieren.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "70ca002d75ab"
+ },
+ "hcf:John Chrysostom/Hebrews 9_7#0": {
+  "text_es": "«Pero en el segundo, solo el Pontífice entraba una vez cada año, no sin sangre, la cual ofrecía por sí mismo, y por los errores del pueblo». ¿Ves que los tipos ya estaban establecidos de antemano? Pues, para que no dijeran: «¿cómo hay un solo sacrificio?», muestra que esto fue así desde el principio, ya que al menos el sacrificio más santo y terrible era uno solo. ¿Y cómo ofrecía el Pontífice una vez para siempre? Así solían hacerlo desde el principio, pues también entonces (dice) «el Pontífice» ofrecía «una vez para siempre».\n\nY bien dijo: «no sin sangre». (No ciertamente sin sangre, pero no esta sangre, pues el asunto no era tan grande.) Significa que habrá un sacrificio, no consumido por fuego, sino más bien distinguido por la sangre. Pues en cuanto llamó a la Cruz sacrificio, aunque no tenía ni fuego, ni leños, ni era ofrecido muchas veces, sino que había sido ofrecido en sangre una vez para siempre; muestra que también el antiguo sacrificio era de esta clase, era ofrecido «una vez para siempre» en sangre.\n\n«La cual ofrece por sí mismo»; de nuevo, «por sí mismo; y por los errores del pueblo». No dijo «pecados», sino «errores», para que no se enaltecieran. Pues aunque no hayas pecado intencionalmente, sin embargo, sin intención has errado, y de esto nadie está puro.\n\nY en todas partes añade el «por sí mismo», mostrando que Cristo es mucho mayor. Pues si Él está separado de nuestros pecados, ¿cómo «ofreció por sí mismo»? ¿Por qué entonces dijiste estas cosas (dice uno)? Porque esto es una marca de Uno que es superior.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a9a4aa1839f8"
+ },
+ "aquifer:13357": {
+  "text_es": "⸢aún no había sido manifestado⸣: Bajo el sistema del antiguo pacto, el pueblo no podía entrar libremente en la presencia de Dios. La habitación exterior del tabernáculo, que servía como barrera sagrada, impedía al pueblo entrar en el Lugar Santísimo. Esta barrera simbolizaba todo el sistema, que mantenía al pueblo alejado de la presencia de Dios en lugar de guiarlo a ella.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "721c0a05b6bb"
+ },
+ "hcf:John Chrysostom/Hebrews 9_8#0": {
+  "text_es": "«Dando el Espíritu Santo a entender con esto, que aún no estaba manifestado el camino al Lugar Santísimo, entre tanto que el primer tabernáculo estuviese en pie». Por esta causa (dice) han sido así «ordenadas» estas cosas, para que aprendiéramos que «el Lugar Santísimo», es decir, el Cielo, es todavía inaccesible. No pensemos, pues (dice), que porque no entramos en ellos, no existen; ya que tampoco entrábamos en el Lugar Santísimo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "452ae3247998"
+ },
+ "hcf:Tertullian/Hebrews 9_8#0": {
+  "text_es": "Insertando así la partícula del tiempo presente, «Y ahora», muestra que había hecho por un tiempo, y en el presente, una prolongación de la vida del hombre. Por lo tanto, no maldijo realmente a Adán y Eva, pues eran candidatos a la restauración, y habían sido aliviados por la confesión.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c6a23bf11485"
+ },
+ "aquifer:13358": {
+  "text_es": "Este ejemplo muestra que los dones y sacrificios del antiguo pacto no podían limpiar las conciencias de las personas. No podían quitar la culpa ante un Dios santo (véase 9:14; 10:2, 22; 13:18).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "066c399704c6"
+ },
+ "hcf:John Chrysostom/Hebrews 9_9-10#0": {
+  "text_es": "«El cual» (dice) «fue establecido como figura para el tiempo entonces presente». ¿Qué quiere decir con «el tiempo presente»? El que era antes de la venida de Cristo; pues después de la venida de Cristo, ya no es un tiempo presente; pues ¿cómo podría serlo, habiendo llegado y terminado?\n\nHay también algo más que indica cuando dice esto: «el cual fue figura para el tiempo entonces presente», es decir, llegó a ser el Tipo. «En el cual se ofrecían tanto dones como sacrificios, que no podían hacer perfecto al que servía, en cuanto a la conciencia». Ves ahora cuál es el significado de «La ley nada perfeccionó» y «Si aquel primer pacto hubiera sido sin defecto». ¿Cómo? «En cuanto a la conciencia». Pues los sacrificios no quitaban la contaminación del alma, sino que aún se ocupaban del cuerpo: «según la ley de un mandamiento carnal». Ciertamente no podían quitar el adulterio, ni el homicidio, ni el sacrilegio. ¿Lo ves? Has comido esto, no has comido aquello, que son cosas indiferentes. «Que consistían solo en comidas y bebidas, y diversas abluciones». «Has bebido esto», dice; y sin embargo nada se había ordenado acerca de la bebida, sino que dijo esto tratándolas como trivialidades.\n\n«Y en diversas abluciones, y ordenanzas carnales impuestas hasta el tiempo de la reforma». Pues esta es la justicia de la carne. Aquí menosprecia los sacrificios, mostrando que no tenían eficacia, y que existían «hasta el tiempo de la reforma», es decir, esperaban el tiempo que reforma todas las cosas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7aa2bd6378cf"
+ },
+ "aquifer:13334": {
+  "text_es": "El antiguo sistema se centraba solo en reglas físicas y no podía abordar los sentimientos internos de las personas (Hebreos 8:10; 10:21–24). Era temporal, destinado a durar hasta que Cristo viniera a crear un sistema mejor (9:11–10:18).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7a52028e9910"
+ },
+ "aquifer:13335": {
+  "text_es": "El autor compara el antiguo sistema (Hebreos 9:1–10) con el sacrificio superior de Cristo como pontífice. Cristo ofreció su propia sangre, no sangre de animales (9:13–22; véase también 9:7). Su ofrenda tuvo lugar en el tabernáculo celestial, no en el terrenal (9:23–24; véase también 9:1–5). A diferencia de las ofrendas repetidas, el sacrificio de Cristo ocurrió solo una vez (9:25–10:18; véase también 7:27; 9:6–7).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7682b46219c8",
+  "text_es_2": "El autor compara el sistema antiguo (Hebreos 9:1–10) con el sacrificio superior de Cristo como pontífice. Cristo ofreció su propia sangre, no sangre de animales (9:13–22; véase también 9:7). Su ofrenda tuvo lugar en el tabernáculo celestial, no en el terrenal (9:23–24; véase también 9:1–5). A diferencia de las ofrendas repetidas, el sacrificio de Cristo ocurrió una sola vez (9:25–10:18; véase también 7:27; 9:6–7).",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "aquifer:13336": {
+  "text_es": "Cristo es ahora el pontífice sobre todas las cosas buenas del nuevo pacto. Dios lo designó, como se menciona en Salmos 110:4 (Hebreos 5:1–10; 7:1–28), y ofreció un sacrificio mejor. ⸢que han venido⸣: Algunos manuscritos dicen ⸢que están por venir⸣, ya sea desde el punto de vista del antiguo pacto o mirando hacia el plan futuro de Dios. El sacrificio de Cristo es mejor porque fue hecho en el tabernáculo mayor y perfecto en el cielo, no en el terrenal (véase 8:5 y la nota de estudio correspondiente).",
+  "lemas_es": [
+   "que han venido"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "26582b0b2612",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.11"
+   }
+  ]
+ },
+ "hcf:Cosmas Indicopleustes/Hebrews 9_11-12#2": {
+  "text_es": "Por lo cual el apóstol Pablo dice que Cristo, habiendo venido como pontífice de los cielos, entró en el lugar más alto con su propia sangre, así como el pontífice terrenal entraba en el tabernáculo interior con la sangre de otros; y así como el Tabernáculo de aquí es pequeño y hecho por manos, y, siendo solo un tipo, es imperfecto y disoluble, así el celestial es grande, y no hecho por manos, y es firme y verdadero y eterno e indisoluble, y en él está la redención eterna.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "800ff25c84c6"
+ },
+ "hcf:John Chrysostom/Hebrews 9_11#0": {
+  "text_es": "«Pero Cristo, habiendo venido como pontífice de los bienes que han venido, por un tabernáculo mayor y más perfecto no hecho por manos». Aquí se refiere a la carne. Y bien dijo «mayor y más perfecto», ya que Dios el Verbo y todo el poder del Espíritu mora en ella; «pues Dios no da el Espíritu por medida a él». Y «más perfecto», por ser tanto irreprensible como el que pone en orden cosas mayores.\n\n«Es decir, no de esta creación». Mira cómo era «mayor». Pues no habría sido «del Espíritu», si el hombre lo hubiera construido. Ni tampoco es «de esta creación»; es decir, no de estas cosas creadas, sino espiritual, del Espíritu Santo.\n\n¿Ves cómo llama al cuerpo tabernáculo y velo y cielo? «Por un tabernáculo mayor y más perfecto. A través del velo, es decir, su carne». Y de nuevo, «hasta lo que está dentro del velo». Y de nuevo, «entrando en el Lugar Santísimo, para aparecer ante el rostro de Dios». ¿Por qué entonces hace esto? Según se signifique una cosa u otra diferente. Me refiero, por ejemplo, a que el cielo es un velo, pues como un velo separa el Lugar Santísimo; la carne es un velo que oculta la Deidad; y el tabernáculo igualmente contiene la Deidad. De nuevo, el cielo es un tabernáculo; pues el Sacerdote está allí dentro.\n\n«Pero Cristo» (dice) «habiendo venido como pontífice»: no dijo «hecho», sino «habiendo venido», es decir, habiendo venido para este mismo propósito, no habiendo sido sucesor de otro. No vino primero y luego se hizo pontífice, sino que vino y se hizo al mismo tiempo. Y no dijo «habiendo venido como pontífice» de las cosas que se sacrifican, sino «de los bienes que han venido», como si su discurso no tuviera poder para ponerlo todo ante nosotros.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "105f90456282"
+ },
+ "hcf:Tertullian/Hebrews 9_11#0": {
+  "text_es": "Pues ahora afirmamos: Esto es lícito solo para el Señor: ¡que el poder de su indulgencia esté operativo en el día presente! En aquellos tiempos, sin embargo, en que él vivió en la tierra, establecemos definitivamente que no es un prejuicio contra nosotros si solía concederse el perdón a los pecadores, incluso a los judíos. Pues la disciplina cristiana data de la renovación del Testamento, y (como hemos premisado) de la redención de la carne, es decir, de la pasión del Señor.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "415213e31434"
+ },
+ "aquifer:13337": {
+  "text_es": "La ofrenda de Cristo es mejor porque usó su propia sangre, no la sangre de machos cabríos y becerros (véase Levítico 16:3–5). La ofrenda de Cristo es mejor porque entró en el Lugar Santísimo una vez para siempre. A diferencia de los sacrificios del antiguo pacto, que tenían que repetirse cada año (Hebreos 10:1), la muerte sacrificial de Jesús fue necesaria solo una vez y aseguró nuestra redención para siempre.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d6d1e6f16e0b"
+ },
+ "hcf:John Chrysostom/Hebrews 9_12#0": {
+  "text_es": "«Ni por la sangre», dice, «de machos cabríos y becerros» (todas las cosas son cambiadas) «sino por su propia sangre» (dice) «entró una vez para siempre en el Lugar Santo». Mira, así llamó al cielo. «Una vez para siempre» (dice) «entró en el Lugar Santo, habiendo obtenido la redención eterna». Y esta [expresión] «habiendo obtenido» era [expresiva] de cosas muy difíciles, y que están más allá de toda expectativa, cómo por una sola entrada, «obtuvo la redención eterna».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7482bcd39f14"
+ },
+ "aquifer:13338": {
+  "text_es": "Las cenizas de una becerra joven se mezclaban con agua para purificar a las personas de la impureza ceremonial (véase Números 19).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2a010b3d79c6"
+ },
+ "hcf:John Chrysostom/Hebrews 9_13-14#0": {
+  "text_es": "«Porque si la sangre de los toros y de los machos cabríos, y la ceniza de la becerra rociada a los inmundos, santifica para la purificación de la carne, ¿cuánto más la sangre de Cristo, el cual por el Espíritu Santo se ofreció a sí mismo sin mancha a Dios, limpiará vuestras conciencias de las obras de muerte para que sirváis al Dios vivo?»\n\nPorque (dice) si «la sangre de los toros» es capaz de purificar la carne, mucho más la sangre de Cristo borrará la inmundicia del alma. Pues para que no supongas, al oír la palabra «santifica», que se trata de algo grande, señala y muestra la diferencia entre cada una de estas purificaciones, y cómo una de ellas es alta y la otra baja. Y dice que es así con razón, puesto que aquella es «la sangre de los toros», y esta «la sangre de Cristo».\n\nNi se contentó con el nombre, sino que expone también el modo de la ofrenda. «El cual» (dice) «por el Espíritu Santo se ofreció a sí mismo sin mancha a Dios», esto es, la víctima era sin defecto, pura de pecados. Pues este es el significado de «por el Espíritu Santo», no por fuego, ni por ninguna otra cosa.\n\n«Limpiará vuestras conciencias» (dice) «de las obras de muerte». Y bien dijo «de las obras de muerte»; si alguno tocaba un cuerpo muerto, quedaba contaminado; y aquí, si alguno toca una «obra de muerte», queda mancillado por su conciencia. «Para que sirváis» (dice) «al Dios vivo y verdadero». Aquí declara que no es posible, mientras uno tiene «obras de muerte, servir al Dios vivo y verdadero», pues son a la vez muertas y falsas; y con razón dice esto.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e40cffdde888",
+  "text_es_2": "«Porque si la sangre de los toros y de los machos cabríos, y la ceniza de la becerra rociada a los inmundos, santifica para la purificación de la carne, ¿cuánto más la sangre de Cristo, el cual por el Espíritu Santo se ofreció a sí mismo sin mancha a Dios, limpiará vuestras conciencias de las obras muertas para servir al Dios vivo?»\n\nPues (dice) si «la sangre de los toros» puede purificar la carne, mucho más la sangre de Cristo borrará la contaminación del alma. Porque para que no supongas, al oír la palabra «santifica», que se trata de algo grande, señala y muestra la diferencia entre cada una de estas purificaciones, y cómo una de ellas es alta y la otra baja. Y dice que es así con buena razón, ya que aquella es «la sangre de los toros», y esta «la sangre de Cristo».\n\nNi se contentó con el nombre, sino que expone también la manera de la ofrenda. «El cual» (dice) «por el Espíritu Santo se ofreció a sí mismo sin mancha a Dios», esto es, la víctima era sin defecto, pura de pecados. Pues este es el significado de «por el Espíritu Santo», no por fuego, ni por ninguna otra cosa.\n\n«Limpiará vuestras conciencias» (dice) «de las obras muertas». Y bien dijo «de las obras muertas»; si alguno tocaba un cuerpo muerto, quedaba contaminado; y aquí, si alguno toca una «obra muerta», queda contaminado por su conciencia. «Para servir» (dice) «al Dios vivo y verdadero». Aquí declara que no es posible, mientras uno tiene «obras muertas», servir al Dios vivo y verdadero, pues ellas son a la vez muertas y falsas; y con buena razón dice esto.",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "corregido_por_juez": "Traduce «sanctifieth» (singular) como «santifican» (plural), incluso al citar la palabra comentada, alterando el número del texto citado."
+ },
+ "aquifer:13339": {
+  "text_es": "⸢cuánto más⸣: Este es un argumento de menor a mayor, una manera tradicional judía de razonar. La idea es que si algo es verdad en un caso menor, es aún más verdad en un caso mayor (véase también Hebreos 2:1–4; 12:25–29). Si la sangre de animales tenía algún efecto en la limpieza, entonces la sangre de Cristo será mucho más eficaz. ⸢purificar nuestras conciencias⸣: El sacrificio de Cristo, a diferencia de los sacrificios del antiguo pacto, quita la culpa que nos separa de Dios al limpiarnos completamente de acciones pecaminosas.",
+  "lemas_es": [
+   "cuánto más"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "beeff50350e8",
+  "text_es_2": "⸢cuánto más⸣: Este es un argumento de menor a mayor, una manera tradicional judía de razonar. La idea es que si algo es verdadero en un caso menor, lo es aún más en un caso mayor (véase también Hebreos 2:1–4; 12:25–29). Si la sangre de animales tenía algún efecto en la limpieza, entonces la sangre de Cristo será mucho más eficaz. ⸢purificar nuestras conciencias⸣: El sacrificio de Cristo, a diferencia de los sacrificios del antiguo pacto, quita la culpa que nos separa de Dios al limpiarnos completamente de acciones pecaminosas.",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": "Cuánto más",
+    "ref": "HEB.9.14"
+   }
+  ]
+ },
+ "hcf:Clement of Alexandria/Hebrews 9_14#1": {
+  "text_es": "Debemos examinar no solo una única forma de dominio propio en cuestiones sexuales, sino también los otros objetos que nuestra alma desea con indulgencia, no contentándose con las meras necesidades, sino haciendo alboroto por el lujo. El dominio propio significa indiferencia al dinero, la comodidad y la propiedad, una mente por encima de los espectáculos, control de la lengua, dominio de los malos pensamientos. De hecho, sucedió que algunos ángeles sufrieron una falla de dominio propio, fueron dominados por el deseo sexual y cayeron del cielo a la tierra. Valentino en su carta a Agatopo dice: «Jesús mostró su dominio propio en todo lo que soportó. Vivió en la práctica de la Deidad. Comió y bebió de una manera individual para sí mismo sin excretar su alimento. Tal era su poder de dominio propio que el alimento no se corrompía dentro de él, ya que no estaba sujeto a la corrupción». Así abrazamos el dominio propio por el amor que tenemos al Señor y por su condición honorable, consagrando el templo del Espíritu. Es honorable «castrarse a sí mismo» de todo deseo «por causa del reino de los cielos» y «purificar la conciencia de obras muertas para servir al Dios vivo».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ab0e008a0000",
+  "text_es_2": "Deberíamos examinar no solo una sola forma de templanza en cuestiones sexuales, sino también los otros objetos que nuestra alma desea con autoindulgencia, no contentándose con lo estrictamente necesario, sino haciendo aspavientos por el lujo. La templanza significa indiferencia hacia el dinero, la comodidad y la propiedad, una mente por encima de los espectáculos, control de la lengua, dominio de los malos pensamientos. Sucedió de hecho que algunos ángeles sufrieron una pérdida de templanza, fueron dominados por el deseo sexual y cayeron del cielo a la tierra. Valentín, en su carta a Agatopo, dice: «Jesús mostró su templanza en todo lo que soportó. Vivió en la práctica de la Deidad. Comía y bebía de una manera propia de él, sin excretar su alimento. Tal era su poder de templanza que el alimento no se corrompía dentro de él, pues no estaba sujeto a corrupción». Por eso abrazamos la templanza por el amor que tenemos al Señor y por su condición honorable, consagrando el templo del Espíritu. Es honorable «hacerse eunuco» de todo deseo «por causa del reino de los cielos» y «purificar la conciencia de las obras muertas para servir al Dios vivo».",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "hcf:Tertullian/Hebrews 9_14#0": {
+  "text_es": "Pues bien, yo por mi parte explicaré primero la razón de su ofensa, para que pueda desbaratar más fácilmente el escándalo de nuestro hereje. Ahora bien, que el mismo Señor de todo poder, el Verbo y Espíritu del Padre, estaba obrando y predicando en la tierra, era necesario que la porción del Espíritu Santo que, en forma de don profético, había estado por medio de Juan preparando los caminos del Señor, se apartara ahora de Juan y volviera de nuevo al Señor, como a su origen que todo lo abarca.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7510468576e6",
+  "text_es_2": "Pues bien, yo por mi parte explicaré primero la razón de su ofensa, para poder desbaratar más fácilmente el escándalo de nuestro hereje. Ahora bien, dado que el mismo Señor de todo poder, el Verbo y Espíritu del Padre, estaba obrando y predicando en la tierra, era necesario que la porción del Espíritu Santo que, en forma de don profético, había estado por medio de Juan preparando los caminos del Señor, se apartara ahora de Juan y volviera de nuevo al Señor, como a su origen que todo lo abarca.",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "corregido_por_juez": "Omite 'of course' ('por supuesto/ciertamente')."
+ },
+ "aquifer:13340": {
+  "text_es": "⸢el mediador⸣: Este término describe a una persona que ayuda a resolver un desacuerdo legal o político difícil. En el antiguo pacto, la gente veía a Moisés y a los ángeles como intermediarios entre Dios y el pueblo (Gálatas 3:19–20). En el nuevo pacto, Cristo conecta a Dios y a las personas mediante su muerte sacrificial (Hebreos 8:6; 12:24; Romanos 6:23; 1 Timoteo 2:5; 1 Pedro 3:18) y su intercesión continua (oración en favor de otros) (Hebreos 7:25).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "03d9bd8a9d1b"
+ },
+ "hcf:John Chrysostom/Hebrews 9_15#0": {
+  "text_es": "Era probable que muchos de los más débiles desconfiaran especialmente de las promesas de Cristo porque Él había muerto. Pablo, por tanto, con superabundancia introdujo esta ilustración, tomándola de la costumbre común. ¿De qué clase es? Dice: «ciertamente, por esta misma causa debemos tener buen ánimo». ¿Por qué causa? Porque los testamentos se establecen y obtienen su fuerza cuando los que los han hecho no están vivos, sino muertos. «Y por esta causa», dice, «Él es el Mediador del Nuevo Testamento». Un testamento se hace hacia el último día, [el día] de la muerte.\n\nY un testamento es de este carácter: hace a algunos herederos, y a algunos desheredados. Así también en este caso: «Quiero que donde yo estoy», dice Cristo, «también ellos estén». Y de nuevo, de los desheredados, óyele decir: «No ruego por» todos, «sino por los que creen en mí por su palabra». De nuevo, un testamento tiene relación tanto con el testador como con los legatarios; de modo que tienen algunas cosas que recibir, y algunas que hacer. Así también en este caso. Pues después de haber hecho innumerables promesas, también demanda algo de ellos, diciendo: «un nuevo mandamiento os doy». De nuevo, un testamento debe tener testigos. Óyele de nuevo decir: «Yo soy el que doy testimonio de mí mismo, y el que me envió da testimonio de mí». Y de nuevo: «Él dará testimonio de mí», hablando del Consolador. También envió a los doce apóstoles, diciendo: «Dad testimonio delante de Dios».\n\n«Y por esta causa» (dice) «Él es el Mediador del Nuevo Testamento». ¿Qué es un «Mediador»? Un mediador no es señor de la cosa de la que es mediador, sino que la cosa pertenece a una persona, y el mediador es otro: como por ejemplo, el mediador de un matrimonio no es el novio, sino uno que ayuda al que está por casarse. Así entonces también aquí: el Hijo se hizo Mediador entre el Padre y nosotros. El Padre no quiso dejarnos esta herencia, sino que estaba airado contra nosotros, y estaba desagradado [con nosotros] por estar alejados [de Él]; Él, por tanto, se hizo Mediador entre nosotros y Él, y prevaleció con Él.\n\n¿Y qué entonces? ¿Cómo se hizo Mediador? Trajo palabras de [Él] y las trajo [a nosotros], transmitiendo lo que venía del Padre a nosotros, y añadiendo su propia muerte a ello. Habíamos ofendido: debíamos haber muerto: Él murió por nosotros y nos hizo dignos del Testamento. Por esto es seguro el Testamento, en que de aquí en adelante no se hace por los indignos. Al principio, en efecto, hizo sus disposiciones como un padre para hijos; pero después que nos hicimos indignos, ya no había necesidad de un testamento, sino de castigo.\n\n¿Por qué entonces (diría) piensas en la ley? Pues nos colocó en una condición de tan gran pecado, que nunca habríamos podido ser salvos, si nuestro Señor no hubiera muerto por nosotros; la ley no habría tenido poder, porque es débil.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "979c34b1e421"
+ },
+ "aquifer:13341": {
+  "text_es": "El autor explica una regla básica acerca de los testamentos o pactos (Hebreos 9:16–17). Luego la discute más a fondo, usando el inicio del primer pacto como ejemplo (9:18–22).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2ce0096ca344"
+ },
+ "hcf:John Chrysostom/Hebrews 9_16-17#0": {
+  "text_es": "Era probable que muchos de los más débiles desconfiaran especialmente de las promesas de Cristo porque Él había muerto. Pablo, por tanto, con superabundancia introdujo esta ilustración, tomándola de la costumbre común. ¿De qué clase es? Dice: «ciertamente, por esta misma causa debemos tener buen ánimo». ¿Por qué causa? Porque los testamentos se establecen y obtienen su fuerza cuando los que los han hecho no están vivos, sino muertos. «Y por esta causa», dice, «Él es el Mediador del Nuevo Testamento». Un testamento se hace hacia el último día, [el día] de la muerte.\n\nY un testamento es de este carácter: hace a algunos herederos, y a algunos desheredados. Así también en este caso: «Quiero que donde yo estoy», dice Cristo, «también ellos estén». (Juan xvii. 24.) Y de nuevo, de los desheredados, óyele decir: «No ruego por» todos, «sino por los que creen en mí por su palabra». (Juan xvii. 20.) De nuevo, un testamento tiene relación tanto con el testador como con los legatarios; de modo que tienen algunas cosas que recibir, y algunas que hacer. Así también en este caso. Pues después de haber hecho innumerables promesas, también demanda algo de ellos, diciendo: «un nuevo mandamiento os doy». (Juan xiii. 34.) De nuevo, un testamento debe tener testigos. Óyele de nuevo decir: «Yo soy el que doy testimonio de mí mismo, y el que me envió da testimonio de mí». (Juan viii. 18.) Y de nuevo: «Él dará testimonio de mí» (Juan xv. 26), hablando del Consolador. También envió a los doce apóstoles, diciendo: «Dad testimonio delante de Dios».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "34e5ff6f8fc9"
+ },
+ "aquifer:13342": {
+  "text_es": "⸢puesto en vigor⸣: Éxodo 24:3–8 describe a Moisés iniciando el antiguo pacto usando la sangre de un sacrificio. Hebreos es la única fuente antigua que dice que Moisés roció el libro de la ley de Dios (véase Éxodo 24:6–8). Las ramas de hisopo tienen flores azules y hojas de olor fuerte. La gente las usaba con sacrificios para la purificación (Éxodo 12:22; Levítico 14:4; Números 19:6, 18).",
+  "lemas_es": [
+   "puesto en vigor"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b123a79b66a9",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.9.18"
+   }
+  ]
+ },
+ "hcf:John Chrysostom/Hebrews 9_18#0": {
+  "text_es": "Y estableció esto ya no solo a partir de la costumbre común, sino también a partir de lo que sucedió bajo el antiguo [Testamento]: lo cual los influyó especialmente. No había nadie que muriera allí: ¿cómo entonces podría aquel [Testamento] ser firme? De la misma manera (dice). ¿Cómo? Pues también había sangre allí, como hay sangre aquí. Y si no era la sangre del Cristo, no te sorprendas; pues era un tipo. «Por lo cual», dice, «ni el primer [Testamento] fue dedicado sin sangre».\n\n¿Qué es «fue dedicado»? fue confirmado, fue ratificado. La palabra «por lo cual» significa «por esta causa». Era necesario que el símbolo del Testamento fuera también el de la muerte.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ff76f8477ded"
+ },
+ "hcf:John Chrysostom/Hebrews 9_19-20#0": {
+  "text_es": "Pues ¿por qué (dime) es rociado el libro del testamento? «Porque» (dice) «cuando Moisés hubo hablado todo precepto a todo el pueblo según la ley, tomó la sangre de los becerros, con agua, y lana escarlata, e hisopo, y roció tanto el libro mismo como a todo el pueblo, diciendo: Esta es la sangre del testamento, que Dios os ha mandado». Dime entonces por qué es rociado el libro del testamento, y también el pueblo, sino a causa de la sangre preciosa, figurada desde el principio? ¿Por qué «con hisopo»? Es compacto y retentivo. ¿Y por qué el «agua»? Muestra también la purificación por el agua. ¿Y por qué la «lana»? Esta también [se usaba], para que la sangre fuera retenida. En este lugar la sangre y el agua muestran la misma cosa, pues el bautismo es su pasión.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a41ca8596228"
+ },
+ "hcf:Tertullian/Hebrews 9_19#0": {
+  "text_es": "Uno de estos machos cabríos era atado con escarlata, y llevado por el pueblo fuera del campamento al desierto, entre maldiciones, y escupitajos, y arrancamientos, y perforaciones, siendo así marcado con todas las señales de la propia pasión del Señor; mientras que el otro, al ser ofrecido por los pecados, y dado a los sacerdotes del templo para comida, ofrecía pruebas de su segunda aparición, cuando (después que todos los pecados han sido expiados) los sacerdotes del templo espiritual, es decir, la iglesia, han de disfrutar la carne, por así decirlo, de la propia gracia del Señor, mientras el resto se aleja de la salvación sin gustarla.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1a633fe4448e"
+ },
+ "aquifer:13343": {
+  "text_es": "«Esta es la sangre del pacto que el SEÑOR ha hecho con vosotros» (Éxodo 24:8): Jesús usó palabras similares en la Última Cena, hablando de su propia muerte (Mateo 26:28; Marcos 14:24; 1 Corintios 11:25).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1ba90551b6b7"
+ },
+ "aquifer:13344": {
+  "text_es": "⸢roció con sangre⸣: Véase Éxodo 24:3–8 y Levítico 16:14–19.",
+  "lemas_es": [
+   "roció con sangre"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "360e92f17d68",
+  "lemas_rv1909": [
+   {
+    "lema": "roció también con la sangre",
+    "ref": "HEB.9.21"
+   }
+  ]
+ },
+ "hcf:John Chrysostom/Hebrews 9_21-22#0": {
+  "text_es": "«Además roció con sangre tanto el tabernáculo como todos los vasos del ministerio. Y casi todas las cosas son, por la ley, purificadas con sangre, y sin derramamiento de sangre no hay remisión». ¿Por qué el «casi»? ¿por qué lo calificó? Porque aquellas [ordenanzas] no eran una purificación perfecta, ni una remisión perfecta, sino a medias y en muy pequeña medida. Pero en este caso Él dice: «Esta es la sangre del Nuevo Testamento, que es derramada por vosotros, para la remisión de los pecados».\n\n¿Dónde está entonces «el libro»? Purificó sus mentes. Ellos mismos entonces eran los libros del Nuevo Testamento. ¿Pero dónde están «los vasos del ministerio»? Son ellos mismos. ¿Y dónde está «el tabernáculo»? De nuevo, son ellos; pues «habitaré en ellos», dice, «y andaré en ellos».\n\nPero no fueron rociados con «lana escarlata», ni tampoco «con hisopo». ¿Por qué fue esto? Porque la purificación no era corporal sino espiritual, y la sangre era espiritual. ¿Cómo? No fluía del cuerpo de animales irracionales, sino del Cuerpo preparado por el Espíritu. Con esta sangre no Moisés sino Cristo nos roció, mediante la palabra que fue dicha: «Esta es la sangre del Nuevo Testamento, para la remisión de los pecados». Esta palabra, en lugar del hisopo, habiendo sido sumergida en la sangre, rocía a todos. Y allí en verdad el cuerpo era limpiado exteriormente, pues la purificación era corporal; pero aquí, puesto que la purificación es espiritual, entra en el alma, y la limpia, no siendo simplemente rociada por encima, sino brotando en nuestras almas. Los iniciados entienden lo que se dice. Y en su caso en verdad uno rociaba solo la superficie; pero el que era rociado lo lavaba de nuevo; pues ciertamente no andaba continuamente manchado con sangre. Pero en el caso del alma no es así, sino que la sangre se mezcla con su misma sustancia, haciéndola vigorosa y pura, y llevándola a la misma belleza inaccesible.\n\nDe aquí en adelante entonces muestra que su muerte es causa no solo de confirmación, sino también de purificación. Pues en cuanto la muerte era considerada cosa odiosa, y especialmente la de la cruz, dice que purificó, incluso una purificación preciosa, y en cuanto a cosas mayores. Por tanto los sacrificios precedieron, a causa de esta sangre. Por tanto los corderos; todo era por esta causa.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3d69e546b9fa"
+ },
+ "aquifer:13345": {
+  "text_es": "En la ley de Moisés, muchos ritos de purificación requerían la muerte de un animal sacrificado. La sangre se usaba en estos ritos de purificación (véase Éxodo 29:12; 30:10; Levítico 4:6, 17; 16:14–19; Números 19:4) y para hacer expiación (véase Levítico 16). El derramamiento de la sangre de Cristo estableció el nuevo pacto, ofreciendo purificación duradera y completo perdón de los pecados (Hebreos 8:12; 10:15–18; Mateo 26:28; Efesios 1:7).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "89ca46a9994a"
+ },
+ "aquifer:13346": {
+  "text_es": "Este versículo usa una comparación de menor a mayor (véase la nota de estudio sobre Hebreos 9:14). Así como el cielo es mayor que el tabernáculo terrenal, el sacrificio de Cristo tenía que ser mucho mejor que los sacrificios terrenales. ⸢Así era necesario⸣: Véase 9:16–22; Levítico 16:14–19. ⸢figuras de las cosas celestiales⸣: Véase la nota de estudio sobre Hebreos 8:5. ⸢las cosas celestiales fuesen purificadas⸣: Así como el tabernáculo necesitaba purificación a causa del pecado de los israelitas (Levítico 16:16–19), el tabernáculo celestial requería quitar la impureza de quienes entran al cielo bajo el nuevo pacto.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e1689102ba1f"
+ },
+ "hcf:Cosmas Indicopleustes/Hebrews 9_23#0": {
+  "text_es": "¿Y cómo vienen estas a ser figuras de las cosas que están en los cielos? ¿Y qué llama él a las cosas que ahora están en los cielos? ¿Es el cielo? ¿Son los ángeles? No, ninguna de estas, sino nuestras cosas, pues las cosas celestiales son nuestras, sí, aunque se cumplan en la tierra, ya que también los ángeles están en la tierra, y sin embargo son llamados celestiales. Y los querubines también aparecieron en la tierra, y sin embargo son celestiales. Pero ¿qué digo?—¿que aparecieron? ¿Es entonces en la tierra donde pasan su tiempo como en el Paraíso? No, no es así, pues son celestiales y nuestra ciudadanía está en los cielos, aunque pasamos nuestra vida con los que están aquí.» Y después dice: «Muestro por hechos reales a los que alcanzan esta altura. ¿Y quiénes son estos? Me refiero a Pablo y a sus seguidores, quienes, aunque estaban en la tierra, moraban en el cielo. Pero ¿qué digo?—¿en el cielo? No, fueron exaltados más alto que el cielo, sí, incluso que el otro cielo, pues ascendieron a Dios mismo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "587bc6d6dfcb"
+ },
+ "hcf:John Chrysostom/Hebrews 9_23#0": {
+  "text_es": "«Así que era necesario que las figuras» (dice) «de las cosas en los cielos fuesen purificadas con estas, pero las cosas celestiales mismas con mejores sacrificios que estos.»\n\n¿Y cómo son «figuras de las cosas en los cielos»? ¿Y qué quiere decir ahora con «las cosas en los cielos»? ¿Es el Cielo? ¿O son los Ángeles? Ninguna de estas, sino lo que es nuestro. Se sigue, entonces, que nuestras cosas están en el Cielo, y las cosas celestiales son nuestras, aunque se cumplan en la tierra; pues aunque los ángeles están en la tierra, sin embargo son llamados celestiales. Y los querubines aparecieron en la tierra, pero sin embargo son celestiales. ¿Y por qué digo «aparecieron»? más bien habitan en la tierra, como en el Paraíso; pero esto no es nada, pues son celestiales. Y, «Nuestra conversación está en el Cielo», y sin embargo vivimos aquí.\n\n«Pero estas son las cosas celestiales», es decir, la filosofía que existe entre nosotros; los que han sido llamados a ella.\n\n«Con mejores sacrificios que estos.» Lo que es «mejor» es mejor que algo [más] que es bueno. Por lo tanto, «las figuras también de las cosas en los cielos» se han vuelto buenas; pues ni siquiera las figuras eran malas: de lo contrario, las cosas de las cuales son figuras también serían malas.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "48b96a08fab7"
+ },
+ "aquifer:13347": {
+  "text_es": "Bajo el nuevo pacto, Cristo no ofreció su sacrificio en el tabernáculo terrenal. En cambio, entró en la presencia de Dios en el cielo para actuar por nosotros. Su sacrificio lo hace un mejor mediador para ayudarnos a tener una relación correcta con Dios (2 Corintios 5:19–21).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "de6a92570898",
+  "text_es_2": "Bajo el nuevo pacto, Cristo no ofreció su sacrificio en el tabernáculo terrenal. En cambio, entró en la presencia de Dios en el cielo para actuar por nosotros. Su sacrificio lo hace un mejor Mediador para ayudarnos a tener una relación correcta con Dios (2 Corintios 5:19–21).",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "hcf:Cosmas Indicopleustes/Hebrews 9_24#3": {
+  "text_es": "Pues Cristo no entró en un lugar santo hecho de manos, a semejanza del verdadero, sino en el cielo mismo; llamando al cielo el verdadero lugar santo, y al tabernáculo interior su antitipo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8f9d1da285b5",
+  "text_es_2": "Porque Cristo no entró en un lugar santo hecho por manos, a manera de figura del verdadero, sino en el cielo mismo; llamando cielo al verdadero lugar santo, y al tabernáculo interior su antitipo.",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "hcf:John Chrysostom/Hebrews 9_24#0": {
+  "text_es": "«Porque Cristo no entró en los Lugares Santos hechos de manos» (dice) «que son figuras del Verdadero.» (Estos, pues, son verdaderos; y aquellos son figuras, pues también el templo ha sido dispuesto así, como el Cielo de los Cielos.)\n\n¿Qué dices? El que está en todas partes presente, y que llena todas las cosas, ¿no «aparece» a menos que entre en el Cielo? Ves que todas estas cosas pertenecen a la carne.\n\n«Para aparecer», dice, «en la presencia de Dios por nosotros.» ¿Qué es «por nosotros»? Subió (quiere decir) con un sacrificio que tenía poder para propiciar al Padre. ¿Por qué (dime)? ¿Era Él un enemigo? Los ángeles eran enemigos, Él no era enemigo. Pues que los Ángeles eran enemigos, escucha lo que dice: «Hizo la paz en cuanto a las cosas en la tierra y las cosas en el Cielo.» (Col. i. 20.) De modo que Él también «entró en el Cielo, ahora para aparecer en la presencia de Dios por nosotros.» Él «ahora aparece», pero «por nosotros».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1483b896bf22",
+  "text_es_2": "«Porque Cristo no entró en los lugares santos hechos por manos» (dice) «que son figuras del Verdadero». (Estas cosas, pues, son verdaderas; y aquellas son figuras, pues también el templo ha sido dispuesto así, como el cielo de los cielos.)\n\n¿Qué dices? El que está presente en todas partes, y lo llena todo, ¿no «se presenta» a menos que entre en el cielo? Ves que todas estas cosas pertenecen a la carne.\n\n«Para presentarse», dice, «delante de Dios por nosotros». ¿Qué significa «por nosotros»? Subió (quiere decir) con un sacrificio que tenía poder para propiciar al Padre. ¿Por qué (dime)? ¿Era él un enemigo? Los ángeles eran enemigos, él no era enemigo. Pues que los ángeles eran enemigos, oye lo que dice: «Hizo la paz tanto en las cosas de la tierra como en las del cielo» (Colosenses 1:20). De modo que él también «entró en el cielo, para presentarse ahora delante de Dios por nosotros». Él «se presenta ahora», pero «por nosotros».",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "hcf:John Chrysostom/Hebrews 9_24#1": {
+  "text_es": "Los judíos se enorgullecían mucho del templo y del tabernáculo. Por eso decían: «El templo de Jehová, El templo de Jehová, El templo de Jehová.» (Jer. vii.4.) Pues en ningún otro lugar de la tierra se construyó un templo como este, ni por su costo, ni por su belleza, ni por cualquier otra cosa. Pues Dios, que lo ordenó, mandó que se hiciera con gran magnificencia, porque también ellos eran más atraídos e impulsados por las cosas materiales. Pues tenía ladrillos de oro en las paredes; y quien quiera puede aprender esto en el segundo [libro] de los Reyes, y en Ezequiel, y cuántos talentos de oro se gastaron entonces.\n\nPero el segundo [templo] fue un edificio más glorioso, tanto por su belleza como en todos los demás aspectos. Y no era reverenciado solo por esta razón, sino también por ser Uno. Pues solían acudir allí desde los confines de la tierra, ya fuera desde Babilonia o desde Etiopía. Y Lucas muestra esto cuando dice en los Hechos: «Moraban» allí «partos, y medos, y elamitas, y los que habitaban en Mesopotamia, en Judea y Capadocia, en Ponto y Asia, Frigia y Panfilia, en Egipto y en las partes de Libia alrededor de Cirene.» (Hechos ii. 5, Hechos ii. 9, Hechos ii. 10.) Los que vivían en todas las partes del mundo se reunían allí, y la fama del templo era grande.\n\n¿Qué hace entonces Pablo? Lo que [hizo] con respecto a los sacrificios, eso también hace aquí. Pues como allí opuso [a ellos] la muerte de Cristo, así también aquí opone todo el cielo al templo.\n\nY no solo por esto señaló la diferencia, sino también añadiendo que el Sacerdote está más cerca de Dios: pues dice, «para aparecer en la presencia de Dios.» De modo que hizo el asunto augusto, no solo por [la consideración del] cielo, sino también por [la de] la entrada de Cristo [allí]. Pues no meramente mediante símbolos como aquí, sino que Él ve a Dios mismo allí.\n\n¿Ves que la condescendencia mediante las cosas humildes ha sido dicha en todo momento? ¿Por qué te admiras entonces todavía de que Él interceda allí, donde se coloca a sí mismo como Pontífice?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "16996b3f374b",
+  "text_es_2": "Los judíos se enorgullecían mucho del templo y del tabernáculo. Por eso decían: «El templo de Jehová, el templo de Jehová, el templo de Jehová» (Jeremías 7:4). Pues en ningún otro lugar de la tierra se construyó un templo como este, ni por su costo, ni por su belleza, ni por ninguna otra cosa. Porque Dios, que lo ordenó, mandó que se hiciera con gran magnificencia, ya que ellos también eran más atraídos e impulsados por las cosas materiales. Pues tenía ladrillos de oro en las paredes; y quien quiera puede aprender esto en el segundo libro de Reyes, y en Ezequiel, y cuántos talentos de oro se gastaron entonces.\n\nPero el segundo [templo] era un edificio más glorioso, tanto por su belleza como en todos los demás aspectos. Y no era reverenciado solo por esta razón, sino también por ser uno solo. Pues solían acudir allá desde los confines de la tierra, ya fuera desde Babilonia o desde Etiopía. Y Lucas muestra esto cuando dice en los Hechos: «Moraban» allí «Partos, Medos y Elamitas, y los que habitaban en Mesopotamia, en Judea y Capadocia, en el Ponto y Asia, en Frigia y Panfilia, en Egipto y en las partes de Libia alrededor de Cirene» (Hechos 2:5, 2:9, 2:10). Los que vivían en todas partes del mundo se reunían allí, y la fama del templo era grande.\n\n¿Qué hace entonces Pablo? Lo que [hizo] con respecto a los sacrificios, eso también hace aquí. Pues así como allí puso frente a ellos la muerte de Cristo, así también aquí pone todo el cielo frente al templo.\n\nY no solo por esto señaló la diferencia, sino también al añadir que el Sacerdote está más cerca de Dios; pues dice: «para presentarse delante de Dios». De modo que hizo augusto el asunto, no solo por [la consideración del] cielo, sino también por [la de] la entrada de Cristo [allí]. Pues no meramente mediante símbolos como aquí, sino que allí ve a Dios mismo.\n\n¿Ves que en todo se ha hablado de condescendencia mediante las cosas humildes? ¿Por qué te admiras entonces de que interceda allí, donde se presenta como Pontífice?",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "hcf:Pseudo-Clement/Hebrews 9_24#0": {
+  "text_es": "La iglesia, siendo espiritual, fue manifestada en la carne de Cristo, significándonos que si alguno de nosotros la guarda en la carne y no la corrompe, la recibirá en el Espíritu Santo. Pues esta carne es el tipo del espíritu; nadie, por tanto, habiendo corrompido el tipo, recibirá después el antitipo. Por eso, entonces, dice, hermanos: «Guardad la carne, para que lleguéis a ser partícipes del espíritu.» Si decimos que la carne es la iglesia y el espíritu Cristo, entonces se sigue que el que ultraje la carne es culpable de ultraje contra la iglesia. Tal persona, por tanto, no participará del espíritu, que es Cristo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "305843bf7d2d",
+  "text_es_2": "La Iglesia, siendo espiritual, se manifestó en la carne de Cristo, significándonos que si alguno de nosotros la guarda en la carne y no la corrompe, la recibirá en el Espíritu Santo. Pues esta carne es el tipo del espíritu; por tanto, nadie que haya corrompido el tipo recibirá después el antitipo. Por eso, entonces, dice, hermanos: «Guardad la carne, para que seáis participantes del espíritu». Si decimos que la carne es la Iglesia y el espíritu es Cristo, se sigue que quien ultraje la carne es culpable de ultraje contra la Iglesia. Por tanto, tal persona no participará del espíritu, que es Cristo.",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "aquifer:13348": {
+  "text_es": "Bajo el antiguo pacto, los sacerdotes tenían que repetir el sacrificio en el Día de la Expiación cada año (Levítico 16:29–34). El mejor sacrificio de Cristo fue hecho una vez y para siempre.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "28165f2eb400"
+ },
+ "hcf:John Chrysostom/Hebrews 9_25#0": {
+  "text_es": "«Ni tampoco que se ofrezca a sí mismo muchas veces, como el Pontífice entra en el Lugar Santo cada año con sangre ajena.» ¿Ves cuántas son las diferencias? El «muchas veces» por el «una vez»; «la sangre ajena», por «la suya propia». Grande es la distancia. Él es entonces a la vez víctima y Sacerdote y sacrificio. Pues si no hubiera sido así, y hubiera sido necesario ofrecer muchos sacrificios, habría tenido que ser crucificado muchas veces. «Pues entonces», dice, «habría tenido que padecer muchas veces desde la fundación del mundo.»",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "00e764060871"
+ },
+ "aquifer:13349": {
+  "text_es": "⸢De otra manera⸣: El autor usa un argumento lógico para mostrar que el único sacrificio de Cristo es permanentemente eficaz. Cristo es tanto el sacrificio como el pontífice. Si su ofrenda tuviera que repetirse cada año, como los sacerdotes terrenales, tendría que morir una y otra vez. Pero esa idea es absurda. Claramente, Cristo murió una vez y para siempre para quitar el pecado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "42a779c895e7"
+ },
+ "hcf:John Chrysostom/Hebrews 9_26#0": {
+  "text_es": "En este lugar también ha velado algo. «Pero ahora una vez más en el fin del mundo.» ¿Por qué «en el fin del mundo»? Después de los muchos pecados. Si por tanto hubiera tenido lugar al principio, entonces nadie habría creído; y Él no debe morir una segunda vez, todo habría sido inútil. Pero puesto que después hubo muchas transgresiones, con razón apareció entonces: lo cual expresa también en otro lugar: «Donde el pecado abundó, sobreabundó la gracia. Pero ahora una vez en el fin del mundo, ha aparecido para quitar el pecado por el sacrificio de sí mismo.» (Rom. v. 20.)",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d93e3ee3510e"
+ },
+ "hcf:John Chrysostom/Hebrews 9_26#1": {
+  "text_es": "¿Qué es «ha aparecido para quitar el pecado por el sacrificio de sí mismo»? ¿Qué es este «quitar»? es hacer despreciable. Pues el pecado ya no tiene ninguna osadía; pues es hecho de ningún efecto en que, cuando debía haber exigido castigo, no lo exigió: es decir, sufrió violencia: cuando esperaba destruir a todos los hombres, entonces fue él mismo destruido.\n\n«Ha aparecido por el sacrificio de sí mismo» (dice), es decir, «ha aparecido» ante Dios, y se ha acercado a Él. Pues no pienses porque el Pontífice solía hacer esto muchas veces en el año. De modo que de aquí en adelante esto se hace en vano, aunque se haga; pues ¿qué necesidad hay de medicinas donde no hay heridas? Por esta razón ordenó ofrendas «continuamente», a causa de su falta de poder, y para que se hiciera memoria de los pecados.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0990baa9f75b"
+ },
+ "hcf:Tertullian/Hebrews 9_26#0": {
+  "text_es": "Por lo tanto, mediante la amplia licencia de aquellos días, se proporcionaron de antemano materiales para enmiendas posteriores, de cuyos materiales el Señor por Su Evangelio, y luego el apóstol en los últimos días de la era (judía), o cortó las redundancias o reguló los desórdenes.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b7ec2ba75438"
+ },
+ "aquifer:13350": {
+  "text_es": "La primera venida de Cristo fue para quitar los pecados de muchos. Cuando venga de nuevo⸢,⸣ no será para tratar con los pecados, pues eso ya está hecho. En cambio, traerá salvación a todos los que lo esperan ansiosamente (véase la nota de estudio sobre Gálatas 5:5).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "964141942f7e"
+ },
+ "hcf:Cosmas Indicopleustes/Hebrews 9_27#0": {
+  "text_es": "Está establecido por Dios que todos los hombres mueran una vez, como dice el Apóstol, hablando de ellos en general; pues ni todos mueren, ni Lázaro y otros a quienes el Señor resucitó murieron solo una vez, sino que se refiere a todos los hombres que están en este estado de existencia, y son mortales tal como Dios los creó.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fb3384ad9db0"
+ },
+ "hcf:Hippolytus of Rome/Hebrews 9_27#0": {
+  "text_es": "Su primera venida tuvo a Juan el Bautista como precursor; y su segunda, en la que ha de venir en gloria, mostrará a Enoc, a Elías y a Juan el Divino.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0d85f47af23b"
+ },
+ "hcf:John Chrysostom/Hebrews 9_27#0": {
+  "text_es": "«Y de la manera que está establecido a los hombres que mueran una vez, y después el Juicio.» Luego dice también por qué murió una sola vez: porque se hizo rescate por una sola muerte. «Estaba establecido» (dice) «a los hombres que mueran una vez». Este es, pues, el sentido de «murió una vez», por todos. (¿Qué entonces? ¿Ya no morimos esa muerte? Ciertamente morimos, pero no permanecemos en ella: lo cual no es morir en absoluto. Pues la tiranía de la muerte, y la muerte misma, es cuando al que muere nunca más se le permite volver a la vida. Pero cuando después de morir vive, y vive una vida mejor, esto no es muerte, sino sueño.) Puesto que, entonces, la muerte había de apoderarse de todos, por eso murió él para librarnos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a7fe4f2ec770"
+ },
+ "hcf:John Chrysostom/Hebrews 9_28#0": {
+  "text_es": "«Así también Cristo fue ofrecido una sola vez.» ¿Por quién ofrecido? Evidentemente por sí mismo. Aquí dice que no es solo Sacerdote, sino también Víctima, y lo que es sacrificado. Por esta razón están las palabras «fue ofrecido». «Fue ofrecido una sola vez» (dice) «para llevar los pecados de muchos». ¿Por qué «de muchos», y no «de todos»? Porque no todos creyeron. Pues ciertamente murió por todos, eso es lo que le corresponde: pues aquella muerte fue un contrapeso contra la destrucción de todos los hombres. Pero no llevó los pecados de todos los hombres, porque ellos no quisieron.\n\n¿Y cuál es el significado de «llevó los pecados»? Así como en la Oblación levantamos nuestros pecados y decimos: «Ya sea que hayamos pecado voluntaria o involuntariamente, perdónanos», es decir, hacemos mención de ellos primero, y luego pedimos su perdón. Así también se hizo aquí. ¿Dónde ha hecho esto Cristo? Óyele decir: «Y por ellos yo me santifico a mí mismo.» (Juan xvii. 19.) ¡He aquí! Llevó los pecados. Los tomó de los hombres, y los llevó al Padre; no para determinar algo contra ellos (la humanidad), sino para perdonarlos.\n\n«A los que le esperan aparecerá» (dice) «la segunda vez sin pecado para salvación». ¿Qué es «sin pecado»? es tanto como decir: Él no peca. Pues ni murió como debiendo la deuda de la muerte, ni tampoco a causa del pecado. Pero ¿cómo «aparecerá»? Para castigar, dices. Sin embargo, no dijo esto, sino lo que era consolador: «aparecerá a los que le esperan, sin pecado para salvación». De modo que para el tiempo venidero ya no necesitan sacrificios para salvarse, sino hacerlo por medio de obras.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "229dc31862cd"
+ }
+}

@@ -39,8 +39,36 @@ VOCABULARIO = [(r"\bSumos [Ss]acerdotes\b", "Pontífices"), (r"\bsumos sacerdote
                (r"\bMelqui[sz]edec\b", "Melchisedec")]
 
 
+def comillas(t):
+    """Comillas rectas -> españolas: «…» y, dentro de ellas, “…” (06-10-2026: 2.588 comillas rectas en Juan y
+    Hebreos, mezcladas con «»). Apertura si la precede el inicio, un espacio o un signo de apertura."""
+    out, pila = [], []
+    for k, ch in enumerate(t):
+        if ch == "\n":                                  # cada párrafo empieza sin comillas abiertas
+            pila.clear()
+        if ch == "«":
+            pila.append("«")
+        elif ch == "»" and pila:
+            pila.pop()
+        if ch != '"':
+            out.append(ch)
+            continue
+        previo = t[k - 1] if k else " "
+        sig = t[k + 1] if k + 1 < len(t) else " "
+        # abre si no la precede letra/cifra y la sigue texto («...»Aprendió»: tras puntos suspensivos también abre)
+        abre = not previo.isalnum() and previo not in ".,;:!?)»”…" and not sig.isspace() and sig not in ",.;:)!?"
+        abre = abre or (previo in ".…" and sig.isalpha() and sig.isupper())
+        if abre:
+            out.append("“" if pila else "«")
+            pila.append("“" if pila else "«")
+        else:
+            cierre = pila.pop() if pila else "«"
+            out.append("”" if cierre == "“" else "»")
+    return "".join(out)
+
+
 def limpiar(es):
-    es = re.sub(NOTA_PEGADA, "", es.strip())
+    es = comillas(re.sub(NOTA_PEGADA, "", es.strip()))
     for mal, bien in VOCABULARIO:
         es = re.sub(mal, bien, es)
     return es

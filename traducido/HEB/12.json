@@ -1,0 +1,490 @@
+{
+ "aquifer:13157": {
+  "text_es": "El autor anima a los oyentes a seguir a Jesús, quien es el ejemplo supremo de fidelidad. Deben: imitarlo en su sufrimiento (Hebreos 12:1–4), soportar la disciplina de Dios (12:5–13) y vivir en paz con los demás (12:14–17).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "a7e3c3060183",
+  "text_es_2": "El autor anima a los oyentes a continuar siguiendo a Jesús, quien es el ejemplo supremo de fidelidad. Deben: imitarlo en su sufrimiento (Hebreos 12:1–4), soportar la disciplina de Dios (12:5–13), y vivir en paz con los demás (12:14–17).",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "aquifer:13167": {
+  "text_es": "⸢una nube tan grande de testigos⸣: Los muchos fieles seguidores de Dios (Hebreos 11) muestran que Dios recompensa una vida de fe. ⸢despojémonos de todo peso⸣: En los escritos grecorromanos, una carrera simboliza la necesidad de perseverancia en la vida. Así como el peso adicional frena a un corredor, el ⸢pecado que tan fácilmente nos enreda⸣ nos impide vivir por fe.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0ecdfb7986bd",
+  "text_es_2": "⸢tan grande nube de testigos⸣: Los muchos seguidores fieles de Dios (Hebreos 11) muestran que Dios recompensa una vida de fe. ⸢despojémonos de todo peso⸣: En los escritos grecorromanos, una carrera simboliza la necesidad de perseverancia en la vida. Así como el peso extra hace más lento al corredor, el ⸢pecado … que fácilmente nos asedia⸣ nos impide vivir por fe.",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "hcf:Clement of Rome/Hebrews 12_1#0": {
+  "text_es": "Así, la humildad y la sumisión piadosa de hombres tan grandes e ilustres han mejorado no solo a nosotros, sino también a todas las generaciones anteriores; a cuantos han recibido sus oráculos con temor y verdad. Por tanto, teniendo ante nosotros tantos y tan grandes y gloriosos ejemplos, volvamos de nuevo a la práctica de aquella paz que desde el principio fue la meta puesta delante de nosotros; y miremos fijamente al Padre y Creador del universo, y adhirámonos a sus poderosos y sobremanera grandes dones y beneficios de paz. Contemplémoslo con nuestro entendimiento, y miremos con los ojos de nuestra alma su voluntad longánime. Reflexionemos cuán libre de ira está hacia toda su creación.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c6d1857b6c5b",
+  "text_es_2": "Así, la humildad y la sumisión piadosa de hombres tan grandes e ilustres no solo nos han hecho mejores a nosotros, sino también a todas las generaciones anteriores; a cuantos han recibido sus oráculos con temor y verdad. Por tanto, teniendo delante de nosotros tan grandes y gloriosos ejemplos, volvamos de nuevo a la práctica de aquella paz que desde el principio fue la meta puesta delante de nosotros; y miremos fijamente al Padre y Creador del universo, y permanezcamos unidos a sus poderosos y sobremanera grandes dones y beneficios de paz. Contemplémoslo con nuestro entendimiento, y miremos con los ojos de nuestra alma su voluntad de longanimidad. Reflexionemos cuán libre de ira está hacia toda su creación.",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "hcf:John Chrysostom/Hebrews 12_1#0": {
+  "text_es": "«Por tanto» (dice) «también nosotros, estando rodeados de tan grande nube de testigos». En muchos lugares la Escritura deriva su consuelo en los males de cosas correspondientes. Como cuando el profeta dice: «Del calor abrasador, y de la tempestad, y de la lluvia» (Isa. iv. 6). Esto al menos dice también aquí, que la memoria de aquellos santos varones restablece y recupera el alma que había sido agobiada por las aflicciones, como una nube hace con quien es quemado por los rayos demasiado ardientes del sol.\n\nY no dijo: «levantada en alto sobre nosotros», sino: «rodeándonos», lo cual era más que lo otro; de modo que estamos en mayor seguridad.\n\n¿Qué clase de «nube»? «Una carga de testigos». Con razón llama «testigos» [o «mártires»] no solo a los del Nuevo Testamento, sino también a los del Antiguo. Pues también ellos fueron testigos de la grandeza de Dios, como por ejemplo, los Tres Jóvenes, los que estaban con Elías, todos los profetas.\n\n«Dejando todo». «Todo»: ¿qué? Es decir, el sueño, la indiferencia, los razonamientos mezquinos, todas las cosas humanas.\n\n«Y el pecado que tan fácilmente nos asedia»; euperistaton, es decir, o bien «que fácilmente nos circunda», o «que puede fácilmente ser evitado», pero más bien esto último. Pues es fácil, si queremos, vencer el pecado.\n\n«Corramos con paciencia» (dice) «la carrera que tenemos por delante». No dijo: Contendamos como boxeadores, ni: Luchemos, ni: Hagamos batalla: sino que, lo más ligero de todo, la prueba de la carrera a pie, esto ha presentado. Ni tampoco dijo: Añadamos a la longitud del recorrido; sino: Perseveremos pacientemente en esto, no desmayemos. «Corramos» (dice) «la carrera que tenemos por delante».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "cb1539ea15a8",
+  "text_es_2": "«Por tanto» (dice) «nosotros también, teniendo en derredor nuestro tan grande nube de testigos». En muchos lugares la Escritura deriva su consuelo en los males de cosas correspondientes. Como cuando el profeta dice: «Del calor ardiente, y de la tempestad, y de la lluvia». (Isaías 4:6.) Esto al menos lo dice también aquí: que la memoria de aquellos santos varones restablece y recupera el alma que había sido agobiada por las aflicciones, como la nube hace con el que es quemado por los rayos demasiado ardientes del sol.\n\nY no dijo: «suspendida en alto sobre nosotros», sino: «que nos rodea»; lo cual era más que lo otro, de modo que estamos en mayor seguridad.\n\n¿Qué clase de «nube»? «Una muchedumbre de testigos». Con razón llama «testigos» [o «mártires»] no solo a los del Nuevo Testamento, sino también a los del Antiguo. Pues también ellos fueron testigos de la grandeza de Dios, como, por ejemplo, los Tres Jóvenes, los que estaban con Elías, todos los profetas.\n\n«Dejando todas las cosas». ¿«Todas»? Es decir, el sueño, la indiferencia, los razonamientos viles, todas las cosas humanas.\n\n«Y el pecado que tan fácilmente nos asedia»; euperistaton, esto es, o bien «que fácilmente nos rodea y engaña», o bien «lo que puede fácilmente ser evitado»; pero más bien esto último. Porque es fácil, si queremos, vencer el pecado.\n\n«Corramos con paciencia» (dice) «la carrera que nos es propuesta». No dijo: Luchemos como boxeadores, ni: Luchemos cuerpo a cuerpo, ni: Hagamos batalla; sino que, lo más ligero de todo, la prueba de la carrera a pie, esto ha presentado. Ni tampoco dijo: Añadamos a la longitud del recorrido; sino: Perseveremos con paciencia en esto, no desmayemos. «Corramos» (dice) «la carrera que nos es propuesta».",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "aquifer:13175": {
+  "text_es": "Jesús es el ejemplo supremo de mantenerse fiel (Hebreos 3:1). Para perseverar en la vida cristiana, debemos enfocarnos en Jesús y en su obra por nosotros. ⸢Jesús, el autor y consumador de nuestra fe⸣: Jesús ha hecho todo lo necesario para que la fe sea real bajo el nuevo pacto. ⸢menospreciando su vergüenza⸣: La crucifixión (morir en una cruz) era la forma más vergonzosa de ejecutar a alguien. Se usaba para humillar y torturar a la persona crucificada. Se usaba solo para esclavos y criminales que no eran ciudadanos romanos. Cristo ignoró esa vergüenza. ⸢se sentó a la diestra del trono de Dios⸣: El autor se refiere de nuevo al Salmo 110:1 (véase también Hebreos 1:3, 13; 8:1; 10:12).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6e2474dbf857"
+ },
+ "hcf:Cyril of Jerusalem/Hebrews 12_2#0": {
+  "text_es": "No predicamos una sola venida de Cristo, sino también una segunda, mucho más gloriosa que la primera. La primera nos dio un espectáculo de su paciencia; la segunda traerá consigo la corona del reino de Dios. En general, todas las cosas son dobles en nuestro Señor Jesucristo. Su nacimiento es doble: uno de Dios antes de los siglos, y otro de una virgen en la consumación de los siglos. Su descenso es doble: uno humilde, «como la lluvia sobre el vellón», y un segundo, su venida manifiesta, que aún ha de ser. En su primera venida fue envuelto en pañales en el pesebre; en su segunda será «vestido de luz como con un manto». En su primera venida «sufrió la cruz, menospreciando la vergüenza»; en su segunda vendrá en gloria, acompañado de una multitud de ángeles. No nos detenemos, por tanto, en su primera venida, sino que esperamos también la segunda. Así como dijimos de su primera venida: «Bendito el que viene en el nombre del Señor», lo mismo repetiremos en su segunda.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7d73fa2f33ad"
+ },
+ "hcf:John Chrysostom/Hebrews 12_2#0": {
+  "text_es": "En el siguiente lugar, como el resumen y la sustancia de su exhortación, que pone tanto al principio como al final, incluso Cristo. «Puestos los ojos» (dice) «en Jesús, el Autor y Consumador de nuestra fe»; Lo mismo que Cristo mismo también dijo continuamente a sus discípulos: «Si al señor de la casa han llamado Beelzebub, ¿cuánto más a los de su casa?» (Mat. x. 25). Y de nuevo: «El discípulo no es más que su maestro, ni el siervo más que su señor» (Mat. x. 24).\n\n«Puestos los ojos» (dice), es decir, para que aprendamos a correr. Pues como en todas las artes y juegos, imprimimos el arte en nuestra mente mirando a nuestros maestros, recibiendo ciertas reglas a través de nuestra vista, así también aquí, si deseamos correr, y aprender a correr bien, miremos a Cristo, incluso a Jesús «el autor y consumador de nuestra fe». ¿Qué es esto? Él ha puesto la Fe dentro de nosotros. Pues dijo a sus discípulos: «No me elegisteis vosotros a mí, mas yo os elegí a vosotros» (Juan xv. 16); y Pablo también dice: «Mas entonces conoceré, como también he sido conocido» (1 Cor. xiii. 12). Él puso el Principio en nosotros, Él también pondrá el Fin.\n\n«Quien», dice, «por el gozo que le estaba propuesto, sufrió la cruz, menospreciando la vergüenza». Es decir, estaba en su poder no sufrir en absoluto, si así lo quería. Pues «no hizo pecado, ni se halló engaño en su boca» (1 Ped. ii. 22); como también dice en los Evangelios: «Viene el príncipe de este mundo y nada tiene en mí» (Juan xiv. 30). Estaba entonces en su poder, si así lo quería, no llegar a la cruz. Pues «tengo poder», dice, «para poner mi vida, y tengo poder para volverla a tomar» (Juan x. 18). Si entonces quien no estaba bajo ninguna necesidad de ser crucificado, fue crucificado por nosotros, ¡cuánto más es justo que nosotros soportemos todas las cosas con nobleza!\n\n«Quien por el gozo que le estaba propuesto» (dice) «sufrió la cruz, menospreciando la vergüenza». Pero ¿qué es «menospreciando la vergüenza»? Eligió, quiere decir, aquella muerte ignominiosa. Pues supongamos que murió. ¿Por qué había de morir también ignominiosamente? Por ninguna otra razón, sino para enseñarnos a no hacer caso de la gloria de los hombres. Por tanto, aunque no estaba obligado, lo eligió, enseñándonos a ser valientes contra ella, y a tenerla en nada. ¿Por qué dijo no «dolor», sino «vergüenza»? Porque no fue con dolor que soportó estas cosas.\n\n¿Cuál es entonces el fin? «Se sentó a la diestra del trono de Dios». ¿Ves el premio que Pablo también dice en una epístola: «Por lo cual Dios también le ensalzó soberanamente, y le dio un nombre que es sobre todo nombre, para que en el nombre de Jesús se doble toda rodilla» (Fil. ii. 9, 10). Habla en relación con la carne. Bien entonces, incluso si no hubiera premio, el ejemplo bastaría para persuadirnos de aceptar todas estas cosas. Pero ahora también se nos proponen premios, y estos no comunes, sino grandes e indecibles.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "108cb4b39e7d"
+ },
+ "aquifer:13176": {
+  "text_es": "Considerad toda la hostilidad que él soportó de parte de los pecadores. Los destinatarios de Hebreos estaban cansados y listos para rendirse. Estaban agotados emocionalmente debido a la persecución que enfrentaban. Para perseverar, necesitaban enfocarse en Jesús, quien había enfrentado una hostilidad aún mayor.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d856dcfdd4d8"
+ },
+ "hcf:John Chrysostom/Hebrews 12_3#0": {
+  "text_es": "«Considerad», dice, «a aquel que sufrió tal contradicción de los pecadores contra sí mismo, para que no os canséis ni desmayéis en vuestras mentes». Pues si los sufrimientos de los que están cerca de nosotros nos despiertan, ¡qué diligencia no nos darán los de nuestro Maestro! ¡Qué no obrarán en nosotros!\n\nY pasando por alto todo lo demás, expresó el conjunto con la palabra «Contradicción»; y añadiendo «tal». Pues los golpes en la mejilla, las risas, los insultos, los reproches, las burlas, todas estas cosas las indicó con «contradicción». Y no solo estas, sino también las cosas que le acontecieron durante toda su vida, de enseñanza.\n\nPues un gran, verdaderamente gran consuelo son tanto los sufrimientos de Cristo como los de los Apóstoles. Pues Él sabía tan bien que este es el mejor camino de la virtud, que incluso anduvo él mismo por ese camino, no teniendo necesidad de ello: Sabía tan bien que la tribulación nos es provechosa, y que se convierte más bien en fundamento de reposo. Pues óyele decir: «Si alguno no toma su cruz y me sigue, no es digno de mí» (Mat. x. 38). Si eres discípulo, quiere decir, imita al Maestro; pues esto es ser discípulo. Pero si mientras Él anduvo por el camino de la aflicción, tú andas por el de la comodidad, ya no pisas el mismo camino que Él pisó, sino otro. ¿Cómo entonces sigues, cuando no sigues? ¿Cómo serás discípulo, no yendo tras el Maestro? Esto también dice Pablo: «Nosotros somos débiles, pero vosotros fuertes; nosotros despreciados, pero vosotros honrados» (1 Cor. iv. 10). ¿Cómo es razonable, quiere decir, que nosotros procuremos cosas opuestas, y que sin embargo vosotros seáis discípulos y nosotros maestros?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "61e242ddcffa"
+ },
+ "aquifer:13177": {
+  "text_es": "⸢aún no habéis resistido hasta derramar sangre⸣: Esta comunidad aún no había enfrentado morir por su fe. (Esta es una razón para datar Hebreos antes de la persecución de Nerón a mediados de los años 60 d. C.) Si Jesús pudo soportar una muerte vergonzosa, los oyentes deberían sobrellevar una persecución menos severa.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d9c3c3fb9ab3"
+ },
+ "hcf:Augustine of Hippo/Hebrews 12_4#0": {
+  "text_es": "Por breves períodos y en tiempos señalados, se ha dado poder a los demonios para incitar a las personas que controlan a ejercer una hostilidad tiránica contra la Ciudad de Dios. Así, no solo pueden recibir sacrificio de quienes lo ofrecen y buscarlo de los que están bien dispuestos, sino también extorsionarlo violentamente de los que no quieren, por medio de persecuciones. Sin embargo, este poder no es una amenaza para la Iglesia, sino más bien una ventaja, ya que ayuda a completar el número de sus mártires. Y a estos la Ciudad de Dios los estima como sus ciudadanos más ilustres y honrados, precisamente porque han resistido a los impíos con tanto valor, incluso «hasta derramar sangre, combatiendo contra el pecado».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f988752f862e"
+ },
+ "hcf:John Chrysostom/Hebrews 12_4#0": {
+  "text_es": "Hay dos clases de consuelo, aparentemente opuestos entre sí, pero que sin embargo se fortalecen mutuamente; ambos los ha presentado aquí. El uno es cuando decimos que las personas han sufrido mucho: pues el alma se reanima cuando tiene muchos testigos de sus propios sufrimientos, y esto lo introdujo más arriba, diciendo: «Traed a la memoria los días pasados, en los cuales después que fuisteis iluminados, sufristeis gran combate de aflicciones». El otro es cuando decimos: «No has sufrido cosa grande». El primero, cuando el alma se ha agotado, la reanima y le hace recobrar aliento; el segundo, cuando se ha vuelto indolente y supina, la vuelve a levantar y derriba su orgullo. Así, para que no surja en ellos orgullo por ese testimonio de sus sufrimientos, mira lo que hace. «Aún no» (dice) «habéis resistido hasta la sangre, combatiendo contra el pecado». Y no pasó de inmediato a lo que sigue, sino que después de haberles mostrado a todos los que estuvieron «hasta la sangre», y luego haber introducido la gloria de Cristo, sus sufrimientos, después prosiguió fácilmente su discurso. Esto mismo dice también al escribir a los Corintios: «No os ha tomado tentación, sino humana», es decir, pequeña. Pues esto es suficiente para despertar y enderezar el alma, cuando considera que no ha llegado a la prueba completa, y se anima a sí misma por lo que ya le ha sobrevenido.\n\nLo que quiere decir es esto: Aún no os habéis sometido a la muerte; vuestra pérdida se ha extendido al dinero, a la reputación, a ser arrojados de un lugar a otro. Cristo, sin embargo, derramó su sangre por vosotros, mientras que vosotros no lo habéis hecho por vosotros mismos. Él contendió por la Verdad incluso hasta la muerte, luchando por vosotros; mientras que vosotros aún no habéis entrado en peligros que amenacen la muerte.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "243135bb6064"
+ },
+ "hcf:John Chrysostom/Hebrews 12_4#1": {
+  "text_es": "«Aún no», dijo, «habéis resistido hasta la sangre, combatiendo contra el pecado». Aquí indica que el pecado es muy vigoroso y que él mismo está armado. Pues la expresión «Habéis resistido [os mantuvisteis firmes contra]» se usa con referencia a los que se mantienen firmes.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1b2ffc9cfdcd"
+ },
+ "aquifer:13178": {
+  "text_es": "Estos versículos citan Proverbios 3:11–12, que ve la adversidad como la disciplina amorosa de Dios para sus hijos. Dios puede usar muchas pruebas y desafíos para nuestro beneficio, enseñándonos justicia y buen carácter.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "69af7cd46d6d"
+ },
+ "hcf:Clement of Alexandria/Hebrews 12_5#0": {
+  "text_es": "Y Sara la afligió; lo cual equivale a la corrigió y amonestó. Por lo tanto, bien se ha dicho: «Hijo mío, no desprecies la corrección de Dios; ni desmayes cuando eres reprendido por Él. Porque el Señor al que ama castiga, y azota a todo el que recibe por hijo». Y las Escrituras antes mencionadas, cuando se examinan en otros lugares, se verá que presentan otros misterios. Solo afirmamos aquí, por tanto, que la filosofía se caracteriza por la investigación de la verdad y la naturaleza de las cosas (esta es la verdad de la cual el Señor mismo dijo: «Yo soy la verdad»); y que, de nuevo, el entrenamiento preparatorio para el reposo en Cristo ejercita la mente, despierta la inteligencia y engendra una sagacidad inquisitiva, por medio de la verdadera filosofía, que los iniciados poseen, habiéndola encontrado, o más bien recibido, de la verdad misma.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f542f22effaf"
+ },
+ "hcf:John Chrysostom/Hebrews 12_5#0": {
+  "text_es": "«Y os habéis olvidado de la exhortación». Es decir: Y habéis aflojado vuestras manos, os habéis vuelto débiles.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d8147ec6429f"
+ },
+ "hcf:John Chrysostom/Hebrews 12_5#1": {
+  "text_es": "«La cual» (dice) «habla con vosotros como con hijos: Hijo mío, no desprecies el castigo del Señor, ni desmayes cuando eres reprendido por Él». Ha extraído su ánimo de los hechos mismos; además añade también lo que se extrae de los argumentos, de este testimonio.\n\n«No desmayes» (dice) «cuando eres reprendido por Él». De ello se sigue que estas cosas son de Dios. Pues esto también es un motivo de consuelo no pequeño, cuando aprendemos que es obra de Dios que tales cosas tengan poder, permitiéndolo Él; así como también dice Pablo: «Me dijo: Bástate mi gracia; porque mi potencia en la flaqueza se perfecciona». Él es quien las permite.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1c73afea7145"
+ },
+ "hcf:Tertullian/Hebrews 12_5#0": {
+  "text_es": "Además, si creemos que algunas aflicciones nos son enviadas por el Señor, ¿a quién deberíamos mostrar más paciencia que al Señor? Es más, Él nos enseña a dar gracias y a regocijarnos, sobre todo, por ser tenidos por dignos del castigo divino. «Al que amo», dice Él, «yo castigo». ¡Oh siervo bienaventurado, en cuya enmienda el Señor está empeñado! ¡con quien Él se digna estar airado! ¡a quien no engaña disimulando sus reprensiones! Por todos lados, por tanto, estamos obligados al deber de ejercer la paciencia, de cualquier parte que, ya sea por nuestros propios errores o por las asechanzas del Maligno, incurramos en las reprensiones del Señor.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "895958ca5eaa",
+  "corregido_por_juez": "La cita «Whom I love» está en singular, pero se traduce como «A los que amo» en plural; corresponde «Al que amo»."
+ },
+ "hcf:John Chrysostom/Hebrews 12_6#0": {
+  "text_es": "«Porque el Señor al que ama castiga, y azota a todo el que recibe por hijo». No puedes decir que algún justo esté sin aflicción; aunque parezca estarlo, sin embargo no conocemos sus otras aflicciones. De modo que por necesidad todo justo debe pasar por aflicción. Pues es una declaración de Cristo, que el camino ancho y espacioso lleva a la perdición, pero el estrecho y angosto a la vida. Si entonces es posible entrar en la vida por ese medio, y no por ningún otro, entonces todos han entrado por el camino estrecho, cuantos han partido hacia la vida.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "bc66cfcfc074"
+ },
+ "aquifer:13179": {
+  "text_es": "⸢disciplina … Dios os trata como a hijos⸣: Los padres en las familias grecorromanas y judías desempeñaban un papel clave en la crianza de sus hijos. Creían que la disciplina era esencial para preparar a los hijos para la edad adulta. La disciplina paterna, en este caso enfrentar dificultades en la vida, es una señal de relación legítima. No tener que enfrentar dificultades puede en la superficie parecer una bendición, pero en cambio podría reflejar una falta de relación genuina.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ca64abf7eeb1"
+ },
+ "hcf:John Chrysostom/Hebrews 12_7#0": {
+  "text_es": "«Sufrís el castigo» (dice); no para castigo, ni para venganza, ni para sufrimiento. Mira, de aquello de lo que suponían haber sido abandonados por Dios, de eso mismo dice que pueden estar seguros, de que no han sido abandonados. Es como si hubiera dicho: Porque habéis sufrido tantos males, ¿suponéis que Dios os ha dejado y os aborrece? Si no sufrierais, entonces sería correcto suponer esto. Pues si «azota a todo el que recibe por hijo», el que no es azotado, quizá no es hijo. ¿Qué entonces, dices, no sufren angustia los malos? Ciertamente sufren; ¿cómo entonces? No dijo: Todo el que es azotado es hijo, sino todo hijo es azotado. Pues en todos los casos Él azota a su hijo: lo que se quiere entonces es mostrar si algún hijo no es azotado. Pero no podrías decir: también hay muchos malvados que son azotados, como asesinos, ladrones, hechiceros, saqueadores de sepulcros. Sin embargo, estos están pagando la pena de su propia maldad, y no son azotados como hijos, sino castigados como malvados; pero vosotros como hijos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ab391f3c4ef6"
+ },
+ "hcf:Apostolic Constitutions/Hebrews 12_8#0": {
+  "text_es": "Pero si alguno es perseguido maliciosamente por los paganos, porque no quiere seguir acompañándolos en el mismo exceso de desenfreno, sepa que tal persona es bendecida por Dios, conforme a lo que nuestro Señor dice en el Evangelio: «Bienaventurados seréis cuando los hombres os vituperen, o os persigan, o digan todo mal contra vosotros falsamente, por mi causa. Gozaos y alegraos, porque vuestro galardón es grande en los cielos». Si, por tanto, alguno es calumniado y acusado falsamente, tal persona es bendecida; pues la Escritura dice: «El hombre reprobado no es probado por Dios». Pero si alguno es convicto de haber hecho una acción malvada, tal persona no solo se daña a sí misma, sino que ocasiona que todo el cuerpo de la Iglesia y su doctrina sean blasfemados; como si nosotros los cristianos no practicáramos aquellas cosas que declaramos buenas y honestas, y nosotros mismos seremos reprendidos por el Señor, porque «dicen y no hacen». Por lo cual el obispo debe rechazar con valentía a tales personas tras plena convicción, a menos que cambien su curso de vida.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "100e047bcaec"
+ },
+ "hcf:John Chrysostom/Hebrews 12_8#0": {
+  "text_es": "Luego de nuevo argumenta desde la costumbre general. ¿Ves cómo presenta argumentos de todas partes, de los hechos en la Escritura, de sus palabras, de nuestras propias nociones, de ejemplos en la vida ordinaria? «Pero si estáis sin castigo» y así sucesivamente. ¿Ves que dijo lo que acabo de mencionar, que no es posible ser hijo sin ser castigado? Pues como en las familias, los padres no se preocupan por los bastardos, aunque no aprendan nada, aunque no se distingan, pero temen por sus hijos legítimos no sea que se vuelvan indolentes, así aquí. Si entonces no ser castigado es marca de bastardos, debemos regocijarnos por el castigo, si esta es señal de legitimidad. «Dios os trata como a hijos»; por esta misma causa.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d7ffa40db962"
+ },
+ "aquifer:13180": {
+  "text_es": "El autor usa una comparación de menor a mayor (ver nota de estudio sobre Hebreos 9:14). La situación menor es el respeto dado a un padre terrenal durante la disciplina. Deberíamos someternos aún más a la disciplina del Padre de los espíritus en nuestra relación con Dios. Deberíamos estar abiertos a Dios como un buen Padre, confiando en que él nos ayuda a crecer, incluso en tiempos difíciles.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fe6f81c324b0"
+ },
+ "hcf:John Chrysostom/Hebrews 12_9#0": {
+  "text_es": "«Además, hemos tenido padres de nuestra carne que nos corrigieron, y les dimos reverencia». De nuevo, razona desde sus propias experiencias, desde lo que ellos mismos sufrieron. Pues como dice arriba: «Traed a la memoria los días pasados», así también aquí «Dios» (dice) «os trata como a hijos», y no podríais decir: No podemos soportarlo; sí, «como a hijos» tiernamente amados. Pues si reverencian a sus «padres de la carne», ¿cómo no reverenciaréis a vuestro Padre celestial?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d14811b97cb0"
+ },
+ "hcf:John Chrysostom/Hebrews 12_9#1": {
+  "text_es": "«Además», dice, «tuvimos padres de nuestra carne que nos corrigieron y les dimos reverencia: ¿no nos sujetaremos mucho más al Padre de los espíritus, y viviremos?» («Al Padre de los espíritus», ya sea de los dones espirituales, o de las oraciones, o de las potestades incorpóreas.) Si morimos así, entonces «viviremos. Porque ellos a la verdad por pocos días nos castigaron como les parecía», pues lo que parece no siempre es provechoso, pero «Él para nuestro provecho».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "449a458ed38e"
+ },
+ "aquifer:13158": {
+  "text_es": "Hay al menos dos límites en la disciplina de un padre: su disciplina o educación dura solo unos pocos años—los hijos finalmente dejan el hogar. Los padres hacen lo mejor que pueden con entendimiento limitado. En contraste, la disciplina de Dios dura toda la vida y siempre es beneficiosa, basada en su conocimiento y amor infinitos. Su meta es que compartamos su santidad. Aunque la disciplina es dolorosa, conduce a una vida pacífica de hacer lo recto. Ayuda a los hijos de Dios a construir relaciones armoniosas y a tomar buenas decisiones (véase también Romanos 5:3–4; 8:17, 28; 2 Corintios 4:17; Filipenses 1:12–14; Santiago 1:2–4; 1 Pedro 1:7; 4:14).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fc161e0d9a47"
+ },
+ "hcf:John Chrysostom/Hebrews 12_10#0": {
+  "text_es": "Sin embargo, la diferencia no surge solo de esto, ni de las personas, sino también de la causa misma y del hecho. Porque no sobre las mismas bases infligen el castigo Él y ellos: sino que ellos lo hacían con miras a «lo que les parecía bien», es decir, cumpliendo su propio placer muchas veces, y no siempre mirando lo que era conveniente. Pero aquí eso no puede decirse. Porque Él hace esto no por algún interés propio, sino por ti, y por tu beneficio solamente. Ellos lo hacían para que también vosotros les fuerais útiles a ellos mismos, muchas veces sin razón; pero aquí no hay nada de esto. ¿Ves que esto también trae consuelo? Porque estamos más íntimamente unidos a aquellos padres terrenales cuando vemos que no por algún interés propio nos mandan o nos aconsejan; sino que su empeño es, total y únicamente, por causa nuestra. Porque esto es amor genuino, y amor en realidad, cuando somos amados aunque no seamos de utilidad para quien nos ama—no para que él reciba, sino para que él imparta. Él castiga, Él hace todo, Él usa toda diligencia, para que lleguemos a ser capaces de recibir sus beneficios. «Porque ellos a la verdad» (dice) «por pocos días nos castigaron como les parecía, pero Él para nuestro provecho, para que fuésemos participantes de su santidad».\n\n¿Qué es «de su santidad»? Es, de su pureza, para llegar a ser dignos de Él, según nuestra capacidad. Él desea ardientemente que recibáis, y hace todo para poder daros: ¿no os esforzáis vosotros ardientemente por recibir? «Dije al Señor», dice uno, «Tú eres mi Señor, porque de mis bienes no tienes necesidad».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "be37754b1d70"
+ },
+ "hcf:John Chrysostom/Hebrews 12_10#1": {
+  "text_es": "Por tanto, el castigo es «provechoso»; por tanto, el castigo es una «participación de santidad». Sí, y esto en gran manera: porque cuando expulsa la pereza, y el mal deseo, y el amor a las cosas de esta vida, cuando ayuda al alma, cuando causa una ligera estima de todas las cosas de aquí (pues la aflicción hace esto), ¿no es santo? ¿No atrae la gracia del Espíritu?\n\nConsideremos a los justos, de qué causa todos resplandecieron. ¿No fue de la aflicción? Y, si queréis, enumerémoslos desde el primero y desde el mismo principio: Abel, el mismo Noé; pues no es posible que él, siendo el único en aquella tan grande multitud de malvados, no hubiera sido afligido; porque se dice: «Noé, siendo solo perfecto en su generación, agradó a Dios». Porque considerad, os ruego, si ahora, cuando tenemos innumerables personas cuya virtud podemos emular, padres, e hijos, y maestros, estamos así angustiados, ¿qué debemos suponer que sufrió él, solo entre tantos? ¿Pero debería hablar de las circunstancias de aquella extraña y maravillosa lluvia? ¿O debería hablar de Abraham, sus peregrinaciones una tras otra, el llevarse a su esposa, los peligros, las guerras, las hambres? ¿Debería hablar de Isaac, qué cosas terribles soportó, expulsado de todo lugar, y trabajando en vano, y afanándose por otros? ¿O de Jacob? Pues en verdad no es necesario enumerar todas sus aflicciones, pero es razonable traer el testimonio que él mismo dio cuando hablaba con Faraón: «Pocos y malos han sido los días de mi vida, y no han llegado a los días de mis padres». ¿O debería hablar del mismo José? ¿O de Moisés? ¿O de Josué? ¿O de David? ¿O de Elías? ¿O de Samuel? ¿O querrías que hable de todos los profetas? ¿No encontrarás que todos estos se hicieron ilustres por sus aflicciones? Dime entonces, ¿deseas hacerte ilustre por la comodidad y el lujo? Pero no puedes.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f58de7cce204"
+ },
+ "hcf:Cosmas Indicopleustes/Hebrews 12_11#1": {
+  "text_es": "Toda disciplina, por el presente parece no ser gozosa sino penosa; pues sin disciplina y sufrimiento es imposible que haya aprendizaje. Con el propósito de la disciplina, por tanto, Él hizo este mundo mortal y mudable y diversificado, a fin de que por la aflicción del aprendizaje y la variedad del universo, podamos, mediante esta experiencia, ascender al conocimiento de Dios.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b409e6782ea1"
+ },
+ "hcf:John Chrysostom/Hebrews 12_11#0": {
+  "text_es": "Los que beben medicinas amargas, primero se someten a alguna molestia, y después sienten el beneficio. Porque tal es la virtud, tal el vicio. En este último hay primero el placer, luego el desánimo: en la primera primero el desánimo, y luego el placer. Pero no hay igualdad; pues no es lo mismo ser primero entristecido y después complacido, que ser primero complacido y después entristecido. ¿Cómo es eso? Porque en el último caso la expectativa del desánimo venidero hace menor el placer presente; pero en el primero la expectativa del placer venidero corta la violencia del desánimo presente; de modo que el resultado es que en uno nunca tenemos placer, en el otro nunca tenemos tristeza.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "417d2cd9dd23"
+ },
+ "hcf:John Chrysostom/Hebrews 12_11#1": {
+  "text_es": "Estáis sufriendo, dice. Pues tal es el castigo; tal es su comienzo. Porque «ningún castigo al presente parece ser de gozo, sino de tristeza». Bien dijo: «parece», no «es». El castigo, quiere decir, no es penoso, sino que «parece» serlo. «Todo castigo»: no este y aquel, sino «todo», tanto humano como espiritual. ¿Ves que argumenta a partir de nuestras nociones comunes? «Parece» (dice) «ser penoso», de modo que en realidad no lo es. Porque ¿qué clase de dolor produce gozo? Así tampoco el placer produce abatimiento.\n\n«Mas después da fruto apacible de justicia a los que en ella han sido ejercitados». No «fruto» sino «frutos», una gran abundancia.\n\n«A los que» (dice) «han sido ejercitados en ella». ¿Qué es «a los que han sido ejercitados en ella»? A los que han soportado por largo tiempo y han sido pacientes. Y usa una expresión favorable. Así pues, el castigo es ejercicio, que hace al atleta fuerte e invencible en los combates, irresistible en las guerras.\n\nSi, pues, «todo castigo» es tal, también este lo será: de modo que debemos esperar cosas buenas y un fin dulce y apacible. Y no te maravilles si, siendo en sí mismo duro, tiene frutos dulces; pues también en los árboles la corteza carece casi por completo de toda cualidad y es áspera, pero los frutos son dulces. Pero lo tomó de la noción común. Si, por tanto, debemos esperar tales cosas, ¿por qué os afligís? ¿Por qué, después de haber soportado lo penoso, os desanimáis en cuanto al bien? Las cosas desagradables que teníais que soportar, las soportasteis: no os desaniméis, pues, en cuanto a la recompensa.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d8505548fb65",
+  "corregido_por_juez": "Traduce mal «Well said he, 'seemeth,' not 'is'» como «Bien dijo: 'no parece'»; debe decir que dijo «parece», no «es», y el texto siguiente lo contradice."
+ },
+ "aquifer:13159": {
+  "text_es": "El autor, refiriéndose a Isaías 35:3–8 y Proverbios 4:26, ofrece apoyo a quienes se sienten emocional y espiritualmente agotados. Isaías 35 dice que Dios siempre está obrando para derrotar a sus enemigos y crear un camino claro para las personas justas, de modo que no tropiecen.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c0d69792d81e"
+ },
+ "hcf:John Chrysostom/Hebrews 12_12-13#0": {
+  "text_es": "Habla como a corredores, y boxeadores, y guerreros. ¿Ves cómo los arma, cómo los anima? «Andad derecho», dice. Aquí habla con referencia a sus pensamientos; es decir, no dudando. Porque si el castigo es de amor, si comienza por cuidado amoroso, si termina con un buen resultado (y esto lo prueba tanto por hechos como por palabras, y por todas las consideraciones), ¿por qué estáis desanimados? Porque tales son los que desesperan, los que no son fortalecidos por la esperanza del futuro. «Andad derecho», dice, para que vuestra cojera no aumente, sino que sea restaurada a su condición anterior. Pues el que corre cuando está cojo, irrita la llaga. ¿Ves que está en nuestro poder ser completamente sanados?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5195144de2e9"
+ },
+ "aquifer:13160": {
+  "text_es": "Las personas que viven una vida santa tienen esperanza confiada de ver al Señor (véase 1 Juan 2:28; 3:21; 4:17).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8a80763167a0"
+ },
+ "hcf:Augustine of Hippo/Hebrews 12_14#0": {
+  "text_es": "Muchos preceptos cuidadosos nos han sido dados, como los concernientes al perdón mutuo y al fomento de esa paz que es la condición misma de ver a Dios. Basta recordar el temible mandato dado al siervo de pagar la deuda de diez mil talentos, de la cual había sido liberado, porque no había liberado a su consiervo de la deuda que le debía de cien denarios. Cuando el Señor propuso esta parábola, añadió las palabras: «Así también mi Padre celestial hará con vosotros, si no perdonáis de vuestro corazón cada uno a su hermano».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3aebee682163"
+ },
+ "hcf:Clement of Alexandria/Hebrews 12_14-16#0": {
+  "text_es": "Con gracia, por tanto, el apóstol dice en la Epístola a Tito, «que las ancianas sean de conducta piadosa, no calumniadoras, no esclavas de mucho vino; que aconsejen a las jóvenes a ser amadoras de sus maridos, amadoras de sus hijos, prudentes, castas, amas de casa, buenas, sujetas a sus propios maridos; para que la palabra de Dios no sea blasfemada». Sino más bien, dice: «Seguid la paz con todos, y la santidad, sin la cual nadie verá al Señor: mirando bien, no sea que haya algún fornicario o profano, como Esaú, que por una sola comida vendió su primogenitura; y no sea que alguna raíz de amargura, brotando, os perturbe, y por ella muchos sean contaminados». Y luego, como dando el toque final a la cuestión sobre el matrimonio, añade: «Honroso es en todos el matrimonio, y el lecho sin mancilla; pero a los fornicarios y a los adúlteros juzgará Dios».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1b456b60fd91"
+ },
+ "hcf:John Chrysostom/Hebrews 12_14#0": {
+  "text_es": "«Seguid la paz con todos, y la santidad, sin la cual nadie verá al Señor.» Lo que también dijo arriba: «No dejando de congregaros» (c. x. 25), lo insinúa también en este lugar. Pues nada hace tan fácilmente vencidos y sometidos a los hombres en las tentaciones como el aislamiento. Porque, dime, dispersa una falange en la guerra, y el enemigo no necesitará molestia alguna, sino que los tomará prisioneros, atacándolos por separado, y por ello tanto más indefensos. «Seguid la paz con todos, y la santidad» (dice). ¿Por tanto también con los malhechores? «Si es posible», dice, «en cuanto de vosotros dependa, vivid en paz con todos los hombres.» (Rom. xii. 18.) Por tu parte (quiere decir) «vive en paz», no haciendo daño a la religión; pero en cualquier cosa en que seas maltratado, sopórtala noblemente. Pues el soportar el mal es una gran arma en las pruebas. Así también Cristo fortaleció a sus discípulos diciendo: «He aquí yo os envío como ovejas en medio de lobos: sed pues prudentes como serpientes, y sencillos como palomas.» (Mat. x. 16.) ¿Qué dices? ¿Estamos «entre lobos», y nos mandas ser «como ovejas» y «como palomas»? Sí, dice Él. Pues nada avergüenza tanto al que nos hace mal como el soportar noblemente las cosas que se nos sobrevienen: y el no vengarnos ni de palabra ni de obra. Esto tanto nos hace más filosóficos a nosotros mismos como nos procura un mayor galardón, y también les beneficia a ellos. Pero ¿ha sido insolente alguno? Bendícele tú. Mira cuánto ganarás con esto: has apagado el mal, te has procurado un galardón, le has avergonzado, y no has sufrido nada grave.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "c15f219e4057"
+ },
+ "hcf:John Chrysostom/Hebrews 12_14#1": {
+  "text_es": "«Seguid la paz con todos, y la santidad.» ¿Qué quiere decir con «santidad»? Casta y ordenada vida en el matrimonio. Si alguna persona es soltera (dice), que permanezca pura, que se case: o si está casada, que no fornique, sino que viva con su propia esposa: pues esto también es «santidad». ¿Cómo? El matrimonio no es «santidad», pero el matrimonio preserva la santidad que procede de la Fe, no permitiendo la unión con una ramera. Pues «honroso es el matrimonio» (c. xiii. 4), no santo. El matrimonio es puro: sin embargo no da también santidad, excepto por el hecho de prohibir la contaminación de aquella santidad que ha sido dada por nuestra Fe.\n\n«Sin la cual» (dice) «nadie verá al Señor.» Lo cual también dice en la Epístola a los Corintios. «No erréis: ni los fornicarios, ni los idólatras, ni los adúlteros, ni los afeminados, ni los que se echan con varones, ni los ladrones, ni los avaros, ni los borrachos, ni los maldicientes, ni los robadores, heredarán el reino de Dios.» (1 Cor. vi. 9, 10.) Pues ¿cómo el que se ha hecho cuerpo de una ramera, cómo podrá ser cuerpo de Cristo?",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6746d4f2d069"
+ },
+ "hcf:John Chrysostom/Hebrews 12_14#2": {
+  "text_es": "Muchas cosas son características del cristianismo: pero más que todas, y mejor que todas, el Amor mutuo y la Paz. Por tanto Cristo también dice: «Mi paz os doy.» Y de nuevo: «En esto conocerán todos que sois mis discípulos, si os amareis unos a otros.» Por tanto Pablo también dice: «Seguid la paz con todos, y la santidad», es decir, la pureza, «sin la cual nadie verá al Señor.»",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d5bbd7b2bc03"
+ },
+ "aquifer:13161": {
+  "text_es": "⸢raíz de amargura⸣: Esto se refiere a aquellas personas que abandonan el pacto de Dios para adorar a otros dioses (Deuteronomio 29:18). La amargura puede dañar a la iglesia.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2d9da6100390"
+ },
+ "hcf:John Chrysostom/Hebrews 12_15#0": {
+  "text_es": "«Mirando bien que ninguno se aparte de la gracia de Dios; que ninguna raíz de amargura brotando, os estorbe, y por ella muchos sean contaminados: que ninguno sea fornicario, o profano.» ¿Ves cómo en todas partes pone la salvación común en manos de cada individuo? «Exhortaos los unos a los otros cada día» (dice) «entre tanto que se dice: Hoy.» (c. iii. 13.) No echéis, pues, toda la carga sobre vuestros maestros; no la echéis toda sobre los que tienen el gobierno sobre vosotros: también vosotros (quiere decir) podéis edificaros unos a otros. Lo cual también dijo escribiendo a los Tesalonicenses: «Edificaos unos a otros, así como lo hacéis.» (1 Tes. v. 11.) Y de nuevo: «Consolaos unos a otros con estas palabras.» (1 Tes. iv. 18.) Esto también os exhortamos ahora.\n\nSi estáis dispuestos, tendréis más éxito entre vosotros que el que nosotros podemos tener. Pues vosotros estáis los unos con los otros por más tiempo, y sabéis más que nosotros de los asuntos de cada uno, y no ignoráis las faltas de cada uno, y tenéis más libertad de palabra, y amor, e intimidad; y estas no son pequeñas ventajas para la enseñanza, sino grandes y oportunas introducciones para ella: podréis más que nosotros tanto reprender como exhortar. Y no solo esto, sino porque yo soy uno solo, mientras que vosotros sois muchos; y podréis, por muchos que seáis, ser maestros. Por lo cual os ruego, no «descuides este don». (1 Tim. iv. 14.) Cada uno de vosotros tiene una esposa, tiene un amigo, tiene un siervo, tiene un vecino; reprenda a este, exhórtelo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fb4c865c252f"
+ },
+ "hcf:John Chrysostom/Hebrews 12_15#1": {
+  "text_es": "«Mirando bien que ninguno se aparte de la gracia de Dios.» Como si viajaran juntos en algún largo camino, en una gran compañía, dice: Mirad que ninguno se quede atrás: no busco solo esto, que lleguéis vosotros mismos, sino también que miréis diligentemente por los demás.\n\n«Que ninguno» (dice) «se aparte de la gracia de Dios.» (Quiere decir los bienes venideros, la fe del evangelio, el mejor curso de vida: pues todos ellos son de «la Gracia de Dios».) No me digas: Es [solo] uno el que perece. Por uno también murió Cristo. ¿No tienes cuidado de él «por quien Cristo murió»?\n\n«Mirando bien», dice, es decir, escudriñando cuidadosamente, considerando, averiguando a fondo, como se hace en el caso de los enfermos, y examinando de todas las maneras, averiguando a fondo. «Que ninguna raíz de amargura brotando, os estorbe.» Esto se encuentra en Deuteronomio; y lo derivó de la metáfora de las plantas. «Que ninguna raíz de amargura», dice; lo cual dijo también en otro lugar cuando escribe: «Un poco de levadura leuda toda la masa.» No por causa de él solo deseo esto, quiere decir, sino también a causa del daño que de ello surge. Es decir, aunque haya una raíz de esta clase, no sufráis que brote ningún retoño, sino que sea cortada, para que no dé sus propios frutos, y así no contamine y corrompa también a los demás. Pues, dice, «que ninguna raíz de amargura brotando, os estorbe; y por ella muchos sean contaminados.»\n\nY con buena razón llamó al pecado «amargo»: pues verdaderamente nada es más amargo que el pecado, y lo saben quienes después de haberlo cometido se consumen bajo su conciencia, quienes soportan mucha amargura. Pues siendo extremadamente amargo, pervierte la misma facultad de razonar. Tal es la naturaleza de lo amargo: es inútil.\n\nY bien dijo «raíz de amargura». No dijo «amarga», sino «de amargura». Pues es posible que una raíz amarga dé frutos dulces; pero no es posible que una raíz y fuente y fundamento de amargura dé jamás fruto dulce; pues todo es amargo, no tiene nada dulce, todos son amargos, todos desagradables, todos llenos de odio y abominación.\n\n«Y por ella» (dice) «muchos sean contaminados.» Es decir, Cortad a los lascivos.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "fdf22e4590b3"
+ },
+ "hcf:Methodius of Olympus/Hebrews 12_15#0": {
+  "text_es": "Por ahora reprimimos sus retoños, tales como los malos pensamientos, «que ninguna raíz de amargura brotando os estorbe»",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d038017c68da"
+ },
+ "aquifer:13162": {
+  "text_es": "Los escritos judíos antiguos describen a Esaú como sexualmente inmoral porque se casó con mujeres heteas, Judit y Basemat (Génesis 26:34; véase ⸢Jubileos⸣ 25:1; Filón, ⸢Sobre las virtudes⸣ 208). Esaú mostró falta de respeto por su primogenitura (Génesis 25:29–34), por lo cual fue considerado impío. Su elección de cambiar las bendiciones de Dios por la satisfacción inmediata muestra una falta de fe.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f46b8b23f484"
+ },
+ "hcf:John Chrysostom/Hebrews 12_16#0": {
+  "text_es": "«Que ninguno sea fornicario, o profano, como Esaú, que por una vianda vendió su primogenitura.»\n\n¿Y en qué fue Esaú «fornicario»? No dice que Esaú fuera fornicario. «Que ninguno sea fornicario», dice, luego, «seguid la santidad: que ninguno, como Esaú, sea profano»: es decir, glotón, sin dominio propio, mundano, vendiendo las cosas espirituales.\n\n«Que por una vianda vendió su primogenitura», quien por su propia pereza vendió este honor que tenía de Dios, y por un pequeño placer, perdió el mayor honor y gloria. Esto era adecuado para ellos. Esto [era la conducta] de un abominable, de un inmundo. De modo que no solo el fornicario es inmundo, sino también el glotón, el esclavo de su vientre. Pues él también es esclavo de un placer diferente. Se ve forzado a ser codicioso, se ve forzado a ser rapaz, a comportarse indecorosamente de diez mil maneras, siendo esclavo de aquella pasión, y a menudo blasfema. Así tuvo por nada «su primogenitura». Es decir, proveyendo para un refrigerio temporal, llegó incluso hasta el [sacrificio de su] «primogenitura». Así desde entonces «la primogenitura» nos pertenece a nosotros, no a los judíos. Y al mismo tiempo también esto se añade a su calamidad, que el primero se ha vuelto último, y el segundo, primero: el uno, por la valiente resistencia; el otro último por la indolencia.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "7fc4fae7f1dc"
+ },
+ "hcf:Philoxenus of Mabbug/Hebrews 12_16#0": {
+  "text_es": "Quienquiera, pues, que desee recorrer el camino del cielo debe desatar de sus pies las cadenas de las pasiones, y debe quitar todo peso de las alas de su mente, para que su persona pueda viajar con facilidad hacia la grandeza, y pueda oír la promesa del santo Pablo, quien nos enseñó y amonestó, diciendo: «Mirad que no haya entre vosotros algún hombre que sea lascivo o negligente como Esaú, que por una comida vendió su primogenitura; pues también cuando después deseó heredar las bendiciones, fue rechazado, pues no halló lugar de arrepentimiento, aunque lo buscó con lágrimas.»",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8617edf9ba12"
+ },
+ "aquifer:13163": {
+  "text_es": "El autor de Hebreos ve la falta de respeto de Esaú por su herencia (Hebreos 12:16) y su pérdida de la bendición (Génesis 27:30–40) como estrechamente conectadas. Esto le llevó a sus amargas lágrimas. Por extensión, aquellos que rechazan una herencia mediante el nuevo pacto de Cristo enfrentarán un futuro lleno de amargura.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5f00d6acb77a"
+ },
+ "hcf:John Chrysostom/Hebrews 12_17#0": {
+  "text_es": "«Porque sabéis» (dice) «que después, queriendo heredar la bendición, fue desechado. Porque no halló lugar de arrepentimiento, aunque lo buscó con lágrimas.» ¿Qué es esto ahora? ¿Acaso excluye el arrepentimiento? De ningún modo. Pero ¿cómo, dices, fue que «no halló lugar de arrepentimiento»? Porque si se condenó a sí mismo, si hizo un gran lamento, ¿por qué «no halló lugar de arrepentimiento»? Porque no era realmente un caso de arrepentimiento. Pues como el dolor de Caín no era de arrepentimiento, y el homicidio lo probó; así también en este caso, sus palabras no eran de arrepentimiento, y el homicidio posterior lo probó. Porque también él en intención mató a Jacob. Pues «Los días de luto por mi padre», dijo, «están cerca; entonces mataré a mi hermano Jacob.» Las «lágrimas» no tuvieron poder para darle «arrepentimiento». Y [el Apóstol] no dijo «por arrepentimiento» simplemente, sino incluso «con lágrimas, no halló lugar de arrepentimiento». ¿Por qué ahora? Porque no se arrepintió como debía, pues esto es arrepentimiento: no se arrepintió como le correspondía.\n\nPues ¿cómo es que él [el Apóstol] dijo esto? ¿Cómo los exhortó de nuevo después de que se habían vuelto «perezosos»? ¿Cómo, cuando se habían vuelto «cojos»? ¿Cómo, cuando estaban «paralizados»? ¿Cómo, cuando estaban «relajados»? Pues este es el comienzo de una caída. Me parece que alude a algunos fornicarios entre ellos, pero no desea en ese momento corregirlos: sino que finge ignorancia para que ellos mismos se corrigieran. Pues es correcto al principio ciertamente fingir ignorancia: pero después, cuando continúan [en pecado], entonces añadir también la reprensión, para que así no se vuelvan desvergonzados. Lo cual también hizo Moisés en el caso de Zimri y la hija de Cosbi.\n\n«Porque no halló» (dice) «lugar de arrepentimiento», no halló arrepentimiento; o que pecó más allá del arrepentimiento. Hay entonces pecados más allá del arrepentimiento. Su significado es: No caigamos por una caída incurable. Mientras es cuestión de cojera, es fácil enderezarse: pero si nos desviamos del camino, ¿qué quedará? Pues es a los que aún no han caído a quienes así discurre, golpeándolos con terror, y dice que no es posible para el que ha caído obtener consolación; pero a los que han caído, para que no caigan en desesperación, les dice lo contrario, hablando así: «Hijitos míos, de quienes estoy de nuevo en dolores de parto, hasta que Cristo sea formado en vosotros.» Y otra vez: «Todos los que de vosotros sois justificados por la Ley, habéis caído de la Gracia.» ¡He aquí! testifica que habían caído. Pues el que está en pie, al oír que no es posible obtener perdón después de haber caído, será más celoso, y más cuidadoso de su estar en pie: si sin embargo usas la misma violencia también hacia uno que ha caído, nunca se levantará. Pues ¿con qué esperanza mostrará el cambio?\n\nPero no solo lloró (dices), sino que también «buscó diligentemente». No excluye entonces el arrepentimiento; sino que los hace cuidadosos de no caer.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "02df76ba0d53"
+ },
+ "aquifer:13164": {
+  "text_es": "Este pasaje compara el antiguo pacto con el nuevo. El antiguo pacto está representado por el monte Sinaí (12:18–21). Era impersonal, aterrador e inaccesible. El monte temblaba con sonidos fuertes, destellos de luz y poder temible. El nuevo pacto está representado por el monte Sión (12:22–24). Es personal, acogedor y gozoso.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5b9b848e29ea",
+  "text_es_2": "Este pasaje compara el antiguo pacto con el nuevo. El antiguo pacto está representado por el monte Sinaí (12:18–21). Era impersonal, aterrador e inaccesible. El monte temblaba con sonidos fuertes, destellos de luz y poder temible. El nuevo pacto está representado por el monte Sión (12:22–24). Es personal, acogedor y gozoso.",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "aquifer:13165": {
+  "text_es": "Las descripciones del monte Sinaí se basan en el encuentro de Dios con Israel allí (véanse Éxodo 19:16–22; 20:18–21; Deuteronomio 4:11–12; 5:23–27). Estas imágenes muestran la separación de un Dios santo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "224da6e0304a"
+ },
+ "hcf:John Chrysostom/Hebrews 12_18-21#0": {
+  "text_es": "Maravillosas en verdad eran las cosas en el Templo, el Lugar Santísimo; y de nuevo terribles eran también aquellas cosas que se hicieron en el monte Sinaí, «el fuego, las tinieblas, la oscuridad, la tempestad». Pues, dice, «Dios apareció en Sinaí», y desde antiguo fueron celebradas estas cosas. El Nuevo Pacto, sin embargo, no fue dado con ninguna de estas cosas, sino que ha sido dado en simple discurso por Dios.\n\nVed entonces cómo hace la comparación también en estos puntos. Y con buena razón las ha puesto después. Pues cuando los había persuadido con innumerables argumentos, cuando también había mostrado la diferencia entre cada pacto, entonces después, habiendo sido ya condenado el uno, entra fácilmente también en estos puntos.\n\nEstas cosas, quiere decir, son terribles; y tan terribles que ni siquiera podían soportar oírlas, que ni siquiera «una bestia» se atrevía a subir. Pues se dice: «Que no hable Dios, sino que hable Moisés con nosotros. Y tan temible era lo que se mandaba, que aun si una bestia toca el monte, será apedreada; Moisés dijo: En gran manera temo y tiemblo.» ¿Qué maravilla en cuanto al pueblo? Él mismo que entró en «la oscuridad donde Dios estaba», dice: «En gran manera temo y tiemblo.»\n\nTerribles eran aquellas cosas, pero estas son mucho más admirables y gloriosas. Pues aquí no hay «oscuridad», ni «tinieblas», ni «tempestad». Me parece que con estas palabras alude a la oscuridad del Antiguo Testamento, y al carácter ensombrecido y velado de la Ley. Y además el Dador de la Ley aparece en fuego terrible, y apto para castigar a los que transgreden.\n\nPero ¿qué son «los sonidos de la trompeta»? Probablemente es como si algún Rey estuviera viniendo. Esto en todo caso también será en la segunda venida. «A la última trompeta» todos deben ser resucitados. Pero es la trompeta de Su voz la que efectúa esto. En aquel tiempo entonces todas las cosas eran objetos de los sentidos, y visiones, y sonidos; ahora todas son objetos de entendimiento, e invisibles.\n\nY, dice, «había mucho humo». Pues puesto que se dice que Dios es fuego, y apareció así en la zarza, indica el fuego incluso por el humo. ¿Y qué es «la oscuridad y las tinieblas»? De nuevo expresa su terribilidad. Así también Isaías dice: «Y la casa se llenó de humo.» ¿Y cuál es el objeto de «la tempestad»? El género humano era descuidado. Por lo tanto era necesario que fueran despertados por estas cosas. Pues nadie era tan torpe como para no haber elevado sus pensamientos, cuando estas cosas se hacían, y la Ley era ordenada.\n\n«Moisés habló, y Dios le respondió por una voz»: pues era necesario que la voz de Dios fuera pronunciada. Por cuanto estaba a punto de promulgar Su Ley por medio de Moisés, por eso lo hace digno de confianza. No lo vieron, a causa de las densas tinieblas: no lo oyeron, a causa de la debilidad de su voz. ¿Qué entonces? «Dios respondió por una voz», dirigiéndose a la multitud.\n\n«Suplicaron» (dice) «que no se les hablara más la palabra.»\n\nDesde el principio, por tanto, ellos mismos fueron la causa de que Dios se manifestara por medio de la Carne. Que Moisés hable con nosotros, y «Que no hable Dios con nosotros.» Los que hacen comparaciones elevan un lado más, para mostrar que el otro es mucho mayor. En este respecto también nuestros privilegios son más suaves y más admirables. Pues son grandes en un doble respecto: porque mientras son gloriosos y mayores, son más accesibles. Esto dice también en la Epístola a los Corintios: «a cara descubierta», y, «no como Moisés puso un velo sobre su rostro.» Ellos, quiere decir, no fueron contados dignos de lo que nosotros somos. Pues ¿de qué fueron tenidos por dignos? Vieron «oscuridad, tinieblas»; oyeron «una voz». Pero tú también has oído una voz, no a través de la oscuridad, sino a través de la carne. No has sido perturbado, ni turbado, sino que has estado en pie y has conversado con el Mediador.\n\nY de otra manera, por la «oscuridad» muestra la invisibilidad. «Y oscuridad» (dice) «estaba bajo Sus pies.»\n\nEntonces incluso Moisés temió, pero ahora nadie.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "64d834e08127"
+ },
+ "aquifer:13166": {
+  "text_es": "El fuerte sonido de la trompeta y una voz asustaron al pueblo (véanse Éxodo 19:16, 19; 20:18; Deuteronomio 4:12) tanto que pidieron a Dios que dejara de hablar (Éxodo 20:19).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "19e4a1760d9f"
+ },
+ "aquifer:13168": {
+  "text_es": "⸢En cambio⸣: Hay una clara diferencia entre el antiguo y el nuevo pacto. Los creyentes ahora vienen al asombroso monte Sión, estrechamente vinculado con Jerusalén, que representa el hogar de Dios. ⸢Jerusalén celestial⸣: Véase la nota de estudio sobre Hebreos 8:5. El nuevo pacto crea una relación con Dios, permitiéndonos experimentar su presencia con gozo, paz y comunión.",
+  "lemas_es": [
+   "En cambio",
+   "Jerusalén celestial"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "23953b79bb50",
+  "text_es_2": "⸢En cambio⸣: Hay una clara diferencia entre el antiguo y el nuevo pacto. Los creyentes ahora vienen al asombroso monte Sión, estrechamente vinculado con Jerusalén, que representa el hogar de Dios. ⸢Jerusalén celestial⸣: Véase la nota de estudio sobre Hebreos 8:5. El nuevo pacto crea una relación con Dios, permitiéndonos experimentar su presencia con gozo, paz y comunión.",
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.12.22"
+   },
+   {
+    "lema": "Jerusalem la celestial",
+    "ref": "HEB.12.22"
+   }
+  ]
+ },
+ "hcf:John Chrysostom/Hebrews 12_22#0": {
+  "text_es": "En lugar de «Moisés», Jesús. En lugar del pueblo, «miríadas de ángeles».\n\nTerribles eran aquellas cosas, pero estas son mucho más admirables y gloriosas. Pues aquí no hay «oscuridad», ni «tinieblas», ni «tempestad». Me parece que con estas palabras alude a la oscuridad del Antiguo Testamento, y al carácter ensombrecido y velado de la Ley. Y además el Dador de la Ley aparece en fuego terrible, y apto para castigar a los que transgreden.\n\nEntonces incluso Moisés temió, pero ahora nadie.\n\nComo el pueblo entonces estaba abajo, así también nosotros. Ellos no estaban abajo, sino debajo del cielo. El Hijo está cerca de Dios, pero no como Moisés.\n\nHabía un desierto, aquí una ciudad.\n\n«Y a una innumerable compañía de ángeles.» Aquí muestra el gozo, el deleite, en lugar de la «oscuridad» y «tinieblas» y «tempestad».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "31270c2b6554",
+  "text_es_2": "En lugar de «Moisés», Jesús. En lugar del pueblo, «miríadas de ángeles».\n\nTemibles eran aquellas cosas, pero estas son mucho más admirables y gloriosas. Pues aquí no hay «tinieblas», ni «oscuridad», ni «tempestad». Me parece que con estas palabras alude a la oscuridad del Antiguo Testamento, y al carácter ensombrecido y velado de la Ley. Y además, el Dador de la Ley aparece en fuego terrible, y dispuesto a castigar a los que transgreden.\n\nEntonces incluso Moisés temió, pero ahora nadie.\n\nComo el pueblo entonces estaba abajo, también nosotros. Ellos no estaban abajo, sino debajo del cielo. El Hijo está cerca de Dios, pero no como Moisés.\n\nAllí había un desierto; aquí, una ciudad.\n\n«Y a una innumerable compañía de ángeles». Aquí muestra el gozo, el deleite, en lugar de la «oscuridad», las «tinieblas» y la «tempestad».",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "aquifer:13169": {
+  "text_es": "La palabra traducida como ⸢asamblea⸣ se traduce usualmente «iglesia». Se refiere al pueblo reunido de Dios. Los hijos primogénitos de Dios son aquellos que son parte del nuevo pacto (véanse Hebreos 1:6; 2:10–13). La idea de que el pueblo de Dios tiene sus nombres escritos en el cielo muestra el cuidado especial de Dios por ellos (véanse también Éxodo 32:32; Salmos 69:28; Isaías 4:3; Daniel 12:1; Lucas 10:20; Filipenses 4:3; Apocalipsis 3:5). Para los hijos de Dios, Dios como juez es el que los defiende (véanse Salmos 9:8; 58:11; 94:2; Isaías 11:4; Jeremías 22:16). Los que han muerto son ahora hechos perfectos mediante el sacrificio de Cristo (Hebreos 10:14).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "23eddab36d03",
+  "text_es_2": "La palabra traducida como ⸢asamblea⸣ se traduce habitualmente «Iglesia». Se refiere al pueblo reunido de Dios. Los hijos primogénitos de Dios son los que son parte del nuevo pacto (véanse Hebreos 1:6; 2:10–13). La idea de que los nombres del pueblo de Dios estén escritos en el cielo muestra el cuidado especial de Dios por ellos (véanse también Éxodo 32:32; Salmos 69:28; Isaías 4:3; Daniel 12:1; Lucas 10:20; Filipenses 4:3; Apocalipsis 3:5). Para los hijos de Dios, Dios como juez es quien los defiende (véanse Salmos 9:8; 58:11; 94:2; Isaías 11:4; Jeremías 22:16). Los que han muerto son ahora perfeccionados mediante el sacrificio de Cristo (Hebreos 10:14).",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "hcf:John Chrysostom/Hebrews 12_23#0": {
+  "text_es": "¿De qué «primogénitos» habla? De los fieles.\n\n«Y a los espíritus de los justos hechos perfectos.» Con estos estaréis, dice.\n\n«Y a la congregación general e iglesia de los primogénitos que están escritos en el Cielo, y a Dios el Juez de todos.» Ellos no se acercaron, sino que se mantuvieron a distancia, incluso Moisés: pero «vosotros os habéis acercado».\n\nAquí los hace temer, diciendo: «Y a Dios el Juez de todos»; no de los judíos solos, y los fieles, sino incluso de todo el mundo.\n\n«Y a los espíritus de los justos hechos perfectos.» Quiere decir las almas de los que son aprobados.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "e0cff1bb6e07",
+  "text_es_2": "¿De qué «primogénito» habla? De los fieles.\n\n«Y a los espíritus de los justos hechos perfectos». Con estos estaréis, dice.\n\n«Y a la asamblea general y Iglesia de los primogénitos que están escritos en el cielo, y a Dios el Juez de todos». Ellos no se acercaron, sino que se mantuvieron lejos, incluso Moisés; pero «vosotros os habéis acercado».\n\nAquí les infunde temor al decir: «Y a Dios el Juez de todos»; no solo de los judíos y de los fieles, sino incluso del mundo entero.\n\n«Y a los espíritus de los justos hechos perfectos». Se refiere a las almas de los que son aprobados.",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "hcf:Philoxenus of Mabbug/Hebrews 12_23#0": {
+  "text_es": "Los templos de nuestras casas de oración son del mundo, porque sus edificios derivan del mundo y en él están construidos; pero son cosas espirituales por encima del mundo, porque son tipos de aquella Iglesia de los primogénitos, cuyos nombres están inscritos en el cielo, que es Jerusalén la libre, la madre de todos nosotros. Y todos los altares y todos los demás vasos del servicio de los Misterios, y todo aquello con lo que celebramos los Misterios que nos han sido entregados, según su origen natural son del mundo; pero por razón de la grandeza de aquellas cosas que en ellos se administran, son exaltados y altísimos, y son estimados por nosotros como estando por encima de la naturaleza, pues son semejanza de las potencias vivientes y espirituales que están en el cielo, en las cuales se perfecciona el servicio de los Misterios ocultos de Dios y de su voluntad.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b4596d8320b0",
+  "text_es_2": "Los templos de nuestras casas de oración son del mundo, porque sus edificaciones derivan del mundo y son construidas en él; pero son cosas espirituales por encima del mundo, porque son tipos de aquella Iglesia de los primogénitos, cuyos nombres están inscritos en el cielo, la cual es Jerusalén la libre, la madre de todos nosotros. Y todos los altares y todos los demás vasos del servicio de los Misterios, y todo aquello con lo que celebramos los Misterios que nos han sido entregados, según su origen natural son del mundo; pero por razón de la grandeza de aquellas cosas que en ellos se administran, son exaltados y altísimos, y son estimados por nosotros como estando por encima de la naturaleza, pues son semejanza de las potencias vivas y espirituales que están en el cielo, en las cuales se perfecciona el servicio de los Misterios ocultos de Dios y de su voluntad.",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "aquifer:13170": {
+  "text_es": "Jesús es el mediador del nuevo pacto (Hebreos 8:7–13; 9:11–14; 10:15–18). Su sangre rociada, usada como el sacrificio por los pecados, representa el perdón. La sangre de Abel clamó a Dios desde la tierra, buscando justicia por su asesinato a manos de Caín (Génesis 4:10). En contraste, la sangre de Jesús declara que el precio por los pecados está pagado para los que están en el nuevo pacto (Hebreos 10:16–18).",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "89b21eebe435",
+  "text_es_2": "Jesús es el Mediador del nuevo pacto (Hebreos 8:7–13; 9:11–14; 10:15–18). Su sangre rociada, usada como el sacrificio por los pecados, representa el perdón. La sangre de Abel clamó a Dios desde la tierra, buscando justicia por su asesinato a manos de Caín (Génesis 4:10). En contraste, la sangre de Jesús declara que el precio por los pecados está pagado para los que están en el nuevo pacto (Hebreos 10:16–18).",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "hcf:John Chrysostom/Hebrews 12_24#0": {
+  "text_es": "«Y a Jesús el mediador del Nuevo Pacto, y a la sangre del rociamiento que habla mejor que la de Abel». ¿Habló entonces la sangre «de Abel»? «Sí», dice, «y por ella, aunque muerto, aún habla». Y de nuevo dice Dios: «La voz de la sangre de tu hermano clama a mí». O este sentido o aquel; porque aún ahora es celebrada: pero no de la misma manera que la de Cristo. Pues esta ha limpiado a todos los hombres, y emite una voz más clara y más distinta, en la medida en que tiene mayor testimonio, a saber, el de los hechos.\n\n«Y a Jesús el Mediador del Nuevo Pacto: y a la sangre del rociamiento», es decir, de la purificación, «que habla mejor que la de Abel». Y si la sangre habla, mucho más Aquel que, habiendo sido muerto, vive. Pero ¿qué habla? «El Espíritu también» (dice) «habla con gemidos que no pueden ser expresados». ¿Cómo habla? Siempre que cae en una mente sincera, la levanta y la hace hablar.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "dee4c8aa6576",
+  "text_es_2": "«Y a Jesús, el Mediador del nuevo pacto, y a la sangre rociada que habla mejor que la de Abel». ¿Habló entonces la sangre «de Abel»? «Sí», dice, «y por ella, estando muerto, aún habla». Y de nuevo Dios dice: «La voz de la sangre de tu hermano clama a mí». O este significado o aquel; porque aún ahora es celebrada: pero no de la misma manera que la de Cristo. Pues esta ha limpiado a todos los hombres, y emite una voz más clara y más distinta, en proporción a que tiene mayor testimonio, a saber, por los hechos.\n\n«Y a Jesús, el Mediador del nuevo pacto, y a la sangre rociada», esto es, de purificación, «que habla mejor que la de Abel». Y si la sangre habla, mucho más Aquel que, habiendo sido muerto, vive. Pero ¿qué habla? «También el Espíritu» (dice) «habla con gemidos indecibles». ¿Cómo habla? Siempre que cae en una mente sincera, la levanta y la hace hablar.",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "hcf:Tertullian/Hebrews 12_24#0": {
+  "text_es": "¿Qué es, entonces, el oficio administrativo del Consolador sino este: la dirección de la disciplina, la revelación de las Escrituras, la reforma del entendimiento, el avance hacia «las cosas mejores»? Nada está sin etapas de crecimiento: todas las cosas esperan su sazón.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "904116644406",
+  "text_es_2": "¿Cuál es, pues, el oficio administrativo del Consolador sino este: la dirección de la disciplina, la revelación de las Escrituras, la reforma del intelecto, el avance hacia las «cosas mejores»? Nada está sin etapas de crecimiento: todas las cosas esperan su tiempo.",
+  "modelo_2": "deepseek:deepseek-reasoner"
+ },
+ "aquifer:13171": {
+  "text_es": "Este pasaje sirve como la advertencia final del libro, y hace referencia a Dios hablando en Hebreos 2:1–4, 4:12–13, 6:4–8, 10:26–31 y 12:18–24.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "0d171730a93d"
+ },
+ "aquifer:13172": {
+  "text_es": "Dios habla por medio de su Hijo, Jesús (Hebreos 1:1–3). El autor compara dos situaciones: la advertencia de Moisés al pueblo bajo el antiguo pacto es menos grave. La advertencia de Dios desde el cielo es más grave. Si las personas no evitaron el juicio cuando Moisés les advirtió, quienes rechacen el mensaje del Hijo de Dios definitivamente no evitarán el castigo.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d688e276983e"
+ },
+ "hcf:John Chrysostom/Hebrews 12_25#0": {
+  "text_es": "«Mirad que no desechéis al que habla»; esto es, que no le rechacéis. «Porque si no escaparon aquellos que desecharon al que hablaba en la tierra». ¿A quién se refiere? A Moisés, supongo. Pero lo que dice es esto: si ellos, habiendo «desechado al que» daba leyes «en la tierra, no escaparon», ¿cómo desecharemos nosotros al que da leyes desde el Cielo? No declara aquí que Él sea otro; lejos de eso. No presenta a Uno y a Otro, sino que aparece terrible cuando emite su Voz «desde el Cielo». Es Él mismo, pues, tanto el uno como el otro; pero el Uno es terrible. Porque no expresa una diferencia de Personas, sino del don. ¿De dónde se ve esto? «Porque si no escaparon», dice, «aquellos que desecharon al que hablaba en la tierra, mucho menos escaparemos nosotros, si nos apartamos de Aquel que habla desde el cielo». ¿Qué, pues? ¿Es este diferente del otro? ¿Cómo entonces dice: «cuya voz entonces sacudió la tierra»? Porque era la «voz» de Aquel que «entonces» dio la Ley, la que «sacudió la tierra».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "215dfcb1301c",
+  "corregido_por_juez": "El inglés dice «how shall we refuse Him» (¿cómo rechazaremos a Aquel...?), mientras que el español lo convierte en «¿cómo escaparemos nosotros si desechamos al que da leyes desde el Cielo?», añadiendo «escaparemos» y «si» y alterando la pregunta."
+ },
+ "aquifer:13173": {
+  "text_es": "⸢sacudió la tierra⸣: Éxodo 19:18; Jueces 5:5; Salmos 68:8; 77:18. ⸢«Una vez más yo haré temblar no solo la tierra, sino también el cielo»⸣: Esta cita de Hageo 2:6 destaca que toda la creación será sacudida y removida durante el juicio final al fin de los tiempos (1 Corintios 7:31; 2 Pedro 3:10, 12; Apocalipsis 21:1).",
+  "lemas_es": [
+   "sacudió la tierra"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1f979e1cf85d",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.12.26"
+   }
+  ]
+ },
+ "hcf:Cosmas Indicopleustes/Hebrews 12_26-28#0": {
+  "text_es": "Porque aún una vez más yo sacudiré no solo la tierra, sino también el cielo. Pero la palabra «aún una vez más» significa, como muestra el Apóstol, la remoción de las cosas que son sacudidas, como de cosas que han sido hechas, para que permanezcan aquellas cosas que no son sacudidas. Por lo cual, recibiendo un reino que no puede ser sacudido, mostremos gratitud, mediante la cual podamos ofrecer servicio agradable a Dios, con reverencia, piedad y súplica.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "6a2d22043c40"
+ },
+ "hcf:John Chrysostom/Hebrews 12_26-27#0": {
+  "text_es": "«Pero ahora ha prometido, diciendo: Aún una vez más yo sacudiré no solo la tierra, sino también el cielo. Y esta palabra “aún una vez más” significa la remoción de las cosas que son sacudidas, como de cosas que han sido hechas». Todas las cosas, por tanto, serán quitadas y serán recompuestas de nuevo para mejor. Pues esto es lo que aquí sugiere. ¿Por qué, entonces, te afliges cuando sufres en un mundo que no permanece; cuando eres afligido en un mundo que muy pronto habrá pasado? Si nuestro reposo hubiera de ser en el último período del mundo, entonces uno debería afligirse mirando al fin.\n\n«Para que» (dice) «permanezcan aquellas cosas que no pueden ser sacudidas». Pero ¿de qué clase son «las cosas que no pueden ser sacudidas»? Las cosas venideras.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "5eb1c0f2845c"
+ },
+ "hcf:Tertullian/Hebrews 12_26#0": {
+  "text_es": "Que añadan una tercera sentencia: «Comamos, y bebamos, y nos casemos, porque mañana moriremos»; sin reflexionar que el «ay» (pronunciado) «sobre las que están encintas y las que dan de mamar» caerá mucho más pesada y amargamente en la «sacudida universal» de todo el mundo de lo que cayó en la devastación de una fracción de Judea.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "2c061630409a"
+ },
+ "aquifer:13174": {
+  "text_es": "Dios merece santo temor y reverencia. ⸢nuestro Dios es fuego consumidor⸣: Esta cita de Deuteronomio 4:24 destaca el increíble poder de Dios y su autoridad para juzgar.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "b9d7c8e0faf8"
+ },
+ "hcf:John Chrysostom/Hebrews 12_28#0": {
+  "text_es": "«Por lo cual, recibiendo un reino que no puede ser movido, tengamos gracia mediante la cual sirvamos a Dios de manera aceptable, con reverencia y temor piadoso».\n\nHagamos, pues, todo por esto, para que alcancemos aquel reposo, para que disfrutemos de aquellos bienes. Sí, os ruego y os suplico, seamos diligentes en esto. Nadie edifica en una ciudad que va a caer. Dime, te ruego, si alguien dijera que después de un año esta ciudad caerá, pero tal otra de ningún modo, ¿habrías edificado en la que estaba a punto de caer? Así también ahora digo esto: No edifiquemos en este mundo; caerá después de un poco, y todo será destruido. Pero ¿por qué digo: Caerá? Antes de su caída seremos destruidos y sufriremos lo que es temible; seremos removidos de ellas.\n\n¿Por qué edificamos sobre la arena? Edifiquemos sobre la roca; pues suceda lo que suceda, aquel edificio permanece inexpugnable, nada podrá destruirlo. Con buena razón. Pues para todos esos ataques aquella región es inaccesible, así como esta es accesible. Pues los terremotos, los incendios y la incursión de enemigos nos la quitan incluso mientras estamos vivos; y muchas veces nos destruyen junto con ella.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1fdb377fc8c6"
+ },
+ "hcf:John Chrysostom/Hebrews 12_28-29#0": {
+  "text_es": "En otro lugar dice lo mismo: «porque las cosas que se ven son temporales, pero las que no se ven son eternas» (2 Cor. 4:18); y de esto hace una exhortación con respecto a los males que soportamos en esta vida presente; y aquí hace esto, y dice: perseveremos firmes; «tengamos gratitud», es decir, demos gracias a Dios. Pues no solo no debemos desanimarnos ante las cosas presentes, sino mostrarle la mayor gratitud por las cosas venideras.\n\n«Mediante la cual servimos a Dios de manera aceptable», es decir, «pues así es posible servir a Dios de manera aceptable», dándole gracias en todas las cosas. «Haced todas las cosas» (dice) «sin murmuraciones ni contiendas» (Fil. 2:14). Pues cualquier obra que un hombre hace con murmuración, la corta y pierde su recompensa; como los israelitas, ¡cuán grande castigo pagaron por sus murmuraciones! Por lo cual dice: «Ni murmuréis» (1 Cor. 10:10). No es posible, por tanto, «servirle» «de manera aceptable» sin un sentido de gratitud hacia Él por todas las cosas, tanto por nuestras pruebas como por sus alivios. Es decir, no pronunciemos nada precipitado, nada irrespetuoso, sino humillémonos para ser reverentes. Pues esto es «con reverencia y temor piadoso».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "faafea96101b"
+ },
+ "hcf:Hippolytus of Rome/Hebrews 12_29#0": {
+  "text_es": "Y cualesquiera otras afirmaciones semejantes que presentan respecto a este (Eón), alegan que se cumplen en el (ser) animal, al que afirman ser creador del mundo. Ahora bien, él es de apariencia de fuego. También Moisés, dice, se expresa así: «El Señor tu Dios es fuego ardiente y consumidor». Pues él, igualmente, desea (pensar) que así ha sido escrito. Hay, sin embargo, dice, una doble potencia del fuego; pues el fuego todo lo consume y no puede ser apagado.",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "deeed029642c"
+ },
+ "hcf:John Chrysostom/Hebrews 12_29#0": {
+  "text_es": "«Porque nuestro Dios es fuego consumidor».\n\nEstas cosas, quiere decir, son terribles; y tan terribles que ni siquiera podían soportar oírlas, que ni «una bestia» se atrevía a subir. Pero las cosas que vienen después no son así. Pues ¿qué es el Sinaí comparado con el Cielo? ¿Y qué el «fuego que podía ser tocado» comparado con Dios, que no puede ser tocado? Pues «Dios es fuego consumidor».",
+  "lemas_es": [],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "1134073212f3"
+ }
+}
