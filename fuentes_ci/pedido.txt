@@ -1,2 +1,9 @@
 # nombre url  (una por línea; las líneas con # se ignoran) — 06-10-2026: catálogo de eBible
-ebible_translations.csv https://ebible.org/Scriptures/translations.csv
+# ebible_translations.csv https://ebible.org/Scriptures/translations.csv
+spabll_copyright.htm https://ebible.org/spabll/copyright.htm
+spabll_usfm.zip https://ebible.org/Scriptures/spabll_usfm.zip
+spablm_copyright.htm https://ebible.org/spablm/copyright.htm
+spablm_usfm.zip https://ebible.org/Scriptures/spablm_usfm.zip
+grcbrent_copyright.htm https://ebible.org/grcbrent/copyright.htm
+grcbrent_usfm.zip https://ebible.org/Scriptures/grcbrent_usfm.zip
+grclxx_copyright.htm https://ebible.org/grclxx/copyright.htm
