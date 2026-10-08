@@ -64,4 +64,3 @@ Las dos tradiciones coinciden en más de lo que suele decirse: que Cristo es el 
 
 - Máximo el Confesor: *Ambigua*, *Cuestiones a Talasio*, *Capítulos sobre la caridad*, *Capítulos teológicos*, *Disputa con Pirro*, *Opúsculos teológicos y polémicos* (texto griego en la Patrología griega de Migne, volúmenes 90 y 91).
 - Gregorio Palamás: *Tríadas en defensa de los santos hesicastas*, *Ciento cincuenta capítulos*, *Tomo hagiorítico*, *Homilías* (Migne, volúmenes 150 y 151).
-- Una guía de estudio sobre la esencia y las energías, con una antología de textos en español, está en preparación como volumen aparte de esta edición.

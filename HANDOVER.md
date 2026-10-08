@@ -147,6 +147,9 @@ Luego (pedido del usuario): la ventana muestra un ADELANTO (~40 palabras, los de
 «Leer la nota completa →»; las notas completas van en notasNN.xhtml después de cada capítulo, con el título como
 vínculo de vuelta al versículo.
 
+«Esencia y energías» (guía y antología) pasó al repositorio privado periodico_kindle/lecturas_privadas/ por
+decisión del usuario (08-10-2026): es de uso personal. biblia-abierta sigue público.
+
 Pendiente:
 1. Wesley (Explanatory Notes) como segunda voz de la Reforma/avivamiento, si se quiere.
 2. Solo DeepSeek (decisión del usuario 06-10-2026: Gemini sin créditos): TRADUCTOR deepseek-chat, CONTROL
