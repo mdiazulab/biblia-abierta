@@ -6,3 +6,10 @@ b97801fe4f89e416a772ca0c94c30d382b38ccd589fd97858f1395bb4641bb17  spabll_usfm.zi
 0d3b36faa218aa8ada2c9060d91bce405a1a3f54bd1c3de4c51bc377219093e1  grcbrent_copyright.htm  https://ebible.org/grcbrent/copyright.htm
 cc6591b067fa69e0a922c82fc67a458462af6106af4bc4fea53307a5be2288e5  grcbrent_usfm.zip  https://ebible.org/Scriptures/grcbrent_usfm.zip
 2575b030b4242ead2ee4ac041ad1e107c7fac94ae1f21969b2b4b1479be49c3a  grclxx_copyright.htm  https://ebible.org/grclxx/copyright.htm
+f0b90ae8eba1213e5610d73e758e88129928335318b468d367e01691ba38d989  spabll_copyright.htm  https://ebible.org/spabll/copyright.htm
+b7b7e904504939969ffed75f5a6559628ebe8aec4f5d09f7bf608d9db14d7f70  spabll_usfm.zip  https://ebible.org/Scriptures/spabll_usfm.zip
+c02bf053ac856ea33f298f74dcdbc1acc5aa98d4a659101a83ce8799487c2d6f  spablm_copyright.htm  https://ebible.org/spablm/copyright.htm
+f7469bc4a20140ecf6a368c1291aad4a42bc09a07483694de9163fa1d3040ef6  spablm_usfm.zip  https://ebible.org/Scriptures/spablm_usfm.zip
+8107b69ccaac1e411a15eb2beaa613809f4da47208641495e589aae8c44bcdc0  grcbrent_copyright.htm  https://ebible.org/grcbrent/copyright.htm
+3401538213f1584ed5f7913c7339b8132cb6868605fbff1b07c9a6049735528d  grcbrent_usfm.zip  https://ebible.org/Scriptures/grcbrent_usfm.zip
+d2ae36250105110d2ef4ff3873027015092242d9e78450827b29f8edbc1f3b21  grclxx_copyright.htm  https://ebible.org/grclxx/copyright.htm
