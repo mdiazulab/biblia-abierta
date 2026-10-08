@@ -192,9 +192,13 @@
    [
     "de aquella elation o soberbia",
     "de aquella altivez o soberbia"
+   ],
+   [
+    "porque no rinde a Dios el honor que le es debido, al no rendir al hombre a la obediencia a él",
+    "porque no rinde a Dios el honor que le es debido sometiendo al hombre a su obediencia"
    ]
   ],
-  "motivo": "«elation» sin traducir y sujeto invertido en «He will not please my soul» (cola del juez) — rehecha sobre la retraducción del corrector (08-10-2026)",
+  "motivo": "«elation» sin traducir y sujeto invertido en «He will not please my soul» (cola del juez) — rehecha sobre la retraducción del corrector (08-10-2026); «by rendering man obedient to him» es el modo de honrar a Dios que la soberbia niega, no una segunda negación (re-juicio 08-10-2026)",
   "evidencia": "This is the rendering of עפלה elation … “He will not please my soul”"
  },
  "calvino:HEB.2.13#24": {
@@ -335,7 +339,7 @@
   "reemplazos": [
    [
     "Aunque ⸢su⸣ y ⸢hermano⸣ son masculinos,",
-    "Aunque ⸢hermano⸣ es masculino (y en griego también ⸢su⸣),"
+    "Aunque ⸢hermano⸣ es masculino (en griego también ⸢su⸣), ambas palabras"
    ]
   ],
   "motivo": "en español «su» no tiene género (cola del juez)",
@@ -345,20 +349,20 @@
   "reemplazos": [
    [
     "depende del significado de la palabra ⸢pacto⸣ aquí",
-    "depende del significado de la palabra ⸢testamento⸣ (διαθήκη: «pacto» o «testamento»; la RV1909 de 9:16 dice «testamento») aquí"
+    "depende del significado de la palabra ⸢pacto⸣ (διαθήκη: «pacto» o «testamento»; la RV1909 de 9:16 dice «testamento») aquí"
    ]
   ],
-  "motivo": "la RV1909 de 9:16 traduce διαθήκη «testamento»; la nota discute justamente los dos sentidos (cola del juez)",
+  "motivo": "la RV1909 de 9:16 traduce διαθήκη «testamento»; la nota discute justamente los dos sentidos (cola del juez) — rótulo ⸢pacto⸣ como en el resto de la nota (re-juicio 08-10-2026)",
   "evidencia": "depends on the meaning of the word ⸢covenant⸣ here: (1) If the word ⸢covenant⸣ refers to a will or last testament"
  },
  "uwtn-c:258939": {
   "reemplazos": [
    [
     "depende del significado de la palabra ⸢pacto⸣ aquí",
-    "depende del significado de la palabra ⸢testamento⸣ (διαθήκη: «pacto» o «testamento»; la RV1909 de 9:16 dice «testamento») aquí"
+    "depende del significado de la palabra ⸢pacto⸣ (διαθήκη: «pacto» o «testamento»; la RV1909 de 9:16 dice «testamento») aquí"
    ]
   ],
-  "motivo": "igual que uwtn:258939 (barrido de la clase en el volumen complementario)",
+  "motivo": "igual que uwtn:258939 (barrido de la clase en el volumen complementario) — rótulo ⸢pacto⸣ como en el resto de la nota (re-juicio 08-10-2026)",
   "evidencia": "depends on the meaning of the word ⸢covenant⸣ here"
  },
  "uwtn-c:259097": {
@@ -451,10 +455,10 @@
    ],
    [
     "«la Palabra de Dios»",
-    "«la palabra de Dios»"
+    "«la palabra que viene de Dios»"
    ]
   ],
-  "motivo": "Hebreos 13:7 habla de la palabra predicada (RV1909: «os hablaron la palabra de Dios»): minúscula; clase «Word of God» = mensaje/Escritura",
+  "motivo": "Hebreos 13:7 habla de la palabra predicada (RV1909: «os hablaron la palabra de Dios»): minúscula; clase «Word of God» = mensaje/Escritura; la alternativa (2) «the Word from God» = «la palabra que viene de Dios», como en la capa G (re-juicio 08-10-2026)",
   "evidencia": "the Word that could: (1) be about God … (2) be from God"
  },
  "uwtn-c:259651": {
