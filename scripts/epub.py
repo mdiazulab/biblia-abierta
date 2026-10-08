@@ -109,6 +109,9 @@ aside p { text-indent: 0; }
 .trad { font-size: 0.8em; color: #555; }
 .fuente { font-size: 0.82em; color: #444; font-style: italic; }
 p.nota { text-align: left; } a.vuelta { font-weight: bold; color: inherit; }
+a.leer { font-family: sans-serif; font-size: 0.85em; }
+section.nota-completa { margin: 0 0 1.4em; } section.nota-completa h3 a { color: inherit; }
+p.fuente-p { margin-bottom: 0.7em; }
 nav#toc ol { list-style-type: none; padding-left: 1.2em; } nav#toc > ol { padding-left: 0; }
 nav#toc li { text-align: left; margin: 0.25em 0; } nav#toc a { text-decoration: none; }
 .portada { text-align: center; margin-top: 30%; }
@@ -286,36 +289,66 @@ def capitulo_xhtml(libro, c, rv, ns, tr):
         if not capa:                                    # volumen complementario (epub_griego.py)
             continue
         por.setdefault((ancla, capa), []).append((n, t))
-    cuerpo, notas = [], []
+    cuerpo, notas, completas = [], [], []
     for ref in [r for r in rv if C.cap(r) == c]:
         v = C.ver(ref)
         llamadas = ""
         for capa, letra in (("c", "C"), ("g", "G"), ("p", "P"), ("r", "R")):
-            if (ref, capa) in por:
-                nid = f"n{c}-{v}-{capa}"
-                llamadas += f' <a class="ll {capa}" epub:type="noteref" href="#{nid}" id="r{nid}">{letra}</a>'
-                bloques = []
-                for n, t in por[(ref, capa)]:
-                    if capa == "c":
-                        lemas = [a["lema"] for a in t.get("lemas_rv1909", []) if a.get("lema")]
-                        cab = (f'<span class="lema">{x("; ".join(lemas))}:</span> ' if lemas
-                               else f'<span class="lema">v. {C.ver(n["ref"])}' +
-                               (f'-{C.ver(n["ref_fin"])}' if n.get("ref_fin", n["ref"]) != n["ref"] else "") + ":</span> ")
-                        bloques.append(f"{cab}{inline(t['text_es'], SALTO)}")
-                    elif capa == "g":
-                        bloques.append(f"{griego_cab(n, t)}{inline(t['text_es'], SALTO)}")
-                    else:
-                        quien, fuente = atribucion(n)
-                        bloques.append(f"{quien}: {inline(t['text_es'], SALTO)}<br/>{fuente}")
-                titulo = {"c": "Contexto", "g": "El texto griego", "p": "Padres de la Iglesia", "r": "Reforma"}[capa] + f" — {LIBRO_ES[libro]} {c}:{v}"
-                # Kindle muestra en la ventana emergente solo el primer bloque de la nota (08-10-2026: con un <h3>
-                # de título se veía el título y nada más): toda la nota va en un único párrafo, con <br/> entre partes
-                notas.append(f'<aside epub:type="footnote" id="{nid}"><p class="nota"><a class="vuelta" href="#r{nid}">'
-                             f'{x(titulo)}</a><br/>' + SALTO.join(bloques) + "</p></aside>")
+            if (ref, capa) not in por:
+                continue
+            nid = f"n{c}-{v}-{capa}"
+            llamadas += f' <a class="ll {capa}" epub:type="noteref" href="#{nid}" id="r{nid}">{letra}</a>'
+            bloques, quienes = [], []
+            for n, t in por[(ref, capa)]:
+                if capa == "c":
+                    lemas = [a["lema"] for a in t.get("lemas_rv1909", []) if a.get("lema")]
+                    cab = (f'<span class="lema">{x("; ".join(lemas))}:</span> ' if lemas
+                           else f'<span class="lema">v. {C.ver(n["ref"])}' +
+                           (f'-{C.ver(n["ref_fin"])}' if n.get("ref_fin", n["ref"]) != n["ref"] else "") + ":</span> ")
+                    bloques.append((cab, t["text_es"], ""))
+                elif capa == "g":
+                    bloques.append((griego_cab(n, t), t["text_es"], ""))
+                else:
+                    quien, fuente = atribucion(n)
+                    bloques.append((f"{quien}: ", t["text_es"], fuente))
+                    quienes.append(AUTORES.get(n["source"]["author"], n["source"]["author"]))
+            titulo = {"c": "Contexto", "g": "El texto griego", "p": "Padres de la Iglesia", "r": "Reforma"}[capa] + f" — {LIBRO_ES[libro]} {c}:{v}"
+            destino = f"notas{c:02d}.xhtml#f{nid}"
+            # ventana emergente (08-10-2026, pedido del usuario): un adelanto breve en un único bloque (el Kindle
+            # muestra solo el primero) y el vínculo a la nota completa, que va en la página de notas del capítulo
+            cab, texto, _ = bloques[0]
+            if capa in ("p", "r"):
+                cab = f'<span class="autor">{x(quienes[0])}</span>: '
+            otros = list(dict.fromkeys(q for q in quienes[1:] if q != quienes[0]))
+            mas = (f'<br/><span class="trad">También: {x(", ".join(otros))}.</span>' if otros
+                   else f'<br/><span class="trad">y {len(bloques) - 1} nota{"s" if len(bloques) > 2 else ""} más.</span>' if len(bloques) > 1 else "")
+            notas.append(f'<aside epub:type="footnote" id="{nid}"><p class="nota"><a class="vuelta" href="{destino}">'
+                         f'{x(titulo)}</a><br/>{cab}{inline(adelanto(texto), " ")}{mas}<br/>'
+                         f'<a class="leer" href="{destino}">Leer la nota completa →</a></p></aside>')
+            completas.append(f'<section class="nota-completa" id="f{nid}"><h3><a href="c{c:02d}.xhtml#v{c}-{v}">'
+                             f'{x(titulo)}</a></h3>' + "".join(
+                                 f"<p>{cab}{inline(texto)}</p>" + (f'<p class="fuente-p">{fuente}</p>' if fuente else "")
+                                 for cab, texto, fuente in bloques) + "</section>")
         texto = x(rv[ref]["texto"]).replace("⸢", "<em>").replace("⸣", "</em>")
         cuerpo.append(f'<p class="v" id="v{c}-{v}"><sup class="n">{v}</sup>{texto}{llamadas}</p>')
-    return (f'<h1 id="c{c}">{LIBRO_ES[libro]} {c}</h1>\n' + "\n".join(cuerpo)
-            + '\n<section class="notas" epub:type="footnotes">' + "\n".join(notas) + "</section>")
+    capitulo = (f'<h1 id="c{c}">{LIBRO_ES[libro]} {c}</h1>\n' + "\n".join(cuerpo)
+                + '\n<section class="notas" epub:type="footnotes">' + "\n".join(notas) + "</section>")
+    pagina_notas = (f'<h1>Notas — {LIBRO_ES[libro]} {c}</h1>\n<p class="trad">Cada título vuelve a su versículo.</p>\n'
+                    + "\n".join(completas))
+    return capitulo, pagina_notas
+
+
+def adelanto(texto, palabras=40):
+    """Primer párrafo hasta ~40 palabras, cortado en fin de oración si se puede, con «…» si sigue."""
+    p = texto.split("\n\n")[0]
+    ws = p.split()
+    if len(ws) <= palabras and "\n\n" not in texto:
+        return p
+    corto = " ".join(ws[:palabras])
+    fin = max(corto.rfind(". "), corto.rfind("? "), corto.rfind("! "))
+    if fin > len(corto) // 2:
+        corto = corto[:fin + 1]
+    return corto.rstrip(" ,;:") + " …"
 
 
 def xhtml(titulo, cuerpo):
@@ -388,8 +421,9 @@ def main():
     print(f"repeticiones: {len(informe)} ({sum('SIN' in x for x in informe)} sin quitar)")
     for c in caps:
         tr = C.cargar(f"traducido/{libro}/{c:02d}.json", {})
-        archivos[f"c{c:02d}.xhtml"] = xhtml(f"{LIBRO_ES[libro]} {c}",
-                                            capitulo_xhtml(libro, c, rv, [n for n in us if C.cap(n["ref"]) == c], tr))
+        cap_html, notas_html = capitulo_xhtml(libro, c, rv, [n for n in us if C.cap(n["ref"]) == c], tr)
+        archivos[f"c{c:02d}.xhtml"] = xhtml(f"{LIBRO_ES[libro]} {c}", cap_html)
+        archivos[f"notas{c:02d}.xhtml"] = xhtml(f"Notas — {LIBRO_ES[libro]} {c}", notas_html)
     portada, fuentes, licencias = paginas_previas(libro, us, tr_total)
     intro = C.RAIZ / "editorial" / f"{libro}.md"
     previas = {"portada.xhtml": xhtml("Portada", portada)}

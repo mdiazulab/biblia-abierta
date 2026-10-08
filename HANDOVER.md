@@ -143,6 +143,9 @@ Siguiente: con saldo, orden «HEB todos» en biblia-abierta (repo público) -> j
 Notas emergentes en Kindle (08-10-2026, reporte del usuario): el Kindle muestra solo el primer bloque de la nota;
 con un <h3> de título se veía el título y nada más. Cada nota va ahora en un único <p class="nota"> (título-enlace
 de vuelta, texto y fuentes separados por <br/>); prueba test_nota_emergente_en_un_solo_bloque.
+Luego (pedido del usuario): la ventana muestra un ADELANTO (~40 palabras, los demás autores nombrados) y el vínculo
+«Leer la nota completa →»; las notas completas van en notasNN.xhtml después de cada capítulo, con el título como
+vínculo de vuelta al versículo.
 
 Pendiente:
 1. Wesley (Explanatory Notes) como segunda voz de la Reforma/avivamiento, si se quiere.

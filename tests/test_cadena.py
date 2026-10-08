@@ -144,10 +144,16 @@ class Compuerta(unittest.TestCase):
         rv = C.cargar("normalizado/rv1909/HEB.json")
         us = [n for n in C.unidades("HEB") if C.cap(n["ref"]) == 1]
         tr = C.cargar("traducido/HEB/01.json", {})
-        h = E.capitulo_xhtml("HEB", 1, rv, us, tr)
+        h, notas = E.capitulo_xhtml("HEB", 1, rv, us, tr)
         import re
-        for aside in re.findall(r'<aside epub:type="footnote"[^>]*>(.*?)</aside>', h, re.S):
+        asides = re.findall(r'<aside epub:type="footnote" id="([^"]+)">(.*?)</aside>', h, re.S)
+        self.assertTrue(asides)
+        for nid, aside in asides:
             self.assertTrue(aside.startswith('<p class="nota">') and aside.count("<p") == 1, aside[:120])
+            # adelanto breve con vínculo a la nota completa (pedido del usuario 08-10-2026)
+            self.assertIn(f'href="notas01.xhtml#f{nid}"', aside)
+            self.assertIn(f'id="f{nid}"', notas)
+            self.assertLess(len(re.sub(r"<[^>]+>", "", aside).split()), 90)
 
     def test_comillas_curvas_y_remisiones_rc(self):
         import traducir as T
