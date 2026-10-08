@@ -924,9 +924,9 @@
  },
  "uwtn-c:258813": {
   "ok": false,
-  "motivo": "Añade «(y en griego también ⸢su⸣)», referencia ausente en el inglés, y no traduce con exactitud que ⸢his⸣ y ⸢brother⸣ son masculinos.",
+  "motivo": "Añade «en griego» y no traduce exactamente que «his» y «brother» son masculinos; introduce una referencia ausente en el original.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "e735f1e38d8f"
+  "huella": "1a2cd9f2649d"
  },
  "uwtn-c:258812": {
   "ok": true,

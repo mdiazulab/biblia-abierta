@@ -671,10 +671,10 @@
   "huella": "ad584a51ae05"
  },
  "calvino:HEB.10.38#170": {
-  "ok": false,
-  "motivo": "Añade una negación: «al no rendir al hombre...» donde el inglés dice «by rendering man obedient to him».",
+  "ok": true,
+  "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "764f6eb1e300"
+  "huella": "cddfb1628fc1"
  },
  "calvino:HEB.10.39#171": {
   "ok": true,

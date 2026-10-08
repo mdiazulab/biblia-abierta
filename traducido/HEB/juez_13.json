@@ -1109,10 +1109,10 @@
   "huella": "63d7d407ee26"
  },
  "uwtn-c:259652": {
-  "ok": false,
-  "motivo": "La traducción alternativa de «the Word from God» como «la palabra de Dios» no expresa el matiz «de parte de / que viene de Dios» y coincide con la frase posesiva original; debería ser «la palabra que viene de Dios» (cf. nota uwtn:259652).",
+  "ok": true,
+  "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "80855c6f4b18"
+  "huella": "09810f3070f0"
  },
  "uwtn-c:259651": {
   "ok": true,

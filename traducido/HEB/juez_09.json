@@ -822,9 +822,9 @@
  },
  "uwtn:258939": {
   "ok": false,
-  "motivo": "Añade una nota sobre διαθήκη y RV1909 ausente en el inglés, y cambia 'the word covenant' por 'la palabra testamento'.",
+  "motivo": "El español añade una nota sobre διαθήκη y la RV1909 9:16 que no aparece en el inglés.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "c6dfeca89bf1"
+  "huella": "d1ef261bc6d0"
  },
  "uwtn:258947": {
   "ok": true,
@@ -1704,9 +1704,9 @@
  },
  "uwtn-c:258939": {
   "ok": false,
-  "motivo": "Añade una nota sobre διαθήκη y RV1909 ausente en el inglés, y cambia 'the word covenant' por 'la palabra testamento'.",
+  "motivo": "El español añade una referencia a διαθήκη y RV1909 9:16 ausente en el inglés.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "e069882263ab"
+  "huella": "a9861f72bd6e"
  },
  "uwtn-c:258937": {
   "ok": true,
