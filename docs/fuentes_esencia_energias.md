@@ -32,3 +32,22 @@ protegida) ni de Máximo en ediciones críticas modernas (Corpus Christianorum, 
 
 Traducciones de Máximo y de Palamás al inglés o al español en dominio público. Sus textos solo se pueden leer
 libremente en griego (Migne); cualquier traducción al español tendría que hacerse desde el griego.
+
+## «Ψηφιακή Πατρολογία» (Universidad del Egeo, 2006) — revisado el 08-10-2026 (enlace del usuario)
+
+PDF de texto tipeado (no OCR), alojados en khazarzar.skeptik.net/pgm/PG_Migne/, con la leyenda «Επιτρέπεται η
+ελεύθερη χρήση του υλικού με αναφορά στην πηγή προέλευσής του» (uso libre citando la fuente). La licencia del
+proyecto no cubre lo que el proyecto tomó de terceros, y la procedencia varía por obra:
+
+- **Palamás, tomos 1 y 2** (carpeta «Gregorius Palamas_PG 150-151»): no es Migne. Es el texto de la edición de
+  P. Christou (serie ΕΠΕ, Tesalónica; las marcas «(σελ. 56)» son sus páginas). Tomo 2 = las *Tríadas* completas
+  (I-III, nueve tratados, ~80 mil palabras); tomo 1 = *Discursos apodícticos* sobre la procedencia del Espíritu.
+  Estado: edición crítica moderna, derechos dudosos -> no se publica; sirve como testigo de control y, si el
+  usuario lo decide, para lectura privada.
+- **Máximo** (carpeta «Maximus Confessor_PG 90-91», PDF y .doc en extras/): tres procedencias declaradas en la
+  nota inicial: (1) TLG (licencia restringida, reproduce ediciones críticas modernas), (2) Migne 90-91 tipeado
+  (marcado en el texto con la columna, «=0364=»), (3) escolios a Dionisio escaneados de las ediciones ΒΥΖΑΝΤΙΟΝ.
+  Estado: solo los tramos con marca de columna de Migne son de dominio público y publicables; el resto, testigo.
+- Otras carpetas de la colección con el mismo formato: Dionisio (PG 3-4), Juan Damasceno (PG 94-96), Basilio
+  (PG 29-32), Gregorio de Nisa (PG 44-46, con *A Ablabio* y *Contra Eunomio*), Simeón el Nuevo Teólogo (PG 120),
+  Atanasio, Gregorio Nacianceno, Cirilo. Procedencia por revisar obra por obra (misma nota inicial).
