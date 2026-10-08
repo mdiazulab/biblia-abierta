@@ -924,9 +924,9 @@
  },
  "uwtn-c:258813": {
   "ok": false,
-  "motivo": "Traduce «his» como «su», que no es masculino en español, y afirma que «su» es masculino; se pierde la indicación de masculinidad del término original.",
+  "motivo": "Añade «(y en griego también ⸢su⸣)», referencia ausente en el inglés, y no traduce con exactitud que ⸢his⸣ y ⸢brother⸣ son masculinos.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "0c85622e268c"
+  "huella": "e735f1e38d8f"
  },
  "uwtn-c:258812": {
   "ok": true,

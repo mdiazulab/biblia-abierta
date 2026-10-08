@@ -192,9 +192,9 @@
  },
  "hcf:Irenaeus/Hebrews 13_15#0": {
   "ok": true,
-  "motivo": "Fiel y completo.",
+  "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "b751266b83b9"
+  "huella": "fdc29cc684bd"
  },
  "hcf:John Chrysostom/Hebrews 13_1#0": {
   "ok": true,
@@ -378,9 +378,9 @@
  },
  "hcf:John Chrysostom/Hebrews 13_9#1": {
   "ok": true,
-  "motivo": "Fiel y completo.",
+  "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "ea5181b2416f"
+  "huella": "e97e6a48dfba"
  },
  "hcf:Philoxenus of Mabbug/Hebrews 13_9#0": {
   "ok": true,
@@ -563,10 +563,10 @@
   "huella": "9da00b413b50"
  },
  "uwtn:259629": {
-  "ok": false,
-  "motivo": "«among all people» se traduce como «en todos los pueblos», lo que cambia el sentido a pueblos/naciones en vez de todas las personas.",
+  "ok": true,
+  "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "ae4b326032bd"
+  "huella": "526586d3b271"
  },
  "uwtn:259634": {
   "ok": true,
@@ -593,10 +593,10 @@
   "huella": "645b03495658"
  },
  "uwtn:259652": {
-  "ok": false,
-  "motivo": "«the Word» en Heb 13:7 corresponde a «la palabra» (RVA 1909), no a «el Verbo»; usar «el Verbo» cambia el sentido.",
+  "ok": true,
+  "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "b9756cfc6eb4"
+  "huella": "e39595ac48cc"
  },
  "uwtn:259667": {
   "ok": true,
@@ -953,10 +953,10 @@
   "huella": "85db0c087a9a"
  },
  "uwtn-c:259625": {
-  "ok": false,
-  "motivo": "Omite «mismos» al traducir «yourselves also» como «ustedes también»; la frase es reflexiva.",
+  "ok": true,
+  "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "1e9829413d84"
+  "huella": "30fcdf2482d7"
  },
  "uwtn-c:259627": {
   "ok": true,
@@ -1031,10 +1031,10 @@
   "huella": "cac13df1165f"
  },
  "uwtn-c:259633": {
-  "ok": false,
-  "motivo": "En la primera traducción alternativa, «loving money» se vierte como «del amor al dinero», usando el sustantivo abstracto «amor» en lugar del verbo «amar», lo que contradice la indicación y el original.",
+  "ok": true,
+  "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "fc7c7f933152"
+  "huella": "f1fc4d5d2fd3"
  },
  "uwtn-c:259636": {
   "ok": true,
@@ -1109,22 +1109,22 @@
   "huella": "63d7d407ee26"
  },
  "uwtn-c:259652": {
-  "ok": true,
-  "motivo": "",
+  "ok": false,
+  "motivo": "La traducción alternativa de «the Word from God» como «la palabra de Dios» no expresa el matiz «de parte de / que viene de Dios» y coincide con la frase posesiva original; debería ser «la palabra que viene de Dios» (cf. nota uwtn:259652).",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "436d4b1e3247"
+  "huella": "80855c6f4b18"
  },
  "uwtn-c:259651": {
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "5b96ea0f89db"
+  "huella": "4057e4387854"
  },
  "uwtn-c:259653": {
-  "ok": false,
-  "motivo": "Traduce «Word» como «Verbo», término que en RVR1909 designa a Cristo; aquí la nota dice que se refiere a lo que alguien dice, por lo que corresponde «palabra» (o «mensaje»), no «Verbo».",
+  "ok": true,
+  "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "d7c2665a36a5"
+  "huella": "02b22b7c5817"
  },
  "uwtn-c:259649": {
   "ok": true,
@@ -1349,10 +1349,10 @@
   "huella": "dc248109301b"
  },
  "uwtn-c:259690": {
-  "ok": false,
-  "motivo": "Traduce «come» y «go» como «vengan» y «vayan» (2.ª pers. plural), pero el contexto y la traducción alternativa son de 1.ª pers. plural («vengamos» / «vayamos»); cambia persona y número.",
+  "ok": true,
+  "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "4907e0c52ff4"
+  "huella": "6296e593cb1b"
  },
  "uwtn-c:259691": {
   "ok": true,

@@ -482,7 +482,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "195db6cf71d9"
+  "huella": "ae1fe936104f"
  },
  "hcf:John Chrysostom/Hebrews 11_3#2": {
   "ok": true,
@@ -2123,10 +2123,10 @@
   "huella": "246de240e6ac"
  },
  "uwtn-c:259326": {
-  "ok": false,
-  "motivo": "La segunda alternativa «of the children» se traduce como «de los descendientes», cambiando el término.",
+  "ok": true,
+  "motivo": "La traducción es fiel y completa; reproduce el sentido y las alternativas sin omisiones ni cambios relevantes.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "5245eef0fa9f"
+  "huella": "0f7daa8f4f97"
  },
  "uwtn-c:259324": {
   "ok": true,
@@ -2573,10 +2573,10 @@
   "huella": "56da3726aee2"
  },
  "uwtn-c:259396": {
-  "ok": false,
-  "motivo": "«of which people» se vierte como «de qué gente», y «being caused to wander about» se omite al traducir solo «andando errantes».",
+  "ok": true,
+  "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "5a750e4a4f50"
+  "huella": "5df3bfe9265e"
  },
  "uwtn-c:259398": {
   "ok": true,

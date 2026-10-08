@@ -593,10 +593,10 @@
   "huella": "9f3fa5ed7d34"
  },
  "uwtn:259412": {
-  "ok": false,
-  "motivo": "En la idea (1), «witness» significa observar/presenciar, pero se traduce «testificar» (dar testimonio), lo que cambia el sentido.",
+  "ok": true,
+  "motivo": "Fiel y completo.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "6ec267893199"
+  "huella": "3b9d6998af7b"
  },
  "uwtn:259420": {
   "ok": true,
@@ -1224,9 +1224,9 @@
  },
  "uwtn-c:259452": {
   "ok": false,
-  "motivo": "Se cambia la frase citada «giving up» por «desmayéis», que no equivale y no es una frase.",
+  "motivo": "Añade «(en la RV1909, «desmayando»)», que no está en el original.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "392556c23c21"
+  "huella": "0d4939207890"
  },
  "uwtn-c:259449": {
   "ok": true,
@@ -1236,9 +1236,9 @@
  },
  "uwtn-c:259448": {
   "ok": false,
-  "motivo": "Se traduce «My child» como «Hijo mío», masculino, no como opción neutra; se pierde el sentido de la alternativa propuesta.",
+  "motivo": "La traducción alternativa añade «hija mía» y cambia «My child» por «Hijo mío, hija mía».",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "e28e16485e17"
+  "huella": "ec84b16e3385"
  },
  "uwtn-c:259453": {
   "ok": true,
@@ -2154,9 +2154,9 @@
  },
  "uwtn-c:259604": {
   "ok": false,
-  "motivo": "«shaken» se traduce igual que «shake» («temblar»), omitiendo la tercera forma y su distinción.",
+  "motivo": "Añade la nota parentética de RV1909 («conmovió», «conmoveré», «movibles»), ausente en el original.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "0fef6c67920b"
+  "huella": "dccb3b9ff86c"
  },
  "uwtn-c:259607": {
   "ok": true,
@@ -2211,5 +2211,11 @@
   "motivo": "Fiel y completo.",
   "modelo": "deepseek:deepseek-reasoner",
   "huella": "17a2b3326cb8"
+ },
+ "uwtn-c:259507": {
+  "ok": true,
+  "motivo": "Fiel y completo.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "dad310e03ac3"
  }
 }

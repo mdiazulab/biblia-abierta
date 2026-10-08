@@ -509,10 +509,10 @@
   "huella": "e7b0caaf66e6"
  },
  "calvino:HEB.9.24#138": {
-  "ok": false,
-  "motivo": "La frase «The holy places he takes for the sanctuary» se traduce como «El santuario lo toma por el santuario», omitiendo «lugares santos» y volviendo tautológica la distinción.",
+  "ok": true,
+  "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "92b17fcd9252"
+  "huella": "45d81faaebce"
  },
  "calvino:HEB.9.25#139": {
   "ok": true,
@@ -821,10 +821,10 @@
   "huella": "b10b575736ce"
  },
  "uwtn:258939": {
-  "ok": true,
-  "motivo": "Fiel y completo.",
+  "ok": false,
+  "motivo": "Añade una nota sobre διαθήκη y RV1909 ausente en el inglés, y cambia 'the word covenant' por 'la palabra testamento'.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "bd76c65d1d44"
+  "huella": "c6dfeca89bf1"
  },
  "uwtn:258947": {
   "ok": true,
@@ -1703,10 +1703,10 @@
   "huella": "4e0f05dad0e7"
  },
  "uwtn-c:258939": {
-  "ok": true,
-  "motivo": "",
+  "ok": false,
+  "motivo": "Añade una nota sobre διαθήκη y RV1909 ausente en el inglés, y cambia 'the word covenant' por 'la palabra testamento'.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "9006fb933a80"
+  "huella": "e069882263ab"
  },
  "uwtn-c:258937": {
   "ok": true,

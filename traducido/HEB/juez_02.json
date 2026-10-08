@@ -422,7 +422,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "ae0a75129363"
+  "huella": "cdeb1590549f"
  },
  "uwtn:258108": {
   "ok": true,
@@ -1127,10 +1127,10 @@
   "huella": "83b95e8de056"
  },
  "uwtn-c:258192": {
-  "ok": false,
-  "motivo": "Omite «little» en «I and the little children»; traduce solo «yo y los niños» en lugar de «yo y los niños pequeños».",
+  "ok": true,
+  "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "13ede100d7a5"
+  "huella": "a9ceb2a03151"
  },
  "uwtn-c:258194": {
   "ok": true,

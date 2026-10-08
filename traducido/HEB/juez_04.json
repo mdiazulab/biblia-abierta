@@ -111,7 +111,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "9fc9eb4e405f"
+  "huella": "88b6e0e34ba5"
  },
  "hcf:Augustine of Hippo/Hebrews 4_9#0": {
   "ok": true,
@@ -141,7 +141,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "4649bf71d535"
+  "huella": "8ca84775d8f6"
  },
  "hcf:John Chrysostom/Hebrews 4_1-2#1": {
   "ok": true,
@@ -165,13 +165,13 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "5ed5c8c6739b"
+  "huella": "f5764edfc246"
  },
  "hcf:John Chrysostom/Hebrews 4_12#0": {
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "99e55cafc88b"
+  "huella": "4af9516b8b23"
  },
  "hcf:John Chrysostom/Hebrews 4_12#1": {
   "ok": true,

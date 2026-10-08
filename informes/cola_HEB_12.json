@@ -1,26 +1,20 @@
 [
  {
-  "id": "uwtn:259412",
-  "motivo": "En la idea (1), «witness» significa observar/presenciar, pero se traduce «testificar» (dar testimonio), lo que cambia el sentido.",
-  "en": "Here, the word ⸢witnesses⸣ could refer to one or both of the following ideas: (1) the ⸢witnesses⸣ could “witness” or watch ⸢us⸣ as we ⸢run⸣ the ⸢race⸣. («of spectators»); (2) the ⸢witnesses⸣ could “witness” or testify to what it means to have faith and endurance. («of witnesses to faith»)",
-  "es": "Aquí, la palabra ⸢testigos⸣ podría referirse a una o a ambas de las siguientes ideas: (1) los ⸢testigos⸣ podrían «testificar» o mirarnos mientras ⸢corremos⸣ la ⸢carrera⸣. («de espectadores»); (2) los ⸢testigos⸣ podrían «testificar» o dar testimonio de lo que significa tener fe y perseverancia. («de testigos de la fe»)"
- },
- {
   "id": "uwtn-c:259452",
-  "motivo": "Se cambia la frase citada «giving up» por «desmayéis», que no equivale y no es una frase.",
+  "motivo": "Añade «(en la RV1909, «desmayando»)», que no está en el original.",
   "en": "See how you translated the same idea in 12:3, where the ULT translates the same word with the phrase “giving up.”",
-  "es": "Vea cómo tradujo la misma idea en 12:3, donde la ULT traduce la misma palabra con la frase «desmayéis»."
+  "es": "Vea cómo tradujo la misma idea en 12:3, donde la ULT traduce la misma palabra con la frase «darse por vencido» (en la RV1909, «desmayando»)."
  },
  {
   "id": "uwtn-c:259448",
-  "motivo": "Se traduce «My child» como «Hijo mío», masculino, no como opción neutra; se pierde el sentido de la alternativa propuesta.",
+  "motivo": "La traducción alternativa añade «hija mía» y cambia «My child» por «Hijo mío, hija mía».",
   "en": "Although the words ⸢sons⸣ and ⸢son⸣ are masculine, the author is using them to refer to all children, both male and female. If it would be helpful in your language, you could use a word that applies to both men and women or you could refer to both genders. Alternate translation: «as sons and daughters: ‘My child»",
-  "es": "Aunque las palabras ⸢hijos⸣ e ⸢hijo⸣ son masculinas, el autor las usa para referirse a todos los hijos, tanto varones como mujeres. Si fuera útil en su idioma, podría usar una palabra que se aplique tanto a hombres como a mujeres, o podría referirse a ambos géneros. Traducción alternativa: «como hijos e hijas: “Hijo mío»"
+  "es": "Aunque las palabras ⸢hijos⸣ e ⸢hijo⸣ son masculinas, el autor las usa para referirse a todos los hijos, tanto varones como mujeres. Si fuera útil en su idioma, podría usar una palabra que se aplique tanto a hombres como a mujeres, o podría referirse a ambos géneros. Traducción alternativa: «como hijos e hijas: “Hijo mío, hija mía»"
  },
  {
   "id": "uwtn-c:259604",
-  "motivo": "«shaken» se traduce igual que «shake» («temblar»), omitiendo la tercera forma y su distinción.",
+  "motivo": "Añade la nota parentética de RV1909 («conmovió», «conmoveré», «movibles»), ausente en el original.",
   "en": "See how you translated “shook,” “shake,” and “shaken” in Hebrews 12:26–27.",
-  "es": "Vea cómo tradujo «tembló», «temblar» y «temblar» en Hebreos 12:26–27."
+  "es": "Vea cómo tradujo «sacudió», «sacudiré» y «sacudidas» (en la RV1909, «conmovió», «conmoveré» y «movibles») en Hebreos 12:26–27."
  }
 ]

@@ -368,7 +368,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "65d012a8306e"
+  "huella": "1088435a4176"
  },
  "calvino:HEB.7.4#89": {
   "ok": true,
@@ -1025,10 +1025,10 @@
   "huella": "4327645a4a24"
  },
  "uwtn-c:258626": {
-  "ok": false,
-  "motivo": "«carácter» traduce mal «character» en el sentido de personaje; debería ser «personaje» (o «figura»), porque «el carácter Melchisedec» cambia el sentido a su personalidad/conducta.",
+  "ok": true,
+  "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "5f81bf0d0305"
+  "huella": "5c1db302ef38"
  },
  "uwtn-c:258622": {
   "ok": true,

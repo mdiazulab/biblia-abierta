@@ -41,10 +41,10 @@
   "huella": "f8de0decfa11"
  },
  "aquifer:13120": {
-  "ok": true,
-  "motivo": "Fiel y completo",
+  "ok": false,
+  "motivo": "En la segunda cita se omite «I have come/vengo» y se añade «oh Dios» respecto del inglés.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "54a747173aae"
+  "huella": "f9833af7a4df"
  },
  "aquifer:13090": {
   "ok": true,
@@ -230,7 +230,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "57c91566922e"
+  "huella": "d8d28ddead75"
  },
  "hcf:Cyril of Jerusalem/Hebrews 10_22#0": {
   "ok": true,
@@ -587,10 +587,10 @@
   "huella": "0099d89583b1"
  },
  "calvino:HEB.10.23#156": {
-  "ok": false,
-  "motivo": "Invierte la relación en «la cual contiene su palabra»: el original dice que la promesa es contenida por la palabra de Dios («which his word contains»), no que la promesa contenga la palabra.",
+  "ok": true,
+  "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "7291275df446"
+  "huella": "fb67880f746e"
  },
  "calvino:HEB.10.24#157": {
   "ok": true,
@@ -666,15 +666,15 @@
  },
  "calvino:HEB.10.37#169": {
   "ok": true,
-  "motivo": "Fiel y completo.",
+  "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "59fc3be8c3a3"
+  "huella": "ad584a51ae05"
  },
  "calvino:HEB.10.38#170": {
   "ok": false,
-  "motivo": "Traduce «a quiet standing» como «una morada tranquila», lo que cambia el sentido de posición/estado firme por el de lugar de habitación.",
+  "motivo": "Añade una negación: «al no rendir al hombre...» donde el inglés dice «by rendering man obedient to him».",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "c472e5a599e6"
+  "huella": "764f6eb1e300"
  },
  "calvino:HEB.10.39#171": {
   "ok": true,
@@ -1595,10 +1595,10 @@
   "huella": "c8a2da6f0c31"
  },
  "uwtn-c:259097": {
-  "ok": false,
-  "motivo": "Traduce «which» por «cual/cuál»; la alternativa «cuál entrada» es interrogativa y no equivale a «which entrance».",
+  "ok": true,
+  "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "f1a0fe239b41"
+  "huella": "d5e8473e8590"
  },
  "uwtn-c:259101": {
   "ok": true,

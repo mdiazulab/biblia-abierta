@@ -315,7 +315,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "2f4b358dd5a4"
+  "huella": "ca8a4b96eeba"
  },
  "_calibracion": {
   "detect": 18,
@@ -1139,10 +1139,10 @@
   "huella": "6e897d7d1b99"
  },
  "uwtn-c:258086": {
-  "ok": false,
-  "motivo": "Traduce 'them' y 'they' ambos como 'ellos', eliminando la distinción entre pronombre objeto y sujeto.",
+  "ok": true,
+  "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "590d3053eb54"
+  "huella": "4d9a98465b22"
  },
  "uwtn-c:258088": {
   "ok": true,
@@ -1367,10 +1367,10 @@
   "huella": "f3f781b4110f"
  },
  "uwtm:33265": {
-  "ok": false,
-  "motivo": "«útil⸢mente⸣ no» no corresponde a 'use⸢less⸣' y la cita de 2 Tes 3:9a cambia el sentido: 'no porque tengamos ninguna autoridad' no equivale a 'not because we have no authority'.",
+  "ok": true,
+  "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "5035ee497e81"
+  "huella": "660decd97352"
  },
  "uwtm:33266": {
   "ok": true,
@@ -1379,10 +1379,10 @@
   "huella": "31dafa0afd43"
  },
  "uwtm:33267": {
-  "ok": false,
-  "motivo": "En la oración completa marca ⸢en⸣ como palabra suplida, pero 'en' ya está en la frase elíptica; solo se suple 'se levantarán'.",
+  "ok": true,
+  "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "e303bfdfda90"
+  "huella": "75835f5813c1"
  },
  "uwtm:33280": {
   "ok": true,
@@ -1478,7 +1478,7 @@
   "ok": true,
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "2934d97b0c03"
+  "huella": "c20535471edf"
  },
  "uwtm:33293": {
   "ok": true,

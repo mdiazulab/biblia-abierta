@@ -127,9 +127,9 @@
  },
  "hcf:John Chrysostom/Hebrews 5_1-3#0": {
   "ok": true,
-  "motivo": "",
+  "motivo": "Fiel y completo.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "586251128a1c"
+  "huella": "926106c018c0"
  },
  "hcf:John Chrysostom/Hebrews 5_11#0": {
   "ok": true,
@@ -278,7 +278,7 @@
   "ok": true,
   "motivo": "Fiel y completo.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "66a188c31613"
+  "huella": "bb357c2324b2"
  },
  "calvino:HEB.5.9#66": {
   "ok": true,
@@ -314,7 +314,7 @@
   "ok": true,
   "motivo": "Fiel y completo.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "d1805f6002b1"
+  "huella": "f8612b419296"
  },
  "uwtn:258430": {
   "ok": true,
