@@ -431,6 +431,9 @@ def main():
         previas["introduccion.xhtml"] = xhtml("Introducción", md_xhtml(intro.read_text()))
     previas["fuentes.xhtml"] = xhtml("Fuentes", fuentes)
     usados = [n for n in us if n["id"] in tr_total]
+    apendice = C.RAIZ / "editorial" / f"{libro}_apendice.md"
+    if apendice.exists():                              # ensayo editorial (Hebreos: Máximo y Palamás, 08-10-2026)
+        archivos["apendice.xhtml"] = xhtml("Apéndice", md_xhtml(apendice.read_text()))
     archivos = {**previas, **archivos, "padres.xhtml": xhtml("Los autores en su contexto", padres_xhtml(usados)),
                 "licencias.xhtml": xhtml("Licencias", licencias)}
     items = "".join(f'<li><a href="c{c:02d}.xhtml">{LIBRO_ES[libro]} {c}</a></li>' for c in caps)
@@ -439,7 +442,9 @@ def main():
     nav = xhtml("Índice", f'<nav epub:type="toc" id="toc"><h1>Índice</h1><ol>{li_intro}'
                 '<li><a href="fuentes.xhtml">Fuentes y cómo leer las notas</a></li>'
                 f'<li><a href="c{caps[0]:02d}.xhtml">{x(LIBROS[libro]["titulo"])}</a><ol>{items}</ol></li>'
-                '<li><a href="padres.xhtml">Los autores en su contexto</a></li>'
+                + ('<li><a href="apendice.xhtml">' + x(re.sub(r"^#\s*", "", apendice.read_text().splitlines()[0])) + '</a></li>'
+                   if apendice.exists() else "")
+                + '<li><a href="padres.xhtml">Los autores en su contexto</a></li>'
                 '<li><a href="licencias.xhtml">Atribuciones y licencias</a></li></ol></nav>')
     ident = f"urn:uuid:{uuid.uuid5(uuid.NAMESPACE_URL, 'biblia-abierta/' + libro)}"
     hoy = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
