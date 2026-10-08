@@ -1,2 +1,2 @@
-ninguna
-# línea 1 = orden para la cadena («HEB todos»). Requiere los secretos del repositorio.
+HEB todos
+# 2026-10-08T18:05:18Z: juez de lo pendiente (586 notas) y retraducción de 13 notas del cap. 13, con saldo nuevo
