@@ -140,6 +140,10 @@ aplicadas a Juan y Hebreos: comillas curvas “…” -> «…» (291 notas), re
 pendiente, 402 corta la corrida, ejemplos ULT del glosario se traducen del inglés (regla del glosario).
 Siguiente: con saldo, orden «HEB todos» en biblia-abierta (repo público) -> juez de lo pendiente y retraducción.
 
+Notas emergentes en Kindle (08-10-2026, reporte del usuario): el Kindle muestra solo el primer bloque de la nota;
+con un <h3> de título se veía el título y nada más. Cada nota va ahora en un único <p class="nota"> (título-enlace
+de vuelta, texto y fuentes separados por <br/>); prueba test_nota_emergente_en_un_solo_bloque.
+
 Pendiente:
 1. Wesley (Explanatory Notes) como segunda voz de la Reforma/avivamiento, si se quiere.
 2. Solo DeepSeek (decisión del usuario 06-10-2026: Gemini sin créditos): TRADUCTOR deepseek-chat, CONTROL

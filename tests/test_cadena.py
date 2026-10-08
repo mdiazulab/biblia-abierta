@@ -138,6 +138,17 @@ class Compuerta(unittest.TestCase):
         self.assertIsNotNone(m)
         self.assertNotEqual(m, "Jesús es el Verbo. Vino en el año 30. Fue enviado.")
 
+    def test_nota_emergente_en_un_solo_bloque(self):
+        # Kindle muestra solo el primer bloque de la nota: título, texto y fuente van en un único <p>
+        import epub as E
+        rv = C.cargar("normalizado/rv1909/HEB.json")
+        us = [n for n in C.unidades("HEB") if C.cap(n["ref"]) == 1]
+        tr = C.cargar("traducido/HEB/01.json", {})
+        h = E.capitulo_xhtml("HEB", 1, rv, us, tr)
+        import re
+        for aside in re.findall(r'<aside epub:type="footnote"[^>]*>(.*?)</aside>', h, re.S):
+            self.assertTrue(aside.startswith('<p class="nota">') and aside.count("<p") == 1, aside[:120])
+
     def test_comillas_curvas_y_remisiones_rc(self):
         import traducir as T
         self.assertEqual(T.comillas("palabras con “perfección,” y «dijo “sí”»"), "palabras con «perfección», y «dijo “sí”»")

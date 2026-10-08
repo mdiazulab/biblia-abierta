@@ -108,6 +108,7 @@ aside p { text-indent: 0; }
 .autor { font-weight: bold; font-variant: small-caps; }
 .trad { font-size: 0.8em; color: #555; }
 .fuente { font-size: 0.82em; color: #444; font-style: italic; }
+p.nota { text-align: left; } a.vuelta { font-weight: bold; color: inherit; }
 nav#toc ol { list-style-type: none; padding-left: 1.2em; } nav#toc > ol { padding-left: 0; }
 nav#toc li { text-align: left; margin: 0.25em 0; } nav#toc a { text-decoration: none; }
 .portada { text-align: center; margin-top: 30%; }
@@ -121,11 +122,11 @@ def x(t):
     return html.escape(t, quote=False)
 
 
-def inline(t):
-    """Escapa, normaliza citas bíblicas y convierte ⸢…⸣ en cursiva."""
+def inline(t, salto="</p><p>"):
+    """Escapa, normaliza citas bíblicas y convierte ⸢…⸣ en cursiva; los párrafos se separan con «salto»."""
     t = B.normalizar(t)
     t = x(t).replace("⸢", "<em>").replace("⸣", "</em>")
-    t = t.replace("\n\n", "</p><p>")
+    t = t.replace("\n\n", salto)
     return t + "</em>" * (t.count("<em>") - t.count("</em>"))
 
 
@@ -201,7 +202,7 @@ def atribucion(n):
     nombre = (f'<a class="autor" href="padres.xhtml#{ancla_autor(s["author"])}">{x(autor)}</a>' if s["author"] in FICHAS
               else f'<span class="autor">{x(autor)}</span>')
     return (f'{nombre} <span class="trad">({trad})</span>',
-            f'<p class="fuente">{donde}.' + (f" {x(ed)}" if ed else "") + "</p>")
+            f'<span class="fuente">{donde}.' + (f" {x(ed)}" if ed else "") + "</span>")
 
 
 DEPURADO = {}
@@ -255,6 +256,9 @@ def sin_repeticiones(libro, us, tr):
     return salida, informe
 
 
+SALTO = "<br/><br/>"          # separación de párrafos dentro de una nota emergente (un solo bloque)
+
+
 def griego_cab(n, t):
     """«τετελείωκεν… (hizo perfectos): » — la frase griega y, entre paréntesis, el tramo de la RV1909 al que se
     ancló la glosa (o la glosa traducida si no se ancló)."""
@@ -297,15 +301,17 @@ def capitulo_xhtml(libro, c, rv, ns, tr):
                         cab = (f'<span class="lema">{x("; ".join(lemas))}:</span> ' if lemas
                                else f'<span class="lema">v. {C.ver(n["ref"])}' +
                                (f'-{C.ver(n["ref_fin"])}' if n.get("ref_fin", n["ref"]) != n["ref"] else "") + ":</span> ")
-                        bloques.append(f"<p>{cab}{inline(t['text_es'])}</p>")
+                        bloques.append(f"{cab}{inline(t['text_es'], SALTO)}")
                     elif capa == "g":
-                        bloques.append(f"<p>{griego_cab(n, t)}{inline(t['text_es'])}</p>")
+                        bloques.append(f"{griego_cab(n, t)}{inline(t['text_es'], SALTO)}")
                     else:
                         quien, fuente = atribucion(n)
-                        bloques.append(f"<p>{quien}: {inline(t['text_es'])}</p>{fuente}")
+                        bloques.append(f"{quien}: {inline(t['text_es'], SALTO)}<br/>{fuente}")
                 titulo = {"c": "Contexto", "g": "El texto griego", "p": "Padres de la Iglesia", "r": "Reforma"}[capa] + f" — {LIBRO_ES[libro]} {c}:{v}"
-                notas.append(f'<aside epub:type="footnote" id="{nid}"><h3><a href="#r{nid}">{x(titulo)}</a></h3>'
-                             + "".join(bloques) + "</aside>")
+                # Kindle muestra en la ventana emergente solo el primer bloque de la nota (08-10-2026: con un <h3>
+                # de título se veía el título y nada más): toda la nota va en un único párrafo, con <br/> entre partes
+                notas.append(f'<aside epub:type="footnote" id="{nid}"><p class="nota"><a class="vuelta" href="#r{nid}">'
+                             f'{x(titulo)}</a><br/>' + SALTO.join(bloques) + "</p></aside>")
         texto = x(rv[ref]["texto"]).replace("⸢", "<em>").replace("⸣", "</em>")
         cuerpo.append(f'<p class="v" id="v{c}-{v}"><sup class="n">{v}</sup>{texto}{llamadas}</p>')
     return (f'<h1 id="c{c}">{LIBRO_ES[libro]} {c}</h1>\n' + "\n".join(cuerpo)
