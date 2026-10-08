@@ -510,9 +510,9 @@
  },
  "calvino:HEB.9.24#138": {
   "ok": false,
-  "motivo": "Traduce «The holy places» como «El lugar santísimo», término que no corresponde al pasaje ni al sentido (Heb 9:24 usa «santuario»).",
+  "motivo": "La frase «The holy places he takes for the sanctuary» se traduce como «El santuario lo toma por el santuario», omitiendo «lugares santos» y volviendo tautológica la distinción.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "4cbfb8628e5f"
+  "huella": "92b17fcd9252"
  },
  "calvino:HEB.9.25#139": {
   "ok": true,
@@ -821,10 +821,10 @@
   "huella": "b10b575736ce"
  },
  "uwtn:258939": {
-  "ok": false,
-  "motivo": "Traduce «covenant» como «pacto», pero en Heb 9:16 la RV1909 usa «testamento»; cambia el referente del término.",
+  "ok": true,
+  "motivo": "Fiel y completo.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "8099b962efc8"
+  "huella": "bd76c65d1d44"
  },
  "uwtn:258947": {
   "ok": true,
@@ -1139,10 +1139,10 @@
   "huella": "8535920b9d49"
  },
  "uwtn-c:258843": {
-  "ok": false,
-  "motivo": "Traduce «tent» como «tabernáculo» en lugar de «tienda», produciendo una frase incorrecta («el tabernáculo... parte interior del tabernáculo»).",
+  "ok": true,
+  "motivo": "Fiel y completo.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "4c422fd0876c"
+  "huella": "268a37183ee9"
  },
  "uwtn-c:258845": {
   "ok": true,

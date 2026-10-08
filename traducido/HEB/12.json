@@ -1072,12 +1072,13 @@
   "modelo_2": "deepseek:deepseek-reasoner"
  },
  "uwtn-c:en_tn_HEB_h1qb#1": {
-  "text_es": "Conceptos religiosos y culturales en este capítulo\n\nHijos\n\nEn 12:5–11, el autor identifica a la audiencia como «hijos» y explica lo que eso significa. En la cultura del autor, los «hijos» eran los niños que heredaban propiedades y recibían formación de los padres y de otros maestros. El autor no excluye a las mujeres de su audiencia; más bien, las llama también «hijas» de Dios, ya que ellas reciben la formación de Dios. Es posible que necesite traducir «hijos» con una palabra neutra en cuanto al género para comunicar esta idea. El autor supone que todos los verdaderos «hijos» reciben formación y disciplina. Solo aquellos que no son plenamente «hijos», es decir, los hijos «ilegítimos», no reciben tal formación y disciplina. El punto del autor es que, cuando la audiencia experimenta sufrimiento y acontecimientos dolorosos, es la formación o disciplina lo que prueba que son «hijos». Si es posible, conserve el lenguaje de hijos y padres en su traducción. Si sus lectores no supondrían que los padres forman o disciplinan a sus hijos, es posible que necesite explicar en una nota al pie que esta era una práctica común en la cultura del autor.",
+  "text_es": "Conceptos religiosos y culturales en este capítulo\n\nHijos\n\nEn 12:5–11, el autor identifica a su audiencia como «hijos» y explica lo que eso significa. En la cultura del autor, los «hijos» eran los niños que heredaban propiedades y recibían instrucción de los padres y de otros maestros. El autor no está excluyendo a las mujeres de su audiencia; más bien, también las llama «hijos» de Dios, ya que ellas reciben la instrucción de Dios. Es posible que necesite traducir «hijos» con una palabra de género neutro para comunicar esta idea. El autor da por sentado que todos los verdaderos «hijos» reciben instrucción y disciplina. Solo quienes no son plenamente «hijos», es decir, quienes son hijos «ilegítimos», no reciben tal instrucción y disciplina. El punto del autor es que, cuando la audiencia experimenta sufrimiento y acontecimientos dolorosos, es la instrucción o la disciplina lo que prueba que son «hijos». Si es posible, conserve el lenguaje de hijos y padres en su traducción. Si sus lectores no darían por sentado que los padres instruyen o disciplinan a sus hijos, es posible que necesite explicar en una nota al pie que esta era una práctica común en la cultura del autor.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
   "huella": "9bd836458177",
   "text_es_2": "Conceptos religiosos y culturales en este capítulo\n\nHijos\n\nEn 12:5–11, el autor identifica a la audiencia como «hijos» y explica lo que eso significa. En la cultura del autor, los «hijos» eran los niños que heredaban propiedades y recibían formación de los padres y otros maestros. El autor no excluye a las mujeres de su audiencia; más bien, también las llama «hijos» de Dios, puesto que reciben la formación de Dios. Es posible que necesite traducir «hijos» con una palabra neutra en cuanto al género para comunicar esta idea. El autor supone que todos los «hijos» verdaderos reciben formación y disciplina. Solo aquellos que no son plenamente «hijos», es decir, los que son hijos «ilegítimos», no reciben tal formación y disciplina. El punto del autor es que, cuando la audiencia experimenta sufrimiento y acontecimientos dolorosos, es la formación o la disciplina lo que demuestra que son «hijos». Si es posible, conserve el lenguaje de hijos y padres en su traducción. Si sus lectores no supondrían que los padres forman o disciplinan a sus hijos, es posible que necesite explicar en una nota al pie que esta era una práctica común en la cultura del autor.",
-  "modelo_2": "deepseek:deepseek-reasoner"
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "corregido_por_juez": "En la frase sobre llamarlas «sons» de Dios, traduce «sons» como «hijas», alterando el sentido."
  },
  "uwtn-c:en_tn_HEB_h1qb#10": {
   "text_es": "«Os habéis acercado»\n\nEn 12:18, el autor afirma que la audiencia «no se ha acercado» al monte al que se acercaron los israelitas. Más bien, afirma en 12:22 que «se han acercado» al monte Sion. Puesto que los israelitas solo podían aproximarse pero no subir a la cima del monte Sinaí, es probable que la frase «os habéis acercado» se refiera a acercarse a algo pero no entrar en ello ni subir a ello. Esto significa que la audiencia no ha entrado en el monte Sion o Jerusalén celestial. Más bien, se ha acercado o aproximado a él mientras aún está en la tierra. Use palabras en estos versículos que se refieran a acercarse o aproximarse a algo.",
@@ -1144,15 +1145,16 @@
   "modelo_2": "deepseek:deepseek-reasoner"
  },
  "uwtn-c:en_tn_HEB_h1qb#9": {
-  "text_es": "Cuestiones de traducción en este capítulo\n\nLa comparación con Esaú\n\nEn 12:16–17, el autor insta a su audiencia a no ser «sexualmente inmoral» ni «profano». Luego, identifica a Esaú, el hijo de Isaac y hermano de Jacob, como un ejemplo de alguien que era ambas cosas. El Antiguo Testamento no describe directamente a Esaú como «sexualmente inmoral», pero sí cuenta cómo tuvo múltiples esposas de naciones paganas. La tradición posterior a veces lo describió como «inmoral» por esta razón. Sin embargo, el autor se enfoca particularmente en cómo Esaú era «profano», es decir, alguien que trata las cosas sagradas o santas como si fueran ordinarias y no santas. Como ejemplo, se refiere brevemente a cómo Esaú tenía hambre y vendió su «primogenitura» a su hermano Jacob para conseguir algo de comida. Una «primogenitura» es algo valioso e importante, pero Esaú la consideró menos importante que una comida. Puede leer esta historia en Génesis 25:29–34. El autor luego pasa a describir cómo Esaú no pudo recuperar su «primogenitura», aunque lo intentó. Según la historia del Antiguo Testamento, Jacob recibió la bendición especial de su padre, y Esaú no. Puede leer esta historia en Génesis 27:1–41. Si sus lectores no conocieran estas historias sobre Esaú, es posible que necesite incluir información adicional en una nota al pie. (Vea:)",
+  "text_es": "Problemas de traducción en este capítulo\n\nLa comparación con Esaú\n\nEn 12:16–17, el autor insta a su audiencia a no ser «inmoral sexual» ni «profano». Luego identifica a Esaú, el hijo de Isaac y hermano de Jacob, como ejemplo de alguien que era ambas cosas. El Antiguo Testamento no describe directamente a Esaú como «inmoral sexual», pero sí cuenta cómo tuvo varias esposas de naciones paganas. Más tarde, la tradición a veces lo describió como «inmoral» por esta razón. Sin embargo, el autor se centra particularmente en cómo Esaú era «profano», es decir, alguien que trata las cosas sagradas o santas como si fueran comunes y no santas. Como ejemplo, se refiere brevemente a cómo Esaú tenía hambre y vendió su «primogenitura» a su hermano Jacob para conseguir algo de comida. Una «primogenitura» es algo valioso e importante, pero Esaú la consideró menos importante que una comida. Puede leer esta historia en Génesis 25:29–34. El autor luego pasa a describir cómo Esaú no pudo recuperar su «primogenitura», aunque lo intentó. Según la historia que cuenta el Antiguo Testamento, Jacob recibió la bendición especial de su padre, y Esaú no. Puede leer esta historia en Génesis 27:1–41. Si sus lectores no conocieran estas historias sobre Esaú, es posible que necesite incluir información adicional en una nota al pie.",
   "lemas_es": [],
   "modelo": "deepseek:deepseek-chat",
   "huella": "9eeb00498ab9",
   "text_es_2": "Cuestiones de traducción en este capítulo\n\nLa comparación con Esaú\n\nEn 12:16–17, el autor insta a su audiencia a no ser «sexualmente inmoral» ni «profano». Luego identifica a Esaú, el hijo de Isaac y hermano de Jacob, como ejemplo de alguien que fue ambas cosas. El Antiguo Testamento no describe directamente a Esaú como «sexualmente inmoral», pero sí cuenta cómo tuvo múltiples esposas de naciones paganas. Más tarde, la tradición a veces lo describió como «inmoral» por esto. Sin embargo, el autor se centra particularmente en cómo Esaú fue «profano», es decir, alguien que trata las cosas sagradas o santas como si fueran ordinarias y no santas. Como ejemplo, menciona brevemente cómo Esaú tenía hambre y vendió su «primogenitura» a su hermano Jacob para conseguir algo de comida. Una «primogenitura» es una cosa valiosa e importante, pero Esaú la consideró menos importante que una comida. Puede leer esta historia en Génesis 25:29–34. El autor luego describe cómo Esaú no pudo recuperar su «primogenitura», aunque intentó hacerlo. Como la cuenta la historia en el Antiguo Testamento, Jacob recibió la bendición especial de su padre, y Esaú no. Puede leer esta historia en Génesis 27:1–41. Si sus lectores no conocieran estas historias sobre Esaú, es posible que necesite incluir información adicional en una nota al pie.",
-  "modelo_2": "deepseek:deepseek-reasoner"
+  "modelo_2": "deepseek:deepseek-reasoner",
+  "corregido_por_juez": "Añade «Vea:» al final, que no aparece en el inglés."
  },
  "uwtn:259412": {
-  "text_es": "Aquí, la palabra ⸢testigos⸣ podría referirse a una o ambas de las siguientes ideas: (1) los ⸢testigos⸣ podrían «presenciar» o mirar ⸢nosotros⸣ mientras ⸢corremos⸣ la ⸢carrera⸣. («de espectadores»); (2) los ⸢testigos⸣ podrían «testificar» o dar testimonio de lo que significa tener fe y perseverancia. («de testigos de la fe»)",
+  "text_es": "Aquí, la palabra ⸢testigos⸣ podría referirse a una o a ambas de las siguientes ideas: (1) los ⸢testigos⸣ podrían «testificar» o mirarnos mientras ⸢corremos⸣ la ⸢carrera⸣. («de espectadores»); (2) los ⸢testigos⸣ podrían «testificar» o dar testimonio de lo que significa tener fe y perseverancia. («de testigos de la fe»)",
   "lemas_es": [
    "de testigos"
   ],
@@ -1165,7 +1167,8 @@
     "lema": "de testigos",
     "ref": "HEB.12.1"
    }
-  ]
+  ],
+  "corregido_por_juez": "Falta el pronombre/preposición de objeto directo en «mirar ⸢nosotros⸣»; debe ser «mirarnos» o «mirar a nosotros»."
  },
  "uwtn-c:259419": {
   "text_es": "El autor habla como si la audiencia pudiera «apartar la vista» de cualquier problema o persecución y dirigirla hacia ⸢Jesús⸣. Habla de esta manera para indicar que quiere que su audiencia piense y se enfoque en ⸢Jesús⸣ en lugar de en problemas o persecución. Si sería útil en su idioma, podría expresar el significado de manera clara. Traducción alternativa: «concentrándose más bien en»",
@@ -1672,18 +1675,19 @@
   ]
  },
  "uwtn-c:259448": {
-  "text_es": "Aunque las palabras ⸢hijos⸣ e ⸢hijo⸣ son masculinas, el autor las usa para referirse a todos los hijos, tanto varones como mujeres. Si fuera útil en su idioma, podría usar una palabra que se aplique tanto a hombres como a mujeres, o podría referirse a ambos géneros. Traducción alternativa: «como a hijos e hijas: “Hijo mío»",
+  "text_es": "Aunque las palabras ⸢hijos⸣ e ⸢hijo⸣ son masculinas, el autor las usa para referirse a todos los hijos, tanto varones como mujeres. Si fuera útil en su idioma, podría usar una palabra que se aplique tanto a hombres como a mujeres, o podría referirse a ambos géneros. Traducción alternativa: «como hijos e hijas: “Hijo mío»",
   "lemas_es": [
-   "como a hijos: “Hijo mío"
+   "como hijos: “Hijo mío"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "65274ac1a2da",
   "lemas_rv1909": [
    {
-    "lema": "hijos habla con vosotros, ⸢diciendo⸣: Hijo mío",
+    "lema": "Hijo mío",
     "ref": "HEB.12.5"
    }
-  ]
+  ],
+  "corregido_por_juez": "Traduce «My child» por «Hijo mío», que es masculino; el original alternativo busca una expresión inclusiva y se cambia el sentido de la nota sobre género."
  },
  "uwtn-c:259449": {
   "text_es": "Estas dos oraciones significan básicamente lo mismo. La segunda enfatiza el significado de la primera al repetir la misma idea con palabras diferentes. La poesía hebrea se basaba en este tipo de repetición, y sería bueno mostrárselo a sus lectores incluyendo ambas oraciones en su traducción en lugar de combinarlas. Sin embargo, si la repetición pudiera confundir, podría conectar las frases con una palabra distinta de ⸢ni⸣ para mostrar que la segunda frase repite la primera, y no dice algo adicional. Traducción alternativa: «no menosprecies la disciplina del Señor; sí, no te canses cuando él te reprenda»",
@@ -1730,7 +1734,7 @@
  "uwtn-c:259452": {
   "text_es": "Vea cómo tradujo la misma idea en 12:3, donde la ULT traduce la misma palabra con la frase «desmayéis».",
   "lemas_es": [
-   "ni te canses"
+   "ni os canséis"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "98362e7edb8c",
@@ -1739,7 +1743,8 @@
     "lema": null,
     "ref": "HEB.12.5"
    }
-  ]
+  ],
+  "corregido_por_juez": "Traduce «giving up» por «desmayéis», frase que no equivale ni corresponde a la cita de la ULT en 12:3."
  },
  "uwtn-c:259453": {
   "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en el ⸢hijo⸣, que es ⸢reprendido⸣, en lugar de en el ⸢Señor⸣, que es quien reprende. Traducción alternativa: «cuando Dios te reprende»",
@@ -3144,7 +3149,7 @@
   ]
  },
  "uwtn-c:259535": {
-  "text_es": "Las palabras ⸢tinieblas⸣ y ⸢oscuridad⸣ funcionan juntas para referirse a cuán «oscuro» estaba cuando llegaron al monte. Es posible que ⸢tinieblas⸣ se refiera a las sombras, mientras que ⸢oscuridad⸣ se refiera a cuando se pone el sol. Si no tiene dos palabras para estas categorías, podría usar una sola palabra o frase para referirse a la ⸢oscuridad⸣ profunda. Traducción alternativa: «a tinieblas sombrías» o «a una oscuridad intensa»",
+  "text_es": "Las palabras ⸢tinieblas⸣ y ⸢oscuridad⸣ funcionan juntas para referirse a cuán «oscuro» estaba cuando llegaron al monte. Es posible que ⸢tinieblas⸣ se refiera a las sombras, mientras que ⸢oscuridad⸣ se refiera a cuando se pone el sol. Si no tiene dos palabras para estas categorías, podría usar una sola palabra o frase para referirse a las ⸢tinieblas⸣ profundas. Traducción alternativa: «a tinieblas lóbregas» o «a oscuridad intensa»",
   "lemas_es": [
    "a tinieblas y a oscuridad"
   ],
@@ -3155,7 +3160,8 @@
     "lema": null,
     "ref": "HEB.12.18"
    }
-  ]
+  ],
+  "corregido_por_juez": "En 'deep darkness' se usa 'oscuridad' para el término 'darkness', que antes se tradujo como 'tinieblas'; debería ser 'tinieblas profundas' para no cambiar el término referido."
  },
  "uwtn:259529": {
   "text_es": "En 12:18–21, el autor se refiere a lo que sucedió cuando los israelitas salieron de Egipto y llegaron a un monte llamado ⸢Sinaí⸣. Dios descendió a este monte para establecer un pacto con los israelitas, y Moisés se encontró con él en el monte y recibió los mandamientos y las promesas de Dios. Cuando Dios vino al monte, hubo sonidos fuertes, fuego y nubes oscuras, y Dios mandó que nadie subiera al monte excepto Moisés y Aarón. Los israelitas tuvieron miedo y le pidieron a Moisés que hablara con Dios por ellos.",
@@ -3220,7 +3226,7 @@
   ]
  },
  "uwtn-c:259538": {
-  "text_es": "La palabra ⸢voz⸣ se refiere a alguien que habla. Si en su idioma sería útil, podría usar una palabra o frase que deje esto claro. Traducción alternativa: «al hablar de palabras» o «a palabras que son pronunciadas»",
+  "text_es": "La palabra ⸢voz⸣ se refiere a alguien que habla. Si fuera útil en su idioma, podría usar una palabra o frase que deje esto claro. Traducción alternativa: «al pronunciarse palabras» o «a palabras que se pronuncian»",
   "lemas_es": [
    "a una voz de palabras"
   ],
@@ -3231,7 +3237,8 @@
     "lema": "voz de las palabras",
     "ref": "HEB.12.19"
    }
-  ]
+  ],
+  "corregido_por_juez": "La alternativa 'al hablar de palabras' traduce 'to the speaking of words' como hablar acerca de palabras, no como pronunciar palabras; cambia el sentido."
  },
  "uwtn-c:259539": {
   "text_es": "La palabra ⸢que⸣ se refiere a la ⸢voz⸣. Si en su idioma sería útil, podría hacer explícito a qué se refiere ⸢que⸣. Traducción alternativa: «de la cual voz»",
@@ -4010,7 +4017,7 @@
   ]
  },
  "uwtn-c:259578": {
-  "text_es": "El autor habla como si la falta de «escape» de quienes ⸢rechazaron al que les advertía en la tierra⸣ fuera una posibilidad hipotética, pero quiere decir que es realmente cierto que ellos ⸢no escaparon⸣. Si su idioma no presenta algo como una condición cuando es cierto o verdadero, y si sus lectores pudieran pensar que lo que el autor dice no es cierto, entonces podría expresar la idea usando una palabra como «porque» o «puesto que». Traducción alternativa: «puesto que».",
+  "text_es": "El autor habla como si la falta de «escape» de quienes ⸢rechazaron al que les advertía en la tierra⸣ fuera una posibilidad hipotética, pero quiere decir que en realidad es verdad que ⸢no escaparon⸣. Si su idioma no presenta algo como una condición cuando es seguro o verdadero, y si sus lectores pudieran pensar que lo que el autor dice no es seguro, entonces podría expresar la idea usando una palabra como «porque» o «puesto que». Traducción alternativa: «puesto que»",
   "lemas_es": [
    "si"
   ],
@@ -4021,7 +4028,8 @@
     "lema": "si",
     "ref": "HEB.12.25"
    }
-  ]
+  ],
+  "corregido_por_juez": "Traduce 'not certain' como 'no es cierto', que en español significa 'no es verdadero', no 'no es seguro'."
  },
  "uwtn-c:259579": {
   "text_es": "La palabra ⸢aquellos⸣ se refiere a los israelitas que «rechazaron» obedecer a Dios. Puede que tenga en mente en particular a los israelitas que no obedecieron a Dios y murieron en el desierto (véase lo que el autor dijo en 3:7–4:11). Si en su idioma sería útil, podría dejar claro a quiénes se refiere ⸢aquellos⸣. Traducción alternativa: «aquellos israelitas» o «aquellos que se acercaron al monte Sinaí».",
@@ -4514,7 +4522,7 @@
   ]
  },
  "uwtn-c:259604": {
-  "text_es": "Vea cómo tradujo «tembló», «temblar» y «sacudido» en Hebreos 12:26–27.",
+  "text_es": "Vea cómo tradujo «tembló», «temblar» y «temblar» en Hebreos 12:26–27.",
   "lemas_es": [
    "inconmovible"
   ],
@@ -4525,7 +4533,8 @@
     "lema": null,
     "ref": "HEB.12.28"
    }
-  ]
+  ],
+  "corregido_por_juez": "Traduce «shook» y «shake» como «tembló» y «temblar» en lugar de «sacudió» y «sacudir», términos usados en el resto de la nota."
  },
  "uwtn-c:259605": {
   "text_es": "Si su idioma no usa un sustantivo abstracto para la idea detrás de ⸢gratitud⸣, podría expresar la idea usando un adjetivo como «agradecidos». Traducción alternativa: «seamos agradecidos»",
@@ -4556,7 +4565,7 @@
   ]
  },
  "uwtn-c:259607": {
-  "text_es": "Si su idioma no usa sustantivos abstractos para las ideas de ⸢reverencia⸣ y ⸢temor⸣, podría expresar las ideas usando adverbios como «reverentemente» y «temerosamente». Traducción alternativa: «tanto reverente como temerosamente»",
+  "text_es": "Si su idioma no usa sustantivos abstractos para las ideas de ⸢reverencia⸣ y ⸢temor⸣, usted podría expresar las ideas usando adverbios como «reverentemente» y «temerosamente». Traducción alternativa: «tanto reverentemente como con temor»",
   "lemas_es": [
    "con reverencia y temor"
   ],
@@ -4567,7 +4576,8 @@
     "lema": "con temor y reverencia",
     "ref": "HEB.12.28"
    }
-  ]
+  ],
+  "corregido_por_juez": "La traducción alternativa usa «reverente» (adjetivo) en lugar de «reverentemente» (adverbio), como corresponde a «reverently» y al ejemplo de adverbios."
  },
  "uwtn-c:259608": {
   "text_es": "Las palabras ⸢reverencia⸣ y ⸢temor⸣ funcionan juntas para identificar una actitud reverente y temerosa. Es posible que ⸢reverencia⸣ se refiera al respeto apropiado hacia una deidad, mientras que ⸢temor⸣ se refiere al miedo en general. Si no tiene dos palabras para estas categorías, podría usar una sola palabra o frase para identificar una actitud de temor reverente. Traducción alternativa: «con temor respetuoso» o «con piedad reverente»",

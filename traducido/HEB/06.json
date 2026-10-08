@@ -2297,13 +2297,13 @@
   ]
  },
  "uwtn-c:258568": {
-  "text_es": "Si su idioma no usa sustantivos abstractos para las ideas de ⸢refugio⸣ y ⸢consuelo⸣, usted podría expresar las ideas usando verbos como «proteger» y «animar». Traducción alternativa: «quienes han huido para ser protegidos podamos ser fuertemente animados»",
+  "text_es": "Si su idioma no usa sustantivos abstractos para las ideas de ⸢refugio⸣ y ⸢ánimo⸣, podría expresar las ideas usando verbos como «proteger» y «animar». Traducción alternativa: «quienes han huido para ser protegidos puedan ser fuertemente animados»",
   "lemas_es": [
-   "nosotros, los que hemos huido para refugiarnos, podamos tener un fuerte consuelo"
+   "nosotros, los que hemos huido para refugiarnos, tengamos un fuerte ánimo"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "b1a6009de565",
-  "corregido_por_juez": "La traducción alternativa cambia «might be strongly encouraged» por «podamos tener un fuerte consuelo»: usa sustantivo en vez del verbo, cambia la pasiva y el sujeto.",
+  "corregido_por_juez": "El español usa «podamos» (1ª persona plural) mientras «quienes han huido» y el inglés «might be strongly encouraged» concuerdan en 3ª persona plural; debe ser «puedan» o reformularse como «nosotros, que hemos huido... podamos».",
   "lemas_rv1909": [
    {
     "lema": null,

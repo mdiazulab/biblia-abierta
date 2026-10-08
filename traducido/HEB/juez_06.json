@@ -1169,10 +1169,10 @@
   "huella": "20148584e69a"
  },
  "uwtn-c:258568": {
-  "ok": false,
-  "motivo": "El español usa «podamos» (1ª persona plural) mientras «quienes han huido» y el inglés «might be strongly encouraged» concuerdan en 3ª persona plural; debe ser «puedan» o reformularse como «nosotros, que hemos huido... podamos».",
+  "ok": true,
+  "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "d39a3d8705c9"
+  "huella": "646a70333f58"
  },
  "uwtn-c:258565": {
   "ok": true,

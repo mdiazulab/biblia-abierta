@@ -275,10 +275,10 @@
   "huella": "f86b299a9cf3"
  },
  "calvino:HEB.5.8#65": {
-  "ok": false,
-  "motivo": "Traduce 'God ought to be submitted to' como 'Dios debe ser sometido', cambiando el sentido (se debe estar sometido a Dios, no someter a Dios); además añade 'Aunque era Hijo' en la cita.",
+  "ok": true,
+  "motivo": "Fiel y completo.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "50ae487553f8"
+  "huella": "66a188c31613"
  },
  "calvino:HEB.5.9#66": {
   "ok": true,
@@ -311,10 +311,10 @@
   "huella": "0b61351911b9"
  },
  "calvino:HEB.5.14#71": {
-  "ok": false,
-  "motivo": "La cita de Efesios 4:14 añade 'ya no seamos niños fluctuantes', que no está en el inglés.",
+  "ok": true,
+  "motivo": "Fiel y completo.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "292ef5b88e70"
+  "huella": "d1805f6002b1"
  },
  "uwtn:258430": {
   "ok": true,

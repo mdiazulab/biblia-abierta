@@ -1787,14 +1787,14 @@
  "uwtn-c:258813": {
   "text_es": "Aunque ⸢su⸣ y ⸢hermano⸣ son masculinos, se refieren a cualquier persona, sea hombre o mujer. Si fuera útil en su idioma, podría usar palabras que se apliquen tanto a hombres como a mujeres, o podría referirse a ambos géneros. Traducción alternativa: «su … su hermano o hermana»",
   "lemas_es": [
-   "su y su hermano"
+   "his & his brother"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "64459c25f0f0",
-  "corregido_por_juez": "Traduce «his» como «su» y afirma que «su» es masculino; en español «su» no es masculino, por lo que la descripción gramatical es incorrecta.",
+  "corregido_por_juez": "«su» no es masculino en español; el original dice «his», que sí es masculino. Afirmar que «su» es masculino cambia el sentido gramatical de la nota.",
   "lemas_rv1909": [
    {
-    "lema": "su hermano",
+    "lema": null,
     "ref": "HEB.8.11"
    }
   ]

@@ -2009,7 +2009,7 @@
   ]
  },
  "uwtn-c:259234": {
-  "text_es": "La frase ⸢antes de su traslado⸣ modifica cómo Enoc fue ⸢agradable a Dios⸣. También podría modificar ⸢se dio testimonio⸣ si Dios es quien da el «testimonio». Si la Escritura o el autor de la Escritura «da testimonio» de esto, entonces ⸢antes de su traslado⸣ no modifica ⸢se dio testimonio⸣. Disponga los elementos de esta oración de modo que coincidan con su decisión acerca de quién da el testimonio. Traducción alternativa: «se dio testimonio de que, antes de su traslado, había sido agradable a Dios» o «se dio testimonio de que había sido agradable a Dios antes de su traslado»",
+  "text_es": "La frase ⸢antes de su traslado⸣ modifica el modo en que Enoc era ⸢agradable a Dios⸣. También puede modificar ⸢se dio testimonio⸣ si Dios es quien da el «testimonio». Si la Escritura o el autor de la Escritura «da testimonio» de esto, entonces ⸢antes de su traslado⸣ no modifica ⸢se dio testimonio⸣. Ordene los elementos de esta oración de modo que concuerden con su decisión acerca de quién da el testimonio. Traducción alternativa: «se dio testimonio, antes de su traslado, de que había sido agradable a Dios» o «se dio testimonio de que había sido agradable a Dios antes de su traslado»",
   "lemas_es": [
    "antes de su traslado, se dio testimonio de que había sido agradable a Dios"
   ],
@@ -2020,7 +2020,8 @@
     "lema": null,
     "ref": "HEB.11.5"
    }
-  ]
+  ],
+  "corregido_por_juez": "La primera traducción alternativa cambia el sentido: «antes de su traslado» debe modificar «se dio testimonio» (el testimonio ocurrió antes del traslado), pero en español modifica «había sido agradable a Dios»."
  },
  "uwtn-c:259235": {
   "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en ⸢Enoc⸣, de quien ⸢se dio testimonio⸣, en lugar de en la persona o cosa que da el testimonio. Si debe indicar quién realizó la acción, el autor implica que Dios lo hizo, o que las Escrituras lo hacen. Traducción alternativa: «Dios dio testimonio de que Enoc le era agradable» o «las Escrituras dan testimonio de que era agradable a Dios»",
@@ -2697,9 +2698,9 @@
   ]
  },
  "uwtn-c:259272": {
-  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. Traducción alternativa: «también de uno solo —y él habiendo llegado a estar muerto— engendró estos hijos»",
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. Traducción alternativa: «también un solo hombre—y habiendo llegado a estar muerto—engendró a estos hijos»",
   "lemas_es": [
-   "también de uno solo —y él habiendo llegado a estar muerto— nacieron estos hijos"
+   "también de uno solo—y habiendo llegado a estar muerto—nacieron estos hijos"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "8894e71e916e",
@@ -2708,7 +2709,8 @@
     "lema": null,
     "ref": "HEB.11.12"
    }
-  ]
+  ],
+  "corregido_por_juez": "La alternativa activa añade «de» y omite «hombre»: el inglés dice «also one man... fathered», no «también de uno solo... engendró»."
  },
  "uwtn-c:259273": {
   "text_es": "La palabra ⸢uno⸣ se refiere a Abraham. Si en su idioma sería útil, podría aclarar a quién se refiere ⸢uno⸣. Traducción alternativa: «un solo hombre, Abraham»",
@@ -2949,9 +2951,9 @@
   ]
  },
  "uwtn-c:259287": {
-  "text_es": "La palabra ⸢Y⸣ introduce otro paso en el argumento del autor. La palabra ⸢si⸣ indica que este paso adicional tiene dos partes, y la segunda parte comienza con «pero» en 11:16. La palabra ⸢si⸣ indica que la primera parte del paso adicional está en forma condicional. Si en su idioma sería útil, podría usar una forma diferente para indicar estas relaciones de manera natural. Traducción alternativa: «Además, por un lado, si» o «Primero, si»",
+  "text_es": "La palabra ⸢Y⸣ introduce otro paso en el argumento del autor. La palabra ⸢ciertamente⸣ indica que este paso adicional consta de dos partes, y la segunda parte comienza con «pero» en 11:16. La palabra ⸢si⸣ indica que la primera parte del paso adicional tiene forma condicional. Si fuera útil en su idioma, podría usar una forma diferente para indicar estas relaciones de manera natural. Traducción alternativa: «Además, por un lado, si» o «Primero, si»",
   "lemas_es": [
-   "Y si en verdad"
+   "Y si ciertamente"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "3615b2ad55c8",
@@ -2960,7 +2962,8 @@
     "lema": null,
     "ref": "HEB.11.15"
    }
-  ]
+  ],
+  "corregido_por_juez": "Se omite «indeed» y se sustituye por «si» en la primera indicación; debe distinguirse de «if»."
  },
  "uwtn-c:259288": {
   "text_es": "El autor hace una declaración condicional que suena hipotética, pero ya está convencido de que la condición no es verdadera. Sabe que ⸢ellos⸣ en realidad no estaban ⸢pensando en aquella tierra de la cual salieron⸣. Demuestra que la declaración condicional no es verdadera al señalar que ⸢tuvieron oportunidad de volver⸣ pero no aprovecharon esa oportunidad. Use una forma natural en su idioma para introducir una condición que el hablante cree que no es verdadera. Traducción alternativa: «si en verdad hubieran estado pensando realmente» o «¿estaban en verdad pensando»",
@@ -3103,18 +3106,19 @@
   ]
  },
  "uwtn-c:259297": {
-  "text_es": "La palabra ⸢por⸣ introduce el apoyo a la afirmación del autor de que ⸢Dios no se avergüenza de ellos⸣. Si en su idioma sería útil, podría usar una palabra o frase que introduzca el apoyo a una afirmación previa. Traducción alternativa: «lo cual ustedes saben que es verdad, porque»",
+  "text_es": "La palabra ⸢porque⸣ introduce el apoyo a la afirmación del autor de que ⸢Dios no se avergüenza de ellos⸣. Si fuera útil en su idioma, podría usar una palabra o frase que introduzca el apoyo a una afirmación previa. Traducción alternativa: «lo cual ustedes saben que es verdad, porque»",
   "lemas_es": [
-   "por"
+   "porque"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "5e623ed8a4db",
   "lemas_rv1909": [
    {
-    "lema": null,
+    "lema": "porque",
     "ref": "HEB.11.16"
    }
-  ]
+  ],
+  "corregido_por_juez": "El conector 'for' en Heb 11:16 corresponde a 'porque' en RVA1909, no a 'por'; 'por' no introduce una afirmación."
  },
  "uwtn-c:259298": {
   "text_es": "Vea cómo tradujo «ciudad» en 11:10.",
@@ -3311,9 +3315,9 @@
   ]
  },
  "uwtn-c:259310": {
-  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en la ⸢descendencia⸣ que es ⸢nombrada⸣ y no en la persona que la nombra. Si debe indicar quién realizó la acción, podría usar un sujeto indefinido. Traducción alternativa: «la gente nombrará a su descendencia»",
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa aquí la forma pasiva para enfocarse en la ⸢descendencia⸣ que es ⸢nombrada⸣, y no en la persona que la nombra. Si debe indicar quién realizó la acción, podría usar un sujeto indefinido. Traducción alternativa: «la gente nombrará a tu descendencia»",
   "lemas_es": [
-   "su descendencia será nombrada"
+   "tu descendencia será nombrada"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "334ac76be299",
@@ -3322,7 +3326,8 @@
     "lema": null,
     "ref": "HEB.11.18"
    }
-  ]
+  ],
+  "corregido_por_juez": "El posesivo «su» no traduce el «your» (segunda persona) dirigido a Abraham; debería ser «tu descendencia» (o «tu simiente» según RV1909)."
  },
  "uwtn-c:259311": {
   "text_es": "La palabra ⸢descendencia⸣ es un sustantivo singular que se refiere a muchos descendientes. Puede ser más natural en su idioma usar una forma plural. Traducción alternativa: «descendientes»",
@@ -3593,7 +3598,7 @@
   ]
  },
  "uwtn-c:259326": {
-  "text_es": "Aunque la palabra ⸢hijos⸣ es masculina, el autor la usa para referirse a cualquier hijo o descendiente, tanto hombres como mujeres. Si en su idioma sería útil, podría usar una palabra que se aplique tanto a hombres como a mujeres, o podría referirse a ambos géneros. Traducción alternativa: «de los hijos y las hijas» o «de los niños»",
+  "text_es": "Aunque la palabra ⸢hijos⸣ es masculina, el autor la usa para referirse a cualquier hijo o descendiente, tanto hombres como mujeres. Si fuera útil en su idioma, podría usar una palabra que se aplique tanto a hombres como a mujeres, o podría referirse a ambos géneros. Traducción alternativa: «de los hijos y las hijas» o «de los descendientes»",
   "lemas_es": [
    "de los hijos"
   ],
@@ -3604,7 +3609,8 @@
     "lema": "de los hijos",
     "ref": "HEB.11.22"
    }
-  ]
+  ],
+  "corregido_por_juez": "«children» en el sentido de descendientes se traduce aquí como «hijos», no «niños»; «de los niños» cambia el sentido."
  },
  "uwtn-c:259327": {
   "text_es": "El autor usa la palabra ⸢hijos⸣ para referirse en general a todos los descendientes de ⸢Israel⸣, quien también fue llamado «Jacob». Si en su idioma sería útil, podría usar una palabra o frase que se refiera a los descendientes en general. Traducción alternativa: «de los descendientes de Israel» o «los descendientes de Israel»",
@@ -4833,9 +4839,9 @@
   ]
  },
  "uwtn-c:259396": {
-  "text_es": "El autor coloca aquí la cláusula ⸢de quienes el mundo no era digno⸣ para contrastarla con el modo en que esas mismas ⸢personas⸣ están «desamparadas, afligidas, maltratadas» (ver: 11:37). Si es posible, conserve esta cláusula donde está. Si no es posible mantenerla aquí, podría trasladarla al final del versículo. Traducción alternativa: «andando errantes por desiertos y montes y cuevas y los agujeros de la tierra, de quienes el mundo no era digno»",
+  "text_es": "El autor coloca la cláusula ⸢de qué gente el mundo no era digno⸣ aquí para contrastarla con cómo estas mismas ⸢personas⸣ están «destituidas, oprimidas, maltratadas» (Ver: 11:37). Si es posible, conserve esta cláusula donde está. Si no es posible mantener la cláusula aquí, podría trasladarla al final del versículo. Traducción alternativa: «andando errantes por desiertos y montes y cuevas y los agujeros de la tierra, de qué gente el mundo no era digno»",
   "lemas_es": [
-   "de quienes el mundo no era digno), andando errantes por desiertos y montes y cuevas y los agujeros de la tierra"
+   "de qué gente el mundo no era digno), andando errantes por desiertos y montes y cuevas y los agujeros de la tierra"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "3416d119469a",
@@ -4844,7 +4850,8 @@
     "lema": "el mundo no era digno; perdidos por los desiertos, por los montes, por las cuevas y por las cavernas de la tierra",
     "ref": "HEB.11.38"
    }
-  ]
+  ],
+  "corregido_por_juez": "La traducción alternativa omite «being caused to wander about»: «andando errantes» no expresa la idea pasiva/causativa."
  },
  "uwtn-c:259397": {
   "text_es": "La palabra ⸢mundo⸣ se refiere principalmente a las personas que viven en el mundo y a las sociedades que estas forman. Si en su idioma sería útil, podría usar una palabra o frase que se refiera a las personas y sociedades de ⸢el mundo⸣. Traducción alternativa: «los que viven en este mundo eran»",

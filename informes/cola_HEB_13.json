@@ -1,8 +1,38 @@
 [
  {
-  "id": "calvino:HEB.13.20#246",
-  "motivo": "Añade «no pocos» en «no pocos dones nada comunes»; el inglés solo dice «no common gifts» (dones no comunes), sin indicar cantidad.",
-  "en": "20. ⸢Now the God of peace, etc.⸣ To render mutual what he desired them to do, he ends his Epistle with prayer; and he asks of God to ⸢confirm,⸣ or to fit, or to perfect them in ⸢every good work;⸣ for such is the meaning of καταρτίσαι. We hence conclude, that we are by no means fit to do good until we are made or formed for the purpose by God, and that we shall not continue long in doing good unless he strengthens us; for perseverance is his peculiar gift. Nor is there a doubt but that as no common gifts of the Spirit had already, as it seems, appeared in them, the first impression with which they began, is not what is prayed for, but the polishing, which they were to be made perfect.\n\n⸢That brought again from the dead, etc.⸣ This clause was added for the sake of confirmation; for he intimates that God is then only prayed to aright by us, to lead us on to perfection, when we acknowledge his power in the resurrection of Christ, and acknowledge Christ himself as our pastor. He, in short, would have us to look to Christ, in order that we may rightly trust in God for help; for Christ was raised from death for this end, that we might be renewed unto eternal life, by the same power of God; and he is the great pastor of all, in order that we may protect the sheep committed to him by the Father.\n\n⸢Through the blood, etc.⸣ I have rendered it, “In the blood;” for as ב “in,” is often taken in the sense of ⸢with⸣, so I prefer to regard it here. For it seems to me, that the Apostle means, that Christ so arose from the dead, that his death was not yet abolished, but that it retains its efficacy forever, as though he had said, “God raised up his own son, but in such a way that the blood he shed once for all in his death is efficacious after his resurrection for the ratification of the everlasting covenant, and brings forth fruit the same as though it were flowing always.”",
-  "es": "20. ⸢Y el Dios de paz, etc.⸣ Para hacer mutuo lo que deseaba que ellos hicieran, termina su Epístola con oración; y pide a Dios que los ⸢confirme⸣, o los disponga, o los perfeccione en ⸢toda buena obra⸣; pues tal es el significado de καταρτίσαι. De aquí concluimos que de ningún modo somos aptos para hacer el bien hasta que Dios nos haga o forme para ese propósito, y que no perseveraremos mucho en hacer el bien a menos que él nos fortalezca; pues la perseverancia es su don peculiar. Y no hay duda de que, como no pocos dones nada comunes del Espíritu habían ya, al parecer, aparecido en ellos, lo que se pide no es la primera impresión con que comenzaron, sino el pulimento, con el cual habían de ser perfeccionados.\n\n⸢Que volvió a traer de los muertos, etc.⸣ Esta cláusula fue añadida en orden a la confirmación; pues da a entender que solo entonces oramos rectamente a Dios para que nos lleve a la perfección, cuando reconocemos su poder en la resurrección de Cristo, y reconocemos a Cristo mismo como nuestro pastor. En suma, quiere que miremos a Cristo, a fin de que confiemos rectamente en Dios para recibir ayuda; pues Cristo fue resucitado de la muerte con este fin, que seamos renovados para vida eterna por el mismo poder de Dios; y él es el gran pastor de todos, a fin de que guardemos las ovejas que el Padre le ha encomendado.\n\n⸢Por la sangre, etc.⸣ Lo he traducido: «En la sangre»; pues como ב «en» se toma a menudo en el sentido de ⸢con⸣, así prefiero considerarlo aquí. Pues me parece que el Apóstol quiere decir que Cristo resucitó de la muerte de tal manera que su muerte no fue aún abolida, sino que retiene su eficacia para siempre, como si hubiera dicho: «Dios resucitó a su propio Hijo, pero de tal modo que la sangre que derramó una vez para siempre en su muerte es eficaz después de su resurrección para la ratificación del pacto eterno, y da fruto como si fluyera siempre»."
+  "id": "uwtn:259629",
+  "motivo": "«among all people» se traduce como «en todos los pueblos», lo que cambia el sentido a pueblos/naciones en vez de todas las personas.",
+  "en": "The phrase translated as ⸢among all⸣ could refer: (1) to ⸢all⸣ people. («among all people»); (2) to ⸢all⸣ things or areas. («in all things» o «in every way»)",
+  "es": "La frase traducida como ⸢en todos⸣ podría referirse: (1) a todas las personas. («en todos los pueblos»); (2) a todas las cosas o ámbitos. («en todas las cosas» o «en todo sentido»)"
+ },
+ {
+  "id": "uwtn:259652",
+  "motivo": "«the Word» en Heb 13:7 corresponde a «la palabra» (RVA 1909), no a «el Verbo»; usar «el Verbo» cambia el sentido.",
+  "en": "The author uses the possessive to describe ⸢the Word⸣ that could: (1) be about ⸢God⸣ and what he has done. («the Word about God»); (2) be from ⸢God⸣. («the Word from God»)",
+  "es": "El autor usa el posesivo para describir ⸢el Verbo⸣ que podría: (1) tratar acerca de ⸢Dios⸣ y lo que él ha hecho. («el Verbo acerca de Dios»); (2) provenir de ⸢Dios⸣. («el Verbo de Dios»)"
+ },
+ {
+  "id": "uwtn-c:259625",
+  "motivo": "Omite «mismos» al traducir «yourselves also» como «ustedes también»; la frase es reflexiva.",
+  "en": "The phrase ⸢yourselves also⸣ could refer to: (1) the audience. Alternate translation: «also you yourselves»; (2) the ⸢ones being mistreated⸣. Alternate translation: «they also being»",
+  "es": "La frase ⸢ustedes también⸣ podría referirse a: (1) la audiencia. Traducción alternativa: «también ustedes mismos»; (2) los ⸢que son maltratados⸣. Traducción alternativa: «ellos también siendo»"
+ },
+ {
+  "id": "uwtn-c:259633",
+  "motivo": "En la primera traducción alternativa, «loving money» se vierte como «del amor al dinero», usando el sustantivo abstracto «amor» en lugar del verbo «amar», lo que contradice la indicación y el original.",
+  "en": "If your language does not use abstract nouns for the ideas behind ⸢life⸣ and ⸢love⸣, you could express the ideas by using verbs such as “live” and “love.” Alternate translation: «How you live must be free from loving money» or «You should live in such a way that you do not love money»",
+  "es": "Si su idioma no usa sustantivos abstractos para las ideas detrás de ⸢vida⸣ y ⸢amor⸣, podría expresar las ideas usando verbos como «vivir» y «amar». Traducción alternativa: «La manera en que usted vive debe estar libre del amor al dinero» o «Usted debe vivir de tal manera que no ame el dinero»"
+ },
+ {
+  "id": "uwtn-c:259653",
+  "motivo": "Traduce «Word» como «Verbo», término que en RVR1909 designa a Cristo; aquí la nota dice que se refiere a lo que alguien dice, por lo que corresponde «palabra» (o «mensaje»), no «Verbo».",
+  "en": "The word ⸢Word⸣ refers to what someone says in words. If it would be helpful in your language, you could use an equivalent expression or plain language. Alternate translation: «the Message»",
+  "es": "La palabra ⸢Verbo⸣ se refiere a lo que alguien dice con palabras. Si fuera útil en su idioma, podría usar una expresión equivalente o un lenguaje sencillo. Traducción alternativa: «el Mensaje»"
+ },
+ {
+  "id": "uwtn-c:259690",
+  "motivo": "Traduce «come» y «go» como «vengan» y «vayan» (2.ª pers. plural), pero el contexto y la traducción alternativa son de 1.ª pers. plural («vengamos» / «vayamos»); cambia persona y número.",
+  "en": "In a context such as this, it may be more natural in your language to say “come” instead of ⸢go⸣. Alternate translation: «Let us come to him»",
+  "es": "En un contexto como este, puede ser más natural en su idioma decir «vengan» en lugar de ⸢vayan⸣. Traducción alternativa: «Vengamos a él»"
  }
 ]

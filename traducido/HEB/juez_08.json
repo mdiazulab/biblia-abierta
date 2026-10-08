@@ -924,7 +924,7 @@
  },
  "uwtn-c:258813": {
   "ok": false,
-  "motivo": "«su» no es masculino en español; el original dice «his», que sí es masculino. Afirmar que «su» es masculino cambia el sentido gramatical de la nota.",
+  "motivo": "Traduce «his» como «su», que no es masculino en español, y afirma que «su» es masculino; se pierde la indicación de masculinidad del término original.",
   "modelo": "deepseek:deepseek-reasoner",
   "huella": "0c85622e268c"
  },

@@ -923,10 +923,10 @@
   "huella": "0235f28c1408"
  },
  "uwtn-c:258047": {
-  "ok": false,
-  "motivo": "La traducción alternativa no corresponde: el inglés presenta una sola afirmación (hace a sus ángeles servidores ser espíritus y llamas de fuego), pero el español separa 'ángeles espíritus' y 'siervos llama de fuego', alterando el sentido.",
+  "ok": true,
+  "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "ba3e9b29c5a5"
+  "huella": "7b951734ff39"
  },
  "uwtn-c:258052": {
   "ok": true,
@@ -1140,9 +1140,9 @@
  },
  "uwtn-c:258086": {
   "ok": false,
-  "motivo": "Traduce 'them' como 'ellos' en lugar del pronombre de objeto correspondiente (p. ej. 'los'), perdiendo la distinción entre los dos pronombres que la nota señala.",
+  "motivo": "Traduce 'them' y 'they' ambos como 'ellos', eliminando la distinción entre pronombre objeto y sujeto.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "1e15ca9b7415"
+  "huella": "590d3053eb54"
  },
  "uwtn-c:258088": {
   "ok": true,
@@ -1368,9 +1368,9 @@
  },
  "uwtm:33265": {
   "ok": false,
-  "motivo": "Cambia 'Examples in English' por 'Ejemplos en español' y sustituye la lista; además, 'use⸢less⸣' se traduce mal como 'útil⸢mente⸣ no' y 'not because we have no authority' se vierte con sentido distinto ('no porque tengamos ninguna autoridad').",
+  "motivo": "«útil⸢mente⸣ no» no corresponde a 'use⸢less⸣' y la cita de 2 Tes 3:9a cambia el sentido: 'no porque tengamos ninguna autoridad' no equivale a 'not because we have no authority'.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "8dfc76e5039f"
+  "huella": "5035ee497e81"
  },
  "uwtm:33266": {
   "ok": true,
@@ -1380,9 +1380,9 @@
  },
  "uwtm:33267": {
   "ok": false,
-  "motivo": "En la oración completada se marca «en» como palabra suplida, pero no está omitida en la segunda parte; el inglés solo suple «will» y «stand».",
+  "motivo": "En la oración completa marca ⸢en⸣ como palabra suplida, pero 'en' ya está en la frase elíptica; solo se suple 'se levantarán'.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "d16740572fd1"
+  "huella": "e303bfdfda90"
  },
  "uwtm:33280": {
   "ok": true,
@@ -1403,10 +1403,10 @@
   "huella": "1ed2b9936330"
  },
  "uwtm:33270": {
-  "ok": false,
-  "motivo": "La cita de Mateo 9:33 omite el signo de exclamación y añade «de tal manera» respecto al texto inglés.",
+  "ok": true,
+  "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "b5689db1e458"
+  "huella": "87cce69873aa"
  },
  "uwtm:33321": {
   "ok": true,
@@ -1475,10 +1475,10 @@
   "huella": "13e1d3f80943"
  },
  "uwtm:33291": {
-  "ok": false,
-  "motivo": "«honor him» se traduce como «le temen», lo que cambia el sentido (honrar vs. temer).",
+  "ok": true,
+  "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "cb7a08c8bed6"
+  "huella": "2934d97b0c03"
  },
  "uwtm:33293": {
   "ok": true,
@@ -1595,10 +1595,10 @@
   "huella": "b628ac642f76"
  },
  "uwtm:33314": {
-  "ok": false,
-  "motivo": "«troubled and discouraged» se traduce como «derramadas y esparcidas», cambiando el sentido (angustiadas/desanimadas vs. dispersas).",
+  "ok": true,
+  "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "3947eb891dd1"
+  "huella": "dec3dba568da"
  },
  "uwtm:33408": {
   "ok": true,

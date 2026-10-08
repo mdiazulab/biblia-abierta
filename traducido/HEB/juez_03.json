@@ -521,16 +521,16 @@
   "huella": "da8bf6fcce38"
  },
  "uwtn-c:258219": {
-  "ok": false,
-  "motivo": "La traducción alternativa «Como resultado de todo lo que» es incompleta/incorrecta; debería ser «Como resultado de todo eso» o similar.",
+  "ok": true,
+  "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "f67ad574a58d"
+  "huella": "c27781581a7b"
  },
  "uwtn-c:258224": {
   "ok": false,
-  "motivo": "El original dice «who is» (singular); el español usa «que son» (plural), cambiando el sentido.",
+  "motivo": "Cambia el singular «who is» por plural «que son» y usa «confesión» en vez de «profesión» (RVA1909) para «confession».",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "6c0514086b8c"
+  "huella": "279a2c34fd00"
  },
  "uwtn-c:258229": {
   "ok": true,
@@ -1007,16 +1007,16 @@
   "huella": "65da38fb500c"
  },
  "uwtn-c:258305": {
-  "ok": false,
-  "motivo": "Se traduce «hear his voice» como «oíd su voz» (imperativo), pero en 3:7 es «si oyereis su voz» (condicional).",
+  "ok": true,
+  "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "fdc2353471fb"
+  "huella": "7df3ffeff8b4"
  },
  "uwtn-c:258306": {
-  "ok": false,
-  "motivo": "Se traduce «come out» como «salgan» (subjuntivo/imperativo) en lugar de «salir/salido»; además «gone out» como «salieron» en vez de «han salido».",
+  "ok": true,
+  "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "389b29999db3"
+  "huella": "cac5b5cc4328"
  },
  "uwtn-c:258302": {
   "ok": true,

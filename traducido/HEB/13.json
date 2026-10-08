@@ -724,15 +724,15 @@
   ]
  },
  "calvino:HEB.13.20#246": {
-  "text_es": "20. ⸢Y el Dios de paz, etc.⸣ Para hacer mutuo lo que deseaba que ellos hicieran, termina su Epístola con oración; y pide a Dios que los ⸢confirme⸣, o los disponga, o los perfeccione en ⸢toda buena obra⸣; pues tal es el significado de καταρτίσαι. De aquí concluimos que de ningún modo somos aptos para hacer el bien hasta que Dios nos haga o forme para ese propósito, y que no perseveraremos mucho en hacer el bien a menos que él nos fortalezca; pues la perseverancia es su don peculiar. Y no hay duda de que, como no pocos dones nada comunes del Espíritu habían ya, al parecer, aparecido en ellos, lo que se pide no es la primera impresión con que comenzaron, sino el pulimento, con el cual habían de ser perfeccionados.\n\n⸢Que volvió a traer de los muertos, etc.⸣ Esta cláusula fue añadida en orden a la confirmación; pues da a entender que solo entonces oramos rectamente a Dios para que nos lleve a la perfección, cuando reconocemos su poder en la resurrección de Cristo, y reconocemos a Cristo mismo como nuestro pastor. En suma, quiere que miremos a Cristo, a fin de que confiemos rectamente en Dios para recibir ayuda; pues Cristo fue resucitado de la muerte con este fin, que seamos renovados para vida eterna por el mismo poder de Dios; y él es el gran pastor de todos, a fin de que guardemos las ovejas que el Padre le ha encomendado.\n\n⸢Por la sangre, etc.⸣ Lo he traducido: «En la sangre»; pues como ב «en» se toma a menudo en el sentido de ⸢con⸣, así prefiero considerarlo aquí. Pues me parece que el Apóstol quiere decir que Cristo resucitó de la muerte de tal manera que su muerte no fue aún abolida, sino que retiene su eficacia para siempre, como si hubiera dicho: «Dios resucitó a su propio Hijo, pero de tal modo que la sangre que derramó una vez para siempre en su muerte es eficaz después de su resurrección para la ratificación del pacto eterno, y da fruto como si fluyera siempre».",
+  "text_es": "20. ⸢Y el Dios de paz, etc.⸣ Para hacer mutuo lo que deseaba que ellos hicieran, termina su Epístola con oración; y pide a Dios que los ⸢confirme⸣, o los disponga, o los perfeccione en ⸢toda buena obra⸣; pues tal es el significado de καταρτίσαι. De aquí concluimos que de ningún modo somos aptos para hacer el bien hasta que Dios nos haga o nos forme para ese propósito, y que no perseveraremos mucho en hacer el bien a menos que él nos fortalezca; pues la perseverancia es su don peculiar. Y no hay duda de que, como ya parecían haber aparecido en ellos dones nada comunes del Espíritu, no es lo que se pide la primera impresión con que comenzaron, sino el pulimento, con el cual habían de ser perfeccionados.\n\n⸢Que volvió a traer de los muertos, etc.⸣ Esta cláusula fue añadida en aras de la confirmación; pues da a entender que solo entonces oramos rectamente a Dios para que nos lleve a la perfección, cuando reconocemos su poder en la resurrección de Cristo, y reconocemos a Cristo mismo como nuestro pastor. En resumen, quiere que miremos a Cristo, para que podamos confiar rectamente en Dios para recibir ayuda; pues Cristo fue resucitado de la muerte con este fin, que seamos renovados para vida eterna por el mismo poder de Dios; y él es el gran pastor de todos, para que guardemos las ovejas que el Padre le ha encomendado.\n\n⸢Por la sangre, etc.⸣ Lo he traducido «En la sangre»; pues como ב «en» se toma a menudo en el sentido de ⸢con⸣, así prefiero considerarlo aquí. Pues me parece que el Apóstol quiere decir que Cristo resucitó de los muertos de tal manera que su muerte no fue aún abolida, sino que retiene su eficacia para siempre, como si hubiera dicho: «Dios resucitó a su propio Hijo, pero de tal modo que la sangre que derramó una vez para siempre en su muerte es eficaz después de su resurrección para la ratificación del pacto eterno, y da fruto como si fluyera siempre».",
   "lemas_es": [
    "Y el Dios de paz",
-   "Que volvió a traer de entre los muertos",
+   "Que volvió a traer de los muertos",
    "Por la sangre"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "b2d9ea2ce310",
-  "corregido_por_juez": "Traduce «no common gifts» como «no pocos dones comunes», invirtiendo el sentido: eran dones nada comunes/extraordinarios, no muchos dones comunes.",
+  "corregido_por_juez": "Añade «no pocos» en «no pocos dones nada comunes»; el inglés solo dice «no common gifts» (dones no comunes), sin indicar cantidad.",
   "lemas_rv1909": [
    {
     "lema": "Y el Dios de paz",
@@ -966,18 +966,19 @@
   ]
  },
  "uwtn:259619": {
-  "text_es": "La audiencia habría inferido que estas personas no «sabían» que los extraños a quienes habían ⸢mostrado hospitalidad⸣ eran ángeles.",
+  "text_es": "La audiencia habría inferido que estas personas no «sabían» que los extranjeros a quienes habían ⸢hospedado⸣ eran ángeles.",
   "lemas_es": [
-   "without knowing it"
+   "sin saberlo"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "6014dab2cc51",
   "lemas_rv1909": [
    {
-    "lema": null,
+    "lema": "sin saberlo",
     "ref": "HEB.13.2"
    }
-  ]
+  ],
+  "corregido_por_juez": "No usa el término de RVR1909 «hospedado» para «shown hospitality to»."
  },
  "uwtn-c:259620": {
   "text_es": "La palabra ⸢Acordaos⸣ implica no solo pensar en alguien, sino también actuar para ayudar a esa persona. Si sería útil en su idioma, podría hacer esta implicación más explícita. Traducción alternativa: «Acuérdense de cuidar a»",
@@ -1036,23 +1037,24 @@
   ]
  },
  "uwtn-c:259624": {
-  "text_es": "La palabra ⸢as⸣ introduce algo acerca de la naturaleza de la audiencia que debería llevarlos a ⸢Remember⸣ a los ⸢ones being mistreated⸣. Si fuera útil en su idioma, podría usar una palabra o frase que introduzca algo que apoye una exhortación. Traducción alternativa: «ya que ustedes mismos también están en el cuerpo»",
+  "text_es": "La palabra ⸢como⸣ introduce algo acerca de la naturaleza de la audiencia que debería llevarlos a ⸢Acordaos⸣ de los ⸢que son maltratados⸣. Si fuera útil en su idioma, podría usar una palabra o frase que introduzca algo que apoye una exhortación. Traducción alternativa: «pues vosotros mismos también estáis en el cuerpo»",
   "lemas_es": [
-   "as yourselves also being in body"
+   "como vosotros mismos también estando en el cuerpo"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "f26010700c59",
   "lemas_rv1909": [
    {
-    "lema": null,
+    "lema": "también vosotros mismos sois del cuerpo",
     "ref": "HEB.13.3"
    }
-  ]
+  ],
+  "corregido_por_juez": "Deja sin traducir «Remember» y «ones being mistreated»."
  },
  "uwtn-c:259625": {
-  "text_es": "La frase ⸢yourselves also⸣ podría referirse a: (1) la audiencia. Traducción alternativa: «también ustedes mismos»; (2) los ⸢ones being mistreated⸣. Traducción alternativa: «ellos también siendo»",
+  "text_es": "La frase ⸢ustedes también⸣ podría referirse a: (1) la audiencia. Traducción alternativa: «también ustedes mismos»; (2) los ⸢que son maltratados⸣. Traducción alternativa: «ellos también siendo»",
   "lemas_es": [
-   "yourselves also"
+   "ustedes también"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "7f2229af3bec",
@@ -1061,49 +1063,53 @@
     "lema": null,
     "ref": "HEB.13.3"
    }
-  ]
+  ],
+  "corregido_por_juez": "Deja sin traducir «yourselves also» y «ones being mistreated»."
  },
  "uwtn-c:259626": {
-  "text_es": "La frase ⸢being in body⸣ indica por asociación que las personas a las que el autor se dirige, como los ⸢ones being mistreated⸣, son humanas y, por lo tanto, capaces de sufrir y ser dañadas. Si fuera útil en su idioma, podría usar una expresión equivalente o expresar el significado de manera clara. Traducción alternativa: «ya que ustedes también son humanos y capaces de sufrir»",
+  "text_es": "La frase ⸢estando en el cuerpo⸣ indica por asociación que las personas a quienes el autor se dirige, al igual que los ⸢que son maltratados⸣, son humanas y, por tanto, capaces de sufrir y de ser dañadas. Si fuera útil en su idioma, podría usar una expresión equivalente o expresar el significado de manera clara. Traducción alternativa: «puesto que ustedes también son humanos y pueden sufrir»",
   "lemas_es": [
-   "as yourselves also being in body"
+   "como también ustedes mismos estando en el cuerpo"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "5b48d3826507",
   "lemas_rv1909": [
    {
-    "lema": null,
+    "lema": "también vosotros mismos sois del cuerpo",
     "ref": "HEB.13.3"
    }
-  ]
+  ],
+  "corregido_por_juez": "Deja sin traducir «being in body» y «ones being mistreated»."
  },
  "uwtn:259620": {
-  "text_es": "La palabra ⸢Remember⸣ implica no solo pensar en alguien, sino también actuar para ayudar a esa persona.",
+  "text_es": "La palabra ⸢Acordaos⸣ implica no solo pensar en alguien, sino también actuar para ayudar a esa persona.",
   "lemas_es": [
-   "Remember"
+   "Acordaos"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "8c8e00f6ec29",
   "lemas_rv1909": [
    {
-    "lema": null,
+    "lema": "Acordaos",
     "ref": "HEB.13.3"
    }
-  ]
+  ],
+  "corregido_por_juez": "No traduce «Remember» como «Acordaos» (RVR1909); queda en inglés."
  },
  "uwtn:259625": {
-  "text_es": "La frase ⸢yourselves also⸣ podría referirse a: (1) la audiencia. («también ustedes mismos»); (2) los ⸢ones being mistreated⸣. («ellos también siendo»)",
+  "text_es": "La frase ⸢vosotros mismos también⸣ podría referirse a: (1) la audiencia. («también vosotros mismos»); (2) los ⸢afligidos⸣. («ellos también siendo»)",
   "lemas_es": [
-   "yourselves also"
+   "vosotros mismos también"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "cdcfb25a46bc",
   "lemas_rv1909": [
    {
-    "lema": null,
+    "lema": "también vosotros mismos",
     "ref": "HEB.13.3"
    }
-  ]
+  ],
+  "corregido_por_juez": "Deja sin traducir «yourselves also» y «ones being mistreated»; en RVR1909 son «vosotros mismos también» y «los afligidos»."
  },
  "uwtn-c:259627": {
   "text_es": "En estas dos cláusulas, el autor no incluye ningún verbo. Si su idioma necesita estos verbos, podría incluir verbos de mandato o exhortación en la primera cláusula (como lo hace la ULT) o en ambas cláusulas. Traducción alternativa: «Que el matrimonio sea honorable entre todos, y que el lecho matrimonial sea puro»",
@@ -1120,9 +1126,9 @@
   ]
  },
  "uwtn-c:259628": {
-  "text_es": "Estos dos mandatos son muy similares. Es probable que el segundo mandato sea una versión más específica del primer mandato general. Si la repetición pudiera confundir, podría conectar las cláusulas con una palabra distinta de ⸢and⸣ para mostrar que la segunda frase repite la primera de manera específica, y no que dice algo adicional. Traducción alternativa: «El matrimonio debe ser honorable entre todos; específicamente, el lecho matrimonial debe ser puro»",
+  "text_es": "Estos dos mandatos son muy similares. Es probable que el segundo mandato sea una versión más específica del primer mandato general. Si la repetición pudiera resultar confusa, podría conectar las cláusulas con una palabra distinta de «y» para mostrar que la segunda frase repite la primera de manera específica, y no que dice algo adicional. Traducción alternativa: «El matrimonio debe ser honorable entre todos; específicamente, el lecho matrimonial debe ser puro»",
   "lemas_es": [
-   "Marriage must be honorable among all, and the marriage bed pure"
+   "El matrimonio debe ser honorable entre todos, y el lecho matrimonial puro"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "b757f6065638",
@@ -1131,12 +1137,13 @@
     "lema": null,
     "ref": "HEB.13.4"
    }
-  ]
+  ],
+  "corregido_por_juez": "Deja sin traducir «and»; debería ser «y»."
  },
  "uwtn-c:259631": {
-  "text_es": "Las palabras ⸢sexually immoral people⸣ y ⸢adulterers⸣ funcionan juntas para identificar a personas que tienen relaciones sexuales indebidas. La frase ⸢sexually immoral people⸣ se refiere en general a cualquiera que tenga relaciones sexuales indebidas. La palabra ⸢adulterers⸣ se refiere en particular a personas casadas que tienen relaciones sexuales con alguien distinto de su propio cónyuge. Si no tiene dos palabras para estas categorías, podría usar una sola palabra o frase que se refiera a personas que tienen relaciones sexuales indebidas. Traducción alternativa: «los que tienen relaciones sexuales indebidas» o «todas las personas sexualmente inmorales»",
+  "text_es": "Las palabras ⸢personas sexualmente inmorales⸣ y ⸢adúlteros⸣ funcionan juntas para identificar a personas que tienen relaciones sexuales indebidas. La frase ⸢personas sexualmente inmorales⸣ se refiere en general a cualquiera que tiene relaciones sexuales indebidas. La palabra ⸢adúlteros⸣ se refiere en particular a personas casadas que tienen relaciones sexuales con alguien que no es su propio cónyuge. Si no tiene dos palabras para estas categorías, podría usar una sola palabra o frase que se refiera a personas que tienen relaciones sexuales indebidas. Traducción alternativa: «los que tienen relaciones sexuales indebidas» o «todas las personas sexualmente inmorales»",
   "lemas_es": [
-   "sexually immoral people and adulterers"
+   "personas sexualmente inmorales y adúlteros"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "1dee4a25e9b7",
@@ -1145,7 +1152,8 @@
     "lema": null,
     "ref": "HEB.13.4"
    }
-  ]
+  ],
+  "corregido_por_juez": "Deja sin traducir «sexually immoral people» y «adulterers»."
  },
  "uwtn-c:259632": {
   "text_es": "Al igual que en la primera mitad del versículo anterior (13:5), aquí el autor no incluye ningún verbo. Debería usar la misma forma que usó en 13:5. Traducción alternativa: «Que su manera de vivir esté libre del amor al dinero»",
@@ -1162,9 +1170,9 @@
   ]
  },
  "uwtn-c:259633": {
-  "text_es": "Si su idioma no usa sustantivos abstractos para las ideas detrás de ⸢life⸣ y ⸢love⸣, podría expresar las ideas usando verbos como «vivir» y «amar». Traducción alternativa: «La manera en que viven debe estar libre de amar el dinero» o «Deben vivir de tal manera que no amen el dinero»",
+  "text_es": "Si su idioma no usa sustantivos abstractos para las ideas detrás de ⸢vida⸣ y ⸢amor⸣, podría expresar las ideas usando verbos como «vivir» y «amar». Traducción alternativa: «La manera en que usted vive debe estar libre del amor al dinero» o «Usted debe vivir de tal manera que no ame el dinero»",
   "lemas_es": [
-   "Your manner of life must be free from the love of money"
+   "Su manera de vivir debe estar libre del amor al dinero"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "3daa12a70c5f",
@@ -1173,7 +1181,8 @@
     "lema": null,
     "ref": "HEB.13.5"
    }
-  ]
+  ],
+  "corregido_por_juez": "Deja sin traducir «life» y «love»; deberían ser «vida» y «amor»."
  },
  "uwtn-c:259635": {
   "text_es": "El autor cita de un texto importante, las Escrituras del Antiguo Testamento. No introduce las palabras como una cita, sino como algo que Dios dice a la audiencia. Sin embargo, la audiencia habría entendido que estas eran palabras del Antiguo Testamento. Las palabras no coinciden exactamente con ningún versículo de la traducción griega del Antiguo Testamento que tenemos, pero son muy cercanas a las palabras que se encuentran en Deuteronomio 31:6, 8. Si sus lectores no supieran que la cita es del Antiguo Testamento, podría incluir una nota al pie o usar alguna otra forma de identificarla. Traducción alternativa: «porque él mismo ha dicho»",
@@ -1190,9 +1199,9 @@
   ]
  },
  "uwtn-c:259637": {
-  "text_es": "La palabra traducida como ⸢himself⸣ enfatiza ⸢he⸣, es decir, Dios. Considere usar una manera natural de enfatizar ⸢he⸣ en su idioma. Traducción alternativa: «él, sí él, ha dicho»",
+  "text_es": "La palabra traducida como ⸢él mismo⸣ enfatiza ⸢él⸣, es decir, Dios. Considere usar una manera natural de enfatizar ⸢él⸣ en su idioma. Traducción alternativa: «él, sí él, ha dicho»",
   "lemas_es": [
-   "he himself has said"
+   "él mismo ha dicho"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "cce0f8c6e585",
@@ -1201,12 +1210,13 @@
     "lema": null,
     "ref": "HEB.13.5"
    }
-  ]
+  ],
+  "corregido_por_juez": "Deja sin traducir «himself» y «he»; deberían ser «él mismo» y «él»."
  },
  "uwtn-c:259638": {
-  "text_es": "Estas dos cláusulas significan básicamente lo mismo. La segunda enfatiza el significado de la primera al repetir la misma idea con palabras diferentes. La poesía hebrea se basaba en este tipo de repetición, y sería bueno mostrárselo a sus lectores incluyendo ambas frases en su traducción en lugar de combinarlas. Sin embargo, si la repetición pudiera confundir, podría conectar las cláusulas con una palabra distinta de ⸢nor⸣ para mostrar que la segunda frase repite la primera, y no que dice algo adicional. Traducción alternativa: «Nunca te dejaré; en verdad, nunca te abandonaré»",
+  "text_es": "Estas dos cláusulas significan básicamente lo mismo. La segunda enfatiza el significado de la primera al repetir la misma idea con palabras diferentes. La poesía hebrea se basaba en este tipo de repetición, y sería bueno mostrárselo a sus lectores incluyendo ambas frases en su traducción en lugar de combinarlas. Sin embargo, si la repetición pudiera resultar confusa, podría conectar las cláusulas con una palabra distinta de «ni» a fin de mostrar que la segunda frase repite la primera, y no que dice algo adicional. Traducción alternativa: «Nunca te dejaré; en efecto, jamás te abandonaré»",
   "lemas_es": [
-   "I will never leave you, nor never will I forsake you"
+   "No te dejaré, ni jamás te abandonaré"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "8e0ee09651ce",
@@ -1215,12 +1225,13 @@
     "lema": null,
     "ref": "HEB.13.5"
    }
-  ]
+  ],
+  "corregido_por_juez": "Deja sin traducir «nor»; debería ser «ni»."
  },
  "uwtn-c:259639": {
-  "text_es": "Las palabras traducidas como ⸢never⸣ son dos palabras negativas en ambos lugares. En la cultura del autor, dos palabras negativas hacían la declaración aún más negativa. Los hablantes de inglés pensarían que los dos negativos forman un positivo, por lo que la ULT expresa la idea con un solo negativo fuerte. La palabra ⸢nor⸣ antes de la segunda aparición de ⸢never⸣ hace la declaración aún más fuertemente negativa. Si su idioma puede usar dos negativos como lo hacía la cultura del autor, podría usar dobles negativos aquí. Si su idioma no usa dos negativos de esta manera, podría traducir con una sola palabra negativa fuerte, como lo hace la ULT. Traducción alternativa: «ciertamente no … y mucho menos»",
+  "text_es": "Las palabras traducidas como ⸢nunca⸣ son dos palabras negativas en ambos lugares. En la cultura del autor, dos palabras negativas hacían que la declaración fuera aún más negativa. Los anglohablantes pensarían que los dos negativos forman un positivo, por lo que la ULT expresa la idea con un solo negativo fuerte. La palabra ⸢ni⸣ antes de la segunda aparición de ⸢nunca⸣ hace que la declaración sea aún más fuertemente negativa. Si su idioma puede usar dos negativos como lo hacía la cultura del autor, podría usar negativos dobles aquí. Si su idioma no usa dos negativos de esta manera, podría traducir con una sola palabra negativa fuerte, como lo hace la ULT. Traducción alternativa: «ciertamente no … y de ninguna manera»",
   "lemas_es": [
-   "never & nor never"
+   "nunca y ni nunca"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "978e4cb5e196",
@@ -1229,12 +1240,13 @@
     "lema": null,
     "ref": "HEB.13.5"
    }
-  ]
+  ],
+  "corregido_por_juez": "Traducción alternativa «y mucho menos» no equivale a «and most certainly not»; además deja «never» y «nor» sin traducir."
  },
  "uwtn-c:259640": {
-  "text_es": "Dios habla a cada persona individualmente, por lo que ⸢you⸣ es singular en ambos lugares de esta cita.",
+  "text_es": "Dios habla a cada persona individualmente, por lo que ⸢tú⸣ es singular en ambos lugares de esta cita.",
   "lemas_es": [
-   "you"
+   "tú"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "273db79d8bc6",
@@ -1243,7 +1255,8 @@
     "lema": null,
     "ref": "HEB.13.5"
    }
-  ]
+  ],
+  "corregido_por_juez": "Deja sin traducir «you»; debería ser «tú» o forma equivalente."
  },
  "uwtn-c:259642": {
   "text_es": "Traducción alternativa: «decimos confiadamente» o «decimos con confianza»",
@@ -1274,65 +1287,69 @@
   ]
  },
  "uwtn-c:259645": {
-  "text_es": "El autor de la cita usa la forma de pregunta para expresar enfáticamente la idea de que ⸢a man⸣ no puede ⸢do⸣ nada contra él. Si usted no usaría la forma de pregunta para este propósito en su idioma, podría traducir la pregunta como una declaración fuerte. Traducción alternativa: «¡Un hombre no puede hacerme nada!»",
+  "text_es": "El autor de la cita usa la forma interrogativa para expresar enfáticamente la idea de que un hombre no puede hacerle nada. Si en su idioma no usaría la forma interrogativa con este propósito, podría traducir la pregunta como una declaración enfática. Traducción alternativa: «¡Un hombre no puede hacerme nada!»",
   "lemas_es": [
-   "What will a man do to me"
+   "¿Qué me hará un hombre?"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "f8f75bd5402a",
   "lemas_rv1909": [
    {
-    "lema": null,
+    "lema": "que me hará el hombre",
     "ref": "HEB.13.6"
    }
-  ]
+  ],
+  "corregido_por_juez": "Deja sin traducir ⸢a man⸣ y ⸢do⸣."
  },
  "uwtn-c:259646": {
-  "text_es": "Aunque la palabra ⸢man⸣ es masculina, el autor la usa para referirse a cualquier persona, sea hombre o mujer. Si fuera útil en su idioma, podría usar una palabra que se aplique tanto a hombres como a mujeres, o podría referirse a ambos géneros. Traducción alternativa: «una persona» o «un hombre o una mujer»",
+  "text_es": "Aunque la palabra ⸢hombre⸣ es masculina, el autor la usa para referirse a cualquier persona, sea varón o mujer. Si fuera útil en su idioma, podría usar una palabra que se aplique tanto a hombres como a mujeres, o podría referirse a ambos géneros. Traducción alternativa: «una persona» o «un hombre o una mujer»",
   "lemas_es": [
-   "a man"
+   "un hombre"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "a14233ce7c45",
   "lemas_rv1909": [
    {
-    "lema": null,
+    "lema": "hombre",
     "ref": "HEB.13.6"
    }
-  ]
+  ],
+  "corregido_por_juez": "Deja sin traducir ⸢man⸣."
  },
  "uwtn-c:259647": {
-  "text_es": "El autor habla de «hombres» en general, no de un ⸢man⸣ en particular. Si fuera útil en su idioma, podría usar una forma que se refiera a «hombres» o «personas» en general. Traducción alternativa: «cualquier hombre» o «cualquier persona»",
+  "text_es": "El autor habla de «hombres» en general, no de un ⸢hombre⸣ en particular. Si fuera útil en su idioma, podría usar una forma que se refiera a «hombres» o «personas» en general. Traducción alternativa: «cualquier hombre» o «cualquier persona»",
   "lemas_es": [
-   "a man"
+   "un hombre"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "a60bc8bbf7c9",
   "lemas_rv1909": [
    {
-    "lema": null,
+    "lema": "hombre",
     "ref": "HEB.13.6"
    }
-  ]
+  ],
+  "corregido_por_juez": "Deja sin traducir «man»; debería ser «hombre»."
  },
  "uwtn-c:259649": {
-  "text_es": "La palabra ⸢Remember⸣ implica pensar cuidadosamente en alguien o considerarlo. No significa que la audiencia haya olvidado a los ⸢leaders⸣. Si fuera útil en su idioma, podría aclarar más que el autor se refiere a pensar cuidadosamente en algo. Traducción alternativa: «Traigan a la mente» o «Piensen en»",
+  "text_es": "La palabra ⸢Acordaos⸣ implica pensar cuidadosamente en alguien o considerarlo. No significa que los oyentes hayan olvidado a los ⸢líderes⸣. Si fuera útil en su idioma, podría expresar con mayor claridad que el autor se refiere a pensar cuidadosamente en algo. Traducción alternativa: «Traigan a la memoria» o «Piensen en»",
   "lemas_es": [
-   "Remember"
+   "Acordaos"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "9b7f9d005131",
   "lemas_rv1909": [
    {
-    "lema": null,
+    "lema": "Acordaos",
     "ref": "HEB.13.7"
    }
-  ]
+  ],
+  "corregido_por_juez": "Los términos clave ⸢Remember⸣ y ⸢leaders⸣ quedan sin traducir."
  },
  "uwtn-c:259650": {
-  "text_es": "El autor implica que los ⸢leaders⸣ de los que habla han muerto. Si fuera útil en su idioma, podría hacer esto más explícito. Traducción alternativa: «sus antiguos líderes» o «sus líderes que han muerto»",
+  "text_es": "El autor implica que los ⸢líderes⸣ de los que habla han muerto. Si fuera útil en su idioma, podría hacerlo más explícito. Traducción alternativa: «sus antiguos líderes» o «sus líderes que han muerto»",
   "lemas_es": [
-   "your leaders"
+   "sus líderes"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "f1ed6a86b441",
@@ -1341,12 +1358,13 @@
     "lema": null,
     "ref": "HEB.13.7"
    }
-  ]
+  ],
+  "corregido_por_juez": "El término clave ⸢leaders⸣ queda sin traducir."
  },
  "uwtn-c:259653": {
-  "text_es": "La palabra ⸢Word⸣ se refiere a lo que alguien dice con palabras. Si fuera útil en su idioma, podría usar una expresión equivalente o un lenguaje claro. Traducción alternativa: «el Mensaje»",
+  "text_es": "La palabra ⸢Verbo⸣ se refiere a lo que alguien dice con palabras. Si fuera útil en su idioma, podría usar una expresión equivalente o un lenguaje sencillo. Traducción alternativa: «el Mensaje»",
   "lemas_es": [
-   "the Word"
+   "el Verbo"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "455d932c32df",
@@ -1355,12 +1373,13 @@
     "lema": null,
     "ref": "HEB.13.7"
    }
-  ]
+  ],
+  "corregido_por_juez": "El término clave ⸢Word⸣ queda sin traducir; según la edición debería ser ⸢Verbo⸣."
  },
  "uwtn-c:259655": {
-  "text_es": "El autor implica que el ⸢outcome⸣ es bueno. Si fuera útil en su idioma, podría hacer esta idea más explícita. Traducción alternativa: «el buen resultado» o «el resultado positivo»",
+  "text_es": "El autor implica que el resultado es bueno. Si fuera útil en su idioma, podría hacer esta idea más explícita. Traducción alternativa: «el buen resultado» o «el resultado positivo»",
   "lemas_es": [
-   "the outcome"
+   "el resultado"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "7762b2b5dcce",
@@ -1369,7 +1388,8 @@
     "lema": null,
     "ref": "HEB.13.7"
    }
-  ]
+  ],
+  "corregido_por_juez": "Deja sin traducir ⸢outcome⸣."
  },
  "uwtn-c:259656": {
   "text_es": "Si su idioma no usa un sustantivo abstracto para la idea de ⸢fe⸣, podría expresar la idea usando un verbo como «creer» o «confiar». Traducción alternativa: «cómo creyeron» o «la manera en que creyeron».",
@@ -1386,7 +1406,7 @@
   ]
  },
  "uwtn:259649": {
-  "text_es": "La palabra ⸢Acordaos⸣ implica pensar cuidadosamente en alguien o considerarlo. No significa que la audiencia haya olvidado a los ⸢líderes⸣.",
+  "text_es": "La palabra ⸢Acordaos⸣ implica pensar cuidadosamente en alguien o considerarlo. No significa que la audiencia haya olvidado a los ⸢pastores⸣.",
   "lemas_es": [
    "Acordaos"
   ],
@@ -1397,24 +1417,26 @@
     "lema": "Acordaos",
     "ref": "HEB.13.7"
    }
-  ]
+  ],
+  "corregido_por_juez": "«leaders» corresponde a «pastores» en RVR1909, no «líderes»."
  },
  "uwtn:259650": {
-  "text_es": "El autor implica que los ⸢líderes⸣ de los que habla han muerto.",
+  "text_es": "El autor da a entender que los ⸢pastores⸣ de los que habla han muerto.",
   "lemas_es": [
-   "vuestros líderes"
+   "sus pastores"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "4d13174d127c",
   "lemas_rv1909": [
    {
-    "lema": null,
+    "lema": "pastores",
     "ref": "HEB.13.7"
    }
-  ]
+  ],
+  "corregido_por_juez": "«leaders» corresponde a «pastores» en RVR1909, no «líderes»."
  },
  "uwtn:259652": {
-  "text_es": "El autor usa el posesivo para describir ⸢el Verbo⸣ que podría: (1) ser acerca de ⸢Dios⸣ y lo que él ha hecho. («el Verbo acerca de Dios»); (2) ser de ⸢Dios⸣. («el Verbo de Dios»)",
+  "text_es": "El autor usa el posesivo para describir ⸢el Verbo⸣ que podría: (1) tratar acerca de ⸢Dios⸣ y lo que él ha hecho. («el Verbo acerca de Dios»); (2) provenir de ⸢Dios⸣. («el Verbo de Dios»)",
   "lemas_es": [
    "el Verbo de Dios"
   ],
@@ -1425,7 +1447,8 @@
     "lema": null,
     "ref": "HEB.13.7"
    }
-  ]
+  ],
+  "corregido_por_juez": "En Heb 13:7 «the Word» corresponde a «la palabra», no «el Verbo»."
  },
  "uwtn-c:259657": {
   "text_es": "El autor usa nombres de días específicos para referirse a períodos completos de tiempo. La palabra ⸢ayer⸣ se refiere al pasado, y la palabra ⸢hoy⸣ se refiere al presente. Si sería útil en su idioma, podría referirse a estos períodos de tiempo de una manera natural en su idioma. Traducción alternativa: «en el pasado y en el presente» o «entonces y ahora».",
@@ -1610,18 +1633,19 @@
   ]
  },
  "uwtn:259667": {
-  "text_es": "Los eruditos debaten a qué se refiere la palabra ⸢alimentos⸣ aquí. Estas son solo algunas de las opciones sobre lo que ⸢alimentos⸣ podría indicar: (1) comidas ceremoniales judías (2) comidas ceremoniales paganas (3) sacrificios del Antiguo Testamento (4) leyes alimentarias judías.",
+  "text_es": "Los eruditos debaten a qué se refiere aquí la palabra ⸢viandas⸣. Estas son solo algunas de las opciones sobre lo que ⸢viandas⸣ podría indicar: (1) comidas ceremoniales judías (2) comidas ceremoniales paganas (3) sacrificios del Antiguo Testamento (4) leyes alimentarias judías.",
   "lemas_es": [
-   "por alimentos"
+   "por viandas"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "3688326d4597",
   "lemas_rv1909": [
    {
-    "lema": null,
+    "lema": "viandas",
     "ref": "HEB.13.9"
    }
-  ]
+  ],
+  "corregido_por_juez": "«foods» corresponde a «viandas» en RVR1909, no «alimentos»."
  },
  "uwtn-c:259670": {
   "text_es": "La palabra ⸢altar⸣ podría referirse a: (1) la ofrenda que Jesús hizo de sí mismo (2) la cruz (3) la adoración y obediencia de los creyentes (4) un altar o santuario en el cielo (5) la Cena del Señor. Dado que el autor nunca menciona un ⸢altar⸣ celestial en otro lugar, es probable que el autor pretenda que ⸢altar⸣ indique algún tipo de «sacrificio», ya sea la ofrenda que Jesús hizo de sí mismo o nuestra ofrenda de adoración a Dios. Si sería útil en su idioma, podría usar una palabra para «sacrificio» para expresar la idea aquí. Traducción alternativa: «un sacrificio».",
@@ -1720,7 +1744,7 @@
   ]
  },
  "uwtn:259671": {
-  "text_es": "La frase ⸢los que sirven en el tabernáculo⸣ podría referirse a: (1) los sacerdotes que realizaban sacrificios en el tabernáculo. («los sacerdotes que servían en el tabernáculo»); (2) todos los que adoran a Dios según las maneras del antiguo pacto. («cualquiera que adore según el tabernáculo» o «los que adoran como lo hacían en el tabernáculo»)",
+  "text_es": "La frase ⸢los que sirven en el tabernáculo⸣ podría referirse a: (1) los sacerdotes que ofrecían sacrificios en el tabernáculo. («los sacerdotes que servían en el tabernáculo»); (2) todos los que adoran a Dios según las formas del antiguo pacto. («cualquiera que adore según el tabernáculo» o «los que adoran como lo hacían en el tabernáculo»).",
   "lemas_es": [
    "los que sirven en el tabernáculo"
   ],
@@ -1733,7 +1757,8 @@
     "lema": "los que sirven al tabernáculo",
     "ref": "HEB.13.10"
    }
-  ]
+  ],
+  "corregido_por_juez": "RVR1909 dice «sirven al tabernáculo», no «sirven en el tabernáculo»."
  },
  "uwtn:259672": {
   "text_es": "El autor podría referirse a: (1) el ⸢tabernáculo⸣ que se describe en el Antiguo Testamento. En este caso, no está describiendo algo que sucedía cuando escribió la carta. Más bien, está describiendo lo que Dios requería para el ⸢tabernáculo⸣ en la Escritura. («que servían en el tabernáculo»); (2) el «templo» que existía cuando escribió esta carta. El templo reemplazó el ⸢tabernáculo⸣, y el autor simplemente usa el nombre ⸢tabernáculo⸣ tanto para el santuario del Antiguo Testamento como para el templo que existía en su tiempo. («sirviendo en el templo» o «sirviendo en el santuario»)",
@@ -1788,9 +1813,9 @@
   ]
  },
  "uwtn-c:259677": {
-  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa la forma pasiva aquí para enfocarse en la ⸢sangre⸣ que es ⸢presentada⸣, más que en el ⸢pontífice⸣ que realiza la «presentación». Traducción alternativa: «el pontífice presenta la sangre de qué animales a favor del pecado»",
+  "text_es": "Si su idioma no usa la forma pasiva de esta manera, podría expresar la idea en forma activa o de otra manera que sea natural en su idioma. El autor usa aquí la forma pasiva para enfocarse en la ⸢sangre⸣ que es ⸢presentada⸣, y no en el ⸢pontífice⸣ que realiza la «presentación». Traducción alternativa: «el pontífice presenta la sangre de qué animales por el pecado»",
   "lemas_es": [
-   "la sangre de qué animales es presentada a favor del pecado por el sumo sacerdote"
+   "la sangre de qué animales es presentada por el pecado por el sumo sacerdote"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "9b52dfd7bbe4",
@@ -1799,7 +1824,8 @@
     "lema": null,
     "ref": "HEB.13.11"
    }
-  ]
+  ],
+  "corregido_por_juez": "«a favor del pecado» cambia el sentido de «on behalf of sins»; corresponde «por el pecado» o «por los pecados»."
  },
  "uwtn-c:259678": {
   "text_es": "El autor podría usar el tiempo presente porque: (1) está hablando de lo que Dios mandó en el Antiguo Testamento, que él puede leer en el tiempo presente. Traducción alternativa: «era presentada … eran quemados»; (2) está hablando de cómo, cuando escribió esta carta, los pontífices todavía presentaban este tipo de ofrenda en el templo cada año. «es presentada cada año … son quemados»",
@@ -1892,9 +1918,9 @@
   "huella": "029b94860b86"
  },
  "uwtn:259678": {
-  "text_es": "El autor podría usar el tiempo presente porque: (1) está hablando de lo que Dios mandó en el Antiguo Testamento, que él puede leer en el tiempo presente. («era presentada … eran quemados»); (2) está hablando de cómo, cuando escribió esta carta, los pontífices todavía presentaban este tipo de ofrenda en el templo cada año. «es presentada cada año … son quemados»",
+  "text_es": "El autor pudo usar el tiempo presente porque: (1) está hablando de lo que Dios mandó en el Antiguo Testamento, que él puede leer en el tiempo presente. («era traída … eran quemados»); (2) está hablando de cómo, cuando escribió esta carta, los pontífices todavía presentaban esta clase de ofrenda en el templo cada año. «es traída cada año … son quemados»",
   "lemas_es": [
-   "es presentada & son quemados"
+   "es traída y son quemados"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "65139104be67",
@@ -1903,7 +1929,8 @@
     "lema": "son quemados",
     "ref": "HEB.13.11"
    }
-  ]
+  ],
+  "corregido_por_juez": "Traduce 'was brought/is brought' como 'era presentada/es presentada'; debería ser 'era traída/es traída' (o 'era metida/es metida'), lo que cambia el sentido."
  },
  "uwtn:259681": {
   "text_es": "La frase ⸢los lugares santos⸣ podría referirse a: (1) la sección interior del santuario terrenal. («la sección interior del santuario»); (2) el santuario terrenal en general. («el santuario» o «el tabernáculo»)",
@@ -2060,9 +2087,9 @@
   ]
  },
  "uwtn-c:259690": {
-  "text_es": "En un contexto como este, puede ser más natural en su idioma decir «vengan» en lugar de ⸢vayamos⸣. Traducción alternativa: «Vengamos a él»",
+  "text_es": "En un contexto como este, puede ser más natural en su idioma decir «vengan» en lugar de ⸢vayan⸣. Traducción alternativa: «Vengamos a él»",
   "lemas_es": [
-   "Vayamos & a él"
+   "Vengamos a él"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "ad4eb3d17d87",
@@ -2071,7 +2098,8 @@
     "lema": null,
     "ref": "HEB.13.13"
    }
-  ]
+  ],
+  "corregido_por_juez": "«vengan» no corresponde a «come» en el contraste con «vayamos»; debe ser «vengamos» (cf. «Let us come»)."
  },
  "uwtn-c:259691": {
   "text_es": "El autor habla de seguir a Cristo como si fuera salir del ⸢campamento⸣ (ver 13:11) para estar con él fuera de ese ⸢campamento⸣. Los eruditos debaten a qué se refieren el ⸢campamento⸣ y el ⸢fuera⸣ de ese campamento. El autor podría estar animando a la audiencia a: (1) abandonar lo que la sociedad considera valioso y honorable para seguir a Cristo. Traducción alternativa: «Por tanto, ignoremos nuestra sociedad para confiar en él»; (2) abandonar el sistema de sacrificios del Antiguo Testamento para confiar en el sacrificio de Cristo. Traducción alternativa: «Por tanto, dejemos atrás los sacrificios del Antiguo Testamento y confiemos en su obra»; (3) abandonar el mundo físico para entrar en el cielo. Traducción alternativa: «Por tanto, vayamos a él en el cielo, fuera de este mundo»",
@@ -2200,7 +2228,7 @@
   ]
  },
  "uwtn-c:259698": {
-  "text_es": "La palabra ⸢una⸣ se refiere a una ciudad. Si fuera útil en su idioma, podría explicitar a qué se refiere ⸢una⸣. Traducción alternativa: «la ciudad que viene» o «la ciudad venidera»",
+  "text_es": "La palabra ⸢la⸣ se refiere a una ciudad. Si fuera útil en su idioma, podría explicitar a qué se refiere ⸢la⸣. Traducción alternativa: «la ciudad que viene» o «la ciudad venidera»",
   "lemas_es": [
    "la que viene"
   ],
@@ -2211,7 +2239,8 @@
     "lema": null,
     "ref": "HEB.13.14"
    }
-  ]
+  ],
+  "corregido_por_juez": "«one» no equivale a «una»; es pronombre referido a la ciudad, debería ser «la»/«la que»."
  },
  "uwtn-c:259699": {
   "text_es": "El autor implica directamente que la ciudad que ⸢viene⸣ es la ciudad celestial, la nueva Jerusalén, que ya mencionó en 11:10, 16, 12:22–24. Si fuera útil en su idioma, podría explicitar más claramente a qué ciudad se refiere el autor. Traducción alternativa: «la celestial que viene» o «la Jerusalén celestial venidera»",
@@ -2620,7 +2649,7 @@
   ]
  },
  "uwtn-c:259723": {
-  "text_es": "Las palabras ⸢nos⸣, ⸢nosotros⸣ y ⸢nosotros mismos⸣ no incluyen a la audiencia. Podrían referirse a: (1) el autor y quienes trabajan con él. Traducción alternativa: «nosotros que proclamamos las buenas nuevas … estamos persuadidos … tenemos … de conducirnos»; (2) el autor y otras personas que lideran a la audiencia. Traducción alternativa: «nosotros los líderes … estamos persuadidos … tenemos … de conducirnos»; (3) solo el autor. Traducción alternativa: «yo … estoy persuadido … tengo … de conducirme»",
+  "text_es": "Las palabras ⸢nosotros⸣, ⸢nos⸣ y ⸢nosotros mismos⸣ no incluyen a la audiencia. Podrían referirse a: (1) el autor y quienes trabajan con él. Traducción alternativa: «nosotros que proclamamos las buenas noticias … estamos persuadidos … tenemos … de conducirnos»; (2) el autor y otras personas que guían a la audiencia. Traducción alternativa: «nosotros los líderes … estamos persuadidos … tenemos … de conducirnos»; (3) solo el autor. Traducción alternativa: «yo … estoy persuadido … tengo … de conducirme»",
   "lemas_es": [
    "nosotros & estamos persuadidos & tenemos & de conducirnos"
   ],
@@ -2631,7 +2660,8 @@
     "lema": null,
     "ref": "HEB.13.18"
    }
-  ]
+  ],
+  "corregido_por_juez": "Añade 'de' ante los infinitivos ('de conducirnos', 'de conducirme'), cambiando el sentido a una perífrasis de obligación ('tenemos que...'); el original solo tiene 'to conduct ourselves'."
  },
  "uwtn-c:259724": {
   "text_es": "La palabra ⸢porque⸣ podría introducir: (1) una razón por la cual puede pedirles que oren por él. Traducción alternativa: «lo cual pedimos porque»; (2) otra declaración que está conectada de manera flexible. Traducción alternativa: «pues»",
@@ -3638,6 +3668,191 @@
    {
     "lema": null,
     "ref": "HEB.13.25"
+   }
+  ]
+ },
+ "uwtn-c:259629": {
+  "text_es": "La frase traducida como ⸢entre todos⸣ podría referirse: (1) a ⸢todos⸣ las personas. Traducción alternativa: «entre todas las personas»; (2) a ⸢todas⸣ las cosas o ámbitos. Traducción alternativa: «en todas las cosas» o «en todo sentido»",
+  "lemas_es": [
+   "entre todos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "d30dcbfdd48a",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.13.4"
+   }
+  ]
+ },
+ "uwtn-c:259630": {
+  "text_es": "La frase ⸢el lecho matrimonial⸣ es una manera cortés de referirse a que las personas casadas tienen relaciones sexuales. Si en su idioma sería útil, podría usar una expresión cortés comparable o un lenguaje directo. Traducción alternativa: «los derechos conyugales» o «tener relaciones sexuales conyugales»",
+  "lemas_es": [
+   "el lecho matrimonial"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "74a34d0ede09",
+  "lemas_rv1909": [
+   {
+    "lema": "el matrimonio, y el lecho",
+    "ref": "HEB.13.4"
+   }
+  ]
+ },
+ "uwtn:259629": {
+  "text_es": "La frase traducida como ⸢en todos⸣ podría referirse: (1) a todas las personas. («en todos los pueblos»); (2) a todas las cosas o ámbitos. («en todas las cosas» o «en todo sentido»)",
+  "lemas_es": [
+   "en todos"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "4b8c7278b6d5",
+  "corregido_por_juez": "«among all» corresponde a «en todos» en RVR1909, no «entre todos».",
+  "lemas_rv1909": [
+   {
+    "lema": "en todos",
+    "ref": "HEB.13.4"
+   }
+  ]
+ },
+ "uwtn-c:259634": {
+  "text_es": "La frase ⸢contentándose⸣ podría introducir: (1) el medio por el cual la ⸢manera de vivir⸣ de las personas puede estar ⸢libre del amor al dinero⸣. Traducción alternativa: «contentándose» o «lo cual pueden lograr contentándose»; (2) un segundo mandato positivo. Traducción alternativa: «y deben contentarse»",
+  "lemas_es": [
+   "contentándose"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "62aff791a377",
+  "lemas_rv1909": [
+   {
+    "lema": "contentos",
+    "ref": "HEB.13.5"
+   }
+  ]
+ },
+ "uwtn-c:259636": {
+  "text_es": "La frase ⸢él mismo⸣ se refiere a Dios. Si en su idioma sería útil, podría explicitar a quién se refiere ⸢él mismo⸣. Traducción alternativa: «Dios mismo ha dicho»",
+  "lemas_es": [
+   "él mismo ha dicho"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ce50b666f8c2",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.13.5"
+   }
+  ]
+ },
+ "uwtn:259634": {
+  "text_es": "La frase ⸢contentándose⸣ podría introducir: (1) el medio por el cual la ⸢manera de vivir⸣ de las personas puede estar ⸢libre del amor al dinero⸣. («contentándose» o «lo cual pueden lograr contentándose»); (2) un segundo mandato, positivo. («y deben contentarse»)",
+  "lemas_es": [
+   "contentándose"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "489d0525d3bf",
+  "corregido_por_juez": "No usa términos de RVR1909: «contentos», «costumbres», «sin avaricia» en lugar de «contentándose», «manera de vivir», «libre del amor al dinero».",
+  "lemas_rv1909": [
+   {
+    "lema": "contentos",
+    "ref": "HEB.13.5"
+   }
+  ]
+ },
+ "uwtn-c:259641": {
+  "text_es": "La frase ⸢de manera que⸣ introduce el resultado de lo que Dios «ha dicho» según se registra en el versículo anterior (13:5). Si en su idioma sería útil, podría usar una palabra o frase que introduzca el resultado o desenlace de una acción. Traducción alternativa: «así que en respuesta» o «y como resultado»",
+  "lemas_es": [
+   "de manera que"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "f614c03fcdd8",
+  "lemas_rv1909": [
+   {
+    "lema": "manera",
+    "ref": "HEB.13.6"
+   }
+  ]
+ },
+ "uwtn-c:259644": {
+  "text_es": "La palabra ⸢y⸣ introduce el resultado de que el ⸢Señor⸣ sea un ⸢ayudador⸣. Si en su idioma sería útil, podría usar una palabra o frase que introduzca un resultado. Traducción alternativa: «así que»",
+  "lemas_es": [
+   "y"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3109745ae727",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.13.6"
+   }
+  ]
+ },
+ "uwtn-c:259648": {
+  "text_es": "La frase ⸢hacer a mí⸣ implica que lo que se «hace» es algo malo o dañino. Si fuera útil en su idioma, podría aclarar más que el autor de la cita se refiere a acciones dañinas o perjudiciales. Traducción alternativa: «¿me hará un hombre daño?» o «¿hará un hombre algo que me perjudique?»",
+  "lemas_es": [
+   "¿me hará un hombre daño?"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "3065e8c398e3",
+  "corregido_por_juez": "La segunda traducción alternativa cambia el sentido: 'un hombre que me perjudique' describe al hombre, no la acción que perjudica.",
+  "lemas_rv1909": [
+   {
+    "lema": "me hará el hombre",
+    "ref": "HEB.13.6"
+   }
+  ]
+ },
+ "uwtn:259648": {
+  "text_es": "La frase ⸢me hará⸣ implica que lo que se «hace» es algo malo o dañino.",
+  "lemas_es": [
+   "me hará el hombre"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "ccf953aaeb6f",
+  "lemas_rv1909": [
+   {
+    "lema": "me hará el hombre",
+    "ref": "HEB.13.6"
+   }
+  ]
+ },
+ "uwtn-c:259651": {
+  "text_es": "La palabra ⸢que⸣ introduce una descripción de los ⸢dirigentes⸣. El autor no está distinguiendo entre ⸢dirigentes⸣ que ⸢hablaron la Palabra⸣ y ⸢dirigentes⸣ que no lo hicieron. Si en su idioma sería útil, podría usar una forma que deje claro que ⸢que⸣ introduce una descripción, no una distinción. Traducción alternativa: «personas que»",
+  "lemas_es": [
+   "que"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "925a0cc28b89",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.13.7"
+   }
+  ]
+ },
+ "uwtn-c:259652": {
+  "text_es": "El autor usa el posesivo para describir ⸢la Palabra⸣ que podría: (1) tratar acerca de ⸢Dios⸣ y lo que él ha hecho. Traducción alternativa: «la Palabra acerca de Dios»; (2) provenir de ⸢Dios⸣. Traducción alternativa: «la Palabra de Dios»",
+  "lemas_es": [
+   "la Palabra de Dios"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "168e19dfee10",
+  "lemas_rv1909": [
+   {
+    "lema": "la palabra de Dios",
+    "ref": "HEB.13.7"
+   }
+  ]
+ },
+ "uwtn-c:259654": {
+  "text_es": "La frase ⸢de quienes⸣ identifica a quiénes pertenece el ⸢resultado⸣ de la ⸢conducta⸣. Si en su idioma sería útil, podría reordenar estas palabras para que quede claro qué modifica ⸢de quienes⸣. Traducción alternativa: «considerando el resultado de su conducta»",
+  "lemas_es": [
+   "de quienes considerando el resultado de su conducta"
+  ],
+  "modelo": "deepseek:deepseek-chat",
+  "huella": "8c83e5d0891e",
+  "lemas_rv1909": [
+   {
+    "lema": null,
+    "ref": "HEB.13.7"
    }
   ]
  }

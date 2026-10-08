@@ -1551,13 +1551,13 @@
   ]
  },
  "uwtn-c:258626": {
-  "text_es": "Aquí, igual que en 7:3, el autor describe el carácter de «Melchisedec» tal como aparece en Génesis 14:18–20. El autor de ese relato no menciona nada acerca de la muerte de Melchisedec. Si fuera útil en su idioma, podría explicitar que el autor se refiere a lo que el Antiguo Testamento nos dice acerca de Melchisedec. Traducción alternativa: «se da testimonio de que vive, ya que no hay registro de su muerte en las Escrituras» o «la ausencia de cualquier registro de su muerte da testimonio de que vive».",
+  "text_es": "Aquí, igual que en 7:3, el autor describe el carácter «Melchisedec» tal como aparece en Génesis 14:18–20. El autor de ese relato no menciona nada acerca de la muerte de Melchisedec. Si fuera útil en su idioma, podría explicitar que el autor se refiere a lo que el Antiguo Testamento nos dice acerca de Melchisedec. Traducción alternativa: «se da testimonio de que vive, ya que no hay registro de su muerte en las Escrituras» o «la ausencia de cualquier registro de su muerte da testimonio de que vive».",
   "lemas_es": [
    "se da testimonio de que vive"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "932410125a17",
-  "corregido_por_juez": "Añade «para siempre» en las traducciones alternativas, ausente en «lives on».",
+  "corregido_por_juez": "Traduce «character» como «carácter» (naturaleza) en lugar de «personaje»; aquí se refiere a Melquisedec como figura literaria.",
   "lemas_rv1909": [
    {
     "lema": "testimonio que vive",

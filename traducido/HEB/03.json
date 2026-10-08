@@ -466,13 +466,13 @@
   ]
  },
  "uwtn-c:258219": {
-  "text_es": "La palabra ⸢Por tanto⸣ introduce una inferencia de lo que el autor ha dicho acerca de Jesús en 2:5–18. Si fuera útil en su idioma, podría usar una palabra o frase que introduzca claramente una inferencia. Traducción alternativa: «Como resultado de todo lo que» o «Debido a esas cosas»",
+  "text_es": "La palabra ⸢Por tanto⸣ introduce una inferencia de lo que el autor ha dicho acerca de Jesús en 2:5–18. Si fuera útil en su idioma, podría usar una palabra o frase que introduzca claramente una inferencia. Traducción alternativa: «Como resultado de todo eso» o «Por causa de esas cosas»",
   "lemas_es": [
    "Por tanto"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "e7a24f7f20de",
-  "corregido_por_juez": "Usa «Por tanto» en lugar de «Por lo cual» (RV1909) y traduce «As a result of all that» como «Como resultado de todo lo que», frase incompleta.",
+  "corregido_por_juez": "La traducción alternativa «Como resultado de todo lo que» es incompleta/incorrecta; debería ser «Como resultado de todo eso» o similar.",
   "lemas_rv1909": [
    {
     "lema": "Por tanto",
@@ -537,16 +537,16 @@
   ]
  },
  "uwtn-c:258224": {
-  "text_es": "El autor usa la forma posesiva para hablar del ⸢apóstol⸣ y del ⸢pontífice⸣ que son el contenido principal de ⸢nuestra profesión⸣. Si fuera útil en su idioma, podría expresar la idea sin usar una forma posesiva. Traducción alternativa: «el apóstol y pontífice a quien confesamos»",
+  "text_es": "El autor usa la forma posesiva para hablar del ⸢apóstol⸣ y del ⸢pontífice⸣ que son el contenido principal de ⸢nuestra confesión⸣. Si fuera útil en su idioma, podría expresar la idea sin usar una forma posesiva. Traducción alternativa: «el apóstol y pontífice a quien confesamos»",
   "lemas_es": [
-   "el apóstol y pontífice de nuestra profesión"
+   "el apóstol y pontífice de nuestra confesión"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "6cf37063b02c",
-  "corregido_por_juez": "Traduce «our confession» como «nuestra confesión»; en RV1909 (Heb 3:1) es «nuestra profesión».",
+  "corregido_por_juez": "El original dice «who is» (singular); el español usa «que son» (plural), cambiando el sentido.",
   "lemas_rv1909": [
    {
-    "lema": "Apóstol y Pontífice de nuestra profesión",
+    "lema": "Apóstol y Pontífice de nuestra",
     "ref": "HEB.3.1"
    }
   ]
@@ -1931,13 +1931,13 @@
   ]
  },
  "uwtn-c:258305": {
-  "text_es": "El autor usa las palabras ⸢oído⸣ y ⸢provocado⸣ para referirse de nuevo a las palabras que empleó la cita. Vea cómo tradujo «oíd su voz» en 3:7 y «provocación» en 3:8. Traducción alternativa: «quienes oyeron su voz participaron en la provocación»",
+  "text_es": "El autor usa las palabras ⸢oído⸣ y ⸢provocado⸣ para remitirse a las palabras que usó la cita. Vea cómo tradujo «si oyereis su voz» en 3:7 y «provocación» en 3:8. Traducción alternativa: «quienes oyeron su voz participaron en la provocación»",
   "lemas_es": [
    "habiendo oído, le provocaron"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "679987d6f810",
-  "corregido_por_juez": "«oíd su voz» es imperativo; en 3:7 la frase no es imperativa y no corresponde al texto RV1909 («oyereis... su voz»).",
+  "corregido_por_juez": "Se traduce «hear his voice» como «oíd su voz» (imperativo), pero en 3:7 es «si oyereis su voz» (condicional).",
   "lemas_rv1909": [
    {
     "lema": "habiendo oído, provocaron",
@@ -1946,13 +1946,13 @@
   ]
  },
  "uwtn-c:258306": {
-  "text_es": "En un contexto como este, su idioma podría decir «salieron» en lugar de ⸢salgan⸣. Traducción alternativa: «los que han salido»",
+  "text_es": "En un contexto como este, su idioma podría decir «han salido» en lugar de ⸢salir⸣. Traducción alternativa: «los que han salido»",
   "lemas_es": [
    "los que han salido"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "8e6679e8dccc",
-  "corregido_por_juez": "«salieron» no traduce el participio «gone out»; además «los que salieron» pierde el aspecto perfecto de «having gone out».",
+  "corregido_por_juez": "Se traduce «come out» como «salgan» (subjuntivo/imperativo) en lugar de «salir/salido»; además «gone out» como «salieron» en vez de «han salido».",
   "lemas_rv1909": [
    {
     "lema": "salido",

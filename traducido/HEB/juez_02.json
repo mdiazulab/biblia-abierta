@@ -731,10 +731,10 @@
   "huella": "ed39b4bc41d2"
  },
  "uwtn-c:258126": {
-  "ok": false,
-  "motivo": "En la primera traducción alternativa, «miracles» se vierte como «maravillas» en vez de «milagros», término que el mismo texto distingue de «wonders»/«prodigios».",
+  "ok": true,
+  "motivo": "Fiel y completo.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "3a898f696ac8"
+  "huella": "fee47521281c"
  },
  "uwtn-c:258127": {
   "ok": true,
@@ -1109,10 +1109,10 @@
   "huella": "f3546d709508"
  },
  "uwtn-c:258193": {
-  "ok": false,
-  "motivo": "Omite «little» en «little children»: traduce solo «niños», y en la alternativa «God’s little children» queda «los niños de Dios».",
+  "ok": true,
+  "motivo": "Fiel y completo.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "a57be99928c2"
+  "huella": "f160e30a4ff2"
  },
  "uwtn-c:258191": {
   "ok": true,
@@ -1128,9 +1128,9 @@
  },
  "uwtn-c:258192": {
   "ok": false,
-  "motivo": "Omite «little» en «I and the little children»: traduce «yo y los niños».",
+  "motivo": "Omite «little» en «I and the little children»; traduce solo «yo y los niños» en lugar de «yo y los niños pequeños».",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "8e9f250a3ec8"
+  "huella": "13ede100d7a5"
  },
  "uwtn-c:258194": {
   "ok": true,

@@ -588,9 +588,9 @@
  },
  "calvino:HEB.10.23#156": {
   "ok": false,
-  "motivo": "Invierte «which his word contains»: traduce «la cual contiene su palabra», es decir, la promesa contiene la palabra, cuando el original dice que la palabra contiene la promesa.",
+  "motivo": "Invierte la relación en «la cual contiene su palabra»: el original dice que la promesa es contenida por la palabra de Dios («which his word contains»), no que la promesa contenga la palabra.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "7b5de5a1c7dd"
+  "huella": "7291275df446"
  },
  "calvino:HEB.10.24#157": {
   "ok": true,
@@ -672,9 +672,9 @@
  },
  "calvino:HEB.10.38#170": {
   "ok": false,
-  "motivo": "«No agradará mi alma» cambia el sujeto/objeto de «He will not please my soul» (debe ser «No agradará a mi alma»); además deja «elation» sin traducir.",
+  "motivo": "Traduce «a quiet standing» como «una morada tranquila», lo que cambia el sentido de posición/estado firme por el de lugar de habitación.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "70eac46642fb"
+  "huella": "c472e5a599e6"
  },
  "calvino:HEB.10.39#171": {
   "ok": true,
@@ -1596,9 +1596,9 @@
  },
  "uwtn-c:259097": {
   "ok": false,
-  "motivo": "La traducción alternativa «qué entrada» no corresponde a «which entrance»; «qué» con tilde cambia el sentido.",
+  "motivo": "Traduce «which» por «cual/cuál»; la alternativa «cuál entrada» es interrogativa y no equivale a «which entrance».",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "4009feeb8c1d"
+  "huella": "f1a0fe239b41"
  },
  "uwtn-c:259101": {
   "ok": true,
@@ -2223,5 +2223,11 @@
   "motivo": "",
   "modelo": "deepseek:deepseek-reasoner",
   "huella": "16b0032f12fb"
+ },
+ "uwtn-c:259110": {
+  "ok": true,
+  "motivo": "La traducción es fiel y completa; no se omiten ni añaden ideas, y conserva el sentido, las referencias y la traducción alternativa.",
+  "modelo": "deepseek:deepseek-reasoner",
+  "huella": "2c84b0ca77c3"
  }
 }

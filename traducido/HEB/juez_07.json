@@ -1026,9 +1026,9 @@
  },
  "uwtn-c:258626": {
   "ok": false,
-  "motivo": "Traduce «character» como «carácter» (naturaleza) en lugar de «personaje»; aquí se refiere a Melquisedec como figura literaria.",
+  "motivo": "«carácter» traduce mal «character» en el sentido de personaje; debería ser «personaje» (o «figura»), porque «el carácter Melchisedec» cambia el sentido a su personalidad/conducta.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "493bc01acae7"
+  "huella": "5f81bf0d0305"
  },
  "uwtn-c:258622": {
   "ok": true,

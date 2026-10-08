@@ -317,10 +317,10 @@
   "huella": "76df94968822"
  },
  "calvino:HEB.4.12#54": {
-  "ok": false,
-  "motivo": "En la primera línea, «living» se traduce como «eficaz» en lugar de «viviente»; cambia el sentido de la cita.",
+  "ok": true,
+  "motivo": "Fiel y completo; no se omiten ni alteran referencias, números ni sentido.",
   "modelo": "deepseek:deepseek-reasoner",
-  "huella": "badfd7b8c11e"
+  "huella": "e0770e8424e7"
  },
  "calvino:HEB.4.13#55": {
   "ok": true,

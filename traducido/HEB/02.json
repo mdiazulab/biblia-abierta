@@ -1037,13 +1037,13 @@
   ]
  },
  "uwtn-c:258126": {
-  "text_es": "El autor usa tres palabras similares para describir actos sobrenaturales que Dios capacita a su pueblo para hacer. La palabra ⸢señales⸣ enfatiza que estos actos revelan algo; la palabra ⸢prodigios⸣ enfatiza que estos actos son asombrosos o inusuales; la palabra ⸢milagros⸣ enfatiza que estos actos son poderosos. El autor usa estas tres palabras para mostrar que Dios usa muchas cosas para «dar testimonio» de la verdad del mensaje acerca de la salvación. Si su idioma no tiene palabras diferentes que enfaticen estos tres aspectos de los actos sobrenaturales, podría combinar dos o las tres de estas palabras en una sola palabra o frase y enfatizar la variedad de testimonios de otra manera. Traducción alternativa: «por muchas y diversas maravillas» o «por muchas señales y diversos milagros»",
+  "text_es": "El autor usa tres palabras similares para describir actos sobrenaturales que Dios capacita a su pueblo para realizar. La palabra ⸢señales⸣ enfatiza que estos actos revelan algo; la palabra ⸢prodigios⸣ enfatiza que estos actos son asombrosos o inusuales; la palabra ⸢milagros⸣ enfatiza que estos actos son poderosos. El autor usa estas tres palabras para mostrar que Dios usa muchas cosas para «testificar» de la verdad del mensaje acerca de la salvación. Si su idioma no tiene palabras diferentes que enfaticen estos tres aspectos de los actos sobrenaturales, podría combinar dos o las tres palabras en una sola palabra o frase y enfatizar la variedad de testimonios de otra manera. Traducción alternativa: «por muchos y diversos milagros» o «por muchas señales y diversos milagros»",
   "lemas_es": [
    "por señales y prodigios y diversos milagros"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "5d806c92cafa",
-  "corregido_por_juez": "La primera traducción alternativa traduce «miracles» como «maravillas» en lugar de «milagros», cambiando el término que el original distingue.",
+  "corregido_por_juez": "En la primera traducción alternativa, «miracles» se vierte como «maravillas» en vez de «milagros», término que el mismo texto distingue de «wonders»/«prodigios».",
   "lemas_rv1909": [
    {
     "lema": "señales y milagros, y diversas",
@@ -2171,13 +2171,13 @@
   ]
  },
  "uwtn-c:258192": {
-  "text_es": "La palabra ⸢He aquí⸣ llama la atención sobre ⸢yo y los niños⸣. Pide a la audiencia que preste especial atención a lo que sigue. Si fuera útil en su idioma, podría usar una palabra o frase que llame la atención sobre lo que sigue. Traducción alternativa: «Fíjense en mí»",
+  "text_es": "La palabra ⸢He aquí⸣ llama la atención sobre ⸢yo y los niños⸣. Pide a la audiencia que preste especial atención a lo que sigue. Si fuera útil en su idioma, podría usar una palabra o frase que llame la atención sobre lo que sigue. Traducción alternativa: «Presten atención a mí»",
   "lemas_es": [
    "He aquí, yo"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "f6e018413aa9",
-  "corregido_por_juez": "Omite «little» en «I and the little children», traducido como «yo y los niños».",
+  "corregido_por_juez": "Omite «little» en «I and the little children»: traduce «yo y los niños».",
   "lemas_rv1909": [
    {
     "lema": "He aquí, yo",
@@ -2186,13 +2186,13 @@
   ]
  },
  "uwtn-c:258193": {
-  "text_es": "La frase ⸢niños⸣ se refiere aquí a todos los que creen. Así como Jesús es un «hijo» de Dios el Padre (ver: 1:2), los que creen en él también son ⸢hijos⸣ de Dios (ver: también 2:10). Ser ⸢niños⸣ que pertenecen a Dios significa que los creyentes son parte de la familia de Dios y hermanos de Jesús. Esta es una idea importante en Hebreos, así que preserve el lenguaje de parentesco si es posible. Si le fuera útil en su idioma, podría expresar la idea usando una analogía. Traducción alternativa: «las personas que son como los niños de Dios»",
+  "text_es": "La frase ⸢niños pequeños⸣ se refiere aquí a todos los que creen. Así como Jesús es un «hijo» de Dios el Padre (ver: 1:2), los que creen en él también son ⸢hijos⸣ de Dios (ver: también 2:10). Ser ⸢niños pequeños⸣ que pertenecen a Dios significa que los creyentes son parte de la familia de Dios y hermanos de Jesús. Esta es una idea importante en Hebreos, así que preserve el lenguaje de parentesco si es posible. Si fuera útil en su idioma, podría expresar la idea usando una analogía. Traducción alternativa: «las personas que son como los niños pequeños de Dios»",
   "lemas_es": [
-   "los niños"
+   "los niños pequeños"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "32cdcd42d8f2",
-  "corregido_por_juez": "Omite «little» en «little children»: traduce la frase principal como «niños» en lugar de «niños pequeños».",
+  "corregido_por_juez": "Omite «little» en «little children»: traduce solo «niños», y en la alternativa «God’s little children» queda «los niños de Dios».",
   "lemas_rv1909": [
    {
     "lema": null,

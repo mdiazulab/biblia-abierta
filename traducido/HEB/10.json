@@ -789,13 +789,13 @@
   ]
  },
  "calvino:HEB.10.23#156": {
-  "text_es": "23. ⸢Retengamos firme, etc.⸣ Al exhortar aquí a los judíos a perseverar, menciona la esperanza más bien que la fe; pues así como la esperanza nace de la fe, así también es alimentada y sostenida por ella hasta el fin. Exige además la ⸢profesión⸣ o confesión, pues no es verdadera fe sino la que se muestra ante los hombres. Y parece tocar indirectamente la disimulación de quienes prestaban demasiada atención, para agradar a su propia nación, a las ceremonias de la Ley. Les manda, por tanto, no solo creer con el corazón, sino también mostrar y profesar cuánto honraban a Cristo.\n\nPero debemos notar con cuidado la razón que añade: ⸢fiel es el que prometió⸣. Pues de aquí aprendemos primeramente que nuestra fe descansa sobre este fundamento: que Dios es veraz, esto es, fiel a su promesa, la cual contiene su palabra; porque para que creamos, la voz o palabra de Dios debe preceder; pero no toda clase de palabra es capaz de producir fe; solo una promesa es aquello sobre lo que la fe se apoya. Y así, de este pasaje podemos aprender la relación mutua entre la fe de los hombres y la promesa de Dios; pues a menos que Dios prometa, nadie puede creer.",
+  "text_es": "23. ⸢Retengamos firme, etc.⸣ Al exhortar aquí a los judíos a perseverar, menciona la esperanza más bien que la fe; pues así como la esperanza nace de la fe, así también por ella es alimentada y sostenida hasta el fin. Exige también la ⸢profesión⸣ o confesión, pues no es verdadera fe sino la que se muestra ante los hombres. Y parece tocar indirectamente la disimulación de quienes prestaban demasiada atención, para agradar a su propia nación, a las ceremonias de la Ley. Les manda, por tanto, no solo creer con el corazón, sino también mostrar y profesar cuánto honraban a Cristo.\n\nPero debemos observar atentamente la razón que añade: ⸢porque fiel es el que prometió.⸣ Pues de aquí aprendemos primeramente que nuestra fe descansa sobre este fundamento: que Dios es veraz, esto es, fiel a su promesa, la cual contiene su palabra; pues para que creamos, la voz o palabra de Dios debe preceder; pero no toda clase de palabra es capaz de producir fe; solo la promesa es aquello sobre lo que la fe se apoya. Y así, de este pasaje podemos aprender la relación mutua entre la fe de los hombres y la promesa de Dios; pues a menos que Dios prometa, nadie puede creer.",
   "lemas_es": [
    "Retengamos firme"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "c35c2eb42517",
-  "corregido_por_juez": "Invierte la relación en «la cual contiene su palabra»: el inglés dice que su palabra contiene la promesa, no que la promesa contenga su palabra.",
+  "corregido_por_juez": "Invierte «which his word contains»: traduce «la cual contiene su palabra», es decir, la promesa contiene la palabra, cuando el original dice que la palabra contiene la promesa.",
   "lemas_rv1909": [
    {
     "lema": null,
@@ -1029,14 +1029,14 @@
   ]
  },
  "calvino:HEB.10.38#170": {
-  "text_es": "38. ⸢Mas el justo, etc.⸣ Quiere decir que la paciencia nace de la fe; y esto es verdad, pues nunca podremos sostener nuestros combates a menos que seamos sustentados por la fe, así como, por otra parte, Juan declara con verdad que nuestra victoria sobre el mundo es por la fe. (1 Juan 5:4.) Es por la fe que ascendemos a lo alto; que saltamos por encima de todos los peligros de esta vida presente, y de todas sus miserias y aflicciones; que tenemos una quieta posición en medio de tormentas y tempestades. Entonces el Apóstol anunció esta verdad: que todos los que son contados justos delante de Dios no viven de otra manera que por la fe. Y el tiempo futuro del verbo ⸢vivir⸣ denota la perpetuidad de esta vida. Consúltense sobre este tema Romanos 1:17 y Gálatas 3:11, donde se cita este pasaje.\n\n⸢Pero si alguno se retirare, etc.⸣ Esta es la traducción de עפלה elation, tal como la usa el Profeta, pues las palabras son: «Donde habrá elation o fortificación, el alma de aquel hombre no permanecerá recta en él.» El Apóstol da aquí la versión griega, que en parte concuerda con las palabras del Profeta y en parte difiere de ellas. Pues este retirarse difiere poco, si es que difiere en algo, de aquella elation o soberbia con que los impíos se hinchan, ya que su oposición rebelde a Dios procede de aquella falsa confianza con que están embriagados; pues de ahí viene que renuncien a su autoridad y se prometan un estado tranquilo, libre de todo mal. Se puede decir, entonces, que se retiran cuando levantan defensas de esta clase, con las cuales ahuyentan todo temor de Dios y reverencia por su nombre. Y así, por esta expresión se da a entender el poder de la fe no menos que el carácter de la impiedad; pues la soberbia es impiedad, porque no rinde a Dios el honor que le es debido, al hacer al hombre obediente a él. De la seguridad de sí mismos, la insolencia y el desprecio, viene que, mientras les va bien a los malvados, se atrevan, como alguien ha dicho, a insultar a las nubes. Pero como nada es más contrario a la fe que este retirarse, pues el verdadero carácter de la fe es que atrae al hombre a la sumisión a Dios cuando es retirado por su propia naturaleza pecaminosa.\n\nLa otra cláusula, «No agradará mi alma», o como la he traducido más plenamente, «Mi alma no se complacerá en él», ha de tomarse como expresión del sentimiento del Apóstol; pues no era su propósito citar exactamente las palabras del Profeta, sino solo referirse al pasaje para invitar a los lectores a un examen más detenido de él.",
+  "text_es": "38. ⸢Mas el justo, etc.⸣ Quiere decir que la paciencia nace de la fe; y esto es verdad, pues nunca podremos sostener nuestros combates a menos que seamos sustentados por la fe, así como, por otra parte, Juan declara con verdad que nuestra victoria sobre el mundo es por la fe. (1 Juan 5:4.) Por la fe ascendemos a lo alto; por ella saltamos por encima de todos los peligros de esta vida presente y de todas sus miserias y aflicciones; por ella tenemos una morada tranquila en medio de las tormentas y tempestades. Así, pues, el Apóstol anunció esta verdad: que todos los que son tenidos por justos delante de Dios no viven de otra manera que por la fe. Y el tiempo futuro del verbo ⸢vivir⸣ denota la perpetuidad de esta vida. Sobre este tema, consúltense Romanos 1:17 y Gálatas 3:11, donde se cita este pasaje.\n\n⸢Pero si alguno se retirare, etc.⸣ Esta es la traducción de עפלה elation, tal como la usa el Profeta, pues las palabras son: «Donde hubiere elation o fortaleza, el alma de aquel hombre no permanecerá recta en él». El Apóstol da aquí la versión griega, que en parte concuerda con las palabras del Profeta y en parte difiere de ellas. Pues este retirarse difiere poco, si es que difiere en algo, de aquella elation o soberbia con que se inflan los impíos, ya que su oposición rebelde a Dios procede de aquella falsa confianza con que están embriagados; de ahí que renuncien a su autoridad y se prometan un estado tranquilo, libre de todo mal. Se puede decir, entonces, que se retiran cuando levantan defensas de esta clase, con las cuales ahuyentan todo temor de Dios y reverencia por su nombre. Y así, con esta expresión se da a entender el poder de la fe no menos que el carácter de la impiedad; pues la soberbia es impiedad, porque no rinde a Dios el honor que le es debido, al no rendir al hombre a la obediencia a él. De la seguridad en sí mismos, la insolencia y el desprecio proviene que, mientras les va bien a los impíos, se atrevan, como alguien ha dicho, a insultar a las nubes. Pero como nada es más contrario a la fe que este retirarse, pues el verdadero carácter de la fe es que atrae al hombre a la sumisión a Dios cuando es arrastrado hacia atrás por su propia naturaleza pecaminosa.\n\nLa otra cláusula, «No agradará a mi alma», o como la he vertido más plenamente, «Mi alma no se complacerá en él», debe tomarse como expresión del sentimiento del Apóstol; pues no era su propósito citar exactamente las palabras del Profeta, sino solo referirse al pasaje para invitar a los lectores a examinarlo más de cerca.",
   "lemas_es": [
    "Mas el justo",
    "Pero si alguno se retirare"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "ca904c785c5a",
-  "corregido_por_juez": "Traduce «He will not please my soul» como «No agradará mi alma», invirtiendo el sentido; además deja «elation» sin traducir.",
+  "corregido_por_juez": "«No agradará mi alma» cambia el sujeto/objeto de «He will not please my soul» (debe ser «No agradará a mi alma»); además deja «elation» sin traducir.",
   "lemas_rv1909": [
    {
     "lema": "el justo",
@@ -2757,13 +2757,13 @@
   ]
  },
  "uwtn-c:259097": {
-  "text_es": "La palabra ⸢que⸣ se refiere al lugar de «entrar» que el autor mencionó en 10:19. Si fuera útil en su idioma, podría explicitar que el pronombre se refiere al lugar de «entrar». Traducción alternativa: «qué entrada»",
+  "text_es": "La palabra ⸢cual⸣ se refiere al lugar de «entrar» que el autor mencionó en 10:19. Si fuera útil en su idioma, podría explicitar que el pronombre se refiere al lugar de «entrar». Traducción alternativa: «cuál entrada»",
   "lemas_es": [
-   "que"
+   "cual"
   ],
   "modelo": "deepseek:deepseek-chat",
   "huella": "f514f820cda2",
-  "corregido_por_juez": "La traducción alternativa «cuya entrada» no equivale a «which entrance»; introduce un posesivo y cambia la referencia del pronombre.",
+  "corregido_por_juez": "La traducción alternativa «qué entrada» no corresponde a «which entrance»; «qué» con tilde cambia el sentido.",
   "lemas_rv1909": [
    {
     "lema": null,
