@@ -118,18 +118,22 @@ def capitulo(libro, c, us, rnd):
     tr = C.cargar(ruta, {})
     cache = C.cargar(rcache, {})
     ns = [n for n in us if C.cap(n["ref"]) == c and tr.get(n["id"], {}).get("text_es")]
-    par = lambda n: (n["id"], T.texto_a_traducir(n), tr[n["id"]]["text_es"])
-    vigente = lambda i: (cache.get(i, {}).get("huella") == C.huella(tr[i]["text_es"])
+    # el juez ve el texto FINAL, con las adjudicaciones de Claude aplicadas (08-10-2026: juzgaba el crudo, volvía a
+    # marcar lo ya corregido y el corrector retraducía la nota, dejando 15 adjudicaciones sin efecto)
+    final = lambda i: C.adjudicacion(i, libro, tr[i]["text_es"]).get("text_es") or tr[i]["text_es"]
+    adjudicada = lambda i: bool(C.adjudicacion(i, libro, tr[i]["text_es"]))
+    par = lambda n: (n["id"], T.texto_a_traducir(n), final(n["id"]))
+    vigente = lambda i: (cache.get(i, {}).get("huella") == C.huella(final(i))
                          and cache[i].get("modelo") in C.JUECES_VALIDOS)   # veredictos de modelos retirados se rehacen
     # censo
     pend = [par(n) for n in ns if not vigente(n["id"])]
     for k in range(0, len(pend), LOTE * 8):          # caché guardada por tramos: un corte no pierde lo juzgado
         for i, (ok, motivo, modelo) in juzgar(pend[k:k + LOTE * 8]).items():
-            cache[i] = {"ok": ok, "motivo": motivo, "modelo": modelo, "huella": C.huella(tr[i]["text_es"])}
+            cache[i] = {"ok": ok, "motivo": motivo, "modelo": modelo, "huella": C.huella(final(i))}
         C.guardar(rcache, cache)
     # corrección de lo marcado (una vez por motivo)
-    malos = [n for n in ns if not cache.get(n["id"], {}).get("ok", True)
-             and tr[n["id"]].get("corregido_por_juez") != cache[n["id"]]["motivo"]]
+    malos = [n for n in ns if not cache.get(n["id"], {}).get("ok", True) and not adjudicada(n["id"])   # lo adjudicado
+             and tr[n["id"]].get("corregido_por_juez") != cache[n["id"]]["motivo"]]                     # va a la cola
     for n in malos:
         p = T.prompt([n]).replace("Devuelve SOLO", f"Una revisión señaló este problema en una traducción anterior: "
                                                    f"«{cache[n['id']]['motivo']}». Evítalo. Devuelve SOLO")
@@ -140,7 +144,7 @@ def capitulo(libro, c, us, rnd):
                                modelo=modelo, corregido_por_juez=cache[n["id"]]["motivo"])
     if malos:
         for i, (ok, motivo, modelo) in juzgar([par(n) for n in malos]).items():
-            cache[i] = {"ok": ok, "motivo": motivo, "modelo": modelo, "huella": C.huella(tr[i]["text_es"])}
+            cache[i] = {"ok": ok, "motivo": motivo, "modelo": modelo, "huella": C.huella(final(i))}
     # calibración con el MISMO modelo que hizo el censo (el que dio la mayoría de los veredictos)
     censo = collections.Counter(cache[n["id"]]["modelo"] for n in ns if n["id"] in cache).most_common(1)
     modelo_censo = censo[0][0] if censo else C.CONTROL[0]
@@ -162,7 +166,7 @@ def capitulo(libro, c, us, rnd):
     C.guardar(rcache, cache)
     C.guardar(f"informes/cola_{libro}_{c:02d}.json",
               [{"id": i, "motivo": cache[i]["motivo"], "en": next(par(n)[1] for n in ns if n["id"] == i),
-                "es": tr[i]["text_es"]} for i in quedan])
+                "es": final(i)} for i in quedan])
     sin_juzgar = sum(1 for n in ns if not vigente(n["id"]))
     estado = "APROBADO" if sup < UMBRAL and sens >= 0.8 and not sin_juzgar else "REVISAR"
     if sin_juzgar:

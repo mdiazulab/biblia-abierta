@@ -160,6 +160,12 @@ class Compuerta(unittest.TestCase):
         self.assertEqual(T.comillas("palabras con “perfección,” y «dijo “sí”»"), "palabras con «perfección», y «dijo “sí”»")
         self.assertEqual(T.limpiar("cuatro opciones. (Ver: [[rc://*/tw/dict/bible/other/perfect]]) Sigue"), "cuatro opciones. Sigue")
 
+    def test_juez_ve_el_texto_adjudicado_y_no_lo_retraduce(self):
+        import inspect
+        fuente = inspect.getsource(J.capitulo)
+        self.assertIn("final(n[\"id\"])", fuente)            # el juez juzga el texto con las adjudicaciones
+        self.assertIn("not adjudicada(n[\"id\"])", fuente)   # y el corrector no toca lo adjudicado
+
     def test_adjudicacion_ya_aplicada_no_queda_pendiente(self):
         C._ADJ["PRUEBA"] = {"x": {"reemplazos": [["al pueblo de Dios pueblo suyo", "a los judíos pueblo de Dios"]]}}
         r = C.adjudicacion("x", "PRUEBA", "cuando David llamó a los judíos pueblo de Dios, sacó")

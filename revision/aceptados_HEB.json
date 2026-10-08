@@ -96,5 +96,38 @@
   ],
   "motivo": "la adjudicación de Claude agrega la referencia a la RV1909 del versículo comentado (2:13 / 9:16) para el lector",
   "evidencia": "ver revision/adjudicaciones_HEB.json"
+ },
+ "uwtn:259629": {
+  "puntos": [
+   "3 cursivas"
+  ],
+  "motivo": "cursivas de énfasis de la ULT en redonda; sentido completo (leído 08-10-2026)",
+  "evidencia": "(1) to ⸢all⸣ people … (2) to ⸢all⸣ things or areas"
+ },
+ "uwtn-c:259645": {
+  "puntos": [
+   "3 cursivas"
+  ],
+  "motivo": "cursivas de énfasis de la ULT en redonda; sentido completo (leído 08-10-2026)",
+  "evidencia": "that ⸢a man⸣ cannot ⸢do⸣ anything to him"
+ },
+ "uwtn-c:259326": {
+  "puntos": [],
+  "motivo": "«of the children» en el sentido de hijos y descendientes, como dice la misma nota («any children or descendants»): «de los descendientes» conserva el sentido inclusivo (cola del juez, leído)",
+  "evidencia": "to refer to any children or descendants, both men and women"
+ },
+ "uwtn-c:259452": {
+  "puntos": [
+   "2 números"
+  ],
+  "motivo": "la adjudicación agrega la cita de la RV1909 del versículo (12:3, 12:26-27)",
+  "evidencia": "ver revision/adjudicaciones_HEB.json"
+ },
+ "uwtn-c:259604": {
+  "puntos": [
+   "2 números"
+  ],
+  "motivo": "la adjudicación agrega la cita de la RV1909 del versículo (12:3, 12:26-27)",
+  "evidencia": "ver revision/adjudicaciones_HEB.json"
  }
 }

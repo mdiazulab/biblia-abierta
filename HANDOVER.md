@@ -150,6 +150,11 @@ vínculo de vuelta al versículo.
 «Esencia y energías» (guía y antología) pasó al repositorio privado periodico_kindle/lecturas_privadas/ por
 decisión del usuario (08-10-2026): es de uso personal. biblia-abierta sigue público.
 
+Corrida con saldo nuevo (08-10-2026): 0 sin traducir, sensibilidad 229/229, sin 402. Clase nueva: el juez juzgaba el
+texto crudo (sin adjudicaciones), volvía a marcar lo ya corregido y el corrector retraducía la nota (15 adjudicaciones
+sin efecto). Ahora el juez ve el texto final y el corrector no toca lo adjudicado (va a la cola). Cola resuelta:
+7 resueltas por la retraducción, 8 rehechas, 12 nuevas con evidencia; «Word of God» predicada (13:7) = «palabra».
+
 Pendiente:
 1. Wesley (Explanatory Notes) como segunda voz de la Reforma/avivamiento, si se quiere.
 2. Solo DeepSeek (decisión del usuario 06-10-2026: Gemini sin créditos): TRADUCTOR deepseek-chat, CONTROL
