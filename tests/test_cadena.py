@@ -183,6 +183,33 @@ class Compuerta(unittest.TestCase):
         self.assertIn("gemini-3.6-flash", C.JUECES_VALIDOS)          # Juan 1-8: veredictos calibrados, no se rehacen
         self.assertNotIn("gemini-3.1-flash-lite", C.JUECES_VALIDOS)  # retirado por baja sensibilidad
 
+    def test_consumo_y_respuesta_cortada_sin_reintento(self):
+        # 08-10-2026: sin registro de tokens no se supo en qué se fue el saldo; una respuesta del razonador cortada
+        # por el tope (32 000 tokens) se reintentaba 3 veces idéntica, pagando el tope cada vez
+        import os
+        from unittest import mock
+        class R:
+            def __init__(self, fin): self.fin = fin
+            def raise_for_status(self): pass
+            def json(self):
+                return {"usage": {"prompt_tokens": 10, "completion_tokens": 32000,
+                                  "completion_tokens_details": {"reasoning_tokens": 31000}},
+                        "choices": [{"finish_reason": self.fin, "message": {"content": "{}"}}]}
+        falso = os.environ.pop("MODELO_FALSO", None)
+        os.environ["DEEPSEEK_API_KEY"] = "x"
+        C.CONSUMO.clear()
+        try:
+            with mock.patch.object(C.requests, "post", return_value=R("length")) as post:
+                with self.assertRaises(RuntimeError):
+                    C.llamar("p", ["deepseek:deepseek-reasoner"])
+                self.assertEqual(post.call_count, 1)                       # no se reintenta el mismo pedido
+            self.assertEqual(C.CONSUMO["deepseek-reasoner|razonamiento"], 31000)
+            self.assertNotIn("deepseek:deepseek-reasoner", C._CAIDOS)      # el modelo sigue disponible
+        finally:
+            C.CONSUMO.clear(); C._CAIDOS.clear(); os.environ.pop("DEEPSEEK_API_KEY", None)
+            if falso is not None:
+                os.environ["MODELO_FALSO"] = falso
+
     def test_lo_pagado_se_guarda_por_lote(self):
         # Tríadas 08-10-2026: el juez guardaba solo al final y el corte por tiempo perdió todos sus veredictos
         import inspect

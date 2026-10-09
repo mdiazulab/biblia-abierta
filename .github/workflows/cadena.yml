@@ -36,6 +36,7 @@ jobs:
         timeout-minutes: 330        # si se corta, «Guardar resultados» sube lo hecho y la corrida siguiente retoma
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          CONSUMO_ARCHIVO: ${{ github.workspace }}/informes/consumo.jsonl   # tokens por modelo y corrida (en qué se gasta el saldo)
           JUEZ_HILOS: "4"
         run: |
           if [ -z "$DEEPSEEK_API_KEY" ]; then echo "Faltan los secretos del repositorio: no se corre nada."; exit 0; fi

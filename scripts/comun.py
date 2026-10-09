@@ -5,11 +5,15 @@ Modelos (misma convención que periodico_kindle/src/providers.py):
   "gemini-<modelo>"    API nativa de Gemini (GEMINI_API_KEY), por REST
   MODELO_FALSO=1       modelo falso determinista para pruebas sin red
 """
+import atexit
+import collections
+import datetime
 import hashlib
 import json
 import os
 import pathlib
 import re
+import threading
 import time
 
 import requests
@@ -96,7 +100,48 @@ def _deepseek(prompt, modelo, temperatura):
                             "temperature": temperatura, "max_tokens": 32000 if razona else 8000,
                             **({} if razona else {"response_format": {"type": "json_object"}})}, timeout=600)
     r.raise_for_status()
-    return r.json()["choices"][0]["message"]["content"]
+    d = r.json()
+    _contar(modelo, d.get("usage") or {})
+    ch = d["choices"][0]
+    if ch.get("finish_reason") == "length":            # cortada por el tope: reintentar el MISMO pedido paga lo mismo
+        raise Cortada(f"respuesta cortada por el tope de salida ({modelo})")
+    return ch["message"]["content"]
+
+
+# ---------------------------------------------------------------- consumo (tokens por modelo en esta corrida)
+# Sin registro no se puede responder «¿en qué se gastó el saldo?» (08-10-2026). Al salir se agrega una línea a
+# $CONSUMO_ARCHIVO (jsonl) y se imprime el resumen; el razonador cobra su cadena oculta como salida.
+CONSUMO, _CANDADO_CONSUMO = collections.Counter(), threading.Lock()
+
+
+class Cortada(Exception):
+    pass
+
+
+def _contar(modelo, u):
+    with _CANDADO_CONSUMO:
+        CONSUMO[f"{modelo}|pedidos"] += 1
+        for k in ("prompt_tokens", "prompt_cache_hit_tokens", "completion_tokens"):
+            CONSUMO[f"{modelo}|{k}"] += u.get(k) or 0
+        CONSUMO[f"{modelo}|razonamiento"] += (u.get("completion_tokens_details") or {}).get("reasoning_tokens") or 0
+
+
+def resumen_consumo():
+    modelos = sorted({k.split("|")[0] for k in CONSUMO})
+    return [f"{m}: {CONSUMO[m + '|pedidos']} pedidos; entrada {CONSUMO[m + '|prompt_tokens']:,} tokens "
+            f"({CONSUMO[m + '|prompt_cache_hit_tokens']:,} en caché); salida {CONSUMO[m + '|completion_tokens']:,} "
+            f"(de ellos razonamiento {CONSUMO[m + '|razonamiento']:,})" for m in modelos]
+
+
+@atexit.register
+def _guardar_consumo():
+    if not CONSUMO:
+        return
+    print("consumo: " + " | ".join(resumen_consumo()), flush=True)
+    if os.getenv("CONSUMO_ARCHIVO"):
+        with open(os.environ["CONSUMO_ARCHIVO"], "a") as f:
+            f.write(json.dumps({"fecha": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"),
+                                **CONSUMO}, ensure_ascii=False) + "\n")
 
 
 def _gemini(prompt, modelo, temperatura):
@@ -145,6 +190,10 @@ def llamar(prompt, cadena, temperatura=0.2, intentos=3):
                 if codigo in (400, 401, 402, 403, 404):  # sin permiso o sin saldo (402, 06-10-2026): no se reintenta
                     break
                 time.sleep(15 * (k + 1) if codigo in (429, 503) else 4 * (k + 1))
+            except Cortada as e:     # no se reintenta igual: quien llama parte el lote
+                errores[modelo] = str(e)
+                acceso = False
+                break
             except Exception as e:  # noqa: BLE001 -- red o JSON mal formado: se reintenta
                 errores[modelo] = _sin_claves(str(e))[:200]
                 acceso = False
