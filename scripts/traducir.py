@@ -153,9 +153,11 @@ def main():
                     n = next(u for u in pend if u["id"] == i)
                     hecho[i] = {"text_es": limpiar(x["texto"]), "lemas_es": x.get("lemas") or [], "modelo": modelo,
                                 "huella": C.huella(n["text_src"])}
+                C.guardar(ruta, hecho)                  # por lote, no por capítulo: un corte no pierde lo pagado
             for salida, modelo in ex.map(lambda l: traducir_lote(l, C.CONTROL), list(lotes(pend2))):
                 for i, x in salida.items():
                     hecho.setdefault(i, {}).update(text_es_2=limpiar(x["texto"]), modelo_2=modelo)
+                C.guardar(ruta, hecho)
         C.guardar(ruta, hecho)
         sin = [n["id"] for n in ns if n["id"] not in hecho or not hecho[n["id"]].get("text_es")]
         print(f"cap.{c}: {len(ns)} notas; traducidas ahora {len(pend)}; segunda traducción {len(pend2)}; sin traducir {len(sin)}")

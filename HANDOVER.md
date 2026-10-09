@@ -197,6 +197,9 @@ CC BY-SA 4.0, gratuito, sin venta; objetivo: patrística y referencias de alto n
 - La traducción va en `text_es`; el campo original nunca se sobrescribe.
 - Una escritura por id; volver a ejecutar un paso no duplica entradas (idempotencia).
 - Caché de veredictos por nota: una nota idéntica no se vuelve a juzgar.
+- Todo lo pagado (traducción, veredicto, corrección, calibración) se guarda por LOTE, nunca solo al final:
+  un corte por tiempo o por saldo no pierde nada y la corrida siguiente retoma por huella. Antes de lanzar,
+  estimar si cabe en el tope del paso y, si no, poner un plazo que cierre con informe (lección Tríadas 08-10-2026).
 
 **Verificación (por capítulo; un fallo bloquea)**
 1. Mismo número de notas en origen y destino; cada id exactamente una vez.

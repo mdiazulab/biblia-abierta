@@ -183,6 +183,15 @@ class Compuerta(unittest.TestCase):
         self.assertIn("gemini-3.6-flash", C.JUECES_VALIDOS)          # Juan 1-8: veredictos calibrados, no se rehacen
         self.assertNotIn("gemini-3.1-flash-lite", C.JUECES_VALIDOS)  # retirado por baja sensibilidad
 
+    def test_lo_pagado_se_guarda_por_lote(self):
+        # Tríadas 08-10-2026: el juez guardaba solo al final y el corte por tiempo perdió todos sus veredictos
+        import inspect
+        import traducir as T2
+        self.assertGreaterEqual(inspect.getsource(T2.main).count("C.guardar(ruta, hecho)"), 3)   # A, control y cierre
+        fuente = inspect.getsource(J.capitulo)
+        self.assertGreaterEqual(fuente.count("C.guardar(ruta, tr)"), 2)        # cada corrección y el cierre
+        self.assertGreaterEqual(fuente.count("C.guardar(rcache, cache)"), 3)   # censo por tramos, re-juicio y cierre
+
 
 class Griego(unittest.TestCase):
     """Notas de unfoldingWord: fuera lo dirigido al traductor, sin romper las listas de lecturas posibles."""

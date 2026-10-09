@@ -142,9 +142,11 @@ def capitulo(libro, c, us, rnd):
         if x and x.get("texto"):
             tr[n["id"]].update(text_es=T.limpiar(x["texto"]), lemas_es=x.get("lemas") or tr[n["id"]].get("lemas_es", []),
                                modelo=modelo, corregido_por_juez=cache[n["id"]]["motivo"])
+            C.guardar(ruta, tr)                         # cada corrección pagada queda guardada aunque la corrida se corte
     if malos:
         for i, (ok, motivo, modelo) in juzgar([par(n) for n in malos]).items():
             cache[i] = {"ok": ok, "motivo": motivo, "modelo": modelo, "huella": C.huella(final(i))}
+        C.guardar(rcache, cache)
     # calibración con el MISMO modelo que hizo el censo (el que dio la mayoría de los veredictos)
     censo = collections.Counter(cache[n["id"]]["modelo"] for n in ns if n["id"] in cache).most_common(1)
     modelo_censo = censo[0][0] if censo else C.CONTROL[0]
